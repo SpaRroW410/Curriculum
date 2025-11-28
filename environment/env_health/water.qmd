@@ -1,0 +1,76 @@
+---
+title: "Water"
+format:
+  html:
+    code-copy: true
+    theme: cosmo
+    toc: true
+    lightbox: auto
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+# 💧 Water and Health – Introduction
+
+This section focuses on **Water and Health**, exploring standards, sources, treatment, pollution, and surveillance.  
+It includes seven modules that cover technical, practical, and policy aspects.
+
+---
+
+## [Water Quality Standards](water/module3_water_quality.qmd)
+- Physical parameters  
+- Microbiological standards  
+- Chemical constituents (30+ parameters)  
+- Organic contaminants, pesticides, radiological concerns  
+- Toxicological formulas: TDI, NOAEL, LOAEL  
+
+---
+
+## [Water Sources](water/module4_water_sources.qmd)
+- Rainwater harvesting  
+- Surface water and groundwater  
+- Wells (sanitary criteria)  
+- Springs and tanks  
+
+---
+
+## Treatment
+- Storage and distribution  
+- Slow Sand Filter (SSF) and Rapid Sand Filter (RSF)  
+- Household filtration methods  
+- Solar purification systems  
+- Disinfection techniques  
+
+---
+
+## Pollution & Diseases
+- Pollution indicators  
+- Waterborne diseases  
+- Health associations (dental fluorosis, cardiovascular effects, cyanosis)  
+- Water pollution laws and regulations  
+
+---
+
+## Surveillance
+- 11-point surveillance activities  
+- Sampling protocols  
+- Bacteriological testing (coliforms, streptococci)  
+- Quality testing methods  
+
+---
+
+## Safe Water in India
+- Government norms and standards  
+- Census 2011 data on water access  
+- Problem Villages (4 criteria + examples)  
+- Chemical contamination challenges  
+
+---
+
+## Quiz
+- 50+ MCQs covering all modules  
+- Randomized questions with instant feedback  
+
+---

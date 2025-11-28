@@ -1,0 +1,51 @@
+---
+title: "Contact Us"
+format:
+  html:
+    toc: false
+    page-layout: full
+---
+
+## 🤝 Get in Touch
+
+We welcome feedback, collaboration ideas, and questions about the workshop or its materials. Whether you're an educator, learner, or curious explorer, feel free to reach out.
+
+### 📬 Contact Person
+
+**Dr. Rudresh Negi**
+Assistant Professor, Community Medicine  
+
+**Dr. Mukul Maheshwari**  
+Assistant Professor, Community Medicine  
+Email: *[ryan00700@gmail.com]*  
+GitHub: [github.com/SpaRroW410](https://github.com/SpaRroW410)
+
+---
+
+### 🧠 Collaboration Interests
+
+- Competency-based medical education
+- Time trend analysis
+- Data visualization and analytics in R
+- Curriculum design using Quarto
+- Financial modeling for health economics
+- Strategic learning tools and gamified pedagogy
+
+---
+
+### 🛠 Technical Support
+
+If you're experiencing issues with the site or workshop materials, please include:
+
+- Your R version and operating system
+- A brief description of the error
+- Screenshot or code snippet (if applicable)
+
+We’ll do our best to respond promptly and help you troubleshoot.
+
+---
+
+### 📢 Stay Updated
+
+To receive updates on new modules, public releases, or upcoming workshops, watch the GitHub repo or connect via email.
+

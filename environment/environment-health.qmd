@@ -1,0 +1,69 @@
+---
+title: "Environment"
+format:
+  html:
+    code-copy: true
+    theme: cosmo
+    toc: true
+    lightbox: auto
+
+sidebar:
+  style: "floating"
+  contents:
+    - section: "Environment"
+      contents:
+        - href: water.qmd
+          text: "Water"
+         
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+# Environmental Health 
+
+This section introduces the **principles of Environmental Health**,
+focusing on how natural and built environments influence human
+well-being.\
+
+## Goals of the Section
+
+-   Understand the scope and importance of **Environmental Health**
+
+-   Learn how environmental factors such as **water, air, light, and
+    radiation** impact communities
+
+-   Explore preventive and promotive measures to reduce environmental
+    risks.
+
+## Chapter Listing
+
+
+-   **[One Health](env_health/module1_one_health.qmd)**
+    - Definition and pillars of One Health  
+    - India’s mission and One Health Index  
+    - WASH (Water, Sanitation, Hygiene) integration  
+    - Surveillance systems  
+    - Antimicrobial Resistance (AMR) and its global relevance  
+
+
+-   **[Environment & Health](env_health/module2_environment_health.qmd)**
+    - Components of the environment (air, water, soil, light, radiation)  
+    - Sanitation and its role in health  
+    - Pollution sources and pathways of exposure 
+
+-   **[Chapter 1: Water and Health](env_health/water.qmd)**\
+    Safe water supply, sanitation, waterborne diseases, and control
+    measures
+
+-   **Chapter 2: Air and Health**\
+    Air quality, indoor and outdoor pollution, respiratory impacts, and
+    preventive strategies
+
+-   **Chapter 3: Light and Health**\
+    Importance of natural and artificial lighting, vision health, and
+    ergonomic considerations
+
+-   **Chapter 4: Radiation and Health**\
+    Types of radiation, sources, health effects, and protective measure

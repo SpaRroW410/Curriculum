@@ -1,0 +1,799 @@
+---
+title: "Module 3: Water Quality Standards & Criteria"
+subtitle: "WHO Guidelines and Health-Risk Assessment"
+format:
+  revealjs:
+    theme: serif
+    css: custom.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    code-fold: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module2_environment_health.html) | [Home](#home) | Module 3/8 | [Next →](module4_water_sources.html)"
+---
+
+## Welcome to Module 3 {#home}
+
+### Water Quality Standards & Criteria
+
+**Learning Objectives:**
+
+- Describe WHO Guidelines for Drinking Water Quality (2011, updated 2017)
+- Understand acceptability, microbiological, chemical, and radiological aspects
+- Analyze inorganic and organic chemical constituents with guideline values
+- Apply health-risk assessment methods (TDI, NOAEL, LOAEL, Uncertainty Factors)
+- Evaluate pesticide and polynuclear aromatic hydrocarbon (PAH) standards
+- Calculate guideline values using TDI approach
+- Interpret radiological activity limits for safe water
+
+::: {.notes}
+This module contains the most comprehensive and technically detailed content. We'll cover all four aspects of WHO water quality guidelines, including many topics absent from earlier presentations.
+:::
+
+---
+
+## Review: Environment & Health MCQs {.smaller}
+
+### Question 1 {.quiz-question}
+
+The 1972 UN Conference focused worldwide attention on:
+
+- Waterborne disease epidemics
+- [Environmental hazards threatening human beings]{.correct}
+- Nuclear radiation risks
+- Industrial accidents
+
+::: {.notes}
+**Explanation:** The 1972 UN Conference on the Human Environment (Stockholm) brought global attention to environmental hazards affecting human health, leading to increased focus on pollution control, conservation, and sustainable development.
+:::
+
+---
+
+### Question 2 {.quiz-question}
+
+Which professional is NOT typically involved in modern environmental health programs?
+
+- Epidemiologist
+- Public health engineer
+- Town planner
+- [Veterinary surgeon]{.correct}
+
+::: {.notes}
+**Explanation:** While veterinarians are critical for One Health (Module 1), traditional environmental health teams include public health physicians, epidemiologists, engineers, town planners, sociologists, economists, and health inspectors. However, modern One Health approaches ARE integrating veterinarians into environmental health programs.
+:::
+
+---
+
+### Question 3 {.quiz-question}
+
+Water quantity is as important as water quality because:
+
+- Large volume dilutes contaminants
+- [Adequate water enables hygiene practices like hand washing]{.correct}
+- People drink more water when it's available
+- Storage tanks require significant volumes
+
+::: {.notes}
+**Explanation:** Without abundant water near the home, hygiene becomes impossible. Hand washing after defecation, bathing, and cleaning require sufficient water quantity. A family conserves water if the source is far, compromising hygiene even if the water is microbiologically safe.
+:::
+
+---
+
+## WHO Guidelines for Drinking Water Quality
+
+### Overview and Evolution
+
+**Purpose:**
+
+Define standards for countries to develop national regulations ensuring safe drinking water supplies.
+
+**Publication History:**
+
+- **1984**: First edition published
+- **1993**: Vol. 1 of 2nd edition
+- **1996**: Vol. 2 of 2nd edition
+- **2011**: Vol. 1 & II of 3rd edition ⭐ (current standard)
+- **2017**: Updated addendum
+
+**Key Principle:**
+
+Standards must consider local environmental, social, economic, and cultural contexts—not one-size-fits-all.
+
+**Four Aspects of Water Quality:**
+
+1. Acceptability aspects (Physical + Inorganic)
+2. Microbiological aspects
+3. Chemical aspects (Inorganic + Organic + Pesticides)
+4. Radiological aspects
+
+::: {.notes}
+The WHO guidelines are recommendations, not mandatory regulations. Each country adapts them based on local conditions, resources, and priorities. India's standards (IS 10500) largely align with WHO but have some variations based on endemic conditions (e.g., fluoride).
+:::
+
+---
+
+## I. Acceptability Aspects
+
+### A. Physical Parameters
+
+**Definition:** Characteristics affecting water's aesthetic quality and acceptability to consumers.
+
+**Key Parameters:**
+
+| Parameter | Acceptable Limit | Health/Aesthetic Impact |
+|-----------|-----------------|------------------------|
+| **Turbidity** | <5 NTU (Nephelometric Turbidity Units) | >5 NTU visible cloudiness, shields pathogens from disinfection |
+| **Colour** | <15 TCU (True Colour Units) | Indicates organic matter, iron, or manganese contamination |
+| **Taste and Odour** | No objectionable taste/odour | May indicate organic decay, hydrogen sulfide, or chlorination by-products |
+| **Temperature** | <25°C | High temp reduces dissolved oxygen, increases microbial growth |
+
+**Significance:**
+
+Even if microbiologically safe, water with poor acceptability aspects may cause consumers to seek unsafe alternative sources.
+
+::: {.notes}
+Turbidity is critical—particles shield bacteria from chlorine disinfection. Studies show that reducing turbidity from 5 NTU to 1 NTU can increase disinfection efficacy by 90%. Consumers often prefer clear water even if unsafe, rejecting turbid water even if treated.
+:::
+
+---
+
+### B. Inorganic Constituents (Acceptability)
+
+**Affect taste, odor, and appliance function but not directly toxic at typical levels:**
+
+| Constituent | Limit (mg/L) | Effect |
+|-------------|-------------|--------|
+| **Chlorides** | <250 | Salty taste, corrosion |
+| **Hardness (CaCO₃)** | <200 (soft), >500 (very hard) | Scaling in pipes/appliances, soap inefficiency |
+| **Ammonia** | <1.5 | Indicator of recent organic pollution |
+| **pH** | 6.5 - 8.5 | <6.5 corrosive; >8.5 bitter taste, scaling |
+| **Hydrogen sulphide** | <0.05 | Rotten egg odor |
+| **Iron** | <0.3 | Stains laundry, metallic taste |
+| **Sodium** | <200 | Salty taste |
+| **Sulphate** | <250 | Laxative effect at high levels |
+| **Total Dissolved Solids (TDS)** | <500 (acceptable), <1000 (permissible) | Affects taste |
+| **Zinc** | <3 | Metallic taste |
+| **Manganese** | <0.1 | Brown stains |
+| **Dissolved Oxygen** | >5 | Indicates water freshness |
+| **Copper** | <2 | Metallic taste, blue-green stains |
+| **Aluminium** | <0.2 | Alzheimer's risk debated |
+
+::: {.notes}
+TDS (Total Dissolved Solids) is often mistaken as a health parameter. While very high TDS affects taste, moderate TDS is not harmful and may provide essential minerals. Reverse osmosis systems removing all TDS may produce water lacking beneficial minerals.
+:::
+
+---
+
+## II. Microbiological Aspects
+
+### Bacteriological Indicators
+
+**Why Indicators?**
+
+Testing for all pathogens is impractical. Indicators signal fecal contamination and potential presence of pathogens.
+
+**Primary Indicator: Coliform Organisms**
+
+- **Total Coliforms**: Gram-negative, lactose-fermenting bacteria (includes *E. coli*, *Klebsiella*, *Enterobacter*)
+- **Fecal Coliforms (Thermotolerant)**: Ferment lactose at 44°C; *E. coli* is the primary member
+- **Escherichia coli**: Definitive indicator of recent fecal contamination
+
+**Guideline:**
+- **Drinking water**: 0 *E. coli* or fecal coliforms per 100 mL
+- **Treated water entering distribution**: 0 coliforms per 100 mL
+- **Treated water in distribution**: <3 coliforms per 100 mL (if chlorine residual present)
+
+**Other Indicators:**
+
+- **Faecal Streptococci** (*Enterococcus*): More persistent than coliforms, indicates older contamination
+- **Clostridium perfringens**: Spore-forming; indicates remote or intermittent contamination
+
+::: {.notes}
+*E. coli* is the gold standard fecal indicator because: (1) exclusively of fecal origin, (2) doesn't multiply in water, (3) easy to detect, (4) outnumbers pathogens 1000:1. However, it doesn't indicate protozoa or viruses, which are more chlorine-resistant.
+:::
+
+---
+
+### Virological and Biological Aspects
+
+**Virological Aspects:**
+
+Waterborne viruses are major concern:
+- **Enteroviruses**: Poliovirus, Coxsackievirus, Echovirus
+- **Hepatitis A and E viruses**: Fecal-oral transmission
+- **Rotavirus**: Leading cause of infant diarrhea
+- **Norovirus**: Gastroenteritis outbreaks
+- **Adenovirus**: Respiratory and gastro symptoms
+
+**Challenge:** Viruses are smaller than bacteria, more resistant to chlorine, and present in lower numbers—difficult to detect directly.
+
+**Approach:** If *E. coli* is absent and water is adequately disinfected, viral risk is considered low.
+
+**Biological Aspects:**
+
+- **Protozoan cysts**: *Giardia* (cysts), *Cryptosporidium* (oocysts)—highly resistant to chlorine
+- **Helminth ova**: Roundworm, hookworm eggs—removed by filtration
+
+**Guideline:** <1 *Giardia* cyst or *Cryptosporidium* oocyst per 10L in treated water
+
+::: {.notes}
+The 1993 Milwaukee Cryptosporidium outbreak (400,000 ill, 100 deaths) occurred despite meeting bacterial standards. Cryptosporidium oocysts are 10-100× more resistant to chlorine than bacteria. This led to increased focus on protozoa monitoring and use of UV disinfection or filtration.
+:::
+
+---
+
+## III. Chemical Aspects - Inorganic Constituents
+
+### Health-Significant Inorganic Chemicals
+
+**Heavy Metals and Toxic Elements:**
+
+| Constituent | Guideline (mg/L) | Guideline (µg/L) | Health Effect |
+|-------------|-----------------|-----------------|---------------|
+| **Antimony (Sb)** | 0.02 (P) | 20 | Gastrointestinal disorders |
+| **Arsenic (As)** | 0.01 (P) | 10 | **Cancer (skin, lung, bladder), cardiovascular disease** |
+| **Barium (Ba)** | 0.7 | 700 | Hypertension, cardiovascular effects |
+| **Boron (B)** | 2.4 | 2400 | Developmental/reproductive toxicity |
+| **Cadmium (Cd)** | 0.003 | 3 | **Kidney damage, bone disease (itai-itai)** |
+| **Chromium (Cr)** | 0.05 (P) | 50 | Allergic dermatitis, possibly carcinogenic |
+| **Copper (Cu)** | 2 | 2000 | Gastrointestinal distress, liver damage (Wilson's disease) |
+| **Fluoride (F)** | 1.5 | 1500 | **Dental/skeletal fluorosis** >1.5; caries protection ~1.0 |
+| **Lead (Pb)** | 0.01 | 10 | **Neurotoxicity (children), developmental delays** |
+| **Manganese (Mn)** | 0.4 (P) | 400 | Neurotoxicity (Parkinson-like symptoms) |
+| **Mercury (Hg)** | 0.006 | 6 | **Neurotoxicity, kidney damage** |
+| **Molybdenum (Mo)** | 0.07 | 70 | Gout-like symptoms |
+| **Nickel (Ni)** | 0.07 | 70 | Allergic reactions, possible carcinogen |
+| **Nitrate (NO₃⁻)** | 50 | 50,000 | **Methemoglobinemia (blue baby syndrome) in infants** |
+| **Nitrite (NO₂⁻)** | 3 (P) | 3000 | More toxic than nitrate; same effect |
+| **Selenium (Se)** | 0.04 | 40 | Selenosis (hair/nail loss), neurological effects |
+
+**(P) = Provisional guideline (higher uncertainty)**
+
+::: {.notes}
+Arsenic is the #1 chemical contaminant of concern globally. Chronic exposure causes arsenicosis with skin lesions, hyperpigmentation, and cancers. Bangladesh and West Bengal face severe arsenic contamination. India's permissible limit is 0.01 mg/L (WHO), but 0.05 mg/L in areas without alternatives (IS 10500).
+:::
+
+---
+
+
+## Organic Constituents of Health Concern
+
+### Chlorinated Alkanes and Ethenes
+
+**Volatile Organic Compounds (VOCs) in Water:**
+
+| Organic Compound | Guideline Value (µg/L) | Source | Health Effect |
+|------------------|----------------------|--------|---------------|
+| **Chlorinated Alkanes** |  |  |  |
+| Carbon tetrachloride | 2 | Industrial solvent, refrigerant | **Liver cancer, kidney damage** |
+| Dichloromethane | 20 | Paint stripper, degreaser | **Carcinogenic (animal studies)** |
+| **Chlorinated Ethenes** |  |  |  |
+| Vinyl chloride | 0.5 | PVC manufacturing, landfill leachate | **Liver angiosarcoma (rare cancer)** |
+| 1,1-Dichloroethane | 30 | Industrial solvent | Liver, kidney toxicity |
+| 1,2-Dichloroethene | 50 | Chemical intermediate | Central nervous system depression |
+| **Aromatic Hydrocarbons** |  |  |  |
+| Benzene | 10 | Gasoline, industrial emissions | **Leukemia, bone marrow depression** |
+| Toluene | 700 | Gasoline, paints, adhesives | Neurological effects, developmental toxicity |
+| Xylenes | 500 | Industrial solvent, gasoline | Neurological, liver, kidney effects |
+| Ethylbenzene | 300 | Gasoline, paints | Liver, kidney toxicity, possible carcinogen |
+| Styrene | 20 | Plastics manufacturing | Neurological effects, possible carcinogen |
+| Benzo[a]pyrene (PAH) | 0.7 | Incomplete combustion, coal tar | **Potent carcinogen** |
+
+**Key Concerns:**
+
+- Persistent in environment
+- Lipophilic (accumulate in fatty tissues)
+- Many are carcinogenic or mutagenic
+- Enter water via industrial discharge, landfill leachate, gasoline spills
+
+::: {.notes}
+Vinyl chloride (0.5 µg/L limit) is one of the strictest guidelines because it causes liver angiosarcoma even at very low doses. Benzene (10 µg/L) is a known human carcinogen causing leukemia. These compounds rarely occur naturally—their presence always indicates industrial contamination.
+:::
+
+---
+
+## Pesticides in Drinking Water
+
+### Guideline Values for Agricultural Contaminants
+
+**Common Pesticide Residues:**
+
+| Pesticide | Guideline (µg/L) | Type | Health Effect |
+|-----------|-----------------|------|---------------|
+| **Aldrin/Dieldrin** | 0.03 | Organochlorine insecticide (banned) | **Carcinogenic, endocrine disruptor** |
+| **Chlordane** | 0.2 | Organochlorine insecticide (banned) | Liver damage, carcinogenic |
+| **DDT** | 2 | Organochlorine insecticide (banned in many countries) | **Endocrine disruptor, carcinogenic** |
+| **2,4-D** | 30 | Herbicide (broadleaf weed killer) | Kidney, liver effects |
+| **Heptachlor + heptachlor epoxide** | 0.03 | Organochlorine insecticide | **Carcinogenic, neurotoxic** |
+| **Hexachlorobenzene** | 1 | Fungicide (banned) | Liver damage, porphyria cutanea tarda |
+| **Lindane (γ-HCH)** | 2 | Organochlorine insecticide | Neurological effects, carcinogenic |
+| **Methoxychlor** | 20 | Organochlorine insecticide | Endocrine disruptor |
+| **Pentachlorophenol** | 9 | Wood preservative | Carcinogenic, immunotoxic |
+
+**Organophosphates (not listed but important):**
+
+- Chlorpyrifos, Malathion, Parathion
+- Acetylcholinesterase inhibitors (neurotoxic)
+- Generally less persistent than organochlorines
+
+::: {.notes}
+Most organochlorine pesticides (DDT, Aldrin, Dieldrin, Chlordane) are banned or restricted due to persistence, bioaccumulation, and toxicity. However, they remain in soil and water decades after application. India banned DDT for agriculture (1989) but allowed it for malaria control until 2020. Monitoring is critical as old stocks may still contaminate water.
+:::
+
+---
+
+## Polynuclear Aromatic Hydrocarbons (PAHs)
+
+### Coal-Tar Contamination and Cancer Risk
+
+**What are PAHs?**
+
+Polycyclic aromatic hydrocarbons formed during incomplete combustion of organic materials:
+- Coal, oil, wood, garbage burning
+- Vehicle exhaust
+- Industrial processes
+- Cigarette smoke
+
+**Major PAHs in Water:**
+
+- **Benzo[a]pyrene** (BaP): Most potent carcinogen, guideline = 0.7 µg/L
+- Benzo[b]fluoranthene, Benzo[k]fluoranthene
+- Indeno[1,2,3-cd]pyrene
+- Dibenz[a,h]anthracene
+
+**WHO Recommendations for PAH Control:**
+
+1. **Turbidity Reduction**: PAHs adsorb to suspended particles. Reducing turbidity removes PAHs.
+
+2. **Ban Coal-Tar Materials**: Discontinue use of coal-tar-based materials for pipe lining and storage tank coatings—major contamination source.
+
+3. **Source Identification**: When PAH contamination detected, identify specific compounds and sources, as carcinogenic potential varies.
+
+::: {.notes}
+The 1970s-80s saw widespread PAH contamination from coal-tar pipe linings in U.S. and Europe. Decades later, elevated cancer rates appeared. WHO recommends removing old coal-tar pipes. In India, some old municipal systems still have coal-tar linings, requiring monitoring.
+:::
+
+---
+
+## Health-Risk Assessment Framework
+
+### Understanding TDI, ADI, NOAEL, LOAEL
+
+**Why Risk Assessment?**
+
+Cannot test every chemical on humans ethically. Must extrapolate from animal studies to establish safe limits.
+
+**Key Concepts:**
+
+**1. Tolerable Daily Intake (TDI)**
+
+- Maximum amount of a substance a person can consume daily over a lifetime without appreciable health risk
+- Expressed as mg/kg body weight/day
+
+**2. Acceptable Daily Intake (ADI)**
+
+- Similar to TDI but used for food additives and pesticides (intentional additions)
+- TDI used for contaminants (unintentional)
+
+**3. No-Observed-Adverse-Effect Level (NOAEL)**
+
+- Highest dose in animal studies where NO adverse effects detected
+- Basis for deriving TDI
+
+**4. Lowest-Observed-Adverse-Effect Level (LOAEL)**
+
+- Lowest dose in animal studies where adverse effects ARE detected
+- Used when NOAEL data unavailable (with additional uncertainty factor)
+
+::: {.notes}
+Example: Arsenic NOAEL study on rats might find 0.3 mg/kg bw/day causes no tumors. But humans may be more sensitive, so we apply uncertainty factors (typically 100-1000) to derive a safe TDI. This conservative approach protects public health given scientific uncertainties.
+:::
+
+---
+
+## Uncertainty Factors (UF)
+
+### Accounting for Variability and Unknowns
+
+**Purpose:**
+
+Account for uncertainties when extrapolating from animal studies to human populations.
+
+**Four Sources of Uncertainty:**
+
+| Source | Uncertainty Factor Range | Rationale |
+|--------|------------------------|-----------|
+| **Interspecies variation** | 1 - 10 | Animals may respond differently than humans |
+| **Intraspecies variation** | 1 - 10 | Humans vary (children, elderly, sick more sensitive) |
+| **Adequacy of studies** | 1 - 10 | Short-term study → lifetime exposure extrapolation |
+| **Nature/severity of effect** | 1 - 10 | Severe effects (cancer) require more caution |
+
+**Total UF Calculation:**
+
+UF (total) = UF₁ × UF₂ × UF₃ × UF₄
+
+**Typical Values:**
+
+- **100**: Standard for well-studied chemicals (10 × 10: interspecies × intraspecies)
+- **1000**: Additional factor when using LOAEL instead of NOAEL
+- **10,000**: Maximum; higher values make TDI too imprecise (guideline becomes "provisional")
+
+::: {.notes}
+Example: Arsenic uses UF=100 (10 interspecies × 10 intraspecies) because we have good human epidemiological data. Lead uses higher UF because children are especially vulnerable (neurodevelopment). The WHO expert panel determines UF by consensus, reviewing all available evidence.
+:::
+
+---
+
+## Deriving Guideline Values Using TDI
+
+### Step-by-Step Calculation
+
+**Formula 1: Calculate TDI**
+
+```
+TDI (mg/kg bw/day) = NOAEL (or LOAEL) / UF
+```
+
+**Formula 2: Calculate Guideline Value (GV)**
+
+```
+GV (mg/L) = (TDI × bw × P) / C
+```
+
+**Where:**
+
+- **bw** = Body weight (60 kg adult, 10 kg child, 5 kg infant)
+- **P** = Fraction of TDI allocated to drinking water (typically 0.1 or 10%)
+- **C** = Daily drinking water consumption (2 L adult, 1 L child, 0.75 L infant)
+
+**Why P = 0.1?**
+
+Most chemicals come from multiple sources (food, air, soil). Water typically contributes 10-20% of total exposure. For chemicals exclusively in water (e.g., disinfection by-products), P may be higher (0.8).
+
+::: {.notes}
+The allocation factor P is critical. For lead, P=0.5 (50%) because drinking water is a major source for infants. For pesticides, P=0.1 (10%) because food is the primary source. When deriving guideline values, we must consider all exposure routes, not just water.
+:::
+
+---
+
+## Worked Example: Arsenic Guideline Value
+
+### Applying the TDI Approach
+
+**Given Data:**
+
+- NOAEL (from animal studies) = 0.3 mg/kg bw/day
+- Uncertainty Factor (UF) = 100 (10 interspecies × 10 intraspecies)
+- Allocation to water (P) = 0.1 (10%)
+- Body weight (bw) = 60 kg (adult)
+- Water consumption (C) = 2 L/day
+
+**Step 1: Calculate TDI**
+
+```r
+TDI <- NOAEL / UF
+TDI <- 0.3 / 100
+TDI <- 0.003 mg/kg bw/day
+```
+
+**Step 2: Calculate Guideline Value**
+
+```r
+GV <- (TDI * bw * P) / C
+GV <- (0.003 * 60 * 0.1) / 2
+GV <- 0.018 / 2
+GV <- 0.009 mg/L = 9 µg/L
+```
+
+**WHO Guideline:** 0.01 mg/L (10 µg/L) — rounded for practical monitoring
+
+::: {.notes}
+WHO's arsenic guideline (10 µg/L) is based on epidemiological studies in Bangladesh, Taiwan, and Chile showing skin lesions and cancers. The calculation here is simplified; actual derivation considered multiple studies, exposure routes, and cancer risk models. Some countries (Bangladesh) use 50 µg/L as an interim target due to widespread natural contamination.
+:::
+
+---
+
+## IV. Radiological Aspects
+
+### Radioactivity in Drinking Water
+
+**What is Radioactivity?**
+
+Nuclear disintegration of unstable isotopes, releasing ionizing radiation (alpha, beta, gamma particles).
+
+**Unit of Activity:**
+
+- **Becquerel (Bq)**: 1 disintegration per second (modern unit)
+- **Curie (Ci)**: 3.7 × 10¹⁰ disintegrations per second (old unit)
+- 1 Ci = 37 GBq
+
+**WHO Guideline Values:**
+
+| Indicator | Guideline Value | Rationale |
+|-----------|----------------|-----------|
+| **Gross Alpha Activity** | 0.5 Bq/L | Screening for α-emitters (radon, radium, uranium) |
+| **Gross Beta Activity** | 1.0 Bq/L | Screening for β-emitters (cesium-137, strontium-90, tritium) |
+
+**If screening levels exceeded:** Identify specific radionuclides and assess individual dose contribution.
+
+::: {.notes}
+Radiological contamination comes from natural (uranium, radium in rocks) or anthropogenic (nuclear facilities, medical waste) sources. Alpha emitters are more biologically damaging than beta/gamma due to high energy in short range. Radon (gas) from uranium decay in groundwater is a common concern in granite regions.
+:::
+
+---
+
+## Radiological Health Effects
+
+### Somatic vs. Hereditary, Stochastic vs. Non-Stochastic
+
+**Types of Effects:**
+
+**1. Somatic Effects** (manifest in exposed individual)
+- **Acute**: Radiation sickness, burns (high dose, short time)
+- **Delayed**: Cancer, cataracts, cardiovascular disease
+
+**2. Hereditary Effects** (affect descendants)
+- Genetic mutations passed to offspring
+- Risk increases with gonadal dose
+
+**Dose-Response Relationships:**
+
+**Stochastic Effects:**
+- **Probability** increases with dose (no threshold)
+- Severity constant
+- Example: Cancer risk (0.05% per mSv for solid cancers)
+
+**Non-Stochastic (Deterministic) Effects:**
+- **Severity** increases with dose (threshold exists)
+- Example: Cataracts (threshold ~2 Gy), skin burns
+
+**Radiation Protection Principle:**
+
+Keep exposures **As Low As Reasonably Achievable (ALARA)**, even below guideline limits.
+
+::: {.notes}
+There's no "safe" dose for stochastic effects (cancer)—risk exists at any exposure. Guideline values represent acceptable risk (typically <10⁻⁴ additional lifetime cancer risk). Non-stochastic effects have thresholds; below threshold, no effect occurs. Water guidelines aim to prevent deterministic effects and minimize stochastic risk.
+:::
+
+---
+
+## WHO Guideline Value Derivation Summary
+
+### Comprehensive Table
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+
+library(DT)
+
+guidelines <- data.frame(
+  Parameter = c("Arsenic", "Lead", "Fluoride", "Nitrate", "Benzene", 
+                "Benzo[a]pyrene", "Gross Alpha", "Gross Beta"),
+  Category = c("Inorganic", "Inorganic", "Inorganic", "Inorganic", 
+               "Organic", "PAH", "Radiological", "Radiological"),
+  Guideline = c("0.01 mg/L", "0.01 mg/L", "1.5 mg/L", "50 mg/L", 
+                "10 µg/L", "0.7 µg/L", "0.5 Bq/L", "1.0 Bq/L"),
+  Primary_Health_Effect = c("Cancer (skin, lung, bladder)", 
+                            "Neurodevelopmental delays", 
+                            "Dental/skeletal fluorosis", 
+                            "Methemoglobinemia (infants)", 
+                            "Leukemia", 
+                            "Cancer", 
+                            "Radiation-induced cancer", 
+                            "Radiation-induced cancer"),
+  Source = rep("WHO 2011", 8)
+)
+
+datatable(guidelines, 
+          options = list(pageLength = 8, dom = 't'),
+          class = 'compact',
+          caption = "Selected WHO Guidelines for Drinking Water Quality")
+```
+
+*Full list includes 100+ parameters. This table shows high-priority contaminants.*
+
+---
+
+## Interactive Visualization: Chemical Guideline Values
+
+### Comparative Analysis
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-width: 10
+#| fig-height: 6
+
+library(plotly)
+
+chemicals_data <- data.frame(
+  Chemical = c("Arsenic", "Lead", "Mercury", "Cadmium", "Chromium", 
+               "Fluoride", "Nitrate", "Selenium", "Antimony", "Nickel"),
+  Limit_mg_L = c(0.01, 0.01, 0.006, 0.003, 0.05, 
+                 1.5, 50, 0.04, 0.02, 0.07),
+  Toxicity = c("Very High", "Very High", "Very High", "Very High", "Moderate",
+               "Moderate", "Moderate", "High", "Moderate", "Moderate"),
+  log_Limit = log10(c(0.01, 0.01, 0.006, 0.003, 0.05, 
+                      1.5, 50, 0.04, 0.02, 0.07))
+)
+
+# Color palette
+colors <- c("Very High" = "#dc3545", "High" = "#fd7e14", "Moderate" = "#ffc107")
+
+plot_ly(chemicals_data, 
+        x = ~Chemical, 
+        y = ~Limit_mg_L, 
+        type = 'bar',
+        color = ~Toxicity,
+        colors = colors,
+        text = ~paste(Chemical, "<br>Limit:", Limit_mg_L, "mg/L<br>Toxicity:", Toxicity),
+        hoverinfo = 'text') %>%
+  layout(title = list(text = "WHO Chemical Guideline Values for Drinking Water",
+                      font = list(size = 16)),
+         yaxis = list(title = "Guideline Value (mg/L)", 
+                     type = "log",
+                     tickformat = ".3f"),
+         xaxis = list(title = ""),
+         margin = list(b = 100),
+         showlegend = TRUE,
+         legend = list(title = list(text = "Toxicity Level")))
+```
+
+*Source: WHO Guidelines for Drinking Water Quality (2011, updated 2017)*
+
+::: {.notes}
+This interactive Plotly chart shows guideline values on a logarithmic scale due to vast differences (0.003 mg/L cadmium vs. 50 mg/L nitrate). Very high toxicity chemicals (heavy metals) have strictest limits. Hover over bars for details. This is the ONE Plotly chart included per your specifications.
+:::
+
+---
+
+## Module 3 Assessment: MCQs (Current Module) {.smaller}
+
+### Question 1 {.quiz-question}
+
+The WHO guideline value for arsenic in drinking water is:
+
+- 0.05 mg/L
+- [0.01 mg/L]{.correct}
+- 0.001 mg/L
+- 0.1 mg/L
+
+::: {.notes}
+**Explanation:** WHO guideline for arsenic is 0.01 mg/L (10 µg/L). This is based on cancer risk assessment from epidemiological studies. India also adopted 0.01 mg/L, though some arsenic-affected areas use 0.05 mg/L as interim target.
+:::
+
+---
+
+### Question 2 {.quiz-question}
+
+Which of the following is a water quality indicator used to detect REMOTE or intermittent fecal contamination?
+
+- E. coli
+- Total coliforms
+- [Clostridium perfringens]{.correct}
+- Fecal streptococci
+
+::: {.notes}
+**Explanation:** *Clostridium perfringens* forms spores that survive harsh conditions and persist longer than vegetative bacteria. Its presence indicates remote or intermittent contamination. *E. coli* indicates recent contamination; it doesn't survive long in water.
+:::
+
+---
+
+### Question 3 {.quiz-question}
+
+The formula for calculating Tolerable Daily Intake (TDI) is:
+
+- TDI = NOAEL × UF
+- [TDI = NOAEL / UF]{.correct}
+- TDI = (NOAEL / UF) × body weight
+- TDI = NOAEL - UF
+
+::: {.notes}
+**Explanation:** TDI = NOAEL / UF (or LOAEL / UF if NOAEL unavailable). We divide by uncertainty factor to account for inter/intraspecies variation and study limitations. Example: NOAEL 0.3 mg/kg/day, UF 100 → TDI = 0.003 mg/kg/day.
+:::
+
+---
+
+### Question 4 {.quiz-question}
+
+Gross alpha activity in drinking water should not exceed:
+
+- 0.1 Bq/L
+- [0.5 Bq/L]{.correct}
+- 1.0 Bq/L
+- 5.0 Bq/L
+
+::: {.notes}
+**Explanation:** WHO guideline: Gross alpha activity <0.5 Bq/L, Gross beta activity <1.0 Bq/L. These are screening levels; if exceeded, identify specific radionuclides (radon, radium, uranium, cesium-137, strontium-90) and assess individual doses.
+:::
+
+---
+
+### Question 5 (Application-Based) {.quiz-question}
+
+A contaminant has NOAEL = 0.5 mg/kg bw/day, UF = 100, P = 0.1, bw = 60 kg, C = 2 L/day. Calculate the guideline value:
+
+- 0.05 mg/L
+- 0.025 mg/L
+- [0.015 mg/L]{.correct}
+- 0.005 mg/L
+
+::: {.notes}
+**Explanation:** 
+TDI = 0.5/100 = 0.005 mg/kg/day
+GV = (0.005 × 60 × 0.1) / 2 = 0.03 / 2 = 0.015 mg/L = 15 µg/L
+This demonstrates application of the TDI derivation formula.
+:::
+
+---
+
+## Long Answer Questions (10 marks each)
+
+1. **Describe the WHO Guidelines for Drinking Water Quality (2011), including the four aspects of water quality.** For each aspect, list key parameters and their health significance. Explain why context-specific adaptation is necessary.
+
+2. **Explain the health-risk assessment framework used to derive drinking water guideline values.** Define TDI, NOAEL, LOAEL, and Uncertainty Factors. Illustrate with a worked example calculating a guideline value from NOAEL.
+
+3. **Discuss organic constituents of health concern in drinking water, including chlorinated alkanes, aromatic hydrocarbons, and polynuclear aromatic hydrocarbons (PAHs).** Explain sources, health effects, and WHO recommendations for PAH control.
+
+4. **Compare microbiological indicators of water quality: E. coli, fecal streptococci, and Clostridium perfringens.** Explain their relative significance, persistence in water, and what each indicator reveals about contamination timing. Why is *E. coli* the gold standard?
+
+5. **Explain radiological aspects of drinking water quality.** Define gross alpha and beta activity, discuss sources of radioactive contamination, differentiate between somatic and hereditary effects, and explain stochastic vs. non-stochastic effects.
+
+---
+
+## Short Answer Questions (5 marks each)
+
+1. List the four aspects of WHO Guidelines for Drinking Water Quality (2011).
+
+2. What is the significance of turbidity in water quality? How does it affect disinfection efficacy?
+
+3. Differentiate between Tolerable Daily Intake (TDI) and Acceptable Daily Intake (ADI).
+
+4. Name three heavy metals with guideline values ≤0.01 mg/L and their primary health effects.
+
+5. What are Uncertainty Factors (UF) in health-risk assessment? List the four sources of uncertainty.
+
+6. Why is benzo[a]pyrene given such a low guideline value (0.7 µg/L)?
+
+7. Define gross alpha and gross beta activity. What are their guideline values?
+
+8. What is the guideline value for nitrate in drinking water and why is it particularly important for infants?
+
+---
+
+## References
+
+1. WHO (2011). *Guidelines for Drinking Water Quality* (4th ed.). Vol. 1 & 2. World Health Organization.
+
+2. WHO (2017). *Guidelines for Drinking Water Quality: Fourth Edition Incorporating the First Addendum*.
+
+3. CPCB (2019). *WHO Guidelines for Drinking Water Quality*. Central Pollution Control Board, India.
+
+4. Park's Textbook of Preventive and Social Medicine (25th ed.). *Water Quality Standards* chapter.
+
+5. USEPA (2018). *Drinking Water Contaminants - Standards and Regulations*. U.S. Environmental Protection Agency.
+
+6. Indian Standard IS 10500:2012. *Drinking Water Specification* (Second Revision). Bureau of Indian Standards.
+
+---
+
+## Thank You!
+
+### Module 3 Complete
+
+**Next Module:** Water Sources & Characteristics
+
+[← Previous](module2_environment_health.html) | [Home](#home) | Module 3/8 | [Next →](module4_water_sources.html)
+
+**Questions or feedback?** Contact your instructor.
+
+::: {.notes}
+Congratulations on completing the most technically comprehensive module! You now understand WHO water quality standards, health-risk assessment methods, and can interpret guideline values. Module 4 will apply this knowledge to evaluate different water sources.
+:::

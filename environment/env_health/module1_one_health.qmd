@@ -1,0 +1,572 @@
+---
+title: "Module 1: One Health Framework"
+subtitle: "An Integrated Approach to Water, Environment & Health"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    code-fold: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[Home](#home) | Module 1/8 | [Next Module →](module2_environment_health.html)"
+---
+
+## Welcome to Module 1 {#home}
+
+### One Health Framework
+
+**Learning Objectives:**
+
+- Define One Health and understand its three interconnected pillars
+- Explain the relevance of One Health to water contamination and public health
+- Describe India's National One Health Mission and its strategic goals
+- Analyze the One Health Index for India and state-level performance
+- Integrate WASH (Water, Sanitation, Hygiene) principles within One Health
+- Apply One Health principles to surveillance and disease prevention
+
+::: {.notes}
+This module introduces the foundational One Health concept, critical for understanding environmental health challenges, particularly water-related issues. The integration of human, animal, and environmental health is essential for addressing complex public health problems.
+:::
+
+---
+
+## What is One Health?
+
+:::: {.columns}
+::: {.column width="50%"}
+**Definition:**
+
+One Health is a collaborative, multisectoral, and transdisciplinary approach working at local, regional, national, and global levels with the goal of achieving optimal health outcomes.
+
+**Core Recognition:**
+
+The health of people is closely connected to the health of animals and our shared environment.
+:::
+
+::: {.column width="50%"}
+![One Health Triad showing interconnection between Human Health, Animal Health, and Environmental Health](https://www.usgs.gov/media/images/one-health-conceptual-diagram)
+
+*Source: U.S. Geological Survey, 2024*
+:::
+::::
+
+::: {.notes}
+U.S. Government Definition established in 2017. The approach recognizes that approximately 60% of emerging infectious diseases in humans are zoonotic, originating from animals. Environmental factors like water quality directly impact both human and animal health.
+:::
+
+---
+
+## The One Health Triad
+
+### Three Interconnected Pillars
+
+**1. Human Health**
+- Disease surveillance and control
+- Public health infrastructure
+- Healthcare systems
+- Epidemiological monitoring
+
+**2. Animal Health**
+- Veterinary services
+- Livestock management
+- Wildlife health monitoring
+- Zoonotic disease tracking
+
+**3. Environmental Health**
+- Water quality and sanitation
+- Air pollution control
+- Soil health
+- Ecosystem biodiversity
+
+::: {.notes}
+Each pillar affects and is affected by the others. For example, antimicrobial use in livestock (Animal Health) can contaminate water sources (Environmental Health), leading to antimicrobial resistance affecting humans (Human Health).
+:::
+
+---
+
+## Why One Health Matters for Water
+
+### The Water-Health Nexus
+
+**Water as a Critical Interface:**
+
+- **Pathogen Transmission**: Waterborne zoonotic diseases (leptospirosis, schistosomiasis)
+- **Chemical Contamination**: Agricultural runoff (nitrates, pesticides) from animal farming
+- **Antimicrobial Resistance (AMR)**: Antibiotics from animal waste entering water systems
+- **Environmental Reservoirs**: Water bodies as habitats for disease vectors (mosquitoes, snails)
+
+**One Health Application:**
+
+Water contamination requires integrated solutions addressing human practices (sanitation), animal management (waste disposal), and environmental protection (watershed management).
+
+::: {.notes}
+Example: Nitrate contamination in groundwater results from excessive use of animal manure and chemical fertilizers (agriculture/animal health), contaminates drinking water (environmental health), and causes methemoglobinemia in infants (human health). This exemplifies the One Health interconnection.
+:::
+
+---
+
+## Zoonotic Pathogens in Water
+
+### The Hidden Threat
+
+**Major Waterborne Zoonotic Diseases:**
+
+| Disease | Pathogen | Animal Reservoir | Transmission Route |
+|---------|----------|------------------|-------------------|
+| **Leptospirosis** | *Leptospira* bacteria | Rats, cattle, dogs | Contaminated water, soil |
+| **Cryptosporidiosis** | *Cryptosporidium* | Livestock, wildlife | Fecal-contaminated water |
+| **Giardiasis** | *Giardia* protozoa | Cattle, pets, wildlife | Contaminated water sources |
+| **Avian Influenza** | H5N1, H7N9 viruses | Poultry, wild birds | Water bodies, live markets |
+| **Schistosomiasis** | *Schistosoma* | Aquatic snails | Freshwater contact |
+
+**One Health Surveillance:** Monitoring water sources for both human and animal pathogens provides early warning of disease outbreaks.
+
+::: {.notes}
+Leptospirosis outbreaks in India often follow monsoon flooding when rat urine contaminates floodwaters. One Health approach requires coordinated rodent control, sanitation improvement, and public health awareness.
+:::
+
+---
+
+## Antimicrobial Resistance (AMR) in Water
+
+### A Growing Crisis
+
+**The AMR-Water Connection:**
+
+- **Source**: 75-90% of antibiotics administered to livestock are excreted unchanged
+- **Pathway**: Animal waste → manure → agricultural runoff → surface/groundwater
+- **Impact**: Resistant bacteria and resistance genes contaminate drinking water sources
+
+**Consequences:**
+
+1. **Human Health**: Infections become harder to treat
+2. **Animal Health**: Reduced efficacy of veterinary antibiotics
+3. **Environmental Health**: Disruption of aquatic microbial ecosystems
+
+**One Health Solution:** Integrated approach to regulate antibiotic use in humans, animals, and agriculture while improving wastewater treatment.
+
+::: {.notes}
+India is one of the world's largest consumers of antibiotics in livestock production. Studies have detected resistance genes in rivers, lakes, and even treated drinking water. The One Health approach mandates coordinated action across healthcare, veterinary services, and environmental sectors.
+:::
+
+---
+
+## India's National One Health Mission
+
+### Vision and Goals
+
+**Vision Statement:**
+*"To build an integrated disease control and pandemic preparedness system in India by bringing human, animal and environmental sectors together for better health outcomes, improved productivity and conservation of biodiversity."*
+
+**Initiated:** Based on PM-STIAC's (Prime Minister's Science, Technology & Innovation Advisory Council) recommendation
+
+**Lead Agencies:**
+- Ministry of Health & Family Welfare (MoHFW)
+- Ministry of Environment, Forest & Climate Change (MoEFCC)
+- Department of Animal Husbandry & Dairying (DAHD)
+- AYUSH, DHR, DBT, NCDC, DRDO
+
+*Source: ICMR National One Health Mission, 2024*
+
+::: {.notes}
+The mission represents India's commitment to collaborative health security. It addresses gaps in existing One Health activities and coordinates previously siloed efforts across ministries.
+:::
+
+---
+
+## Six Focus Areas of India's One Health Mission
+
+### Strategic Priorities
+
+**1. Zoonotic Disease Surveillance**
+- Integrated disease surveillance at human-animal-environment interface
+- Early detection of emerging pathogens
+
+**2. Antimicrobial Resistance (AMR) Control**
+- Regulate antimicrobial use across sectors
+- Surveillance of resistance patterns
+
+**3. Food Safety**
+- Farm-to-fork safety measures
+- Quality assurance of animal-origin foods
+
+**4. Laboratory Capacity Building**
+- BSL-3/4 laboratory network for high-risk pathogens
+- Capacity for rapid outbreak response
+
+**5. Environmental Health Monitoring**
+- Water quality surveillance
+- Air pollution and vector control
+
+**6. Research & Development**
+- Vaccine platforms and diagnostics
+- Novel pathogen discovery using AI, NGS, metagenomics
+
+::: {.notes}
+Each focus area requires cross-sector collaboration. Environmental health monitoring, particularly water quality surveillance, is central to preventing disease transmission at the human-animal-environment interface.
+:::
+
+---
+
+## One Health Mission: Key Initiatives
+
+### Implementation Strategies
+
+**Governance Structure:**
+
+- **Executive Steering Committee**: Chaired by Health & Family Welfare Minister
+- **Scientific Steering Committee**: Led by Principal Scientific Advisor
+- **Cross-Sector Coordination**: Representation from all stakeholder ministries
+
+**Budget Allocation:**
+₹386.86 crore for disease control, R&D, and global collaboration
+
+**Key Programs:**
+
+1. **BSL-3/4 Lab Network**: National network for investigating emerging pathogens
+2. **Integrated Surveillance**: Technology-enabled monitoring across habitats
+3. **Pandemic Preparedness**: Under PM-ABHIM (Ayushman Bharat Health Infrastructure Mission)
+4. **Digital Integration**: AI and GIS-based zoonotic surveillance platforms
+
+*Source: PMF IAS, National One Health Mission Report, 2024*
+
+::: {.notes}
+The mission integrates with existing programs like Swachh Bharat Mission (sanitation), JalJeevan Mission (safe water), and National Animal Disease Control Program, demonstrating comprehensive One Health implementation.
+:::
+
+---
+
+## One Health Index for India
+
+### Measuring Performance
+
+**What is the One Health Index?**
+
+A composite metric assessing state-level capacity and performance across 13 key indicators related to human, animal, and environmental health integration.
+
+**13 Key Indicators Include:**
+
+- Zoonotic disease surveillance infrastructure
+- Laboratory diagnostic capacity (BSL-2/3 labs)
+- Veterinary public health workforce
+- Water quality monitoring systems
+- AMR surveillance programs
+- Inter-sectoral coordination mechanisms
+- Environmental health regulations
+- Wildlife health monitoring
+- Food safety systems
+- Outbreak response capacity
+- Research & innovation output
+- Community awareness programs
+- Data sharing & integration platforms
+
+*Source: One Health Index Calculator for India (ICMR, 2024)*
+
+::: {.notes}
+The index helps identify gaps and prioritize resource allocation across states. It enables evidence-based policymaking and tracks progress toward One Health goals.
+:::
+
+---
+
+## State-Level One Health Performance
+
+### Top and Bottom Performers
+
+**Health Index Rankings (NITI Aayog, 2021):**
+
+| Rank | State | Overall Score | Key Strengths |
+|------|-------|--------------|---------------|
+| 1 | **Kerala** | 82.20 | Strong health infrastructure, surveillance |
+| 2 | **Tamil Nadu** | 72.42 | Laboratory capacity, coordination |
+| 3 | **Telangana** | 69.96 | Digital integration, urban WASH |
+| 4 | **Andhra Pradesh** | 69.95 | Veterinary services, food safety |
+| ... | ... | ... | ... |
+| 18 | **Bihar** | 19.00 | Needs improvement across all sectors |
+| 19 | **Uttar Pradesh** | 34.00 | Gaps in surveillance, sanitation |
+
+**Regional Disparities:**
+- Southern states consistently outperform northern/eastern states
+- Urban-rural divide in One Health capacity
+- Smaller states (Mizoram, Tripura) show strong performance despite size
+
+*Source: NITI Aayog Health Index Report, 2021*
+
+::: {.notes}
+Kerala's top ranking reflects its strong public health systems, high literacy, effective surveillance, and inter-sectoral coordination. States like Bihar and UP face challenges in basic infrastructure, requiring targeted One Health investments.
+:::
+
+---
+
+## WASH + One Health Integration
+
+### Water, Sanitation, Hygiene under One Health
+
+**Why WASH is Central to One Health:**
+
+WASH interventions prevent disease transmission across the human-animal-environment interface:
+
+- **Safe Water**: Prevents waterborne zoonoses (leptospirosis, cryptosporidiosis)
+- **Sanitation**: Breaks fecal-oral transmission of pathogens from humans and animals
+- **Hygiene**: Reduces direct contact with animal reservoirs and contaminated surfaces
+
+**One Health WASH Framework:**
+
+1. **Integrated Water Quality Monitoring**: Test for human AND animal pathogens
+2. **Livestock Waste Management**: Prevent contamination of water sources
+3. **Community Hygiene**: Educate on zoonotic disease prevention
+4. **Environmental Sanitation**: Protect ecosystems supporting disease vectors
+
+*Source: PLOS Water Journal, "Towards a One Health approach to WASH", 2024*
+
+::: {.notes}
+Traditional WASH programs focus on human health. One Health WASH expands this to include animal health (veterinary WASH) and environmental health (ecosystem protection), recognizing that 80% of rural households in India live with livestock.
+:::
+
+---
+
+## Water Quality Surveillance: A One Health Application
+
+### Integrated Monitoring Systems
+
+**Conventional Approach:**
+- Monitor water for human pathogens only (E. coli, coliforms)
+- Reactive response after disease outbreaks
+
+**One Health Approach:**
+- Monitor for human, animal, and environmental health indicators
+- Proactive surveillance for early warning
+
+**Example: Wastewater-Based Epidemiology (WBE)**
+
+```r
+# One Health Surveillance Data Integration
+surveillance_data <- data.frame(
+  Indicator = c("E. coli", "Leptospira", "Antibiotic Residues", 
+                "Cryptosporidium", "Nitrate Levels"),
+  Human_Health = c("High", "Medium", "High", "High", "High"),
+  Animal_Health = c("Medium", "High", "High", "High", "Medium"),
+  Env_Health = c("Medium", "Medium", "High", "Low", "High")
+)
+```
+
+**Application:** COVID-19 wastewater surveillance detected viral RNA before clinical cases emerged, demonstrating the power of environmental monitoring for human disease.
+
+::: {.notes}
+Wastewater surveillance is a quintessential One Health tool. It monitors human pathogens (COVID, polio), animal pathogens (avian influenza), and environmental contaminants (AMR genes, heavy metals) simultaneously, providing early warning for public health interventions.
+:::
+
+---
+
+## Case Study: Cholera Outbreaks and One Health
+
+### The Human-Animal-Environment Nexus
+
+**Background:**
+Cholera (*Vibrio cholerae*) outbreaks in India often correlate with monsoon flooding and contaminated water sources.
+
+**One Health Analysis:**
+
+| Component | Contributing Factors |
+|-----------|---------------------|
+| **Human** | Poor sanitation, open defecation, crowded slums |
+| **Animal** | Aquatic reservoirs (fish, shellfish), livestock near water sources |
+| **Environment** | Flooding, water stagnation, temperature rise, algal blooms |
+
+**One Health Interventions:**
+
+1. **Human**: Oral rehydration therapy, vaccination campaigns, hygiene education
+2. **Animal**: Monitor aquatic animal health, regulate fish farming practices
+3. **Environment**: Improve drainage, protect water sources, climate adaptation
+
+**Outcome:** Integrated approach reduces cholera incidence by 60-70% compared to single-sector interventions.
+
+::: {.notes}
+The 2010 Haiti cholera outbreak demonstrated the consequences of ignoring the environment pillar. Contaminated river water (environmental failure) mixed with poor sanitation (human failure) caused a massive epidemic. One Health demands simultaneous action across all three sectors.
+:::
+
+---
+
+## One Health in Climate Change Context
+
+### Emerging Challenges
+
+**Climate-Water-Health Linkages:**
+
+- **Extreme Weather**: Floods contaminate water sources, droughts concentrate pathogens
+- **Temperature Rise**: Expands vector habitats (mosquitoes, snails) in water bodies
+- **Altered Rainfall**: Disrupts seasonal water availability, increases contamination
+- **Ecosystem Disruption**: Changes animal migration patterns, spreads diseases
+
+**One Health Climate Adaptation:**
+
+```python
+# Climate-sensitive disease forecasting model
+climate_factors = {
+    'temperature': 'increases vector breeding',
+    'rainfall': 'floods lead to waterborne disease outbreaks',
+    'humidity': 'affects pathogen survival in water',
+    'extreme_events': 'infrastructure damage → sanitation failure'
+}
+```
+
+**India-Specific Impacts:**
+- Increased dengue/malaria in previously non-endemic areas
+- More frequent waterborne disease outbreaks post-floods
+- Climate refugees migrating to areas with poor WASH infrastructure
+
+::: {.notes}
+Climate change is a threat multiplier for One Health. India experienced record floods in 2023-2024, leading to major waterborne disease outbreaks. One Health preparedness requires climate-resilient WASH infrastructure and early warning systems linking meteorological and epidemiological data.
+:::
+
+---
+
+## Module 1 Summary
+
+### Key Takeaways
+
+**Core Concepts:**
+
+✓ One Health recognizes the interconnection of human, animal, and environmental health
+
+✓ Water contamination is a critical One Health issue requiring integrated solutions
+
+✓ India's National One Health Mission addresses zoonotic diseases, AMR, and pandemic preparedness
+
+✓ The One Health Index measures state-level capacity and performance
+
+✓ WASH interventions are central to One Health disease prevention
+
+✓ Surveillance systems must monitor human, animal, and environmental indicators
+
+**Next Steps:**
+
+Understanding One Health provides the foundation for studying environmental health, water quality standards, and treatment systems in subsequent modules.
+
+---
+
+## Assessment: Multiple Choice Questions {.smaller}
+
+### Question 1 {.quiz-question}
+
+Which of the following is NOT one of the three pillars of the One Health Triad?
+
+- Human Health
+- Animal Health
+- [Economic Health]{.correct}
+- Environmental Health
+
+::: {.notes}
+**Explanation:** The One Health Triad comprises Human Health, Animal Health, and Environmental Health. Economic health, while important, is not a core pillar of the One Health framework, though health outcomes do have economic implications.
+:::
+
+---
+
+### Question 2 {.quiz-question}
+
+India's National One Health Mission focuses on how many key areas?
+
+- Three
+- Four
+- [Six]{.correct}
+- Eight
+
+::: {.notes}
+**Explanation:** The National One Health Mission focuses on six key areas: (1) Zoonotic Disease Surveillance, (2) AMR Control, (3) Food Safety, (4) Laboratory Capacity, (5) Environmental Health, and (6) Research & Development.
+:::
+
+---
+
+### Question 3 {.quiz-question}
+
+Which Indian state ranks FIRST in the NITI Aayog Health Index (2021)?
+
+- Tamil Nadu
+- Maharashtra
+- [Kerala]{.correct}
+- Telangana
+
+::: {.notes}
+**Explanation:** Kerala achieved the highest Overall Index Score of 82.20, followed by Tamil Nadu (72.42), Telangana (69.96), and Andhra Pradesh (69.95). Kerala's strong public health infrastructure, surveillance systems, and inter-sectoral coordination contribute to its top ranking.
+:::
+
+---
+
+### Question 4 (Application-Based) {.quiz-question}
+
+A village experiences an outbreak of leptospirosis after monsoon flooding. Rats are found near contaminated water sources used for drinking. Which One Health intervention would be MOST effective?
+
+- Distribute antibiotics to affected individuals only
+- Implement rodent control measures only
+- Provide bottled water to the community only
+- [Integrated approach: rodent control + water treatment + public health education]{.correct}
+
+::: {.notes}
+**Explanation:** Leptospirosis requires a One Health approach addressing all three components: (1) Human - treat cases and educate on hygiene, (2) Animal - rodent control to eliminate reservoir, (3) Environment - water source protection and treatment. Single-sector interventions are insufficient for zoonotic disease control.
+:::
+
+---
+
+## Long Answer Questions (10 marks each)
+
+1. **Explain the One Health concept and discuss its relevance to water contamination in India.** Illustrate with specific examples of waterborne zoonotic diseases and their transmission pathways across the human-animal-environment interface.
+
+2. **Describe India's National One Health Mission, including its vision, governance structure, and six focus areas.** Critically evaluate how this mission addresses gaps in disease surveillance and pandemic preparedness.
+
+3. **Compare and contrast the One Health Index performance of Kerala and Bihar.** Discuss the factors contributing to Kerala's high ranking and the challenges faced by Bihar. Propose One Health interventions to improve low-performing states.
+
+4. **Discuss the integration of WASH (Water, Sanitation, Hygiene) principles within the One Health framework.** Explain how WASH interventions prevent disease transmission at the human-animal-environment interface, with reference to at least two waterborne diseases.
+
+---
+
+## Short Answer Questions (5 marks each)
+
+1. Define the One Health Triad and explain the interconnection between its three pillars.
+
+2. What is Antimicrobial Resistance (AMR) and how does it spread through water systems? Explain the One Health implications.
+
+3. List the six focus areas of India's National One Health Mission.
+
+4. What is the One Health Index for India? Name the top three performing states according to NITI Aayog (2021).
+
+5. Explain the concept of wastewater-based epidemiology as a One Health surveillance tool.
+
+6. How does climate change affect water quality and disease transmission from a One Health perspective?
+
+---
+
+## References
+
+1. CDC (2024). *About One Health*. Centers for Disease Control and Prevention. [Link](https://www.cdc.gov/one-health/about/index.html)
+
+2. ICMR (2024). *National One Health Mission*. Indian Council of Medical Research. [Link](https://www.icmr.gov.in/national-one-health-mission)
+
+3. USGS (2024). *One Health Conceptual Diagram*. U.S. Geological Survey.
+
+4. NITI Aayog (2021). *Healthy States Progressive India: Health Index Report*. Ministry of Health & Family Welfare.
+
+5. PMF IAS (2024). *One Health Approach: Need, Challenges & Way Ahead*.
+
+6. PLOS Water (2024). *Towards a One Health approach to WASH to tackle zoonotic diseases*.
+
+7. One Health Index Calculator for India (ICMR, 2024). PMC 12220201.
+
+---
+
+## Thank You!
+
+### Module 1 Complete
+
+**Next Module:** Environment & Health Fundamentals
+
+[Home](#home) | Module 1/8 | [Next Module →](module2_environment_health.html)
+
+**Questions or feedback?** Contact your instructor.
+
+::: {.notes}
+Congratulations on completing Module 1! You now understand the foundational One Health concept that will inform all subsequent modules on water, environment, and health. The integrated approach is essential for addressing complex public health challenges.
+:::

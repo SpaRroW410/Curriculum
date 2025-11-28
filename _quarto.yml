@@ -1,0 +1,163 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Social and Public health"
+  site-url: "index.qmd"
+
+  navbar:
+    left:
+      - text: "Contents"
+        href: intro.qmd
+      - text: "Foundations"
+        menu:
+          - text: "Man and Medicine: Towards Health for All"
+            href: foundations/man-and-medicine.qmd
+          - text: "Concept of Health and Disease"
+            href: foundations/concept-health-disease.qmd
+          - text: "Principles of Epidemiology"
+            href: foundations/principles-epidemiology.qmd
+          - text: "Epidemiologic Methods"
+            href: foundations/epidemiologic-methods.qmd
+          - text: "Screening for Disease"
+            href: foundations/screening.qmd
+      - text: "CDs and NCDs"
+        menu:
+          - text: "Epidemiology of Communicable Diseases"
+            href: diseases/communicable-diseases.qmd
+          - text: "Epidemiology of Chronic Non-Communicable Diseases"
+            href: diseases/ncd.qmd
+          - text: "Essential Medicines and Counterfeit Medicines"
+            href: diseases/essential-medicines.qmd
+          - text: "Nutrition and Health"
+            href: diseases/nutrition.qmd
+          - text: "Mental Health"
+            href: diseases/mental-health.qmd
+      - text: "Pragrams & demography"
+        menu:
+          - text: "Health Programmes in India"
+            href: programs/health-programmes.qmd
+          - text: "Millennium Development Goals to Sustainable Development Goals"
+            href: programs/mdg-sdg.qmd
+          - text: "Demography and Family Planning"
+            href: programs/demography.qmd
+          - text: "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics"
+            href: programs/preventive-medicine.qmd
+          - text: "Tribal Health in India"
+            href: programs/tribal-health.qmd
+      - text: "Environment"
+        menu:
+          - text: "Environment and Health"
+            href: environment/environment-health.qmd
+          - text: "Hospital Waste Management"
+            href: environment/waste-management.qmd
+          - text: "Disaster Management"
+            href: environment/disaster-management.qmd
+          - text: "Occupational Health"
+            href: environment/occupational-health.qmd
+          - text: "Genetics and Health"
+            href: environment/genetics.qmd
+      - text: "Miscellaneous"
+        menu:
+          - text: "Health Information and Basic Medical Statistics"
+            href: global/health-information.qmd
+          - text: "Communication for Health Education"
+            href: global/health-education.qmd
+          - text: "Medicine and Social Sciences"
+            href: global/social-sciences.qmd
+          - text: "Health Planning and Management"
+            href: global/health-planning.qmd
+          - text: "Health Care of the Community"
+            href: global/community-health.qmd
+          - text: "International Health"
+            href: global/international-health.qmd
+      
+    right:
+      - text: "Reference"
+        icon: book
+        menu:
+          - text: "Contact Us"
+            href: assets/contact.qmd
+          - text: "References"
+            href: assets/references.qmd
+
+  sidebar:
+    style: "docked"
+    collapse: true
+    search: true
+    contents:
+      - section: "Foundations of Health & Epidemiology"
+        contents:
+          - text: "Man and Medicine: Towards Health for All"
+            file: foundations/man-and-medicine.qmd
+          - text: "Concept of Health and Disease"
+            file: foundations/concept-health-disease.qmd
+          - text: "Principles of Epidemiology"
+            file: foundations/principles-epidemiology.qmd
+          - text: "Epidemiologic Methods"
+            file: foundations/epidemiologic-methods.qmd
+          - text: "Screening for Disease"
+            file: foundations/screening.qmd
+
+      - section: "Communicable & Non-Communicable Diseases"
+        contents:
+          - text: "Epidemiology of Communicable Diseases"
+            file: diseases/communicable-diseases.qmd
+          - text: "Epidemiology of Chronic Non-Communicable Diseases"
+            file: diseases/ncd.qmd
+          - text: "Essential Medicines and Counterfeit Medicines"
+            file: diseases/essential-medicines.qmd
+          - text: "Nutrition and Health"
+            file: diseases/nutrition.qmd
+          - text: "Mental Health"
+            file: diseases/mental-health.qmd
+
+      - section: "Health Programs & Populations"
+        contents:
+          - text: "Health Programmes in India"
+            file: programs/health-programmes.qmd
+          - text: "Millennium Development Goals to Sustainable Development Goals"
+            file: programs/mdg-sdg.qmd
+          - text: "Demography and Family Planning"
+            file: programs/demography.qmd
+          - text: "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics"
+            file: programs/preventive-medicine.qmd
+          - text: "Tribal Health in India"
+            file: programs/tribal-health.qmd
+
+      - section: "Environment, Systems & Emergencies"
+        contents:
+          - text: "Environment and Health"
+            file: environment/environment-health.qmd
+          - text: "Hospital Waste Management"
+            file: environment/waste-management.qmd
+          - text: "Disaster Management"
+            file: environment/disaster-management.qmd
+          - text: "Occupational Health"
+            file: environment/occupational-health.qmd
+          - text: "Genetics and Health"
+            file: environment/genetics.qmd
+
+      - section: "Health Information, Education & Global Perspectives"
+        contents:
+          - text: "Health Information and Basic Medical Statistics"
+            file: global/health-information.qmd
+          - text: "Communication for Health Education"
+            file: global/health-education.qmd
+          - text: "Medicine and Social Sciences"
+            file: global/social-sciences.qmd
+          - text: "Health Planning and Management"
+            file: global/health-planning.qmd
+          - text: "Health Care of the Community"
+            file: global/community-health.qmd
+          - text: "International Health"
+            file: global/international-health.qmd
+
+format:
+  html:
+    theme: flatly
+    css: assets/theme_webp.css
+    code-copy: true
+    toc: true
+    lightbox: auto

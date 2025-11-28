@@ -1,0 +1,37 @@
+---
+format: html
+---
+
+# **Community Medicine Lecture Series**
+
+This site is your interactive guide for the **Community Medicine Lectures**.
+
+You’ll find everything you need to learn, teach, or improve your understanding of public health and community medicine — including lecture notes, case studies, best practices, and interactive resources, all in one place.
+
+## Lecture Goals
+
+-   Understand the foundations of **Community Medicine** and its role in healthcare
+
+-   Learn principles of **epidemiology, biostatistics, and health systems**
+
+-   Explore **preventive and promotive health strategies** for individuals and populations
+
+-   Apply knowledge through **case discussions, fieldwork, and interactive sessions**
+
+-   Build capacity to design, implement, and evaluate **community-based interventions**
+
+## Way Around the Lectures
+
+To look at each module, use the navigation bar above:
+
+-   **Foundations of Community Medicine**\
+    Learn the scope, philosophy, and evolution of Community Medicine as a discipline.
+
+-   **Epidemiology & Biostatistics**\
+    Understand study designs, data interpretation, and the application of statistics in public health.
+
+-   **Health Programs & Policies**\
+    Explore national health programs, policies, and their implementation in communities.
+
+-   **Fieldwork & Case Studies**\
+    Engage with real-world examples, surveys, and practical exercises.

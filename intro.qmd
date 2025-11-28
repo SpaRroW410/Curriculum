@@ -1,0 +1,64 @@
+---
+title: "Contents"
+author: "SpaRroW"
+format:
+  html:
+    code-copy: true
+    theme: cosmo
+    toc: true
+    lightbox: auto
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+
+**Core navigation hub** for the lecture series.\
+
+
+---
+
+## A. Foundations of Health & Epidemiology
+- [Chapter 1: Man and Medicine](foundations/man-and-medicine.qmd)  
+- [Chapter 2: Concept of Health and Disease](foundations/concept-health-disease.qmd)  
+- [Chapter 3: Principles of Epidemiology](foundations/principles-epidemiology.qmd)  
+- [Chapter 4: Epidemiologic Methods](foundations/epidemiologic-methods.qmd)  
+- [Chapter 5: Screening for Disease](foundations/screening.qmd)  
+
+---
+
+## B. Communicable & Non-Communicable Diseases
+- [Chapter 6: Epidemiology of Communicable Diseases](diseases/communicable-diseases.qmd)  
+- [Chapter 7: Epidemiology of Chronic Non-Communicable Diseases](diseases/ncd.qmd)  
+- [Chapter 8: Essential Medicines and Counterfeit Medicines](diseases/essential-medicines.qmd)  
+- [Chapter 9: Nutrition and Health](diseases/nutrition.qmd)  
+- [Chapter 10: Mental Health](diseases/mental-health.qmd)  
+
+---
+
+## C. Health Programs & Populations
+- [Chapter 11: Health Programmes in India](programs/health-programmes.qmd)  
+- [Chapter 12: Millennium Development Goals to SDGs](programs/mdg-sdg.qmd)  
+- [Chapter 13: Demography and Family Planning](programs/demography.qmd)  
+- [Chapter 14: Preventive Medicine in Obstetrics, Paediatrics & Geriatrics](programs/preventive-medicine.qmd)  
+- [Chapter 15: Tribal Health in India](programs/tribal-health.qmd)  
+
+---
+
+## D. Environment, Systems & Emergencies
+- [Chapter 16: Environment and Health](environment/environment-health.qmd)  
+- [Chapter 17: Hospital Waste Management](environment/waste-management.qmd)  
+- [Chapter 18: Disaster Management](environment/disaster-management.qmd)  
+- [Chapter 19: Occupational Health](environment/occupational-health.qmd)  
+- [Chapter 20: Genetics and Health](environment/genetics.qmd)  
+
+---
+
+## E. Health Information, Education & Global Perspectives
+- [Chapter 21: Health Information and Basic Medical Statistics](global/health-information.qmd)  
+- [Chapter 22: Communication for Health Education](global/health-education.qmd)  
+- [Chapter 23: Medicine and Social Sciences](global/social-sciences.qmd)  
+- [Chapter 24: Health Planning and Management](global/health-planning.qmd)  
+- [Chapter 25: Health Care of the Community](global/community-health.qmd)  
+- [Chapter 26: International Health](global/international-health.qmd)  

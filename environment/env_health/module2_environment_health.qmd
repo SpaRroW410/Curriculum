@@ -1,0 +1,647 @@
+---
+title: "Module 2: Environment & Health Fundamentals"
+subtitle: "Understanding the Environmental Determinants of Health"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    code-fold: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module1_one_health.html) | [Home](#home) | Module 2/8 | [Next →](module3_water_quality.html)"
+---
+
+## Welcome to Module 2 {#home}
+
+### Environment & Health Fundamentals
+
+**Learning Objectives:**
+
+- Define environment and its three components (physical, biologic, social)
+- Understand the relationship between environmental factors and human health
+- Explain the concept of sanitation and environmental health
+- Identify major environmental hazards threatening human health
+- Describe the evolution from environmental sanitation to environmental health
+- Recognize the role of multi-disciplinary approaches in environmental health
+
+::: {.notes}
+This module establishes the foundational concepts of environmental health that underpin all subsequent discussions on water, sanitation, and public health interventions.
+:::
+
+---
+
+## Review: One Health MCQs {.smaller}
+
+### Question 1 {.quiz-question}
+
+Antimicrobial resistance (AMR) spreads through water systems primarily due to:
+
+- Inadequate chlorination of drinking water
+- [Excretion of antibiotics from livestock entering agricultural runoff]{.correct}
+- Natural bacterial mutations in water bodies
+- Industrial chemical contamination
+
+::: {.notes}
+**Explanation:** 75-90% of antibiotics given to livestock are excreted unchanged and enter water systems through manure and agricultural runoff, spreading resistant bacteria and resistance genes (Module 1 content).
+:::
+
+---
+
+### Question 2 {.quiz-question}
+
+Which of the following is a water-washed disease?
+
+- Leptospirosis
+- Acute Hepatitis A
+- [Trachoma]{.correct}
+- Legionnaire's Disease
+
+::: {.notes}
+**Explanation:** Trachoma is a water-washed disease caused by inadequate water for hygiene. Leptospirosis is water-borne (through contaminated water), Hepatitis A is feco-oral, and Legionnaire's is water-based (grows in water systems).
+:::
+
+---
+
+### Question 3 {.quiz-question}
+
+The One Health approach to cholera control would include all EXCEPT:
+
+- Improving sanitation and hygiene education
+- Monitoring aquatic animal health
+- [Administering antibiotics to all livestock in affected areas]{.correct}
+- Protecting water sources from contamination
+
+::: {.notes}
+**Explanation:** Cholera is a human disease caused by *Vibrio cholerae* (bacteria in water/food). While aquatic animals can be reservoirs, indiscriminately treating all livestock with antibiotics is not a One Health intervention and would contribute to AMR. The correct approach includes sanitation, water protection, and targeted monitoring.
+:::
+
+---
+
+## What is Environment?
+
+### Modern Concept of Environment
+
+> "The study of disease is really the study of man and his environment"
+
+**Definition:**
+
+Environment comprises all external factors—living and non-living, material and non-material—that surround humans and influence health outcomes.
+
+**Traditional View:**
+- Water, air, soil
+
+**Modern View:**
+- Physical environment (water, air, soil, housing, radiation)
+- Biological environment (plants, animals, microorganisms)
+- **Social environment** (customs, culture, income, occupation, religion)
+
+**Key Recognition:** Health is determined not just by biological factors but by the total environment in which humans live.
+
+::: {.notes}
+The modern concept of environment expands beyond natural elements to include socioeconomic determinants. For example, poor housing (physical) combined with low income (social) and rat infestation (biological) interact to cause leptospirosis outbreaks.
+:::
+
+---
+
+## Three Components of Environment
+
+### 1. Physical Environment
+
+**Elements:**
+- **Water**: Quality, quantity, accessibility
+- **Air**: Pollution, composition, ventilation
+- **Soil**: Contamination, fertility
+- **Housing**: Overcrowding, ventilation, construction materials
+- **Wastes**: Solid, liquid, hazardous waste disposal
+- **Radiation**: Ionizing, non-ionizing sources
+
+**Health Impact:** Water contamination (diarrheal diseases), air pollution (respiratory diseases), poor housing (communicable diseases)
+
+**Control Measures:** Engineering solutions, regulations, monitoring systems
+
+::: {.notes}
+Physical environment factors are often most amenable to control through engineering interventions (water treatment plants, sewage systems, air quality monitoring). However, effectiveness depends on maintenance and community participation.
+:::
+
+---
+
+### 2. Biological Environment
+
+**Living Organisms:**
+
+- **Plants**: Sources of food, oxygen production, allergens
+- **Animals**: Livestock, pets, wildlife (reservoirs of zoonotic diseases)
+- **Microorganisms**:
+  - Bacteria (*E. coli*, *Salmonella*, *Vibrio cholerae*)
+  - Viruses (Hepatitis A, Rotavirus, Poliovirus)
+  - Protozoa (*Giardia*, *Cryptosporidium*, *Entamoeba*)
+  - Helminths (roundworm, tapeworm, flukes)
+
+**Vectors:**
+- **Insects**: Mosquitoes (malaria, dengue), flies (diarrhea), lice
+- **Rodents**: Rats (leptospirosis, plague)
+
+**Health Impact:** Zoonotic diseases, vector-borne diseases, food-borne illnesses
+
+::: {.notes}
+Biological environment is dynamic and adapts (e.g., antimicrobial resistance, insecticide resistance). Control requires ongoing surveillance and adaptation of interventions. The One Health approach recognizes the interconnection between human, animal, and microbial health.
+:::
+
+---
+
+### 3. Social Environment
+
+**Socioeconomic Determinants:**
+
+- **Culture & Customs**: Dietary practices, hygiene behaviors, health-seeking patterns
+- **Religion**: Beliefs affecting healthcare utilization, dietary restrictions
+- **Income & Occupation**: Access to safe water, sanitation, nutrition, healthcare
+- **Education**: Health literacy, awareness of disease prevention
+- **Lifestyle**: Smoking, alcohol use, physical activity
+
+**Examples:**
+- **Open defecation** (cultural practice) → feco-oral disease transmission
+- **Low income** → inability to afford water purification or healthcare
+- **Illiteracy** → poor understanding of hygiene practices
+
+**Health Impact:** Social determinants often override physical/biological factors in disease causation.
+
+::: {.notes}
+Social environment is the most difficult to change but often the most critical. For example, providing safe water infrastructure (physical) may not reduce waterborne diseases if people lack knowledge (education) or cultural practices (open defecation) continue. Behavior change communication is essential.
+:::
+
+---
+
+## Ill-Health and Environmental Factors
+
+### Environmental Hazards to Human Health
+
+**Major Adverse Factors:**
+
+1. **Water Pollution**
+   - Biological (pathogens)
+   - Chemical (heavy metals, nitrates, fluorides)
+   - Physical (turbidity, temperature)
+
+2. **Soil Pollution**
+   - Pesticides, fertilizers
+   - Industrial effluents
+   - Solid waste contamination
+
+3. **Air Pollution**
+   - Indoor (cooking smoke, poor ventilation)
+   - Outdoor (vehicular emissions, industrial fumes)
+
+4. **Poor Housing**
+   - Overcrowding (tuberculosis, skin diseases)
+   - Inadequate ventilation (respiratory infections)
+   - Lack of sanitation facilities
+
+5. **Disease Vectors & Reservoirs**
+   - Mosquitoes, flies, rodents
+   - Animal reservoirs (livestock, wildlife)
+
+::: {.notes}
+Much of human ill-health can be traced to adverse environmental factors. The 1972 UN Conference on Human Environment brought global attention to these hazards. WHO's survey identified hundreds of environmental risks, with water and sanitation being among the most critical.
+:::
+
+---
+
+## Human-Induced Environmental Pollution
+
+### The Role of Urbanization & Industrialization
+
+**Human Activities Polluting Environment:**
+
+- **Urbanization**: Overcrowding, inadequate infrastructure, slums
+- **Industrialization**: Chemical effluents, air emissions, hazardous waste
+- **Agricultural Intensification**: Pesticides, fertilizers, animal waste
+- **Deforestation**: Loss of natural purification systems
+- **Waste Generation**: Plastics, e-waste, medical waste
+
+**Consequences:**
+
+| Activity | Environmental Impact | Health Impact |
+|----------|---------------------|---------------|
+| Industrial waste discharge | River pollution | Waterborne diseases, heavy metal toxicity |
+| Vehicle emissions | Air pollution | Respiratory diseases, cardiovascular diseases |
+| Excessive fertilizer use | Groundwater nitrate contamination | Methemoglobinemia in infants |
+| Urban sprawl | Habitat disruption | Emergence of zoonotic diseases |
+
+**1972 UN Conference:** Focused worldwide attention on environmental hazards threatening human beings.
+
+::: {.notes}
+Man is often responsible for his own environmental problems. Rapid industrialization without adequate pollution control has led to severe environmental degradation in India. Rivers like Yamuna and Ganga are heavily polluted despite their cultural significance. Addressing pollution requires balancing economic development with environmental protection.
+:::
+
+---
+
+## What is Sanitation?
+
+### Evolution of the Concept
+
+**Dictionary Definition:**
+"The science of safeguarding health"
+
+**National Sanitation Foundation (USA) Definition:**
+
+> "Sanitation is a way of life. It is the quality of living that is expressed in the clean home, the clean farm, the clean business, the clean neighbourhood and the clean community. Being a way of life, it must come from within the people; it is nourished by knowledge and grows as an obligation and an ideal in human relations."
+
+**Historical Perspective:**
+- **Past**: Centered on sanitary disposal of human excreta (latrines)
+- **Present**: Comprehensive control of all environmental factors affecting health
+
+**Key Point:** Sanitation is not just infrastructure—it's a behavior, a culture, a way of life.
+
+::: {.notes}
+Many people still equate sanitation with toilet construction. However, modern sanitation encompasses food safety, water quality, waste management, vector control, housing, and personal hygiene. Sustainable sanitation requires community ownership and behavior change, not just infrastructure.
+:::
+
+---
+
+## Environmental Sanitation (WHO Definition)
+
+### Scope of Control
+
+**WHO Definition:**
+
+> "Environmental sanitation is the control of all those factors in man's physical environment which exercise or may exercise a deleterious effect on his physical development, health and survival."
+
+**Controllable Environmental Factors (Standard of Living):**
+
+- **Food**: Safety, nutritional quality, availability
+- **Water**: Quality, quantity, accessibility
+- **Housing**: Adequate, ventilated, uncrowded
+- **Clothing**: Protection from climate, hygiene
+- **Sanitation**: Excreta disposal, solid waste management
+
+**Historical Impact:**
+
+Control of these factors in developed countries during the 19th-20th centuries led to dramatic health improvements—even before antibiotics and vaccines.
+
+::: {.notes}
+The sanitary revolution (clean water, sewage systems) in Europe and North America reduced mortality more than medical interventions. For example, London's 1854 cholera outbreak (John Snow) was controlled by removing a contaminated water pump handle—demonstrating the power of environmental control.
+:::
+
+---
+
+## From Environmental Sanitation to Environmental Health
+
+### The Evolution
+
+**Old Problems Being Solved:**
+- Excreta disposal (latrines, sewage treatment)
+- Safe water supply (treatment plants, distribution)
+- Vector control (DDT, insecticides—though with new challenges)
+
+**New Problems Arising:**
+
+1. **Air Pollution**: Rapid urbanization, vehicular growth
+2. **Industrial Pollution**: Chemical effluents, hazardous waste
+3. **Radioactive Pollution**: Nuclear technology advances
+4. **Demographic Growth**: Population pressure on resources
+5. **Rapid Urbanization**: Slums, inadequate infrastructure
+6. **E-waste**: Electronic waste management challenges
+
+**Consequence:** Environmental sanitation → **Environmental Health** (broader, complex)
+
+::: {.notes}
+As societies solve old problems, new challenges emerge. For example, India has increased latrine coverage through Swachh Bharat Mission, but now faces challenges with sewage treatment and fecal sludge management. Air pollution in Delhi rivals Beijing. The term "environmental health" reflects the growing complexity and need for integrated solutions.
+:::
+
+---
+
+## Multi-Disciplinary Approach to Environmental Health
+
+### Who is Involved?
+
+**Traditional Approach:**
+- Medical professionals (diagnosis, treatment)
+- Engineers (infrastructure design)
+
+**Modern Environmental Health Requires:**
+
+- **Public Health Physicians**: Disease surveillance, policy
+- **Epidemiologists**: Disease patterns, outbreak investigation
+- **Public Health Engineers**: Water treatment, sanitation systems
+- **Town Planners**: Urban design, zoning
+- **Sociologists**: Community behavior, cultural practices
+- **Economists**: Cost-benefit analysis, financing
+- **Health Inspectors**: Monitoring, enforcement
+- **Environmental Scientists**: Pollution assessment, ecology
+
+**Key Message:** Neither purely medical nor purely engineering—requires combined, multi-disciplinary action.
+
+::: {.notes}
+The COVID-19 pandemic exemplified the need for multi-disciplinary response: epidemiologists tracked spread, clinicians treated patients, engineers designed ventilation in hospitals, sociologists addressed vaccine hesitancy, economists managed financial impacts, and public health officials coordinated policy. No single discipline can address complex environmental health challenges.
+:::
+
+---
+
+## Purpose of Environmental Health
+
+### Creating Healthy Ecological Conditions
+
+**Primary Goal:**
+
+Create and maintain ecological conditions that will promote health and prevent disease.
+
+**Essential Elements:**
+
+1. **Safe Drinking Water**: Free from biological and chemical contaminants
+2. **Adequate Sanitation**: Excreta disposal systems preventing disease transmission
+3. **Solid Waste Management**: Collection, treatment, disposal
+4. **Vector Control**: Reducing disease-carrying organisms
+5. **Food Safety**: Prevention of food-borne illnesses
+6. **Air Quality**: Reducing indoor and outdoor pollution
+7. **Occupational Health**: Safe working environments
+
+**Global Challenge (1990s):**
+- >1 billion people lacked safe drinking water
+- ~2 billion lacked adequate sanitation
+- Faeces near homes, contaminated water, polluted fish/produce = health hazards
+
+::: {.notes}
+Safe water and sanitation are fundamental human rights (UN General Assembly, 2010). Yet billions still lack access. Water quantity is as important as quality—without abundant water near the home, hygiene becomes impossible. Washing hands after defecation requires adequate water supply.
+:::
+
+---
+
+## Water Quantity and Quality
+
+### Both are Essential
+
+**Water Quantity:**
+
+- **Minimum survival**: ~3-5 liters/person/day
+- **Basic needs**: 20-50 liters/person/day
+- **Adequate supply (urban India)**: 150-200 liters/person/day
+- **Rural India target**: 40 liters/person/day
+
+**Importance of Quantity:**
+
+- Washing hands after defecation
+- Bathing and personal hygiene
+- Cooking and food preparation
+- Cleaning utensils and surfaces
+- Laundry
+
+**Water Quality:**
+
+Must be free from:
+- Pathogenic microorganisms (bacteria, viruses, protozoa, helminths)
+- Toxic chemicals (arsenic, fluoride, nitrates, heavy metals)
+- Excessive turbidity, color, odor
+
+**Key Insight:** Without abundant water in or near the home, hygiene becomes difficult or impossible—even if the water is microbiologically safe.
+
+::: {.notes}
+Studies show that proximity to water source matters more than water quality for health outcomes. Families with water far from home reduce consumption to conserve energy, compromising hygiene. A safe water source 1 km away is less effective than a moderately safe source 50 meters away, because quantity enables hygiene practices.
+:::
+
+---
+
+## Environmental Diseases in Developing Countries
+
+### The Burden of Poor Sanitation
+
+**Major Disease Categories:**
+
+1. **Diarrheal Diseases** (10% of total disease burden)
+   - Cholera, typhoid, dysentery
+   - Rotavirus, E. coli infections
+   - Giardiasis, amebiasis
+
+2. **Intestinal Worm Infestations**
+   - Ascariasis (roundworm)
+   - Hookworm
+   - Tapeworm infections
+
+3. **Water-Washed Diseases** (inadequate water for hygiene)
+   - Trachoma (leading cause of preventable blindness)
+   - Scabies, skin infections
+   - Conjunctivitis
+
+4. **Water-Based Diseases**
+   - Schistosomiasis (bilharzia)
+   - Guinea worm disease (dracunculiasis)
+
+5. **Water-Related Vector Diseases**
+   - Malaria, dengue, filariasis (mosquitoes)
+   - Japanese encephalitis
+
+::: {.notes}
+The lack of water supply and sanitation is the primary reason why faecal-oral diseases are so common in developing countries. Even diseases not classified as "waterborne" (like trachoma) are heavily influenced by water availability for hygiene. Eliminating these diseases requires both safe water AND adequate quantity.
+:::
+
+---
+
+## Access to Safe Water and Sanitation in South-East Asia
+
+### Regional Disparities
+
+**Data from Key Countries:**
+
+| Country | Safe Water Access | Adequate Sanitation | Year |
+|---------|------------------|---------------------|------|
+| **India** | 94% (rural), 91% (urban) | ~60% | 2011-2020 |
+| **Bangladesh** | 87% | 48% | 2015 |
+| **Myanmar** | 81% | 79% | 2015 |
+| **Indonesia** | 87% | 61% | 2015 |
+| **Thailand** | 98% | 93% | 2015 |
+
+**Key Observations:**
+
+- Urban-rural gap significant in most countries
+- Sanitation lags behind water supply
+- Access ≠ utilization (behavioral factors)
+- Quality not always ensured despite "access"
+
+*Source: WHO/UNICEF Joint Monitoring Programme*
+
+::: {.notes}
+India's 94% rural access to safe water (Census 2011) is misleading—it includes unprotected sources and doesn't account for seasonal availability or water quality. Similarly, having a toilet (Swachh Bharat achievement) doesn't mean it's used or that waste is safely managed. Behavior change and maintenance are as critical as infrastructure.
+:::
+
+---
+
+## Achieving "Health for All"
+
+### Two Critical Changes Needed
+
+**From WHO's "Health for All" Strategy:**
+
+**1. Healthy Environment**
+- Safe water and sanitation
+- Clean air quality
+- Safe food supply
+- Vector control
+- Solid waste management
+- **Requires**: Government policy, infrastructure investment, regulation enforcement
+
+**2. Healthy Lifestyle**
+- Personal hygiene practices
+- Proper food handling
+- Hand washing at critical times
+- Safe drinking water storage
+- Sanitary behaviors
+- **Requires**: Individual initiative, family participation, community action, health education
+
+**Key Insight:** Both changes are essential and interdependent. Infrastructure without behavior change = wasted investment. Education without infrastructure = frustration.
+
+::: {.notes}
+The failure of many WASH programs stems from focusing on only one aspect. Building toilets without addressing open defecation norms fails (India's experience). Conversely, teaching hand washing without providing nearby water sources is ineffective. Successful programs integrate infrastructure, education, and community mobilization.
+:::
+
+---
+
+## Module 2 Summary
+
+### Key Takeaways
+
+**Core Concepts:**
+
+✓ Environment includes physical, biological, and social components—all affecting health
+
+✓ Much of human ill-health traces to adverse environmental factors (water, air, soil, housing, vectors)
+
+✓ Humans are responsible for environmental pollution through urbanization and industrialization
+
+✓ Sanitation is a way of life, not just infrastructure—requires knowledge and community ownership
+
+✓ Environmental health requires multi-disciplinary approaches (medical, engineering, social)
+
+✓ Safe water and adequate sanitation are fundamental to public health
+
+✓ Both water quantity and quality are essential for hygiene and disease prevention
+
+**Next Steps:**
+
+Module 3 will dive deep into water quality standards and criteria, covering WHO guidelines, chemical parameters, and health-risk assessment methods.
+
+---
+
+## Assessment: Module 2 MCQs {.smaller}
+
+### Question 1 {.quiz-question}
+
+Which component of environment is the MOST difficult to change but often most critical for health outcomes?
+
+- Physical environment
+- Biological environment
+- [Social environment]{.correct}
+- None of the above
+
+::: {.notes}
+**Explanation:** Social environment (customs, culture, income, education) is hardest to change because it involves deep-rooted behaviors and beliefs. However, it's often most critical—for example, even with toilet infrastructure, open defecation continues if social norms don't change. Physical and biological factors are more amenable to engineering solutions.
+:::
+
+---
+
+### Question 2 {.quiz-question}
+
+According to WHO, environmental sanitation is defined as:
+
+- Construction of latrines in rural areas
+- [Control of all factors in man's physical environment that may affect health]{.correct}
+- Provision of safe drinking water only
+- Waste management programs
+
+::: {.notes}
+**Explanation:** WHO defines environmental sanitation comprehensively as "the control of all those factors in man's physical environment which exercise or may exercise a deleterious effect on his physical development, health and survival." It's not limited to latrines or water supply but encompasses all environmental health factors.
+:::
+
+---
+
+### Question 3 {.quiz-question}
+
+Which of the following is a water-based disease (pathogen spends part of life cycle in aquatic organism)?
+
+- Cholera
+- Typhoid
+- [Schistosomiasis]{.correct}
+- Hepatitis A
+
+::: {.notes}
+**Explanation:** Schistosomiasis (bilharzia) is a water-based disease where the parasite *Schistosoma* spends part of its life cycle in aquatic snails. Cholera, typhoid, and hepatitis A are waterborne diseases (transmitted via contaminated water) but don't require an aquatic intermediate host.
+:::
+
+---
+
+### Question 4 (Application-Based) {.quiz-question}
+
+A village has 100% toilet coverage but diarrheal disease rates remain high. Possible reasons include all EXCEPT:
+
+- Continued open defecation due to cultural norms
+- Lack of water for toilet use and hand washing
+- Poor fecal sludge management from toilets
+- [Inadequate antibiotic availability in the village]{.correct}
+
+::: {.notes}
+**Explanation:** High diarrheal rates despite toilet coverage suggest behavioral issues (not using toilets), inadequate water supply (toilets unusable), or poor waste management (toilets contaminating environment). Antibiotic availability is irrelevant to prevention—antibiotics treat disease, not prevent transmission. This highlights that infrastructure alone doesn't ensure health outcomes.
+:::
+
+---
+
+## Long Answer Questions (10 marks each)
+
+1. **Describe the three components of environment with examples.** Explain how each component influences human health and disease. Discuss the interconnections between physical, biological, and social environments.
+
+2. **"Sanitation is a way of life." Elaborate on this statement with reference to the National Sanitation Foundation (USA) definition.** Discuss why infrastructure alone is insufficient for achieving good sanitation and the role of community participation.
+
+3. **Trace the evolution from "environmental sanitation" to "environmental health."** What new environmental problems have emerged in recent decades? Why is a multi-disciplinary approach necessary for modern environmental health?
+
+4. **Explain why both water quantity and water quality are essential for disease prevention.** Provide examples of diseases caused by inadequate water quantity (water-washed diseases) versus poor water quality (waterborne diseases).
+
+---
+
+## Short Answer Questions (5 marks each)
+
+1. Define environment according to modern concept. List its three components.
+
+2. What are the major environmental hazards affecting human health in developing countries?
+
+3. Give the WHO definition of environmental sanitation.
+
+4. List five professionals involved in a multi-disciplinary environmental health approach.
+
+5. Differentiate between waterborne, water-washed, and water-based diseases with one example each.
+
+6. What were the two critical changes needed to achieve "Health for All" as per WHO strategy?
+
+---
+
+## References
+
+1. WHO (2024). *Environmental Health*. World Health Organization.
+
+2. Park's Textbook of Preventive and Social Medicine (25th ed.). *Environment and Health* chapter.
+
+3. UN Conference on the Human Environment (1972). *Stockholm Declaration*.
+
+4. WHO/UNICEF Joint Monitoring Programme. *Progress on Drinking Water and Sanitation* (2020 Update).
+
+5. National Sanitation Foundation (USA). *Definition of Sanitation*.
+
+6. Census of India (2011). *Availability of Drinking Water and Sanitation*.
+
+---
+
+## Thank You!
+
+### Module 2 Complete
+
+**Next Module:** Water Quality Standards & Criteria
+
+[← Previous](module1_one_health.html) | [Home](#home) | Module 2/8 | [Next →](module3_water_quality.html)
+
+**Questions or feedback?** Contact your instructor.
+
+::: {.notes}
+Congratulations on completing Module 2! You now understand the environmental determinants of health. Module 3 will focus specifically on water quality standards, WHO guidelines, and health-risk assessment methods—building on the environmental health foundation established here.
+:::
