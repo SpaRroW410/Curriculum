@@ -50,7 +50,7 @@ aspects.
 
 ------------------------------------------------------------------------
 
-## [Pollution & Diseases](module6_pollution_diseases.qmd)
+## [Pollution & Diseases](water/module6_pollution_diseases.qmd)
 
 -   Pollution indicators\
 -   Waterborne diseases\
@@ -60,7 +60,7 @@ aspects.
 
 ------------------------------------------------------------------------
 
-## [Surveillance](module7_surveillance.qmd)
+## [Surveillance](water/module7_surveillance.qmd)
 
 -   11-point surveillance activities\
 -   Sampling protocols\
@@ -69,7 +69,7 @@ aspects.
 
 ------------------------------------------------------------------------
 
-## [Safe Water in India](module8_safe_water_india.qmd)
+## [Safe Water in India](water/module8_safe_water_india.qmd)
 
 -   Government norms and standards\
 -   Census 2011 data on water access\
@@ -78,7 +78,7 @@ aspects.
 
 ------------------------------------------------------------------------
 
-## [Quiz](module9_quiz.qmd)
+## [Quiz](water/module9_quiz.qmd)
 
 -   50+ MCQs covering all modules\
 -   Randomized questions with instant feedback
