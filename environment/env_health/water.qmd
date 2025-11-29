@@ -14,63 +14,73 @@ editor:
 
 # 💧 Water and Health – Introduction
 
-This section focuses on **Water and Health**, exploring standards, sources, treatment, pollution, and surveillance.  
-It includes seven modules that cover technical, practical, and policy aspects.
+This section focuses on **Water and Health**, exploring standards,
+sources, treatment, pollution, and surveillance.\
+It includes seven modules that cover technical, practical, and policy
+aspects.
 
----
+------------------------------------------------------------------------
 
 ## [Water Quality Standards](water/module3_water_quality.qmd)
-- Physical parameters  
-- Microbiological standards  
-- Chemical constituents (30+ parameters)  
-- Organic contaminants, pesticides, radiological concerns  
-- Toxicological formulas: TDI, NOAEL, LOAEL  
 
----
+-   Physical parameters\
+-   Microbiological standards\
+-   Chemical constituents (30+ parameters)\
+-   Organic contaminants, pesticides, radiological concerns\
+-   Toxicological formulas: TDI, NOAEL, LOAEL
+
+------------------------------------------------------------------------
 
 ## [Water Sources](water/module4_water_sources.qmd)
-- Rainwater harvesting  
-- Surface water and groundwater  
-- Wells (sanitary criteria)  
-- Springs and tanks  
 
----
+-   Rainwater harvesting\
+-   Surface water and groundwater\
+-   Wells (sanitary criteria)\
+-   Springs and tanks
+
+------------------------------------------------------------------------
 
 ## [Treatment](water/module5_water_treatment.qmd)
-- Storage and distribution  
-- Slow Sand Filter (SSF) and Rapid Sand Filter (RSF)  
-- Household filtration methods  
-- Solar purification systems  
-- Disinfection techniques  
 
----
+-   Storage and distribution\
+-   Slow Sand Filter (SSF) and Rapid Sand Filter (RSF)\
+-   Household filtration methods\
+-   Solar purification systems\
+-   Disinfection techniques
+
+------------------------------------------------------------------------
 
 ## [Pollution & Diseases](module6_pollution_diseases.qmd)
-- Pollution indicators  
-- Waterborne diseases  
-- Health associations (dental fluorosis, cardiovascular effects, cyanosis)  
-- Water pollution laws and regulations  
 
----
+-   Pollution indicators\
+-   Waterborne diseases\
+-   Health associations (dental fluorosis, cardiovascular effects,
+    cyanosis)\
+-   Water pollution laws and regulations
+
+------------------------------------------------------------------------
 
 ## [Surveillance](module7_surveillance.qmd)
-- 11-point surveillance activities  
-- Sampling protocols  
-- Bacteriological testing (coliforms, streptococci)  
-- Quality testing methods  
 
----
+-   11-point surveillance activities\
+-   Sampling protocols\
+-   Bacteriological testing (coliforms, streptococci)\
+-   Quality testing methods
+
+------------------------------------------------------------------------
 
 ## [Safe Water in India](module8_safe_water_india.qmd)
-- Government norms and standards  
-- Census 2011 data on water access  
-- Problem Villages (4 criteria + examples)  
-- Chemical contamination challenges  
 
----
+-   Government norms and standards\
+-   Census 2011 data on water access\
+-   Problem Villages (4 criteria + examples)\
+-   Chemical contamination challenges
+
+------------------------------------------------------------------------
 
 ## [Quiz](module9_quiz.qmd)
-- 50+ MCQs covering all modules  
-- Randomized questions with instant feedback  
 
----
+-   50+ MCQs covering all modules\
+-   Randomized questions with instant feedback
+
+------------------------------------------------------------------------
