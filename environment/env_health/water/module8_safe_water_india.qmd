@@ -1,0 +1,801 @@
+---
+title: "Safe Water Provision in India"
+subtitle: "Government Norms, Census Data, Problem Villages & Challenges"
+author: "Environmental Health"
+date: today
+format:
+  revealjs:
+    theme: dark
+    transition: slide
+    center: true
+    footer: "[← Previous](module7_surveillance.html) | [Home](#home) | Module 3/8 | [Next →](module9_quiz.html)"
+    width: 1200
+    height: 720
+echo: false
+---
+
+## Module 8: Safe Water Provision in India {.center #home}
+
+### Current Status, Challenges & Solutions for Safe Drinking Water
+
+:::{.fragment}
+**Learning Objectives:**
+- Know government norms & standards
+- Understand current water access status
+- Identify problem villages & criteria
+- Learn major challenges (fluoride, arsenic)
+- Develop solutions for safe water
+:::
+
+:::{.fragment}
+**Key Topics Covered:**
+Government Norms | Census 2011 Data | Problem Villages | Chemical Challenges | Solutions
+:::
+
+---
+
+## Recap: Previous Module (Module 7) {.smaller}
+
+### Quick Review - Surveillance
+
+:::{.columns}
+:::{.column width="50%"}
+**11-Point Activities:**
+- Source approval & watershed protection
+- Sanitary surveys & monitoring
+- Operator certification
+- Cross-connection control
+:::
+:::{.column width="50%"}
+**Testing Methods:**
+- Bacteriological (coliforms, E. coli, streptococci)
+- Chemical (heavy metals, ions)
+- Physical (turbidity, color)
+- Rapid field tests
+:::
+:::
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 1: Surveillance
+**What is the primary purpose of Clostridium perfringens testing?**
+
+- [ ] Indicate recent contamination
+- [x] Indicate remote/past contamination (spore resistance)
+- [ ] Diagnose patient infection
+- [ ] Monitor chlorination effectiveness
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 2: Sampling
+**What should NOT be done during water sample collection?**
+
+- [ ] Use sterile container
+- [x] Rinse container with tap water before collection
+- [ ] Collect aseptically
+- [ ] Record time & location
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 3: Microbiological
+**What is the drinking water standard for E. coli?**
+
+- [ ] <1 CFU/100 mL
+- [x] Absent (0 CFU/100 mL)
+- [ ] <10 CFU/100 mL
+- [ ] <100 CFU/100 mL
+
+---
+
+## Indian Constitution & Water Rights {.smaller}
+
+### Legal Foundation for Water Provision
+
+**Article 47 - Duty of State:**
+- "The State shall regard the raising of the level of nutrition and the standard of living of its people and the improvement of public health as among its primary duties"
+- Specifically includes: **Clean drinking water provision**
+- Constitutional obligation (not optional)
+- Enforceable right through courts
+
+**Right to Life Under Article 21:**
+- Supreme Court interpretations: Water is part of right to life
+- Minimum water access is fundamental right
+- Government must ensure adequate quantity & quality
+- Discrimination in access illegal
+
+**Water Policy Framework:**
+- National Water Policy (1987, updated 2012)
+- Water Resource Management
+- Equitable distribution principles
+- Pollution prevention mandates
+
+---
+
+## Government of India Norms {.smaller}
+
+### Official Drinking Water Standards
+
+**Supply Norms by Government:**
+
+**Quantity (per capita per day):**
+- **Rural areas:** 40 liters per person per day (minimum requirement)
+- **Urban areas:** 135-150 liters per person per day
+- **Public institutions:** Additional 10-20 liters per person
+- **Industrial/agricultural:** Separate allocation
+
+**Accessibility Standards:**
+- **Rural:** Source within 100 meters of habitation
+- **Urban:** Tap within household or common yard (>5 households)
+- **Distance:** No more than 250 meters for hand pumps (ideal)
+
+**Frequency of Supply:**
+- Continuous supply (24-7) preferred
+- Minimum: Daily supply in fixed hours
+- Intermittent supply increases contamination risk
+
+**Quality Standards:**
+- Must meet IS 10500 (Indian Standards)
+- WHO guidelines minimum compliance
+- Zero E. coli standard
+- Safe for drinking & cooking
+
+---
+
+## Indian Standards IS 10500 {.smaller}
+
+### Drinking Water Quality Requirements
+
+**Physical Requirements:**
+- Turbidity: <1 NTU (or <5 for large systems)
+- Color: <5 TCU
+- Taste/Odor: Absent
+- Temperature: <25°C preferred
+
+**Microbiological Requirements:**
+- E. coli: Absent (0/100 mL)
+- Enterococci: Absent (0/100 mL)
+- Total coliforms: Absent (0/100 mL)
+- Heterotrophic bacteria: <10 CFU/mL
+
+**Chemical Limits (Essential Parameters):**
+- pH: 6.5-8.5
+- Conductivity: <1400 μS/cm
+- Total dissolved solids (TDS): <500 mg/L
+- Chlorides: <250 mg/L
+- Sulfates: <200 mg/L
+- Fluoride: <1.0 mg/L (or 1.5 mg/L in high-fluoride regions)
+- Arsenic: <0.01 mg/L (10 μg/L)
+- Lead: <0.01 mg/L (10 μg/L)
+- Iron: <0.3 mg/L
+- Manganese: <0.1 mg/L
+
+---
+
+## Jal Jeevan Mission {.smaller}
+
+### National Program for Water Supply
+
+**Program Overview:**
+- Launched: August 2019 by Government of India
+- Goal: **100% Functional Household Tap Connection (FHTC)**
+- Target: Every household gets piped water (Jal Jeevan = Water Life)
+- Implementation: Ministry of Jal Shakti
+- Timeline: 2024 completion target
+
+**Key Features:**
+1. **Tap water in every house** (not communal hand pumps)
+2. **Adequate quantity** (40-55 liters per capita per day)
+3. **Safe quality** (treated, tested regularly)
+4. **Continuous supply** (24-7 target)
+5. **Community participation**
+
+**Progress (as of 2024):**
+- ~190 million households covered (out of 300+ million)
+- ~60% coverage nationally
+- State variation: Kerala >90%, others lower
+- Acceleration ongoing
+
+**Challenges:**
+- Infrastructure cost (₹3.5 trillion estimated)
+- Skilled workforce shortage
+- Maintenance sustainability
+- Water source availability in drought-prone areas
+- Quality assurance at scale
+
+---
+
+## Census 2011 Water Access Data {.smaller}
+
+### Baseline Assessment
+
+**National Water Access Status (2011):**
+
+**Rural Areas (70% of population):**
+- **94% have access to safe drinking water** (improved sources)
+  - Within premises: 46.6%
+  - Near premises: 35.8%
+  - Away from premises: 17.6%
+
+**Urban Areas (30% of population):**
+- **91% have access to safe drinking water**
+  - Higher within-premises coverage
+  - Better distribution infrastructure
+
+**Improved Sources Definition:**
+- Piped water household connection
+- Public standpipe
+- Borehole/tube well (protected)
+- Protected dug-well
+- Protected spring
+- Rainwater collection (covered tank)
+
+**Unimproved Sources:**
+- Unprotected dug-well
+- Unprotected spring
+- Surface water (rivers, ponds, lakes)
+- Vendor-supplied water carts
+- Bottled water (quantity limitation)
+
+---
+
+## Census 2011 Analysis {.smaller}
+
+### Interpreting the Data
+
+**Achievements:**
+- 94% rural + 91% urban = High average (92-93%)
+- Indicates significant improvement post-independence
+- Shows commitment to water provision
+
+**Hidden Challenges:**
+- **"Safe" may not mean actually safe** (testing not done)
+- **Within-premises (46.6%) only minority** - majority walk for water
+- **17.6% away from premises** - significant burden (fetching time, labor, contamination risk)
+- **Water quality often not verified** - Just "improved source" not "safe"
+
+**State Variation (Madhya Pradesh example):**
+- Within premises: 23.9% (much lower than national 46.6%)
+- Away from premises: 30.5% (much higher than national 17.6%)
+- Indicates rural areas far from source
+- Accessibility challenge
+
+**Limitations of Census Definition:**
+- Does not measure continuous supply
+- Does not assess water quality
+- Does not check treatment systems
+- Does not monitor per capita quantity
+- Static snapshot (2011 data, updated 2021)
+
+---
+
+## Problem Villages Criteria {.smaller}
+
+### Defining Water Crisis Areas
+
+**Definition:** Villages lacking adequate safe water sources
+
+**4 Criteria (ANY ONE qualifies as Problem Village):**
+
+**1. Distance from Safe Water Source:**
+- No source within **1.6 kilometers**
+- Population must walk >1.6 km to fetch water
+- Burden on women & children (primary water fetchers)
+- High labor cost, reduced time for other activities
+
+**2. Water Table Depth:**
+- Safe water available at **depth >15 meters**
+- Hand pumps cannot reach (require mechanical pumps)
+- High extraction cost
+- Seasonal fluctuation risk (dries up in summer)
+
+**3. Chemical Contamination:**
+- Water source has **excess salinity**
+- **Iron contamination** (causes staining, taste issues)
+- **Fluoride excess** (dental/skeletal fluorosis risk)
+- **Nitrates elevated** (cyanosis risk in infants)
+- **Arsenic contamination** (cancer risk)
+- Other toxic elements
+- Water unsafe despite adequate quantity
+
+**4. Disease Risk Exposure:**
+- Water source **exposed to risks of cholera** or other epidemic diseases
+- Proximity to sewage/latrine
+- Flooding risk (contamination)
+- Livestock grazing upstream
+- No protective structures
+- High microbial contamination likelihood
+
+---
+
+## Problem Villages: National Statistics {.smaller}
+
+### Extent of the Challenge
+
+**Number of Problem Villages:**
+- Exact count varies by state assessment
+- Estimated: **Several thousand to tens of thousands** (no single national registry)
+- Different states use slightly different criteria
+- Ongoing identification process
+
+**State-Wise Distribution (Examples):**
+- **Rajasthan:** High due to fluoride (western region), depth issues
+- **Andhra Pradesh:** Fluoride contamination (coastal areas)
+- **Gujarat:** Salinity, fluoride issues
+- **Madhya Pradesh:** Mixed challenges (all 4 criteria present in some areas)
+- **Assam:** Arsenic contamination
+- **West Bengal:** Arsenic (some regions)
+- **Odisha:** Distance & seasonal water availability
+- **Bihar:** Salinity in eastern region
+
+**Population Affected:**
+- Estimated: **100+ million people** living in or near problem villages
+- Vulnerable: Rural poor, agricultural laborers, tribal communities
+- Impacts: Public health, education (water fetching), livelihoods
+
+---
+
+## Problem Village Case Study {.smaller}
+
+### Generalized Scenario Analysis
+
+**Village Profile - "Naldih Village":**
+
+**Geography:**
+- Semi-arid region, 200 km from nearest city
+- Population: 8,000 people (~1,600 households)
+- Occupation: Agriculture (60%), labor (40%)
+- Income level: Below poverty line (75% of households)
+
+**Water Problem Assessment:**
+
+**1. Distance Issue:**
+- Only hand-dug well in village (1.8 km from center)
+- Women walk 3.6 km daily (there & back)
+- 2-3 hours spent on water fetching
+- During drought: Well runs dry, must travel 8+ km
+- School attendance drops (children help with water)
+
+**2. Depth Issue:**
+- Hand pump installed but at 16m depth
+- Pump mechanism deteriorates rapidly (maintenance difficult)
+- Summer: Water table drops to 20m (pump fails)
+- Seasonal migration occurs
+- Drinking from unprotected pond during crisis
+
+**3. Chemical Contamination:**
+- Well water tests: Fluoride 3.5 mg/L (3.5x safe level)
+- Previous survey: 47% of children show dental fluorosis
+- 8 elderly villagers diagnosed with skeletal fluorosis
+- Health impact: Mottled teeth, mobility issues, quality of life
+
+**4. Disease Risk:**
+- Well located 40m upstream of community latrine
+- During monsoon: Flooding contaminates well
+- 2020: Diarrhea outbreak (35 cases, 2 deaths in children)
+- Coliform testing positive (fecal contamination confirmed)
+- No treatment system in place
+
+**Meets ALL 4 Criteria → Official Problem Village**
+
+---
+
+## Solution Strategy: Naldih Village {.smaller}
+
+### Multi-Intervention Approach
+
+**Phase 1: Immediate Relief (Month 1-3)**
+
+**Issue #1 - Distance:**
+- Install hand pump at village center (0.2 km)
+- Reduces walking distance from 3.6 km to 0.4 km
+- Cost: ₹50,000 (~$600 USD)
+- Community labor for installation
+- Outcomes: Time saved, school attendance improves, reduced burden
+
+**Issue #2 - Depth:**
+- Deepen existing well to tap deeper aquifer (22m)
+- Motorized pump installed (solar-powered preferred)
+- Cost: ₹150,000 (~$1,800)
+- Summer supply ensured
+- Maintenance training for 3 village mechanics
+
+**Phase 2: Quality Improvement (Month 3-6)**
+
+**Issue #3 - Fluoride:**
+- Install defluorination unit (activated alumina)
+- Capacity: 5,000 liters/day
+- Cost: ₹200,000 (~$2,400)
+- Target: Reduce fluoride from 3.5 to <1.0 mg/L
+- Training: Operator for maintenance
+
+**Issue #4 - Microbiological:**
+- Add chlorination (bleaching powder, 0.5 mg/L)
+- Daily operator (trained, paid modest stipend)
+- Cost: ₹30,000/year (~$360)
+- Regular testing (monthly coliform check)
+- Community education on boiling during crisis
+
+**Phase 3: Sustainability (Month 6+)**
+
+**Community Management:**
+- Village Water Committee formed (8 members, 50% women)
+- Water fee: ₹2-5 per household monthly
+- Revenue: Maintenance fund
+- Training: Planning, budgeting, operation
+
+**Monitoring:**
+- Quarterly water quality testing (government lab)
+- Annual feasibility study (continued safety)
+- Health surveillance (fluorosis tracking, disease patterns)
+
+---
+
+## Total Cost & Funding {.smaller}
+
+### Investment for Complete Solution
+
+**Capital Cost Breakdown:**
+- Hand pump (village center): ₹50,000
+- Well deepening & motorized pump: ₹150,000
+- Defluorination unit: ₹200,000
+- Testing equipment/kits: ₹30,000
+- Community building/storage: ₹40,000
+- **Total Capital: ₹470,000 (~$5,600)**
+
+**Annual Operating Cost:**
+- Chlorine & chemicals: ₹30,000
+- Maintenance & repairs: ₹40,000
+- Operator salary: ₹60,000 (half-time)
+- Testing/monitoring: ₹10,000
+- **Total Annual: ₹140,000 (~$1,680)**
+
+**Per Capita Impact (8,000 people):**
+- Capital cost: ₹59 per person (~$0.70)
+- Annual cost: ₹17.50 per person/year (~$0.21)
+- **Affordable through government programs + community contribution**
+
+**Funding Sources:**
+- Government: Jal Jeevan Mission (~60%)
+- Local NGO grant: ~20%
+- Community contribution: ~20%
+- Makes solution feasible
+
+---
+
+## Major Chemical Challenges in India {.smaller}
+
+### Beyond the Problem Village
+
+**Fluoride Crisis:**
+- **66 million at risk** in India
+- Affected regions: Rajasthan, AP, Gujarat, MP, UP, Bihar
+- Causes: Dental fluorosis (most common), skeletal fluorosis (severe)
+- Solutions: Well switching, defluorination, dietary changes
+
+**Arsenic Contamination:**
+- **10 million at risk**
+- Affected regions: West Bengal, Assam, parts of MP, UP
+- Causes: Natural geological deposits + industrial contamination
+- Health impact: Skin lesions, neuropathy, cancer risk (latency 10-20 years)
+- Solutions: RO systems, well switching, monitoring
+
+**Salinity (Brackish Water):**
+- Affects coastal regions, arid areas
+- Rajasthan, Gujarat, Tamil Nadu impacted
+- NaCl concentration makes water unpalatable
+- Causes: Geological, seawater intrusion, over-extraction
+- Solutions: Reverse osmosis, alternative source development
+
+**Nitrates (Agricultural Runoff):**
+- Emerging concern in high-fertilizer areas
+- Punjab, Haryana, western UP
+- Cause: Excessive nitrogen fertilizer use
+- Health risk: Cyanosis in infants (methaemoglobinaemia)
+- Solutions: Improved agricultural practices, RO treatment
+
+**Iron & Manganese:**
+- Common in groundwater
+- Causes: Natural mineral content
+- Problems: Staining, taste, odor (not health threat at low levels)
+- Solutions: Oxidation + filtration, ion exchange
+
+---
+
+## Multi-Challenge Intervention {.smaller}
+
+### When Multiple Issues Coexist
+
+**Example: Region with Fluoride + Salinity + Distance Issues**
+
+**Assessment:**
+- Fluoride 2.0 mg/L (needs defluorination)
+- Salinity: 1,500 mg/L TDS (RO-level treatment needed)
+- Only source: 5 km away
+- Population: 10,000
+
+**Solution Selection:**
+1. **Centralized treatment plant** (not individual home filters)
+   - Economics: Bulk treatment more cost-effective
+   - Capacity: 25,000 liters/day
+
+2. **Multi-stage treatment system:**
+   - Pre-filtration (sediment removal)
+   - Reverse osmosis (removes both fluoride + salinity simultaneously)
+   - Post-treatment (pH adjustment, remineralization)
+   - Chlorination (residual protection)
+
+3. **Distribution:**
+   - Piped network to 400 homes
+   - Public standpipes (for others)
+   - Storage tank (emergency buffer)
+
+4. **Cost:**
+   - Capital: ₹2,000,000 (~$24,000)
+   - Annual operating: ₹300,000 (~$3,600)
+   - Per capita: Higher but manages multiple problems
+
+5. **Timeline:** 12-18 months implementation
+
+---
+
+## Government Programs & Initiatives {.smaller}
+
+### Existing Support Systems
+
+**Jal Jeevan Mission (Primary Program):**
+- Direct implementation in problem villages
+- Provides capital subsidy (60-80%)
+- Targets: 100% household tap connections
+- Supports: Water treatment, supply infrastructure
+
+**Pradhan Mantri Gram Sadak Yojana:**
+- Road connectivity + water schemes
+- Integrated village development
+- Parallel benefit: Better access
+
+**Drinking Water Mission (State-Level):**
+- State implementation of national norms
+- Water quality assurance
+- Problem village identification
+- Capacity building for operators
+
+**NGO Partnerships:**
+- UNICEF, OXFAM, local NGOs
+- Community mobilization
+- Technical support
+- Advocacy for vulnerable groups
+
+---
+
+## Challenges to Implementation {.smaller}
+
+### Why Problems Persist Despite Programs
+
+**Infrastructure Gaps:**
+- ✗ High capital cost (~₹5-10 lakhs for small village)
+- ✗ Limited government budget allocation
+- ✗ Coordination issues between departments
+- ✗ Maintenance systems inadequate
+
+**Operational Issues:**
+- ✗ Shortage of trained operators
+- ✗ Equipment breakdown (spare parts difficult)
+- ✗ Power supply unreliable (for pumps)
+- ✗ Water quality testing capacity limited
+
+**Sustainability Concerns:**
+- ✗ User fee collection inadequate
+- ✗ Community management weak
+- ✗ Leadership changes affect continuity
+- ✗ Skill gaps in maintenance
+
+**Source Depletion:**
+- ✗ Groundwater over-extraction
+- ✗ Climate change: Increased drought
+- ✗ Seasonal fluctuation severe
+- ✗ Aquifer recharge inadequate
+
+**Social Barriers:**
+- ✗ Caste discrimination in water access (historically)
+- ✗ Gender issues in decision-making
+- ✗ Illiteracy affecting awareness
+- ✗ Competing resource demands (agriculture vs drinking)
+
+---
+
+## Solutions & Best Practices {.smaller}
+
+### Proven Strategies
+
+**Decentralized Systems:**
+- Community-managed treatment plants
+- Shared responsibility model
+- Local accountability
+- Sustainable operation
+
+**Technology Selection:**
+- Match to local context (not imported solutions)
+- Cost-appropriate options
+- Maintenance capacity considered
+- Climate adaptation included
+
+**Community Participation:**
+- Joint planning from start
+- Training & skill development
+- Ownership mentality
+- Equitable decision-making
+
+**Government Support:**
+- Sustained funding commitment
+- Technical backstopping
+- Capacity building programs
+- Quality assurance oversight
+
+**Innovation:**
+- Solar-powered pumps (renewable energy)
+- Low-cost filtration (biosand)
+- Smartphone monitoring (IoT sensors)
+- Decentralized testing kits
+
+**Equity Focus:**
+- Ensure poorest reach included
+- Gender-sensitive design
+- Minority community inclusion
+- Disability accessibility
+
+---
+
+## Legal Commitment by India {.smaller}
+
+### International Commitments
+
+**United Nations Sustainable Development Goals (SDGs):**
+- **SDG 6:** "Ensure access to water and sanitation for all"
+- Target: Universal coverage by 2030
+- India committed to tracking & reporting
+
+**Millennium Development Goals Successor:**
+- Safe water as fundamental development indicator
+- Government accountability to international community
+- Progress monitoring & transparency
+
+**Constitution Obligations:**
+- Article 47: Clean water provision duty
+- Supreme Court rulings: Water as human right
+- Legally enforceable (not just aspirational)
+
+**National Targets:**
+- Jal Jeevan Mission: 100% household tap connections by 2024
+- Water quality: All supplies meet IS 10500
+- Sustainability: 24/7 continuous supply
+- Equity: Reach poorest & most vulnerable
+
+---
+
+## Future Outlook {.smaller}
+
+### Path Forward
+
+**Positive Developments:**
+- ✓ Jal Jeevan Mission momentum increasing
+- ✓ State-level political commitment
+- ✓ Community awareness growing
+- ✓ Technology innovations scaling
+- ✓ International support available
+
+**Remaining Challenges:**
+- Climate change: Water availability declining
+- Population growth: Demand increasing
+- Urbanization: Infrastructure needs growing
+- Resource constraints: Budget limitations
+- Capacity: Skilled workforce shortage
+
+**2030 Vision:**
+- 100% households with tap connection
+- Continuous 24-7 supply
+- Water quality verified & safe
+- Fluoride/arsenic treatment in affected areas
+- Sustainable community management
+- Equitable access across all groups
+
+**India's Role:**
+- Model for developing countries
+- Technology innovation hub
+- Capacity building center
+- Advocacy for water rights
+
+---
+
+## Summary: Safe Water in India {.center}
+
+### Key Takeaways
+
+:::{.columns}
+:::{.column width="50%"}
+**Current Status:**
+- 94% rural, 91% urban have access
+- BUT: Quality not always verified
+- 66M fluoride risk, 10M arsenic risk
+- Problem villages: Persistent challenge
+:::
+:::{.column width="50%"}
+**Solutions:**
+- Jal Jeevan Mission: Scaling up
+- Defluorination & RO: Available
+- Community management: Essential
+- Government support: Increasing
+:::
+:::
+
+---
+
+## End of Module 8 {.center}
+
+### Final Assessment Coming
+
+**You will now be assessed on:**
+
+1. Government norms & IS 10500
+2. Census 2011 data interpretation
+3. Problem village criteria & solutions
+4. Chemical challenges (fluoride, arsenic)
+5. Jal Jeevan Mission understanding
+
+**Short Answer Questions (2):**
+1. What are the 4 criteria defining a Problem Village? Provide one mitigation strategy for each.
+2. Explain the gap between Census 2011 "safe water access" (94%) and actual safe water provision in India
+
+**Long Answer Question (1):**
+You are assigned as Public Health Officer for a district with 5,000 problem villages. Design a prioritized 3-year intervention strategy addressing: fluoride contamination (2,000 villages), distance issues (2,500 villages), and water quality surveillance (all villages). Include budget allocation, community participation, and sustainability measures.
+
+---
+
+## References & Data Sources {.smaller}
+
+**Indian Government Sources:**
+- Ministry of Jal Shakti (Water Resources)
+- Jal Jeevan Mission: https://jaljeevanmission.gov.in/
+- National Water Policy (2012)
+- Indian Constitution Articles 47 & 21
+
+**Standards & Guidelines:**
+- IS 10500 - Drinking Water Standards (Indian Standards Bureau)
+- CPHEEO Standards (Central Public Health Engineering Organization)
+- WHO Guidelines for Drinking Water Quality (2011)
+
+**Data Sources:**
+- Census of India 2011 - Water Access Data
+- National Sample Survey (NSS) - Household water use
+- India Water Portal: https://www.indiawaterportal.org/
+
+**Books & References:**
+- K. Park - Textbook of Preventive and Social Medicine (26th Edition)
+- State-Level Water Quality Reports
+- Problem Village Surveys (state governments)
+
+---
+
+## Questions & Discussion {.center}
+
+### Module 8 Complete
+
+**Congratulations!**
+- You have completed all 8 modules
+- Comprehensive knowledge of water safety & health
+
+**Next Steps:**
+1. Review assessment questions
+2. Complete final evaluations
+3. **Proceed to Module 9: Comprehensive Quiz**
+
+**Resources Available:**
+- All 8 module slide decks
+- References & government data
+- Case studies & scenarios
+- Assessment answer keys

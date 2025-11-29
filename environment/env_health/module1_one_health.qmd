@@ -14,6 +14,10 @@ format:
     center: true
     zoom: true
     footer: "[Home](#home) | Module 1/8 | [Next Module →](module2_environment_health.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
 ---
 
 ## Welcome to Module 1 {#home}
@@ -449,69 +453,68 @@ Understanding One Health provides the foundation for studying environmental heal
 
 ---
 
-## Assessment: Multiple Choice Questions {.smaller}
+## Assessment: Multiple Choice Questions
 
-### Question 1 {.quiz-question}
+---
+
+::: {.quiz-question}
+### Question 1 
 
 Which of the following is NOT one of the three pillars of the One Health Triad?
 
 - Human Health
 - Animal Health
-- [Economic Health]{.correct}
+- [Economic Health]{.correct data-explanation="The One Health Triad comprises Human Health, Animal Health, and Environmental Health. Economic health, while important, is not a core pillar of the One Health framework, though health outcomes do have economic implications."}
 - Environmental Health
 
-::: {.notes}
-**Explanation:** The One Health Triad comprises Human Health, Animal Health, and Environmental Health. Economic health, while important, is not a core pillar of the One Health framework, though health outcomes do have economic implications.
 :::
+
 
 ---
 
-### Question 2 {.quiz-question}
+::: {.quiz-question}
+### Question 2 
 
 India's National One Health Mission focuses on how many key areas?
 
 - Three
 - Four
-- [Six]{.correct}
+- [Six]{.correct data-explanation="The National One Health Mission focuses on six key areas- (1) Zoonotic Disease Surveillance, (2) AMR Control, (3) Food Safety, (4) Laboratory Capacity, (5) Environmental Health, and (6) Research & Development."}
 - Eight
 
-::: {.notes}
-**Explanation:** The National One Health Mission focuses on six key areas: (1) Zoonotic Disease Surveillance, (2) AMR Control, (3) Food Safety, (4) Laboratory Capacity, (5) Environmental Health, and (6) Research & Development.
 :::
 
 ---
 
-### Question 3 {.quiz-question}
+::: {.quiz-question}
+### Question 3
 
 Which Indian state ranks FIRST in the NITI Aayog Health Index (2021)?
 
 - Tamil Nadu
 - Maharashtra
-- [Kerala]{.correct}
+- [Kerala]{.correct data-explanation="Kerala achieved the highest Overall Index Score of 82.20, followed by Tamil Nadu (72.42), Telangana (69.96), and Andhra Pradesh (69.95). Kerala's strong public health infrastructure, surveillance systems, and inter-sectoral coordination contribute to its top ranking."}
 - Telangana
 
-::: {.notes}
-**Explanation:** Kerala achieved the highest Overall Index Score of 82.20, followed by Tamil Nadu (72.42), Telangana (69.96), and Andhra Pradesh (69.95). Kerala's strong public health infrastructure, surveillance systems, and inter-sectoral coordination contribute to its top ranking.
 :::
 
 ---
 
-### Question 4 (Application-Based) {.quiz-question}
+::: {.quiz-question}
+### Question 4 (Application-Based)
 
 A village experiences an outbreak of leptospirosis after monsoon flooding. Rats are found near contaminated water sources used for drinking. Which One Health intervention would be MOST effective?
 
 - Distribute antibiotics to affected individuals only
 - Implement rodent control measures only
 - Provide bottled water to the community only
-- [Integrated approach: rodent control + water treatment + public health education]{.correct}
+- [Integrated approach: rodent control + water treatment + public health education]{.correct data-explanation="Leptospirosis requires a One Health approach addressing all three components-> (1) Human - treat cases and educate on hygiene, (2) Animal - rodent control to eliminate reservoir, (3) Environment - water source protection and treatment. Single-sector interventions are insufficient for zoonotic disease control."}
 
-::: {.notes}
-**Explanation:** Leptospirosis requires a One Health approach addressing all three components: (1) Human - treat cases and educate on hygiene, (2) Animal - rodent control to eliminate reservoir, (3) Environment - water source protection and treatment. Single-sector interventions are insufficient for zoonotic disease control.
 :::
 
 ---
 
-## Long Answer Questions (10 marks each)
+## Long Answer Questions (10 marks each) {.small}
 
 1. **Explain the One Health concept and discuss its relevance to water contamination in India.** Illustrate with specific examples of waterborne zoonotic diseases and their transmission pathways across the human-animal-environment interface.
 
@@ -523,7 +526,7 @@ A village experiences an outbreak of leptospirosis after monsoon flooding. Rats 
 
 ---
 
-## Short Answer Questions (5 marks each)
+## Short Answer Questions (5 marks each) {.small}
 
 1. Define the One Health Triad and explain the interconnection between its three pillars.
 
@@ -559,14 +562,9 @@ A village experiences an outbreak of leptospirosis after monsoon flooding. Rats 
 
 ## Thank You!
 
-### Module 1 Complete
 
 **Next Module:** Environment & Health Fundamentals
 
 [Home](#home) | Module 1/8 | [Next Module →](module2_environment_health.html)
 
-**Questions or feedback?** Contact your instructor.
 
-::: {.notes}
-Congratulations on completing Module 1! You now understand the foundational One Health concept that will inform all subsequent modules on water, environment, and health. The integrated approach is essential for addressing complex public health challenges.
-:::

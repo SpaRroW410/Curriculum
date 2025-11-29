@@ -1,0 +1,990 @@
+---
+title: "Water Treatment Purification"
+subtitle: "Storage, Filtration, Disinfection & Advanced Methods"
+author: "Environmental Health"
+date: today
+format:
+  revealjs:
+    theme: dark
+    transition: slide
+    center: true
+    footer: "[← Previous](module4_water_sources.html) | [Home](#home) | Module 3/8 | [Next →](module6_pollution_diseases.html)"
+    width: 1200
+    height: 720
+echo: false
+---
+
+## Module 5: Water Treatment Purification {.center #home}
+
+### Essential Processes for Safe Drinking Water
+
+:::{.fragment}
+**Learning Objectives:**
+- Understand water treatment stages
+- Compare filtration methods
+- Learn disinfection techniques
+- Explore household systems
+:::
+
+:::{.fragment}
+**Key Topics Covered:**
+Storage & Sedimentation | SSF & RSF | Household Filtration | Solar Systems | Disinfection
+:::
+
+---
+
+## Recap: Previous Module (Module 4) {.smaller}
+
+### Quick Review - Water Sources & Characteristics
+
+:::{.columns}
+:::{.column width="50%"}
+**Water Sources:**
+- Rainwater (purest)
+- Surface water (rivers, lakes)
+- Groundwater (wells, springs)
+- Treatment needs vary
+:::
+:::{.column width="50%"}
+**Contamination Risks:**
+- Biological (pathogens)
+- Chemical (heavy metals)
+- Physical (sediment)
+- Selection critical
+:::
+:::
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 1: Water Quality
+**Which of the following is NOT a characteristic of deep wells?**
+
+- [ ] Taps water below first impervious layer
+- [ ] Provides constant supply
+- [x] Highly liable to seasonal pollution
+- [ ] Furnishes safest water
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 2: Water Sources
+**Spring water becomes contaminated through:**
+
+- [x] Inadequate protective structures
+- [ ] Natural purity only
+- [ ] Depth alone
+- [ ] Rainwater mixing
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 3: Sanitary Wells
+**A sanitary well lining should extend at least _____ meters above ground:**
+
+- [ ] 0.5 meters
+- [x] 0.6-0.9 meters (60-90 cm)
+- [ ] 1.5 meters
+- [ ] 2 meters
+
+---
+
+## Treatment Overview {.center}
+
+### Purpose of Water Treatment
+
+:::{.fragment}
+**Primary Goal:** Convert raw water into safe, wholesome water suitable for drinking
+:::
+
+:::{.fragment}
+**Three Main Objectives:**
+1. **Remove Physical Impurities** (sediment, turbidity)
+2. **Eliminate Biological Threats** (bacteria, viruses, protozoa)
+3. **Reduce Chemical Contaminants** (heavy metals, salts)
+:::
+
+:::{.fragment}
+**Standards:** Meet WHO guidelines and national drinking water standards
+:::
+
+---
+
+## Core Treatment Stages {.smaller}
+
+### The Water Treatment Process
+
+```
+Raw Water
+    ↓
+[STORAGE & SEDIMENTATION]
+    ↓
+[FILTRATION]
+    ↓
+[DISINFECTION]
+    ↓
+Safe Drinking Water
+```
+
+:::{.fragment}
+**Additional considerations:**
+- Post-treatment distribution protection
+- Household level treatment options
+- Advanced methods for special contaminants
+:::
+
+---
+
+## Stage 1: Storage & Sedimentation {.smaller}
+
+### Purpose & Process
+
+**Primary Benefits:**
+- Removes ~90% suspended impurities in 24 hours
+- Allows time for settling under gravity
+- Reduces load on downstream filters
+- Cost-effective natural purification
+
+**Physical Changes:**
+- Clear water formation (better light penetration)
+- Turbidity reduction
+- Improved conditions for UV disinfection
+
+---
+
+## Storage: Chemical Changes {.smaller}
+
+### Oxidation & Bacterial Reduction
+
+**Chemical Processes:**
+- Aerobic bacteria oxidize organic matter
+- Free ammonia converts to nitrates
+- Dissolved oxygen is consumed
+- pH stabilizes
+
+**Microbiological Purification:**
+- Total bacterial count drops by **90% in 5-7 days**
+- Pathogenic organisms gradually die out
+- Viruses show significant reduction
+- **Optimal storage period: 10-14 days** (river water)
+
+**⚠️ Caution:**
+- Prolonged storage (>14 days) allows algae growth
+- Bad odors and color develop
+- Balance needed between purification and degradation
+
+---
+
+## Storage Infrastructure {.smaller}
+
+### Impounding Reservoirs & Tanks
+
+**Impounding Reservoirs:**
+- Large earthwork or masonry structures
+- Store significant water volumes
+- Suitable for urban systems
+- Cities: Mumbai, Chennai, Nagpur
+
+**Household/Community Tanks:**
+- Overhead ground-level storage
+- Rooftop collection systems
+- Simple gravity-fed distribution
+- Requires protection from contamination
+
+**Key Requirement:** Covered storage to prevent re-contamination
+
+---
+
+## Stage 2: Filtration - Overview {.smaller}
+
+### Two Main Filtration Types
+
+:::{.columns}
+:::{.column width="50%"}
+### Slow Sand Filter (SSF)
+- **Biological process**
+- Gravity-driven
+- No chemicals needed
+- Low maintenance
+- Ideal for rural areas
+:::
+:::{.column width="50%"}
+### Rapid Sand Filter (RSF)
+- **Mechanical process**
+- Chemical pre-treatment required
+- Regular backwashing needed
+- Higher operational cost
+- Best for urban systems
+:::
+:::
+
+**Key Principle:** Filtration removes 98-99% of bacteria
+
+---
+
+## SSF: Slow Sand Filtration {.smaller}
+
+### Operating Characteristics
+
+**Flow Rate:** 0.1-0.4 mm/hour (very slow)
+
+**Sand Specifications:**
+- Grain size: 0.2-0.4 mm (fine sand)
+- Depth: 0.5-1.5 meters
+- Supported by gravel layer (30-40 cm)
+- Total surface area: ~15,000 m² per m³
+
+**Filtration Duration:** 24-72 hours for water to pass through
+
+**Pathogen Removal:** 90-99% bacterial reduction
+
+---
+
+## SSF: The Schmutzdecke Layer {.smaller}
+
+### Biological Magic
+
+**What is Schmutzdecke?**
+- Biologically active layer at sand surface
+- Forms naturally within 2-3 weeks
+- Contains:
+  - Algae (photosynthetic)
+  - Protozoa (predatory)
+  - Bacteria (beneficial)
+
+**How it Works:**
+1. **Mechanical straining** - Removes large particles
+2. **Adsorption** - Traps fine particles & some chemicals
+3. **Biochemical degradation** - Microbes break down organics
+4. **Predation** - Protozoa consume bacteria & viruses
+
+**Result:** Enhanced pathogen removal compared to sand alone
+
+---
+
+## SSF: Process Flow {.smaller}
+
+### Water Journey Through SSF
+
+```
+Raw Water (from source)
+        ↓
+[Supernatant Layer - 1-1.5m]
+(waiting period: 3-12 hours)
+        ↓
+[Schmutzdecke - biologically active layer]
+        ↓
+[Sand Bed - 1 meter of fine sand]
+(mechanical, adsorption, oxidation)
+        ↓
+[Gravel Support Layer - 30-40cm]
+        ↓
+[Under-Drainage System]
+        ↓
+Purified Water
+```
+
+---
+
+## SSF: Advantages & Disadvantages {.smaller}
+
+### Comparative Analysis
+
+**Advantages:**
+- ✓ Simple, low-cost technology
+- ✓ Minimal energy required (gravity-fed)
+- ✓ No chemicals needed
+- ✓ Sustainable for small communities
+- ✓ Highly effective (90-99% removal)
+- ✓ Low operational expertise required
+
+**Disadvantages:**
+- ✗ Requires significant land area
+- ✗ Slow process (24-72 hours)
+- ✗ Maintenance needed (schmutzdecke scraping)
+- ✗ Ineffective for high-turbidity water
+- ✗ Long startup period (2-3 weeks for biofilm)
+
+---
+
+## SSF: Maintenance & Operation {.smaller}
+
+### Regular Care Requirements
+
+**Schmutzdecke Maintenance:**
+- Scrape top 5-10cm every 2-3 months
+- Remove accumulated debris
+- Biological layer regenerates within days
+
+**Sand Replacement:**
+- Top sand layer removed during scraping
+- Replace periodically (every few years)
+- Bottom sand layers remain intact
+
+**Health Benefits Achieved:**
+- Removes bacteria, protozoa, some viruses
+- Reduces turbidity significantly
+- Improves taste & odor
+- Simple monitoring for effectiveness
+
+---
+
+## SSF Demonstration {.center}
+
+### Visual Learning: How SSF Works
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uXKbW1FPgpA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-video-player; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Video:** Slow Sand Filter Process & Schmutzdecke Formation
+
+---
+
+## RSF: Rapid Sand Filtration {.smaller}
+
+### Operating Characteristics
+
+**Flow Rate:** 5-15 mm/hour (much faster than SSF)
+
+**Sand Specifications:**
+- Grain size: 0.4-0.7 mm (coarser than SSF)
+- Depth: 0.5-1.5 meters
+- Supported by gravel layer
+- Allows faster water passage
+
+**Filtration Duration:** 2-8 hours (major advantage)
+
+**Pathogen Removal:** 95-98% with pre-treatment
+
+---
+
+## RSF: Multi-Stage Process {.smaller}
+
+### Pre-Treatment is Essential
+
+**Stage 1: Coagulation-Flocculation**
+- Chemical coagulants added (alum, ferric sulfate)
+- Small particles aggregate into larger flocs
+- Duration: 15-30 minutes
+- Essential for water clarity
+
+**Stage 2: Sedimentation**
+- Flocs settle under gravity
+- Large particles removed
+- Duration: 2-4 hours
+- Reduces filter loading
+
+**Stage 3: Rapid Filtration**
+- Water passes through sand
+- Mechanical straining
+- Duration: 2-8 hours
+- High throughput achieved
+
+---
+
+## RSF: Maintenance Demands {.smaller}
+
+### Operational Complexity
+
+**Regular Backwashing:**
+- Required every 5-15 days
+- Reverses water flow through sand
+- Removes trapped particles
+- Duration: 10-20 minutes
+- Energy intensive (requires pumps)
+
+**Chemical Management:**
+- Coagulants must be monitored
+- Dosage adjusted based on water quality
+- Additional cost for chemicals
+- Trained operators needed
+
+**Troubleshooting:**
+- Filter runs clogged → backwash
+- Poor water quality → adjust coagulant
+- Increased turbidity → check pre-treatment
+
+---
+
+## RSF Demonstration {.center}
+
+### Visual Learning: Rapid Sand Filter
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cSRqkFmqWrw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-video-player; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Video:** Rapid Sand Filter Operation & Backwashing
+
+---
+
+## SSF vs RSF: Detailed Comparison {.smaller}
+
+### Parameter Analysis
+
+| Parameter | SSF | RSF |
+|-----------|-----|-----|
+| **Flow Rate** | 0.1-0.4 mm/hr | 5-15 mm/hr |
+| **Sand Size** | 0.2-0.4 mm | 0.4-0.7 mm |
+| **Pre-treatment** | None | Coagulation required |
+| **Filtration Time** | 24-72 hours | 2-8 hours |
+| **Backwashing** | Not needed | Every 5-15 days |
+| **Pathogen Removal** | 90-99% | 95-98% |
+| **Chemical Use** | None | Coagulants needed |
+| **Energy Required** | Nil (gravity) | Pumps required |
+| **Land Area** | Large | Compact |
+| **Maintenance** | Low/simple | Frequent/complex |
+| **Lifespan** | 10-20 years | 8-15 years |
+
+---
+
+## SSF vs RSF: Decision Matrix {.smaller}
+
+### When to Use Each
+
+**Choose SSF When:**
+- ✓ Low turbidity water source
+- ✓ Small rural community
+- ✓ Limited budget/resources
+- ✓ Minimal operational expertise available
+- ✓ Land availability not constrained
+- ✓ Chemical supply unreliable
+
+**Choose RSF When:**
+- ✓ High-volume water demand
+- ✓ Urban municipality
+- ✓ High-turbidity source
+- ✓ Trained operators available
+- ✓ Land area limited
+- ✓ Chemical supply reliable
+- ✓ Budget allows operational costs
+
+---
+
+## Case Study: SSF vs RSF Selection {.smaller}
+
+### Scenario: Post-Flood Water Treatment
+
+**Context:** City experiences torrential flooding, water sources highly turbid
+
+**SSF Option:**
+- Slow startup (needs 2-3 weeks biofilm)
+- Cannot handle high turbidity immediately
+- Suitable ONLY after water clears
+- **Not ideal for emergency**
+
+**RSF Option:**
+- Coagulants aggregate particles rapidly
+- Handles high turbidity well
+- Can operate immediately
+- **Better for emergency response**
+
+**Answer:** Rapid Sand Filter more appropriate for post-flood scenario
+
+---
+
+## Household Level Filtration {.smaller}
+
+### Point-of-Use Treatment
+
+**Multi-Stage Household Systems:**
+1. **Straining/Pre-filtration** - Remove debris, sediment
+2. **Activated Carbon** - Remove chlorine, odor, taste, VOCs
+3. **Sand Layer** - Mechanical filtration
+4. **Ceramic/Biosand** - Fine filtration, pathogen removal
+5. **Final Storage** - Protected container
+
+**Activated Carbon Benefits:**
+- Removes chlorine (taste/odor)
+- Absorbs organic contaminants (VOCs)
+- Improves water palatability
+- Does NOT remove microorganisms alone
+- Requires proper maintenance
+
+---
+
+## Household Filtration Methods {.smaller}
+
+### Practical Options
+
+**DIY Low-Cost Filters:**
+- **Three-Pot Method** - Settling for 24-72 hours
+- **Cloth Straining** - Reduces turbidity 50%
+- **Biosand Filters** - Homemade sand filters
+- **Ceramic Pot Filters** - Replaceable cartridges
+- **Candle Filters** - Similar to pot filters
+
+**Commercial Household Options:**
+- **RO Systems** - Remove heavy metals, fluoride, nitrates
+- **UV Lamps** - Kill microorganisms
+- **Gravity-Fed Filters** - No electricity needed
+- **Under-Sink Filters** - Integrated with faucet
+
+---
+
+## Household Storage Systems {.smaller}
+
+### Rural & Urban Contexts
+
+**Rural Household Storage:**
+- Open/covered wells
+- Earthen pots (cooling effect)
+- Plastic containers
+- Overhead concrete tanks
+- Underground/ground-level tanks
+
+**Urban Household Storage:**
+- Overhead water tanks (RCC, plastic)
+- Covered ground-level tanks
+- Individual water purifiers with storage
+- Building-level sump & overhead systems
+
+**Critical Point:** Covered storage essential to prevent contamination post-treatment
+
+---
+
+## Reverse Osmosis (RO) Systems {.smaller}
+
+### Advanced Household Technology
+
+**Mechanism:**
+- Semipermeable membrane with pore size: 0.001 micrometers (1 nanometer)
+- Water forced through under pressure
+- Removes dissolved salts, heavy metals
+- Contaminant removal capability: >99%
+
+**Effectiveness:**
+- ✓ Removes fluoride, arsenic, lead, nitrates
+- ✓ Desalination capable
+- ✓ Improves taste significantly
+
+**Limitations:**
+- ✗ Wastewater generation (3:1 ratio - 3L rejected per 1L purified)
+- ✗ Removes beneficial minerals
+- ✗ Higher cost
+- ✗ Requires maintenance & filter replacement
+
+---
+
+## Solar-Powered Water Systems {.smaller}
+
+### Renewable Energy Integration
+
+**Solar Disinfection (SODIS):**
+- UV-A radiation + heat
+- Clear PET bottle in sunlight
+- Minimum exposure: 30 minutes optimal
+- Effective against bacteria, some viruses
+- NOT effective against: Cryptosporidium, Ascaris
+
+**Solar Pumping:**
+- Photovoltaic panels power pumps
+- Drives water through RO/UV systems
+- Sustainable for off-grid areas
+
+**Advantages:**
+- ✓ No electricity costs
+- ✓ Scalable from household to community
+- ✓ Sustainable technology
+- ✓ Ideal for rural/remote areas
+
+**Limitations:**
+- ✗ Weather dependent
+- ✗ Lower effectiveness on cloudy days
+- ✗ May require backup system
+
+---
+
+## SODIS Demonstration {.center}
+
+### Solar Disinfection Process
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-Oob-4nKqk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-video-player; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**Video:** Solar Water Disinfection (SODIS) Method
+
+---
+
+## Stage 3: Disinfection Methods {.smaller}
+
+### Purpose & Types
+
+**Primary Goal:** Eliminate remaining pathogenic microorganisms
+
+**Five Main Methods:**
+
+1. **Boiling**
+2. **Chlorination**
+3. **UV Radiation**
+4. **Ozonation**
+5. **Solar Disinfection (SODIS)**
+
+---
+
+## Disinfection Method 1: Boiling {.smaller}
+
+### Heat-Based Inactivation
+
+**Process:**
+- Rolling boil for 10-20 minutes
+- All pathogens killed at 100°C
+- Exception: Clostridium (sporulating organisms) may survive
+
+**Advantages:**
+- ✓ Simple, no equipment needed
+- ✓ Effective against all microorganisms
+- ✓ No residual chemicals
+- ✓ Affordable (fuel-dependent)
+- ✓ Universal acceptance
+
+**Disadvantages:**
+- ✗ Energy intensive
+- ✗ No residual protection (water recontaminates)
+- ✗ Taste becomes bland
+- ✗ Not practical for large volumes
+
+**Best Use:** Individual household, emergencies, bottled water
+
+---
+
+## Disinfection Method 2: Chlorination {.smaller}
+
+### Chemical Disinfection - Most Widely Used
+
+**Forms of Chlorine:**
+- Bleaching powder
+- Chlorine tablets/solution
+- Sodium hypochlorite
+- High test hypochlorite (HTH)
+
+**Typical Dosage:**
+- Residual chlorine: 0.3-0.5 mg/L
+- Contact time: 30 minutes minimum
+- Adjusted based on water quality
+
+**Advantages:**
+- ✓ Most widely used globally
+- ✓ Cost-effective
+- ✓ Provides residual protection
+- ✓ Effective against bacteria & viruses
+- ✓ Scalable (household to municipality)
+
+**Limitations:**
+- ✗ Does NOT affect: HIV, Polio, Shigella, Salmonella, Cryptosporidium at normal doses
+- ✗ Forms disinfection by-products (DBPs)
+- ✗ Taste & odor (chlorine smell)
+- ✗ Requires careful dosing
+
+---
+
+## Disinfection Method 3: UV Radiation {.smaller}
+
+### Light-Based Inactivation
+
+**Mechanism:**
+- UV-A/UV-C radiation damages DNA/RNA
+- Microorganisms cannot reproduce
+- Kills bacteria & viruses effectively
+
+**Advantages:**
+- ✓ No chemicals used
+- ✓ No harmful by-products
+- ✓ Effective against most pathogens
+- ✓ No taste/odor changes
+- ✓ Rapid disinfection
+
+**Disadvantages:**
+- ✗ No residual protection (water recontaminates during distribution)
+- ✗ Requires electricity
+- ✗ Ineffective if water turbid (particles block UV)
+- ✗ Higher initial cost
+- ✗ Lamp maintenance needed
+
+**Best Use:** Small communities, household systems with post-treatment storage protection
+
+---
+
+## Disinfection Method 4: Ozonation {.smaller}
+
+### Advanced Oxidation
+
+**Mechanism:**
+- Ozone (O₃) oxidizes organic & microbial cell membranes
+- Very powerful disinfectant
+- Converts back to O₂ (no residue)
+
+**Effectiveness:**
+- More effective than chlorination
+- Works against resistant pathogens
+- Removes some chemicals/odors
+
+**Advantages:**
+- ✓ Powerful disinfection
+- ✓ No residual toxic by-products
+- ✓ Improves taste & odor
+
+**Disadvantages:**
+- ✗ Expensive technology
+- ✗ No residual protection
+- ✗ Ozone is toxic (requires containment)
+- ✗ Requires skilled operators
+- ✗ Not suitable for small communities
+
+**Best Use:** Large urban systems with other technologies
+
+---
+
+## Disinfection Method 5: Solar Disinfection (SODIS) {.smaller}
+
+### Household-Level Solar Method
+
+**Requirements:**
+- Clear PET plastic bottles
+- Sunlight exposure
+- Minimum 30 minutes (longer on cloudy days)
+
+**Process:**
+- UV-A radiation + heat (60-65°C)
+- Kills bacteria & viruses
+- Some viral inactivation
+
+**Effectiveness:**
+- ✓ Bacteria: highly effective
+- ✓ Viruses: effective
+- ✗ Protozoa: NOT effective (Cryptosporidium, Ascaris resistant)
+
+**Advantages:**
+- ✓ Zero cost
+- ✓ No chemicals
+- ✓ Accessible to poorest communities
+- ✓ Simple to implement
+
+**Limitations:**
+- ✗ Weather dependent
+- ✗ Not effective against all pathogens
+- ✗ Time-consuming
+- ✗ Limited to small quantities
+
+---
+
+## Disinfection Comparison Table {.smaller}
+
+### When to Use Each Method
+
+| Method | Cost | Residual | Speed | Effectiveness | Best Use |
+|--------|------|----------|-------|---|---|
+| **Boiling** | Low | No | Fast | Very high | Emergency, household |
+| **Chlorination** | Low | Yes | Fast | High* | Municipal, community |
+| **UV** | Medium | No | Fast | High** | Small community, household |
+| **Ozonation** | High | No | Fast | Highest | Large urban only |
+| **SODIS** | Very low | No | Slow | Medium*** | Poorest communities |
+
+*Does not affect certain pathogens (HIV, Polio)
+**Ineffective if water turbid
+***Ineffective against protozoa
+
+---
+
+## Integrated Treatment Approach {.smaller}
+
+### Combined Methods for Optimal Safety
+
+**Best Practice Sequence:**
+
+```
+RAW WATER
+    ↓
+STORAGE (10-14 days)
+    ↓
+SAND FILTRATION (SSF or RSF)
+    ↓
+DISINFECTION (Chlorination or UV)
+    ↓
+HOUSEHOLD STORAGE (covered)
+    ↓
+POINT-OF-USE (Optional: RO or boiling)
+    ↓
+SAFE DRINKING WATER
+```
+
+**Rationale:**
+- Redundancy ensures safety
+- Multiple barriers prevent failures
+- Fits resources & context
+
+---
+
+## Advanced Water Treatment {.smaller}
+
+### For Special Contaminants
+
+**Activated Sludge Process:**
+- Biological treatment
+- Microorganisms decompose organic matter
+- Reduces BOD by 85-90%
+- Used in sewage/wastewater treatment
+- Not typical for drinking water
+
+**Constructed Wetlands:**
+- Eco-friendly natural filtration
+- Plants remove nutrients
+- Sustainable approach
+- Lower cost
+- Longer residence time
+
+**Ion Exchange:**
+- Removes hardness
+- Softens water
+- Removes some heavy metals
+- Requires regeneration chemicals
+
+---
+
+## Water Treatment Case Studies {.smaller}
+
+### Real-World Application
+
+**Case 1: Rural Village (Limited Resources)**
+- Source: Shallow borehole
+- Challenge: Low turbidity, occasional coliforms
+- Solution: SSF + chlorination
+- Cost: Low, sustainable
+- Maintenance: Local community trained
+
+**Case 2: Urban Municipality (High Volume)**
+- Source: River with seasonal variation
+- Challenge: High turbidity, industrial pollution
+- Solution: RSF + ozonation + chlorination
+- Cost: Higher, but serves 100,000+ people
+- Maintenance: Professional operators
+
+**Case 3: Household (Individual)**
+- Source: Municipal supply or well
+- Challenge: Residual concerns
+- Solution: RO + boiling + SODIS
+- Cost: Medium for RO, low for alternatives
+- Maintenance: Filter replacement as needed
+
+---
+
+## Quality Testing Post-Treatment {.smaller}
+
+### Ensuring Safety
+
+**Physical Tests:**
+- Turbidity: Should be <1 NTU
+- Color: Absent or <5 TCU
+- Taste/Odor: None
+
+**Microbiological Tests:**
+- Total coliforms: Absent in 100 mL
+- E. coli: Absent
+- Fecal streptococci: Absent
+
+**Chemical Tests:**
+- Residual chlorine: 0.3-0.5 mg/L (if chlorinated)
+- pH: 6.5-8.5
+- Key parameters: Based on source water
+
+**Monitoring Frequency:**
+- Municipal systems: Daily
+- Community systems: Monthly
+- Household: User-dependent
+
+---
+
+## Common Challenges & Solutions {.smaller}
+
+### Troubleshooting Water Treatment
+
+| Challenge | Cause | Solution |
+|-----------|-------|----------|
+| High turbidity post-filtration | Filter clogged/broken | Backwash/replace sand |
+| Disinfectant taste | Over-chlorination | Reduce chlorine dose |
+| Water cloudiness | Gas bubbles after treatment | Allow settling |
+| Coliform presence | Contamination in distribution | Check pipes/storage |
+| Slow filter flow | Biofilm accumulation (SSF) | Scrape schmutzdecke |
+| Equipment failure | Maintenance neglected | Establish schedule |
+
+---
+
+## Summary: Water Treatment Process {.center}
+
+### Key Takeaways
+
+:::{.columns}
+:::{.column width="50%"}
+**Treatment Stages:**
+- Storage
+- Filtration
+- Disinfection
+:::
+:::{.column width="50%"}
+**Context Matters:**
+- Rural vs urban
+- Resources available
+- Source water quality
+:::
+:::
+
+:::{.fragment}
+**Critical Success Factors:**
+- Multiple barriers
+- Proper maintenance
+- Operator training
+- Community buy-in
+:::
+
+---
+
+## End of Module 5 {.center}
+
+### Assessment Questions Coming
+
+**You will now be assessed on:**
+
+1. Storage & sedimentation principles
+2. SSF vs RSF comparison
+3. Household filtration systems
+4. Disinfection methods
+5. Treatment selection criteria
+
+**Short Answer Questions (2):**
+1. Describe the role of schmutzdecke in slow sand filtration
+2. Compare advantages/disadvantages of household RO vs boiling
+
+**Long Answer Question (1):**
+Design a water treatment system for a rural village of 5,000 people with limited resources and a shallow borehole source. Justify your technology choices.
+
+---
+
+## References & Data Sources {.smaller}
+
+**Books & Guidelines:**
+- K. Park - Textbook of Preventive and Social Medicine (26th Edition)
+- WHO Guidelines for Drinking Water Quality (2011)
+
+**Online Resources:**
+- Water.gov.in - India Water Portal
+- WHO Drinking Water Standards
+
+**Video References:**
+- Slow Sand Filter Process [YouTube: Environmental Engineering Channel]
+- Rapid Sand Filter Operations [YouTube: Civil Engineering Videos]
+- Solar Water Disinfection [YouTube: SODIS.org]
+
+---
+
+## Questions & Discussion {.center}
+
+### Module 5 Complete
+
+**Next Steps:**
+1. Review key concepts
+2. Complete assessment questions
+3. Proceed to Module 6: Pollution & Diseases
+
+**Resources Available:**
+- Slide deck (revisit anytime)
+- References section
+- Video links for visualization

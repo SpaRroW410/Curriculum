@@ -15,9 +15,6 @@
   margin-bottom: 0.3em;
 }
 
-
-
-
 /* === RevealJS Code Blocks === */
 .reveal pre code {
   background-color: #1e1e1e;
@@ -174,7 +171,7 @@
   .reveal h2,
   .reveal h3,
   .reveal h4 {
-    font-size: 1.2em; /* or use clamp() for smoother scaling */
+    font-size: 1.2em;
   }
 
   .reveal p,
@@ -186,29 +183,24 @@
   .reveal pre code {
     font-size: 0.9em;
   }
-  
+
   .reveal h2 {
-  font-size: clamp(1em, 4vw, 1.6em);
+    font-size: clamp(1em, 4vw, 1.6em);
+  }
 }
-
-}
-
 
 /* DT DataTables Styling */
-/* DT DataTables - Make smaller */
 .dataTables_wrapper {
   font-size: 0.75em !important;
   margin-top: 0.5em;
   margin-bottom: 0.5em;
 }
 
-/* Ensure table fits */
 .dataTables_wrapper table {
   width: 100% !important;
-  font-size: 0.85em; /* Additional reduction for table content */
+  font-size: 0.85em;
 }
 
-/* Make controls compact */
 .dataTables_wrapper .dataTables_length,
 .dataTables_wrapper .dataTables_info,
 .dataTables_wrapper .dataTables_paginate {
@@ -216,8 +208,53 @@
   padding: 0.3em 0;
 }
 
-/* Reduce cell padding */
 .dataTables_wrapper table.compact tbody td,
 .dataTables_wrapper table.compact tbody th {
   padding: 3px 6px;
+}
+
+/* Quiz Styling */
+.quiz-question {
+  background-color: #f8f9fa;
+  padding: 1.5em;
+  border-left: 5px solid #007ACC;
+  margin: 1em 0;
+  border-radius: 8px; /* Added rounded corners */
+}
+
+/* Ensure the UL is visible */
+.quiz-question ul {
+  list-style: none;
+  padding-left: 0;
+  display: block; /* Force display */
+}
+
+.quiz-question li {
+  padding: 0.8em;
+  margin: 0.5em 0;
+  background: #fff;
+  border: 2px solid #ddd;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.2s;
+  opacity: 1; /* Force visibility by default */
+  color: #222;
+}
+
+.quiz-question li:hover {
+  background: #e9ecef;
+  border-color: #007ACC;
+}
+
+/* Plugin specific classes */
+.quiz-question li.correct {
+  background: #d4edda !important;
+  border-color: #28a745 !important;
+  color: #155724;
+}
+
+.quiz-question li.incorrect {
+  background: #f8d7da !important;
+  border-color: #721c24 !important;
+  opacity: 0.6;
 }

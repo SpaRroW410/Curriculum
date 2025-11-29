@@ -1,0 +1,894 @@
+---
+title: "Water Pollution & Diseases"
+subtitle: "Indicators, Waterborne Diseases, Health Associations & Legal Framework"
+author: "Environmental Health"
+date: today
+format:
+  revealjs:
+    theme: dark
+    transition: slide
+    center: true
+    footer: "[← Previous](module5_water_treatment.html) | [Home](#home) | Module 3/8 | [Next →](module7_surveillance.html)"
+    width: 1200
+    height: 720
+echo: false
+---
+
+## Module 6: Water Pollution & Diseases {.center #home}
+
+### Understanding Contamination & Health Impact
+
+:::{.fragment}
+**Learning Objectives:**
+- Identify pollution indicators
+- Classify waterborne diseases
+- Understand health associations
+- Know legal framework
+:::
+
+:::{.fragment}
+**Key Topics Covered:**
+Indicators | Diseases | Health Effects | Laws | Burden of Disease
+:::
+
+---
+
+## Recap: Previous Module (Module 5) {.smaller}
+
+### Quick Review - Water Treatment
+
+:::{.columns}
+:::{.column width="50%"}
+**Treatment Stages:**
+- Storage (10-14 days)
+- Filtration (SSF: 90-99%, RSF: 95-98%)
+- Disinfection (chlorine, UV, boiling)
+:::
+:::{.column width="50%"}
+**Key Technologies:**
+- SSF: Rural, low-cost, sustainable
+- RSF: Urban, high-volume, chemical-intensive
+- Household: RO, biosand, solar
+:::
+:::
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 1: SSF
+**The schmutzdecke layer in SSF performs which function?**
+
+- [x] Biological filtration & predation of pathogens
+- [ ] Only mechanical straining
+- [ ] Chemical disinfection
+- [ ] None of the above
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 2: Disinfection
+**Which disinfection method is most affected by water turbidity?**
+
+- [ ] Chlorination
+- [x] UV radiation
+- [ ] Ozonation
+- [ ] Boiling
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 3: Treatment Selection
+**For emergency post-flood response, which filtration is better?**
+
+- [ ] Slow Sand Filter (startup 2-3 weeks)
+- [x] Rapid Sand Filter (handles high turbidity immediately)
+- [ ] Both equally
+- [ ] Neither suitable
+
+---
+
+## Pollution Indicators {.smaller}
+
+### What Are Pollution Indicators?
+
+**Definition:** Measurable parameters that reflect water contamination status
+
+**Categories of Indicators:**
+
+1. **Physical Indicators** - Turbidity, color, temperature
+2. **Chemical Indicators** - BOD, nitrogen, phosphorus, chlorides
+3. **Microbiological Indicators** - Coliform organisms, fecal streptococci
+4. **Biological Indicators** - Aquatic organism presence/absence
+
+---
+
+## Physical Pollution Indicators {.smaller}
+
+### Visible Water Quality Parameters
+
+**Turbidity:**
+- Suspended solids causing cloudiness
+- Measured in NTU (Nephelometric Turbidity Units)
+- WHO guideline: <1 NTU for drinking water
+- Indicates: Sediment, algae, pathogens likely
+
+**Color:**
+- Measured in TCU (True Color Units) or Hazen units
+- Drinking water guideline: <5 TCU
+- Natural colors: Tannins, iron (brown), algae (green)
+- Artificial colors: Dyes, industrial chemicals
+
+**Temperature:**
+- WHO guideline: <25°C preferred
+- Indicates: Shallow contamination sources
+- High temp favors bacterial growth
+
+**Taste & Odor:**
+- Subjective but important
+- Indicates: Chemical contamination, algal growth
+- Affects public acceptance of water
+
+---
+
+## Chemical Pollution Indicators {.smaller}
+
+### Measuring Organic & Inorganic Load
+
+**Biochemical Oxygen Demand (BOD):**
+- Measures organic matter decomposition
+- High BOD: Indicates organic pollution
+- Bacteria consume dissolved oxygen
+- Can lead to anoxic conditions (fish kills)
+- Guideline: <5 mg/L
+
+**Chemical Oxygen Demand (COD):**
+- Measures all oxidizable matter
+- Includes recalcitrant compounds
+- Often COD > BOD
+- Higher priority pollutant indicator
+
+**Dissolved Oxygen (DO):**
+- Essential for aquatic life
+- Low DO: Indicates decomposition
+- Fish need: >4-5 mg/L
+- Anoxia: <2 mg/L leads to deaths
+
+**Nitrogen & Phosphorus:**
+- Excess causes eutrophication
+- Algal blooms result
+- Reduces sunlight penetration
+- Depletes oxygen
+
+---
+
+## Microbiological Indicators {.smaller}
+
+### Detecting Bacterial Contamination
+
+**Coliform Organisms:**
+- Gram-negative bacteria (E. coli family)
+- Natural habitat: Animal intestines
+- Presence indicates: Fecal contamination
+- Drinking water standard: **Zero (absent in 100 mL)**
+
+**Fecal Coliform (E. coli):**
+- More specific to fecal contamination
+- Human/animal gut bacteria
+- Indicates: Recent/direct contamination
+- Drinking water standard: **Absent**
+
+**Fecal Streptococci:**
+- Human/animal intestinal bacteria
+- Indicates: Fecal contamination
+- More resistant than E. coli
+- Used to distinguish human vs animal sources
+
+**Clostridium Perfringens:**
+- Spore-forming bacterium
+- Survives water treatment better than vegetative bacteria
+- Indicates: Remote or past contamination
+- Used for treatment efficacy assessment
+
+---
+
+## Microbiological Testing Methods {.smaller}
+
+### Laboratory Detection Techniques
+
+**Presumptive Coliform Test:**
+- Multiple tube method (traditional)
+- Tubes with lactose broth media
+- Gas production indicates coliforms
+- Confirmation needed for identification
+
+**Confirmatory Tests:**
+- EMB (Eosin-Methylene Blue) agar plates
+- Gram staining
+- Culture isolation
+- Biochemical identification
+
+**Membrane Filtration Technique:**
+- Water filtered through 0.45 μm membrane
+- Membrane placed on selective media
+- Colonies counted after incubation
+- Modern quantitative method
+- Advantage: Direct count of organisms
+
+**Colony Count:**
+- Heterotrophic plate count (HPC)
+- Total bacteria on plate
+- Non-specific indicator
+- High counts suggest general contamination
+
+---
+
+## Water-Related Diseases {.center}
+
+### Classification Framework
+
+:::{.fragment}
+**Three Main Categories:**
+
+1. **Water-Borne Diseases** - Ingestion of contaminated water
+2. **Water-Washed Diseases** - Poor hygiene due to water scarcity
+3. **Water-Based Diseases** - Aquatic host involvement
+:::
+
+---
+
+## Water-Borne Diseases {.smaller}
+
+### Ingestion-Based Transmission
+
+**Bacterial Diseases:**
+- Typhoid & Paratyphoid fever (Salmonella typhi/paratyphi)
+- Bacillary dysentery (Shigella species)
+- E. coli diarrhea (various pathogenic strains)
+- Cholera (Vibrio cholerae)
+- Leptospirosis (Leptospira, from contaminated urine)
+
+**Viral Diseases:**
+- Hepatitis A (fecal-oral route)
+- Hepatitis E (similar transmission)
+- Poliomyelitis (paralysis risk)
+- Rotavirus (infant diarrhea)
+
+**Protozoal Diseases:**
+- Amoebiasis/Amoebic dysentery (Entamoeba histolytica)
+- Giardiasis (Giardia lamblia)
+
+**Helminthic Diseases:**
+- Roundworm infections (Ascaris)
+- Threadworm (Enterobius)
+- Hydatid disease (Echinococcus)
+
+---
+
+## Water-Washed Diseases {.smaller}
+
+### Inadequate Water for Hygiene
+
+**Why Water Quantity Matters:**
+- Poor hygiene when water scarce
+- Hand washing after defecation critical
+- Food preparation hygiene compromised
+- Personal cleanliness suffers
+
+**Associated Diseases:**
+- Trachoma (Chlamydia trachomatis eye infection)
+- Skin infections (fungi, bacteria)
+- Scabies (Sarcoptes mite)
+- Conjunctivitis (bacterial/viral)
+
+**Transmission Route:**
+- NOT through contaminated water directly
+- Through contaminated hands/fomites
+- Inadequate washing enables transmission
+
+---
+
+## Water-Based Diseases {.smaller}
+
+### Aquatic Host Involvement
+
+**Snail-Transmitted:**
+- Schistosomiasis (Schistosoma species)
+- Aquatic snails are intermediate hosts
+- Cercariae penetrate skin in contaminated water
+- Chronic parasitic infection
+
+**Cyclops-Transmitted (Copepod):**
+- Guinea worm disease (Dracunculus)
+- Water contains infected copepods
+- Can be prevented by simple filtration
+- Significant morbidity (ulceration, pain)
+
+**Fish/Crustacean-Transmitted:**
+- Tapeworm infections (Diphyllobothrium)
+- Fish are intermediate hosts
+- Undercooked/raw food transmission
+- Inadequate cooking prevention
+
+---
+
+## Vector-Borne Water-Related Diseases {.smaller}
+
+### Insects Breeding in/Near Water
+
+**Mosquito-Borne:**
+- Malaria (Plasmodium) - Anopheles mosquito
+- Dengue fever - Aedes mosquito
+- Filariasis - Culex mosquito
+- Breeding in stagnant water
+
+**Other Vectors:**
+- Onchocerciasis (river blindness) - Blackflies
+- African Trypanosomiasis - Tsetse fly near water
+- Arboviruses - Various water-associated vectors
+
+**Prevention Strategy:**
+- Water management (drain stagnant pools)
+- Vector control
+- Bug netting/repellents
+
+---
+
+## Burden of Waterborne Diseases {.smaller}
+
+### Global & Indian Context
+
+**Global Burden:**
+- 2-3 million deaths annually from diarrhea
+- 663 million lacking safe water access
+- 2.6 billion without improved sanitation
+
+**Indian Burden:**
+- **1.5 million children die of diarrhea annually**
+- **37.7 million cases of waterborne diseases per year**
+- **73 million working days lost annually**
+- **₹600 million economic loss per year**
+
+**Vulnerable Populations in India:**
+- Rural populations (700 million in 1.42 million villages)
+- Urban slums (inadequate water/sanitation)
+- Nomadic groups (no fixed water source)
+- Children <5 years (highest mortality)
+
+---
+
+## Health Associations: Fluoride {.smaller}
+
+### Dental Fluorosis
+
+**Protective Dose:**
+- 0.5-0.8 ppm (India) or 1 ppm (temperate climates)
+- Prevents dental caries
+- Safe threshold
+
+**Excess Fluoride Effects:**
+- >1.0-1.5 ppm: Mild dental mottling
+- >2.0-3.0 ppm: Moderate fluorosis (enamel defects)
+- >3.0 ppm: Severe fluorosis (pitting, discoloration)
+
+**Skeletal Fluorosis:**
+- Prolonged exposure to excess fluoride
+- Fluoride accumulates in bones
+- Causes: Joint stiffness, back pain
+- Severe: Neurological complications
+
+**Current Status in India:**
+- **66 million at risk from excess fluoride**
+- Predominantly in: Andhra Pradesh, Rajasthan, Gujarat, MP
+- Major public health concern
+- Mitigation: Defluorination technologies (alum, RO)
+
+---
+
+## Health Associations: Nitrates & Cyanosis {.smaller}
+
+### Methaemoglobinaemia in Infants
+
+**Mechanism:**
+- High nitrate water (>50 mg/L NO₃)
+- Nitrate converts to nitrite in gut
+- Nitrite converts hemoglobin to methaemoglobin
+- Methaemoglobin cannot carry oxygen
+- **Result: "Blue Baby Syndrome" (cyanosis)**
+
+**Vulnerable Population:**
+- Infants <6 months (highest risk)
+- Bottle-fed infants using contaminated water
+- Older children/adults at lower risk (stomach acidity protection)
+
+**Clinical Presentation:**
+- Bluish discoloration of lips, fingers
+- Shortness of breath
+- Lethargy
+- Potentially fatal if untreated
+
+**Prevention:**
+- Monitor nitrate levels
+- Guideline: <50 mg/L
+- Breastfeeding protective
+- Treated water essential for bottle-feeding
+
+---
+
+## Health Associations: Arsenic {.smaller}
+
+### Chronic Toxicity & Cancer
+
+**Excess Arsenic Sources:**
+- Natural geological deposits (Bangladesh, India)
+- Industrial contamination
+
+**Health Effects:**
+- **Chronic exposure:** Skin lesions, hyperpigmentation
+- **Long-term:** Peripheral neuropathy
+- **Carcinogenic:** Lung, skin, bladder cancer risk
+- Latency: 10-20+ years
+
+**Current Status in India:**
+- **10 million at risk from excess arsenic**
+- Predominantly: West Bengal, Assam
+- WHO guideline: 0.01 mg/L (10 μg/L)
+- Many wells exceed this
+
+**Mitigation:**
+- Well switching (find uncontaminated sources)
+- RO systems (highly effective)
+- Arsenic removal technologies
+
+---
+
+## Health Associations: Heavy Metals {.smaller}
+
+### Lead, Cadmium, Mercury
+
+**Lead (Pb):**
+- WHO guideline: 0.01 mg/L (10 μg/L)
+- Sources: Old pipes, industrial waste
+- Effects: Neurotoxicity (children), cognitive impairment
+- Chronic exposure concern
+
+**Cadmium (Cd):**
+- WHO guideline: 0.003 mg/L (3 μg/L)
+- Sources: Batteries, electroplating waste
+- Effects: Kidney damage, bone loss
+- Accumulative toxin
+
+**Mercury (Hg):**
+- WHO guideline: 0.006 mg/L (6 μg/L)
+- Sources: Thermometers, industrial processes
+- Effects: Neurological damage, tremors
+- Particularly dangerous in fetuses
+
+**Iron & Manganese:**
+- Excess causes: Staining, taste issues
+- Iron >0.3 mg/L: Dark discoloration
+- Manganese >0.1 mg/L: Neurological concerns (prolonged exposure)
+
+---
+
+## Health Associations: Hardness {.smaller}
+
+### Cardiovascular & Other Effects
+
+**Water Hardness Definition:**
+- Soap-destroying power of water
+- Caused by calcium & magnesium salts
+- **Soft water:** <150 mg/L CaCO₃
+- **Hard water:** >300 mg/L CaCO₃
+
+**Cardiovascular Hypothesis:**
+- Soft water: Increased cardiovascular mortality
+- Hard water: Protective effect observed
+- Mechanism: Calcium/magnesium minerals beneficial
+- Epidemiological associations (not universally proven)
+
+**Practical Implications:**
+- Excessive softening may remove protective minerals
+- Balance needed between hardness removal & mineral retention
+- WHO does not set upper limit for hardness
+
+---
+
+## Chemical Contamination Categories {.smaller}
+
+### WHO Guideline Values Summary
+
+**Inorganic Chemicals of Health Significance:**
+
+**Priority Heavy Metals:**
+- Antimony: 0.02 mg/L
+- Arsenic: 0.01 mg/L
+- Cadmium: 0.003 mg/L
+- Chromium (total): 0.05 mg/L
+- Lead: 0.01 mg/L
+- Mercury: 0.006 mg/L
+- Nickel: 0.07 mg/L
+- Selenium: 0.04 mg/L
+
+**Anions of Concern:**
+- Chlorides: No health limit (taste limit: 250 mg/L)
+- Nitrate (as NO₃): 50 mg/L
+- Nitrite (as NO₂): 3 mg/L
+- Fluoride: 1.5 mg/L
+
+---
+
+## Organic Chemical Contaminants {.smaller}
+
+### Complex Synthetic Compounds
+
+**Chlorinated Compounds:**
+- Carbon tetrachloride: 2 μg/L
+- Dichloromethane: 20 μg/L
+- Vinyl chloride: 5 μg/L
+- 1,1-Dichloroethane: 30 μg/L
+- 1,2-Dichloroethene: 50 μg/L
+
+**Aromatic Hydrocarbons:**
+- Benzene: 10 μg/L
+- Toluene: 700 μg/L
+- Xylenes: 500 μg/L
+- Ethylbenzene: 300 μg/L
+- Styrene: 20 μg/L
+
+**Polynuclear Aromatic Hydrocarbons (PAH):**
+- Benzo(a)pyrene: 0.7 μg/L
+- Carcinogenic potential
+- Coal-tar pipe materials: Potential source
+- Treatment for turbidity reduction helps control PAH
+
+---
+
+## Pesticide Guideline Values {.smaller}
+
+### Agricultural Chemical Contamination
+
+**Organochlorine Pesticides:**
+- Aldrin/Dieldrin: 0.03 μg/L
+- Chlordane: 0.2 μg/L
+- DDT: 2 μg/L
+- Heptachlor & heptachlor epoxide: 0.03 μg/L
+- Hexachlorobenzene: 1 μg/L
+- Lindane: 2 μg/L
+- Methoxychlor: 20 μg/L
+- Pentachlorophenol: 9 μg/L
+
+**Herbicide Limits:**
+- 2,4-D: 30 μg/L
+- Diquat: 30 μg/L
+- MCPA: 2 μg/L
+
+**Concerns:**
+- Bioaccumulation in aquatic organisms
+- Persistence in environment
+- Long-term health effects (cancer risk)
+
+---
+
+## Radiological Aspects {.smaller}
+
+### Radiation in Drinking Water
+
+**Background Radioactivity:**
+- Naturally occurring radionuclides (uranium, radium)
+- Human-made radioactivity (industrial accidents)
+
+**WHO Guideline Values:**
+- Gross alpha activity: 0.5 Bq/L
+- Gross beta activity: 1.0 Bq/L
+- **Becquerel (Bq):** Unit of radioactivity (disintegrations per second)
+
+**Health Effects:**
+- Stochastic effects: Cancer risk (no safe threshold)
+- Somatic effects: Direct tissue damage
+- Long-term chronic exposure concern
+- Regulatory limits set conservatively
+
+**Testing & Monitoring:**
+- Specialized laboratories required
+- Geological area assessment
+- Rare in most drinking water sources
+- More common in uranium mining regions
+
+---
+
+## Pollution & Legal Framework {.smaller}
+
+### India's Water Pollution Control Laws
+
+**Water Prevention and Control of Pollution Act (1974):**
+- **Comprehensive legislation** for water pollution control
+- Establishes Central & State Water Boards
+- Joint Water Boards for inter-state waters
+- Enforcement authority for pollution control
+
+**Key Provisions:**
+- **Standards setting:** Drinking water quality standards
+- **Monitoring:** Regular water quality surveillance
+- **Enforcement:** Penalties for pollution
+- **Permits:** Required for industrial discharge
+- **Adjudication:** Courts to settle disputes
+
+**Constitution Article 47:**
+- Duty of State to provide clean drinking water
+- Priority in health & sanitation
+- Legal obligation of government
+
+**National Water Policy:**
+- Framework for water resource management
+- Equitable distribution principles
+- Pollution prevention measures
+
+---
+
+## Sources of Water Pollution {.smaller}
+
+### Industrial, Agricultural & Domestic
+
+**Industrial Sources:**
+- Factory wastewater (heavy metals, chemicals)
+- Mining operations (sulfides, acids)
+- Textile mills (dyes, organic compounds)
+- Pharmaceutical waste
+- Petroleum refining
+
+**Agricultural Sources:**
+- Pesticide runoff
+- Fertilizer nitrogen & phosphorus (eutrophication)
+- Animal waste (coliforms, pathogens)
+- Herbicide residues
+
+**Domestic Sources:**
+- Sewage (organic matter, pathogens)
+- Detergents (phosphates, surfactants)
+- Kitchen waste disposal
+- Gray water (bathing, cleaning)
+
+**Other Sources:**
+- Urban runoff (oils, heavy metals)
+- Road salt (chlorides)
+- Atmospheric deposition
+- Landfill leachate
+
+---
+
+## Self-Purification in Rivers {.smaller}
+
+### Natural Dilution & Degradation
+
+**Natural Purification Mechanisms:**
+1. **Dilution** - Pollutants become dispersed
+2. **Sedimentation** - Particles settle
+3. **Aeration** - Water oxygenation
+4. **Oxidation** - Chemical decomposition
+5. **Sunlight** - Bacterial/chemical breakdown
+6. **Aquatic life** - Organisms consume organics
+
+**Limitations:**
+- Insufficient for high pollution loads
+- Takes time (24-72 hours typical)
+- Completely overwhelmed in severely polluted rivers
+- **Example:** Indian rivers (Yamuna, Ganges) require extensive treatment
+
+---
+
+## Urban vs Industrial Water Pollution {.smaller}
+
+### Context Matters
+
+**Urban Pollution (Dilute):**
+- Sewage from residential areas
+- Moderate contaminant levels
+- Typically: Organic matter, coliforms
+- Treatment: Standard water works sufficient
+
+**Industrial Pollution (Concentrated):**
+- Chemical factories, refineries, textiles
+- High levels of toxic substances
+- Persistent organic pollutants
+- Treatment: Advanced methods (activated carbon, RO, oxidation)
+
+**Mixed Urban-Industrial:**
+- Cities with industries
+- Combined sewage overflows
+- Variable pollution loads
+- Requires flexible treatment
+
+---
+
+## Health Impact Assessment {.smaller}
+
+### Evaluating Disease Risk
+
+**Dose-Response Relationship:**
+- **Tolerable Daily Intake (TDI):** Safe chronic exposure
+- **Acceptable Daily Intake (ADI):** Non-carcinogen daily safe dose
+- **No-Observed-Adverse-Effect Level (NOAEL):** Below effect threshold
+- **Lowest-Observed-Adverse-Effect Level (LOAEL):** Lowest harmful dose
+
+**Uncertainty Factors:**
+- Applied to NOAEL to determine safe standards
+- Accounts for: Inter-species variation, human sensitivity, data gaps
+- Typical UF: 100-1000x (human variation: 10x, species: 10x)
+
+**Example Calculation:**
+- Animal NOAEL: 100 mg/kg/day
+- Uncertainty factor: 1000
+- **Human ADI:** 0.1 mg/kg/day
+
+**Guideline Value Derivation:**
+- Based on TDI/ADI
+- Accounts for water consumption (2L/day typical)
+- Often 1-2% of ADI allocated to drinking water
+
+---
+
+## Prevention & Mitigation {.smaller}
+
+### Addressing Pollution Sources
+
+**Source Control:**
+- Industrial discharge permits & standards
+- Wastewater treatment requirements
+- Agricultural best practices (reduced fertilizer)
+- Landfill siting away from water sources
+
+**Water Treatment Technologies:**
+- Activated carbon (organic compounds)
+- Reverse osmosis (dissolved salts)
+- Advanced oxidation (persistent chemicals)
+- Ion exchange (hardness removal)
+
+**Surveillance & Monitoring:**
+- Regular water quality testing
+- Early warning systems
+- Health surveillance for disease patterns
+- Chemical monitoring for emerging contaminants
+
+**Public Health Measures:**
+- Education on water safety
+- Boiling recommendations
+- Distribution of household filters
+- Vaccination (hepatitis A, typhoid where applicable)
+
+---
+
+## Case Study: Fluorosis Mitigation {.smaller}
+
+### Problem Village Scenario
+
+**Context:** Village with 5,000 people, 66 mg/L fluoride (extremely high)
+
+**Health Impact:**
+- High prevalence of dental fluorosis
+- Some skeletal fluorosis in elderly
+- Public health concern
+
+**Solutions:**
+1. **Well switching:** Find uncontaminated wells (if available)
+2. **Defluorination:** Alum precipitation, activated alumina, RO
+3. **Dietary:** Limited tea consumption (high fluoride source)
+4. **Health education:** Awareness of risk, mitigation strategies
+
+**Cost-Benefit:**
+- Well switching: Cheapest if alternative exists
+- RO: Most effective, requires electricity
+- Community-level: Shared treatment system most sustainable
+
+---
+
+## Case Study: Arsenic Contamination {.smaller}
+
+### West Bengal & Assam Example
+
+**Problem:**
+- Groundwater naturally high in arsenic
+- 10 million people at risk
+- No color/taste indication (hidden hazard)
+
+**Manifestations:**
+- Skin lesions (hyperkeratosis)
+- Gangrene in severe cases
+- Cancer risk (lungs, skin, bladder)
+
+**Interventions:**
+1. **Well selection:** Identify clean wells
+2. **RO systems:** 99.9% arsenic removal
+3. **Alternative sources:** Surface water (if available)
+4. **Health monitoring:** Screen exposed populations
+
+**Ongoing Challenge:**
+- Limited alternative sources in many areas
+- Cost of RO systems prohibitive for poorest
+- Long latency of health effects makes monitoring difficult
+
+---
+
+## Summary: Pollution & Diseases {.center}
+
+### Key Takeaways
+
+:::{.columns}
+:::{.column width="50%"}
+**Pollution Indicators:**
+- Physical (turbidity, color)
+- Chemical (BOD, metals)
+- Microbiological (coliforms)
+:::
+:::{.column width="50%"}
+**Disease Categories:**
+- Water-borne (ingestion)
+- Water-washed (hygiene)
+- Water-based (aquatic host)
+:::
+:::
+
+:::{.fragment}
+**Critical Health Links:**
+- Fluoride → Dental fluorosis
+- Arsenic → Cancer risk
+- Nitrates → Cyanosis in infants
+- Microbes → Diarrhea & death
+:::
+
+---
+
+## End of Module 6 {.center}
+
+### Assessment Questions Coming
+
+**You will now be assessed on:**
+
+1. Pollution indicators (physical, chemical, microbial)
+2. Waterborne disease classification
+3. Health associations (fluoride, arsenic, nitrates)
+4. Legal framework & prevention
+
+**Short Answer Questions (2):**
+1. Explain how fecal streptococci differ from coliforms in contamination assessment
+2. Describe the mechanism of methaemoglobinaemia from high nitrate water
+
+**Long Answer Question (1):**
+A region has simultaneous problems: fluoride (66 mg/L), arsenic (20 μg/L), and waterborne disease outbreaks. Design a comprehensive public health intervention addressing all three.
+
+---
+
+## References & Data Sources {.smaller}
+
+**Books & Guidelines:**
+- K. Park - Textbook of Preventive and Social Medicine (26th Edition)
+- WHO Guidelines for Drinking Water Quality (2011)
+- Water Quality Standards (Inorganic Chemicals, Organic Compounds, Pesticides)
+
+**Indian Sources:**
+- Water Prevention & Control of Pollution Act (1974)
+- Indian Constitution Article 47
+- Census 2011 Water Access Data
+
+**Online Resources:**
+- Water.gov.in - National Water Portal
+- WHO Drinking Water Guidelines
+- CDC Waterborne Illness Database
+
+---
+
+## Questions & Discussion {.center}
+
+### Module 6 Complete
+
+**Next Steps:**
+1. Review key concepts
+2. Complete assessment questions
+3. Proceed to Module 7: Surveillance & Monitoring
+
+**Resources Available:**
+- Slide deck (revisit anytime)
+- References section
+- Legal framework links

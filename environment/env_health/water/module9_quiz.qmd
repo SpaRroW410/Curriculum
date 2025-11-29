@@ -1,0 +1,1013 @@
+---
+title: "Module 9: Comprehensive Assessment"
+subtitle: "Water, Environment & Health Quiz"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    incremental: false
+    chalkboard: false
+    center: true
+    zoom: true
+    footer: "[← Back to Modules](module8_safe_water_india.html) | [Home](#home) | Quiz"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  
+---
+
+## Welcome to the Comprehensive Quiz {#home}
+
+### Assessment Instructions
+
+**Quiz Details:**
+
+- **Total Questions**: 70 Multiple Choice Questions
+- **Coverage**: All 8 modules (One Health through Safe Water in India)
+- **Question Types**: Knowledge recall, Application-based, Case studies
+- **Navigation**: Use arrow keys to move between questions
+- **Selection**: Click on your answer choice
+- **Validation**: Click the **Check** button (or press 'c') to see the answer
+
+**Quiz Structure:**
+
+- Questions 1-10: Module 1 (One Health)
+- Questions 11-19: Module 2 (Environment & Health)
+- Questions 20-33: Module 3 (Water Quality Standards)
+- Questions 34-42: Module 4 (Water Sources)
+- Questions 43-55: Module 5 (Water Treatment)
+- Questions 56-63: Module 6 (Pollution & Diseases)
+- Questions 64-68: Module 7 (Surveillance)
+- Questions 69-70: Module 8 (Safe Water India)
+
+---
+
+## Module 1: One Health Framework
+
+---
+
+::: {.quiz-question}
+### Question 1
+
+Which of the following is NOT one of the three pillars of the One Health Triad?
+
+- Human Health
+- Animal Health
+- Environmental Health
+- [Economic Health]{.correct data-explanation="The One Health Triad comprises Human Health, Animal Health, and Environmental Health. Economic health, while important, is not a core pillar of the One Health framework."}
+:::
+
+---
+
+::: {.quiz-question}
+### Question 2
+
+Antimicrobial resistance (AMR) spreads through water systems primarily due to:
+
+- Inadequate chlorination of drinking water
+- [Excretion of antibiotics from livestock entering agricultural runoff]{.correct data-explanation="75-90% of antibiotics administered to livestock are excreted unchanged and enter water systems through manure and agricultural runoff, spreading resistant bacteria and resistance genes."}
+- Natural bacterial mutations in water bodies
+- Industrial chemical contamination
+:::
+
+---
+
+::: {.quiz-question}
+### Question 3
+
+India's National One Health Mission focuses on how many key areas?
+
+- Three
+- Four
+- [Six]{.correct data-explanation="The National One Health Mission focuses on six key areas - (1) Zoonotic Disease Surveillance, (2) AMR Control, (3) Food Safety, (4) Laboratory Capacity, (5) Environmental Health, and (6) Research & Development."}
+- Eight
+:::
+
+---
+
+::: {.quiz-question}
+### Question 4
+
+Which Indian state ranks FIRST in the NITI Aayog Health Index (2021)?
+
+- Tamil Nadu
+- Maharashtra
+- [Kerala]{.correct data-explanation="Kerala achieved the highest Overall Index Score of 82.20, followed by Tamil Nadu (72.42), Telangana (69.96), and Andhra Pradesh (69.95), due to strong public health infrastructure and inter-sectoral coordination."}
+- Telangana
+:::
+
+---
+
+::: {.quiz-question}
+### Question 5
+
+A village experiences a leptospirosis outbreak after monsoon flooding. Rats contaminate water sources. Which One Health intervention is MOST effective?
+
+- Distribute antibiotics to affected individuals only
+- Implement rodent control measures only
+- Provide bottled water to the community only
+- [Integrated approach - rodent control + water treatment + public health education]{.correct data-explanation="Leptospirosis requires a One Health approach addressing all components - (1) Human health (treatment and education), (2) Animal health (rodent control), (3) Environmental health (water protection). Single-sector interventions are insufficient."}
+:::
+
+---
+
+::: {.quiz-question}
+### Question 6
+
+Wastewater-based epidemiology is a One Health surveillance tool because it:
+
+- Only detects human pathogens in sewage
+- [Monitors human, animal, and environmental health indicators simultaneously]{.correct data-explanation="Wastewater surveillance monitors human pathogens (COVID, polio), animal pathogens (avian influenza), and environmental contaminants (AMR genes, heavy metals) simultaneously, providing early warning across all three One Health pillars."}
+- Replaces traditional disease surveillance systems
+- Is cheaper than clinical testing
+:::
+
+---
+
+::: {.quiz-question}
+### Question 7
+
+Which of the following is a water-washed disease?
+
+- Leptospirosis
+- Acute Hepatitis A
+- [Trachoma]{.correct data-explanation="Trachoma is a water-washed disease caused by inadequate water for hygiene. Leptospirosis is waterborne (through contaminated water), Hepatitis A is feco-oral, and Legionnaire's is water-based (grows in water systems)."}
+- Legionnaire's Disease
+:::
+
+---
+
+::: {.quiz-question}
+### Question 8
+
+The One Health approach to cholera control includes all EXCEPT:
+
+- Improving sanitation and hygiene education
+- Monitoring aquatic animal health
+- [Administering antibiotics to all livestock in affected areas]{.correct data-explanation="Cholera is a human disease from Vibrio cholerae in water/food. While aquatic animals can be reservoirs, indiscriminately treating all livestock is not a One Health intervention and would worsen AMR. Correct approach includes sanitation, water protection, and targeted monitoring."}
+- Protecting water sources from contamination
+:::
+
+---
+
+::: {.quiz-question}
+### Question 9
+
+A district reports increased dengue cases coinciding with rising temperatures and irregular rainfall. Which One Health component is MOST relevant?
+
+- Human behavioral changes (social determinants)
+- Livestock management practices
+- [Climate change affecting vector habitats (environmental health)]{.correct data-explanation="Dengue is a vector-borne disease. Climate change (environmental pillar) alters mosquito breeding habitats through temperature, rainfall, and humidity changes. This demonstrates how environmental factors in the One Health framework affect human disease patterns."}
+- Food safety regulations
+:::
+
+---
+
+::: {.quiz-question}
+### Question 10
+
+The allocation factor 'P' in the TDI guideline value formula represents:
+
+- Percentage of population at risk
+- [Proportion of total daily intake attributed to drinking water]{.correct data-explanation="P is the allocation factor (typically 0.1 or 10%) representing the fraction of total daily intake (TDI) from drinking water, since most chemicals come from multiple sources (food, air, soil). For water-specific contaminants, P may be higher (0.5-0.8)."}
+- Portion of body weight in kilograms
+- Probability of adverse health effect
+:::
+
+---
+
+## Module 2: Environment & Health
+
+---
+
+::: {.quiz-question}
+### Question 11
+
+Which component of environment is the MOST difficult to change but often most critical for health outcomes?
+
+- Physical environment
+- Biological environment
+- [Social environment]{.correct data-explanation="Social environment (customs, culture, income, education) is hardest to change due to deep-rooted behaviors. However, it's often most critical - even with toilet infrastructure, open defecation continues if social norms don't change."}
+- All are equally difficult
+:::
+
+---
+
+::: {.quiz-question}
+### Question 12
+
+According to WHO, environmental sanitation is defined as:
+
+- Construction of latrines in rural areas
+- [Control of all factors in man's physical environment that may affect health]{.correct data-explanation="WHO defines it comprehensively as 'the control of all those factors in man's physical environment which exercise or may exercise a deleterious effect on his physical development, health and survival.'"}
+- Provision of safe drinking water only
+- Waste management programs
+:::
+
+---
+
+::: {.quiz-question}
+### Question 13
+
+Which of the following is a water-based disease (pathogen spends part of life cycle in aquatic organism)?
+
+- Cholera
+- Typhoid
+- [Schistosomiasis]{.correct data-explanation="Schistosomiasis is water-based where the parasite Schistosoma spends part of its life cycle in aquatic snails. Cholera, typhoid, and hepatitis A are waterborne (transmitted via contaminated water) but don't require an aquatic intermediate host."}
+- Hepatitis A
+:::
+
+---
+
+::: {.quiz-question}
+### Question 14
+
+A village has 100% toilet coverage but diarrheal disease rates remain high. Possible reasons include all EXCEPT:
+
+- Continued open defecation due to cultural norms
+- Lack of water for toilet use and hand washing
+- Poor fecal sludge management from toilets
+- [Inadequate antibiotic availability in the village]{.correct data-explanation="High diarrheal rates despite toilet coverage suggest behavioral issues (not using toilets), inadequate water supply, or poor waste management. Antibiotic availability is irrelevant to prevention - antibiotics treat disease, not prevent transmission."}
+:::
+
+---
+
+::: {.quiz-question}
+### Question 15
+
+The 1972 UN Conference on Human Environment focused worldwide attention on:
+
+- Waterborne disease epidemics
+- [Environmental hazards threatening human beings]{.correct data-explanation="The 1972 UN Conference (Stockholm) brought global attention to environmental hazards affecting human health, leading to increased focus on pollution control, conservation, and sustainable development."}
+- Nuclear radiation risks
+- Industrial accidents
+:::
+
+---
+
+::: {.quiz-question}
+### Question 16
+
+Multi-disciplinary environmental health approach includes all professionals EXCEPT:
+
+- Public health physicians
+- Epidemiologists
+- Town planners
+- [Commercial marketing specialists]{.correct data-explanation="Environmental health requires public health physicians, epidemiologists, engineers, town planners, sociologists, economists, and health inspectors. Commercial marketing, while useful for health promotion, is not a core environmental health discipline."}
+:::
+
+---
+
+::: {.quiz-question}
+### Question 17
+
+Water quantity is as important as water quality because:
+
+- Large volume dilutes contaminants
+- [Adequate water enables hygiene practices like hand washing]{.correct data-explanation="Without abundant water near the home, hygiene becomes impossible. Hand washing, bathing, and cleaning require sufficient quantity. Families conserve water if the source is far, compromising hygiene even if water is microbiologically safe."}
+- People drink more water when available
+- Storage tanks require significant volumes
+:::
+
+---
+
+::: {.quiz-question}
+### Question 18
+
+The term 'environmental health' replaced 'environmental sanitation' because:
+
+- Sanitation programs were completed successfully
+- [New problems like air pollution and e-waste emerged requiring broader approach]{.correct data-explanation="As old problems (excreta disposal) were addressed, new challenges emerged - air pollution, industrial waste, radioactive pollution, e-waste. 'Environmental health' reflects this broader, more complex scope requiring integrated solutions."}
+- WHO mandated the terminology change
+- Sanitation only refers to toilets
+:::
+
+---
+
+::: {.quiz-question}
+### Question 19
+
+A slum has piped water supply (physical environment improved) but waterborne disease rates remain high. Investigation reveals open drains, no hand-washing practice. Which environment component is the bottleneck?
+
+- Physical environment (infrastructure)
+- Biological environment (pathogens)
+- [Social environment (behavior and awareness)]{.correct data-explanation="Despite improved physical infrastructure (piped water), lack of hygiene behavior (social environment - hand washing, drain management) perpetuates disease. This exemplifies how all three environment components must be addressed simultaneously for health outcomes."}
+- All three equally
+:::
+
+---
+
+## Module 3: Water Quality Standards
+
+---
+
+::: {.quiz-question}
+### Question 20
+
+The WHO guideline value for arsenic in drinking water is:
+
+- 0.05 mg/L
+- [0.01 mg/L]{.correct data-explanation="WHO guideline for arsenic is 0.01 mg/L (10 µg/L) based on cancer risk assessment. India adopted 0.01 mg/L, though some arsenic-affected areas use 0.05 mg/L as interim target."}
+- 0.001 mg/L
+- 0.1 mg/L
+:::
+
+---
+
+::: {.quiz-question}
+### Question 21
+
+Which indicator detects REMOTE or intermittent fecal contamination?
+
+- E. coli
+- Total coliforms
+- [Clostridium perfringens]{.correct data-explanation="Clostridium perfringens forms spores surviving harsh conditions and persisting longer than vegetative bacteria. Its presence indicates remote or intermittent contamination. E. coli indicates recent contamination; it doesn't survive long in water."}
+- Fecal streptococci
+:::
+
+---
+
+::: {.quiz-question}
+### Question 22
+
+The formula for calculating Tolerable Daily Intake (TDI) is:
+
+- TDI = NOAEL × UF
+- [TDI = NOAEL / UF]{.correct data-explanation="TDI = NOAEL / UF (or LOAEL / UF if NOAEL unavailable). We divide by uncertainty factor to account for inter/intraspecies variation and study limitations. Example - NOAEL 0.3, UF 100 → TDI = 0.003 mg/kg/day."}
+- TDI = (NOAEL / UF) × body weight
+- TDI = NOAEL - UF
+:::
+
+---
+
+::: {.quiz-question}
+### Question 23
+
+Gross alpha activity in drinking water should not exceed:
+
+- 0.1 Bq/L
+- [0.5 Bq/L]{.correct data-explanation="WHO guideline - Gross alpha activity <0.5 Bq/L, Gross beta activity <1.0 Bq/L. These are screening levels; if exceeded, identify specific radionuclides and assess individual doses."}
+- 1.0 Bq/L
+- 5.0 Bq/L
+:::
+
+---
+
+::: {.quiz-question}
+### Question 24
+
+A contaminant has NOAEL = 0.5 mg/kg bw/day, UF = 100, P = 0.1, bw = 60 kg, C = 2 L/day. Calculate guideline value:
+
+- 0.05 mg/L
+- 0.025 mg/L
+- [0.015 mg/L]{.correct data-explanation="TDI = 0.5/100 = 0.005 mg/kg/day. GV = (0.005 × 60 × 0.1) / 2 = 0.03 / 2 = 0.015 mg/L = 15 µg/L. This demonstrates application of TDI derivation formula."}
+- 0.005 mg/L
+:::
+
+---
+
+::: {.quiz-question}
+### Question 25
+
+Which organic contaminant has the LOWEST guideline value due to high carcinogenicity?
+
+- Benzene (10 µg/L)
+- Vinyl chloride (0.5 µg/L)
+- [Benzo[a]pyrene (0.7 µg/L)]{.correct data-explanation="Benzo[a]pyrene, a PAH, has guideline 0.7 µg/L due to potent carcinogenicity. It forms during incomplete combustion and was historically released from coal-tar pipe linings."}
+- Carbon tetrachloride (2 µg/L)
+:::
+
+---
+
+::: {.quiz-question}
+### Question 26
+
+Turbidity in water is significant because:
+
+- It causes cancer
+- [Particles shield pathogens from disinfection]{.correct data-explanation="Turbidity is critical because particles shield bacteria from chlorine disinfection. Studies show reducing turbidity from 5 NTU to 1 NTU increases disinfection efficacy by 90%. Turbidity also affects aesthetics, causing consumers to seek unsafe alternatives."}
+- It indicates high mineral content
+- It makes water taste bad
+:::
+
+---
+
+::: {.quiz-question}
+### Question 27
+
+The WHO guideline for nitrate (as NO₃) in drinking water is:
+
+- 10 mg/L
+- 25 mg/L
+- [50 mg/L]{.correct data-explanation="Nitrate guideline is 50 mg/L (as NO₃) or 11.3 mg/L (as N). This prevents methemoglobinemia (blue baby syndrome) in infants. Nitrate comes from agricultural fertilizers, animal waste, and septic tank leachate."}
+- 100 mg/L
+:::
+
+---
+
+::: {.quiz-question}
+### Question 28
+
+Stochastic effects of radiation differ from non-stochastic because:
+
+- They have a threshold dose below which no effect occurs
+- They are hereditary while non-stochastic are somatic
+- [Their probability increases with dose but severity remains constant]{.correct data-explanation="Stochastic effects (cancer) have NO threshold - probability increases with dose but severity doesn't change. Non-stochastic/deterministic effects (cataracts, burns) have thresholds and severity increases with dose."}
+- They only occur at very high radiation doses
+:::
+
+---
+
+::: {.quiz-question}
+### Question 29
+
+Which pesticide is banned but persists in environment, with a guideline value of 0.03 µg/L?
+
+- DDT
+- [Aldrin/Dieldrin]{.correct data-explanation="Aldrin/Dieldrin (organochlorine insecticides) have a strict guideline of 0.03 µg/L due to carcinogenicity and endocrine disruption. Though banned, they persist in soil/water for decades. DDT guideline is 2 µg/L; 2,4-D is 30 µg/L."}
+- 2,4-D
+- Chlorpyrifos
+:::
+
+---
+
+::: {.quiz-question}
+### Question 30
+
+Fluoride in drinking water at ~1.0 mg/L provides:
+
+- Skeletal fluorosis
+- [Protection against dental caries]{.correct data-explanation="Fluoride at ~1.0 mg/L protects against dental caries (tooth decay). However, >1.5 mg/L causes dental fluorosis (mottled enamel), and chronic high exposure causes skeletal fluorosis. India has endemic fluorosis in Rajasthan, Andhra Pradesh, and other states."}
+- Methemoglobinemia
+- Arsenicosis
+:::
+
+---
+
+::: {.quiz-question}
+### Question 31
+
+The 'P' factor in guideline value calculation is typically 0.1 because:
+
+- Only 10% of population drinks treated water
+- [Drinking water contributes ~10% of total exposure for most chemicals]{.correct data-explanation="P = 0.1 (10%) because most chemicals come from multiple sources (food, air, soil, water). Drinking water typically contributes 10-20% of total exposure. For water-specific contaminants like disinfection by-products, P is higher (0.5-0.8)."}
+- Uncertainty factor requires 10× safety margin
+- 10% of contaminants are absorbed
+:::
+
+---
+
+::: {.quiz-question}
+### Question 32
+
+A water source tests positive for E. coli (100/100mL) but negative for Clostridium perfringens. This suggests:
+
+- Old contamination that has been remediated
+- [Recent fecal contamination]{.correct data-explanation="E. coli positive + C. perfringens negative indicates RECENT fecal contamination. E. coli survives only days in water. C. perfringens spores persist for months/years. If C. perfringens were also positive, it would suggest ongoing or old contamination. The water is unsafe."}
+- False positive result
+- No contamination (safe water)
+:::
+
+---
+
+::: {.quiz-question}
+### Question 33
+
+WHO recommends discontinuing coal-tar pipe linings because they:
+
+- Cause water hardness
+- [Release carcinogenic PAHs into water]{.correct data-explanation="Coal-tar-based pipe linings and tank coatings release polynuclear aromatic hydrocarbons (PAHs) like benzo[a]pyrene, which are potent carcinogens. WHO recommends removing old coal-tar pipes and using alternative materials (cement, PVC, HDPE)."}
+- Promote bacterial growth
+- Corrode easily
+:::
+
+---
+
+## Module 4: Water Sources
+
+---
+
+::: {.quiz-question}
+### Question 34
+
+The 'safe yield' of a water source is defined as:
+
+- The maximum quantity that can be extracted without depleting source
+- [The yield adequate for 95% of the year]{.correct data-explanation="Safe yield is the yield adequate for 95% of the year, accounting for seasonal variations. This ensures reliability even during dry periods for the design period (10-50 years)."}
+- The volume meeting design period population needs
+- The flow rate during lowest rainfall season
+:::
+
+---
+
+::: {.quiz-question}
+### Question 35
+
+Which statement about river self-purification is CORRECT?
+
+- Rivers completely purify contaminated water within 10-20 km
+- Self-purification makes river water safe without treatment
+- [Self-purification reduces contamination but does not eliminate pathogens/chemicals]{.correct data-explanation="While rivers have natural purification (dilution, sedimentation, aeration, oxidation, UV), these REDUCE but do NOT eliminate contamination to safe levels. Today's pollution loads exceed rivers' self-purification capacity. Treatment is always necessary."}
+- Sunlight UV disinfection is sufficient for potability
+:::
+
+---
+
+::: {.quiz-question}
+### Question 36
+
+The MOST important single measure to improve dug well water quality is:
+
+- Installing a hand pump
+- Constructing a platform and drain
+- [Covering the well top with concrete slab]{.correct data-explanation="Studies show covering wells alone markedly improves bacteriological quality by preventing - (1) direct contamination from objects/animals falling in, (2) mosquito breeding, (3) manual drawing with contaminated ropes/buckets. All measures are important, but covering has greatest single impact."}
+- Maintaining 15-meter distance from latrines
+:::
+
+---
+
+::: {.quiz-question}
+### Question 37
+
+A village has options - (A) River 2km away requiring pumping and treatment, (B) Shallow wells near latrines, (C) Deep tube wells requiring drilling. Which should be prioritized?
+
+- Option A - Rivers are most reliable
+- Option B - Shallow wells are cheapest
+- [Option C - Deep tube wells despite higher cost]{.correct data-explanation="Deep tube wells are best - (1) Low contamination risk (aquifer isolation), (2) Minimal treatment needed, (3) Reliable year-round, (4) Long-term operational costs lower than treating river water. Initial drilling cost is offset by reduced treatment. Shallow wells near latrines are unsafe."}
+- Use all three sources together
+:::
+
+---
+
+::: {.quiz-question}
+### Question 38
+
+Rainwater is the 'purest water in nature' yet rarely used as sole source because:
+
+- It contains dissolved gases making it unsafe
+- [Seasonal availability, large collection area needed, storage requirements]{.correct data-explanation="Despite chemical purity (~0.0005% dissolved solids), rainwater is impractical as sole source due to - (1) Seasonal availability, (2) Large collection surface area needed, (3) Massive storage requirements, (4) Atmospheric pollution concerns. However, rainwater harvesting for groundwater recharge is valuable."}
+- It's too soft and causes health problems
+- It lacks essential minerals
+:::
+
+---
+
+::: {.quiz-question}
+### Question 39
+
+Shallow wells differ from deep wells in that shallow wells:
+
+- Provide higher yield than deep wells
+- [Tap subsoil water above first impervious layer and are more vulnerable to pollution]{.correct data-explanation="Shallow wells tap subsoil water (above first impervious layer), <20m depth, limited yield, liable to pollution from surface infiltration. Deep wells tap confined aquifers (below impervious layer), >50-100m depth, high yield, safer but very hard water."}
+- Require electric pumps for water extraction
+- Have better water quality than deep wells
+:::
+
+---
+
+::: {.quiz-question}
+### Question 40
+
+Impounding reservoirs may develop bad taste and odor due to:
+
+- Industrial pollution
+- [Algae growth from prolonged storage]{.correct data-explanation="Prolonged storage (months) leads to algae and other microscopic organism growth, causing bad tastes and odors. This is a disadvantage of impounding reservoirs. Treatment (filtration, copper sulfate algaecide) can control algal blooms."}
+- High mineral content
+- Bacterial decomposition
+:::
+
+---
+
+::: {.quiz-question}
+### Question 41
+
+Springs differ from wells in that springs:
+
+- Always provide higher quality water than wells
+- [Are natural groundwater emergence points requiring no pumping]{.correct data-explanation="Springs are groundwater naturally flowing to surface under pressure (no pumping needed). Deep springs (from confined aquifer) are perennial; shallow springs (perched water) are seasonal. Springs require protection at emergence point to prevent contamination."}
+- Are seasonal and dry up in summer
+- Don't require protection structures
+:::
+
+---
+
+::: {.quiz-question}
+### Question 42
+
+A hill village has a perennial spring 500m uphill and a tank at village center. Both are accessible. Which should be prioritized for drinking water?
+
+- Tank (closer, more convenient)
+- [Spring (gravity flow, better quality if protected)]{.correct data-explanation="The spring should be prioritized because - (1) Gravity flow (no pumping costs), (2) Better quality if emergence protected, (3) Perennial supply, (4) 500m is acceptable distance. Tank water is highly contaminated (multiple uses, open access). Spring protection + piped distribution is ideal solution."}
+- Use both equally
+- Build tube well instead
+:::
+
+---
+
+## Module 5: Water Treatment
+
+---
+
+::: {.quiz-question}
+### Question 43
+
+The biological layer on top of slow sand filter is called:
+
+- Biofilm
+- [Schmutzdecke]{.correct data-explanation="The biological layer is called Schmutzdecke (German for 'dirt layer'), also known as vital layer or zoogleal layer. It consists of algae, diatoms, protozoa, and bacteria that biologically remove pathogens and organic matter. It takes days to form (ripening period)."}
+- Vital layer
+- Zoogleal layer
+:::
+
+---
+
+::: {.quiz-question}
+### Question 44
+
+Slow sand filters achieve what percentage bacterial reduction?
+
+- 50-70%
+- 70-85%
+- [90-99%]{.correct data-explanation="Slow sand filters achieve 90-99% bacterial reduction through mechanical straining, biological action, and adsorption. While highly effective, they don't achieve 100% removal, so disinfection (chlorination) is typically added as a final barrier."}
+- 100%
+:::
+
+---
+
+::: {.quiz-question}
+### Question 45
+
+Rapid sand filters differ from slow sand filters in that rapid filters:
+
+- Use finer sand (0.1-0.2 mm)
+- [Require chemical pre-treatment and regular backwashing]{.correct data-explanation="Rapid sand filters use coarser sand (0.4-0.7 mm), operate at 5-15 m³/m²/hr (vs SSF's 0.1-0.4), require chemical pre-treatment (coagulation/flocculation), and need regular backwashing (every 5-15 days). SSF needs no chemicals or backwashing."}
+- Operate at lower filtration rates
+- Don't need disinfection after filtration
+:::
+
+---
+
+::: {.quiz-question}
+### Question 46
+
+The filtration rate of slow sand filter is typically:
+
+- [0.1-0.4 m³/m²/hour]{.correct data-explanation="SSF operates at very slow rate of 0.1-0.4 m³/m²/hour (water takes 2+ hours to percolate through sand bed). This slow rate allows biological action and thorough purification. Rapid sand filters operate at 5-15 m³/m²/hour."}
+- 1-2 m³/m²/hour
+- 5-15 m³/m²/hour
+- 20-30 m³/m²/hour
+:::
+
+---
+
+::: {.quiz-question}
+### Question 47
+
+A city needs urgent water supply after floods with highly turbid river water. Which filter is more suitable?
+
+- Slow sand filter (better pathogen removal)
+- [Rapid sand filter (can handle high turbidity with chemical treatment)]{.correct data-explanation="Rapid sand filters are suitable for turbid water because - (1) Chemical coagulation clumps particles, (2) Faster flow rate, (3) Backwashing clears clogged filter. SSF would clog rapidly with turbid water, requiring frequent scraping. For emergencies with turbid water, RSF + coagulation is preferred."}
+- Both are equally suitable
+- Neither - use only chlorination
+:::
+
+---
+
+::: {.quiz-question}
+### Question 48
+
+Storage of water for 10-14 days achieves all EXCEPT:
+
+- Sedimentation of 90% suspended solids
+- Oxidation of organic matter
+- Reduction of bacterial count by 90% in 5-7 days
+- [Complete removal of all pathogens]{.correct data-explanation="Storage achieves - (1) ~90% suspended solids settle in 24hrs, (2) Aerobic bacteria oxidize organic matter, (3) ~90% bacterial count drops in 5-7 days. However, it does NOT completely remove pathogens. Longer storage (>14 days) causes algal growth. Storage is a preliminary step, not complete treatment."}
+:::
+
+---
+
+::: {.quiz-question}
+### Question 49
+
+Chlorination at normal doses does NOT effectively inactivate:
+
+- E. coli
+- Vibrio cholerae
+- [Cryptosporidium oocysts]{.correct data-explanation="Cryptosporidium oocysts (protozoan cysts) are 10-100× more resistant to chlorine than bacteria. The 1993 Milwaukee outbreak (400,000 ill) occurred despite meeting chlorine standards. Cryptosporidium requires filtration or UV disinfection. Bacteria (E. coli, cholera, Salmonella) are effectively inactivated by standard chlorination."}
+- Salmonella
+:::
+
+---
+
+::: {.quiz-question}
+### Question 50
+
+The optimal period of storage for river water is:
+
+- 1-2 days
+- 5-7 days
+- [10-14 days]{.correct data-explanation="Optimal storage period for river water is 10-14 days. This allows sufficient time for - (1) Sedimentation, (2) Bacterial die-off (~90% reduction), (3) Oxidation of organic matter. Longer storage (>14-21 days) promotes algal growth causing taste/odor problems."}
+- >30 days
+:::
+
+---
+
+::: {.quiz-question}
+### Question 51
+
+
+
+[Image of SODIS water disinfection process]
+
+
+Solar disinfection (SODIS) works by:
+
+- Evaporation and condensation purification
+- [UV radiation and thermal inactivation of pathogens]{.correct data-explanation="SODIS uses transparent PET bottles exposed to sunlight for 6+ hours. UV-A radiation damages microbial DNA, and if temperature reaches >50°C, thermal inactivation accelerates the process. It's effective on bacteria and viruses, less on protozoa/spores. Simple, free, but weather-dependent."}
+- Filtration through transparent plastic
+- Chemical reaction with plastic bottles
+:::
+
+---
+
+::: {.quiz-question}
+### Question 52
+
+Reverse osmosis (RO) systems remove all EXCEPT:
+
+- Heavy metals
+- Fluoride
+- Nitrates
+- [Dissolved gases]{.correct data-explanation="RO membrane (pore size <0.001 µm) removes dissolved salts, heavy metals, fluoride, nitrates, bacteria, viruses. However, it does NOT remove dissolved gases (CO₂, O₂, H₂S, chlorine gas) which pass through membrane. RO also removes beneficial minerals, making water slightly acidic."}
+:::
+
+---
+
+::: {.quiz-question}
+### Question 53
+
+A household uses slow sand filter followed by boiling for drinking water. They complain water tastes bland. Why?
+
+- Slow sand filter removes all minerals
+- [Boiling removes dissolved oxygen making water taste flat]{.correct data-explanation="Boiling removes dissolved oxygen (DO), making water taste flat/bland. This doesn't affect safety but aesthetics. Slow sand filter doesn't significantly remove minerals (water hardness unchanged). To improve taste - aerate boiled water by pouring between containers, or cool and serve chilled."}
+- Schmutzdecke adds bad taste
+- Over-purification removes essential salts
+:::
+
+---
+
+::: {.quiz-question}
+### Question 54
+
+Activated carbon filters are effective for removing:
+
+- Bacteria and viruses
+- Hardness-causing minerals
+- [Chlorine, volatile organic compounds (VOCs), and bad taste/odor]{.correct data-explanation="Activated carbon removes chlorine, VOCs (benzene, toluene), pesticides, and taste/odor compounds via adsorption. It does NOT effectively remove bacteria, viruses (needs UV/chlorine), hardness (needs ion exchange), or most heavy metals (needs RO). Carbon filters improve taste but don't disinfect."}
+- Heavy metals like lead and mercury
+:::
+
+---
+
+::: {.quiz-question}
+### Question 55
+
+Which household water treatment method provides residual protection during storage?
+
+- Boiling
+- Solar disinfection (SODIS)
+- [Chlorination]{.correct data-explanation="Chlorination provides residual protection - free chlorine (0.2-0.5 mg/L) remains in water, preventing recontamination during storage. Boiling, SODIS, and UV provide NO residual protection; recontamination can occur if stored in unclean containers. This is why chlorination is preferred for community water systems."}
+- UV disinfection
+:::
+
+---
+
+## Module 6: Water Pollution & Diseases
+
+---
+
+::: {.quiz-question}
+### Question 56
+
+Biochemical Oxygen Demand (BOD) indicates:
+
+- Dissolved oxygen concentration
+- [Amount of organic matter in water]{.correct data-explanation="BOD measures the amount of dissolved oxygen consumed by microorganisms to decompose organic matter in water. High BOD (>5 mg/L) indicates heavy organic pollution (sewage, industrial waste). Rivers with BOD >30 mg/L are considered severely polluted."}
+- Chemical contamination level
+- Bacterial count
+:::
+
+---
+
+::: {.quiz-question}
+### Question 57
+
+Which water-related disease is transmitted by an aquatic snail intermediate host?
+
+- Guinea worm disease
+- [Schistosomiasis]{.correct data-explanation="Schistosomiasis (bilharzia) is a water-based disease where the parasite Schistosoma spends part of its life cycle in aquatic snails. Humans get infected by contact with contaminated freshwater. Guinea worm involves Cyclops (water flea), not snails."}
+- Cholera
+- Giardiasis
+:::
+
+---
+
+::: {.quiz-question}
+### Question 58
+
+Methemoglobinemia (blue baby syndrome) in infants is caused by excess:
+
+- Fluoride
+- Arsenic
+- [Nitrates]{.correct data-explanation="Methemoglobinemia occurs when infants consume water/formula with high nitrate (>50 mg/L as NO₃). Nitrate is reduced to nitrite in infant gut, which converts hemoglobin to methemoglobin (cannot carry oxygen), causing cyanosis (blue skin). Infants <6 months are most vulnerable."}
+- Lead
+:::
+
+---
+
+::: {.quiz-question}
+### Question 59
+
+A river downstream of a textile factory shows high BOD, low dissolved oxygen, and fish kills. The primary cause is:
+
+- Chemical toxins killing fish directly
+- [Organic waste from factory consuming oxygen]{.correct data-explanation="High BOD + low DO + fish kills indicates organic pollution depleting dissolved oxygen. Aerobic bacteria decompose organic matter, consuming oxygen faster than it's replenished. When DO <2 mg/L, fish suffocate. Textile factories discharge organic dyes and compounds with high BOD."}
+- High temperature from factory cooling water
+- Nutrient enrichment causing algal bloom
+:::
+
+---
+
+::: {.quiz-question}
+### Question 60
+
+The Water (Prevention and Control of Pollution) Act in India was passed in:
+
+- 1956
+- [1974]{.correct data-explanation="The Water (Prevention and Control of Pollution) Act was passed in 1974 to provide legal deterrent against water pollution. It established Central and State Pollution Control Boards with powers to monitor, regulate, and enforce pollution standards. The Air Act followed in 1981."}
+- 1986
+- 2002
+:::
+
+---
+
+::: {.quiz-question}
+### Question 61
+
+Which disease is classified as water-washed (inadequate water for hygiene)?
+
+- Cholera
+- [Trachoma]{.correct data-explanation="Trachoma is water-washed - caused by inadequate water for face/hand washing, leading to eye infection by Chlamydia trachomatis. It's the leading cause of preventable blindness globally. Cholera, typhoid, and hepatitis A are waterborne (transmitted via contaminated water)."}
+- Typhoid
+- Hepatitis A
+:::
+
+---
+
+::: {.quiz-question}
+### Question 62
+
+Fluoride at 1.0 mg/L in water provides protection against:
+
+- Dental fluorosis
+- [Dental caries]{.correct data-explanation="Fluoride at ~1.0 mg/L protects against dental caries (tooth decay) by strengthening tooth enamel. However, >1.5 mg/L causes dental fluorosis (mottled enamel), and chronic high exposure (>4 mg/L) causes skeletal fluorosis. India has endemic fluorosis in several states."}
+- Skeletal fluorosis
+- Goiter
+:::
+
+---
+
+::: {.quiz-question}
+### Question 63
+
+A village using arsenic-contaminated groundwater (0.05 mg/L) for 10 years reports skin lesions and hyperpigmentation. This condition is called:
+
+- Fluorosis
+- [Arsenicosis]{.correct data-explanation="Chronic arsenic exposure causes arsenicosis with characteristic signs - hyperkeratosis (thickened skin on palms/soles), hyperpigmentation (dark spots), skin lesions. Long-term exposure increases risk of skin, lung, bladder cancers. West Bengal and Bangladesh face severe arsenic contamination (>0.05 mg/L in many wells)."}
+- Plumbism
+- Minamata disease
+:::
+
+---
+
+## Module 7: Surveillance & Monitoring
+
+---
+
+::: {.quiz-question}
+### Question 64
+
+Sanitary survey of a water source includes all EXCEPT:
+
+- On-site inspection of source and surroundings
+- Evaluation of pollution risks
+- [Laboratory chemical analysis]{.correct data-explanation="Sanitary survey is on-site inspection and evaluation of the entire water supply system, protection measures, and contamination risks. It does NOT include laboratory analysis (that's sampling/testing, a separate surveillance element). Sanitary survey helps interpret lab results in context."}
+- Assessment of protective measures
+:::
+
+---
+
+::: {.quiz-question}
+### Question 65
+
+The presumptive coliform test uses which method?
+
+- Membrane filtration technique
+- [Multiple tube method]{.correct data-explanation="The presumptive coliform test uses the multiple tube method (most probable number - MPN technique) where water samples are inoculated into lactose broth tubes. Gas production indicates presumptive coliforms. Confirmatory tests follow using selective media. Membrane filtration is an alternative method."}
+- Agar plate culture
+- ELISA
+:::
+
+---
+
+::: {.quiz-question}
+### Question 66
+
+A water sample shows 0 E. coli but 50 total coliforms per 100mL. This suggests:
+
+- Recent fecal contamination
+- Old fecal contamination
+- [Environmental contamination (soil/vegetation) not fecal contamination]{.correct data-explanation="E. coli negative + total coliforms positive suggests environmental contamination from soil, vegetation, or biofilm (non-fecal coliforms like Klebsiella, Enterobacter). While not immediate fecal contamination, the water indicates treatment inadequacy. Follow-up testing and investigation recommended."}
+- Safe water (E. coli is only important indicator)
+:::
+
+---
+
+::: {.quiz-question}
+### Question 67
+
+WHO guidelines recommend sampling frequency for community water supplies should be:
+
+- Once per year
+- Monthly for all systems
+- [Based on population served and risk assessment]{.correct data-explanation="WHO recommends risk-based sampling frequency. Small supplies (<5000 people) - quarterly/monthly. Large supplies (>50,000) - daily/weekly. More frequent sampling near source, less in distribution. Emergency/outbreak situations require increased sampling. One-size-fits-all approach is insufficient."}
+- Only when contamination suspected
+:::
+
+---
+
+::: {.quiz-question}
+### Question 68
+
+Watershed protection in surveillance activities involves:
+
+- Testing water quality at the source
+- [Land use restrictions and monitoring in catchment area]{.correct data-explanation="Watershed/catchment protection involves - (1) Land use restrictions (no habitation, agriculture, industry), (2) Fencing/barriers, (3) Monitoring for encroachments, (4) Forest conservation. This is a surveillance activity to prevent source contamination, not treatment. Protecting source reduces treatment needs."}
+- Treating water before distribution
+- Installing filtration systems
+:::
+
+---
+
+## Module 8: Safe Water in India
+
+---
+
+::: {.quiz-question}
+### Question 69
+
+According to Census 2011, what percentage of rural population in India has access to safe drinking water?
+
+- 74%
+- 85%
+- [94%]{.correct data-explanation="Census 2011 reported 94% of rural and 91% of urban population having access to 'safe drinking water.' However, this is misleading - it includes unprotected sources and doesn't account for seasonal availability or actual water quality. Many 'improved' sources are contaminated."}
+- 99%
+:::
+
+---
+
+::: {.quiz-question}
+### Question 70
+
+A village meets the criteria for 'Problem Village' if it has all characteristics EXCEPT:
+
+- No safe water source within 1.6 km distance
+- Water available at depth >15 meters
+- [Water source has excess iron content]{.correct data-explanation="Problem Village criteria - (1) No safe water within 1.6 km, (2) Water >15m depth, (3) Excess salinity/fluoride/other toxic elements, (4) Cholera risk. Excess iron is an acceptability aspect (taste, staining) but NOT a Problem Village criterion. It affects aesthetics but not health significantly at typical levels."}
+- Water exposed to risks of cholera outbreaks
+:::
+
+
+---
+
+## Next Steps
+
+**Additional Resources:**
+
+- WHO Guidelines for Drinking Water Quality (2011, 2017)
+- Park's Textbook of Preventive and Social Medicine
+- ICMR National One Health Mission documents
+- Census of India 2011 - Water and Sanitation data
+
+[← Back to Modules](module8_safe_water_india.html) | [Home](#home)
+
+---
+
+## Thank You!
+
+
+
+**For Questions or Feedback:**

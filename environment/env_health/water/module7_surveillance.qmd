@@ -1,0 +1,1006 @@
+---
+title: "Water Surveillance & Monitoring"
+subtitle: "11-Point Activities, Sampling, Bacteriological & Quality Testing"
+author: "Environmental Health"
+date: today
+format:
+  revealjs:
+    theme: dark
+    transition: slide
+    center: true
+    footer: "[← Previous](module6_pollution_diseases.html) | [Home](#home) | Module 3/8 | [Next →](module8_safe_water_india.html)"
+    width: 1200
+    height: 720
+echo: false
+---
+
+## Module 7: Water Surveillance & Monitoring {.center #home}
+
+### Ensuring Drinking Water Safety Through Systematic Oversight
+
+:::{.fragment}
+**Learning Objectives:**
+- Understand surveillance purpose & scope
+- Learn 11-point surveillance activities
+- Master sampling protocols
+- Perform bacteriological testing
+- Interpret quality testing results
+:::
+
+:::{.fragment}
+**Key Topics Covered:**
+Surveillance Framework | 11-Point Activities | Sampling | Testing Methods | Quality Assurance
+:::
+
+---
+
+## Recap: Previous Module (Module 6) {.smaller}
+
+### Quick Review - Pollution & Diseases
+
+:::{.columns}
+:::{.column width="50%"}
+**Pollution Indicators:**
+- Physical: turbidity, color, temperature
+- Chemical: BOD, metals, nitrates
+- Microbiological: coliforms, streptococci
+:::
+:::{.column width="50%"}
+**Disease Links:**
+- Fluoride → Dental fluorosis (66M at risk)
+- Arsenic → Cancer (10M at risk)
+- Nitrates → Cyanosis in infants
+- Microbes → Diarrhea (1.5M children/year)
+:::
+:::
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 1: Indicators
+**Which is the most specific indicator of fecal contamination?**
+
+- [ ] Total coliforms
+- [x] Fecal streptococci
+- [ ] Physical turbidity
+- [ ] Color intensity
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 2: Health Associations
+**High nitrate water primarily affects which age group through cyanosis?**
+
+- [ ] Adults
+- [x] Infants <6 months
+- [ ] Elderly
+- [ ] All ages equally
+
+---
+
+## Assessment: Previous Module {.quiz}
+
+### Question 3: Arsenic Risk
+**How many Indians are at risk from excess arsenic in water?**
+
+- [ ] 1 million
+- [x] 10 million
+- [ ] 50 million
+- [ ] 100 million
+
+---
+
+## Purpose of Water Surveillance {.smaller}
+
+### Why Continuous Monitoring?
+
+**Definition:** Systematic monitoring of drinking water to protect public health
+
+**Core Objectives:**
+1. **Detect contamination early** - Before illness outbreak
+2. **Verify treatment effectiveness** - Ensure purification works
+3. **Monitor distribution system** - Prevent recontamination
+4. **Track compliance** - With drinking water standards
+5. **Identify emerging threats** - New chemicals, antibiotic resistance
+
+**Health Impact:**
+- Prevents waterborne disease outbreaks
+- Protects vulnerable populations
+- Ensures equitable water access
+- Provides data for policy decisions
+
+---
+
+## The 11-Point Surveillance Framework {.smaller}
+
+### Comprehensive Oversight Activities
+
+**WHO & Indian Guidelines Recommend:**
+
+1. **Approval of new sources** (including private-owned supplies)
+2. **Watershed protection** - Prevent catchment contamination
+3. **Construction & operating procedures approval**
+4. **Sanitary surveys** - Inspect water infrastructure
+5. **Monitoring programmes** - Regular water quality testing
+6. **Certification of operators** - Trained personnel
+7. **Regulation of chemical substances** - Used in water treatment
+8. **Cross-connection control** - Prevent sewage mixing
+9. **Back-flow prevention** - Stop reverse contamination
+10. **Leak detection control** - Identify distribution system failures
+11. **Codes of practice** - Well construction, pump installation, plumbing standards
+
+---
+
+## Surveillance Activity 1: Source Approval {.smaller}
+
+### Evaluating New Water Sources
+
+**Assessment Criteria:**
+
+**Quantity Assessment:**
+- Safe yield adequate for 95% of year
+- Account for: Peak demand, seasonal variation, population growth
+- Design period: 10-50 years future projection
+
+**Quality Assessment:**
+- Chemical analysis (heavy metals, salts)
+- Microbiological testing (coliforms, pathogens)
+- Physical parameters (turbidity, color)
+- Comparison with WHO standards
+
+**Feasibility Evaluation:**
+- Available at reasonable cost
+- Treatability: Can be rendered safe economically
+- Accessibility: Proximity to population served
+- Sustainability: Long-term viability
+
+**Approval Decision:**
+- Only sources meeting ALL criteria approved
+- Private wells require inspection & approval
+- Regular re-evaluation for continued suitability
+
+---
+
+## Surveillance Activity 2: Watershed Protection {.smaller}
+
+### Protecting Source Water Quality
+
+**Catchment Area Management:**
+- Area draining into reservoir/water body
+- Primary protection zone around intake
+- Prevent human/animal intrusion
+- Restrict agricultural runoff
+
+**Prohibited Activities:**
+- Livestock grazing near source
+- Human habitation upstream
+- Waste disposal in catchment
+- Industrial effluent discharge
+- Deforestation (increases turbidity)
+
+**Implementation Measures:**
+- Boundary marking & fencing
+- Regular monitoring patrols
+- Community education
+- Legal enforcement
+- Vegetation maintenance
+
+**Example:** Protected springs require structures preventing direct contamination
+
+---
+
+## Surveillance Activity 3: Water Works Procedures {.smaller}
+
+### Infrastructure Standards
+
+**Disinfection Protocols:**
+- Plant disinfection after construction
+- Distribution system flushing
+- Regular chlorination cycles
+- Documentation of procedures
+
+**Routine Maintenance:**
+- Pipe cleaning schedules
+- Valve inspection & repair
+- Reservoir cleaning (annually)
+- Equipment servicing
+
+**Emergency Procedures:**
+- Pipeline break response
+- Contamination incident protocols
+- Public notification procedures
+- Alternative supply arrangements
+- Boil water advisories (when needed)
+
+**Documentation:**
+- Maintenance logs
+- Test results records
+- Incident reports
+- Operator certifications
+
+---
+
+## Surveillance Activity 4: Sanitary Surveys {.smaller}
+
+### Field Inspection Assessment
+
+**Structural Inspection:**
+- Source protection adequacy
+- Pipe integrity (no breaks, leaks)
+- Storage tank condition (cracks, contamination)
+- Treatment plant operation efficiency
+- Distribution network assessment
+
+**Risk Identification:**
+- Contamination risks (sewage proximity)
+- Maintenance deficiencies
+- Operator competence issues
+- Treatment gaps
+- Cross-connection hazards
+
+**Rating System:**
+- High risk: Immediate intervention needed
+- Medium risk: Corrective action plan
+- Low risk: Routine monitoring
+- No risk: Maintain standards
+
+**Follow-up:**
+- Recommendations documented
+- Timeline for corrections
+- Re-inspection after fixes
+- Training for operators if needed
+
+**Frequency:**
+- High-risk systems: Quarterly
+- Medium-risk: Semi-annual
+- Low-risk: Annual
+- Emergency situations: Unscheduled
+
+---
+
+## Surveillance Activity 5: Monitoring Programmes {.smaller}
+
+### Regular Water Quality Testing
+
+**Central Laboratory Services:**
+- Analyze water samples
+- Equipment maintenance & calibration
+- Quality assurance protocols
+- Data management & reporting
+
+**Regional Laboratory Network:**
+- Distributed sampling sites
+- Local analytical capacity
+- Faster turnaround time
+- Community access
+
+**Sampling Protocol:**
+- Representative sampling (multiple points)
+- Standardized containers (sterile)
+- Preservation methods (chilled, chemicals added)
+- Chain of custody documentation
+- Aseptic technique (prevents contamination)
+
+**Testing Frequency:**
+- High-risk sources: Daily or continuous
+- Municipal supplies: Weekly
+- Community systems: Monthly
+- Small piped systems: Quarterly
+- Seasonal adjustment for pollution risk
+
+---
+
+## Surveillance Activity 6: Operator Certification {.smaller}
+
+### Personnel Competence Assurance
+
+**Training Requirements:**
+- Basic water treatment principles
+- Equipment operation & maintenance
+- Quality testing procedures
+- Safety protocols
+- Record keeping
+- Emergency response
+
+**Certification Levels:**
+- **Level 1:** Small piped/point systems
+- **Level 2:** Large community systems
+- **Level 3:** Municipal treatment plants
+- **Level 4:** Advanced systems with specialized technology
+
+**Educational Pathway:**
+- Classroom theory (fundamentals)
+- Practical training (hands-on)
+- On-the-job apprenticeship
+- Examination & certification
+- Continuing education (annual/biennial)
+
+**Monitoring Operators:**
+- Assessment visits
+- Performance evaluation
+- Troubleshooting assistance
+- Refresher training as needed
+
+---
+
+## Surveillance Activity 7: Chemical Regulation {.smaller}
+
+### Treatment Chemical Management
+
+**Substances Used:**
+- Coagulants: Alum, ferric sulfate
+- Disinfectants: Chlorine, ozone
+- pH adjustment: Lime, soda ash
+- Corrosion control: Phosphates, pH buffering
+- Sequestrants: For hardness control
+
+**Quality Standards:**
+- Purity specifications for chemicals
+- Impurity limits (heavy metals, arsenicals)
+- Certificate of analysis required
+- Regular supplier audit
+
+**Dosing & Monitoring:**
+- Calibrated equipment mandatory
+- Regular testing of residuals
+- Documentation of chemical use
+- Operator training on safe handling
+
+**Safety Requirements:**
+- Proper storage facilities
+- Personal protective equipment
+- Emergency response procedures
+- Waste disposal protocols
+- Staff training
+
+---
+
+## Surveillance Activity 8: Cross-Connection Control {.smaller}
+
+### Preventing Backflow Contamination
+
+**What is a Cross-Connection?**
+- Unprotected link between potable & non-potable systems
+- Allows contaminated water to enter drinking supply
+- Examples: Toilet fill pipes, fire sprinklers, industrial water
+
+**Hazards Posed:**
+- Sewage backflow into water supply
+- Industrial chemicals mixing
+- Gray water contamination
+- Pathogenic microorganism introduction
+
+**Prevention Measures:**
+- System inspection & mapping
+- Physical separation (best method)
+- Air gaps on fixtures
+- Check valves (one-way only)
+- Vacuum breakers on hose connections
+- Backflow prevention assemblies
+
+**Regulatory Approach:**
+- Plumbing code requirements
+- Permits for new connections
+- Regular audits of high-risk areas
+- Public education
+- Penalties for violations
+
+---
+
+## Surveillance Activity 9: Leak Detection {.smaller}
+
+### Distribution System Integrity
+
+**Why Leaks Matter:**
+- Water loss (volume, cost)
+- Pressure drop (invites contamination)
+- Ingress of pathogens into pipes
+- Distribution system vulnerability
+
+**Types of Leaks:**
+- **Major leaks:** Visible (street flooding, puddles)
+- **Minor leaks:** Hidden (slight pressure loss)
+- **Service line leaks:** Private property
+- **Main line breaks:** System-wide impact
+
+**Detection Methods:**
+- **Acoustic listening devices** - Sound of water escaping
+- **Pressure monitoring** - Drop indicates break
+- **Flow monitoring** - Night-flow analysis (demand low)
+- **Dye tracing** - Follows water path
+- **Thermal imaging** - Temperature anomalies
+- **Ground-penetrating radar** - Subsurface detection
+
+**Repair Protocol:**
+- Isolate affected section
+- Excavate & repair/replace pipe
+- Pressure testing before reopening
+- Chlorine flushing post-repair
+- Microbiological testing
+- Documentation & record
+
+---
+
+## Surveillance Activity 10: Well Construction Standards {.smaller}
+
+### Codes of Practice for Groundwater
+
+**Site Selection:**
+- At least 15 meters from contamination sources
+- Higher elevation than potential sources
+- Accessible for maintenance
+- Community consultation
+
+**Sanitary Well Construction:**
+- Proper lining (brick, cement) to ≥6 meters depth
+- Parapet wall ≥70-75 cm above ground
+- Cement concrete platform ≥1 meter radius
+- Drainage slope outward
+- Covered top (critical for safety)
+- Hand pump installation with proper foundation
+
+**Deep Well Requirements:**
+- Below first impervious layer
+- Professional drilling required
+- Strainer properly installed
+- Water-tight casing
+- Maintenance schedule
+
+**Abandonment Protocol:**
+- Seal derelict wells to prevent contamination
+- Prevent standing water (mosquito breeding)
+- Ground-level capping minimum
+- Proper decommissioning documentation
+
+---
+
+## Surveillance Activity 11: Plumbing Standards {.smaller}
+
+### Household Connection Quality
+
+**Building Connection Requirements:**
+- Non-corrosive materials (no lead pipes)
+- Minimum pipe diameter maintained
+- Proper slope (prevents stagnation)
+- Isolation valves (for maintenance)
+- Backflow prevention at connection
+
+**In-Home Plumbing:**
+- Separation of drinking water from sewage
+- No cross-connections to toilets/baths
+- Proper venting (prevents air locks)
+- Temperature control (cold water separate)
+- Regular inspection requirement
+
+**Storage Tank Quality:**
+- Sanitary design (sealed, accessible)
+- Regular cleaning (annually minimum)
+- Overflow prevention
+- First-flush exclusion (prevents contamination)
+- Screening against insects
+
+**Inspection & Certification:**
+- Plumbing permits required
+- Code compliance verification
+- Pressure testing mandatory
+- Chlorine flushing post-installation
+- Microbiological sampling
+
+---
+
+## Sampling Protocols {.smaller}
+
+### Aseptic Collection Techniques
+
+**Sample Container Requirements:**
+- **Sterile containers** (critical for microbiology)
+- Glass or polycarbonate (not metal)
+- Sealed caps (tamper-proof)
+- Labeled with date, time, location
+- Proper volume (100-250 mL typical)
+
+**Collection Procedure:**
+1. **Identify location** - Fixed monitoring point
+2. **Flush line** - 30 seconds (removes standing water)
+3. **Flame tap** - Optional (kills surface bacteria)
+4. **Collect aseptically** - Avoid touching inside container
+5. **Seal immediately** - Prevent evaporation
+6. **Record metadata** - Time, temperature, observer
+7. **Preserve sample** - Chilled (4°C) or chemical additive
+
+**Transport & Storage:**
+- Deliver within 24 hours
+- Keep chilled during transport
+- Avoid exposure to light
+- Document chain of custody
+- Note any delays or anomalies
+
+**What NOT to Do:**
+- ✗ Do NOT rinse container (removes preservative)
+- ✗ Do NOT collect from just-cleaned taps
+- ✗ Do NOT collect in dirty containers
+- ✗ Do NOT leave sample at room temperature
+- ✗ Do NOT forget labels/documentation
+
+---
+
+## Bacteriological Surveillance {.smaller}
+
+### Detecting Microbial Contamination
+
+**Presumptive Coliform Test (Traditional):**
+- Multiple tube method with lactose broth media
+- Gas production in tubes = presumptive positive
+- Confirms presence of coliforms
+- Limitation: Not specific to fecal origin
+
+**Confirmatory Tests:**
+- **EMB Agar:** Differentiates E. coli (typical appearance)
+- **Gram Staining:** Confirms gram-negative rods
+- **Biochemical Tests:** Lactose fermentation, indole production
+- **Culture Isolation:** Identifies specific species
+
+**Membrane Filtration Technique (Modern):**
+- Water filtered through 0.45 μm membrane
+- Membrane placed on selective media (mFC, mTEC)
+- Incubated 24 hours at specific temperature
+- Colonies counted directly
+- **Advantage:** Quantitative, faster, economical
+
+**Enzyme Substrate Testing (Advanced):**
+- Presence of enzyme-substrate interaction indicates organism
+- Rapid results (2-4 hours)
+- Specific for E. coli
+- Used in developed countries
+
+---
+
+## Fecal Indicator Organisms {.smaller}
+
+### Understanding Test Interpretation
+
+**E. coli (Fecal Coliform):**
+- Most specific fecal indicator
+- Human & animal intestines
+- Indicates recent/direct contamination
+- Drinking water standard: **Absent (0 CFU/100mL)**
+- If present: System failure, immediate action needed
+
+**Fecal Streptococci:**
+- Human & animal origins (distinguishable by species)
+- More resistant than E. coli
+- Indicates: Fecal contamination (less recent)
+- Helps assess contamination age/source
+- Ratio E. coli:Strep helps determine source
+
+**Total Coliforms:**
+- Environmental organisms (some non-fecal)
+- Include: E. coli + other coliforms
+- Indicates: Potential for contamination
+- Drinking water standard: **Absent or <5% samples**
+- Less specific than E. coli alone
+
+**Clostridium perfringens:**
+- Spore-forming anaerobe
+- Indicates: Remote/past contamination
+- More resistant to treatment & disinfection
+- Used: To assess treatment adequacy
+- Especially useful for RO/UV system verification
+
+---
+
+## Colony Count Procedures {.smaller}
+
+### Heterotrophic Plate Count (HPC)
+
+**Purpose:**
+- General indicator of bacterial load
+- Non-specific (measures total viable bacteria)
+- Indicates water quality broadly
+- Early warning system
+
+**Procedure:**
+- Dilute water samples (10⁻¹, 10⁻², etc.)
+- Plate on nutrient agar media
+- Incubate 48 hours at 35-37°C
+- Count colonies (30-300 range optimal)
+- Calculate CFU/mL
+
+**Interpretation:**
+- <1000 CFU/mL: Good water quality
+- 1000-10,000: Acceptable (investigate source)
+- >10,000: Indicates problem (contamination or stagnation)
+- Sudden increase: Potential breach in system
+
+**Limitations:**
+- Does not identify organisms
+- Does not distinguish pathogenic from non-pathogenic
+- Temperature-dependent growth
+- Some organisms won't grow on standard media
+
+---
+
+## Chemical Surveillance Testing {.smaller}
+
+### Monitoring Contaminant Levels
+
+**Physical Parameters:**
+- **Turbidity:** Nephelometer (NTU)
+- **Color:** Spectrophotometer (TCU)
+- **Conductivity:** Electrical conductance (μS/cm)
+- **Temperature:** Thermometer (°C)
+- **pH:** pH meter (0-14 scale)
+
+**Inorganic Chemicals:**
+- Heavy metals: Atomic absorption spectrophotometry (AAS)
+- Ions (chloride, fluoride, nitrate): Ion chromatography
+- Hardness: EDTA titration
+- Iron/manganese: Colorimetric methods
+
+**Disinfection Residuals:**
+- Chlorine (free & total): DPD method (diethyl-p-phenylenediamine)
+- Ozone: Specific analyzer
+- UV dosage: Radiometer measurement
+
+**Organic Compounds:**
+- Pesticides: Gas chromatography (GC)
+- PAH: High-performance liquid chromatography (HPLC)
+- Volatile organics: GC-mass spectrometry
+
+---
+
+## Quality Testing Standards {.smaller}
+
+### Drinking Water Compliance
+
+**WHO Drinking Water Quality Guidelines:**
+
+**Physical Standards:**
+- Turbidity: <1 NTU (or <5 for systems without continuous monitoring)
+- Color: <5 TCU
+- Taste/Odor: Absent
+
+**Microbiological Standards:**
+- E. coli: Absent (0/100 mL)
+- Enterococci: Absent (0/100 mL)
+- Enterovirus: Absent (0/100 L)
+
+**Chemical Standards:**
+- Arsenic: 0.01 mg/L (10 μg/L)
+- Lead: 0.01 mg/L (10 μg/L)
+- Fluoride: 1.5 mg/L (upper limit)
+- Nitrate: 50 mg/L
+- (See Module 6 for complete chemical list)
+
+**Monitoring Frequency:**
+- Microbiological: Minimum weekly (high-risk weekly, small systems monthly)
+- Chemical: Annual (or more if risk identified)
+- Physical: Daily visual, periodic testing
+
+---
+
+## Testing Methodology Gaps {.smaller}
+
+### Common Challenges
+
+**Infrastructure Gaps:**
+- Limited laboratory capacity in remote areas
+- Expensive equipment maintenance
+- Shortage of trained technicians
+- Lack of quality control reagents
+
+**Technical Challenges:**
+- Complex matrices interfere with testing
+- Environmental samples harder than pure cultures
+- Method validation for local conditions
+- Equipment calibration drift
+
+**Capacity Building Needs:**
+- Training programs inadequate
+- Continuing education limited
+- Standardization across regions
+- Quality assurance protocols weak
+
+**Solutions:**
+- Mobile laboratories
+- Simple field test kits (rapid testing)
+- Regional central labs (reference standards)
+- Capacity building partnerships
+- Digital reporting systems
+
+---
+
+## Rapid Testing Methods {.smaller}
+
+### Field-Level Assessment
+
+**Advantages of Rapid Tests:**
+- Results within hours (not days)
+- Lower cost than laboratory testing
+- Portable (field deployment)
+- Minimal training needed
+- Good for screening purposes
+
+**Available Rapid Tests:**
+- **Colilert system:** Most probable number (MPN) in 18-24 hours
+- **Chromogenic substrates:** Color change indicates E. coli
+- **ATP bioluminescence:** Organic matter indicator
+- **Conductivity probes:** Salinity/TDS quick assessment
+- **Turbidity meters:** Handheld devices
+
+**Limitations:**
+- Less specific than laboratory methods
+- Cannot identify organisms definitively
+- Confirmation testing still needed for positives
+- Variability in technique
+
+**Best Practice:**
+- Use rapid tests for screening
+- Confirm positive results in laboratory
+- Regular comparison with reference methods
+
+---
+
+## Data Management & Reporting {.smaller}
+
+### Surveillance Information System
+
+**Data Recording:**
+- Date, time, location of sample
+- Source identification
+- Test results with units
+- Analyst name & signature
+- Quality assurance notes
+- Corrective actions taken
+
+**Database System:**
+- Digital recording (prevent errors)
+- Backup systems (prevent loss)
+- Secure access (confidentiality)
+- Trend analysis capability
+- Report generation automated
+
+**Reporting Structure:**
+- To water authority (daily for major issues)
+- To public health department (monthly)
+- To consumers (transparency)
+- To government (compliance verification)
+- International reporting (WHO, SDG tracking)
+
+**Public Communication:**
+- Water quality report cards (annual)
+- Boil water notices (when needed)
+- Violation reports (transparent)
+- Community meetings
+- Website/app access to data
+
+---
+
+## Surveillance Response Protocol {.smaller}
+
+### When Contamination is Detected
+
+**Immediate Actions (Within Hours):**
+1. **Verify result:** Retest to confirm contamination
+2. **Identify source:** Pinpoint location/cause
+3. **Assess risk:** Determine population affected
+4. **Notify public:** Issue boil water notice if needed
+5. **Alert authorities:** Health department, water authority
+6. **Begin investigation:** Trace contamination source
+
+**Short-term Response (24-72 hours):**
+- Increase testing frequency
+- Check nearby samples (pattern analysis)
+- Inspect infrastructure (pipes, tanks)
+- Review treatment plant operation
+- Interview affected persons (symptom surveillance)
+
+**Corrective Actions (Days-Weeks):**
+- Repair identified defects
+- Optimize treatment
+- Flushing/disinfection of system
+- Resampling to confirm resolution
+- Root cause analysis
+- Prevention measures
+
+**Communication:**
+- Initial notice (contamination detected)
+- Updates on progress
+- All-clear notice (contamination resolved)
+- Post-incident review
+- Lessons learned documentation
+
+---
+
+## Early Detection Systems {.smaller}
+
+### Advanced Surveillance Technologies
+
+**Continuous Monitoring:**
+- On-line turbidity sensors
+- Chlorine residual monitors
+- pH continuous recording
+- Flow rate measurement
+- Unusual pattern alert systems
+
+**Wastewater Epidemiology:**
+- Sewage sampling for pathogen detection
+- Early indicator of community infection
+- COVID-19 application (wastewater PCR)
+- Poliovirus surveillance
+- Antimicrobial resistance tracking
+
+**Syndromic Surveillance:**
+- Hospital admission monitoring (diarrhea cases)
+- School absenteeism tracking
+- Emergency department visits
+- Pharmacy data (antidiarrheal sales)
+- Pattern recognition for outbreaks
+
+**Genomic Surveillance:**
+- DNA sequencing of isolated pathogens
+- Strain tracking during outbreaks
+- Source attribution
+- Resistance mutation identification
+- Epidemiological investigation
+
+---
+
+## Case Study: Outbreak Investigation {.smaller}
+
+### Scenario - Cholera Detection
+
+**Initial Detection:**
+- 15 cases of acute diarrhea in one area within 48 hours
+- Stool samples positive for V. cholerae
+- Public health alert triggered
+
+**Surveillance Actions:**
+1. **Immediate testing:** Water samples from implicated zone
+2. **Confirmatory testing:** Coliform presence (YES - breach!)
+3. **Source tracing:** Pipeline break near sewage line identified
+4. **Health response:** ORS distribution, IV fluids
+5. **Communication:** Boil water notice issued
+6. **Community measures:** Chlorination, flushing begun
+
+**Investigation Findings:**
+- Pipeline break at 7-meter mark
+- Back-pressure from sewage during low-flow period
+- Sewage contamination entered supply
+- ~2000 people affected
+
+**Corrective Actions:**
+- Pipeline repaired (24 hours)
+- System flushing & chlorination (48 hours)
+- Microbiological testing cleared (72 hours)
+- All-clear issued
+- Root cause: Maintenance backlog
+
+**Prevention:**
+- Pipeline replacement plan initiated
+- Increased monitoring frequency
+- Maintenance schedule intensified
+- Operator training reinforced
+
+---
+
+## International Surveillance Coordination {.smaller}
+
+### Global Disease Tracking
+
+**WHO Surveillance:**
+- International Health Regulations (IHR)
+- Notifiable diseases include waterborne outbreaks
+- Data sharing between countries
+- Coordinated response for pandemics
+
+**Regional Networks:**
+- South-East Asia surveillance
+- Cross-border waterborne disease monitoring
+- Training & capacity building exchange
+- Reference laboratory network
+
+**India's Role:**
+- National Waterborne Disease Surveillance System
+- IDSP (Integrated Disease Surveillance Programme)
+- State-level coordination
+- District hospital reporting
+- Community health worker network
+
+**Data Utilization:**
+- Epidemic response
+- Policy formulation
+- Resource allocation
+- International aid coordination
+- Evidence-based planning
+
+---
+
+## Summary: Surveillance & Monitoring {.center}
+
+### Key Takeaways
+
+:::{.columns}
+:::{.column width="50%"}
+**11 Surveillance Activities:**
+- Source approval
+- Watershed protection
+- Procedures compliance
+- Sanitary surveys
+- Monitoring programs
+:::
+:::{.column width="50%"}
+**Surveillance Methods:**
+- Sampling protocols
+- Bacteriological testing
+- Chemical monitoring
+- Quality assurance
+- Rapid testing
+:::
+:::
+
+:::{.fragment}
+**End Goal:** Safe drinking water through continuous oversight
+:::
+
+---
+
+## End of Module 7 {.center}
+
+### Assessment Questions Coming
+
+**You will now be assessed on:**
+
+1. 11-point surveillance framework
+2. Sampling procedures & aseptic technique
+3. Bacteriological testing methods
+4. Quality standards & interpretation
+5. Outbreak response protocols
+
+**Short Answer Questions (2):**
+1. Explain the difference between E. coli and total coliforms in water surveillance
+2. Describe proper water sample collection to prevent contamination
+
+**Long Answer Question (1):**
+Design a comprehensive surveillance program for a small piped water system serving 50,000 people. Include: monitoring frequency, testing methods, response protocols, and capacity requirements.
+
+---
+
+## References & Data Sources {.smaller}
+
+**International Guidelines:**
+- WHO Guidelines for Drinking Water Quality (2011)
+- International Health Regulations (IHR)
+
+**Indian Standards:**
+- Indian Standards Bureau (ISB) IS 10500 - Drinking Water Standards
+- Water Prevention & Control of Pollution Act (1974)
+- CPHEEO Guidelines
+
+**Books & Resources:**
+- K. Park - Textbook of Preventive and Social Medicine (26th Edition)
+- Manual on Water Quality Monitoring (WHO)
+- National Surveillance Manual (India Ministry of Health)
+
+**Online Resources:**
+- IDSP: https://www.idsp.nic.in/
+- Water.gov.in: https://www.indiawaterportal.org/
+- WHO Water Quality Resources
+
+---
+
+## Questions & Discussion {.center}
+
+### Module 7 Complete
+
+**Next Steps:**
+1. Review key concepts
+2. Complete assessment questions
+3. Proceed to Module 8: Safe Water in India
+
+**Resources Available:**
+- Slide deck (revisit anytime)
+- Testing protocols reference
+- Outbreak investigation checklist

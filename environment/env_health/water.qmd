@@ -36,7 +36,7 @@ It includes seven modules that cover technical, practical, and policy aspects.
 
 ---
 
-## Treatment
+## [Treatment](water/module5_water_treatment.qmd)
 - Storage and distribution  
 - Slow Sand Filter (SSF) and Rapid Sand Filter (RSF)  
 - Household filtration methods  
@@ -45,7 +45,7 @@ It includes seven modules that cover technical, practical, and policy aspects.
 
 ---
 
-## Pollution & Diseases
+## [Pollution & Diseases](module6_pollution_diseases.qmd)
 - Pollution indicators  
 - Waterborne diseases  
 - Health associations (dental fluorosis, cardiovascular effects, cyanosis)  
@@ -53,7 +53,7 @@ It includes seven modules that cover technical, practical, and policy aspects.
 
 ---
 
-## Surveillance
+## [Surveillance](module7_surveillance.qmd)
 - 11-point surveillance activities  
 - Sampling protocols  
 - Bacteriological testing (coliforms, streptococci)  
@@ -61,7 +61,7 @@ It includes seven modules that cover technical, practical, and policy aspects.
 
 ---
 
-## Safe Water in India
+## [Safe Water in India](module8_safe_water_india.qmd)
 - Government norms and standards  
 - Census 2011 data on water access  
 - Problem Villages (4 criteria + examples)  
@@ -69,7 +69,7 @@ It includes seven modules that cover technical, practical, and policy aspects.
 
 ---
 
-## Quiz
+## [Quiz](module9_quiz.qmd)
 - 50+ MCQs covering all modules  
 - Randomized questions with instant feedback  
 
