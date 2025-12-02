@@ -50,3 +50,10 @@ rsconnect/
 /.quarto/
 
 **/*.quarto_ipynb
+
+# .gitignore
+_site/
+.quarto/
+*.html
+!.nojekyll
+
