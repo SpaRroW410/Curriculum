@@ -1,0 +1,662 @@
+---
+title: "MD/MS Dissertation Preparation Guide"
+subtitle: "Atal Bihari Vajpayee Medical University, UP"
+author: "SpaRroW"
+date: today
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    code-fold: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "ABVMUUP Dissertation Guidelines"
+
+---
+
+# MD/MS Dissertation Preparation Guide {background-color="#0284c7"}
+
+Complete roadmap for postgraduate dissertation submission
+
+::: notes
+This is a comprehensive guide for MD/MS students preparing dissertations at ABVMUUP.
+:::
+
+------------------------------------------------------------------------
+
+## Your Dissertation Journey
+
+::: incremental
+-   A comprehensive research document demonstrating mastery of your field
+-   Combines literature review, original research, and critical analysis
+-   Must follow ABVMUUP formatting and submission guidelines
+-   Requires ethical approval and institutional endorsement
+-   Final step before MD/MS degree completion
+:::
+
+------------------------------------------------------------------------
+
+## University Requirements at a Glance
+
+::::: columns
+::: {.column width="50%"}
+**Copies to Submit** - 1 Hard Copy - 1 Soft Copy (PDF)
+
+**Plagiarism Limit** - \<15% (Turnitin/Ithenticate)
+:::
+
+::: {.column width="50%"}
+**Paper Specifications** - A4, 85gsm, white bond - Arial 12pt
+
+**References** - Vancouver Style (Numbered)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Dissertation Components Roadmap
+
+| Component | Details |
+|---------------------------------------|---------------------------------|
+| **Preliminary Pages** | Cover, Declaration, Certificates, Abstract, TOC, Lists |
+| **Main Chapters (7)** | Introduction → Methodology → Results → Discussion → Conclusions |
+| **Supporting Docs** | Ethics approval, ICF, data tools, plagiarism report |
+| **Quality Checks** | Format compliance, References, Plagiarism verification |
+
+------------------------------------------------------------------------
+
+## 8-Step Submission Process {background-color="#dbeafe"}
+
+1.  Prepare manuscript & chapters
+2.  Ethical approval obtained
+3.  Guide/Co-guide certification
+4.  HOD endorsement & Principal forward
+5.  Format compliance check
+6.  Plagiarism check (\<15%)
+7.  Final review by all authorities
+8.  Submit hard copy + PDF
+
+------------------------------------------------------------------------
+
+# Preliminary Pages {background-color="#fed7aa"}
+
+------------------------------------------------------------------------
+
+## Cover Page Design & Specifications
+
+::: {style="background-color: #fed7aa; padding: 20px; border-left: 4px solid #c2410c;"}
+**Key Specifications:** - **Background:** White only - **Printing:** Black text only - **Font:** Arial, 14pt Bold (titles), 22pt (main title) - **Elements:** Logo (4.5cm) • Title • Degree • Your Name • College • Year
+:::
+
+------------------------------------------------------------------------
+
+## Declaration, Certificates & Endorsements
+
+::::: columns
+::: {.column width="50%"}
+**Student Declaration** Affirm that dissertation is your bonafide work under supervision
+
+**Guide Certificate** Certifies bonafide work & your eligibility for degree
+:::
+
+::: {.column width="50%"}
+**Co-Guide Certificate** If applicable (up to 2 co-guides permitted)
+
+**HOD & Principal** Department endorsement + Principal forward
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Abstract: Structure & Guidelines
+
+::: {style="background-color: #dcfce7; padding: 15px; border-left: 3px solid #16a34a;"}
+**Abstract Structure (Max 200-300 words):** - ✓ Introduction - Context & rationale - ✓ Objectives - Primary & secondary - ✓ Methods - Design & sample - ✓ Results - Key findings - ✓ Conclusion - Implications - ✓ Keywords - 5-10 terms (semicolon-separated)
+:::
+
+------------------------------------------------------------------------
+
+# Core Chapters {background-color="#dbeafe"}
+
+------------------------------------------------------------------------
+
+## Chapter 1: Introduction Structure
+
+::: incremental
+-   **Background of Study:** General context & existing knowledge
+-   **Need/Rationale:** Why research is important
+-   **Statement of Problem:** Specific problem you're investigating
+-   **Scope & Delimitation:** Boundaries of your research
+-   **Expected Outcomes:** Anticipated benefits
+:::
+
+------------------------------------------------------------------------
+
+## Chapter 2: Writing SMART Objectives
+
+::::: columns
+::: {.column width="50%"}
+**Primary Objective** Single, well-defined main goal
+
+**Secondary Objectives** Additional exploratory/sub-aims
+:::
+
+::: {.column width="50%"}
+**SMART Criteria** - **S**pecific - **M**easurable - **A**chievable - **R**elevant - **T**ime-bound
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Chapter 3: Literature Review Strategy
+
+::: incremental
+-   **Search Strategy:** PubMed, Google Scholar, JSTOR databases
+-   **Search Terms:** Keywords, MeSH terms, inclusion/exclusion
+-   **Organization:** Thematic approach (not just summaries)
+-   **Synthesis:** Compare studies, identify gaps, build narrative
+-   **Critical Analysis:** Evaluate strengths, limitations, quality
+:::
+
+------------------------------------------------------------------------
+
+## Chapter 4a: Study Design Selection
+
+::::: columns
+::: {.column width="50%"}
+**Observational Designs** - Cross-sectional - Case-control - Cohort - Descriptive
+
+**Qualitative Designs** - Phenomenology - Grounded theory - Ethnography
+:::
+
+::: {.column width="50%"}
+**Experimental Designs** - RCT - Quasi-experimental - Before-after
+
+**Justification** Explain why this design is best for your research question
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Chapter 4b: Sample Selection & Size Calculation
+
+| Aspect                  | Details                                        |
+|-------------------------|------------------------------------------------|
+| **Inclusion Criteria**  | Clear criteria for who participates            |
+| **Exclusion Criteria**  | Conditions that disqualify participation       |
+| **Sample Size Formula** | Power 80%, α=0.05 with parameter justification |
+| **Sampling Method**     | Random, stratified, systematic, or purposive   |
+
+------------------------------------------------------------------------
+
+## Chapter 4c: Ethical Considerations & Data Collection
+
+::: {style="background-color: #dcfce7; padding: 15px; border-left: 3px solid #16a34a;"}
+**Mandatory Requirements:** - ✓ Ethical Approval from Institutional Ethics Committee - ✓ Informed Consent Form (Hindi/English) - ✓ Confidentiality & anonymization plan - ✓ Pilot Study (10% sample) - ✓ Validity & Reliability measures - ✓ Data Collection Procedure (step-by-step)
+:::
+
+------------------------------------------------------------------------
+
+## Chapter 4d: Statistical Analysis Plan
+
+::: incremental
+-   **Descriptive Statistics:** Mean, SD, frequencies, percentages
+-   **Inferential Tests:** t-test, chi-square, ANOVA
+-   **Significance Level:** p \< 0.05 (a priori specification)
+-   **Software Used:** R, SPSS, Stata (with version)
+-   **Missing Data:** Handling strategy documented
+:::
+
+------------------------------------------------------------------------
+
+## Chapter 5: Results - Data Presentation
+
+::::: columns
+::: {.column width="50%"}
+**Tables** - Numbered sequentially - Clear headings - Summary below
+
+**Text Descriptions** - Present key findings - Statistical significance
+:::
+
+::: {.column width="50%"}
+**Figures** - Professional quality - Colored when appropriate - Descriptive captions
+
+**No Interpretation** Discussion goes in Discussion chapter
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Chapter 6: Discussion - Analysis & Interpretation
+
+::: incremental
+-   **Key Findings Summary:** Recap main results in context of objectives
+-   **Literature Comparison:** How findings align/differ from existing research
+-   **Explanation of Results:** Why results occurred (mechanisms, theories)
+-   **Limitations:** Be honest about study limitations
+-   **Implications:** Practical, policy, and research implications
+:::
+
+------------------------------------------------------------------------
+
+## Chapter 7: Conclusions & Recommendations
+
+:::::: columns
+::: {.column width="33%"}
+**Key Conclusions** Brief synthesis of main findings
+:::
+
+::: {.column width="33%"}
+**Recommendations (Practical & Policy)** Actionable steps for programs & policy
+:::
+
+::: {.column width="33%"}
+**Future Research** Directions for further investigation
+:::
+::::::
+
+------------------------------------------------------------------------
+
+# References: Vancouver Style {background-color="#e9d5ff"}
+
+------------------------------------------------------------------------
+
+## Vancouver Style: Overview & Key Features
+
+::: {style="background-color: #e9d5ff; padding: 20px; border-left: 4px solid #7c3aed;"}
+-   **Numbered Citations:** Use \[1\], \[2\], \[3\] in text in order of appearance
+-   **Reference List:** At end of manuscript, numbered to match in-text
+-   **Standard Format:** Author(s). Title. Source. Year;Volume(Issue):Pages
+-   **Wide Acceptance:** Standard in biomedical, public health, medical research
+:::
+
+------------------------------------------------------------------------
+
+## Journal Article References
+
+::: {style="background-color: #e9d5ff; padding: 15px; border-left: 3px solid #7c3aed; margin: 10px 0;"}
+**Format:** Author(s). Title of article. Journal Title. Year;Volume(Issue):Page numbers.
+:::
+
+::: {style="background-color: #e9d5ff; padding: 15px; border-left: 3px solid #7c3aed; margin: 10px 0;"}
+**Example:** Singh A, Kumar P, Sharma R. Prevalence of anemia in pregnant women: A cross-sectional study. *Indian J Public Health.* 2021;65(3):190–5.
+:::
+
+------------------------------------------------------------------------
+
+## Books & Book Chapters
+
+::::: columns
+::: {.column width="50%"}
+**Book Format**
+
+Author(s). Title of book. Edition. Place: Publisher; Year.
+
+**Example:** Park K. *Park's Textbook of Preventive and Social Medicine*. 26th ed. Jabalpur: Banarsidas Bhanot; 2021.
+:::
+
+::: {.column width="50%"}
+**Chapter Format**
+
+Author(s). Title of chapter. In: Editor(s). Title of book. Place: Publisher; Year. p. pages.
+
+**Example:** Bhargava M. Nutrition and health. In: Gupta S, editor. *Essentials of Community Medicine*. Delhi: Jaypee; 2020. p. 89–97.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Government Reports & Datasets (NFHS-5, GATS)
+
+::::: columns
+::: {.column width="50%"}
+**Report Format**
+
+Author/Organization. Title. Place: Publisher; Year.
+
+**Example:** Ministry of Health and Family Welfare (India). National Family Health Survey (NFHS-5), 2019–21: India Report. Mumbai: IIPS; 2021.
+:::
+
+::: {.column width="50%"}
+**Dataset Format**
+
+Author/Organization. Title \[dataset\]. Place: Publisher; Year. Available from: URL
+
+**Example:** NFHS. National Family Health Survey (NFHS-5), 2019–21: District Fact Sheet \[dataset\]. Mumbai: IIPS; 2021.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Website & Internet Sources
+
+::: {style="background-color: #e9d5ff; padding: 15px; border-left: 3px solid #7c3aed; margin: 10px 0;"}
+**Format:** Author/Organization. Title \[Internet\]. Place: Publisher; Year \[cited Year Month Day\]. Available from: URL
+:::
+
+::: {style="background-color: #e9d5ff; padding: 15px; border-left: 3px solid #7c3aed; margin: 10px 0;"}
+**Example (WHO Fact Sheet):** World Health Organization. Hypertension \[Internet\]. Geneva: WHO; 2023 \[cited 2025 Apr 24\]. Available from: https://www.who.int/news-room/fact-sheets/detail/hypertension
+:::
+
+------------------------------------------------------------------------
+
+## Theses, Dissertations & Conference Papers
+
+::::: columns
+::: {.column width="50%"}
+**Thesis Format**
+
+Author. Title \[type of thesis\]. Place: Institution; Year.
+
+**Example:** Kumar R. A study on dietary patterns among adolescents in Bareilly \[MPH thesis\]. Bareilly: Rohilkhand Medical College; 2023.
+:::
+
+::: {.column width="50%"}
+**Conference Format**
+
+Author(s). Title. In: Proceedings; Date; Location. Place: Publisher; Year. p. pages.
+
+**Example:** Verma N, Joshi M. Hypertension trends in rural India. In: Proceedings of 10th National Public Health Conference; 2022 Dec 5–7; New Delhi. NHP India; 2023. p. 102–4.
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Videos, Software & WHO Resources
+
+:::::: columns
+::: {.column width="33%"}
+**Video Format**
+
+Author/Channel. Title \[Internet\]. Place: Platform; Date \[cited date\]. Available from: URL
+:::
+
+::: {.column width="33%"}
+**Software Format**
+
+Name \[Internet\]. Version. Place: Publisher; Year \[cited date\]. Available from: URL
+:::
+
+::: {.column width="33%"}
+**WHO Fact Sheet**
+
+WHO. Title \[Internet\]. Geneva: WHO; Year \[cited date\]. Available from: URL
+:::
+::::::
+
+------------------------------------------------------------------------
+
+## Common Reference Formatting Mistakes {background-color="#fecaca"}
+
+::: {style="background-color: #fecaca; padding: 15px; border-left: 3px solid #dc2626;"}
+-   ✗ **Missing Access Dates:** Always include \[cited date\] for internet sources
+-   ✗ **Inconsistent Author Names:** Use abbreviations consistently (initials only)
+-   ✗ **Wrong Punctuation:** Semicolons (;) between elements, not periods
+-   ✗ **Incomplete Journal Info:** Always include volume(issue):pages
+-   ✗ **Missing URLs:** Required for websites, datasets, online resources
+-   ✗ **Undefined Abbreviations:** First use must be spelled out
+:::
+
+------------------------------------------------------------------------
+
+# Formatting Requirements {background-color="#fed7aa"}
+
+------------------------------------------------------------------------
+
+## Paper & Print Specifications
+
+| Aspect | Requirement |
+|----------------------------|--------------------------------------------|
+| **Paper Type** | High-quality, plain white, unlined bond, A4, 85gsm |
+| **Font** | Arial, 12pt (body); 14pt bold (titles); 12pt bold (subtitles) |
+| **Printing** | Letter quality or laser, dark black characters (NO dot matrix) |
+| **Sides** | Use only ONE side of paper for all pages |
+
+------------------------------------------------------------------------
+
+## Spacing & Margins
+
+::::: columns
+::: {.column width="50%"}
+**Margins** - Left: 1.5 inches (for binding) - Right, Top, Bottom: 1.0 inch
+
+**Spacing** - Double spacing (body text) - Single spacing (footnotes, endnotes) - Triple space before/after equations
+:::
+
+::: {.column width="50%"}
+**Pagination** - Preliminary Pages: Roman numerals (i, ii, iii...) - Main Text: Arabic numerals (1, 2, 3...) - Placement: Center bottom or consistent position - Coverage: ALL pages including tables, figures, appendices
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Photographs, Figures & Diagrams
+
+::: incremental
+-   **Professional Quality:** High-resolution colored photographs
+-   **Print Consideration:** Ensure figures print clearly in color AND B&W
+-   **Standard Size:** Figures must fit on A4 pages
+-   **Oversized Figures:** Must be folded with 1.5" left margin maintained
+-   **Captions & Numbers:** Descriptive captions with figure numbers
+:::
+
+------------------------------------------------------------------------
+
+# Appendices & Submission {background-color="#fed7aa"}
+
+------------------------------------------------------------------------
+
+## Appendices: Required Documents
+
+::: {style="background-color: #fed7aa; padding: 15px; border-left: 3px solid #c2410c;"}
+-   **Appendix I:** Institutional Ethical Approval Certificate (signed & sealed)
+-   **Appendix II:** Informed Consent Form (Hindi & English versions)
+-   **Appendix III:** Patient Information Sheet (if applicable)
+-   **Appendix IV:** Data Collection Tool/Proforma
+-   **Appendix V:** Master Data Sheet (Sample data documentation)
+-   **Appendix VI:** Plagiarism Report (\<15%) - Turnitin/Ithenticate
+:::
+
+------------------------------------------------------------------------
+
+## Final Submission Checklist (Part 1)
+
+::: {style="background-color: #fed7aa; padding: 15px; border-left: 3px solid #c2410c;"}
+-   [ ] Cover Page: Complete with all required information
+-   [ ] Declarations & Certificates: Signed by student, guide, co-guide, HOD, Principal
+-   [ ] Abstract: 200-300 words with keywords (5-10)
+-   [ ] TOC, Lists: Tables, figures, abbreviations included
+-   [ ] All 7 Chapters: Introduction through Conclusions
+-   [ ] References: Vancouver style, numbered \[1\]\[2\]\[3\]...
+-   [ ] Appendices: Ethics approval, ICF, data tools, plagiarism
+-   [ ] Formatting: Margins, fonts, spacing, pagination verified
+:::
+
+------------------------------------------------------------------------
+
+## Final Submission Checklist (Part 2)
+
+::: {style="background-color: #fed7aa; padding: 15px; border-left: 3px solid #c2410c;"}
+-   [ ] Plagiarism Report: \<15% from Turnitin/Ithenticate attached
+-   [ ] Ethics Certificate: Institutional approval with seal attached
+-   [ ] Informed Consent Form: Both Hindi & English versions
+-   [ ] Data Tools: Questionnaires, forms, checklists included
+-   [ ] Hard Copy: Single bound copy with all pages intact
+-   [ ] Soft Copy: PDF format on pen drive (clearly labeled)
+-   [ ] File Naming: StudentName_Dissertation_Year
+-   [ ] Final Review: Proofread by guide for accuracy & completeness
+:::
+
+------------------------------------------------------------------------
+
+## Common Submission Errors to Avoid {background-color="#fecaca"}
+
+::: {style="background-color: #fecaca; padding: 15px; border-left: 3px solid #dc2626;"}
+-   ✗ **Missing Signatures:** Guide, co-guide, HOD, Principal signatures REQUIRED
+-   ✗ **Plagiarism \>15%:** Must be \<15% for acceptance
+-   ✗ **No Ethics Certificate:** MANDATORY - cannot submit without
+-   ✗ **Formatting Issues:** Incorrect margins, fonts, spacing, pagination
+-   ✗ **Incomplete References:** Missing page numbers, dates, or URLs
+-   ✗ **Missing Appendices:** ICF, data tools, plagiarism report MUST be included
+-   ✗ **Corrupted PDF:** Test file before submission
+:::
+
+------------------------------------------------------------------------
+
+## Reference Accuracy Checklist
+
+::: {style="background-color: #e9d5ff; padding: 15px; border-left: 3px solid #7c3aed;"}
+-   [ ] **Numbering:** In-text citations \[1\]\[2\]\[3\] match reference numbers
+-   [ ] **Completeness:** All required information included
+-   [ ] **Consistency:** Journal abbreviations match standard conventions
+-   [ ] **Punctuation:** Semicolons (;) between elements, not periods
+-   [ ] **Authors:** Use initials only (not full first names)
+-   [ ] **Dates:** Access dates included \[cited YYYY Mon DD\]
+-   [ ] **URLs:** Complete, working, properly formatted
+:::
+
+------------------------------------------------------------------------
+
+# Quick Reference & Best Practices {background-color="#e9d5ff"}
+
+------------------------------------------------------------------------
+
+## Dissertation Timeline & Milestones
+
+| Timeline       | Milestone                                         |
+|----------------|---------------------------------------------------|
+| **Month 1-2**  | Proposal Approval by guide & ethics committee     |
+| **Month 2**    | Ethical Clearance obtained before data collection |
+| **Month 3-8**  | Data Collection & Statistical Analysis            |
+| **Month 8-11** | Manuscript Writing, guide feedback, revisions     |
+| **Month 12**   | Final Submission with all signatures & appendices |
+
+------------------------------------------------------------------------
+
+## Support Resources & Contacts
+
+::::: columns
+::: {.column width="50%"}
+**Your Guide** Primary mentor for research direction, methodology, manuscript review
+
+**Department HOD** Endorsement authority; resource for departmental protocols
+
+**Biostatistician** Sample size, statistical analysis, data interpretation
+:::
+
+::: {.column width="50%"}
+**Ethics Committee** Ethical approval, ICF templates, compliance questions
+
+**Medical Library** Literature search, PubMed, journal databases
+
+**Academic Writing Support** Plagiarism workshops, academic integrity guidelines
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Useful Tools & Software
+
+::::: columns
+::: {.column width="50%"}
+**Reference Management** Mendeley, Zotero, EndNote
+
+**Statistical Analysis** R, SPSS, Stata, SAS, Python
+
+**Document Preparation** MS Word, Google Docs, LaTeX
+:::
+
+::: {.column width="50%"}
+**Plagiarism Checking** Turnitin, Ithenticate, Grammarly
+
+**Literature Search** PubMed, Google Scholar, JSTOR, ResearchGate
+
+**Visualization** GraphPad Prism, Python (matplotlib), R (ggplot2)
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## Data Management Best Practices
+
+::: incremental
+-   **Data Organization:** Maintain master data sheet with participant IDs & variables
+-   **Backup Systems:** Keep multiple copies on external drives or cloud storage
+-   **Confidentiality:** Use codes instead of names in datasets
+-   **Version Control:** Save drafts with dates (Dissertation_v1, v2, v3)
+-   **Data Cleaning:** Document corrections, validate entries before analysis
+-   **Analysis Trail:** Document all statistical procedures performed
+:::
+
+------------------------------------------------------------------------
+
+## Academic Integrity & Plagiarism Prevention
+
+::: {style="background-color: #dcfce7; padding: 15px; border-left: 3px solid #16a34a;"}
+-   [x] **Always Cite Sources:** Use in-text citations \[1\]\[2\] for all references
+-   [x] **Quote Marks:** Use quotation marks for direct quotes, include page numbers
+-   [x] **Paraphrase Properly:** Rephrase in your own words + still cite source
+-   [x] **Acknowledge Collaborators:** Mention anyone who contributed
+-   [x] **Plagiarism Check Early:** Use Turnitin regularly during writing
+-   [x] **Final Check:** Plagiarism report \<15% before submission
+:::
+
+------------------------------------------------------------------------
+
+## Effective Communication with Your Guide
+
+::: incremental
+-   **Regular Meetings:** Schedule fortnightly or monthly meetings
+-   **Preparation:** Come with specific questions and completed sections
+-   **Feedback Implementation:** Incorporate suggestions promptly
+-   **Timeline Discussion:** Establish clear deadlines for each chapter
+-   **Acknowledge Help:** Thank guide in acknowledgments section
+-   **Professional Conduct:** Maintain respectful, collegial communication
+:::
+
+------------------------------------------------------------------------
+
+## Common Pitfalls to Avoid {background-color="#fecaca"}
+
+::: {style="background-color: #fecaca; padding: 15px; border-left: 3px solid #dc2626; font-size: 0.9em;"}
+-   ✗ **Too Broad Research Question:** Narrow scope for achievable objectives
+-   ✗ **Inadequate Literature Review:** Must demonstrate knowledge gap thoroughly
+-   ✗ **Methodological Flaws:** Improper sampling, uncontrolled confounders
+-   ✗ **Poor Data Quality:** Inconsistent collection, missing values
+-   ✗ **Weak Discussion:** Simply repeating results without interpretation
+-   ✗ **Over-generalization:** Claims beyond study scope or sample
+-   ✗ **Procrastination:** Starting late = rushed writing = low quality
+:::
+
+------------------------------------------------------------------------
+
+## Key Success Tips 🎓
+
+::: incremental
+-   🎯 **Start Early:** Begin research proposal in first month of program
+-   📖 **Read Widely:** Immerse yourself in current literature in your field
+-   🔍 **Be Rigorous:** Follow research protocols, maintain scientific integrity
+-   ✍️ **Write Regularly:** Don't leave writing until the end—draft as you progress
+-   🤝 **Collaborate:** Engage with guide, peers, biostatisticians early & often
+-   ⏰ **Manage Time:** Break dissertation into milestones with clear deadlines
+-   💪 **Persevere:** Dissertation is challenging but rewarding—stay committed!
+:::
+
+------------------------------------------------------------------------
+
+# Thank You! {background-color="#0284c7"}
+
+You are now ready to create your dissertation
+
+::: {style="background-color: rgba(255,255,255,0.1); padding: 20px; margin-top: 30px; border-radius: 10px;"}
+📧 **Questions?** Reach out to your guide, department, or ethics committee
+
+📚 **References:** ABVMUUP dissertation guidelines & Vancouver referencing style
+
+🎓 **Best of luck with your dissertation journey!**
+:::

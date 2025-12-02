@@ -72,6 +72,11 @@ website:
             href: global/community-health.qmd
           - text: "International Health"
             href: global/international-health.qmd
+      - text: "Post Graduate"
+        menu:
+          - text: "Guide for Dissertation"
+            href: post_graduate/dissertation-guide.qmd
+          
       
     right:
       - text: "Reference"
