@@ -2459,5 +2459,269 @@
       "Foundations of Health & Epidemiology",
       "Man and Medicine: Towards Health for All"
     ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#home",
+    "href": "foundations/concept-health-disease.html#home",
+    "title": "Concept of Health and Disease",
+    "section": "Welcome",
+    "text": "Welcome\nConcept of Health and Disease\nLearning Objectives:\n\nDefine disease and distinguish it from illness and sickness\nDescribe the epidemiological triad of agent, host, and environment\nExplain the natural history of disease and its phases\nDescribe the iceberg phenomenon of disease\nApply the levels of prevention — primordial, primary, secondary, tertiary\nDistinguish Koch’s postulates from the Bradford Hill criteria of causation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter builds directly on Chapter 1’s determinants-of-health framework: here we formalize how disease actually develops and how prevention maps onto that process.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#disease-illness-and-sickness",
+    "href": "foundations/concept-health-disease.html#disease-illness-and-sickness",
+    "title": "Concept of Health and Disease",
+    "section": "Disease, Illness, and Sickness",
+    "text": "Disease, Illness, and Sickness\n🟢 MUST KNOW\nThese three words are often used interchangeably but mean different things in community medicine:\n\nDisease — an objective, measurable deviation from normal structure or function of the body, detectable by clinical or laboratory means\nIllness — the subjective experience of feeling unwell, as perceived by the person themselves\nSickness — the social dimension: society’s recognition that a person is unwell (e.g. being excused from work)\n\nWhy the distinction matters: a person can have disease without illness (asymptomatic infection), or feel ill without demonstrable disease — both are relevant to how and when a health system responds.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#the-epidemiological-triad",
+    "href": "foundations/concept-health-disease.html#the-epidemiological-triad",
+    "title": "Concept of Health and Disease",
+    "section": "The Epidemiological Triad",
+    "text": "The Epidemiological Triad\n🟢 MUST KNOW\nDisease results from an interaction between three factors:\n\n\nAgent\nThe factor whose presence (or excess/deficiency) is necessary for disease — biological (bacteria, virus), chemical, physical, nutritional, or mechanical\n\nHost\nThe organism that harbours disease — human factors like age, sex, immunity, genetics, and behaviour affect susceptibility\n\nEnvironment\nExternal conditions that bring agent and host together — physical, biological, and socio-economic environment\n\nDisease occurs when this triad is out of balance — a change in any one factor can tip the balance toward or away from disease.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#natural-history-of-disease",
+    "href": "foundations/concept-health-disease.html#natural-history-of-disease",
+    "title": "Concept of Health and Disease",
+    "section": "Natural History of Disease",
+    "text": "Natural History of Disease\n🟢 MUST KNOW\nThe natural history of disease is how a disease would progress over time without any intervention — from first cause to final outcome. It has two broad phases:\n\nPre-pathogenesis phase — the disease agent exists in the environment, but has not yet entered the human host; risk factors are accumulating\nPathogenesis phase — begins once the agent enters a susceptible host: incubation → early (subclinical) pathogenesis → clinical disease → outcome (recovery, disability, or death)\n\nKey idea: prevention is most effective the earlier it acts in this timeline — this is exactly what the levels of prevention (next slides) are built around.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#the-iceberg-phenomenon",
+    "href": "foundations/concept-health-disease.html#the-iceberg-phenomenon",
+    "title": "Concept of Health and Disease",
+    "section": "The Iceberg Phenomenon",
+    "text": "The Iceberg Phenomenon\n🟢 MUST KNOW\nClinically diagnosed cases in a community are often only the visible tip of the true disease burden:\nVisible: clinically diagnosed, reported cases Hidden (below the surface): sub-clinical, undiagnosed, and unreported cases — often the majority\nImplication: relying only on reported/diagnosed cases underestimates the real scale of a disease in a population — this is why screening and active surveillance matter (screening is covered in a later Foundations chapter).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#levels-of-prevention",
+    "href": "foundations/concept-health-disease.html#levels-of-prevention",
+    "title": "Concept of Health and Disease",
+    "section": "Levels of Prevention",
+    "text": "Levels of Prevention\n🟢 MUST KNOW\nPrevention is classified by when it intervenes in the natural history of disease:\n\n\n\n\n\n\n\n\nLevel\nTarget\nExample\n\n\n\n\nPrimordial\nPrevents risk factors from ever emerging\nAnti-tobacco social norms in children who don’t smoke yet\n\n\nPrimary\nPrevents disease onset in exposed/at-risk people\nVaccination, health education\n\n\nSecondary\nDetects and treats disease early, before it’s clinically obvious\nCancer screening, early diagnosis\n\n\nTertiary\nLimits disability and aids rehabilitation once disease is established\nPhysiotherapy after stroke, disease-management programs\n\n\n\nExam tip: Primordial ≠ Primary. Primordial acts on risk factors before they exist; Primary acts once risk/exposure is already present but before disease develops.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#multifactorial-causation",
+    "href": "foundations/concept-health-disease.html#multifactorial-causation",
+    "title": "Concept of Health and Disease",
+    "section": "Multifactorial Causation",
+    "text": "Multifactorial Causation\n🟢 MUST KNOW\nMost disease — especially non-communicable disease — does not have a single cause. The web of causation model shows disease arising from an interconnected network of contributing factors (biological, behavioural, environmental, social), rather than one agent producing one disease.\nContrast with infectious disease: classical infectious disease causation (one specific agent → one specific disease) is closer to a single-cause model — which is exactly what Koch’s postulates were built to test.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#kochs-postulates",
+    "href": "foundations/concept-health-disease.html#kochs-postulates",
+    "title": "Concept of Health and Disease",
+    "section": "Koch’s Postulates",
+    "text": "Koch’s Postulates\n🟡 SHOULD KNOW\nRobert Koch’s 19th-century criteria for proving a microorganism causes a specific disease:\n\nThe organism must be found in all cases of the disease, and absent in healthy individuals\nIt must be isolated from the diseased host and grown in pure culture\nThe cultured organism must reproduce the disease when introduced into a healthy, susceptible host\nThe organism must be re-isolated from that newly infected host and shown to be identical to the original\n\nLimitation: doesn’t work for viruses, asymptomatic carriers, or diseases with multiple contributing causes — one reason Bradford Hill’s criteria were later developed for broader causal inference.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#bradford-hill-criteria-of-causation",
+    "href": "foundations/concept-health-disease.html#bradford-hill-criteria-of-causation",
+    "title": "Concept of Health and Disease",
+    "section": "Bradford Hill Criteria of Causation",
+    "text": "Bradford Hill Criteria of Causation\n🟡 SHOULD KNOW\nSir Austin Bradford Hill (1965) proposed nine viewpoints to judge whether an association found in epidemiological studies is likely causal:\n\nStrength of association\nConsistency across studies/populations\nSpecificity of the effect\nTemporality — cause precedes effect (the only criterion considered truly essential)\nBiological gradient — dose–response relationship\nPlausibility\nCoherence with existing knowledge\nExperiment — evidence from intervention/removal of the exposure\nAnalogy with similar known causal relationships\n\nUsed for: non-communicable disease and environmental exposures, where Koch’s postulates don’t apply.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#risk-factors",
+    "href": "foundations/concept-health-disease.html#risk-factors",
+    "title": "Concept of Health and Disease",
+    "section": "Risk Factors",
+    "text": "Risk Factors\n🟡 SHOULD KNOW\nA risk factor is any attribute, exposure, or characteristic that increases the probability of disease, without necessarily being a sufficient or direct cause.\n\nNon-modifiable — age, sex, genetic makeup, family history\nModifiable — smoking, diet, physical inactivity, blood pressure, occupational exposure\n\nPublic health prevention strategy focuses on modifiable risk factors, since non-modifiable ones can only inform risk stratification, not intervention.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#sufficient-component-cause-model",
+    "href": "foundations/concept-health-disease.html#sufficient-component-cause-model",
+    "title": "Concept of Health and Disease",
+    "section": "Sufficient-Component Cause Model",
+    "text": "Sufficient-Component Cause Model\n🟣 MAY KNOW\nRothman’s “causal pie” model refines the web-of-causation idea: a disease occurs only when a sufficient cause — a full “pie” made of several component causes — is complete. The same disease can have multiple different sufficient causes (multiple different pies), each built from different combinations of components. Removing just one component (a “necessary cause,” if it appears in every pie) can prevent the disease even without knowing every other component.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#from-miasma-to-germ-theory",
+    "href": "foundations/concept-health-disease.html#from-miasma-to-germ-theory",
+    "title": "Concept of Health and Disease",
+    "section": "From Miasma to Germ Theory",
+    "text": "From Miasma to Germ Theory\n🟣 MAY KNOW\n\nMiasma theory (dominant until the 19th century) — believed disease spread through “bad air” from decomposing matter; still drove genuinely useful sanitation reforms\nGerm theory (Pasteur, Koch, late 19th century) — established that specific microorganisms cause specific diseases, replacing miasma theory and giving rise to modern microbiology and Koch’s postulates",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#syndemics-a-modern-extension",
+    "href": "foundations/concept-health-disease.html#syndemics-a-modern-extension",
+    "title": "Concept of Health and Disease",
+    "section": "Syndemics: A Modern Extension",
+    "text": "Syndemics: A Modern Extension\n🟣 MAY KNOW\nA syndemic is the concept that two or more diseases (or a disease and a social condition) cluster together and interact within a population, each worsening the other — for example, the interaction between undernutrition, poor sanitation, and infectious disease in the same vulnerable communities. It extends the web-of-causation idea from a single disease to interacting epidemics.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#self-check-question-1",
+    "href": "foundations/concept-health-disease.html#self-check-question-1",
+    "title": "Concept of Health and Disease",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA person feels unwell and is fatigued, but no clinical or laboratory abnormality can be found. This best describes:\n\nDisease\nIllness\nSickness\nSyndemic",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#self-check-question-2",
+    "href": "foundations/concept-health-disease.html#self-check-question-2",
+    "title": "Concept of Health and Disease",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich of the following is NOT part of the epidemiological triad?\n\nAgent\nHost\nEnvironment\nOutcome",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#self-check-question-3",
+    "href": "foundations/concept-health-disease.html#self-check-question-3",
+    "title": "Concept of Health and Disease",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nAn anti-smoking campaign aimed at children who have never smoked, to prevent the smoking habit from ever starting, is an example of:\n\nPrimary prevention\nPrimordial prevention\nSecondary prevention\nTertiary prevention",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#self-check-question-4",
+    "href": "foundations/concept-health-disease.html#self-check-question-4",
+    "title": "Concept of Health and Disease",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nPhysiotherapy and rehabilitation after a stroke, to limit disability, is an example of:\n\nPrimary prevention\nSecondary prevention\nTertiary prevention\nPrimordial prevention",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#self-check-question-5",
+    "href": "foundations/concept-health-disease.html#self-check-question-5",
+    "title": "Concept of Health and Disease",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nWhich criterion is considered the one truly essential Bradford Hill criterion for causation?\n\nAnalogy\nSpecificity\nTemporality\nCoherence",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#self-check-question-6",
+    "href": "foundations/concept-health-disease.html#self-check-question-6",
+    "title": "Concept of Health and Disease",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nKoch’s postulates are best suited to establishing causation for:\n\nChronic non-communicable diseases with multiple risk factors\nA specific microorganism causing a specific infectious disease\nSocial determinants of health\nEnvironmental exposures with no identifiable single agent",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#self-check-question-7",
+    "href": "foundations/concept-health-disease.html#self-check-question-7",
+    "title": "Concept of Health and Disease",
+    "section": "Self-Check: Question 7",
+    "text": "Self-Check: Question 7\n🧡 QUESTION\n\nQuestion 7\nThe “tip of the iceberg” in the iceberg phenomenon of disease refers to:\n\nAll disease cases in a community, visible and hidden\nOnly the clinically diagnosed, reported cases\nOnly fatal cases\nCases prevented by primordial prevention",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#references",
+    "href": "foundations/concept-health-disease.html#references",
+    "title": "Concept of Health and Disease",
+    "section": "References",
+    "text": "References\n\nKoch, R. (1884). Die Aetiologie der Tuberkulose. Postulates as later formalized by Koch and Loeffler.\nHill, A.B. (1965). “The Environment and Disease: Association or Causation?” Proceedings of the Royal Society of Medicine, 58(5), 295–300.\nRothman, K.J. (1976). “Causes.” American Journal of Epidemiology, 104(6), 587–592.\nWorld Health Organization. Prevention concepts and levels of prevention — standard public health teaching reference.\nSingh, A., et al. Syndemic theory in public health — as applied to co-occurring disease and social conditions.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#thank-you",
+    "href": "foundations/concept-health-disease.html#thank-you",
+    "title": "Concept of Health and Disease",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Principles of Epidemiology\n← Previous | Home | Chapter 2/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
   }
 ]

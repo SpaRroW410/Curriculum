@@ -1,0 +1,420 @@
+---
+title: "Concept of Health and Disease"
+subtitle: "The Natural History of Disease and Levels of Prevention"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](man-and-medicine.html) | [Home](#home) | Chapter 2/26 | [Next Chapter →](principles-epidemiology.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Concept of Health and Disease
+
+**Learning Objectives:**
+
+- Define disease and distinguish it from illness and sickness
+- Describe the epidemiological triad of agent, host, and environment
+- Explain the natural history of disease and its phases
+- Describe the iceberg phenomenon of disease
+- Apply the levels of prevention — primordial, primary, secondary, tertiary
+- Distinguish Koch's postulates from the Bradford Hill criteria of causation
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter builds directly on Chapter 1's determinants-of-health
+framework: here we formalize how disease actually develops and how
+prevention maps onto that process.
+:::
+
+---
+
+## Disease, Illness, and Sickness {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+These three words are often used interchangeably but mean different
+things in community medicine:
+
+- **Disease** — an objective, measurable deviation from normal structure
+  or function of the body, detectable by clinical or laboratory means
+- **Illness** — the *subjective* experience of feeling unwell, as
+  perceived by the person themselves
+- **Sickness** — the *social* dimension: society's recognition that a
+  person is unwell (e.g. being excused from work)
+
+**Why the distinction matters:** a person can have disease without
+illness (asymptomatic infection), or feel ill without demonstrable disease
+— both are relevant to how and when a health system responds.
+
+---
+
+## The Epidemiological Triad {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Disease results from an interaction between three factors:
+
+:::: {.columns}
+::: {.column width="33%"}
+**Agent**
+
+The factor whose presence (or excess/deficiency) is necessary for
+disease — biological (bacteria, virus), chemical, physical, nutritional,
+or mechanical
+:::
+
+::: {.column width="33%"}
+**Host**
+
+The organism that harbours disease — human factors like age, sex,
+immunity, genetics, and behaviour affect susceptibility
+:::
+
+::: {.column width="33%"}
+**Environment**
+
+External conditions that bring agent and host together — physical,
+biological, and socio-economic environment
+:::
+::::
+
+Disease occurs when this triad is out of balance — a change in any one
+factor can tip the balance toward or away from disease.
+
+---
+
+## Natural History of Disease {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The natural history of disease is how a disease would progress over time
+**without any intervention** — from first cause to final outcome. It has
+two broad phases:
+
+1. **Pre-pathogenesis phase** — the disease agent exists in the
+   environment, but has not yet entered the human host; risk factors are
+   accumulating
+2. **Pathogenesis phase** — begins once the agent enters a susceptible
+   host: incubation → early (subclinical) pathogenesis → clinical disease
+   → outcome (recovery, disability, or death)
+
+**Key idea:** prevention is most effective the *earlier* it acts in this
+timeline — this is exactly what the levels of prevention (next slides)
+are built around.
+
+---
+
+## The Iceberg Phenomenon {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Clinically diagnosed cases in a community are often only the **visible
+tip** of the true disease burden:
+
+`Visible: clinically diagnosed, reported cases`
+`Hidden (below the surface): sub-clinical, undiagnosed, and unreported cases — often the majority`
+
+**Implication:** relying only on reported/diagnosed cases underestimates
+the real scale of a disease in a population — this is why screening and
+active surveillance matter (screening is covered in a later Foundations
+chapter).
+
+---
+
+## Levels of Prevention {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Prevention is classified by **when** it intervenes in the natural history
+of disease:
+
+| Level | Target | Example |
+|---|---|---|
+| **Primordial** | Prevents risk factors from ever emerging | Anti-tobacco social norms in children who don't smoke yet |
+| **Primary** | Prevents disease onset in exposed/at-risk people | Vaccination, health education |
+| **Secondary** | Detects and treats disease early, before it's clinically obvious | Cancer screening, early diagnosis |
+| **Tertiary** | Limits disability and aids rehabilitation once disease is established | Physiotherapy after stroke, disease-management programs |
+
+**Exam tip:** Primordial ≠ Primary. Primordial acts on *risk factors
+before they exist*; Primary acts once risk/exposure is already present
+but before disease develops.
+
+---
+
+## Multifactorial Causation {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Most disease — especially non-communicable disease — does not have a
+single cause. The **web of causation** model shows disease arising from
+an interconnected network of contributing factors (biological, behavioural,
+environmental, social), rather than one agent producing one disease.
+
+**Contrast with infectious disease:** classical infectious disease
+causation (one specific agent → one specific disease) is closer to a
+single-cause model — which is exactly what Koch's postulates were built
+to test.
+
+---
+
+## Koch's Postulates {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Robert Koch's 19th-century criteria for proving a microorganism causes a
+specific disease:
+
+1. The organism must be found in **all** cases of the disease, and absent
+   in healthy individuals
+2. It must be **isolated** from the diseased host and grown in pure
+   culture
+3. The cultured organism must **reproduce the disease** when introduced
+   into a healthy, susceptible host
+4. The organism must be **re-isolated** from that newly infected host and
+   shown to be identical to the original
+
+**Limitation:** doesn't work for viruses, asymptomatic carriers, or
+diseases with multiple contributing causes — one reason Bradford Hill's
+criteria were later developed for broader causal inference.
+
+---
+
+## Bradford Hill Criteria of Causation {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Sir Austin Bradford Hill (1965) proposed nine viewpoints to judge whether
+an *association* found in epidemiological studies is likely *causal*:
+
+1. **Strength** of association
+2. **Consistency** across studies/populations
+3. **Specificity** of the effect
+4. **Temporality** — cause precedes effect (the only criterion considered
+   truly essential)
+5. **Biological gradient** — dose–response relationship
+6. **Plausibility**
+7. **Coherence** with existing knowledge
+8. **Experiment** — evidence from intervention/removal of the exposure
+9. **Analogy** with similar known causal relationships
+
+**Used for:** non-communicable disease and environmental exposures, where
+Koch's postulates don't apply.
+
+---
+
+## Risk Factors {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A **risk factor** is any attribute, exposure, or characteristic that
+increases the probability of disease, without necessarily being a
+sufficient or direct cause.
+
+- **Non-modifiable** — age, sex, genetic makeup, family history
+- **Modifiable** — smoking, diet, physical inactivity, blood pressure,
+  occupational exposure
+
+Public health prevention strategy focuses on **modifiable** risk factors,
+since non-modifiable ones can only inform risk stratification, not
+intervention.
+
+---
+
+## Sufficient-Component Cause Model {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Rothman's "causal pie" model refines the web-of-causation idea: a disease
+occurs only when a **sufficient cause** — a full "pie" made of several
+**component causes** — is complete. The same disease can have multiple
+different sufficient causes (multiple different pies), each built from
+different combinations of components. Removing just *one* component
+(a "necessary cause," if it appears in every pie) can prevent the disease
+even without knowing every other component.
+
+---
+
+## From Miasma to Germ Theory {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Miasma theory** (dominant until the 19th century) — believed disease
+  spread through "bad air" from decomposing matter; still drove
+  genuinely useful sanitation reforms
+- **Germ theory** (Pasteur, Koch, late 19th century) — established that
+  specific microorganisms cause specific diseases, replacing miasma
+  theory and giving rise to modern microbiology and Koch's postulates
+
+---
+
+## Syndemics: A Modern Extension {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+A **syndemic** is the concept that two or more diseases (or a disease and
+a social condition) cluster together and interact within a population,
+each worsening the other — for example, the interaction between
+undernutrition, poor sanitation, and infectious disease in the same
+vulnerable communities. It extends the web-of-causation idea from a
+single disease to interacting epidemics.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A person feels unwell and is fatigued, but no clinical or laboratory
+abnormality can be found. This best describes:
+
+- Disease
+- [Illness]{.correct data-explanation="Illness is the subjective, self-perceived experience of feeling unwell, independent of a demonstrable clinical abnormality."}
+- Sickness
+- Syndemic
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which of the following is NOT part of the epidemiological triad?
+
+- Agent
+- Host
+- Environment
+- [Outcome]{.correct data-explanation="The epidemiological triad is Agent, Host, and Environment. Outcome is a result of their interaction, not a member of the triad."}
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+An anti-smoking campaign aimed at children who have never smoked, to
+prevent the smoking habit from ever starting, is an example of:
+
+- Primary prevention
+- [Primordial prevention]{.correct data-explanation="Primordial prevention targets the emergence of the risk factor itself (smoking initiation), before any exposure exists — distinct from primary prevention, which acts once exposure/risk is already present."}
+- Secondary prevention
+- Tertiary prevention
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Physiotherapy and rehabilitation after a stroke, to limit disability, is
+an example of:
+
+- Primary prevention
+- Secondary prevention
+- [Tertiary prevention]{.correct data-explanation="Tertiary prevention aims to limit disability and rehabilitate once disease/damage has already occurred."}
+- Primordial prevention
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Which criterion is considered the one truly essential Bradford Hill
+criterion for causation?
+
+- Analogy
+- Specificity
+- [Temporality]{.correct data-explanation="Temporality — the cause must precede the effect — is the only Bradford Hill criterion considered an absolute requirement; the others strengthen, but don't by themselves prove, causation."}
+- Coherence
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+Koch's postulates are best suited to establishing causation for:
+
+- Chronic non-communicable diseases with multiple risk factors
+- [A specific microorganism causing a specific infectious disease]{.correct data-explanation="Koch's postulates were designed to prove that one specific microorganism causes one specific infectious disease — a single-cause model, unlike multifactorial NCDs."}
+- Social determinants of health
+- Environmental exposures with no identifiable single agent
+:::
+
+---
+
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 7
+
+The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
+
+- All disease cases in a community, visible and hidden
+- [Only the clinically diagnosed, reported cases]{.correct data-explanation="The visible tip represents diagnosed and reported cases; the much larger hidden portion below the surface represents sub-clinical and undiagnosed cases."}
+- Only fatal cases
+- Cases prevented by primordial prevention
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Koch, R. (1884). *Die Aetiologie der Tuberkulose*. Postulates as later
+   formalized by Koch and Loeffler.
+2. Hill, A.B. (1965). "The Environment and Disease: Association or
+   Causation?" *Proceedings of the Royal Society of Medicine*, 58(5),
+   295–300.
+3. Rothman, K.J. (1976). "Causes." *American Journal of Epidemiology*,
+   104(6), 587–592.
+4. World Health Organization. *Prevention concepts and levels of
+   prevention* — standard public health teaching reference.
+5. Singh, A., et al. Syndemic theory in public health — as applied to
+   co-occurring disease and social conditions.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Principles of Epidemiology
+
+[← Previous](man-and-medicine.html) | [Home](#home) | Chapter 2/26 | [Next Chapter →](principles-epidemiology.html)
