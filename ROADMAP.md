@@ -60,12 +60,12 @@ Everything downstream depends on the terms and methods defined here.
 - [x] `foundations/epidemiologic-methods.qmd`
 - [x] `foundations/screening.qmd`
 
-### Phase 2 — Communicable & Non-Communicable Diseases
-- [ ] `diseases/communicable-diseases.qmd`
-- [ ] `diseases/ncd.qmd`
-- [ ] `diseases/essential-medicines.qmd`
-- [ ] `diseases/nutrition.qmd`
-- [ ] `diseases/mental-health.qmd`
+### Phase 2 — Communicable & Non-Communicable Diseases ✅ complete
+- [x] `diseases/communicable-diseases.qmd`
+- [x] `diseases/ncd.qmd`
+- [x] `diseases/essential-medicines.qmd`
+- [x] `diseases/nutrition.qmd`
+- [x] `diseases/mental-health.qmd`
 
 ### Phase 3 — Health Programs & Populations
 - [ ] `programs/health-programmes.qmd`
