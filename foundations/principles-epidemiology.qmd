@@ -1,0 +1,348 @@
+---
+title: "Principles of Epidemiology"
+subtitle: "Distribution, Determinants, and the Basic Measures of Disease"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](concept-health-disease.html) | [Home](#home) | Chapter 3/26 | [Next Chapter →](epidemiologic-methods.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Principles of Epidemiology
+
+**Learning Objectives:**
+
+- State the standard definition of epidemiology and its core aims
+- Distinguish ratio, proportion, and rate
+- Define incidence and prevalence, and the relationship between them
+- Describe descriptive epidemiology by person, place, and time
+- Outline the broad types of epidemiological study
+- Recognize John Snow's 1854 investigation as a founding case study
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter gives the vocabulary and basic measures that Chapter 4
+(Epidemiologic Methods) will use to compare exposed and unexposed groups,
+and that Chapter 5 (Screening) will use to evaluate tests.
+:::
+
+---
+
+## What Is Epidemiology? {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**John Last's definition (1988), the standard reference definition:**
+
+> "The study of the distribution and determinants of health-related
+> states or events in specified populations, and the application of this
+> study to the control of health problems."
+
+Three ideas packed into this definition:
+
+- **Distribution** — who gets disease, where, and when (descriptive)
+- **Determinants** — why they get it (analytical)
+- **Application** — using that knowledge to control and prevent disease
+
+---
+
+## Aims of Epidemiology {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Describe** the distribution and magnitude of health problems in
+  populations
+- **Identify** the etiology (causes and risk factors) of disease
+- **Predict** trends and the future disease burden
+- **Evaluate** the effectiveness of interventions, programs, and health
+  services
+- Provide the evidence base to guide health **policy and planning**
+
+---
+
+## Ratio, Proportion, and Rate {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+These three terms are frequently confused but are mathematically distinct:
+
+| Term | Definition | Numerator in denominator? |
+|---|---|---|
+| **Ratio** | Relation of one quantity to another | No — numerator and denominator are separate groups |
+| **Proportion** | A ratio where the numerator is a subset of the denominator | Yes |
+| **Rate** | A proportion with a **time dimension** built in | Yes, plus time |
+
+**Example:** "3 males per 2 females" is a *ratio*; "60% of the class is
+male" is a *proportion*; "12 new cases per 1,000 population per year" is
+a *rate*.
+
+---
+
+## Incidence {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Incidence** measures how many **new** cases of disease occur in a
+population over a defined period:
+
+`Incidence Rate = (Number of new cases during a period) / (Population at risk over that period)`
+
+- Measures **risk** — the probability of developing disease
+- Requires following a population forward in time
+- Best measure for studying disease **causation** (etiology)
+
+---
+
+## Prevalence {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Prevalence** measures how many **existing** cases (old + new) there are
+at a given time — it does not distinguish when each case began:
+
+`Prevalence = (Number of existing cases) / (Total population)`
+
+- **Point prevalence** — cases at one specific point in time
+- **Period prevalence** — cases at any time during a defined interval
+
+**Relationship (steady state):**
+`Prevalence ≈ Incidence Rate × Average Duration of Disease`
+
+A disease can have **high prevalence but low incidence** if it lasts a
+long time (e.g. diabetes) — prevalence and incidence answer different
+questions and must not be confused.
+
+---
+
+## Descriptive Epidemiology: Person, Place, Time {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Descriptive epidemiology characterizes **who, where, and when** disease
+occurs — the first step before asking *why* (analytical epidemiology):
+
+- **Person** — age, sex, occupation, socioeconomic status, ethnicity,
+  behaviour
+- **Place** — urban vs. rural, national/international variation, local
+  clustering
+- **Time** — secular (long-term) trends, seasonal patterns, cyclical
+  patterns, and point-source (epidemic) patterns
+
+---
+
+## Types of Epidemiological Studies (Overview) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Three broad categories — detailed study designs are covered in
+[Epidemiologic Methods](epidemiologic-methods.qmd):
+
+- **Descriptive** — describes distribution (person/place/time); generates
+  hypotheses but cannot test them
+- **Analytical** — tests hypotheses by comparing exposed vs. unexposed
+  groups (e.g. cohort, case-control studies)
+- **Experimental** — the investigator actively assigns exposure/
+  intervention (e.g. randomized controlled trials)
+
+---
+
+## Uses of Epidemiology {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- Assessing the community's health status and identifying its health
+  problems
+- Studying the natural history and prognosis of disease
+- Identifying syndromes by describing clinical patterns
+- Completing the clinical picture of chronic diseases by finding
+  sub-clinical and mild cases
+- Searching for causes of disease by comparing rates in different
+  population subgroups
+- Evaluating the effectiveness and efficiency of health services and
+  interventions
+
+---
+
+## Time Patterns of Disease {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Secular trend** — gradual change in disease frequency over years to
+  decades (e.g. declining infectious disease, rising NCD burden)
+- **Seasonal trend** — regular, predictable variation tied to season
+  (e.g. diarrheal disease peaking in summer/monsoon)
+- **Cyclical trend** — periodic variation over a few years (e.g. some
+  vaccine-preventable diseases before mass immunization)
+- **Point epidemic** — a sharp spike from a common source over a short
+  period (e.g. a contaminated water source)
+
+---
+
+## John Snow and the Broad Street Pump {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+In 1854, a severe cholera outbreak in London's Soho district killed over
+600 people in about ten days. **John Snow**, rejecting the then-dominant
+miasma ("bad air") theory, mapped cholera deaths by address and traced
+them to a single water pump on Broad Street. He persuaded local
+authorities to remove the pump handle — after which the outbreak
+subsided. The contamination was later traced to a leaking sewer near the
+pump's well.
+
+**Why it matters:** this is widely regarded as the founding case study of
+modern epidemiology — using spatial/descriptive data to identify a cause
+and act, *before* germ theory or laboratory confirmation existed.
+
+---
+
+## Population at Risk {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The **denominator** used in incidence and prevalence calculations should,
+strictly, be the "population at risk" — people who could potentially
+develop the disease being studied (e.g. excluding already-immune or
+already-affected individuals, or using only women for cervical cancer
+incidence). Using the wrong denominator is a common source of error in
+interpreting epidemiological rates.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+According to John Last's definition, epidemiology studies the
+distribution and determinants of health-related states, and:
+
+- Only treats individual patients
+- [Applies this study to the control of health problems]{.correct data-explanation="The definition explicitly includes application of the findings to control health problems — epidemiology is not purely descriptive."}
+- Focuses exclusively on infectious disease
+- Excludes population-level analysis
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+"12 new cases of disease per 1,000 population per year" is an example of
+a:
+
+- Ratio
+- Proportion
+- [Rate]{.correct data-explanation="A rate is a proportion with a time dimension built in — here, 'per year' makes it a rate rather than a plain proportion."}
+- Odds
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A disease with a long duration but low incidence will typically show:
+
+- Low prevalence
+- [High prevalence]{.correct data-explanation="Prevalence ≈ Incidence × Duration. A long duration can produce high prevalence even with low incidence — this is exactly why the two measures must not be confused."}
+- Zero prevalence
+- Prevalence equal to incidence
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Which of the following is a "person" variable in descriptive
+epidemiology?
+
+- Urban vs. rural residence
+- Seasonal variation
+- [Occupation]{.correct data-explanation="Occupation is a person-level characteristic. Urban/rural residence is a place variable; seasonal variation is a time variable."}
+- Secular trend
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+John Snow's 1854 investigation is best known for:
+
+- Confirming germ theory in a laboratory
+- [Tracing a cholera outbreak to a contaminated water pump using mapped case data]{.correct data-explanation="Snow used descriptive, spatial data — without germ theory or lab confirmation — to trace the outbreak to the Broad Street pump."}
+- Discovering the cholera bacterium
+- Establishing Koch's postulates
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+A study that actively assigns an intervention to participants (rather
+than only observing existing exposure) is classified as:
+
+- Descriptive
+- Analytical
+- [Experimental]{.correct data-explanation="Experimental studies are defined by the investigator actively assigning the exposure/intervention, e.g. in a randomized controlled trial."}
+- Ecological
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Last, J.M. (Ed.) (1988). *A Dictionary of Epidemiology* (2nd ed.).
+   Oxford University Press.
+2. Centers for Disease Control and Prevention. *Principles of
+   Epidemiology in Public Health Practice* (3rd ed.).
+3. Snow, J. (1855). *On the Mode of Communication of Cholera* (2nd ed.).
+4. London Museum / London School of Hygiene and Tropical Medicine —
+   historical records of the 1854 Broad Street cholera outbreak.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Epidemiologic Methods
+
+[← Previous](concept-health-disease.html) | [Home](#home) | Chapter 3/26 | [Next Chapter →](epidemiologic-methods.html)

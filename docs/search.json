@@ -2723,5 +2723,245 @@
       "Foundations of Health & Epidemiology",
       "Concept of Health and Disease"
     ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#home",
+    "href": "foundations/principles-epidemiology.html#home",
+    "title": "Principles of Epidemiology",
+    "section": "Welcome",
+    "text": "Welcome\nPrinciples of Epidemiology\nLearning Objectives:\n\nState the standard definition of epidemiology and its core aims\nDistinguish ratio, proportion, and rate\nDefine incidence and prevalence, and the relationship between them\nDescribe descriptive epidemiology by person, place, and time\nOutline the broad types of epidemiological study\nRecognize John Snow’s 1854 investigation as a founding case study\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the vocabulary and basic measures that Chapter 4 (Epidemiologic Methods) will use to compare exposed and unexposed groups, and that Chapter 5 (Screening) will use to evaluate tests.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#what-is-epidemiology",
+    "href": "foundations/principles-epidemiology.html#what-is-epidemiology",
+    "title": "Principles of Epidemiology",
+    "section": "What Is Epidemiology?",
+    "text": "What Is Epidemiology?\n🟢 MUST KNOW\nJohn Last’s definition (1988), the standard reference definition:\n\n“The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems.”\n\nThree ideas packed into this definition:\n\nDistribution — who gets disease, where, and when (descriptive)\nDeterminants — why they get it (analytical)\nApplication — using that knowledge to control and prevent disease",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#aims-of-epidemiology",
+    "href": "foundations/principles-epidemiology.html#aims-of-epidemiology",
+    "title": "Principles of Epidemiology",
+    "section": "Aims of Epidemiology",
+    "text": "Aims of Epidemiology\n🟢 MUST KNOW\n\nDescribe the distribution and magnitude of health problems in populations\nIdentify the etiology (causes and risk factors) of disease\nPredict trends and the future disease burden\nEvaluate the effectiveness of interventions, programs, and health services\nProvide the evidence base to guide health policy and planning",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#ratio-proportion-and-rate",
+    "href": "foundations/principles-epidemiology.html#ratio-proportion-and-rate",
+    "title": "Principles of Epidemiology",
+    "section": "Ratio, Proportion, and Rate",
+    "text": "Ratio, Proportion, and Rate\n🟢 MUST KNOW\nThese three terms are frequently confused but are mathematically distinct:\n\n\n\n\n\n\n\n\nTerm\nDefinition\nNumerator in denominator?\n\n\n\n\nRatio\nRelation of one quantity to another\nNo — numerator and denominator are separate groups\n\n\nProportion\nA ratio where the numerator is a subset of the denominator\nYes\n\n\nRate\nA proportion with a time dimension built in\nYes, plus time\n\n\n\nExample: “3 males per 2 females” is a ratio; “60% of the class is male” is a proportion; “12 new cases per 1,000 population per year” is a rate.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#incidence",
+    "href": "foundations/principles-epidemiology.html#incidence",
+    "title": "Principles of Epidemiology",
+    "section": "Incidence",
+    "text": "Incidence\n🟢 MUST KNOW\nIncidence measures how many new cases of disease occur in a population over a defined period:\nIncidence Rate = (Number of new cases during a period) / (Population at risk over that period)\n\nMeasures risk — the probability of developing disease\nRequires following a population forward in time\nBest measure for studying disease causation (etiology)",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#prevalence",
+    "href": "foundations/principles-epidemiology.html#prevalence",
+    "title": "Principles of Epidemiology",
+    "section": "Prevalence",
+    "text": "Prevalence\n🟢 MUST KNOW\nPrevalence measures how many existing cases (old + new) there are at a given time — it does not distinguish when each case began:\nPrevalence = (Number of existing cases) / (Total population)\n\nPoint prevalence — cases at one specific point in time\nPeriod prevalence — cases at any time during a defined interval\n\nRelationship (steady state): Prevalence ≈ Incidence Rate × Average Duration of Disease\nA disease can have high prevalence but low incidence if it lasts a long time (e.g. diabetes) — prevalence and incidence answer different questions and must not be confused.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#descriptive-epidemiology-person-place-time",
+    "href": "foundations/principles-epidemiology.html#descriptive-epidemiology-person-place-time",
+    "title": "Principles of Epidemiology",
+    "section": "Descriptive Epidemiology: Person, Place, Time",
+    "text": "Descriptive Epidemiology: Person, Place, Time\n🟢 MUST KNOW\nDescriptive epidemiology characterizes who, where, and when disease occurs — the first step before asking why (analytical epidemiology):\n\nPerson — age, sex, occupation, socioeconomic status, ethnicity, behaviour\nPlace — urban vs. rural, national/international variation, local clustering\nTime — secular (long-term) trends, seasonal patterns, cyclical patterns, and point-source (epidemic) patterns",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#types-of-epidemiological-studies-overview",
+    "href": "foundations/principles-epidemiology.html#types-of-epidemiological-studies-overview",
+    "title": "Principles of Epidemiology",
+    "section": "Types of Epidemiological Studies (Overview)",
+    "text": "Types of Epidemiological Studies (Overview)\n🟡 SHOULD KNOW\nThree broad categories — detailed study designs are covered in Epidemiologic Methods:\n\nDescriptive — describes distribution (person/place/time); generates hypotheses but cannot test them\nAnalytical — tests hypotheses by comparing exposed vs. unexposed groups (e.g. cohort, case-control studies)\nExperimental — the investigator actively assigns exposure/ intervention (e.g. randomized controlled trials)",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#uses-of-epidemiology",
+    "href": "foundations/principles-epidemiology.html#uses-of-epidemiology",
+    "title": "Principles of Epidemiology",
+    "section": "Uses of Epidemiology",
+    "text": "Uses of Epidemiology\n🟡 SHOULD KNOW\n\nAssessing the community’s health status and identifying its health problems\nStudying the natural history and prognosis of disease\nIdentifying syndromes by describing clinical patterns\nCompleting the clinical picture of chronic diseases by finding sub-clinical and mild cases\nSearching for causes of disease by comparing rates in different population subgroups\nEvaluating the effectiveness and efficiency of health services and interventions",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#time-patterns-of-disease",
+    "href": "foundations/principles-epidemiology.html#time-patterns-of-disease",
+    "title": "Principles of Epidemiology",
+    "section": "Time Patterns of Disease",
+    "text": "Time Patterns of Disease\n🟡 SHOULD KNOW\n\nSecular trend — gradual change in disease frequency over years to decades (e.g. declining infectious disease, rising NCD burden)\nSeasonal trend — regular, predictable variation tied to season (e.g. diarrheal disease peaking in summer/monsoon)\nCyclical trend — periodic variation over a few years (e.g. some vaccine-preventable diseases before mass immunization)\nPoint epidemic — a sharp spike from a common source over a short period (e.g. a contaminated water source)",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#john-snow-and-the-broad-street-pump",
+    "href": "foundations/principles-epidemiology.html#john-snow-and-the-broad-street-pump",
+    "title": "Principles of Epidemiology",
+    "section": "John Snow and the Broad Street Pump",
+    "text": "John Snow and the Broad Street Pump\n🟣 MAY KNOW\nIn 1854, a severe cholera outbreak in London’s Soho district killed over 600 people in about ten days. John Snow, rejecting the then-dominant miasma (“bad air”) theory, mapped cholera deaths by address and traced them to a single water pump on Broad Street. He persuaded local authorities to remove the pump handle — after which the outbreak subsided. The contamination was later traced to a leaking sewer near the pump’s well.\nWhy it matters: this is widely regarded as the founding case study of modern epidemiology — using spatial/descriptive data to identify a cause and act, before germ theory or laboratory confirmation existed.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#population-at-risk",
+    "href": "foundations/principles-epidemiology.html#population-at-risk",
+    "title": "Principles of Epidemiology",
+    "section": "Population at Risk",
+    "text": "Population at Risk\n🟣 MAY KNOW\nThe denominator used in incidence and prevalence calculations should, strictly, be the “population at risk” — people who could potentially develop the disease being studied (e.g. excluding already-immune or already-affected individuals, or using only women for cervical cancer incidence). Using the wrong denominator is a common source of error in interpreting epidemiological rates.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-1",
+    "href": "foundations/principles-epidemiology.html#self-check-question-1",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nAccording to John Last’s definition, epidemiology studies the distribution and determinants of health-related states, and:\n\nOnly treats individual patients\nApplies this study to the control of health problems\nFocuses exclusively on infectious disease\nExcludes population-level analysis",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-2",
+    "href": "foundations/principles-epidemiology.html#self-check-question-2",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\n“12 new cases of disease per 1,000 population per year” is an example of a:\n\nRatio\nProportion\nRate\nOdds",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-3",
+    "href": "foundations/principles-epidemiology.html#self-check-question-3",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA disease with a long duration but low incidence will typically show:\n\nLow prevalence\nHigh prevalence\nZero prevalence\nPrevalence equal to incidence",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-4",
+    "href": "foundations/principles-epidemiology.html#self-check-question-4",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWhich of the following is a “person” variable in descriptive epidemiology?\n\nUrban vs. rural residence\nSeasonal variation\nOccupation\nSecular trend",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-5",
+    "href": "foundations/principles-epidemiology.html#self-check-question-5",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nJohn Snow’s 1854 investigation is best known for:\n\nConfirming germ theory in a laboratory\nTracing a cholera outbreak to a contaminated water pump using mapped case data\nDiscovering the cholera bacterium\nEstablishing Koch’s postulates",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-6",
+    "href": "foundations/principles-epidemiology.html#self-check-question-6",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nA study that actively assigns an intervention to participants (rather than only observing existing exposure) is classified as:\n\nDescriptive\nAnalytical\nExperimental\nEcological",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#references",
+    "href": "foundations/principles-epidemiology.html#references",
+    "title": "Principles of Epidemiology",
+    "section": "References",
+    "text": "References\n\nLast, J.M. (Ed.) (1988). A Dictionary of Epidemiology (2nd ed.). Oxford University Press.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.).\nSnow, J. (1855). On the Mode of Communication of Cholera (2nd ed.).\nLondon Museum / London School of Hygiene and Tropical Medicine — historical records of the 1854 Broad Street cholera outbreak.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#thank-you",
+    "href": "foundations/principles-epidemiology.html#thank-you",
+    "title": "Principles of Epidemiology",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Epidemiologic Methods\n← Previous | Home | Chapter 3/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
   }
 ]
