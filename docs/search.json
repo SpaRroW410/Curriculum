@@ -4091,5 +4091,209 @@
       "Communicable & Non-Communicable Diseases",
       "Essential Medicines and Counterfeit Medicines"
     ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#home",
+    "href": "diseases/nutrition.html#home",
+    "title": "Nutrition and Health",
+    "section": "Welcome",
+    "text": "Welcome\nNutrition and Health\nLearning Objectives:\n\nDistinguish undernutrition, overnutrition, and the double burden of malnutrition\nCompare kwashiorkor and marasmus as forms of protein-energy malnutrition\nDefine stunting, wasting, and underweight using WHO Z-score criteria\nName the major micronutrient deficiency disorders\nOutline India’s flagship nutrition programme structure (ICDS → POSHAN Abhiyaan → Saksham Anganwadi & Poshan 2.0)\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter connects the NCD chapter’s “double burden” language to nutrition specifically, and gives the anthropometric vocabulary (stunting/wasting/underweight) used throughout Indian public-health program monitoring.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#malnutrition-the-spectrum",
+    "href": "diseases/nutrition.html#malnutrition-the-spectrum",
+    "title": "Nutrition and Health",
+    "section": "Malnutrition: The Spectrum",
+    "text": "Malnutrition: The Spectrum\n🟢 MUST KNOW\nMalnutrition covers deficiencies, excesses, or imbalances in a person’s intake of energy and/or nutrients — it is not only about “too little”:\n\nUndernutrition — wasting, stunting, underweight, and micronutrient deficiencies\nOvernutrition — overweight, obesity, and diet-related NCDs\n\nDouble burden of malnutrition: the coexistence of undernutrition and overnutrition — across a population, within the same household, and even within the same individual over their lifetime (e.g. a stunted child who later becomes an obese adult).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#protein-energy-malnutrition-marasmus",
+    "href": "diseases/nutrition.html#protein-energy-malnutrition-marasmus",
+    "title": "Nutrition and Health",
+    "section": "Protein-Energy Malnutrition: Marasmus",
+    "text": "Protein-Energy Malnutrition: Marasmus\n🟢 MUST KNOW\nMarasmus — PEM without edema — results from an overall calorie deficiency (inadequate intake of all nutrients, especially energy).\nClinical picture: severe muscle wasting, depletion of body fat, low weight-for-height, reduced mid-upper arm circumference, a head that looks disproportionately large, dry skin, thin hair, and irritability.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#protein-energy-malnutrition-kwashiorkor",
+    "href": "diseases/nutrition.html#protein-energy-malnutrition-kwashiorkor",
+    "title": "Nutrition and Health",
+    "section": "Protein-Energy Malnutrition: Kwashiorkor",
+    "text": "Protein-Energy Malnutrition: Kwashiorkor\n🟢 MUST KNOW\nKwashiorkor — PEM with edema — results primarily from severe dietary protein deficiency, despite near-adequate energy (calorie) intake.\nClinical picture: peripheral pitting edema, “moon facies,” maintained or increased body fat, hepatomegaly, dry/peeling skin, and apathy.\nA mixed form (marasmic-kwashiorkor), combining features of both, also occurs.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#anthropometric-indicators-of-undernutrition",
+    "href": "diseases/nutrition.html#anthropometric-indicators-of-undernutrition",
+    "title": "Nutrition and Health",
+    "section": "Anthropometric Indicators of Undernutrition",
+    "text": "Anthropometric Indicators of Undernutrition\n🟢 MUST KNOW\nWHO Child Growth Standards classify undernutrition using Z-scores (standard deviations from the median of a healthy reference population), each below −2 SD:\n\n\n\n\n\n\n\n\nIndicator\nReflects\nType\n\n\n\n\nStunting (low height-for-age)\nChronic undernutrition\nLong-term\n\n\nWasting (low weight-for-height)\nAcute undernutrition\nShort-term\n\n\nUnderweight (low weight-for-age)\nBoth chronic and acute\nComposite\n\n\n\nExam tip: underweight is a composite measure and can result from either stunting, wasting, or both — it doesn’t tell you which.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#major-micronutrient-deficiencies",
+    "href": "diseases/nutrition.html#major-micronutrient-deficiencies",
+    "title": "Nutrition and Health",
+    "section": "Major Micronutrient Deficiencies",
+    "text": "Major Micronutrient Deficiencies\n🟢 MUST KNOW\n\nVitamin A deficiency — the leading cause of preventable childhood blindness (xerophthalmia); also increases infection mortality\nIron deficiency anaemia — the most common micronutrient deficiency globally, particularly affecting women and children\nIodine deficiency disorders (IDD) — ranging from goitre to irreversible cognitive impairment (cretinism) if deficient during pregnancy/infancy\n\nEach has a dedicated national control program in India (Vitamin A Prophylaxis, National Iron Plus Initiative, National Iodine Deficiency Disorders Control Programme).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#indias-nutrition-programme-architecture",
+    "href": "diseases/nutrition.html#indias-nutrition-programme-architecture",
+    "title": "Nutrition and Health",
+    "section": "India’s Nutrition Programme Architecture",
+    "text": "India’s Nutrition Programme Architecture\n🟡 SHOULD KNOW\nIndia’s flagship child/maternal nutrition support has evolved through three stages:\n\nICDS (1975) — Integrated Child Development Services, India’s original flagship programme for children 0–6 years and pregnant/ lactating mothers, delivered through Anganwadi Centres\nPOSHAN Abhiyaan (2018) — India’s National Nutrition Mission; universalized and better-integrated ICDS with other nutrition schemes, aiming for measurable reductions in stunting, wasting, and anaemia\nSaksham Anganwadi & Poshan 2.0 (2021–26) — the current umbrella scheme, merging ICDS, POSHAN Abhiyaan, the Scheme for Adolescent Girls, and the National Crèche Scheme into one integrated nutrition support programme\n\n(Broader health-programme structures and financing are covered in Health Programmes in India.)",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#growth-monitoring",
+    "href": "diseases/nutrition.html#growth-monitoring",
+    "title": "Nutrition and Health",
+    "section": "Growth Monitoring",
+    "text": "Growth Monitoring\n🟡 SHOULD KNOW\nRegular growth monitoring — plotting a child’s weight and height against standard growth charts over time — is a core Anganwadi/primary care activity, because:\n\nIt detects faltering growth early, before overt clinical malnutrition develops\nIt is a surveillance tool, not just an individual diagnostic one — aggregated data guide district- and state-level nutrition programming\nIt links directly to the iceberg phenomenon (Chapter 2): most undernutrition in a community is sub-clinical unless actively measured",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#undernutritions-long-term-link-to-ncds",
+    "href": "diseases/nutrition.html#undernutritions-long-term-link-to-ncds",
+    "title": "Nutrition and Health",
+    "section": "Undernutrition’s Long-Term Link to NCDs",
+    "text": "Undernutrition’s Long-Term Link to NCDs\n🟣 MAY KNOW\nWHO notes that undernutrition early in life — including in utero — may predispose a person to overweight and non-communicable diseases like diabetes and heart disease later in life (the “fetal origins” or Barker hypothesis). This is part of why the double burden of malnutrition is described as occurring across an individual’s life course, not only across a population at one point in time.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#body-mass-index-bmi",
+    "href": "diseases/nutrition.html#body-mass-index-bmi",
+    "title": "Nutrition and Health",
+    "section": "Body Mass Index (BMI)",
+    "text": "Body Mass Index (BMI)\n🟣 MAY KNOW\nFor adults, nutritional status is commonly screened using Body Mass Index (BMI) = weight (kg) / height² (m²), with WHO cutoffs of underweight (&lt;18.5), normal (18.5–24.9), overweight (25–29.9), and obese (≥30) — though these cutoffs are population-level screening tools, not a substitute for individual clinical assessment.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#self-check-question-1",
+    "href": "diseases/nutrition.html#self-check-question-1",
+    "title": "Nutrition and Health",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA child presents with peripheral edema, a “moon face,” and hepatomegaly, but near-normal energy intake with severe protein deficiency. This describes:\n\nMarasmus\nKwashiorkor\nStunting\nWasting",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#self-check-question-2",
+    "href": "diseases/nutrition.html#self-check-question-2",
+    "title": "Nutrition and Health",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nA child with low height-for-age (below −2 SD) is classified as:\n\nWasted\nUnderweight\nStunted\nOvernourished",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#self-check-question-3",
+    "href": "diseases/nutrition.html#self-check-question-3",
+    "title": "Nutrition and Health",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nThe double burden of malnutrition refers to:\n\nTwo children in the same family being undernourished\nThe coexistence of undernutrition and overnutrition within a population, household, or individual\nMalnutrition caused by two separate diseases\nA country with two separate nutrition ministries",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#self-check-question-4",
+    "href": "diseases/nutrition.html#self-check-question-4",
+    "title": "Nutrition and Health",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWhich micronutrient deficiency is the leading cause of preventable childhood blindness?\n\nIron deficiency\nIodine deficiency\nVitamin A deficiency\nVitamin D deficiency",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#self-check-question-5",
+    "href": "diseases/nutrition.html#self-check-question-5",
+    "title": "Nutrition and Health",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nIndia’s current umbrella nutrition scheme, integrating ICDS, POSHAN Abhiyaan, the Scheme for Adolescent Girls, and the National Crèche Scheme, is called:\n\nNational Health Mission\nSaksham Anganwadi & Poshan 2.0\nAyushman Bharat\nNational Iron Plus Initiative",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#references",
+    "href": "diseases/nutrition.html#references",
+    "title": "Nutrition and Health",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. Malnutrition — fact sheet, and WHO Child Growth Standards (2006).\nStatPearls. Severe Acute Malnutrition: Recognition and Management of Marasmus and Kwashiorkor.\nWorld Health Organization (2017). The double burden of malnutrition: policy brief.\nPress Information Bureau, Government of India. Mission Saksham Anganwadi and Poshan 2.0.\nMinistry of Women and Child Development, Government of India. ICDS Scheme — programme documentation.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#thank-you",
+    "href": "diseases/nutrition.html#thank-you",
+    "title": "Nutrition and Health",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Mental Health\n← Previous | Home | Chapter 9/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
   }
 ]
