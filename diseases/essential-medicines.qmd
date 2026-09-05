@@ -1,0 +1,300 @@
+---
+title: "Essential Medicines and Counterfeit Medicines"
+subtitle: "Access, Rational Use, and Quality Assurance"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](ncd.html) | [Home](#home) | Chapter 8/26 | [Next Chapter →](nutrition.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Essential Medicines and Counterfeit Medicines
+
+**Learning Objectives:**
+
+- Define essential medicines and state WHO's selection criteria
+- Describe India's National List of Essential Medicines (NLEM)
+- State WHO's definition of rational use of medicines and list forms of irrational use
+- Distinguish substandard, falsified, and generic medicines
+- Explain why WHO retired the term "counterfeit medicines"
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter shifts focus from disease epidemiology to the medicines
+supply chain — access, rational prescribing, and quality — as a
+determinant of health-system performance.
+:::
+
+---
+
+## What Are Essential Medicines? {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**WHO definition:** essential medicines are those that satisfy the
+**priority health care needs** of a population.
+
+**Selection criteria:**
+
+- Disease prevalence and public health relevance
+- Evidence of clinical **efficacy and safety**
+- Comparative **cost and cost-effectiveness**
+
+The first WHO Model List of Essential Drugs was published in **1977**,
+with 186 medicines, to help countries prioritize which medicines to
+stock, procure, and make affordable at every level of care.
+
+---
+
+## India's National List of Essential Medicines (NLEM) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India adapts the WHO model into its own **National List of Essential
+Medicines (NLEM)**, maintained under the **Central Drugs Standard Control
+Organisation (CDSCO)** — India's National Regulatory Authority.
+
+- First published 2011; most recently revised as **NLEM 2022**
+  (384 medicines across 27 therapeutic categories)
+- **Inclusion criteria:** approved/licensed in India, cost-effective, and
+  stable under Indian storage conditions
+- Purpose: ensure **accessibility of affordable, quality medicines** at
+  every level of healthcare, and to guide public procurement and price
+  control
+
+---
+
+## Rational Use of Medicines {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**WHO definition (1985):** rational use means patients receive
+medications appropriate to their clinical needs, in doses that meet
+their individual requirements, for an adequate period of time, and at
+the **lowest cost** to them and their community.
+
+**The core criteria:**
+
+- Appropriate **indication**
+- Appropriate **medicine** choice
+- Appropriate **dosage**
+- Correctly **dispensed**
+- Patient appropriately **informed**
+- Patient **adherence**
+
+---
+
+## Forms of Irrational Use {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Common patterns of irrational medicine use:
+
+- **Polypharmacy** — using too many medicines per patient
+- Inappropriate use of **antimicrobials** (wrong dose, for non-bacterial
+  infections) — a major driver of antimicrobial resistance
+- **Over-use of injections** where oral formulations would work
+- Prescribing that doesn't follow **clinical guidelines**
+- Inappropriate **self-medication**, often with prescription-only drugs
+- **Non-adherence** to prescribed dosing regimens
+
+**Scale of the problem:** WHO estimates more than half of all medicines
+worldwide are prescribed, dispensed, or sold inappropriately, and half of
+all patients fail to take them correctly.
+
+---
+
+## Substandard and Falsified Medical Products {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+In 2017, the World Health Assembly retired the term **"counterfeit
+medicines"** in favour of **Substandard and Falsified (SF) medical
+products**:
+
+- **Substandard** — authorized medical products that fail to meet
+  quality standards or specifications
+- **Falsified** — products that deliberately and fraudulently
+  misrepresent their identity, composition, or source
+
+**Why the term changed:** "counterfeit" is a legal/intellectual-property
+concept (trademark infringement) and doesn't necessarily indicate a
+health risk. The new terms reframe the issue as a **public health
+problem**, separate from patent and trademark disputes.
+
+---
+
+## Generic vs. Branded Medicines {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Branded/innovator medicine** — sold under a manufacturer's trademark,
+  often while under patent protection
+- **Generic medicine** — a bioequivalent copy of an approved medicine,
+  sold under its chemical/generic name (or a different brand) once patent
+  protection expires, typically at much lower cost
+
+Generic substitution is one of the most effective, low-cost levers for
+improving access to essential medicines — most NLEM medicines are
+available generically.
+
+---
+
+## Access to Medicines: Broader Determinants {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Beyond the essential-medicines list itself, actual access depends on:
+
+- **Rational selection and use** (covered above)
+- **Sustainable financing** and affordable pricing
+- **Reliable health and supply systems** (procurement, storage,
+  distribution — including cold-chain where needed)
+- Sound **regulatory systems** to keep substandard/falsified products out
+  of the supply chain
+
+These four pillars are the standard WHO framework for describing access
+to essential medicines as a health-system, not just a pharmacological,
+issue.
+
+---
+
+## The 2017 SSFFC-to-SF Terminology Shift {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Before 2017, WHO used the unwieldy acronym **SSFFC**
+(Substandard/Spurious/Falsely-labelled/Falsified/Counterfeit) medical
+products. This was simplified to **SF (Substandard and Falsified)** at
+the Seventieth World Health Assembly specifically to separate the public
+health question (is this medicine safe and effective?) from
+intellectual-property law (is this a trademark violation?) — two
+questions that had previously been conflated under one confusing label.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+According to WHO, essential medicines are selected based on disease
+prevalence, evidence of efficacy and safety, and:
+
+- Manufacturer reputation
+- [Comparative cost and cost-effectiveness]{.correct data-explanation="WHO's three selection criteria are disease prevalence/public health relevance, evidence of clinical efficacy and safety, and comparative cost/cost-effectiveness."}
+- Brand recognition
+- Country of origin
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+In India, the National List of Essential Medicines (NLEM) is maintained
+by:
+
+- The Ministry of Finance
+- [The Central Drugs Standard Control Organisation (CDSCO)]{.correct data-explanation="CDSCO, under the Directorate General of Health Services, Ministry of Health & Family Welfare, is India's National Regulatory Authority and maintains the NLEM."}
+- The World Health Organization directly
+- State governments independently, with no central list
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A patient is prescribed three overlapping antibiotics for a viral cold.
+This is an example of:
+
+- Rational use of medicines
+- [Irrational use of medicines]{.correct data-explanation="Inappropriate antimicrobial use for a non-bacterial (viral) infection, along with unnecessary polypharmacy, is a classic example of irrational medicine use."}
+- Generic substitution
+- A falsified medical product
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+WHO replaced the term "counterfeit medicines" with "Substandard and
+Falsified (SF) medical products" in 2017 primarily because:
+
+- Counterfeit medicines no longer exist
+- ["Counterfeit" is a trademark/IP concept and doesn't necessarily indicate a health risk]{.correct data-explanation="The 2017 World Health Assembly decision reframed the issue as a public health concern, separate from intellectual-property/trademark law, which is what 'counterfeit' legally refers to."}
+- SF is a shorter acronym
+- Falsified medicines are always more dangerous than substandard ones
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+An authorized medicine that fails to meet its approved quality
+specifications due to a manufacturing defect, without any intent to
+deceive, is classified as:
+
+- Falsified
+- [Substandard]{.correct data-explanation="Substandard medical products are authorized products that fail to meet quality standards or specifications — distinct from falsified products, which involve deliberate misrepresentation."}
+- Counterfeit
+- Generic
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *WHO Model Lists of Essential Medicines*
+   (first published 1977).
+2. World Health Organization. *Substandard and falsified medical
+   products* — fact sheet (Seventieth World Health Assembly, 2017).
+3. World Health Organization (1985). *Conference of Experts on the
+   Rational Use of Drugs*, Nairobi.
+4. Central Drugs Standard Control Organisation, Government of India.
+   *National List of Essential Medicines 2022*.
+5. World Health Organization. *Access to Medicines* — the four-pillar
+   framework (selection/use, financing, health systems, regulation).
+
+---
+
+## Thank You!
+
+**Next Chapter:** Nutrition and Health
+
+[← Previous](ncd.html) | [Home](#home) | Chapter 8/26 | [Next Chapter →](nutrition.html)

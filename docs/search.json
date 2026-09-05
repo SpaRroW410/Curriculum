@@ -3899,5 +3899,197 @@
       "Communicable & Non-Communicable Diseases",
       "Epidemiology of Chronic Non-Communicable Diseases"
     ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#home",
+    "href": "diseases/essential-medicines.html#home",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Welcome",
+    "text": "Welcome\nEssential Medicines and Counterfeit Medicines\nLearning Objectives:\n\nDefine essential medicines and state WHO’s selection criteria\nDescribe India’s National List of Essential Medicines (NLEM)\nState WHO’s definition of rational use of medicines and list forms of irrational use\nDistinguish substandard, falsified, and generic medicines\nExplain why WHO retired the term “counterfeit medicines”\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter shifts focus from disease epidemiology to the medicines supply chain — access, rational prescribing, and quality — as a determinant of health-system performance.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#what-are-essential-medicines",
+    "href": "diseases/essential-medicines.html#what-are-essential-medicines",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "What Are Essential Medicines?",
+    "text": "What Are Essential Medicines?\n🟢 MUST KNOW\nWHO definition: essential medicines are those that satisfy the priority health care needs of a population.\nSelection criteria:\n\nDisease prevalence and public health relevance\nEvidence of clinical efficacy and safety\nComparative cost and cost-effectiveness\n\nThe first WHO Model List of Essential Drugs was published in 1977, with 186 medicines, to help countries prioritize which medicines to stock, procure, and make affordable at every level of care.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#indias-national-list-of-essential-medicines-nlem",
+    "href": "diseases/essential-medicines.html#indias-national-list-of-essential-medicines-nlem",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "India’s National List of Essential Medicines (NLEM)",
+    "text": "India’s National List of Essential Medicines (NLEM)\n🟢 MUST KNOW\nIndia adapts the WHO model into its own National List of Essential Medicines (NLEM), maintained under the Central Drugs Standard Control Organisation (CDSCO) — India’s National Regulatory Authority.\n\nFirst published 2011; most recently revised as NLEM 2022 (384 medicines across 27 therapeutic categories)\nInclusion criteria: approved/licensed in India, cost-effective, and stable under Indian storage conditions\nPurpose: ensure accessibility of affordable, quality medicines at every level of healthcare, and to guide public procurement and price control",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#rational-use-of-medicines",
+    "href": "diseases/essential-medicines.html#rational-use-of-medicines",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Rational Use of Medicines",
+    "text": "Rational Use of Medicines\n🟢 MUST KNOW\nWHO definition (1985): rational use means patients receive medications appropriate to their clinical needs, in doses that meet their individual requirements, for an adequate period of time, and at the lowest cost to them and their community.\nThe core criteria:\n\nAppropriate indication\nAppropriate medicine choice\nAppropriate dosage\nCorrectly dispensed\nPatient appropriately informed\nPatient adherence",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#forms-of-irrational-use",
+    "href": "diseases/essential-medicines.html#forms-of-irrational-use",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Forms of Irrational Use",
+    "text": "Forms of Irrational Use\n🟢 MUST KNOW\nCommon patterns of irrational medicine use:\n\nPolypharmacy — using too many medicines per patient\nInappropriate use of antimicrobials (wrong dose, for non-bacterial infections) — a major driver of antimicrobial resistance\nOver-use of injections where oral formulations would work\nPrescribing that doesn’t follow clinical guidelines\nInappropriate self-medication, often with prescription-only drugs\nNon-adherence to prescribed dosing regimens\n\nScale of the problem: WHO estimates more than half of all medicines worldwide are prescribed, dispensed, or sold inappropriately, and half of all patients fail to take them correctly.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#substandard-and-falsified-medical-products",
+    "href": "diseases/essential-medicines.html#substandard-and-falsified-medical-products",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Substandard and Falsified Medical Products",
+    "text": "Substandard and Falsified Medical Products\n🟡 SHOULD KNOW\nIn 2017, the World Health Assembly retired the term “counterfeit medicines” in favour of Substandard and Falsified (SF) medical products:\n\nSubstandard — authorized medical products that fail to meet quality standards or specifications\nFalsified — products that deliberately and fraudulently misrepresent their identity, composition, or source\n\nWhy the term changed: “counterfeit” is a legal/intellectual-property concept (trademark infringement) and doesn’t necessarily indicate a health risk. The new terms reframe the issue as a public health problem, separate from patent and trademark disputes.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#generic-vs.-branded-medicines",
+    "href": "diseases/essential-medicines.html#generic-vs.-branded-medicines",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Generic vs. Branded Medicines",
+    "text": "Generic vs. Branded Medicines\n🟡 SHOULD KNOW\n\nBranded/innovator medicine — sold under a manufacturer’s trademark, often while under patent protection\nGeneric medicine — a bioequivalent copy of an approved medicine, sold under its chemical/generic name (or a different brand) once patent protection expires, typically at much lower cost\n\nGeneric substitution is one of the most effective, low-cost levers for improving access to essential medicines — most NLEM medicines are available generically.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#access-to-medicines-broader-determinants",
+    "href": "diseases/essential-medicines.html#access-to-medicines-broader-determinants",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Access to Medicines: Broader Determinants",
+    "text": "Access to Medicines: Broader Determinants\n🟣 MAY KNOW\nBeyond the essential-medicines list itself, actual access depends on:\n\nRational selection and use (covered above)\nSustainable financing and affordable pricing\nReliable health and supply systems (procurement, storage, distribution — including cold-chain where needed)\nSound regulatory systems to keep substandard/falsified products out of the supply chain\n\nThese four pillars are the standard WHO framework for describing access to essential medicines as a health-system, not just a pharmacological, issue.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#the-2017-ssffc-to-sf-terminology-shift",
+    "href": "diseases/essential-medicines.html#the-2017-ssffc-to-sf-terminology-shift",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "The 2017 SSFFC-to-SF Terminology Shift",
+    "text": "The 2017 SSFFC-to-SF Terminology Shift\n🟣 MAY KNOW\nBefore 2017, WHO used the unwieldy acronym SSFFC (Substandard/Spurious/Falsely-labelled/Falsified/Counterfeit) medical products. This was simplified to SF (Substandard and Falsified) at the Seventieth World Health Assembly specifically to separate the public health question (is this medicine safe and effective?) from intellectual-property law (is this a trademark violation?) — two questions that had previously been conflated under one confusing label.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#self-check-question-1",
+    "href": "diseases/essential-medicines.html#self-check-question-1",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nAccording to WHO, essential medicines are selected based on disease prevalence, evidence of efficacy and safety, and:\n\nManufacturer reputation\nComparative cost and cost-effectiveness\nBrand recognition\nCountry of origin",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#self-check-question-2",
+    "href": "diseases/essential-medicines.html#self-check-question-2",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nIn India, the National List of Essential Medicines (NLEM) is maintained by:\n\nThe Ministry of Finance\nThe Central Drugs Standard Control Organisation (CDSCO)\nThe World Health Organization directly\nState governments independently, with no central list",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#self-check-question-3",
+    "href": "diseases/essential-medicines.html#self-check-question-3",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA patient is prescribed three overlapping antibiotics for a viral cold. This is an example of:\n\nRational use of medicines\nIrrational use of medicines\nGeneric substitution\nA falsified medical product",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#self-check-question-4",
+    "href": "diseases/essential-medicines.html#self-check-question-4",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWHO replaced the term “counterfeit medicines” with “Substandard and Falsified (SF) medical products” in 2017 primarily because:\n\nCounterfeit medicines no longer exist\n“Counterfeit” is a trademark/IP concept and doesn’t necessarily indicate a health risk\nSF is a shorter acronym\nFalsified medicines are always more dangerous than substandard ones",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#self-check-question-5",
+    "href": "diseases/essential-medicines.html#self-check-question-5",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nAn authorized medicine that fails to meet its approved quality specifications due to a manufacturing defect, without any intent to deceive, is classified as:\n\nFalsified\nSubstandard\nCounterfeit\nGeneric",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#references",
+    "href": "diseases/essential-medicines.html#references",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. WHO Model Lists of Essential Medicines (first published 1977).\nWorld Health Organization. Substandard and falsified medical products — fact sheet (Seventieth World Health Assembly, 2017).\nWorld Health Organization (1985). Conference of Experts on the Rational Use of Drugs, Nairobi.\nCentral Drugs Standard Control Organisation, Government of India. National List of Essential Medicines 2022.\nWorld Health Organization. Access to Medicines — the four-pillar framework (selection/use, financing, health systems, regulation).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "diseases/essential-medicines.html#thank-you",
+    "href": "diseases/essential-medicines.html#thank-you",
+    "title": "Essential Medicines and Counterfeit Medicines",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Nutrition and Health\n← Previous | Home | Chapter 8/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Essential Medicines and Counterfeit Medicines"
+    ]
   }
 ]
