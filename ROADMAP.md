@@ -52,13 +52,13 @@ implied by `intro.qmd`'s Chapter 1–26 numbering; Environment's remaining
 stubs are lowest priority since that section already has the most
 finished content of any section.
 
-### Phase 1 — Foundations of Health & Epidemiology
+### Phase 1 — Foundations of Health & Epidemiology ✅ complete
 Everything downstream depends on the terms and methods defined here.
-- [ ] `foundations/man-and-medicine.qmd`
-- [ ] `foundations/concept-health-disease.qmd`
-- [ ] `foundations/principles-epidemiology.qmd`
-- [ ] `foundations/epidemiologic-methods.qmd`
-- [ ] `foundations/screening.qmd`
+- [x] `foundations/man-and-medicine.qmd`
+- [x] `foundations/concept-health-disease.qmd`
+- [x] `foundations/principles-epidemiology.qmd`
+- [x] `foundations/epidemiologic-methods.qmd`
+- [x] `foundations/screening.qmd`
 
 ### Phase 2 — Communicable & Non-Communicable Diseases
 - [ ] `diseases/communicable-diseases.qmd`

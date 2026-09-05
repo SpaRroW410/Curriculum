@@ -3443,5 +3443,245 @@
       "Foundations of Health & Epidemiology",
       "Screening for Disease"
     ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#home",
+    "href": "diseases/communicable-diseases.html#home",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Welcome",
+    "text": "Welcome\nEpidemiology of Communicable Diseases\nLearning Objectives:\n\nDescribe the six links in the chain of infection\nClassify modes of transmission of communicable disease\nDefine basic reproduction number (R₀) and herd immunity threshold\nDistinguish isolation from quarantine\nApply the levels of prevention to communicable disease control\nOutline the standard steps of an outbreak investigation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter applies Chapter 2’s levels of prevention and Chapter 3’s epidemiological triad specifically to infectious disease, and opens the Diseases section of the curriculum.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#the-chain-of-infection",
+    "href": "diseases/communicable-diseases.html#the-chain-of-infection",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "The Chain of Infection",
+    "text": "The Chain of Infection\n🟢 MUST KNOW\nCommunicable disease transmission depends on six linked elements — break any one link, and transmission stops:\n\nInfectious agent — the causative organism\nReservoir — where the agent lives and multiplies (human, animal, or environment)\nPortal of exit — how the agent leaves the reservoir (respiratory tract, gut, skin, blood)\nMode of transmission — how it travels to a new host\nPortal of entry — how it enters the new host\nSusceptible host — an individual capable of being infected",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#modes-of-transmission",
+    "href": "diseases/communicable-diseases.html#modes-of-transmission",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Modes of Transmission",
+    "text": "Modes of Transmission\n🟢 MUST KNOW\n\n\nDirect transmission\n\nDirect contact (touch, sexual contact)\nDroplet spread (coughing, sneezing, over short distance)\nTransplacental (mother to fetus)\n\n\nIndirect transmission\n\nVehicle-borne — contaminated water, food, fomites\nVector-borne — via an insect/arthropod (mechanical or biological)\nAirborne — droplet nuclei or dust suspended in air over distance",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#reservoirs-of-infection",
+    "href": "diseases/communicable-diseases.html#reservoirs-of-infection",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Reservoirs of Infection",
+    "text": "Reservoirs of Infection\n🟢 MUST KNOW\n\nHuman reservoir — a case (symptomatic) or a carrier (asymptomatic but infectious)\nAnimal reservoir — diseases transmitted from vertebrate animals to humans are called zoonoses\nEnvironmental reservoir — soil, water (e.g. tetanus spores in soil, Legionella in water systems)",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#basic-reproduction-number-r₀",
+    "href": "diseases/communicable-diseases.html#basic-reproduction-number-r₀",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Basic Reproduction Number (R₀)",
+    "text": "Basic Reproduction Number (R₀)\n🟢 MUST KNOW\nR₀ is the average number of secondary infections produced by one infected person in a completely susceptible population.\n\nR₀ &gt; 1 → each case generates more than one new case → epidemic potential\nR₀ &lt; 1 → the outbreak is expected to die out\nR₀ = 1 → disease remains endemic at a steady rate",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#herd-immunity",
+    "href": "diseases/communicable-diseases.html#herd-immunity",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Herd Immunity",
+    "text": "Herd Immunity\n🟢 MUST KNOW\nHerd immunity is indirect protection of susceptible individuals when a sufficiently high proportion of a population is immune, breaking chains of transmission even for those who aren’t immune themselves.\nHerd immunity threshold (HIT):\nHIT = 1 − (1 / R₀)\nExample: a disease with R₀ = 3 needs roughly two-thirds (66%) of the population immune to interrupt sustained transmission.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#levels-of-prevention-applied-to-communicable-disease",
+    "href": "diseases/communicable-diseases.html#levels-of-prevention-applied-to-communicable-disease",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Levels of Prevention Applied to Communicable Disease",
+    "text": "Levels of Prevention Applied to Communicable Disease\n🟢 MUST KNOW\nChapter 2’s levels of prevention map directly onto infectious disease control:\n\n\n\n\n\n\n\nLevel\nCommunicable disease example\n\n\n\n\nPrimordial\nImproving sanitation and housing before any outbreak risk exists\n\n\nPrimary\nImmunization, vector control, safe water\n\n\nSecondary\nCase detection, contact tracing, early treatment\n\n\nTertiary\nRehabilitation from disease sequelae (e.g. post-polio care)",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#isolation-vs.-quarantine",
+    "href": "diseases/communicable-diseases.html#isolation-vs.-quarantine",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Isolation vs. Quarantine",
+    "text": "Isolation vs. Quarantine\n🟡 SHOULD KNOW\n\nIsolation — separating a person already known to be infected (diagnosed or symptomatic) from others, until no longer contagious\nQuarantine — separating a person who was exposed but is not yet known to be infected, for the duration of the incubation period, to see if disease develops\n\nBoth are control measures acting on different links of the chain of infection — isolation removes an active reservoir; quarantine interrupts transmission from a potential future case.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#secondary-attack-rate",
+    "href": "diseases/communicable-diseases.html#secondary-attack-rate",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Secondary Attack Rate",
+    "text": "Secondary Attack Rate\n🟡 SHOULD KNOW\nSecondary Attack Rate (SAR) measures how contagious a disease is within a close-contact group (e.g. a household), following exposure to a primary case:\nSAR = (New cases among contacts) / (Total susceptible contacts)\nRelated concept — incubation period: the time between exposure to an infectious agent and the first appearance of symptoms; it determines how long quarantine should last.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#outbreak-investigation-the-10-steps",
+    "href": "diseases/communicable-diseases.html#outbreak-investigation-the-10-steps",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Outbreak Investigation: The 10 Steps",
+    "text": "Outbreak Investigation: The 10 Steps\n🟡 SHOULD KNOW\nThe standard CDC-style sequence for investigating a suspected outbreak:\n\nPrepare for field work\nEstablish the existence of an outbreak\nVerify the diagnosis\nDefine and identify cases\nDescribe data by time, place, and person\nDevelop hypotheses\nEvaluate hypotheses\nRefine hypotheses / conduct additional studies\nImplement control and prevention measures\nCommunicate findings\n\n(In practice these steps often overlap and don’t run strictly in order — control measures, for instance, are often started well before the investigation formally concludes.)",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#emerging-and-re-emerging-infections",
+    "href": "diseases/communicable-diseases.html#emerging-and-re-emerging-infections",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Emerging and Re-emerging Infections",
+    "text": "Emerging and Re-emerging Infections\n🟣 MAY KNOW\n\nEmerging infectious diseases — newly identified, or newly significant, infections in a population (e.g. a novel pathogen)\nRe-emerging infectious diseases — previously controlled diseases that increase again (e.g. due to declining vaccination coverage, antimicrobial resistance, or ecological change)\n\nBoth categories are driven by similar factors: urbanization, travel, climate change, land-use change, and breakdowns in public health infrastructure.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#smallpox-eradication",
+    "href": "diseases/communicable-diseases.html#smallpox-eradication",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Smallpox Eradication",
+    "text": "Smallpox Eradication\n🟣 MAY KNOW\nSmallpox remains the only human disease ever declared eradicated (WHO, 1980), achieved through a global vaccination campaign combined with surveillance-containment (“ring vaccination” around each detected case) rather than mass vaccination alone. It remains the reference case study for what a successful global eradication program requires: an effective vaccine, no animal reservoir, and a recognizable, short-lived infectious stage.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-1",
+    "href": "diseases/communicable-diseases.html#self-check-question-1",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nWhich of the following is NOT one of the six links in the chain of infection?\n\nReservoir\nPortal of exit\nHerd immunity\nSusceptible host",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-2",
+    "href": "diseases/communicable-diseases.html#self-check-question-2",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nA disease has R₀ = 4. What proportion of the population must be immune to reach the herd immunity threshold?\n\n25%\n50%\n75%\n100%",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-3",
+    "href": "diseases/communicable-diseases.html#self-check-question-3",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA person who was exposed to a confirmed case, but has no symptoms and an unknown infection status, is placed in separate accommodation for the duration of the disease’s incubation period. This is:\n\nIsolation\nQuarantine\nRing vaccination\nContact tracing",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-4",
+    "href": "diseases/communicable-diseases.html#self-check-question-4",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nMalaria, transmitted from an infected person to a new host via a mosquito, is an example of which mode of transmission?\n\nDirect contact\nDroplet spread\nVector-borne transmission\nFomite transmission",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-5",
+    "href": "diseases/communicable-diseases.html#self-check-question-5",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nIn the standard outbreak-investigation sequence, “develop hypotheses” comes immediately after which step?\n\nVerify the diagnosis\nDescribe data by time, place, and person\nImplement control measures\nCommunicate findings",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-6",
+    "href": "diseases/communicable-diseases.html#self-check-question-6",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nSmallpox eradication (1980) is the only successful human disease eradication to date. Which factor was essential to its success?\n\nMass vaccination of the entire world population simultaneously\nAn effective vaccine combined with surveillance and ring vaccination around detected cases, with no animal reservoir\nHerd immunity reaching exactly 50%\nElimination of the mosquito vector",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#references",
+    "href": "diseases/communicable-diseases.html#references",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "References",
+    "text": "References\n\nNCBI Bookshelf. Chapter 4: Adhere to Principles of Infection Control — Chain of Infection.\nPlus Maths / University of Cambridge. “Maths in a minute: R nought and herd immunity.”\nPenn Today. “Quarantine or isolation? An updated glossary.”\nWikipedia. “Secondary attack rate.”\nCenters for Disease Control and Prevention. Steps of an Outbreak Investigation (10-step framework).\nWorld Health Organization (1980). Declaration of Global Eradication of Smallpox.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#thank-you",
+    "href": "diseases/communicable-diseases.html#thank-you",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Epidemiology of Chronic Non-Communicable Diseases\n← Previous | Home | Chapter 6/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
   }
 ]
