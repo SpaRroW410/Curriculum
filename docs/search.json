@@ -2963,5 +2963,257 @@
       "Foundations of Health & Epidemiology",
       "Principles of Epidemiology"
     ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#home",
+    "href": "foundations/epidemiologic-methods.html#home",
+    "title": "Epidemiologic Methods",
+    "section": "Welcome",
+    "text": "Welcome\nEpidemiologic Methods\nLearning Objectives:\n\nCompare cohort, case-control, cross-sectional, and ecological study designs\nCalculate and interpret relative risk (RR) and odds ratio (OR)\nCalculate attributable risk and attributable risk percent\nDescribe the design and purpose of a randomized controlled trial\nDistinguish selection bias, information bias, and confounding\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter builds directly on Chapter 3’s incidence/prevalence and the overview of study-design categories, going into the analytical and experimental designs in depth.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#the-22-table",
+    "href": "foundations/epidemiologic-methods.html#the-22-table",
+    "title": "Epidemiologic Methods",
+    "section": "The 2×2 Table",
+    "text": "The 2×2 Table\n🟢 MUST KNOW\nEvery analytical epidemiological comparison starts from a 2×2 table of exposure vs. outcome:\n\n\n\n\nDisease +\nDisease −\n\n\n\n\nExposed\na\nb\n\n\nUnexposed\nc\nd\n\n\n\nAll of the measures on the following slides — relative risk, odds ratio, attributable risk — are calculated directly from these four cell counts (a, b, c, d).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#cohort-study",
+    "href": "foundations/epidemiologic-methods.html#cohort-study",
+    "title": "Epidemiologic Methods",
+    "section": "Cohort Study",
+    "text": "Cohort Study\n🟢 MUST KNOW\nDesign: starts with a disease-free population, divides it by exposure status, and follows both groups forward in time to compare who develops disease.\n\nProspective cohort — exposure and outcome measured going forward from now\nRetrospective cohort — exposure already recorded in the past; outcome is determined by looking forward from that point\n\nDirect measure obtained: incidence in both groups → Relative Risk (RR)\nRR = [a / (a+b)] / [c / (c+d)]\nRR &gt; 1 suggests increased risk with exposure; RR = 1 suggests no association; RR &lt; 1 suggests a protective effect.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#case-control-study",
+    "href": "foundations/epidemiologic-methods.html#case-control-study",
+    "title": "Epidemiologic Methods",
+    "section": "Case-Control Study",
+    "text": "Case-Control Study\n🟢 MUST KNOW\nDesign: starts with people who already have the disease (cases) and people who don’t (controls), then looks backward to compare their past exposure.\n\nCannot calculate incidence directly (cases are already selected) — so RR cannot be measured directly\nInstead calculates the Odds Ratio (OR):\n\nOR = (a × d) / (b × c)\nRare disease assumption: when the disease is uncommon (roughly &lt;10% in the unexposed group), OR closely approximates RR — this is why case-control studies are widely used to estimate risk for rare diseases.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#cohort-vs.-case-control",
+    "href": "foundations/epidemiologic-methods.html#cohort-vs.-case-control",
+    "title": "Epidemiologic Methods",
+    "section": "Cohort vs. Case-Control",
+    "text": "Cohort vs. Case-Control\n🟢 MUST KNOW\n\n\n\n\nCohort\nCase-Control\n\n\n\n\nStarts from\nExposure status\nDisease status\n\n\nDirection\nForward in time\nBackward in time\n\n\nBest for\nRare exposures\nRare diseases\n\n\nMeasure obtained\nRelative Risk\nOdds Ratio\n\n\nCost/duration\nHigher, longer\nLower, faster\n\n\nRecall bias risk\nLow\nHigher",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#attributable-risk",
+    "href": "foundations/epidemiologic-methods.html#attributable-risk",
+    "title": "Epidemiologic Methods",
+    "section": "Attributable Risk",
+    "text": "Attributable Risk\n🟢 MUST KNOW\nAttributable Risk (AR) is the excess risk in the exposed group that is directly due to the exposure — the risk difference:\nAR = Risk in exposed − Risk in unexposed\nAttributable Risk Percent (AR%) expresses this as a proportion of the total risk in the exposed group — i.e. how much of the exposed group’s risk would be eliminated if the exposure were removed:\nAR% = [(Risk exposed − Risk unexposed) / Risk exposed] × 100\nContrast with RR: RR tells you the strength of an association; AR/AR% tells you the public health impact of removing the exposure.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#randomized-controlled-trial-rct",
+    "href": "foundations/epidemiologic-methods.html#randomized-controlled-trial-rct",
+    "title": "Epidemiologic Methods",
+    "section": "Randomized Controlled Trial (RCT)",
+    "text": "Randomized Controlled Trial (RCT)\n🟡 SHOULD KNOW\nDesign: the investigator actively and randomly assigns participants to an intervention group or a control/comparison group, then follows both forward to compare outcomes.\n\nRandomization balances known and unknown confounders between groups — the key strength of the RCT design\nBlinding (single/double) reduces information bias from participants or assessors knowing group assignment\nConsidered the strongest design for establishing causation, but often impractical or unethical for harmful exposures (you cannot randomize people to smoke, for instance — hence cohort/case-control designs exist)",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#cross-sectional-and-ecological-studies",
+    "href": "foundations/epidemiologic-methods.html#cross-sectional-and-ecological-studies",
+    "title": "Epidemiologic Methods",
+    "section": "Cross-Sectional and Ecological Studies",
+    "text": "Cross-Sectional and Ecological Studies\n🟡 SHOULD KNOW\n\nCross-sectional study — measures exposure and disease simultaneously, at a single point in time, in a population; useful for estimating prevalence, but cannot establish which came first (exposure or disease) — the key limitation\nEcological study — compares exposure and disease rates across groups/populations, not individuals (e.g. comparing national smoking rates to national lung cancer rates); fast and cheap, but vulnerable to the ecological fallacy — a group-level association doesn’t guarantee the same association holds for individuals",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#selection-bias",
+    "href": "foundations/epidemiologic-methods.html#selection-bias",
+    "title": "Epidemiologic Methods",
+    "section": "Selection Bias",
+    "text": "Selection Bias\n🟡 SHOULD KNOW\nOccurs when the individuals selected into a study are not representative of the population they’re meant to reflect — e.g. volunteer bias, or a hospital-based control group that differs systematically from the general population.\nMust be prevented at the design stage — it generally cannot be fixed by statistical adjustment after data are collected.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#information-bias",
+    "href": "foundations/epidemiologic-methods.html#information-bias",
+    "title": "Epidemiologic Methods",
+    "section": "Information Bias",
+    "text": "Information Bias\n🟡 SHOULD KNOW\nArises from inaccurate measurement of exposure or outcome — including:\n\nRecall bias — cases (who are searching for an explanation for their illness) may remember or report past exposures differently than controls — a particular risk in case-control studies\nObserver/interviewer bias — differential data collection depending on which group a participant is in\n\nLike selection bias, this is best prevented by design (blinding, standardized measurement) rather than fixed afterward.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#confounding",
+    "href": "foundations/epidemiologic-methods.html#confounding",
+    "title": "Epidemiologic Methods",
+    "section": "Confounding",
+    "text": "Confounding\n🟡 SHOULD KNOW\nA confounder is a third factor that is associated with both the exposure and the outcome, and distorts the apparent exposure–disease association — it can exaggerate, mask, or even reverse the true direction of an effect.\nExample: age can confound the association between grey hair and heart disease — older people have more grey hair and more heart disease, with no direct causal link between the two.\nUnlike selection and information bias, confounding can be addressed after data collection — through stratification, matching, or statistical adjustment (e.g. multivariable regression) — as well as through randomization at the design stage.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#ecological-fallacy-a-closer-look",
+    "href": "foundations/epidemiologic-methods.html#ecological-fallacy-a-closer-look",
+    "title": "Epidemiologic Methods",
+    "section": "Ecological Fallacy — A Closer Look",
+    "text": "Ecological Fallacy — A Closer Look\n🟣 MAY KNOW\nThe ecological fallacy is the specific error of assuming that a correlation observed at the group/population level must also hold at the individual level. A classic teaching example: countries with higher average chocolate consumption have been shown to have more Nobel laureates per capita — an association at the national level that says nothing about whether any individual eating more chocolate is more likely to win a Nobel Prize.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#number-needed-to-treat",
+    "href": "foundations/epidemiologic-methods.html#number-needed-to-treat",
+    "title": "Epidemiologic Methods",
+    "section": "Number Needed to Treat",
+    "text": "Number Needed to Treat\n🟣 MAY KNOW\nNumber Needed to Treat (NNT) is a clinically-oriented extension of attributable risk, used mainly for trial results: the number of patients who need to receive an intervention for one additional patient to benefit, calculated as the reciprocal of the absolute risk reduction (NNT = 1 / AR, expressed as risk difference).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-1",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-1",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA study begins by identifying people with lung cancer and people without it, then looks backward at their smoking history. This is a:\n\nCohort study\nCase-control study\nRandomized controlled trial\nEcological study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-2",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-2",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich measure of association can be directly calculated from a cohort study but NOT from a case-control study?\n\nOdds Ratio\nRelative Risk\np-value\nConfidence interval",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-3",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-3",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nAttributable Risk Percent (AR%) is best described as:\n\nThe strength of an association\nThe proportion of exposed-group risk that would be eliminated if the exposure were removed\nThe same value as the Odds Ratio\nA measure only usable in RCTs",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-4",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-4",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nThe main strength of randomization in an RCT is that it:\n\nGuarantees a statistically significant result\nBalances known and unknown confounders between the intervention and control groups\nRemoves the need for a control group\nEliminates all information bias automatically",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-5",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-5",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nA country-level comparison of average salt intake against average blood pressure across nations, without individual-level data, is an example of:\n\nA cohort study\nA case-control study\nAn ecological study\nA randomized controlled trial",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-6",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-6",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nWhich type of bias or distortion CAN typically still be corrected during data analysis, after the study has been conducted?\n\nSelection bias\nRecall bias\nConfounding\nInterviewer bias",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#references",
+    "href": "foundations/epidemiologic-methods.html#references",
+    "title": "Epidemiologic Methods",
+    "section": "References",
+    "text": "References\n\nBoston University School of Public Health. Case-Control Studies and Measuring Association in Case-Control Studies — Epidemiology teaching modules.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.), Lesson 3.\nRothman, K.J., Greenland, S., Lash, T.L. Modern Epidemiology (3rd ed.). Lippincott Williams & Wilkins.\nWikipedia contributors. “Attributable fraction among the exposed” and “Randomized controlled trial.”",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#thank-you",
+    "href": "foundations/epidemiologic-methods.html#thank-you",
+    "title": "Epidemiologic Methods",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Screening for Disease\n← Previous | Home | Chapter 4/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
   }
 ]
