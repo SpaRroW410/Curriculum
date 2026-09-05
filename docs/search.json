@@ -3215,5 +3215,233 @@
       "Foundations of Health & Epidemiology",
       "Epidemiologic Methods"
     ]
+  },
+  {
+    "objectID": "foundations/screening.html#home",
+    "href": "foundations/screening.html#home",
+    "title": "Screening for Disease",
+    "section": "Welcome",
+    "text": "Welcome\nScreening for Disease\nLearning Objectives:\n\nDefine screening and distinguish it from diagnosis\nState the Wilson and Jungner criteria for a screening program\nCalculate and interpret sensitivity, specificity, PPV, and NPV\nDescribe the main types of screening\nExplain lead time bias, length time bias, and overdiagnosis\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter closes the Foundations section by applying the incidence/ prevalence and 2x2-table thinking from Chapters 3–4 to the specific problem of evaluating a screening test and a screening program.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#what-is-screening",
+    "href": "foundations/screening.html#what-is-screening",
+    "title": "Screening for Disease",
+    "section": "What Is Screening?",
+    "text": "What Is Screening?\n🟢 MUST KNOW\nScreening is the presumptive identification of unrecognized disease in apparently healthy, asymptomatic individuals, using tests that can be applied rapidly and economically to a large population.\nScreening is NOT diagnosis:\n\nA screening test sorts people into “likely disease” vs. “unlikely disease” — it does not confirm disease\nEveryone who screens positive must still undergo a proper diagnostic test to confirm or rule out the condition",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#wilson-and-jungner-criteria-1968",
+    "href": "foundations/screening.html#wilson-and-jungner-criteria-1968",
+    "title": "Screening for Disease",
+    "section": "Wilson and Jungner Criteria (1968)",
+    "text": "Wilson and Jungner Criteria (1968)\n🟢 MUST KNOW\nWHO’s ten classic principles for deciding whether a condition is suitable for a screening program:\n\nThe condition should be an important health problem\nThere should be an accepted treatment for recognized disease\nFacilities for diagnosis and treatment should be available\nThere should be a recognizable latent or early symptomatic stage\nThere should be a suitable test for that early stage\nThe test should be acceptable to the population\nThe natural history of the condition should be adequately understood\nThere should be an agreed policy on whom to treat\nThe cost of case-finding should be economically balanced against overall medical care spending\nCase-finding should be a continuing process, not a one-time project",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#the-screening-22-table",
+    "href": "foundations/screening.html#the-screening-22-table",
+    "title": "Screening for Disease",
+    "section": "The Screening 2×2 Table",
+    "text": "The Screening 2×2 Table\n🟢 MUST KNOW\nEvery screening test is judged against a reference/gold-standard diagnosis:\n\n\n\n\nDisease +\nDisease −\n\n\n\n\nTest +\nTrue Positive (TP)\nFalse Positive (FP)\n\n\nTest −\nFalse Negative (FN)\nTrue Negative (TN)\n\n\n\nAll four validity measures on the next slides come directly from this table.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#sensitivity-and-specificity",
+    "href": "foundations/screening.html#sensitivity-and-specificity",
+    "title": "Screening for Disease",
+    "section": "Sensitivity and Specificity",
+    "text": "Sensitivity and Specificity\n🟢 MUST KNOW\nSensitivity — the ability to correctly identify people who have the disease:\nSensitivity = TP / (TP + FN)\nSpecificity — the ability to correctly identify people who do not have the disease:\nSpecificity = TN / (TN + FP)\nKey property: both are properties of the test itself and do not depend on how common the disease is (prevalence) in the population tested.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#predictive-values",
+    "href": "foundations/screening.html#predictive-values",
+    "title": "Screening for Disease",
+    "section": "Predictive Values",
+    "text": "Predictive Values\n🟢 MUST KNOW\nPositive Predictive Value (PPV) — given a positive test, the probability the person actually has disease:\nPPV = TP / (TP + FP)\nNegative Predictive Value (NPV) — given a negative test, the probability the person is actually disease-free:\nNPV = TN / (TN + FN)\nKey property: unlike sensitivity/specificity, PPV and NPV do depend on disease prevalence — the same test will have a lower PPV in a low-prevalence population, even with unchanged sensitivity/specificity.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#types-of-screening",
+    "href": "foundations/screening.html#types-of-screening",
+    "title": "Screening for Disease",
+    "section": "Types of Screening",
+    "text": "Types of Screening\n🟡 SHOULD KNOW\n\nMass screening — offered to an entire population, regardless of individual risk (e.g. a national program)\nSelective/targeted screening — offered only to a high-risk subgroup (e.g. screening smokers for lung disease)\nMultiphasic screening — several screening tests applied together in one session (e.g. a health camp offering blood pressure, blood sugar, and vision checks together)\nOpportunistic screening — offered to a person who is already seeking care for an unrelated reason",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#lead-time-bias",
+    "href": "foundations/screening.html#lead-time-bias",
+    "title": "Screening for Disease",
+    "section": "Lead Time Bias",
+    "text": "Lead Time Bias\n🟡 SHOULD KNOW\nLead time is the interval between detection by screening and the point when the disease would normally have been diagnosed clinically (from symptoms).\nLead time bias occurs when screening appears to prolong survival — because the clock on “survival” starts earlier — even if the person dies at exactly the same actual time as they would have without screening.\nWhy it matters: raw survival-time comparisons between screened and unscreened groups can be misleading unless lead time is accounted for.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#length-time-bias-and-overdiagnosis",
+    "href": "foundations/screening.html#length-time-bias-and-overdiagnosis",
+    "title": "Screening for Disease",
+    "section": "Length Time Bias and Overdiagnosis",
+    "text": "Length Time Bias and Overdiagnosis\n🟡 SHOULD KNOW\nLength time bias — screening preferentially detects slow-growing, less aggressive disease, because it is present and detectable for longer; fast-growing, aggressive disease is more likely to cause symptoms and be diagnosed clinically between screening rounds. This makes screened cases look like they have better outcomes, independent of any real benefit.\nOverdiagnosis — the extreme case: screening detects a genuine abnormality that would never have caused symptoms or harm in the person’s lifetime, leading to unnecessary labeling and treatment.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#sensitivityspecificity-trade-off",
+    "href": "foundations/screening.html#sensitivityspecificity-trade-off",
+    "title": "Screening for Disease",
+    "section": "Sensitivity–Specificity Trade-off",
+    "text": "Sensitivity–Specificity Trade-off\n🟣 MAY KNOW\nFor a test with a continuous or graded result (e.g. a blood level), the cutoff chosen to define “positive” trades sensitivity against specificity: lowering the cutoff to catch more true cases (higher sensitivity) also increases false positives (lower specificity), and vice versa. This trade-off is often visualized with a Receiver Operating Characteristic (ROC) curve, used to choose an optimal cutoff.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#choosing-between-screening-designs",
+    "href": "foundations/screening.html#choosing-between-screening-designs",
+    "title": "Screening for Disease",
+    "section": "Choosing Between Screening Designs",
+    "text": "Choosing Between Screening Designs\n🟣 MAY KNOW\nMass screening is efficient for a common, serious, and well-understood condition (e.g. blood pressure), but wasteful and potentially harmful (overdiagnosis, false positives, anxiety) for rare conditions — reinforcing why the Wilson–Jungner criteria (importance, natural history, economic balance) matter before launching a program, not just whether a test technically exists.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-1",
+    "href": "foundations/screening.html#self-check-question-1",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA screening test is applied to an asymptomatic population. A person who tests positive should next:\n\nBe told they definitely have the disease\nUndergo a diagnostic test to confirm or rule out disease\nBe treated immediately without further testing\nBe excluded from future screening",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-2",
+    "href": "foundations/screening.html#self-check-question-2",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich Wilson–Jungner criterion is violated if there is no accepted treatment available for a condition, even if a perfect test for it exists?\n\nSuitable test\nAccepted treatment for recognized disease\nAcceptability to the population\nContinuing process",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-3",
+    "href": "foundations/screening.html#self-check-question-3",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nWhich measure of test validity does NOT change with disease prevalence in the population being tested?\n\nPositive Predictive Value\nNegative Predictive Value\nSensitivity\nBoth PPV and NPV",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-4",
+    "href": "foundations/screening.html#self-check-question-4",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nA health camp offering blood pressure, blood glucose, and vision testing together in one visit is an example of:\n\nMass screening\nSelective screening\nMultiphasic screening\nOpportunistic screening",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-5",
+    "href": "foundations/screening.html#self-check-question-5",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nScreened patients appear to survive longer after diagnosis simply because their disease was detected earlier in its course, even though they die at the same actual time as they would have without screening. This is:\n\nLength time bias\nLead time bias\nOverdiagnosis\nSelection bias",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-6",
+    "href": "foundations/screening.html#self-check-question-6",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nDetection, through screening, of a genuine abnormality that would never have caused symptoms or harm in a person’s lifetime is called:\n\nLead time bias\nLength time bias\nOverdiagnosis\nFalse positive",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#references",
+    "href": "foundations/screening.html#references",
+    "title": "Screening for Disease",
+    "section": "References",
+    "text": "References\n\nWilson, J.M.G., Jungner, G. (1968). Principles and Practice of Screening for Disease. WHO Public Health Papers No. 34.\nStatPearls. Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios.\nCatalog of Bias. “Lead Time Bias.” and Wikipedia. “Length time bias.”\nNational Cancer Institute / NCBI Bookshelf. Assessment of cancer screening: a primer.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#thank-you",
+    "href": "foundations/screening.html#thank-you",
+    "title": "Screening for Disease",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Epidemiology of Communicable Diseases\n← Previous | Home | Chapter 5/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease"
+    ]
   }
 ]
