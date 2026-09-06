@@ -6839,5 +6839,185 @@
       "Environment, Systems & Emergencies",
       "Disaster Management"
     ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#home",
+    "href": "environment/occupational-health.html#home",
+    "title": "Occupational Health",
+    "section": "Welcome",
+    "text": "Welcome\nOccupational Health\nLearning Objectives:\n\nState the 1950 ILO/WHO joint definition of occupational health\nClassify occupational hazards into six categories\nDefine pneumoconiosis and name its major forms\nDescribe India’s Employees’ State Insurance (ESI) scheme’s role\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter connects Chapter 7’s NCD risk-factor framework and Chapter 2’s causation concepts to a specific, identifiable exposure setting: the workplace.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#the-ilowho-joint-definition",
+    "href": "environment/occupational-health.html#the-ilowho-joint-definition",
+    "title": "Occupational Health",
+    "section": "The ILO/WHO Joint Definition",
+    "text": "The ILO/WHO Joint Definition\n🟢 MUST KNOW\nAdopted by the Joint ILO/WHO Committee on Occupational Health (1950), revised 1995 — occupational health aims at:\n\nPromotion and maintenance of the highest degree of physical, mental, and social well-being of workers in all occupations\nPrevention of ill-health caused by working conditions\nProtection of workers from risks adverse to health in their employment\nPlacing and maintaining workers in a job matched to their physiological and psychological capacity\nAdapting work to the worker, and the worker to the job — not only the other way around\n\nNotice the parallel to Chapter 1’s holistic WHO definition of health — occupational health explicitly extends “complete physical, mental, and social well-being” into the workplace setting.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#classifying-occupational-hazards",
+    "href": "environment/occupational-health.html#classifying-occupational-hazards",
+    "title": "Occupational Health",
+    "section": "Classifying Occupational Hazards",
+    "text": "Classifying Occupational Hazards\n🟢 MUST KNOW\nSix recognized categories of workplace hazard:\n\nPhysical — noise, vibration, extreme temperature, radiation, poor lighting\nChemical — solvents, dusts, fumes, gases, pesticides\nBiological — bacteria, viruses, fungi (e.g. occupational tuberculosis exposure in healthcare workers)\nErgonomic — poor posture, repetitive movement, awkward lifting, poor workstation design\nPsychosocial — work-related stress, bullying, harassment, burnout\nSafety — unsafe machinery, obstructed walkways, slippery floors (immediate injury risk, distinct from the slower-onset categories above)",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#pneumoconiosis",
+    "href": "environment/occupational-health.html#pneumoconiosis",
+    "title": "Occupational Health",
+    "section": "Pneumoconiosis",
+    "text": "Pneumoconiosis\n🟢 MUST KNOW\nPneumoconiosis — a group of occupational lung diseases caused by inhalation of mineral dust, producing lung inflammation and scarring. Major forms:\n\nSilicosis — from crystalline silica dust (mining, quarrying, sandblasting); nodular lung lesions\nAsbestosis — from asbestos fibres; scarring often not symptomatic until years after initial exposure\nByssinosis — from cotton dust (textile industry)\nBagassosis — from bagasse (sugarcane fibre residue) dust\n\nCommon thread: long latency between exposure and symptom onset — directly echoing Chapter 3’s natural-history-of-disease concept, but on an occupational-exposure timescale of years to decades.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#employees-state-insurance-esi-scheme",
+    "href": "environment/occupational-health.html#employees-state-insurance-esi-scheme",
+    "title": "Occupational Health",
+    "section": "Employees’ State Insurance (ESI) Scheme",
+    "text": "Employees’ State Insurance (ESI) Scheme\n🟢 MUST KNOW\nWorkers registered under the Employees’ State Insurance Act, 1948 receive medical treatment through ESI hospitals, providing a social insurance mechanism specifically for organized-sector workers, including coverage for occupational disease and injury.\nState-level policy example: Haryana’s pneumoconiosis rehabilitation policy provides financial aid and pension support to affected workers — illustrating how national ESI coverage is complemented by state-specific disease-focused schemes for occupational conditions.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#objectives-of-occupational-health-practice",
+    "href": "environment/occupational-health.html#objectives-of-occupational-health-practice",
+    "title": "Occupational Health",
+    "section": "Objectives of Occupational Health Practice",
+    "text": "Objectives of Occupational Health Practice\n🟡 SHOULD KNOW\nModern occupational health practice organizes around three objectives:\n\nMaintenance and promotion of workers’ health and working capacity\nImprovement of the working environment and work itself, to be conducive to safety and health\nDevelopment of work organizations and working cultures that support health, not just compliance with minimum safety standards",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#occupational-disease-and-the-levels-of-prevention",
+    "href": "environment/occupational-health.html#occupational-disease-and-the-levels-of-prevention",
+    "title": "Occupational Health",
+    "section": "Occupational Disease and the Levels of Prevention",
+    "text": "Occupational Disease and the Levels of Prevention\n🟡 SHOULD KNOW\nChapter 2’s levels of prevention apply directly to occupational health:\n\nPrimary — engineering controls (ventilation, dust suppression), personal protective equipment, pre-placement fitness assessment\nSecondary — periodic occupational health screening (e.g. chest X-rays for dust-exposed workers) to catch pneumoconiosis before advanced symptoms\nTertiary — rehabilitation and compensation (like the ESI scheme) once occupational disease has developed",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#the-global-burden-of-occupational-risk",
+    "href": "environment/occupational-health.html#the-global-burden-of-occupational-risk",
+    "title": "Occupational Health",
+    "section": "The Global Burden of Occupational Risk",
+    "text": "The Global Burden of Occupational Risk\n🟣 MAY KNOW\nThe WHO/ILO Joint Estimates project systematically quantifies the global disease burden attributable to occupational risk factors — 19 selected risks across 183 countries — providing the evidence base for prioritizing occupational health interventions the same way Chapter 16’s DALY framework prioritizes disease burden more broadly.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#from-occupational-health-to-healthy-workplaces",
+    "href": "environment/occupational-health.html#from-occupational-health-to-healthy-workplaces",
+    "title": "Occupational Health",
+    "section": "From Occupational Health to “Healthy Workplaces”",
+    "text": "From Occupational Health to “Healthy Workplaces”\n🟣 MAY KNOW\nOccupational health practice has evolved beyond preventing disease and injury toward a broader “healthy workplaces” framing — incorporating psychosocial well-being, work-life balance, and organizational culture as legitimate occupational health targets, not just physical hazard control — reflecting the same expansion from a purely biomedical to a holistic view of health traced across this curriculum since Chapter 1.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#self-check-question-1",
+    "href": "environment/occupational-health.html#self-check-question-1",
+    "title": "Occupational Health",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nThe 1950 ILO/WHO joint definition of occupational health emphasizes adapting:\n\nOnly the worker to the job\nWork to the worker, and the worker to the job\nOnly wages to productivity\nOnly machinery to safety codes",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#self-check-question-2",
+    "href": "environment/occupational-health.html#self-check-question-2",
+    "title": "Occupational Health",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWorkplace bullying and chronic work-related stress are classified as which type of occupational hazard?\n\nErgonomic\nBiological\nPsychosocial\nChemical",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#self-check-question-3",
+    "href": "environment/occupational-health.html#self-check-question-3",
+    "title": "Occupational Health",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA textile worker develops lung disease from long-term cotton dust exposure. This is:\n\nSilicosis\nAsbestosis\nByssinosis\nBagassosis",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#self-check-question-4",
+    "href": "environment/occupational-health.html#self-check-question-4",
+    "title": "Occupational Health",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nPeriodic chest X-ray screening for workers exposed to silica dust, aimed at detecting silicosis before advanced symptoms develop, is an example of:\n\nPrimary prevention\nSecondary prevention\nTertiary prevention\nPrimordial prevention",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#references",
+    "href": "environment/occupational-health.html#references",
+    "title": "Occupational Health",
+    "section": "References",
+    "text": "References\n\nInternational Labour Organization / World Health Organization. Joint ILO/WHO Committee on Occupational Health (1950; revised\n\n— definition and objectives.\n\nStatPearls. Pneumoconiosis.\nGovernment of India. Employees’ State Insurance Act, 1948.\nPMC. “Global, regional and national burden of disease attributable to 19 selected occupational risk factors… WHO/ILO Joint Estimates.”",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#thank-you",
+    "href": "environment/occupational-health.html#thank-you",
+    "title": "Occupational Health",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Genetics and Health\n← Previous | Home | Chapter 19/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
   }
 ]
