@@ -4883,5 +4883,197 @@
       "Health Programs & Populations",
       "Millennium Development Goals to Sustainable Development Goals"
     ]
+  },
+  {
+    "objectID": "programs/demography.html#home",
+    "href": "programs/demography.html#home",
+    "title": "Demography and Family Planning",
+    "section": "Welcome",
+    "text": "Welcome\nDemography and Family Planning\nLearning Objectives:\n\nDescribe the four stages of the demographic transition model\nDefine and distinguish CBR, CDR, TFR, GRR, and NRR\nExplain replacement-level fertility\nTrace the history of India’s family planning programme, 1952 to present\nState the goal of India’s National Population Policy 2000\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the demographic vocabulary that underlies population- level health planning, and traces India’s role as a pioneer in national family planning policy.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#the-demographic-transition-model",
+    "href": "programs/demography.html#the-demographic-transition-model",
+    "title": "Demography and Family Planning",
+    "section": "The Demographic Transition Model",
+    "text": "The Demographic Transition Model\n🟢 MUST KNOW\nA generalized description of how birth rates, death rates, and population growth change as a society moves from pre-industrial to industrialized, in four stages:\n\nStage 1 — High birth rate, high death rate → slow/stable growth (pre-industrial)\nStage 2 — Death rate falls (better sanitation/medicine), birth rate stays high → rapid population growth\nStage 3 — Birth rate begins to fall (urbanization, education, contraception) → growth slows\nStage 4 — Low birth rate, low death rate → stable population\n\nWhere most transitions stall or reverse today: some countries now describe a Stage 5, where birth rate falls below death rate, causing population decline — not part of the classical four-stage model but increasingly relevant.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#crude-birth-rate-and-crude-death-rate",
+    "href": "programs/demography.html#crude-birth-rate-and-crude-death-rate",
+    "title": "Demography and Family Planning",
+    "section": "Crude Birth Rate and Crude Death Rate",
+    "text": "Crude Birth Rate and Crude Death Rate\n🟢 MUST KNOW\nCrude Birth Rate (CBR) — live births per 1,000 mid-year population in a given year.\nCrude Death Rate (CDR) — deaths per 1,000 mid-year population in a given year.\nBoth are “crude” because they don’t adjust for the population’s age or sex structure — a country with an older population will show a higher CDR even with excellent health care, simply due to demographics.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#total-fertility-rate",
+    "href": "programs/demography.html#total-fertility-rate",
+    "title": "Demography and Family Planning",
+    "section": "Total Fertility Rate",
+    "text": "Total Fertility Rate\n🟢 MUST KNOW\nTotal Fertility Rate (TFR) — the average number of children a woman would bear over her lifetime, if she experienced the current age-specific fertility rates throughout her childbearing years.\nReplacement-level fertility — the TFR at which a population exactly replaces itself across generations (approximately 2.1 in most settings, accounting for child mortality and the sex ratio at birth). A country with TFR consistently below this level will eventually see its population decline, absent migration.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#gross-and-net-reproduction-rate",
+    "href": "programs/demography.html#gross-and-net-reproduction-rate",
+    "title": "Demography and Family Planning",
+    "section": "Gross and Net Reproduction Rate",
+    "text": "Gross and Net Reproduction Rate\n🟢 MUST KNOW\n\nGross Reproduction Rate (GRR) — like TFR, but counts only daughters a woman would have — a measure of generational replacement through the female line, ignoring mortality\nNet Reproduction Rate (NRR) — refines GRR further by also adjusting for the probability that daughters survive to their mother’s childbearing age; NRR = 1 means the population is exactly replacing itself generation to generation\n\nExam tip: GRR ignores mortality; NRR accounts for it — this is the key distinguishing feature between the two.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#indias-family-planning-programme-origins",
+    "href": "programs/demography.html#indias-family-planning-programme-origins",
+    "title": "Demography and Family Planning",
+    "section": "India’s Family Planning Programme: Origins",
+    "text": "India’s Family Planning Programme: Origins\n🟡 SHOULD KNOW\nIn 1952, India became the first country in the world to launch an official national family planning programme, aiming to reduce birth rates “to stabilize the population at a level consistent with the requirements of the national economy.”\n\n1966 — a separate Department of Family Planning created within the Ministry of Health\n1977 — following the coercive sterilization controversies of the Emergency period, the new government’s population policy explicitly ruled out compulsion, making the programme purely voluntary — a landmark and lasting policy shift",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#national-population-policy-2000",
+    "href": "programs/demography.html#national-population-policy-2000",
+    "title": "Demography and Family Planning",
+    "section": "National Population Policy 2000",
+    "text": "National Population Policy 2000\n🟡 SHOULD KNOW\nIndia’s National Population Policy (NPP) 2000 set its goals around:\n\nAddressing unmet need for contraception\nProviding free and compulsory school education up to age 14\nReducing infant and maternal mortality\nAchieving population stabilization by 2045\n\nNPP 2000 implementation was later integrated with the National Rural Health Mission (launched 2005) as the operational vehicle for delivering its goals, connecting demography policy directly to the health-systems architecture from Chapter 11.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#age-structure-and-the-population-pyramid",
+    "href": "programs/demography.html#age-structure-and-the-population-pyramid",
+    "title": "Demography and Family Planning",
+    "section": "Age Structure and the Population Pyramid",
+    "text": "Age Structure and the Population Pyramid\n🟣 MAY KNOW\nA population pyramid — a bar chart of population by age and sex — visually reflects a country’s demographic-transition stage: a wide base (many young people) indicates high fertility (early transition), while a more rectangular shape indicates low fertility and an ageing population (late transition). India’s own age structure varies significantly by state, reflecting different transition stages within one country.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#demographic-dividend",
+    "href": "programs/demography.html#demographic-dividend",
+    "title": "Demography and Family Planning",
+    "section": "Demographic Dividend",
+    "text": "Demographic Dividend\n🟣 MAY KNOW\nThe demographic dividend is the potential economic growth benefit that can arise when a country’s working-age population (15–64) is proportionally larger than its dependent population (children and elderly) — typically occurring during the middle stages of the demographic transition, as fertility falls but before the population ages substantially. Realizing this dividend depends on adequate education, employment, and health investment during that window.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#self-check-question-1",
+    "href": "programs/demography.html#self-check-question-1",
+    "title": "Demography and Family Planning",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nIn the demographic transition model, rapid population growth occurs primarily during which stage?\n\nStage 1\nStage 2\nStage 3\nStage 4",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#self-check-question-2",
+    "href": "programs/demography.html#self-check-question-2",
+    "title": "Demography and Family Planning",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich measure represents the average number of children a woman would bear over her lifetime at current age-specific fertility rates?\n\nCrude Birth Rate\nTotal Fertility Rate\nNet Reproduction Rate\nCrude Death Rate",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#self-check-question-3",
+    "href": "programs/demography.html#self-check-question-3",
+    "title": "Demography and Family Planning",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nThe key difference between Gross Reproduction Rate (GRR) and Net Reproduction Rate (NRR) is that NRR additionally accounts for:\n\nMale births\nMortality — the probability daughters survive to childbearing age\nMigration\nMarriage age",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#self-check-question-4",
+    "href": "programs/demography.html#self-check-question-4",
+    "title": "Demography and Family Planning",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nIndia launched its national family planning programme in:\n\n1946\n1952\n1966\n2000",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#self-check-question-5",
+    "href": "programs/demography.html#self-check-question-5",
+    "title": "Demography and Family Planning",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nFollowing the coercive sterilization controversies of the Emergency period, India’s 1977 population policy shift was to:\n\nIncrease government targets for sterilization\nRule out compulsion and make the programme purely voluntary\nEnd the family planning programme entirely\nTransfer family planning to state governments only",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#references",
+    "href": "programs/demography.html#references",
+    "title": "Demography and Family Planning",
+    "section": "References",
+    "text": "References\n\nOur World in Data. “Demographic transition: Why is rapid population growth a temporary phenomenon?”\nUnited Nations Statistics Division. Standard Demographic, Nutrition and Epidemiologic Terminology — CBR, CDR, TFR, GRR, NRR definitions.\nMinistry of Health & Family Welfare, Government of India. Family Planning — programme history, National Health Mission.\nUnited Nations Population Fund, India. National Population Policy 2000.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#thank-you",
+    "href": "programs/demography.html#thank-you",
+    "title": "Demography and Family Planning",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Preventive Medicine in Obstetrics, Paediatrics and Geriatrics\n← Previous | Home | Chapter 13/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
   }
 ]
