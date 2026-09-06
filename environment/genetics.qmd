@@ -1,0 +1,263 @@
+---
+title: "Genetics and Health"
+subtitle: "Inheritance, Consanguinity, and Genetic Counseling"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](occupational-health.html) | [Home](#home) | Chapter 20/26 | [Next Chapter →](../global/health-information.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Genetics and Health
+
+**Learning Objectives:**
+
+- Distinguish autosomal dominant, autosomal recessive, X-linked dominant, and X-linked recessive inheritance
+- Explain why consanguinity raises genetic disorder risk
+- Define genetic counseling and its role in community medicine
+- Describe India's approach to thalassemia carrier screening
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This final Environment chapter connects to Chapter 15's sickle cell
+disease discussion (also a single-gene recessive disorder) and closes
+out the Environment section before Health Information picks up the
+curriculum's final six chapters.
+:::
+
+---
+
+## Modes of Inheritance {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Four basic single-gene inheritance patterns:
+
+| Pattern | Copies needed | Example |
+|---|---|---|
+| **Autosomal dominant** | One copy, from either parent | Huntington's disease, achondroplasia, Marfan syndrome |
+| **Autosomal recessive** | Two copies, one from each parent | Sickle cell disease (Chapter 15), cystic fibrosis, thalassemia |
+| **X-linked dominant** | One copy causes disease in either sex | X-linked hypophosphatemic rickets |
+| **X-linked recessive** | One copy causes disease in males; two needed in females | Haemophilia A, Duchenne muscular dystrophy, red-green colour blindness |
+
+**Exam tip:** males need only one copy of an X-linked recessive variant
+to be affected (they have only one X chromosome), which is why these
+conditions are more common in males than females.
+
+---
+
+## Consanguinity and Genetic Disorder Risk {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Consanguinity** — marriage between close biological relatives —
+increases the chance that **both parents carry the same recessive gene
+variant**, raising the risk that their children inherit two copies and
+develop a recessive genetic disorder.
+
+- Studies from South Asia and the Middle East report up to a
+  **2.5-fold increased risk** of congenital disorders in consanguineous
+  populations
+- In India, consanguinity and endogamy (marrying within a defined
+  community), combined with falling infant mortality (more affected
+  children now surviving to be counted), have contributed to a **higher
+  observed prevalence of genetic disorders**
+
+**Direct link to Chapter 15:** this is the same underlying mechanism
+behind concentrated sickle cell disease prevalence in specific tribal
+populations.
+
+---
+
+## Genetic Counseling {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Genetic counseling** is a communication process providing information
+and support to individuals/families who have, or are at risk of, a
+genetic disorder — integrating family and medical history to assess
+recurrence risk, education about inheritance, and support for informed
+decision-making.
+
+**Community medicine role:** beyond the individual family, genetic
+counseling contributes to **reducing the genetic burden of disease in
+the community over time** — a population-level goal, not just an
+individual clinical service, consistent with community medicine's
+broader shift in unit of concern (Chapter 6) from patient to population.
+
+---
+
+## Thalassemia in India {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India carries a very large share of the global thalassemia burden:
+
+- Estimated **45 million carriers** of β-thalassemia nationally
+- Approximately **15,000 infants born with homozygous β-thalassemia**
+  each year — about **10% of all thalassemia births worldwide**
+- Carrier frequency varies sharply by community — from near 0% up to
+  **~17%** in specific ethnic/community groups (e.g. Sindhis, certain
+  Punjabi and Bengali communities, some tribal populations)
+
+**Screening strategies used in India:** antenatal carrier screening
+(most feasible in urban antenatal clinics), premarital screening,
+cascade screening (testing relatives of a known carrier), and newborn
+screening pilots (e.g. the UMMID project in Jharkhand).
+
+---
+
+## The Case for Universal Screening {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Given thalassemia's scale in India, public health literature has
+increasingly argued for a **universal (not just targeted) thalassemia
+screening programme** — reflecting the same population-strategy logic
+from Chapter 7 (Rose): a condition common enough across the general
+population may be better addressed by broad, systematic screening than
+by relying only on identifying "high-risk" families after the fact.
+
+---
+
+## Genetic Counseling Awareness Gaps {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Indian studies report **low awareness and utilization** of genetic
+counseling services, even among consanguineous couples who are at
+objectively higher risk — a structural gap similar to the mental health
+treatment gap (Chapter 10) and reinforcing Chapter 17/18's broader point
+that information availability alone doesn't guarantee uptake without
+active outreach, cultural sensitivity, and trust-building.
+
+---
+
+## Community Genetics {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+**Community genetics** is the applied field studying how genetic
+disorder patterns are shaped by a population's specific marriage
+practices (consanguinity, endogamy) and demographic history — distinct
+from clinical genetics' focus on individual patients, and closely
+related to the population-level epidemiological thinking introduced in
+Chapter 3.
+
+---
+
+## Newborn Screening Beyond Thalassemia {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Programmes like UMMID (Unique Methods of Management and treatment of
+Inherited Disorders) screen newborns for multiple inherited metabolic
+disorders simultaneously, not just haemoglobin disorders — reflecting
+the same multiphasic-screening logic introduced in the Foundations
+section's Screening chapter, applied here at the genetic/metabolic
+level rather than to adult chronic disease.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A disease requiring two copies of a variant gene — one from each
+parent — to manifest follows which inheritance pattern?
+
+- Autosomal dominant
+- [Autosomal recessive]{.correct data-explanation="Autosomal recessive conditions, like sickle cell disease and thalassemia, require two copies of the variant gene, one inherited from each parent."}
+- X-linked dominant
+- X-linked recessive
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Why does consanguinity increase the risk of recessive genetic disorders
+in offspring?
+
+- It increases mutation rates directly
+- [It increases the chance both parents carry the same recessive gene variant, inherited from a common ancestor]{.correct data-explanation="Consanguineous couples share more genetic ancestry, raising the probability that both partners carry, and pass on, the same recessive allele."}
+- It has no established effect on genetic disorder risk
+- It only affects X-linked conditions
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Approximately how many infants are born with homozygous β-thalassemia in
+India each year?
+
+- 1,500
+- [15,000]{.correct data-explanation="India records approximately 15,000 homozygous beta-thalassemia births per year -- about 10% of the global total."}
+- 150,000
+- 1,500,000
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Genetic counseling's role in community medicine, beyond individual
+family support, is best described as:
+
+- Diagnosing disease in symptomatic patients only
+- [Contributing to reducing the genetic burden of disease across the community over time]{.correct data-explanation="Genetic counseling is framed in community medicine as a population-level tool for reducing genetic disease burden, not solely an individual clinical service."}
+- Replacing the need for antenatal care
+- Eliminating all genetic disorders immediately
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. NCBI Bookshelf. *Understanding Genetics — Inheritance Patterns*.
+2. Journal of Genetics (Springer). "Endogamy, consanguinity and
+   community genetics."
+3. PMC. "Need for a universal thalassemia screening programme in India?
+   A public health perspective."
+4. Wikipedia / NIH. "Genetic counseling" — definition and process.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Health Information and Basic Medical Statistics
+
+[← Previous](occupational-health.html) | [Home](#home) | Chapter 20/26 | [Next Chapter →](../global/health-information.html)

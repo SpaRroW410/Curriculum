@@ -7,20 +7,27 @@ a checklist, not a schedule: no dates or owners, just what "done" means.
 
 ## 1. Project status
 
-The site structure, navigation, and deploy pipeline are in place. Four
-chapters are fully written and are the quality bar for everything else:
-`environment/env_health/module1_one_health.qmd`,
-`environment/env_health/module2_environment_health.qmd`, and the
-`environment/env_health/water/` series (7 modules + a 70-question quiz).
-Everything else linked from the navbar/sidebar — 23 chapters — is a 0-byte
-stub file. Three more chapters (Air, Light, Radiation under Environment)
-are named in body text but don't have files at all yet.
+**All 26 chapters in the curriculum are now written**, each a revealjs
+slide deck following a consistent convention: content tiered into
+Must Know / Should Know / May Know / Question slides (each its own
+pastel background colour, defined in `assets/slide_deck.css`), facts
+verified against primary/standard sources, 4–7 self-check MCQs via the
+`parmsam/quiz` plugin, and cross-references between chapters instead of
+duplicated content. `docs/` has been re-rendered for every page site-wide
+except `environment/env_health/water/module3_water_quality.qmd`, which
+still needs the R/DT/plotly dependency addressed (see below) before a
+full from-scratch render is possible in a sandboxed environment — it
+already renders fine wherever R + those packages are available locally.
+Three more chapters (Air, Light, Radiation under Environment) are named
+in `environment/environment-health.qmd`'s body text but still don't have
+files at all — an intentional decision deferred to the next section.
 
 ## 2. Technical to-dos
 
-- [ ] Run `quarto render` locally and commit the regenerated `docs/`. The
-      nav/sidebar wiring for the env_health content (done in the last
-      session) isn't live on the deployed site until this happens.
+- [x] ~~Run `quarto render` locally and commit the regenerated `docs/`~~
+      — done: every page's rendered output now reflects the current
+      navbar/sidebar, except `module3_water_quality.html` (blocked by
+      the R dependency below).
 - [ ] Verify GitHub repo Settings → Pages → Source is set to **"GitHub
       Actions"**. The fixed `.github/workflows/deploy-pages.yml` only
       serves the site if Pages is configured to use it instead of a
@@ -44,13 +51,11 @@ are named in body text but don't have files at all yet.
       and how the site is deployed, so a new contributor doesn't have to
       dig through commit history to get oriented.
 
-## 3. Content roadmap
+## 3. Content roadmap — ✅ all 26 chapters complete
 
-The 23 empty chapters, grouped by the site's existing five sections and
-suggested authoring order. Order follows the taught sequence already
-implied by `intro.qmd`'s Chapter 1–26 numbering; Environment's remaining
-stubs are lowest priority since that section already has the most
-finished content of any section.
+The 23 originally-empty chapters (plus the 3 already-finished env_health
+chapters and the 26th, International Health) are all written. Kept below
+for reference on the phasing and order used.
 
 ### Phase 1 — Foundations of Health & Epidemiology ✅ complete
 Everything downstream depends on the terms and methods defined here.
@@ -82,35 +87,44 @@ Everything downstream depends on the terms and methods defined here.
 - [x] `global/community-health.qmd`
 - [x] `global/international-health.qmd`
 
-### Phase 5 — Remaining Environment stubs
-- [ ] `environment/waste-management.qmd`
-- [ ] `environment/disaster-management.qmd`
-- [ ] `environment/occupational-health.qmd`
-- [ ] `environment/genetics.qmd`
+### Phase 5 — Remaining Environment stubs ✅ complete
+- [x] `environment/waste-management.qmd`
+- [x] `environment/disaster-management.qmd`
+- [x] `environment/occupational-health.qmd`
+- [x] `environment/genetics.qmd`
 
-## 4. Authoring template
+Chapter numbering note: these four are Chapters 17–20 per `intro.qmd`'s
+existing section order (Environment 16–20 precedes Global Perspectives
+21–26) — the Phase 4 chapters were originally mislabeled 16–21 when they
+were authored before these Environment stubs; that was corrected
+alongside writing Chapter 17.
 
-What "done" means for a chapter, based on the pattern already established
-in `environment/env_health/module1_one_health.qmd` and the
-`water/module*.qmd` series — use those as the reference for depth and
-format:
+## 4. Authoring template (the convention all 26 chapters now follow)
 
-- [ ] YAML header matching site conventions (`format: html`, `toc: true`,
-      `lightbox: auto`, matching theme)
-- [ ] Learning objectives / goals section
-- [ ] Core content with definitions, tables, and India-specific data and
-      programs where relevant (existing chapters lean heavily on Indian
-      public-health context — WHO/GoI standards, named national missions,
-      Census data, etc.)
-- [ ] References, linked back to / merged with `assets/references.qmd`
-- [ ] Optional: a revealjs quiz submodule for self-assessment, following
-      the `_extensions/parmsam/quiz` pattern used in
-      `environment/env_health/water/module9_quiz.qmd` — not mandatory for
-      every chapter
-- [ ] Nav entry added to `_quarto.yml` (both `navbar` and `sidebar`) and
-      the site re-rendered — so the chapter doesn't repeat the
-      "finished but not linked" problem found in the env_health content
-      before the last fix
+What "done" means for a chapter, as established across Chapters 1–26 and
+`environment/env_health/module1_one_health.qmd`:
+
+- [x] `format: revealjs`, `theme: serif`, `css: .../assets/slide_deck.css`,
+      `slide-number`, `chalkboard`, `preview-links`, `center`, `zoom`,
+      `parmsam/quiz` plugin
+- [x] A `## Welcome {#home}` slide with learning objectives
+- [x] Content tiered into Must Know (`#E3F2E1` mint) / Should Know
+      (`#FFF6DA` butter yellow) / May Know (`#E8E4F3` lavender) slides,
+      each with a text badge (not colour alone) — plus Question slides
+      (`#FDE8E8` coral) with 4–7 self-check MCQs via `.quiz-question` divs
+- [x] Facts verified against primary/standard sources (WHO, GoI
+      programme documentation, standard textbook topics) via web research
+      before writing
+- [x] Footer with Previous/Home/Chapter-number/Next links matching
+      `intro.qmd`'s 1–26 numbering, and cross-references to other
+      chapters instead of duplicating their content
+- [x] A References slide and a closing "Thank You" slide
+- [x] Nav entry already present in `_quarto.yml` (both `navbar` and
+      `sidebar`, pre-existing since the site's original scaffold) — no
+      further nav wiring needed
+- [x] Rendered individually with `quarto render <file>` and checked
+      (`data-background-color` slide counts, `git status` scoped to
+      expected files) before commit
 
 ## 5. Out of scope
 
