@@ -1,0 +1,301 @@
+---
+title: "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics"
+subtitle: "Life-Stage Preventive Care"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](demography.html) | [Home](#home) | Chapter 14/26 | [Next Chapter →](tribal-health.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Preventive Medicine in Obstetrics, Paediatrics and Geriatrics
+
+**Learning Objectives:**
+
+- Describe the WHO 2016 antenatal care model and its purpose
+- Define high-risk pregnancy and list its major risk factor categories
+- Explain the Under-Five Clinic concept and its symbolic triangle
+- Apply the levels of prevention to child and elderly preventive care
+- Describe the WHO Decade of Healthy Ageing framework
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter applies the levels-of-prevention framework from Chapter 2
+across three specific life stages, rather than introducing new
+prevention theory.
+:::
+
+---
+
+## Antenatal Care: The WHO 2016 Model {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+In 2016, WHO increased its recommended antenatal care from 4 to a
+**minimum of 8 contacts**, scheduled at approximately **12, 20, 26, 30,
+34, 36, 38, and 40 weeks** of gestation — one contact in the first
+trimester, two in the second, and five in the third.
+
+**Purpose:** provide respectful, individualized, person-centred care at
+every contact, combining effective clinical interventions with timely
+information and psychosocial/emotional support — not just a checklist of
+tests.
+
+---
+
+## High-Risk Pregnancy {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A **high-risk pregnancy** is one with pre-existing or current conditions
+that raise the risk of complications for mother, fetus, or newborn.
+Risk factors fall into five broad categories:
+
+- **Demographic** — age under 18 or over 35
+- **Adverse pregnancy history** — previous miscarriage, stillbirth, or
+  complication
+- **Medical complications** — hypertension, diabetes, kidney/autoimmune/
+  thyroid disease
+- **Pregnancy-related conditions** — arising during the current pregnancy
+- **Environmental/social determinants** — poverty, poor nutrition, low
+  education, unstable housing
+
+**Early identification** — ideally at the first antenatal contact —
+allows special monitoring and referral before complications become
+severe.
+
+---
+
+## The Under-Five Clinic {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The **Under-Five Clinic** (adapted from the Western "well-baby clinic"
+concept) is a single access point delivering preventive, promotive,
+curative, referral, and educational services together for children under
+five.
+
+**The symbolic triangle** used to teach this concept:
+
+- **Apex** — care during illness (curative)
+- **Left side** — adequate nutrition
+- **Right side** — immunization
+- **Central inner triangle** — family planning
+- **Border line** — health education for the mother
+
+---
+
+## Life-Stage Care and Levels of Prevention {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Chapter 2's levels of prevention apply directly across all three life
+stages in this chapter:
+
+| Level | Obstetrics | Paediatrics | Geriatrics |
+|---|---|---|---|
+| **Primary** | Folic acid supplementation pre-conception | Routine immunization | Fall-prevention advice |
+| **Secondary** | Antenatal risk screening | Growth monitoring, developmental screening | Screening for hypertension, diabetes, cognitive decline |
+| **Tertiary** | Managing a diagnosed complication | Rehabilitation after childhood illness/disability | Managing established chronic disease, preventing further decline |
+
+---
+
+## The WHO Decade of Healthy Ageing (2021–2030) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Proclaimed by the UN in December 2020, following WHO endorsement, with
+the vision that **all people live longer, healthier lives**. Its four
+action areas:
+
+1. Changing how we **think, feel, and act** toward age and ageing
+2. Developing communities that **foster older people's abilities**
+3. Delivering **person-centred, integrated care** and primary health
+   services responsive to older people
+4. Providing access to **long-term care** when needed
+
+Explicitly aligned with the 2030 Sustainable Development Agenda's
+principle of "leaving no one behind" (Chapter 12).
+
+---
+
+## Immunization Schedule Principles {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Rather than memorizing a full vaccine-by-vaccine schedule, the underlying
+principles matter most for exams:
+
+- Vaccines are timed to protect infants **as maternal antibody protection
+  wanes**, and before natural exposure risk rises
+- **Cold chain maintenance** (keeping vaccines at the correct temperature
+  from manufacture to administration) is essential to vaccine efficacy
+- **Universal Immunization Programme (UIP)** is India's platform
+  delivering the national schedule free of cost through the general
+  health system — the same primary-care infrastructure discussed in
+  Chapter 11
+
+---
+
+## Geriatric Preventive Screening Priorities {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Preventive care priorities shift with age — common geriatric screening
+targets include:
+
+- Hypertension, diabetes, and other NCDs (Chapter 7)
+- **Falls risk** — a leading cause of injury-related disability in older
+  adults
+- **Cognitive decline** — early detection of dementia
+- **Polypharmacy review** — older adults are disproportionately affected
+  by irrational medicine use (Chapter 8), given multiple concurrent
+  prescriptions
+
+---
+
+## Fetal Origins of Adult Disease {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+As introduced in the Nutrition chapter, the **Barker hypothesis** links
+poor fetal and early-childhood nutrition to higher adult NCD risk —
+meaning antenatal and under-five preventive care isn't only about
+short-term child survival, but also shapes a person's health trajectory
+decades later into adult and geriatric life.
+
+---
+
+## Continuum of Care Across the Lifespan {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+This chapter's three life stages are not isolated silos: RMNCH+A
+(Chapter 11) already frames maternal, newborn, child, and adolescent
+health as one continuum; the same logic extends further to encompass
+adult and geriatric preventive care — a person-centred health system
+should follow an individual across their entire life course, not treat
+each stage as a separate programme.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+The WHO 2016 antenatal care model recommends a minimum of how many
+contacts during pregnancy?
+
+- 4
+- 6
+- [8]{.correct data-explanation="WHO's 2016 model increased the recommended minimum from 4 to 8 antenatal contacts, spread across all three trimesters."}
+- 12
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+In the Under-Five Clinic's symbolic triangle, the apex represents:
+
+- Immunization
+- Nutrition
+- [Care during illness]{.correct data-explanation="The apex of the Under-Five Clinic triangle represents curative care during illness; the left and right sides represent nutrition and immunization respectively, with the central triangle for family planning."}
+- Family planning
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A pregnant woman aged 17 with a history of a previous stillbirth would be
+classified as:
+
+- Low-risk
+- [High-risk]{.correct data-explanation="Both young maternal age and an adverse pregnancy history (previous stillbirth) are established high-risk pregnancy factors requiring closer monitoring."}
+- Not requiring antenatal care
+- Only relevant to geriatric care
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+A national program screening older adults for early signs of dementia is
+an example of which level of prevention?
+
+- Primordial
+- Primary
+- [Secondary]{.correct data-explanation="Secondary prevention detects disease early, before it is fully clinically obvious — screening for early cognitive decline is a secondary prevention activity."}
+- Tertiary
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+The WHO Decade of Healthy Ageing (2021-2030) is explicitly aligned with:
+
+- The Alma-Ata Declaration only
+- The Bhore Committee recommendations
+- [The 2030 Sustainable Development Agenda]{.correct data-explanation="The Decade of Healthy Ageing is explicitly aligned with the 2030 Sustainable Development Agenda and its principle of leaving no one behind."}
+- India's National Population Policy 2000
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization (2016). *WHO Recommendations on Antenatal
+   Care for a Positive Pregnancy Experience*.
+2. Cleveland Clinic. "High-Risk Pregnancy: Age, Complications &
+   Management."
+3. Nursing College teaching materials. "Under-Five's Clinic" — the
+   symbolic triangle model.
+4. World Health Organization (2020). *Decade of Healthy Ageing
+   2021–2030*.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Tribal Health in India
+
+[← Previous](demography.html) | [Home](#home) | Chapter 14/26 | [Next Chapter →](tribal-health.html)
