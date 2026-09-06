@@ -1,0 +1,260 @@
+---
+title: "Communication for Health Education"
+subtitle: "From Information to Behaviour Change"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](health-information.html) | [Home](#home) | Chapter 17/26 | [Next Chapter →](social-sciences.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Communication for Health Education
+
+**Learning Objectives:**
+
+- Describe the basic sender-message-channel-receiver-feedback communication model
+- Distinguish IEC from BCC
+- List and apply the six components of the Health Belief Model
+- Compare individual, group, and mass approaches to health education
+- Explain why one-way information provision is often insufficient for behaviour change
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter is the theory behind why health messaging (immunization
+uptake, sanitation behaviour, NCD risk-factor reduction) succeeds or
+fails, connecting back to nearly every earlier chapter's programmes.
+:::
+
+---
+
+## The Basic Communication Process {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Every act of health communication involves the same core elements:
+
+- **Sender** — initiates and encodes the message
+- **Message** — the content being communicated
+- **Channel** — the medium carrying it (spoken, written, visual,
+  electronic)
+- **Receiver** — decodes and interprets the message
+- **Feedback** — the receiver's response, allowing the sender to confirm
+  or correct how the message landed
+- **Noise** — anything that distorts or interferes with the message along
+  the way (language barriers, distraction, competing beliefs)
+
+**Key principle:** communication is a **cycle**, not a one-shot
+transmission — feedback is what makes it two-way.
+
+---
+
+## IEC vs. BCC {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **IEC (Information, Education, Communication)** — provides factual
+  information and explains why it matters, largely as a **one-way**
+  broadcast (posters, radio spots, pamphlets), on the assumption that
+  informed people will act on what they learn
+- **BCC (Behaviour Change Communication)** — recognizes that information
+  alone is often not enough; works as a **two-way, dialogic** process
+  that also addresses real-world barriers to change, grounded in
+  behavioural theory (like the Health Belief Model below)
+
+**The shift IEC → BCC mirrors the shift** from a purely biomedical view
+of health communication to one that treats behaviour as shaped by more
+than knowledge alone — the same broader lesson as Chapter 1's shift from
+a biomedical to holistic definition of health.
+
+---
+
+## The Health Belief Model {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A widely used framework explaining why people do or don't take a health
+action, built on six components:
+
+- **Perceived susceptibility** — "Could this happen to me?"
+- **Perceived severity** — "How serious would it be if it did?"
+- **Perceived benefits** — "Would taking action actually help?"
+- **Perceived barriers** — "What's stopping me / what would it cost me?"
+- **Cues to action** — a trigger prompting the behaviour (a symptom, a
+  media campaign, a provider's advice)
+- **Self-efficacy** — confidence in one's own ability to actually carry
+  out the action
+
+**Practical use:** designing an effective health message means
+addressing more than one of these components at once — e.g. a message
+raising perceived severity without also raising self-efficacy can simply
+produce anxiety without behaviour change.
+
+---
+
+## Methods of Health Education {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Health education is delivered through three broad approaches, each with
+different reach and depth trade-offs:
+
+- **Individual approach** — one-on-one counselling (highest depth/
+  personalization, lowest reach — e.g. a provider counselling a patient)
+- **Group approach** — group discussions, demonstrations, or health camps
+  (moderate reach and depth — e.g. an Anganwadi nutrition demonstration)
+- **Mass approach** — radio, television, social media, posters (highest
+  reach, lowest personalization — used for broad awareness campaigns)
+
+**No single method suits every goal** — awareness campaigns favour mass
+approaches; sustained behaviour change (BCC) usually needs individual or
+group-level engagement as well.
+
+---
+
+## Why Information Alone Often Fails {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Purely IEC-style, one-way messaging tends to underperform when:
+
+- **Perceived barriers** are structural, not just informational (e.g.
+  cost, distance, social stigma) — no amount of awareness removes a real
+  practical obstacle
+- **Self-efficacy is low** — people may believe an action is beneficial
+  but doubt their own ability to sustain it
+- The message conflicts with existing **cultural or social norms** —
+  addressed further in the next chapter's discussion of medicine and
+  social sciences
+
+This is the core rationale for BCC's more dialogic, barrier-addressing
+approach over pure information broadcast.
+
+---
+
+## Social and Behaviour Change Communication (SBCC) {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+More recent practice has evolved IEC/BCC further into **Social and
+Behaviour Change Communication (SBCC)** — explicitly incorporating social
+and community-level influences (norms, peer networks, community leaders)
+alongside individual-level behaviour-change theory, rather than treating
+health communication as only an individual-level psychological process.
+
+---
+
+## Communication Models: Transmission vs. Transactional {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Communication theory distinguishes a simple **transmission model**
+(sender → message → receiver, largely one-way) from a **transactional
+model**, where sender and receiver continuously exchange and adapt roles
+in real time — the theoretical basis for why effective health education,
+especially BCC, functions best as an ongoing dialogue rather than a
+scripted broadcast.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+In the basic communication model, the element that allows the sender to
+know whether a message was understood correctly is:
+
+- Noise
+- Channel
+- [Feedback]{.correct data-explanation="Feedback is the receiver's response back to the sender, which is what turns communication into a two-way cycle rather than a one-shot transmission."}
+- Encoding
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Compared to IEC, BCC is distinguished mainly by being:
+
+- Purely one-way and information-focused
+- [Two-way, dialogic, and focused on addressing real-world barriers to behaviour change]{.correct data-explanation="BCC moves beyond IEC's one-way information broadcast to a two-way process grounded in behavioural theory, explicitly addressing barriers to change."}
+- Used only for infectious disease campaigns
+- Identical to mass media messaging
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A person believes quitting smoking would reduce their health risk, but
+doubts they have the willpower to actually quit. This reflects low:
+
+- Perceived susceptibility
+- Perceived severity
+- [Self-efficacy]{.correct data-explanation="Self-efficacy is confidence in one's own ability to carry out the action — distinct from perceived benefits, which this person already holds."}
+- Perceived barriers
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Which health education approach offers the widest reach but the least
+personalization?
+
+- Individual counselling
+- Group demonstration
+- [Mass approach (radio, TV, social media)]{.correct data-explanation="Mass approaches maximize reach at the cost of personalization, the opposite trade-off from individual counselling."}
+- Home visits
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. StatPearls. *The Health Belief Model of Behavior Change*.
+2. National Institute of Health and Family Welfare (NIHFW), India.
+   *Behaviour Change Communication (BCC) and Information, Education and
+   Communication (IEC)*.
+3. OpenStax. *Fundamentals of Nursing* — Models of Communication.
+4. Journalism University. "The Evolution from IEC and BCC to SBCC: A
+   Strategic Shift in Communication."
+
+---
+
+## Thank You!
+
+**Next Chapter:** Medicine and Social Sciences
+
+[← Previous](health-information.html) | [Home](#home) | Chapter 17/26 | [Next Chapter →](social-sciences.html)
