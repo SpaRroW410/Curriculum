@@ -13,34 +13,32 @@ Must Know / Should Know / May Know / Question slides (each its own
 pastel background colour, defined in `assets/slide_deck.css`), facts
 verified against primary/standard sources, 4–7 self-check MCQs via the
 `parmsam/quiz` plugin, and cross-references between chapters instead of
-duplicated content. `docs/` has been re-rendered for every page site-wide
-except `environment/env_health/water/module3_water_quality.qmd`, which
-still needs the R/DT/plotly dependency addressed (see below) before a
-full from-scratch render is possible in a sandboxed environment — it
-already renders fine wherever R + those packages are available locally.
-Three more chapters (Air, Light, Radiation under Environment) are named
-in `environment/environment-health.qmd`'s body text but still don't have
+duplicated content. `docs/` is fully up to date: a complete from-scratch
+`quarto render` of all 41 pages now succeeds, with no R installation
+required anywhere in the project (see below). Three more chapters (Air,
+Light, Radiation under Environment) are named in
+`environment/environment-health.qmd`'s body text but still don't have
 files at all — an intentional decision deferred to the next section.
 
 ## 2. Technical to-dos
 
 - [x] ~~Run `quarto render` locally and commit the regenerated `docs/`~~
-      — done: every page's rendered output now reflects the current
-      navbar/sidebar, except `module3_water_quality.html` (blocked by
-      the R dependency below).
+      — done, full site.
 - [ ] Verify GitHub repo Settings → Pages → Source is set to **"GitHub
       Actions"**. The fixed `.github/workflows/deploy-pages.yml` only
       serves the site if Pages is configured to use it instead of a
       branch-based deploy.
-- [ ] Resolve the R/`DT`/`plotly` dependency in
-      `environment/env_health/water/module3_water_quality.qmd`. It's the
-      one file that currently blocks a from-scratch `quarto render` (CRAN
-      isn't reachable from a sandboxed CI-like environment, which is how
-      this was discovered). Two options — pick one:
-      - (a) Keep it as-is and document that rendering requires a local R
-        install with `DT` and `plotly`, or
-      - (b) Replace the two R chunks with a static Quarto/markdown table
-        and a non-R chart, dropping the R dependency entirely.
+- [x] ~~Resolve the R/`DT`/`plotly` dependency in
+      `environment/env_health/water/module3_water_quality.qmd`~~ — done:
+      replaced the DT table with a plain markdown table and the plotly
+      chart with a hand-built inline SVG (log-scale, colour-coded,
+      native tooltips) — same data and visuals, zero R dependency.
+      Verified with a full from-scratch site render (all 41 pages) and
+      headless-browser screenshots of both the new table and chart
+      slides. This also let a stray `docs/ROADMAP.html` get caught and
+      excluded via `project.render` in `_quarto.yml`, and dropped several
+      now-unused DT/plotly/jQuery/crosstalk JS libraries from
+      `docs/site_libs/`.
 - [ ] Decide what to do about the three unfiled Environment chapters (Air
       and Health, Light and Health, Radiation and Health) named in
       `environment/environment-health.qmd`'s Chapter Listing with no file
