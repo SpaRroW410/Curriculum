@@ -1,0 +1,271 @@
+---
+title: "Millennium Development Goals to Sustainable Development Goals"
+subtitle: "From Eight Focused Goals to a Universal Agenda"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](health-programmes.html) | [Home](#home) | Chapter 12/26 | [Next Chapter →](demography.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Millennium Development Goals to Sustainable Development Goals
+
+**Learning Objectives:**
+
+- List the 8 Millennium Development Goals and identify the three explicitly health-focused ones
+- State the key SDG 3 health targets
+- Explain why the global development agenda moved from MDGs to SDGs
+- Distinguish the scope and design philosophy of the two frameworks
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Chapter 1 already placed "Health for All" on the MDG->SDG timeline, and
+Chapter 7 already introduced SDG 3.4 in the NCD context. This chapter
+gives the full picture both of those referenced without repeating either.
+:::
+
+---
+
+## The Eight Millennium Development Goals (2000–2015) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+1. Eradicate extreme poverty and hunger
+2. Achieve universal primary education
+3. Promote gender equality and empower women
+4. **Reduce child mortality**
+5. **Improve maternal health**
+6. **Combat HIV/AIDS, malaria, and other diseases**
+7. Ensure environmental sustainability
+8. Develop a global partnership for development
+
+**Three goals were explicitly health-focused: Goals 4, 5, and 6** — though
+several others (poverty/hunger, environment, global partnership) were
+also tracked using health-related indicators.
+
+---
+
+## Key MDG Health Targets {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Goal 4 (child mortality):** reduce the **under-five mortality rate by
+  two-thirds** between 1990 and 2015
+- **Goal 6 (HIV/AIDS, malaria, other diseases):** halt and begin to
+  reverse the spread of HIV/AIDS by 2015; achieve **universal access to
+  HIV treatment** by 2010; halt and begin to reverse malaria and other
+  major diseases by 2015
+
+**Result:** the MDGs galvanized unprecedented global attention, funding,
+and accountability on this focused set of concerns, with substantial —
+though incomplete — progress by 2015.
+
+---
+
+## The Seventeen Sustainable Development Goals (2015–2030) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Adopted by all UN member states in September 2015, the SDGs comprise
+**17 goals and 169 targets**, applying **universally to all countries**
+(not only low- and middle-income countries, as the MDGs largely did).
+
+Health sits at **SDG 3: Good Health and Well-being** — "ensure healthy
+lives and promote well-being for all at all ages" — with **13 targets**
+covering a much broader spectrum than the three MDG health goals.
+
+---
+
+## Key SDG 3 Targets {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Maternal mortality:** reduce the global ratio to **below 70 per
+  100,000 live births** by 2030
+- **Child mortality:** end preventable newborn/under-5 deaths — targets
+  of **≤12 neonatal deaths per 1,000** and **≤25 under-5 deaths per
+  1,000** live births
+- **Communicable disease:** end the epidemics of AIDS, tuberculosis,
+  malaria, and neglected tropical diseases, and combat hepatitis and
+  water-borne disease
+- **SDG 3.4:** reduce premature NCD mortality by one-third, and promote
+  mental health *(introduced already in the NCD chapter)*
+- **Universal Health Coverage (UHC)** and access to safe, effective
+  medicines and vaccines for all
+
+---
+
+## Why the Agenda Broadened {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| | MDGs | SDGs |
+|---|---|---|
+| **Scope** | 8 goals, narrowly focused | 17 goals, 169 targets, broad |
+| **Applies to** | Primarily developing countries | Universally, all countries |
+| **Process** | Perceived as top-down (set by experts/UN) | Developed through inclusive, participatory consultation |
+| **Health coverage** | 3 goals: child, maternal, infectious disease | 1 goal (SDG 3), but covering both communicable AND non-communicable disease, injuries, and UHC |
+
+The shift reflects a recognition that health outcomes depend on
+interlocking sectors (poverty, education, environment, inequality) —
+consistent with the multifactorial-causation and social-determinants
+ideas from earlier chapters.
+
+---
+
+## Criticism of the SDG Approach {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The SDGs' breadth is also their most common criticism: with 17 goals and
+169 targets, analysts argue the framework is **less focused and harder to
+measure** than the MDGs, risking diffused attention and resources across
+too many priorities at once — a direct trade-off against the MDGs'
+narrower, more trackable design.
+
+---
+
+## The Paradigm-Shift Challenges {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Achieving the SDG 3 health agenda has been described as requiring a
+genuine paradigm shift across five challenges: intersectoral leadership
+on the structural drivers of health, shifting focus from **treatment to
+prevention**, addressing **commercial determinants** of ill-health (e.g.
+tobacco, alcohol, ultra-processed food industries), integrating
+**rights-based approaches**, and strengthening civic engagement and
+accountability.
+
+---
+
+## India's MDG-to-SDG Transition {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+India, alongside other countries, undertook a formal national
+consultation process on transitioning its own monitoring and planning
+systems from MDG to SDG indicators — reflecting that the SDGs, unlike the
+MDGs, require every country (not only lower-income ones) to track and
+report progress against the same global framework.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Which THREE of the eight MDGs were explicitly health-focused?
+
+- Goals 1, 2, 3
+- [Goals 4, 5, 6]{.correct data-explanation="Goal 4 (reduce child mortality), Goal 5 (improve maternal health), and Goal 6 (combat HIV/AIDS, malaria and other diseases) were the three explicitly health-focused MDGs."}
+- Goals 6, 7, 8
+- All eight goals equally
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The MDG target for child mortality (Goal 4) was to:
+
+- Eliminate all child deaths by 2015
+- [Reduce the under-five mortality rate by two-thirds between 1990 and 2015]{.correct data-explanation="MDG Target 4A specifically called for a two-thirds reduction in the under-five mortality rate, from a 1990 baseline, by 2015."}
+- Halve maternal mortality
+- Achieve universal childhood vaccination
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Compared to the MDGs, the SDGs are distinguished by being:
+
+- Narrower and only for high-income countries
+- [Broader in scope and universally applicable to all countries]{.correct data-explanation="The SDGs comprise 17 goals/169 targets and, unlike the MDGs, apply universally to all UN member states rather than primarily developing countries."}
+- Focused only on non-communicable disease
+- A replacement for the WHO Constitution
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Under SDG 3, the target for global maternal mortality ratio by 2030 is:
+
+- Below 200 per 100,000 live births
+- [Below 70 per 100,000 live births]{.correct data-explanation="SDG 3 targets reducing the global maternal mortality ratio to less than 70 per 100,000 live births by 2030."}
+- Below 12 per 100,000 live births
+- Zero maternal deaths worldwide
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+A commonly cited criticism of the SDG framework, compared to the MDGs,
+is that it:
+
+- Ignores non-communicable disease entirely
+- [Is so broad (17 goals, 169 targets) that it risks being harder to focus on and measure]{.correct data-explanation="The SDGs' comprehensiveness is frequently criticized as overreach, diffusing focus and measurability compared to the MDGs' narrower, more trackable set of goals."}
+- Applies only to developing countries
+- Was developed without any public consultation
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *Millennium Development Goals (MDGs)* —
+   fact sheet.
+2. United Nations. *Sustainable Development Goals* — Goal 3: Good Health
+   and Well-being.
+3. Globalization and Health. "Health in the sustainable development
+   goals: ready for a paradigm shift?"
+4. World Health Organization, India. "National consultation on
+   Transitioning from MDGs to SDGs" (2017).
+
+---
+
+## Thank You!
+
+**Next Chapter:** Demography and Family Planning
+
+[← Previous](health-programmes.html) | [Home](#home) | Chapter 12/26 | [Next Chapter →](demography.html)
