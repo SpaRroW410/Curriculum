@@ -3,6 +3,10 @@ project:
   output-dir: docs
   resources:
     - .nojekyll
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+    - "!ROADMAP.md"
 
 website:
   title: "Social and Public health"

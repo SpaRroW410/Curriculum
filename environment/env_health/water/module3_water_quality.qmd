@@ -4,7 +4,7 @@ subtitle: "WHO Guidelines and Health-Risk Assessment"
 format:
   revealjs:
     theme: serif
-    css: custom.css
+    css: ../../assets/slide_deck.css
     slide-number: true
     navigation-mode: linear
     code-copy: true
@@ -561,95 +561,128 @@ There's no "safe" dose for stochastic effects (cancer)—risk exists at any expo
 
 ---
 
-## WHO Guideline Value Derivation Summary
+## WHO Guideline Value Derivation Summary {.smaller}
 
 ### Comprehensive Table
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
+| Parameter | Category | Guideline | Primary Health Effect | Source |
+|---|---|---|---|---|
+| Arsenic | Inorganic | 0.01 mg/L | Cancer (skin, lung, bladder) | WHO 2011 |
+| Lead | Inorganic | 0.01 mg/L | Neurodevelopmental delays | WHO 2011 |
+| Fluoride | Inorganic | 1.5 mg/L | Dental/skeletal fluorosis | WHO 2011 |
+| Nitrate | Inorganic | 50 mg/L | Methemoglobinemia (infants) | WHO 2011 |
+| Benzene | Organic | 10 µg/L | Leukemia | WHO 2011 |
+| Benzo[a]pyrene | PAH | 0.7 µg/L | Cancer | WHO 2011 |
+| Gross Alpha | Radiological | 0.5 Bq/L | Radiation-induced cancer | WHO 2011 |
+| Gross Beta | Radiological | 1.0 Bq/L | Radiation-induced cancer | WHO 2011 |
 
-library(DT)
-
-guidelines <- data.frame(
-  Parameter = c("Arsenic", "Lead", "Fluoride", "Nitrate", "Benzene", 
-                "Benzo[a]pyrene", "Gross Alpha", "Gross Beta"),
-  Category = c("Inorganic", "Inorganic", "Inorganic", "Inorganic", 
-               "Organic", "PAH", "Radiological", "Radiological"),
-  Guideline = c("0.01 mg/L", "0.01 mg/L", "1.5 mg/L", "50 mg/L", 
-                "10 µg/L", "0.7 µg/L", "0.5 Bq/L", "1.0 Bq/L"),
-  Primary_Health_Effect = c("Cancer (skin, lung, bladder)", 
-                            "Neurodevelopmental delays", 
-                            "Dental/skeletal fluorosis", 
-                            "Methemoglobinemia (infants)", 
-                            "Leukemia", 
-                            "Cancer", 
-                            "Radiation-induced cancer", 
-                            "Radiation-induced cancer"),
-  Source = rep("WHO 2011", 8)
-)
-
-datatable(guidelines, 
-          options = list(pageLength = 8, dom = 't'),
-          class = 'compact',
-          caption = "Selected WHO Guidelines for Drinking Water Quality")
-```
+: Selected WHO Guidelines for Drinking Water Quality {.compact}
 
 *Full list includes 100+ parameters. This table shows high-priority contaminants.*
 
 ---
 
-## Interactive Visualization: Chemical Guideline Values
+## Visualization: Chemical Guideline Values
 
 ### Comparative Analysis
 
-```{r}
-#| echo: false
-#| message: false
-#| warning: false
-#| fig-width: 10
-#| fig-height: 6
-
-library(plotly)
-
-chemicals_data <- data.frame(
-  Chemical = c("Arsenic", "Lead", "Mercury", "Cadmium", "Chromium", 
-               "Fluoride", "Nitrate", "Selenium", "Antimony", "Nickel"),
-  Limit_mg_L = c(0.01, 0.01, 0.006, 0.003, 0.05, 
-                 1.5, 50, 0.04, 0.02, 0.07),
-  Toxicity = c("Very High", "Very High", "Very High", "Very High", "Moderate",
-               "Moderate", "Moderate", "High", "Moderate", "Moderate"),
-  log_Limit = log10(c(0.01, 0.01, 0.006, 0.003, 0.05, 
-                      1.5, 50, 0.04, 0.02, 0.07))
-)
-
-# Color palette
-colors <- c("Very High" = "#dc3545", "High" = "#fd7e14", "Moderate" = "#ffc107")
-
-plot_ly(chemicals_data, 
-        x = ~Chemical, 
-        y = ~Limit_mg_L, 
-        type = 'bar',
-        color = ~Toxicity,
-        colors = colors,
-        text = ~paste(Chemical, "<br>Limit:", Limit_mg_L, "mg/L<br>Toxicity:", Toxicity),
-        hoverinfo = 'text') %>%
-  layout(title = list(text = "WHO Chemical Guideline Values for Drinking Water",
-                      font = list(size = 16)),
-         yaxis = list(title = "Guideline Value (mg/L)", 
-                     type = "log",
-                     tickformat = ".3f"),
-         xaxis = list(title = ""),
-         margin = list(b = 100),
-         showlegend = TRUE,
-         legend = list(title = list(text = "Toxicity Level")))
+```{=html}
+<svg viewBox="0 0 720 420" width="100%" height="auto" role="img" aria-labelledby="chem-chart-title chem-chart-desc" style="max-width:720px;display:block;margin:0 auto;font-family:Georgia,serif;">
+<title id="chem-chart-title">WHO Chemical Guideline Values for Drinking Water</title>
+<desc id="chem-chart-desc">Bar chart of WHO drinking-water guideline values (mg/L, log scale) for ten chemicals, colour-coded by toxicity level.</desc>
+<rect x="0" y="0" width="720" height="420" fill="none"/>
+<line x1="70" y1="330.0" x2="700" y2="330.0" stroke="#ddd" stroke-width="1"/>
+<text x="62" y="334.0" text-anchor="end" font-size="12" fill="#333">0.001</text>
+<line x1="70" y1="270.0" x2="700" y2="270.0" stroke="#ddd" stroke-width="1"/>
+<text x="62" y="274.0" text-anchor="end" font-size="12" fill="#333">0.01</text>
+<line x1="70" y1="210.0" x2="700" y2="210.0" stroke="#ddd" stroke-width="1"/>
+<text x="62" y="214.0" text-anchor="end" font-size="12" fill="#333">0.1</text>
+<line x1="70" y1="150.0" x2="700" y2="150.0" stroke="#ddd" stroke-width="1"/>
+<text x="62" y="154.0" text-anchor="end" font-size="12" fill="#333">1</text>
+<line x1="70" y1="90.0" x2="700" y2="90.0" stroke="#ddd" stroke-width="1"/>
+<text x="62" y="94.0" text-anchor="end" font-size="12" fill="#333">10</text>
+<line x1="70" y1="30.0" x2="700" y2="30.0" stroke="#ddd" stroke-width="1"/>
+<text x="62" y="34.0" text-anchor="end" font-size="12" fill="#333">100</text>
+<line x1="70" y1="30" x2="70" y2="330" stroke="#333" stroke-width="1.5"/>
+<line x1="70" y1="330" x2="700" y2="330" stroke="#333" stroke-width="1.5"/>
+<text x="18" y="180.0" text-anchor="middle" font-size="12" fill="#333" transform="rotate(-90 18 180.0)">Guideline Value (mg/L, log scale)</text>
+<g>
+<title>Arsenic: 0.01 mg/L (Very High toxicity)</title>
+<rect x="84.2" y="270.0" width="34.7" height="60.0" fill="#dc3545" rx="2"/>
+<text x="101.5" y="264.0" text-anchor="middle" font-size="11" fill="#222">0.01</text>
+<text x="101.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 101.5 344.0)">Arsenic</text>
+</g>
+<g>
+<title>Lead: 0.01 mg/L (Very High toxicity)</title>
+<rect x="147.2" y="270.0" width="34.7" height="60.0" fill="#dc3545" rx="2"/>
+<text x="164.5" y="264.0" text-anchor="middle" font-size="11" fill="#222">0.01</text>
+<text x="164.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 164.5 344.0)">Lead</text>
+</g>
+<g>
+<title>Mercury: 0.006 mg/L (Very High toxicity)</title>
+<rect x="210.2" y="283.3" width="34.7" height="46.7" fill="#dc3545" rx="2"/>
+<text x="227.5" y="277.3" text-anchor="middle" font-size="11" fill="#222">0.006</text>
+<text x="227.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 227.5 344.0)">Mercury</text>
+</g>
+<g>
+<title>Cadmium: 0.003 mg/L (Very High toxicity)</title>
+<rect x="273.2" y="301.4" width="34.7" height="28.6" fill="#dc3545" rx="2"/>
+<text x="290.5" y="295.4" text-anchor="middle" font-size="11" fill="#222">0.003</text>
+<text x="290.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 290.5 344.0)">Cadmium</text>
+</g>
+<g>
+<title>Chromium: 0.05 mg/L (Moderate toxicity)</title>
+<rect x="336.2" y="228.1" width="34.7" height="101.9" fill="#ffc107" rx="2"/>
+<text x="353.5" y="222.1" text-anchor="middle" font-size="11" fill="#222">0.05</text>
+<text x="353.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 353.5 344.0)">Chromium</text>
+</g>
+<g>
+<title>Fluoride: 1.5 mg/L (Moderate toxicity)</title>
+<rect x="399.2" y="139.4" width="34.7" height="190.6" fill="#ffc107" rx="2"/>
+<text x="416.5" y="133.4" text-anchor="middle" font-size="11" fill="#222">1.5</text>
+<text x="416.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 416.5 344.0)">Fluoride</text>
+</g>
+<g>
+<title>Nitrate: 50 mg/L (Moderate toxicity)</title>
+<rect x="462.2" y="48.1" width="34.7" height="281.9" fill="#ffc107" rx="2"/>
+<text x="479.5" y="42.1" text-anchor="middle" font-size="11" fill="#222">50</text>
+<text x="479.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 479.5 344.0)">Nitrate</text>
+</g>
+<g>
+<title>Selenium: 0.04 mg/L (High toxicity)</title>
+<rect x="525.2" y="233.9" width="34.7" height="96.1" fill="#fd7e14" rx="2"/>
+<text x="542.5" y="227.9" text-anchor="middle" font-size="11" fill="#222">0.04</text>
+<text x="542.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 542.5 344.0)">Selenium</text>
+</g>
+<g>
+<title>Antimony: 0.02 mg/L (Moderate toxicity)</title>
+<rect x="588.2" y="251.9" width="34.7" height="78.1" fill="#ffc107" rx="2"/>
+<text x="605.5" y="245.9" text-anchor="middle" font-size="11" fill="#222">0.02</text>
+<text x="605.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 605.5 344.0)">Antimony</text>
+</g>
+<g>
+<title>Nickel: 0.07 mg/L (Moderate toxicity)</title>
+<rect x="651.2" y="219.3" width="34.7" height="110.7" fill="#ffc107" rx="2"/>
+<text x="668.5" y="213.3" text-anchor="middle" font-size="11" fill="#222">0.07</text>
+<text x="668.5" y="344.0" text-anchor="end" font-size="12" fill="#333" transform="rotate(-40 668.5 344.0)">Nickel</text>
+</g>
+<rect x="70" y="4" width="14" height="14" fill="#dc3545" rx="2"/>
+<text x="90" y="15" font-size="12" fill="#333">Very High toxicity</text>
+<rect x="210" y="4" width="14" height="14" fill="#fd7e14" rx="2"/>
+<text x="230" y="15" font-size="12" fill="#333">High toxicity</text>
+<rect x="350" y="4" width="14" height="14" fill="#ffc107" rx="2"/>
+<text x="370" y="15" font-size="12" fill="#333">Moderate toxicity</text>
+</svg>
 ```
 
 *Source: WHO Guidelines for Drinking Water Quality (2011, updated 2017)*
 
 ::: {.notes}
-This interactive Plotly chart shows guideline values on a logarithmic scale due to vast differences (0.003 mg/L cadmium vs. 50 mg/L nitrate). Very high toxicity chemicals (heavy metals) have strictest limits. Hover over bars for details. This is the ONE Plotly chart included per your specifications.
+This chart shows guideline values on a logarithmic scale due to vast
+differences (0.003 mg/L cadmium vs. 50 mg/L nitrate). Very high toxicity
+chemicals (heavy metals) have the strictest limits. Hover over a bar to
+see its exact value and toxicity level (native SVG tooltip — no
+JavaScript library required).
 :::
 
 ---
