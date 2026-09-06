@@ -1,0 +1,255 @@
+---
+title: "Disaster Management"
+subtitle: "Classification, the Management Cycle, and India's Institutional Framework"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](waste-management.html) | [Home](#home) | Chapter 18/26 | [Next Chapter →](occupational-health.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Disaster Management
+
+**Learning Objectives:**
+
+- Classify disasters as natural vs. man-made, and internal vs. external
+- Describe the four phases of the disaster management cycle
+- Outline India's Disaster Management Act, 2005 and its authority structure
+- Apply the levels-of-prevention framework to disaster mitigation
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter reuses the levels-of-prevention framework (Chapter 2) in a
+new context: mitigation and preparedness act before a disaster's
+"pathogenesis," while response and recovery act after.
+:::
+
+---
+
+## Classifying Disasters {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Natural disasters** — arising from forces of nature: weather events
+  (cyclones, floods, droughts), geological events (earthquakes,
+  landslides), and epidemiological events (epidemics)
+- **Man-made disasters** — directly attributable to human action: armed
+  conflict, industrial/technological accidents (e.g. chemical or nuclear
+  incidents), severe pollution, and bioterrorism
+
+A second, independent classification by **location**:
+
+- **Internal disasters** — occur within a health facility itself (power
+  outage, fire, cyberattack on hospital records)
+- **External disasters** — occur outside, but generate casualties the
+  health system must absorb (transportation accidents, industrial
+  incidents, natural disasters)
+
+---
+
+## The Disaster Management Cycle {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A continuous, four-phase cycle — each phase informs the next:
+
+1. **Mitigation** — reducing vulnerability *before* any disaster occurs
+   (building codes, zoning, strengthening infrastructure)
+2. **Preparedness** — building capacity to respond and recover
+   (training, planning, stockpiling, early warning systems)
+3. **Response** — actions taken during/immediately after a disaster to
+   save lives, reduce losses, and relieve suffering
+4. **Recovery** — restoring the community to pre-disaster (or better)
+   functioning
+
+**Direct parallel to Chapter 2's levels of prevention:** mitigation and
+preparedness are essentially **primary prevention** applied to disasters;
+response is analogous to acute case management; recovery parallels
+**tertiary prevention** (limiting long-term disability/impact).
+
+---
+
+## India's Disaster Management Act, 2005 {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Enacted **23 December 2005**, providing India's legal and institutional
+framework for disaster management, with **11 chapters and 79 sections**,
+establishing a multi-tiered authority structure:
+
+- **National Disaster Management Authority (NDMA)** — the apex body,
+  headed by the **Prime Minister**, laying down policies, plans, and
+  guidelines
+- **State Disaster Management Authorities (SDMAs)** — state-level
+  equivalent
+- **District Disaster Management Authorities (DDMAs)** — district-level
+  implementation
+
+**National Executive Committee (NEC)** — coordinates the national
+response and prepares the National Plan, working alongside NDMA.
+
+---
+
+## Health System's Role Across the Cycle {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The health sector has specific responsibilities at every phase:
+
+- **Mitigation** — ensuring hospitals themselves are structurally
+  resilient (a hospital that collapses in an earthquake can't treat
+  earthquake casualties)
+- **Preparedness** — mass-casualty triage training, stockpiling
+  emergency medicines and supplies, disaster drills
+- **Response** — triage, emergency care, epidemic surveillance for
+  disease outbreaks that commonly follow disasters (contaminated water,
+  crowding — recall Chapter 6's chain of infection)
+- **Recovery** — restoring routine health services, and addressing
+  longer-term mental health needs of affected populations (Chapter 10)
+
+---
+
+## Public Health Risks After a Disaster {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Disasters — especially floods and cyclones — create conditions that
+directly increase communicable disease risk:
+
+- Disrupted **water and sanitation** infrastructure → waterborne disease
+  outbreaks
+- **Overcrowding** in relief shelters → increased respiratory and
+  contact-transmitted disease spread
+- Disrupted **immunization and health services** → resurgence of
+  vaccine-preventable disease
+
+This is why disaster response plans integrate epidemiological
+surveillance (Chapter 6) as a core, not optional, component.
+
+---
+
+## Slow-Onset vs. Sudden-Onset Disasters {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Disasters are also distinguished by **speed of onset**: sudden-onset
+events (earthquakes, industrial explosions) demand immediate emergency
+response, while slow-onset events (droughts, some epidemics) unfold over
+weeks to months, allowing more time for anticipatory action but often
+receiving less public attention and funding until effects become severe.
+
+---
+
+## Building Back Better {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Modern disaster recovery increasingly follows a **"build back better"**
+principle — using the recovery phase not merely to restore pre-disaster
+conditions, but to rebuild with greater resilience against future
+events, integrating mitigation directly into recovery rather than
+treating them as fully separate cycle phases.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+An industrial chemical leak is classified as which type of disaster?
+
+- Natural
+- [Man-made]{.correct data-explanation="Man-made disasters are directly attributable to human action, including industrial/technological accidents like a chemical leak."}
+- Epidemiological
+- Geological
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Strengthening building codes and infrastructure before any disaster
+occurs is an example of which phase of the disaster management cycle?
+
+- [Mitigation]{.correct data-explanation="Mitigation is the phase that reduces vulnerability before a disaster occurs, including building codes, zoning, and infrastructure strengthening."}
+- Preparedness
+- Response
+- Recovery
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Under India's Disaster Management Act 2005, the National Disaster
+Management Authority (NDMA) is headed by:
+
+- The Health Minister
+- The Home Minister
+- [The Prime Minister]{.correct data-explanation="NDMA is headed by the Prime Minister of India, with up to nine other members."}
+- A state Chief Minister
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Which disaster management cycle phase is most analogous to tertiary
+prevention (Chapter 2)?
+
+- Mitigation
+- Preparedness
+- Response
+- [Recovery]{.correct data-explanation="Recovery, which restores and rebuilds function after a disaster, parallels tertiary prevention's focus on limiting long-term impact and disability once an event has already occurred."}
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. UCF Online. "The Disaster Management Cycle: 5 Key Stages."
+2. National Disaster Management Authority, Government of India. *About
+   NDMA*.
+3. India Code. *The Disaster Management Act, 2005*.
+4. Medicine LibreTexts. "32.1: Types of Disasters" — Population Health
+   for Nurses.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Occupational Health
+
+[← Previous](waste-management.html) | [Home](#home) | Chapter 18/26 | [Next Chapter →](occupational-health.html)

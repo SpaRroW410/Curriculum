@@ -6671,5 +6671,173 @@
       "Environment, Systems & Emergencies",
       "Hospital Waste Management"
     ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#home",
+    "href": "environment/disaster-management.html#home",
+    "title": "Disaster Management",
+    "section": "Welcome",
+    "text": "Welcome\nDisaster Management\nLearning Objectives:\n\nClassify disasters as natural vs. man-made, and internal vs. external\nDescribe the four phases of the disaster management cycle\nOutline India’s Disaster Management Act, 2005 and its authority structure\nApply the levels-of-prevention framework to disaster mitigation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter reuses the levels-of-prevention framework (Chapter 2) in a new context: mitigation and preparedness act before a disaster’s “pathogenesis,” while response and recovery act after.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#classifying-disasters",
+    "href": "environment/disaster-management.html#classifying-disasters",
+    "title": "Disaster Management",
+    "section": "Classifying Disasters",
+    "text": "Classifying Disasters\n🟢 MUST KNOW\n\nNatural disasters — arising from forces of nature: weather events (cyclones, floods, droughts), geological events (earthquakes, landslides), and epidemiological events (epidemics)\nMan-made disasters — directly attributable to human action: armed conflict, industrial/technological accidents (e.g. chemical or nuclear incidents), severe pollution, and bioterrorism\n\nA second, independent classification by location:\n\nInternal disasters — occur within a health facility itself (power outage, fire, cyberattack on hospital records)\nExternal disasters — occur outside, but generate casualties the health system must absorb (transportation accidents, industrial incidents, natural disasters)",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#the-disaster-management-cycle",
+    "href": "environment/disaster-management.html#the-disaster-management-cycle",
+    "title": "Disaster Management",
+    "section": "The Disaster Management Cycle",
+    "text": "The Disaster Management Cycle\n🟢 MUST KNOW\nA continuous, four-phase cycle — each phase informs the next:\n\nMitigation — reducing vulnerability before any disaster occurs (building codes, zoning, strengthening infrastructure)\nPreparedness — building capacity to respond and recover (training, planning, stockpiling, early warning systems)\nResponse — actions taken during/immediately after a disaster to save lives, reduce losses, and relieve suffering\nRecovery — restoring the community to pre-disaster (or better) functioning\n\nDirect parallel to Chapter 2’s levels of prevention: mitigation and preparedness are essentially primary prevention applied to disasters; response is analogous to acute case management; recovery parallels tertiary prevention (limiting long-term disability/impact).",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#indias-disaster-management-act-2005",
+    "href": "environment/disaster-management.html#indias-disaster-management-act-2005",
+    "title": "Disaster Management",
+    "section": "India’s Disaster Management Act, 2005",
+    "text": "India’s Disaster Management Act, 2005\n🟢 MUST KNOW\nEnacted 23 December 2005, providing India’s legal and institutional framework for disaster management, with 11 chapters and 79 sections, establishing a multi-tiered authority structure:\n\nNational Disaster Management Authority (NDMA) — the apex body, headed by the Prime Minister, laying down policies, plans, and guidelines\nState Disaster Management Authorities (SDMAs) — state-level equivalent\nDistrict Disaster Management Authorities (DDMAs) — district-level implementation\n\nNational Executive Committee (NEC) — coordinates the national response and prepares the National Plan, working alongside NDMA.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#health-systems-role-across-the-cycle",
+    "href": "environment/disaster-management.html#health-systems-role-across-the-cycle",
+    "title": "Disaster Management",
+    "section": "Health System’s Role Across the Cycle",
+    "text": "Health System’s Role Across the Cycle\n🟡 SHOULD KNOW\nThe health sector has specific responsibilities at every phase:\n\nMitigation — ensuring hospitals themselves are structurally resilient (a hospital that collapses in an earthquake can’t treat earthquake casualties)\nPreparedness — mass-casualty triage training, stockpiling emergency medicines and supplies, disaster drills\nResponse — triage, emergency care, epidemic surveillance for disease outbreaks that commonly follow disasters (contaminated water, crowding — recall Chapter 6’s chain of infection)\nRecovery — restoring routine health services, and addressing longer-term mental health needs of affected populations (Chapter 10)",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#public-health-risks-after-a-disaster",
+    "href": "environment/disaster-management.html#public-health-risks-after-a-disaster",
+    "title": "Disaster Management",
+    "section": "Public Health Risks After a Disaster",
+    "text": "Public Health Risks After a Disaster\n🟡 SHOULD KNOW\nDisasters — especially floods and cyclones — create conditions that directly increase communicable disease risk:\n\nDisrupted water and sanitation infrastructure → waterborne disease outbreaks\nOvercrowding in relief shelters → increased respiratory and contact-transmitted disease spread\nDisrupted immunization and health services → resurgence of vaccine-preventable disease\n\nThis is why disaster response plans integrate epidemiological surveillance (Chapter 6) as a core, not optional, component.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#slow-onset-vs.-sudden-onset-disasters",
+    "href": "environment/disaster-management.html#slow-onset-vs.-sudden-onset-disasters",
+    "title": "Disaster Management",
+    "section": "Slow-Onset vs. Sudden-Onset Disasters",
+    "text": "Slow-Onset vs. Sudden-Onset Disasters\n🟣 MAY KNOW\nDisasters are also distinguished by speed of onset: sudden-onset events (earthquakes, industrial explosions) demand immediate emergency response, while slow-onset events (droughts, some epidemics) unfold over weeks to months, allowing more time for anticipatory action but often receiving less public attention and funding until effects become severe.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#building-back-better",
+    "href": "environment/disaster-management.html#building-back-better",
+    "title": "Disaster Management",
+    "section": "Building Back Better",
+    "text": "Building Back Better\n🟣 MAY KNOW\nModern disaster recovery increasingly follows a “build back better” principle — using the recovery phase not merely to restore pre-disaster conditions, but to rebuild with greater resilience against future events, integrating mitigation directly into recovery rather than treating them as fully separate cycle phases.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#self-check-question-1",
+    "href": "environment/disaster-management.html#self-check-question-1",
+    "title": "Disaster Management",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nAn industrial chemical leak is classified as which type of disaster?\n\nNatural\nMan-made\nEpidemiological\nGeological",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#self-check-question-2",
+    "href": "environment/disaster-management.html#self-check-question-2",
+    "title": "Disaster Management",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nStrengthening building codes and infrastructure before any disaster occurs is an example of which phase of the disaster management cycle?\n\nMitigation\nPreparedness\nResponse\nRecovery",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#self-check-question-3",
+    "href": "environment/disaster-management.html#self-check-question-3",
+    "title": "Disaster Management",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nUnder India’s Disaster Management Act 2005, the National Disaster Management Authority (NDMA) is headed by:\n\nThe Health Minister\nThe Home Minister\nThe Prime Minister\nA state Chief Minister",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#self-check-question-4",
+    "href": "environment/disaster-management.html#self-check-question-4",
+    "title": "Disaster Management",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWhich disaster management cycle phase is most analogous to tertiary prevention (Chapter 2)?\n\nMitigation\nPreparedness\nResponse\nRecovery",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#references",
+    "href": "environment/disaster-management.html#references",
+    "title": "Disaster Management",
+    "section": "References",
+    "text": "References\n\nUCF Online. “The Disaster Management Cycle: 5 Key Stages.”\nNational Disaster Management Authority, Government of India. About NDMA.\nIndia Code. The Disaster Management Act, 2005.\nMedicine LibreTexts. “32.1: Types of Disasters” — Population Health for Nurses.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#thank-you",
+    "href": "environment/disaster-management.html#thank-you",
+    "title": "Disaster Management",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Occupational Health\n← Previous | Home | Chapter 18/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
   }
 ]
