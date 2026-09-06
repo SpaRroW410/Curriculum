@@ -67,12 +67,12 @@ Everything downstream depends on the terms and methods defined here.
 - [x] `diseases/nutrition.qmd`
 - [x] `diseases/mental-health.qmd`
 
-### Phase 3 — Health Programs & Populations
-- [ ] `programs/health-programmes.qmd`
-- [ ] `programs/mdg-sdg.qmd`
-- [ ] `programs/demography.qmd`
-- [ ] `programs/preventive-medicine.qmd`
-- [ ] `programs/tribal-health.qmd`
+### Phase 3 — Health Programs & Populations ✅ complete
+- [x] `programs/health-programmes.qmd`
+- [x] `programs/mdg-sdg.qmd`
+- [x] `programs/demography.qmd`
+- [x] `programs/preventive-medicine.qmd`
+- [x] `programs/tribal-health.qmd`
 
 ### Phase 4 — Health Information, Education & Global Perspectives
 - [ ] `global/health-information.qmd`

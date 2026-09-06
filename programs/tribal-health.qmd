@@ -1,0 +1,273 @@
+---
+title: "Tribal Health in India"
+subtitle: "Health Status, Determinants, and the Policy Response"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](preventive-medicine.html) | [Home](#home) | Chapter 15/26 | [Next Chapter →](../environment/environment-health.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Tribal Health in India
+
+**Learning Objectives:**
+
+- Describe the major health determinants specific to India's Scheduled Tribes
+- State the burden of sickle cell disease among tribal populations
+- Explain the National Sickle Cell Anaemia Elimination Mission's goals
+- Summarize the Expert Committee on Tribal Health's key findings
+- Identify the structural healthcare-access barriers unique to tribal areas
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter closes Phase 3 by applying the social-determinants and
+double-burden-of-disease concepts from earlier chapters to a specific,
+policy-relevant Indian population group.
+:::
+
+---
+
+## Health Determinants Specific to Tribal Populations {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India's Scheduled Tribes (Adivasi communities) — about **8.6% of India's
+population** — face a distinct combination of health determinants:
+
+- **Geographic isolation** — habitations scattered across large areas
+  with poor connectivity, transport, and communication
+- **Socio-economic disadvantage** — disproportionately represented in
+  the poorest wealth deciles
+- **Undernutrition and anaemia** — prevailing at higher rates than the
+  general population (Chapter 9's malnutrition framework applies directly
+  here)
+- **Genetic disorders** — notably sickle cell disease and G-6-PD
+  deficiency, concentrated in specific tribal populations due to
+  historical patterns of inheritance and marriage within communities
+
+---
+
+## Sickle Cell Disease Burden {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Sickle cell disease is disproportionately concentrated in India's tribal
+population:
+
+- Roughly **73% of Indians carrying the sickle haemoglobin gene (HbS)**
+  are from tribal communities — despite tribes being only ~8.6% of the
+  population
+- Prevalence of the sickle cell trait/disease varies widely by region and
+  community (roughly 1–40% trait prevalence in different populations)
+- Highest burden concentrated in states including **Madhya Pradesh,
+  Maharashtra, Odisha, and Assam**
+
+**Why this matters for prevention:** because carrier/disease status can
+be identified through a simple test, sickle cell disease is a strong
+candidate for secondary prevention (early detection) at population scale
+(Chapter 2's levels of prevention).
+
+---
+
+## National Sickle Cell Anaemia Elimination Mission (NSCAEM) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Announced in the **2023–24 Union Budget** and launched by the Prime
+Minister on **1 July 2023** at Shahdol, Madhya Pradesh:
+
+- **Goal:** eliminate sickle cell disease as a public health problem in
+  India **by 2047**
+- **Target:** universal screening of **7 crore (70 million) people**
+  aged 0–40 in affected tribal areas
+- Provides awareness generation, counselling, and access to affordable,
+  quality care for those diagnosed — through collaboration between
+  central ministries and state governments
+
+This is a direct, named example of a **vertical, disease-specific
+programme** (Chapter 11's terminology) targeted precisely because of the
+population-specific genetic burden described above.
+
+---
+
+## Healthcare Infrastructure Gaps {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Public health infrastructure in tribal regions is documented to be
+**inadequate, understaffed, and underutilized**, with a nationwide
+shortfall (relative to population-based norms) of thousands of Health
+Sub-Centres, Primary Health Centres, and Community Health Centres in
+tribal areas specifically.
+
+**Consequence:** even where national programmes (NHM, Ayushman Bharat,
+NSCAEM) exist on paper, their reach into tribal areas is constrained by
+this underlying infrastructure gap — a reminder that programme design
+(Chapter 11) and programme *reach* are separate problems.
+
+---
+
+## Expert Committee on Tribal Health {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A four-year study led by **Dr. Abhay Bang** produced India's first
+comprehensive tribal health report, *"Tribal Health in India — Bridging
+the Gap and a Roadmap for the Future,"* examining health status, cultural
+context, and healthcare infrastructure in tribal areas.
+
+**Key recommendation theme:** addressing the underlying **social
+determinants** of tribal health (poverty, education, resource access) is
+as important as expanding clinical service delivery alone — echoing the
+social-determinants framing from Chapter 7's discussion of the social
+gradient of health.
+
+---
+
+## Access Barriers Beyond Infrastructure {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The 2014 **Xaxa Commission** report identified additional non-
+infrastructure barriers specific to tribal communities:
+
+- **Geographical isolation** tied to remote/traditional living patterns
+- **Lack of awareness** of available health services
+- **Cultural norms and beliefs** that may not align with mainstream
+  health-system practices, requiring culturally sensitive outreach rather
+  than a one-size-fits-all delivery model
+
+---
+
+## Digital-First Screening at Scale {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+NSCAEM has been noted for a **digital-first approach** — using digital
+tools to track screening, testing, and follow-up for a screening
+programme covering tens of millions of people across geographically
+dispersed and hard-to-reach tribal areas — an operational adaptation
+specifically shaped by the geographic-isolation challenge described
+earlier.
+
+---
+
+## Particularly Vulnerable Tribal Groups (PVTGs) {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Within India's broader Scheduled Tribe population, the government
+designates certain groups as **Particularly Vulnerable Tribal Groups
+(PVTGs)** — communities with pre-agricultural technology, low literacy,
+declining or stagnant population, and greater isolation than tribal
+populations generally — requiring even more targeted policy attention
+than the general tribal-health framework.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Approximately what share of Indians carrying the sickle haemoglobin gene
+(HbS) are from tribal communities?
+
+- 8.6%
+- 25%
+- 50%
+- [73%]{.correct data-explanation="Roughly 73% of Indians with the HbS gene are from tribal communities, even though Scheduled Tribes make up only about 8.6% of India's total population — a striking concentration."}
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The National Sickle Cell Anaemia Elimination Mission aims to eliminate
+sickle cell disease as a public health problem in India by:
+
+- 2025
+- 2030
+- [2047]{.correct data-explanation="NSCAEM's target year for elimination is 2047, marking 100 years of India's independence, with universal screening of 7 crore people aged 0-40 as an interim milestone."}
+- 2050
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+India's first comprehensive tribal health report, examining social
+determinants alongside healthcare infrastructure, was led by:
+
+- Sir Joseph Bhore
+- [Dr. Abhay Bang]{.correct data-explanation="The Expert Committee on Tribal Health, led by Dr. Abhay Bang, produced India's first comprehensive tribal health report after a four-year study."}
+- Geoffrey Rose
+- John Last
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Which of the following is a documented structural barrier to healthcare
+access specific to tribal areas, beyond infrastructure shortages?
+
+- Excess of Primary Health Centres
+- [Geographical isolation and cultural norms not aligned with mainstream health-system practices]{.correct data-explanation="The Xaxa Commission identified geographic isolation, lack of awareness, and cultural norms/beliefs as access barriers distinct from, and in addition to, raw infrastructure shortages."}
+- Overuse of tertiary care facilities
+- Excess healthcare staffing
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. International Journal of Community Medicine and Public Health.
+   "Sickle cell disease burden among tribal population of India: a
+   narrative review."
+2. Press Information Bureau, Government of India. *National Sickle Cell
+   Anaemia Elimination Mission* — launch and progress updates.
+3. Ministry of Health & Family Welfare, Government of India. *Report of
+   the Expert Committee on Tribal Health* (Dr. Abhay Bang, Chair).
+4. Xaxa Commission (2014). *Report of the High Level Committee on
+   Socio-Economic, Health and Educational Status of Tribal Communities of
+   India*.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Environment and Health
+
+[← Previous](preventive-medicine.html) | [Home](#home) | Chapter 15/26 | [Next Chapter →](../environment/environment-health.html)
