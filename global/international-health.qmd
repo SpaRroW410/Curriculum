@@ -1,0 +1,255 @@
+---
+title: "International Health"
+subtitle: "Global Governance, Regulation, and Health Security"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](community-health.html) | [Home](#home) | Chapter 21/26 | [Next Chapter →](../environment/environment-health.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### International Health
+
+**Learning Objectives:**
+
+- Describe WHO's governance structure and India's regional office
+- State the purpose and core capacities required under the International Health Regulations (2005)
+- Identify the roles of UNICEF, the World Bank, the Global Fund, and Gavi in global health
+- Define global health security and health diplomacy
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter closes the Global Perspectives section, and the numbered
+26-chapter sequence's non-Environment content, by zooming out from
+national programmes (Chapters 11-20) to the international architecture
+they operate within.
+:::
+
+---
+
+## WHO Governance, Revisited {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Building on Chapter 1's brief introduction:
+
+- **World Health Assembly** — WHO's supreme decision-making body,
+  composed of all member states, sets policy and elects the
+  Director-General
+- **Six regional offices** — India falls under **WHO-SEARO** (South-East
+  Asia Regional Office)
+- WHO's core functions extend beyond technical guidance: it also serves
+  as the custodian of the binding international legal instrument covered
+  next — the International Health Regulations
+
+---
+
+## International Health Regulations (IHR 2005) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The IHR (2005) is a **legally binding international instrument**,
+covering all 194 WHO member states (196 States Parties in total).
+
+**Purpose:** to prevent, protect against, control, and provide a public
+health response to the **international spread of disease**, in ways
+proportionate to public health risk — while avoiding unnecessary
+interference with international traffic and trade.
+
+**Core capacities countries must maintain:**
+
+- Early warning and routine **surveillance** systems
+- **Epidemiological and outbreak investigation** skills
+- **Laboratory** expertise
+- Information and communication technology systems
+- Management systems, including a designated **National IHR Focal
+  Point** for communicating with WHO
+
+**Direct link to Chapter 6:** IHR is the legal framework requiring every
+country to be capable of the outbreak-investigation steps already
+covered there.
+
+---
+
+## Global Health Financing and Delivery Actors {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Beyond WHO, several other organizations shape global health outcomes:
+
+- **UNICEF** — child-focused UN agency; procures the large majority of
+  vaccine commodities used in global immunization programmes
+- **World Bank** — a major financer of health systems globally, shaping
+  health policy through lending and technical influence
+- **The Global Fund** (to Fight AIDS, Tuberculosis and Malaria) —
+  responds to high-impact communicable diseases in resource-poor
+  countries, including broader health-systems support
+- **Gavi, the Vaccine Alliance** — a public-private partnership (WHO,
+  UNICEF, World Bank, vaccine industry, donor governments, civil
+  society) that has helped immunize **over 1.2 billion children**,
+  preventing more than 20.6 million deaths, and helped **halve child
+  mortality** in 78 lower-income countries since 2000
+
+---
+
+## Global Health Security {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Global health security** refers to defence against internal and
+external public health risks and threats — spanning protection against
+cross-border infectious disease spread **and** ensuring access to
+essential medicines and health services. The concept was formally linked
+to epidemic alert and response by a **2001 World Health Assembly
+resolution**.
+
+**Connects directly to Chapter 6's herd immunity and outbreak-control
+concepts** — but scaled to the level of international cooperation rather
+than a single country's response.
+
+---
+
+## Health Diplomacy {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Health diplomacy** sits at the interface between international health
+assistance and international political relations — using negotiation,
+advocacy, and cross-sector collaboration (health and foreign affairs
+together) to advance global health goals. It's a relatively young and
+still-evolving field within international relations theory, reflecting
+how health crises increasingly require coordinated action across
+national borders and sectors that traditionally operated separately.
+
+---
+
+## Gavi's Public-Private Partnership Model {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Gavi's structure — bringing together governments, WHO, UNICEF, the World
+Bank, vaccine manufacturers, and philanthropic funders (e.g. the Gates
+Foundation) under one financing and delivery mechanism — is often cited
+as a model for how global health initiatives can pool diverse
+stakeholders' comparative advantages, beyond what any single
+international organization could achieve alone. Gavi also funds global
+vaccine stockpiles for diseases like Ebola, cholera, meningococcal
+disease, and yellow fever.
+
+---
+
+## From National Program to International Architecture {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+This chapter completes a thread running through much of this curriculum:
+national programmes like Universal Immunization (Chapter 14), Ayushman
+Bharat (Chapter 11), and NSCAEM (Chapter 15) don't operate in isolation —
+they exist within, and are often financially or technically supported
+by, this wider international architecture of WHO governance, binding
+regulation (IHR), and global financing partnerships (Gavi, Global Fund,
+World Bank).
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+India falls under which WHO regional office?
+
+- WHO-AFRO
+- [WHO-SEARO]{.correct data-explanation="India falls under WHO's South-East Asia Regional Office (SEARO), one of WHO's six regional offices."}
+- WHO-EURO
+- WHO-EMRO
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The International Health Regulations (2005) primarily aim to:
+
+- Set global drug prices
+- [Prevent, control, and respond to the international spread of disease while minimizing unnecessary trade/travel interference]{.correct data-explanation="IHR (2005)'s explicit purpose is a proportionate public health response to international disease spread, avoiding unnecessary interference with international traffic and trade."}
+- Fund national health insurance schemes
+- Replace national immunization programmes
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Which organization is primarily known for procuring the majority of
+vaccine commodities used in global immunization support programmes?
+
+- World Bank
+- [UNICEF]{.correct data-explanation="UNICEF centrally procures the large majority of vaccine commodities distributed through programmes like Gavi's support."}
+- Global Fund
+- WHO Regional Office
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Global health security, as formally linked by a 2001 World Health
+Assembly resolution, is most closely associated with:
+
+- National drug pricing policy
+- [Epidemic alert and response across borders]{.correct data-explanation="The 2001 WHA resolution 'Global health security: epidemic alert and response' formally linked health security to preventing cross-border spread of communicable disease."}
+- Hospital accreditation standards
+- Individual patient consent laws
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *International Health Regulations (2005)*
+   — third edition, core capacities.
+2. Gavi, the Vaccine Alliance. *Mission & Vision* — partnership model and
+   impact figures.
+3. World Health Assembly (2001). *Global health security: epidemic alert
+   and response* — resolution WHA54.14.
+4. PMC. "The need for health diplomacy in health security operations."
+
+---
+
+## Thank You!
+
+**Next Chapter:** Environment and Health
+
+[← Previous](community-health.html) | [Home](#home) | Chapter 21/26 | [Next Chapter →](../environment/environment-health.html)

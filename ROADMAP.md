@@ -74,13 +74,13 @@ Everything downstream depends on the terms and methods defined here.
 - [x] `programs/preventive-medicine.qmd`
 - [x] `programs/tribal-health.qmd`
 
-### Phase 4 — Health Information, Education & Global Perspectives
-- [ ] `global/health-information.qmd`
-- [ ] `global/health-education.qmd`
-- [ ] `global/social-sciences.qmd`
-- [ ] `global/health-planning.qmd`
-- [ ] `global/community-health.qmd`
-- [ ] `global/international-health.qmd`
+### Phase 4 — Health Information, Education & Global Perspectives ✅ complete
+- [x] `global/health-information.qmd`
+- [x] `global/health-education.qmd`
+- [x] `global/social-sciences.qmd`
+- [x] `global/health-planning.qmd`
+- [x] `global/community-health.qmd`
+- [x] `global/international-health.qmd`
 
 ### Phase 5 — Remaining Environment stubs
 - [ ] `environment/waste-management.qmd`
