@@ -5807,5 +5807,185 @@
       "Health Information, Education & Global Perspectives",
       "Communication for Health Education"
     ]
+  },
+  {
+    "objectID": "global/social-sciences.html#home",
+    "href": "global/social-sciences.html#home",
+    "title": "Medicine and Social Sciences",
+    "section": "Welcome",
+    "text": "Welcome\nMedicine and Social Sciences\nLearning Objectives:\n\nExplain Talcott Parsons’s sick role concept, its rights and obligations\nDefine illness behaviour and its five components\nDescribe how culture shapes health-seeking behaviour\nState the WHO Social Determinants of Health framework’s structural vs. intermediary determinants\nConnect this chapter’s sociology/anthropology lens to earlier chapters’ health-education and prevention content\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the sociological and anthropological theory underlying why health education (Ch17) and prevention programmes don’t work the same way for every population — behaviour is socially and culturally situated, not just individually rational.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#the-sick-role-talcott-parsons",
+    "href": "global/social-sciences.html#the-sick-role-talcott-parsons",
+    "title": "Medicine and Social Sciences",
+    "section": "The Sick Role (Talcott Parsons)",
+    "text": "The Sick Role (Talcott Parsons)\n🟢 MUST KNOW\nParsons (1950s) described illness as a state of “sanctioned deviance” — because a sick person isn’t a fully productive member of society, society grants them a recognized sick role, with defined rights and obligations:\nRights:\n\nExemption from normal social responsibilities (work, school)\nNot being blamed for their condition\n\nObligations:\n\nTo see being sick as undesirable, and want to get well\nTo seek technically competent help (a doctor) once illness persists\nTo cooperate with treatment/medical advice\n\nWhy it matters: it frames illness as a social role, not just a biological state — connecting directly back to Chapter 2’s distinction between disease, illness, and sickness.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#illness-behaviour",
+    "href": "global/social-sciences.html#illness-behaviour",
+    "title": "Medicine and Social Sciences",
+    "section": "Illness Behaviour",
+    "text": "Illness Behaviour\n🟢 MUST KNOW\nHealth-seeking behaviour — any activity undertaken by a person who perceives themselves to have a health problem, aimed at finding an appropriate remedy. It has five recognized components:\n\nSymptom definition — recognizing something is wrong\nIllness-related shifts in role behaviour — adjusting daily activities in response\nLay consultation and referral — discussing symptoms with family/ community before (or instead of) a formal provider\nTreatment actions — choosing a source of care (biomedical, traditional, or both)\nAdherence — following through with the chosen treatment\n\nKey insight: none of these steps are purely medical decisions — each is shaped by social and cultural context.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#culture-and-health-seeking-behaviour",
+    "href": "global/social-sciences.html#culture-and-health-seeking-behaviour",
+    "title": "Medicine and Social Sciences",
+    "section": "Culture and Health-Seeking Behaviour",
+    "text": "Culture and Health-Seeking Behaviour\n🟢 MUST KNOW\nHow people define illness, interpret symptoms, and decide where to seek care is shaped by cultural belief systems — including:\n\nSpiritual/supernatural explanatory models of illness causation\nTrust (or distrust) in the indigenous/traditional medical system versus the formal biomedical system\nPerceived quality of communication with health professionals\nSocial norms around who is expected to seek care, and when\n\nDirect link to Chapter 17: this is exactly why pure IEC-style messaging often fails — a message that ignores the target population’s explanatory model of illness is unlikely to change behaviour, however factually accurate it is.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#who-social-determinants-of-health-framework",
+    "href": "global/social-sciences.html#who-social-determinants-of-health-framework",
+    "title": "Medicine and Social Sciences",
+    "section": "WHO Social Determinants of Health Framework",
+    "text": "WHO Social Determinants of Health Framework\n🟢 MUST KNOW\nWHO defines social determinants of health as “the circumstances in which people are born, grow, work, live, and age, and the wider set of forces and systems shaping the conditions of daily life.”\nThe framework distinguishes two levels:\n\nStructural determinants — the socioeconomic/political context that distributes power and resources unequally (governance, economic policy, education systems, social class, gender, ethnicity)\nIntermediary determinants — the more immediate, everyday living/ working conditions this produces (employment conditions, housing, material circumstances)\n\nGuiding principle: health equity — the absence of unfair and avoidable health differences between groups — directly extending Chapter 7’s discussion of the social gradient of health.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#medical-sociology-vs.-medical-anthropology",
+    "href": "global/social-sciences.html#medical-sociology-vs.-medical-anthropology",
+    "title": "Medicine and Social Sciences",
+    "section": "Medical Sociology vs. Medical Anthropology",
+    "text": "Medical Sociology vs. Medical Anthropology\n🟡 SHOULD KNOW\n\nMedical sociology — studies how social structures, institutions, and roles (like the sick role) shape health, illness, and the practice of medicine within a society\nMedical anthropology — studies how culture — beliefs, meanings, and practices — shapes how illness is experienced, explained, and treated across different societies\n\nBoth disciplines inform community medicine’s core premise: health cannot be understood purely biomedically, echoing the WHO definition of health from Chapter 1.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#explanatory-models-of-illness",
+    "href": "global/social-sciences.html#explanatory-models-of-illness",
+    "title": "Medicine and Social Sciences",
+    "section": "Explanatory Models of Illness",
+    "text": "Explanatory Models of Illness\n🟡 SHOULD KNOW\nEvery patient (and every provider) carries an explanatory model — a set of beliefs about what caused their illness, why it started when it did, what it does to the body, and what treatment should look like. Mismatched explanatory models between patient and provider — not lack of information — are a common, underappreciated cause of poor treatment adherence and dissatisfaction with care.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#stigma-revisited-through-a-sociological-lens",
+    "href": "global/social-sciences.html#stigma-revisited-through-a-sociological-lens",
+    "title": "Medicine and Social Sciences",
+    "section": "Stigma Revisited Through a Sociological Lens",
+    "text": "Stigma Revisited Through a Sociological Lens\n🟣 MAY KNOW\nChapter 10 introduced stigma as a barrier to mental healthcare; medical sociology frames stigma more generally as a social process of labeling and devaluation applied to certain illnesses or conditions — applicable well beyond mental health, to conditions like leprosy, HIV/ AIDS, and tuberculosis, where the social consequences of a diagnosis can outweigh its clinical severity in shaping a person’s behaviour.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#community-based-participatory-approaches",
+    "href": "global/social-sciences.html#community-based-participatory-approaches",
+    "title": "Medicine and Social Sciences",
+    "section": "Community-Based Participatory Approaches",
+    "text": "Community-Based Participatory Approaches\n🟣 MAY KNOW\nRecognizing that social and cultural context shapes health behaviour has practically influenced programme design — favouring approaches that involve the community itself in defining problems and designing interventions (echoing Alma-Ata’s community-participation principle from Chapter 1), rather than externally designed programmes imposed without local input.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#self-check-question-1",
+    "href": "global/social-sciences.html#self-check-question-1",
+    "title": "Medicine and Social Sciences",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nAccording to Talcott Parsons’s sick role concept, a sick person’s obligations include:\n\nContinuing all normal work responsibilities\nSeeking competent medical help and cooperating with treatment\nBeing blamed for causing their illness\nAvoiding all medical consultation",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#self-check-question-2",
+    "href": "global/social-sciences.html#self-check-question-2",
+    "title": "Medicine and Social Sciences",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich of the following is one of the five components of health-seeking behaviour?\n\nVaccination coverage rate\nLay consultation and referral\nDisability-adjusted life years\nHerd immunity threshold",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#self-check-question-3",
+    "href": "global/social-sciences.html#self-check-question-3",
+    "title": "Medicine and Social Sciences",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nIn the WHO Social Determinants of Health framework, governance systems, economic policy, and education systems are examples of:\n\nIntermediary determinants\nStructural determinants\nBiological determinants\nGenetic determinants",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#self-check-question-4",
+    "href": "global/social-sciences.html#self-check-question-4",
+    "title": "Medicine and Social Sciences",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nA patient believes their illness was caused by a supernatural curse, while their doctor explains it in purely biomedical terms. This mismatch is best described as a conflict between:\n\nSick roles\nExplanatory models\nStructural determinants\nIEC and BCC",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#references",
+    "href": "global/social-sciences.html#references",
+    "title": "Medicine and Social Sciences",
+    "section": "References",
+    "text": "References\n\nWikipedia / EBSCO Research Starters. “Sick role (medical sociology)” — Talcott Parsons’s original framework.\nSpringer, Culture, Medicine, and Psychiatry. “The health seeking process: An approach to the natural history of illness.”\nWorld Health Organization. A Conceptual Framework for Action on the Social Determinants of Health.\nAnthropology Review. “How Concepts of Illness and Health are Culturally Defined.”",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#thank-you",
+    "href": "global/social-sciences.html#thank-you",
+    "title": "Medicine and Social Sciences",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Health Planning and Management\n← Previous | Home | Chapter 18/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
   }
 ]
