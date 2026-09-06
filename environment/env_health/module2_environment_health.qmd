@@ -14,6 +14,8 @@ format:
     center: true
     zoom: true
     footer: "[← Previous](module1_one_health.html) | [Home](#home) | Module 2/8 | [Next →](module3_water_quality.html)"
+revealjs-plugins:
+  - local/autosize
 ---
 
 ## Welcome to Module 2 {#home}

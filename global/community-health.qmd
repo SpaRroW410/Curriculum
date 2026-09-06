@@ -17,6 +17,7 @@ execute:
   enabled: false
 revealjs-plugins:
   - parmsam/quiz
+  - local/autosize
 ---
 
 ## Welcome {#home}

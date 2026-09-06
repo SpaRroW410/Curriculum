@@ -14,6 +14,8 @@ format:
     center: true
     zoom: true
     footer: "[← Previous](module3_water_quality.html) | [Home](#home) | Module 4/8 | [Next →](module5_treatment.html)"
+revealjs-plugins:
+  - local/autosize
 ---
 
 ## Welcome to Module 4 {#home}

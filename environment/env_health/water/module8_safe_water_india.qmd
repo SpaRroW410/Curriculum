@@ -12,6 +12,8 @@ format:
     width: 1200
     height: 720
 echo: false
+revealjs-plugins:
+  - local/autosize
 ---
 
 ## Module 8: Safe Water Provision in India {.center #home}

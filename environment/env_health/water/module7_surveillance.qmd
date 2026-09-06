@@ -12,6 +12,8 @@ format:
     width: 1200
     height: 720
 echo: false
+revealjs-plugins:
+  - local/autosize
 ---
 
 ## Module 7: Water Surveillance & Monitoring {.center #home}

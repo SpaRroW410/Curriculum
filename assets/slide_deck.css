@@ -10,6 +10,18 @@
    Each tinted slide should also carry a text badge (e.g. "MUST KNOW"),
    since color alone isn't an accessible signal. */
 
+/* === Adaptive slide sizing (RevealAutoSize plugin) ===
+   --autosize-clearance is set by _extensions/local/autosize/autosize.js
+   on every ready/slidechanged/resize event, to the logical-unit height
+   needed to keep slide content clear of the fixed-position footer text,
+   slide number, and chalkboard toolbar icons that sit on top of the
+   deck at a constant pixel offset regardless of Reveal's zoom level.
+   The 40px fallback covers the case before the plugin's first run. */
+.reveal .slides section {
+  padding-bottom: var(--autosize-clearance, 40px);
+  box-sizing: border-box;
+}
+
 /* === RevealJS Typography === */
 .reveal {
   font-family: 'Georgia', serif, Times, "Times New Roman";

@@ -16,6 +16,8 @@ format:
     center: true
     zoom: true
     footer: "ABVMUUP Dissertation Guidelines"
+revealjs-plugins:
+  - local/autosize
 
 ---
 
