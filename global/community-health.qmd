@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-planning.html) | [Home](#home) | Chapter 20/26 | [Next Chapter →](international-health.html)"
+    footer: "[← Previous](health-planning.html) | [Home](#home) | Chapter 25/26 | [Next Chapter →](international-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -106,7 +106,7 @@ The Sub-Centre is the **most peripheral point of contact** between the
 formal health system and the community, staffed to deliver maternal and
 child health, family welfare, nutrition, immunization, and diarrhoeal/
 communicable disease control services — and to carry out interpersonal
-communication for behaviour change (Chapter 17's IEC/BCC in practice).
+communication for behaviour change (Chapter 22's IEC/BCC in practice).
 
 **PHC** — a 4–6 bed referral unit for 6 Sub-Centres, staffed by a Medical
 Officer and paramedical staff.
@@ -147,7 +147,7 @@ tertiary facilities (public or private), even for conditions a PHC could
 manage. This undermines the referral system's efficiency logic and
 contributes to overcrowding at higher tiers, often driven by perceived
 (or actual) quality gaps at the primary level — connecting back to
-Chapter 18's discussion of trust in health-seeking behaviour.
+Chapter 23's discussion of trust in health-seeking behaviour.
 
 ---
 
@@ -268,4 +268,4 @@ tertiary facilities, even for manageable conditions, is known as:
 
 **Next Chapter:** International Health
 
-[← Previous](health-planning.html) | [Home](#home) | Chapter 20/26 | [Next Chapter →](international-health.html)
+[← Previous](health-planning.html) | [Home](#home) | Chapter 25/26 | [Next Chapter →](international-health.html)

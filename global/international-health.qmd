@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](community-health.html) | [Home](#home) | Chapter 21/26 | [Next Chapter →](../environment/environment-health.html)"
+    footer: "[← Previous](community-health.html) | [Home](#home) | Chapter 26/26 | [Course Contents →](../intro.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -33,10 +33,10 @@ revealjs-plugins:
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
 ::: {.notes}
-This chapter closes the Global Perspectives section, and the numbered
-26-chapter sequence's non-Environment content, by zooming out from
-national programmes (Chapters 11-20) to the international architecture
-they operate within.
+This chapter closes the Global Perspectives section and the full
+26-chapter curriculum, by zooming out from national programmes and
+systems (Chapters 11-25) to the international architecture they operate
+within.
 :::
 
 ---
@@ -250,6 +250,6 @@ Assembly resolution, is most closely associated with:
 
 ## Thank You!
 
-**Next Chapter:** Environment and Health
+**This is the final chapter (26/26) of the curriculum.**
 
-[← Previous](community-health.html) | [Home](#home) | Chapter 21/26 | [Next Chapter →](../environment/environment-health.html)
+[← Previous](community-health.html) | [Home](#home) | Chapter 26/26 | [Course Contents →](../intro.html)

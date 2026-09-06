@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](social-sciences.html) | [Home](#home) | Chapter 19/26 | [Next Chapter →](community-health.html)"
+    footer: "[← Previous](social-sciences.html) | [Home](#home) | Chapter 24/26 | [Next Chapter →](community-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -73,8 +73,8 @@ framework at the planning stage.
 With finite resources, not every identified problem can be addressed at
 once. Standard criteria for prioritization include:
 
-- **Burden of disease** (DALYs — Chapter 16)
-- **Equity** — impact on the most disadvantaged groups (Chapter 18's
+- **Burden of disease** (DALYs — Chapter 21)
+- **Equity** — impact on the most disadvantaged groups (Chapter 23's
   social determinants lens)
 - **Feasibility** — technical and political practicality of intervening
 - **Cost-effectiveness** — health gain per unit of resource spent
@@ -267,4 +267,4 @@ In Gulick's POSDCORB framework, "CO" stands for:
 
 **Next Chapter:** Health Care of the Community
 
-[← Previous](social-sciences.html) | [Home](#home) | Chapter 19/26 | [Next Chapter →](community-health.html)
+[← Previous](social-sciences.html) | [Home](#home) | Chapter 24/26 | [Next Chapter →](community-health.html)

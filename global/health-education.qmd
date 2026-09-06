@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-information.html) | [Home](#home) | Chapter 17/26 | [Next Chapter →](social-sciences.html)"
+    footer: "[← Previous](health-information.html) | [Home](#home) | Chapter 22/26 | [Next Chapter →](social-sciences.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -257,4 +257,4 @@ personalization?
 
 **Next Chapter:** Medicine and Social Sciences
 
-[← Previous](health-information.html) | [Home](#home) | Chapter 17/26 | [Next Chapter →](social-sciences.html)
+[← Previous](health-information.html) | [Home](#home) | Chapter 22/26 | [Next Chapter →](social-sciences.html)
