@@ -5459,5 +5459,185 @@
       "Health Programs & Populations",
       "Tribal Health in India"
     ]
+  },
+  {
+    "objectID": "global/health-information.html#home",
+    "href": "global/health-information.html#home",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Welcome",
+    "text": "Welcome\nHealth Information and Basic Medical Statistics\nLearning Objectives:\n\nDistinguish Civil Registration from India’s Sample Registration System (SRS)\nDefine life expectancy at birth, IMR, and MMR\nBreak down the DALY formula into its YLL and YLD components\nDistinguish DALYs from QALYs\nRecognize basic data-presentation formats used in health information systems\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nDALYs were already introduced conceptually in the NCD and Mental Health chapters; this chapter gives the actual formula and its components, alongside the vital-statistics data sources that feed all the rates defined back in the Demography chapter.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#civil-registration-vs.-sample-registration",
+    "href": "global/health-information.html#civil-registration-vs.-sample-registration",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Civil Registration vs. Sample Registration",
+    "text": "Civil Registration vs. Sample Registration\n🟢 MUST KNOW\n\nCivil Registration System (CRS) — aims at universal, legal registration of every individual birth and death, for documentary and legal purposes\nSample Registration System (SRS), India — a sample-based statistical exercise (not universal registration), designed to estimate rates, not register individuals; operates via dual recording (continuous local enumeration plus independent retrospective half-yearly surveys) across a representative sample of units nationwide\n\nWhy SRS exists alongside CRS: where civil registration completeness is incomplete, SRS provides India’s most reliable source of birth/death rate estimates — it has served as the standard data source for India’s mortality indicators since the late 1960s.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#life-expectancy-at-birth",
+    "href": "global/health-information.html#life-expectancy-at-birth",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Life Expectancy at Birth",
+    "text": "Life Expectancy at Birth\n🟢 MUST KNOW\nLife expectancy at birth — the average number of years a newborn is expected to live, if current age-specific mortality patterns remain constant throughout their lifetime.\nIt is a summary indicator of mortality across every age group at once, which is why it’s widely used to compare overall health/longevity between regions or countries, rather than relying on any single age-specific death rate alone.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#infant-and-maternal-mortality-indicators",
+    "href": "global/health-information.html#infant-and-maternal-mortality-indicators",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Infant and Maternal Mortality Indicators",
+    "text": "Infant and Maternal Mortality Indicators\n🟢 MUST KNOW\nInfant Mortality Rate (IMR) — deaths of infants under 1 year of age, per 1,000 live births, in a given year.\nMaternal Mortality Ratio (MMR) — deaths of women from pregnancy- related causes, per 100,000 live births (note the different denominator scale from IMR).\nBoth are core indicators already referenced as SDG 3 targets (Chapter 12) — this chapter defines the measures themselves, which those targets are expressed in.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#daly-breaking-down-the-formula",
+    "href": "global/health-information.html#daly-breaking-down-the-formula",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "DALY: Breaking Down the Formula",
+    "text": "DALY: Breaking Down the Formula\n🟢 MUST KNOW\nDALY = YLL + YLD\n\nYLL (Years of Life Lost) = number of deaths × standard life expectancy at age of death — the fatal component\nYLD (Years Lived with Disability) = number of new cases × disability weight × average duration of disability — the non-fatal component\n\nDisability weight ranges from 0 (no limitation) to 1 (a health state equivalent to death), assigned per condition based on its severity.\nOne DALY = one lost year of healthy life — combining death and disability into a single comparable unit, which is exactly what allowed Chapters 7 and 10 to compare the burden of NCDs and mental disorders on the same scale as fatal disease.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#daly-vs.-qaly",
+    "href": "global/health-information.html#daly-vs.-qaly",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "DALY vs. QALY",
+    "text": "DALY vs. QALY\n🟡 SHOULD KNOW\n\nDALY — measures healthy years lost (burden); uses standardized disability weights; the dominant metric in global/population health burden studies (e.g. WHO’s Global Burden of Disease)\nQALY — measures years lived in good health gained; uses preference-based weights (often elicited from patients or the public); the dominant metric in health economics and cost-effectiveness analysis for individual treatments\n\nExam tip: DALY counts what’s lost; QALY counts what’s gained — they are conceptually mirror images, built for different purposes (population burden vs. treatment cost-effectiveness).",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#presenting-health-data",
+    "href": "global/health-information.html#presenting-health-data",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Presenting Health Data",
+    "text": "Presenting Health Data\n🟡 SHOULD KNOW\nCommon formats for presenting health information, each suited to a different purpose:\n\nTables — precise values, good for reference and detailed comparison\nBar/line graphs — trends over time or comparison across categories or places (recall Chapter 3’s person/place/time descriptive framework)\nPie charts — proportions of a whole (e.g. cause-of-death distribution)\nMaps — geographic distribution — the same logic John Snow used with cholera cases in 1854 (Chapter 3)\n\nChoosing the right format is itself a communication decision, not just a technical one — it shapes how policymakers and the public interpret the same underlying data.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#national-family-health-survey-nfhs",
+    "href": "global/health-information.html#national-family-health-survey-nfhs",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "National Family Health Survey (NFHS)",
+    "text": "National Family Health Survey (NFHS)\n🟣 MAY KNOW\nAlongside the Census and SRS, India’s National Family Health Survey is a large-scale household survey providing detailed data on fertility, family planning, maternal and child health, nutrition, and mortality — often used alongside SRS data to produce more granular, sub-national estimates (e.g. state- or district-level life expectancy), where SRS sample sizes alone may be too small for reliable local estimates.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#health-management-information-system-hmis",
+    "href": "global/health-information.html#health-management-information-system-hmis",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Health Management Information System (HMIS)",
+    "text": "Health Management Information System (HMIS)\n🟣 MAY KNOW\nBeyond periodic surveys and registration systems, India’s routine facility-level reporting flows into a Health Management Information System (HMIS) — data reported upward from Sub-Centres, PHCs, and CHCs (the same three-tier structure referenced in later chapters), used for ongoing programme monitoring rather than the periodic, sample-based estimates that SRS and NFHS provide.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#self-check-question-1",
+    "href": "global/health-information.html#self-check-question-1",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nUnlike the Civil Registration System, India’s Sample Registration System (SRS) is designed to:\n\nLegally register every birth and death nationwide\nEstimate vital rates from a representative sample of units, not register individuals\nReplace the Census entirely\nOnly record deaths, not births",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#self-check-question-2",
+    "href": "global/health-information.html#self-check-question-2",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nMaternal Mortality Ratio (MMR) is expressed per how many live births?\n\n1,000\n10,000\n100,000\n1,000,000",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#self-check-question-3",
+    "href": "global/health-information.html#self-check-question-3",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nIn the DALY formula, YLD (Years Lived with Disability) is calculated using incidence, duration, and:\n\nLife expectancy at age of death\nDisability weight\nTotal population size\nCrude death rate",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#self-check-question-4",
+    "href": "global/health-information.html#self-check-question-4",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWhich statement correctly distinguishes DALYs from QALYs?\n\nThey are identical measures with different names\nDALYs measure healthy years lost using standardized weights; QALYs measure years gained in good health using preference-based weights\nQALYs are used only for infectious disease\nDALYs cannot be used for non-fatal conditions",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#references",
+    "href": "global/health-information.html#references",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "References",
+    "text": "References\n\nOffice of the Registrar General, India. Sample Registration System (SRS) — UN Statistics Wiki overview.\nWorld Health Organization. Global Health Observatory — life expectancy, IMR, MMR definitions.\nNational Collaborating Centre for Infectious Diseases. “Understanding Summary Measures Used to Estimate the Burden of Disease: All about HALYs, DALYs and QALYs.”\nGiveWell. “Interpreting the Disability-Adjusted Life-Year (DALY) Metric.”",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#thank-you",
+    "href": "global/health-information.html#thank-you",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Communication for Health Education\n← Previous | Home | Chapter 16/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
   }
 ]
