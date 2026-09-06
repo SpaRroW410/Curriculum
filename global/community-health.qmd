@@ -1,0 +1,271 @@
+---
+title: "Health Care of the Community"
+subtitle: "Levels of Care and India's Rural Health Infrastructure"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](health-planning.html) | [Home](#home) | Chapter 20/26 | [Next Chapter →](international-health.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+---
+
+## Welcome {#home}
+
+### Health Care of the Community
+
+**Learning Objectives:**
+
+- Distinguish primary, secondary, and tertiary levels of health care (as facility tiers, not levels of prevention)
+- Describe India's three-tier rural health infrastructure and its population norms
+- Explain the referral system linking these tiers
+- Reconnect ASHA workers and community participation to this structure
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Important distinction to flag explicitly: "levels of health care" here
+are facility/referral tiers, completely different from Chapter 2's
+"levels of prevention" (primordial/primary/secondary/tertiary
+prevention), even though some terms overlap.
+:::
+
+---
+
+## Levels of Health Care: Not Levels of Prevention {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Important distinction:** this chapter's "primary/secondary/tertiary"
+refers to **facility/referral tiers** — how care is organized and
+escalated — which is a different concept from Chapter 2's **levels of
+prevention** (primordial/primary/secondary/tertiary prevention), even
+though the words "primary," "secondary," and "tertiary" are shared. Don't
+conflate the two in exams.
+
+- **Primary care** — first point of contact; routine checkups, common
+  illness management, and preventive care
+- **Secondary care** — specialist services, usually hospital/clinic-
+  based, bridging primary and highly specialized care
+- **Tertiary care** — highly specialized, advanced diagnostics/procedures
+  at state-of-the-art facilities, typically reached only by **referral**
+
+---
+
+## The Referral System {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Care tiers are **interlinked through referral**: a patient typically
+enters at the primary level, and is referred upward only if their
+condition requires the more specialized (and resource-intensive)
+capabilities of secondary or tertiary facilities.
+
+**Why this matters for health systems design:** a functioning referral
+system prevents both under-treatment (a serious case stuck at a facility
+that can't manage it) and system overload (routine cases flooding
+scarce tertiary capacity that should be reserved for complex cases).
+
+---
+
+## India's Three-Tier Rural Health Infrastructure {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India's public rural primary health care system has three pillars, with
+defined population norms:
+
+| Tier | Population norm (general areas) | Population norm (tribal/hilly/difficult areas) | Role |
+|---|---|---|---|
+| **Sub-Centre (SC)** | 1 per 5,000 | 1 per 3,000 | First contact point |
+| **Primary Health Centre (PHC)** | 1 per 30,000 | 1 per 20,000 | Referral unit for 6 Sub-Centres |
+| **Community Health Centre (CHC)** | 1 per 1,20,000 | 1 per 80,000 | Referral unit for 4 PHCs |
+
+**Note the deliberately lower population norms in tribal/hilly/difficult
+areas** — a direct structural response to the geographic isolation
+challenge raised in Chapter 15's tribal health discussion, even though
+Chapter 15 also documented that actual facility numbers often fall short
+of these norms.
+
+---
+
+## Sub-Centres: The First Contact Point {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The Sub-Centre is the **most peripheral point of contact** between the
+formal health system and the community, staffed to deliver maternal and
+child health, family welfare, nutrition, immunization, and diarrhoeal/
+communicable disease control services — and to carry out interpersonal
+communication for behaviour change (Chapter 17's IEC/BCC in practice).
+
+**PHC** — a 4–6 bed referral unit for 6 Sub-Centres, staffed by a Medical
+Officer and paramedical staff.
+
+**CHC** — a 30-bed referral unit for 4 PHCs, offering specialist services
+beyond what a PHC can provide.
+
+---
+
+## Community Participation, Revisited {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+This three-tier structure is where the community-level actors named in
+earlier chapters actually operate:
+
+- **ASHA workers** (Chapter 11) — the community-level link feeding into
+  the Sub-Centre
+- **Village health committees** (Chapter 11) — give communities a voice
+  in how local facilities are used and monitored
+- **Anganwadi Centres** (Chapter 9) — often co-located with or closely
+  linked to Sub-Centre catchment areas for nutrition/child health service
+  delivery
+
+**The throughline:** Alma-Ata's community-participation principle
+(Chapter 1) is operationalized concretely through this specific
+tiered structure, not just as an abstract policy goal.
+
+---
+
+## Underutilization and Bypassing {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A well-documented challenge in India's tiered system is **bypassing** —
+patients skipping the primary tier and going directly to secondary or
+tertiary facilities (public or private), even for conditions a PHC could
+manage. This undermines the referral system's efficiency logic and
+contributes to overcrowding at higher tiers, often driven by perceived
+(or actual) quality gaps at the primary level — connecting back to
+Chapter 18's discussion of trust in health-seeking behaviour.
+
+---
+
+## Urban Parallel: NUHM {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The Sub-Centre/PHC/CHC structure described here is specifically the
+**rural** tier system. The **National Urban Health Mission** (Chapter 11)
+adapts an analogous but distinct tiered structure for urban and
+peri-urban poor populations, recognizing that urban health-access
+barriers (informal settlements, migrant populations, different
+population density) differ from rural ones even where similar
+infrastructure logic applies.
+
+---
+
+## Quaternary Care {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Some health systems recognize a **fourth tier, "quaternary care"** —
+an extension of tertiary care involving highly specialized and
+experimental procedures (e.g. rare transplant surgery, experimental
+cancer treatment), usually only available at a small number of
+specialized national or international centres. It doesn't have a
+formal, separate tier in India's public rural health infrastructure, but
+is relevant terminology in broader health systems study.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+"Levels of health care" (primary/secondary/tertiary as facility tiers)
+should NOT be confused with:
+
+- Types of screening
+- [Levels of prevention (primordial/primary/secondary/tertiary prevention)]{.correct data-explanation="Despite sharing terminology, levels of health care (facility/referral tiers) and levels of prevention (Chapter 2's disease-timeline framework) are distinct concepts."}
+- Modes of transmission
+- The health planning cycle
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Under India's rural health infrastructure norms, a Community Health
+Centre (CHC) serves as a referral unit for how many Primary Health
+Centres?
+
+- 2
+- [4]{.correct data-explanation="A CHC is designed as a 30-bed referral unit for 4 PHCs, per India's public health facility norms."}
+- 6
+- 10
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Which facility is the "most peripheral" first point of contact between
+India's formal health system and the community?
+
+- Community Health Centre
+- Primary Health Centre
+- [Sub-Centre]{.correct data-explanation="The Sub-Centre is explicitly designed as the most peripheral, first-contact point between the formal health system and the community."}
+- District hospital
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Patients skipping the primary care tier to go directly to secondary or
+tertiary facilities, even for manageable conditions, is known as:
+
+- Referral
+- [Bypassing]{.correct data-explanation="Bypassing describes patients skipping lower tiers of care, undermining the referral system's efficiency and contributing to overcrowding at higher tiers."}
+- Task-shifting
+- Triage
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Physiopedia. "Levels of Healthcare."
+2. National Health Mission, Government of India. *Rural Health Care
+   System in India* — Sub-Centre, PHC, CHC population norms.
+3. Vikaspedia (Government of India). "Rural Health Care System in
+   India."
+4. Directorate General of Health Services, Government of India. *Indian
+   Public Health Standards*.
+
+---
+
+## Thank You!
+
+**Next Chapter:** International Health
+
+[← Previous](health-planning.html) | [Home](#home) | Chapter 20/26 | [Next Chapter →](international-health.html)
