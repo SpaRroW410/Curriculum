@@ -5987,5 +5987,185 @@
       "Health Information, Education & Global Perspectives",
       "Medicine and Social Sciences"
     ]
+  },
+  {
+    "objectID": "global/health-planning.html#home",
+    "href": "global/health-planning.html#home",
+    "title": "Health Planning and Management",
+    "section": "Welcome",
+    "text": "Welcome\nHealth Planning and Management\nLearning Objectives:\n\nDescribe the steps of the health planning cycle\nExplain the criteria used for setting health priorities\nTrace the role of India’s Five-Year Plans in health sector development, and the transition to NITI Aayog\nList Gulick’s seven POSDCORB management functions\nApply the planning cycle to a national health programme example\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter is the operational/administrative counterpart to earlier programme-content chapters (11-15) — it explains how such programmes are planned and managed, not what they contain.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#the-health-planning-cycle",
+    "href": "global/health-planning.html#the-health-planning-cycle",
+    "title": "Health Planning and Management",
+    "section": "The Health Planning Cycle",
+    "text": "The Health Planning Cycle\n🟢 MUST KNOW\nA standard sequence used to plan any health programme or policy:\n\nSituation analysis — collect and interpret data on the population, morbidity/mortality, disease distribution, existing facilities and manpower, and community attitudes and beliefs\nEstablishing objectives and goals\nAssessing available resources\nFixing priorities\nWriting up the formulated plan\nProgramming and implementation — translating policy into annual operational plans\nMonitoring — ongoing tracking, enabling timely correction\nEvaluation — assessing whether objectives were achieved (efficiency, acceptance, adequacy)\n\nNote the direct parallel to Chapter 3’s descriptive epidemiology — situation analysis is essentially applying the person/place/time framework at the planning stage.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#setting-health-priorities",
+    "href": "global/health-planning.html#setting-health-priorities",
+    "title": "Health Planning and Management",
+    "section": "Setting Health Priorities",
+    "text": "Setting Health Priorities\n🟢 MUST KNOW\nWith finite resources, not every identified problem can be addressed at once. Standard criteria for prioritization include:\n\nBurden of disease (DALYs — Chapter 16)\nEquity — impact on the most disadvantaged groups (Chapter 18’s social determinants lens)\nFeasibility — technical and political practicality of intervening\nCost-effectiveness — health gain per unit of resource spent\n\nThis is the planning-level application of Rose’s population vs. high-risk strategy trade-off from Chapter 7 — priority-setting decides which problems get a population-wide response at all.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#indias-five-year-plans-and-health",
+    "href": "global/health-planning.html#indias-five-year-plans-and-health",
+    "title": "Health Planning and Management",
+    "section": "India’s Five-Year Plans and Health",
+    "text": "India’s Five-Year Plans and Health\n🟢 MUST KNOW\nIndia ran twelve Five-Year Plans (1951–2017), formulated by the Planning Commission (established 1950, chaired by the Prime Minister), each setting specific economic and social development targets — including health-sector allocations for infrastructure, disease control, and human resources.\n\n1969 — the Gadgil formula introduced transparent, criteria- based resource allocation to states\n2015 — the Planning Commission was replaced by NITI Aayog (National Institution for Transforming India), which since the 12th Plan’s completion (2017) has taken over health-sector planning and programming with a more flexible, non-five-year framework",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#posdcorb-core-management-functions",
+    "href": "global/health-planning.html#posdcorb-core-management-functions",
+    "title": "Health Planning and Management",
+    "section": "POSDCORB: Core Management Functions",
+    "text": "POSDCORB: Core Management Functions\n🟢 MUST KNOW\nLuther Gulick’s classic 1937 framework, describing the seven universal functions of any executive/manager — directly applicable to running a health programme or facility:\n\nPlanning\nOrganizing\nStaffing\nDirecting\nCOordinating\nReporting\nBudgeting\n\nWhy it’s still taught: it gives a simple, complete checklist for “what does managing a health programme actually involve” beyond just clinical or technical content — the same operational lens this chapter applies to Chapters 11–15’s programme content.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#applying-the-cycle-a-worked-example",
+    "href": "global/health-planning.html#applying-the-cycle-a-worked-example",
+    "title": "Health Planning and Management",
+    "section": "Applying the Cycle: A Worked Example",
+    "text": "Applying the Cycle: A Worked Example\n🟡 SHOULD KNOW\nConsider NSCAEM (Chapter 15): situation analysis established the disproportionate tribal-population sickle cell burden; priority setting targeted it specifically because of its concentrated, genetic, identifiable nature; implementation rolled out mass screening; monitoring tracks screening numbers against the 7-crore target; final evaluation will assess progress toward the 2047 elimination goal. Every named national programme in this curriculum has moved through these same planning-cycle stages, whether or not it’s stated explicitly.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#health-systems-building-blocks",
+    "href": "global/health-planning.html#health-systems-building-blocks",
+    "title": "Health Planning and Management",
+    "section": "Health Systems Building Blocks",
+    "text": "Health Systems Building Blocks\n🟡 SHOULD KNOW\nWHO describes six interacting “building blocks” that any functioning health system’s planning must account for: service delivery, health workforce, health information systems, access to essential medicines, financing, and leadership/governance. Weakness in any one block — e.g. a health workforce shortage in tribal areas (Chapter 15) — limits the effectiveness of planning and management improvements made elsewhere.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#from-five-year-plans-to-flexible-governance",
+    "href": "global/health-planning.html#from-five-year-plans-to-flexible-governance",
+    "title": "Health Planning and Management",
+    "section": "From Five-Year Plans to Flexible Governance",
+    "text": "From Five-Year Plans to Flexible Governance\n🟣 MAY KNOW\nThe shift from fixed Five-Year Plans to NITI Aayog’s more continuous, flexible planning approach reflects a broader governance trend also seen in global health policy — the same broad movement from the MDGs’ fixed, time-bound targets to the SDGs’ more integrated, continuously monitored agenda (Chapter 12).",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#management-span-of-control",
+    "href": "global/health-planning.html#management-span-of-control",
+    "title": "Health Planning and Management",
+    "section": "Management Span of Control",
+    "text": "Management Span of Control\n🟣 MAY KNOW\nGulick and Urwick, alongside POSDCORB, also argued for a limited “span of control” — recommending roughly 3–6 subordinates per manager for effective coordination — a principle still referenced in designing supervisory structures for large-scale health programmes with many frontline workers (e.g. ASHA supervision structures under NHM).",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#self-check-question-1",
+    "href": "global/health-planning.html#self-check-question-1",
+    "title": "Health Planning and Management",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nIn the health planning cycle, “situation analysis” primarily involves:\n\nWriting the final budget\nCollecting and interpreting data on population, disease distribution, resources, and community attitudes\nEvaluating a completed programme\nAssigning staff to roles",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#self-check-question-2",
+    "href": "global/health-planning.html#self-check-question-2",
+    "title": "Health Planning and Management",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich of the following is NOT one of the standard criteria for setting health priorities?\n\nBurden of disease\nCost-effectiveness\nAlphabetical order of disease name\nEquity",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#self-check-question-3",
+    "href": "global/health-planning.html#self-check-question-3",
+    "title": "Health Planning and Management",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nIndia’s Planning Commission was replaced in 2015 by:\n\nThe Ministry of Health & Family Welfare\nNITI Aayog\nThe National Health Mission\nThe Bhore Committee",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#self-check-question-4",
+    "href": "global/health-planning.html#self-check-question-4",
+    "title": "Health Planning and Management",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nIn Gulick’s POSDCORB framework, “CO” stands for:\n\nConsultation\nCoordinating\nCompliance\nCommunication",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#references",
+    "href": "global/health-planning.html#references",
+    "title": "Health Planning and Management",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. National Health Planning Tools — national health planning stages.\nWikipedia. “Five-Year Plans of India” and “Planning Commission (India).”\nWikipedia / 12manage. “POSDCORB” — Luther Gulick’s 1937 management framework.\nWorld Health Organization. Everybody’s Business: Strengthening Health Systems to Improve Health Outcomes — the six health system building blocks.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#thank-you",
+    "href": "global/health-planning.html#thank-you",
+    "title": "Health Planning and Management",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Chapter: Health Care of the Community\n← Previous | Home | Chapter 19/26 | Next Chapter →",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
   }
 ]
