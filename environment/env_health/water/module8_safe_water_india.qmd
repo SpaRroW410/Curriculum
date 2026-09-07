@@ -8,10 +8,12 @@ format:
     theme: dark
     transition: slide
     center: true
-    footer: "[← Previous](module7_surveillance.html) | [Home](#home) | Module 3/8 | [Next →](module9_quiz.html)"
+    footer: "[← Previous](module7_surveillance.html) | [Top](#home) | [Contents](../../../intro.html) | Module 3/8 | [Next →](module9_quiz.html)"
     width: 1200
     height: 720
 echo: false
+revealjs-plugins:
+  - local/autosize
 ---
 
 ## Module 8: Safe Water Provision in India {.center #home}

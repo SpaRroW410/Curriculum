@@ -1,0 +1,319 @@
+---
+title: "Mental Health"
+subtitle: "Burden, Rights, and the Community Mental Health Approach"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/26 | [Next Chapter →](../programs/health-programmes.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Mental Health
+
+**Learning Objectives:**
+
+- State the WHO definition of mental health
+- Recognize mental disorders as a major, under-addressed share of the global disease burden
+- Trace India's National Mental Health Programme and District Mental Health Programme
+- Describe the Mental Healthcare Act 2017's rights-based approach, including Section 115
+- Explain WHO's mhGAP task-shifting strategy for closing the mental health treatment gap
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter closes the Diseases section by extending Chapter 1's
+dimensions-of-health framework (physical, mental, social, ...) into a
+full treatment of mental health as a public health priority in its own
+right, not an afterthought to physical disease.
+:::
+
+---
+
+## What Is Mental Health? {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**WHO definition:** mental health is a state of mental well-being that
+enables people to cope with the stresses of life, realize their
+abilities, learn and work well, and contribute to their community.
+
+- Mental health has both **intrinsic and instrumental** value, and is
+  recognized as a **basic human right**
+- It exists on a **continuum**, experienced differently by each person —
+  directly echoing Chapter 2's health–disease spectrum concept
+- A combination of individual, family, community, and structural factors
+  can either protect or undermine it at any given time
+
+---
+
+## The Burden of Mental Disorders {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Common mental disorders — depression, anxiety disorders, bipolar
+disorder, schizophrenia, and substance use disorders — together
+contribute a very large share of the global burden of disease when
+measured in **DALYs**, because they are long-duration and disabling
+rather than usually immediately fatal (recall Chapter 7's point about
+NCDs and disability).
+
+**Key structural problem — the treatment gap:** in most countries,
+especially low- and middle-income ones, the majority of people with a
+diagnosable mental disorder never receive any formal treatment.
+
+---
+
+## National Mental Health Programme, India (1982) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India launched its **National Mental Health Programme (NMHP)** in
+**August 1982**, one of the first countries to do so at national scale,
+with three core objectives:
+
+- Ensure availability and accessibility of **minimum mental healthcare
+  for all**, especially the most vulnerable and underprivileged
+- Encourage application of mental health knowledge in **general
+  healthcare** and social development
+- Promote **community participation** in mental health service
+  development
+
+---
+
+## District Mental Health Programme (DMHP) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Piloted in **Bellary district, Karnataka (1985–1990)** by NIMHANS —
+offering outpatient services, a small inpatient facility, referral
+services, education/awareness, and community screening — and formally
+added to the NMHP in **1996**.
+
+**Significance:** DMHP demonstrated that basic mental healthcare could be
+delivered through the **general primary health care system**, at the
+district and primary-health-centre level, rather than requiring
+specialized psychiatric hospitals alone — a direct application of the
+Alma-Ata primary health care principles from Chapter 1.
+
+---
+
+## Mental Healthcare Act, 2017 {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India's Mental Healthcare Act (2017) shifted the legal framework toward a
+**rights-based approach**, including:
+
+- The **right to access mental healthcare** as a legal entitlement
+- **Advance directives** — a person can specify, in advance, how they
+  wish (or don't wish) to be treated during a future mental health crisis
+- **Section 115** — a person who attempts suicide is **presumed to be
+  under severe stress** unless proven otherwise, and shall not be tried
+  or punished under the Indian Penal Code's suicide-attempt provision;
+  the state instead has a duty to provide **care, treatment, and
+  rehabilitation**
+
+**Effect of Section 115:** it doesn't formally repeal the underlying
+IPC provision, but makes prosecution for a suicide attempt practically
+impossible, reframing it as a health issue rather than a crime.
+
+---
+
+## WHO mhGAP: Closing the Treatment Gap {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+WHO's **Mental Health Gap Action Programme (mhGAP)**, launched in 2008,
+responds to the wide gap between mental health needs and available
+resources, especially in LMICs, through **task-shifting/task-sharing**:
+
+- Trains **non-specialist health workers** (general nurses, doctors,
+  community health workers) to identify and manage common mental,
+  neurological, and substance-use conditions
+- Uses standardized, evidence-based intervention guides so care doesn't
+  depend on scarce specialist psychiatrists alone
+
+This is the mental-health-specific application of the same
+resource-constrained, primary-care-centred logic behind DMHP.
+
+---
+
+## Stigma as a Public Health Barrier {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Stigma** — negative attitudes and discriminatory behaviour toward
+people with mental illness — is one of the strongest barriers to seeking
+and receiving mental healthcare, operating at multiple levels:
+
+- **Public stigma** — societal prejudice and stereotyping
+- **Self-stigma** — internalized shame that discourages help-seeking
+- **Structural stigma** — discriminatory policies, laws, or institutional
+  practices (which the Mental Healthcare Act 2017 explicitly tries to
+  reduce)
+
+---
+
+## Community Mental Health vs. Institutional Care {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Global mental health policy — including India's DMHP model — has shifted
+away from long-term custodial care in isolated psychiatric institutions,
+toward **community-based mental health services**: outpatient clinics,
+primary-care integration, day-care centres, and family/community
+support — improving both access and the person's ability to remain
+integrated in their community, consistent with the "social" dimension of
+health from Chapter 1.
+
+---
+
+## Suicide as a Public Health Issue {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Suicide is treated in modern public health policy as a **preventable
+public health outcome**, not solely an individual or moral failing —
+reflected in the Mental Healthcare Act's shift from criminalization to
+care. Prevention strategies span means restriction, crisis helplines,
+media reporting guidelines, and integrating suicide-risk screening into
+routine primary care.
+
+---
+
+## Common Mental Disorders: A Brief Overview {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Depression** — persistent low mood and loss of interest/pleasure,
+  the single largest contributor to years lived with disability globally
+- **Anxiety disorders** — excessive fear or worry disproportionate to
+  actual threat
+- **Bipolar disorder** — alternating episodes of depression and mania
+- **Schizophrenia** — a severe disorder involving distortions in
+  thinking, perception, and behaviour
+- **Substance use disorders** — harmful or dependent use of alcohol or
+  other psychoactive substances
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+According to WHO, mental health is best described as:
+
+- The complete absence of any mental illness
+- [A state of well-being enabling a person to cope with stress, realize their abilities, and contribute to their community]{.correct data-explanation="WHO's definition is explicitly positive and functional, not just the absence of diagnosed illness — echoing the same logic as the WHO definition of health in Chapter 1."}
+- A fixed trait present from birth
+- Only relevant to people with a diagnosed disorder
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+India's National Mental Health Programme was launched in:
+
+- 1946 (Bhore Committee)
+- 1975 (ICDS launch)
+- [1982]{.correct data-explanation="The NMHP was officially launched in August 1982, making India one of the first major developing countries with a national-level mental health programme."}
+- 2017 (Mental Healthcare Act)
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+The District Mental Health Programme (DMHP) was first piloted in:
+
+- Delhi
+- [Bellary district, Karnataka, by NIMHANS]{.correct data-explanation="The DMHP pilot ran in Bellary district, Karnataka (1985-1990), led by NIMHANS, before being formally added to the NMHP in 1996."}
+- Mumbai
+- Chennai
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Under Section 115 of the Mental Healthcare Act 2017, a person who
+attempts suicide is:
+
+- Automatically prosecuted under the Indian Penal Code
+- [Presumed to be under severe stress and entitled to care and rehabilitation rather than punishment]{.correct data-explanation="Section 115 creates a legal presumption of severe stress, shifting the state's obligation from prosecution to providing care, treatment, and rehabilitation."}
+- Required to pay a fine
+- Excluded from all future healthcare
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+WHO's mhGAP addresses the global mental health treatment gap primarily
+through:
+
+- Building more specialized psychiatric hospitals
+- [Task-shifting — training non-specialist health workers to identify and manage common mental health conditions]{.correct data-explanation="mhGAP's core strategy is task-shifting/sharing: equipping non-specialist health workers with standardized guides to deliver basic mental health care where psychiatrists are scarce."}
+- Restricting access to mental healthcare to reduce costs
+- Replacing all community care with institutional care
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *Mental health: strengthening our
+   response* — fact sheet.
+2. Government of India. *National Mental Health Programme* — Ministry of
+   Health & Family Welfare / National Health Mission.
+3. Indian Journal of Psychiatry. "District mental health program: Then
+   and now."
+4. The Mental Healthcare Act, 2017 (Government of India) — Section 115.
+5. World Health Organization (2008). *Mental Health Gap Action Programme
+   (mhGAP)*.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Health Programmes in India
+
+[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/26 | [Next Chapter →](../programs/health-programmes.html)

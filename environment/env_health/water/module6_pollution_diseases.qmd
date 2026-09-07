@@ -8,10 +8,12 @@ format:
     theme: dark
     transition: slide
     center: true
-    footer: "[← Previous](module5_water_treatment.html) | [Home](#home) | Module 3/8 | [Next →](module7_surveillance.html)"
+    footer: "[← Previous](module5_water_treatment.html) | [Top](#home) | [Contents](../../../intro.html) | Module 3/8 | [Next →](module7_surveillance.html)"
     width: 1200
     height: 720
 echo: false
+revealjs-plugins:
+  - local/autosize
 ---
 
 ## Module 6: Water Pollution & Diseases {.center #home}

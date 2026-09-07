@@ -1,0 +1,377 @@
+---
+title: "Epidemiologic Methods"
+subtitle: "Study Designs, Measures of Association, and Bias"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](principles-epidemiology.html) | [Top](#home) | [Contents](../intro.html) | Chapter 4/26 | [Next Chapter →](screening.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Epidemiologic Methods
+
+**Learning Objectives:**
+
+- Compare cohort, case-control, cross-sectional, and ecological study designs
+- Calculate and interpret relative risk (RR) and odds ratio (OR)
+- Calculate attributable risk and attributable risk percent
+- Describe the design and purpose of a randomized controlled trial
+- Distinguish selection bias, information bias, and confounding
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter builds directly on Chapter 3's incidence/prevalence and the
+overview of study-design categories, going into the analytical and
+experimental designs in depth.
+:::
+
+---
+
+## The 2×2 Table {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Every analytical epidemiological comparison starts from a 2×2 table of
+exposure vs. outcome:
+
+| | Disease + | Disease − |
+|---|---|---|
+| **Exposed** | a | b |
+| **Unexposed** | c | d |
+
+All of the measures on the following slides — relative risk, odds ratio,
+attributable risk — are calculated directly from these four cell counts
+(a, b, c, d).
+
+---
+
+## Cohort Study {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Design:** starts with a disease-free population, divides it by
+**exposure status**, and follows both groups forward in time to compare
+who develops disease.
+
+- **Prospective cohort** — exposure and outcome measured going forward
+  from now
+- **Retrospective cohort** — exposure already recorded in the past;
+  outcome is determined by looking forward from that point
+
+**Direct measure obtained:** incidence in both groups →
+**Relative Risk (RR)**
+
+`RR = [a / (a+b)] / [c / (c+d)]`
+
+RR > 1 suggests increased risk with exposure; RR = 1 suggests no
+association; RR < 1 suggests a protective effect.
+
+---
+
+## Case-Control Study {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Design:** starts with people who already have the disease (**cases**)
+and people who don't (**controls**), then looks **backward** to compare
+their past exposure.
+
+- Cannot calculate incidence directly (cases are already selected) — so
+  RR cannot be measured directly
+- Instead calculates the **Odds Ratio (OR)**:
+
+`OR = (a × d) / (b × c)`
+
+**Rare disease assumption:** when the disease is uncommon (roughly
+<10% in the unexposed group), OR closely approximates RR — this is why
+case-control studies are widely used to estimate risk for rare diseases.
+
+---
+
+## Cohort vs. Case-Control {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| | Cohort | Case-Control |
+|---|---|---|
+| **Starts from** | Exposure status | Disease status |
+| **Direction** | Forward in time | Backward in time |
+| **Best for** | Rare exposures | Rare diseases |
+| **Measure obtained** | Relative Risk | Odds Ratio |
+| **Cost/duration** | Higher, longer | Lower, faster |
+| **Recall bias risk** | Low | Higher |
+
+---
+
+## Attributable Risk {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Attributable Risk (AR)** is the excess risk in the exposed group that is
+directly due to the exposure — the risk difference:
+
+`AR = Risk in exposed − Risk in unexposed`
+
+**Attributable Risk Percent (AR%)** expresses this as a proportion of the
+total risk in the exposed group — i.e. how much of the exposed group's
+risk would be eliminated if the exposure were removed:
+
+`AR% = [(Risk exposed − Risk unexposed) / Risk exposed] × 100`
+
+**Contrast with RR:** RR tells you the *strength* of an association;
+AR/AR% tells you the *public health impact* of removing the exposure.
+
+---
+
+## Randomized Controlled Trial (RCT) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Design:** the investigator actively and **randomly** assigns
+participants to an intervention group or a control/comparison group, then
+follows both forward to compare outcomes.
+
+- **Randomization** balances known and unknown confounders between
+  groups — the key strength of the RCT design
+- **Blinding** (single/double) reduces information bias from participants
+  or assessors knowing group assignment
+- Considered the strongest design for establishing causation, but often
+  impractical or unethical for harmful exposures (you cannot randomize
+  people to smoke, for instance — hence cohort/case-control designs exist)
+
+---
+
+## Cross-Sectional and Ecological Studies {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Cross-sectional study** — measures exposure and disease
+  **simultaneously**, at a single point in time, in a population; useful
+  for estimating **prevalence**, but cannot establish which came first
+  (exposure or disease) — the key limitation
+- **Ecological study** — compares exposure and disease rates across
+  **groups/populations**, not individuals (e.g. comparing national
+  smoking rates to national lung cancer rates); fast and cheap, but
+  vulnerable to the **ecological fallacy** — a group-level association
+  doesn't guarantee the same association holds for individuals
+
+---
+
+## Selection Bias {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Occurs when the individuals selected into a study are **not
+representative** of the population they're meant to reflect — e.g.
+volunteer bias, or a hospital-based control group that differs
+systematically from the general population.
+
+**Must be prevented at the design stage** — it generally cannot be fixed
+by statistical adjustment after data are collected.
+
+---
+
+## Information Bias {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Arises from **inaccurate measurement** of exposure or outcome —
+including:
+
+- **Recall bias** — cases (who are searching for an explanation for their
+  illness) may remember or report past exposures differently than
+  controls — a particular risk in case-control studies
+- **Observer/interviewer bias** — differential data collection depending
+  on which group a participant is in
+
+Like selection bias, this is best prevented by design (blinding,
+standardized measurement) rather than fixed afterward.
+
+---
+
+## Confounding {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A **confounder** is a third factor that is associated with *both* the
+exposure and the outcome, and distorts the apparent exposure–disease
+association — it can exaggerate, mask, or even reverse the true
+direction of an effect.
+
+**Example:** age can confound the association between grey hair and heart
+disease — older people have more grey hair *and* more heart disease, with
+no direct causal link between the two.
+
+**Unlike selection and information bias, confounding can be addressed
+after data collection** — through stratification, matching, or
+statistical adjustment (e.g. multivariable regression) — as well as
+through randomization at the design stage.
+
+---
+
+## Ecological Fallacy — A Closer Look {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The ecological fallacy is the specific error of assuming that a
+correlation observed at the group/population level must also hold at the
+individual level. A classic teaching example: countries with higher
+average chocolate consumption have been shown to have more Nobel
+laureates per capita — an association at the national level that says
+nothing about whether any individual eating more chocolate is more likely
+to win a Nobel Prize.
+
+---
+
+## Number Needed to Treat {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+**Number Needed to Treat (NNT)** is a clinically-oriented extension of
+attributable risk, used mainly for trial results: the number of patients
+who need to receive an intervention for one additional patient to
+benefit, calculated as the reciprocal of the absolute risk reduction
+(`NNT = 1 / AR`, expressed as risk difference).
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A study begins by identifying people with lung cancer and people without
+it, then looks backward at their smoking history. This is a:
+
+- Cohort study
+- [Case-control study]{.correct data-explanation="Starting from disease status (cases vs. controls) and looking backward at exposure defines a case-control study."}
+- Randomized controlled trial
+- Ecological study
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which measure of association can be directly calculated from a cohort
+study but NOT from a case-control study?
+
+- Odds Ratio
+- [Relative Risk]{.correct data-explanation="Cohort studies measure incidence directly in both exposed and unexposed groups, allowing direct calculation of relative risk; case-control studies cannot, since cases are already selected."}
+- p-value
+- Confidence interval
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Attributable Risk Percent (AR%) is best described as:
+
+- The strength of an association
+- [The proportion of exposed-group risk that would be eliminated if the exposure were removed]{.correct data-explanation="AR% expresses the exposed group's excess risk due to the exposure as a percentage of their total risk — a measure of public health impact, not just association strength."}
+- The same value as the Odds Ratio
+- A measure only usable in RCTs
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+The main strength of randomization in an RCT is that it:
+
+- Guarantees a statistically significant result
+- [Balances known and unknown confounders between the intervention and control groups]{.correct data-explanation="Randomization's key strength is distributing both known and unknown confounding factors evenly across groups, isolating the effect of the intervention."}
+- Removes the need for a control group
+- Eliminates all information bias automatically
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+A country-level comparison of average salt intake against average blood
+pressure across nations, without individual-level data, is an example of:
+
+- A cohort study
+- A case-control study
+- [An ecological study]{.correct data-explanation="Comparing exposure and outcome rates across groups/populations rather than individuals is the defining feature of an ecological study."}
+- A randomized controlled trial
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+Which type of bias or distortion CAN typically still be corrected during
+data analysis, after the study has been conducted?
+
+- Selection bias
+- Recall bias
+- [Confounding]{.correct data-explanation="Unlike selection and information bias, confounding can be addressed after data collection through stratification, matching, or statistical adjustment."}
+- Interviewer bias
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Boston University School of Public Health. *Case-Control Studies* and
+   *Measuring Association in Case-Control Studies* — Epidemiology
+   teaching modules.
+2. Centers for Disease Control and Prevention. *Principles of
+   Epidemiology in Public Health Practice* (3rd ed.), Lesson 3.
+3. Rothman, K.J., Greenland, S., Lash, T.L. *Modern Epidemiology* (3rd
+   ed.). Lippincott Williams & Wilkins.
+4. Wikipedia contributors. "Attributable fraction among the exposed" and
+   "Randomized controlled trial."
+
+---
+
+## Thank You!
+
+**Next Chapter:** Screening for Disease
+
+[← Previous](principles-epidemiology.html) | [Top](#home) | [Contents](../intro.html) | Chapter 4/26 | [Next Chapter →](screening.html)

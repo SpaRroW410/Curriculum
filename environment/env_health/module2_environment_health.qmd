@@ -13,7 +13,9 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](module1_one_health.html) | [Home](#home) | Module 2/8 | [Next →](module3_water_quality.html)"
+    footer: "[← Previous](module1_one_health.html) | [Top](#home) | [Contents](../../intro.html) | Module 2/8 | [Next →](module3_water_quality.html)"
+revealjs-plugins:
+  - local/autosize
 ---
 
 ## Welcome to Module 2 {#home}
@@ -638,7 +640,7 @@ A village has 100% toilet coverage but diarrheal disease rates remain high. Poss
 
 **Next Module:** Water Quality Standards & Criteria
 
-[← Previous](module1_one_health.html) | [Home](#home) | Module 2/8 | [Next →](module3_water_quality.html)
+[← Previous](module1_one_health.html) | [Top](#home) | [Contents](../../intro.html) | Module 2/8 | [Next →](module3_water_quality.html)
 
 **Questions or feedback?** Contact your instructor.
 

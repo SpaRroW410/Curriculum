@@ -1,0 +1,272 @@
+---
+title: "Health Information and Basic Medical Statistics"
+subtitle: "Sources, Indicators, and Summary Measures of Population Health"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/26 | [Next Chapter →](health-education.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Health Information and Basic Medical Statistics
+
+**Learning Objectives:**
+
+- Distinguish Civil Registration from India's Sample Registration System (SRS)
+- Define life expectancy at birth, IMR, and MMR
+- Break down the DALY formula into its YLL and YLD components
+- Distinguish DALYs from QALYs
+- Recognize basic data-presentation formats used in health information systems
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+DALYs were already introduced conceptually in the NCD and Mental Health
+chapters; this chapter gives the actual formula and its components,
+alongside the vital-statistics data sources that feed all the rates
+defined back in the Demography chapter.
+:::
+
+---
+
+## Civil Registration vs. Sample Registration {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Civil Registration System (CRS)** — aims at **universal, legal
+  registration** of every individual birth and death, for documentary and
+  legal purposes
+- **Sample Registration System (SRS), India** — a **sample-based
+  statistical** exercise (not universal registration), designed to
+  **estimate rates**, not register individuals; operates via dual
+  recording (continuous local enumeration plus independent retrospective
+  half-yearly surveys) across a representative sample of units nationwide
+
+**Why SRS exists alongside CRS:** where civil registration completeness
+is incomplete, SRS provides India's most reliable source of birth/death
+rate estimates — it has served as the standard data source for India's
+mortality indicators since the late 1960s.
+
+---
+
+## Life Expectancy at Birth {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Life expectancy at birth** — the average number of years a newborn is
+expected to live, if current age-specific mortality patterns remain
+constant throughout their lifetime.
+
+It is a **summary indicator of mortality across every age group at once**,
+which is why it's widely used to compare overall health/longevity between
+regions or countries, rather than relying on any single age-specific
+death rate alone.
+
+---
+
+## Infant and Maternal Mortality Indicators {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Infant Mortality Rate (IMR)** — deaths of infants under 1 year of age,
+per 1,000 live births, in a given year.
+
+**Maternal Mortality Ratio (MMR)** — deaths of women from pregnancy-
+related causes, per **100,000 live births** (note the different
+denominator scale from IMR).
+
+Both are core indicators already referenced as SDG 3 targets (Chapter
+12) — this chapter defines the measures themselves, which those targets
+are expressed in.
+
+---
+
+## DALY: Breaking Down the Formula {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**DALY = YLL + YLD**
+
+- **YLL (Years of Life Lost)** = number of deaths × standard life
+  expectancy at age of death — the *fatal* component
+- **YLD (Years Lived with Disability)** = number of new cases × disability
+  weight × average duration of disability — the *non-fatal* component
+
+**Disability weight** ranges from 0 (no limitation) to 1 (a health state
+equivalent to death), assigned per condition based on its severity.
+
+**One DALY = one lost year of healthy life** — combining death and
+disability into a single comparable unit, which is exactly what allowed
+Chapters 7 and 10 to compare the burden of NCDs and mental disorders on
+the same scale as fatal disease.
+
+---
+
+## DALY vs. QALY {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **DALY** — measures **healthy years lost** (burden); uses standardized
+  disability weights; the dominant metric in global/population health
+  burden studies (e.g. WHO's Global Burden of Disease)
+- **QALY** — measures **years lived in good health gained**; uses
+  preference-based weights (often elicited from patients or the public);
+  the dominant metric in **health economics and cost-effectiveness**
+  analysis for individual treatments
+
+**Exam tip:** DALY counts what's lost; QALY counts what's gained — they
+are conceptually mirror images, built for different purposes (population
+burden vs. treatment cost-effectiveness).
+
+---
+
+## Presenting Health Data {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Common formats for presenting health information, each suited to a
+different purpose:
+
+- **Tables** — precise values, good for reference and detailed comparison
+- **Bar/line graphs** — trends over time or comparison across categories
+  or places (recall Chapter 3's person/place/time descriptive framework)
+- **Pie charts** — proportions of a whole (e.g. cause-of-death
+  distribution)
+- **Maps** — geographic distribution — the same logic John Snow used with
+  cholera cases in 1854 (Chapter 3)
+
+Choosing the right format is itself a communication decision, not just a
+technical one — it shapes how policymakers and the public interpret the
+same underlying data.
+
+---
+
+## National Family Health Survey (NFHS) {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Alongside the Census and SRS, India's **National Family Health Survey**
+is a large-scale household survey providing detailed data on fertility,
+family planning, maternal and child health, nutrition, and mortality —
+often used alongside SRS data to produce more granular, sub-national
+estimates (e.g. state- or district-level life expectancy), where SRS
+sample sizes alone may be too small for reliable local estimates.
+
+---
+
+## Health Management Information System (HMIS) {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Beyond periodic surveys and registration systems, India's routine
+facility-level reporting flows into a **Health Management Information
+System (HMIS)** — data reported upward from Sub-Centres, PHCs, and CHCs
+(the same three-tier structure referenced in later chapters), used for
+ongoing programme monitoring rather than the periodic, sample-based
+estimates that SRS and NFHS provide.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Unlike the Civil Registration System, India's Sample Registration System
+(SRS) is designed to:
+
+- Legally register every birth and death nationwide
+- [Estimate vital rates from a representative sample of units, not register individuals]{.correct data-explanation="SRS is a sample-based statistical exercise for estimating rates, distinct from CRS's goal of universal legal registration of every individual event."}
+- Replace the Census entirely
+- Only record deaths, not births
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Maternal Mortality Ratio (MMR) is expressed per how many live births?
+
+- 1,000
+- 10,000
+- [100,000]{.correct data-explanation="MMR uses a per-100,000-live-births denominator, distinct from IMR's per-1,000 scale — a frequently tested distinction."}
+- 1,000,000
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+In the DALY formula, YLD (Years Lived with Disability) is calculated
+using incidence, duration, and:
+
+- Life expectancy at age of death
+- [Disability weight]{.correct data-explanation="YLD = incidence x disability weight x duration. Life expectancy at age of death is instead used in the YLL (fatal) component."}
+- Total population size
+- Crude death rate
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Which statement correctly distinguishes DALYs from QALYs?
+
+- They are identical measures with different names
+- [DALYs measure healthy years lost using standardized weights; QALYs measure years gained in good health using preference-based weights]{.correct data-explanation="DALYs (burden, standardized disability weights) and QALYs (benefit gained, preference-based weights) are conceptual mirror images used for different purposes -- population burden vs. treatment cost-effectiveness."}
+- QALYs are used only for infectious disease
+- DALYs cannot be used for non-fatal conditions
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Office of the Registrar General, India. *Sample Registration System
+   (SRS)* — UN Statistics Wiki overview.
+2. World Health Organization. *Global Health Observatory* — life
+   expectancy, IMR, MMR definitions.
+3. National Collaborating Centre for Infectious Diseases. "Understanding
+   Summary Measures Used to Estimate the Burden of Disease: All about
+   HALYs, DALYs and QALYs."
+4. GiveWell. "Interpreting the Disability-Adjusted Life-Year (DALY)
+   Metric."
+
+---
+
+## Thank You!
+
+**Next Chapter:** Communication for Health Education
+
+[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/26 | [Next Chapter →](health-education.html)

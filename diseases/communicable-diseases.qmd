@@ -1,0 +1,361 @@
+---
+title: "Epidemiology of Communicable Diseases"
+subtitle: "The Chain of Infection, Transmission, and Control"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/26 | [Next Chapter →](ncd.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Epidemiology of Communicable Diseases
+
+**Learning Objectives:**
+
+- Describe the six links in the chain of infection
+- Classify modes of transmission of communicable disease
+- Define basic reproduction number (R₀) and herd immunity threshold
+- Distinguish isolation from quarantine
+- Apply the levels of prevention to communicable disease control
+- Outline the standard steps of an outbreak investigation
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter applies Chapter 2's levels of prevention and Chapter 3's
+epidemiological triad specifically to infectious disease, and opens the
+Diseases section of the curriculum.
+:::
+
+---
+
+## The Chain of Infection {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Communicable disease transmission depends on six linked elements — break
+any one link, and transmission stops:
+
+1. **Infectious agent** — the causative organism
+2. **Reservoir** — where the agent lives and multiplies (human, animal,
+   or environment)
+3. **Portal of exit** — how the agent leaves the reservoir (respiratory
+   tract, gut, skin, blood)
+4. **Mode of transmission** — how it travels to a new host
+5. **Portal of entry** — how it enters the new host
+6. **Susceptible host** — an individual capable of being infected
+
+---
+
+## Modes of Transmission {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+:::: {.columns}
+::: {.column width="50%"}
+**Direct transmission**
+
+- Direct contact (touch, sexual contact)
+- Droplet spread (coughing, sneezing, over short distance)
+- Transplacental (mother to fetus)
+:::
+
+::: {.column width="50%"}
+**Indirect transmission**
+
+- **Vehicle-borne** — contaminated water, food, fomites
+- **Vector-borne** — via an insect/arthropod (mechanical or biological)
+- **Airborne** — droplet nuclei or dust suspended in air over distance
+:::
+::::
+
+---
+
+## Reservoirs of Infection {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Human reservoir** — a case (symptomatic) or a **carrier**
+  (asymptomatic but infectious)
+- **Animal reservoir** — diseases transmitted from vertebrate animals to
+  humans are called **zoonoses**
+- **Environmental reservoir** — soil, water (e.g. tetanus spores in soil,
+  *Legionella* in water systems)
+
+---
+
+## Basic Reproduction Number (R₀) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**R₀** is the average number of secondary infections produced by one
+infected person in a **completely susceptible** population.
+
+- **R₀ > 1** → each case generates more than one new case → epidemic
+  potential
+- **R₀ < 1** → the outbreak is expected to die out
+- **R₀ = 1** → disease remains endemic at a steady rate
+
+---
+
+## Herd Immunity {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Herd immunity** is indirect protection of susceptible individuals when
+a sufficiently high proportion of a population is immune, breaking chains
+of transmission even for those who aren't immune themselves.
+
+**Herd immunity threshold (HIT):**
+
+`HIT = 1 − (1 / R₀)`
+
+**Example:** a disease with R₀ = 3 needs roughly two-thirds (66%) of the
+population immune to interrupt sustained transmission.
+
+---
+
+## Levels of Prevention Applied to Communicable Disease {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Chapter 2's levels of prevention map directly onto infectious disease
+control:
+
+| Level | Communicable disease example |
+|---|---|
+| **Primordial** | Improving sanitation and housing before any outbreak risk exists |
+| **Primary** | Immunization, vector control, safe water |
+| **Secondary** | Case detection, contact tracing, early treatment |
+| **Tertiary** | Rehabilitation from disease sequelae (e.g. post-polio care) |
+
+---
+
+## Isolation vs. Quarantine {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Isolation** — separating a person **already known to be infected**
+  (diagnosed or symptomatic) from others, until no longer contagious
+- **Quarantine** — separating a person who was **exposed** but is not yet
+  known to be infected, for the duration of the incubation period, to see
+  if disease develops
+
+**Both are control measures acting on different links of the chain of
+infection** — isolation removes an active reservoir; quarantine
+interrupts transmission from a potential future case.
+
+---
+
+## Secondary Attack Rate {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Secondary Attack Rate (SAR)** measures how contagious a disease is
+within a close-contact group (e.g. a household), following exposure to a
+primary case:
+
+`SAR = (New cases among contacts) / (Total susceptible contacts)`
+
+Related concept — **incubation period**: the time between exposure to an
+infectious agent and the first appearance of symptoms; it determines how
+long quarantine should last.
+
+---
+
+## Outbreak Investigation: The 10 Steps {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The standard CDC-style sequence for investigating a suspected outbreak:
+
+1. Prepare for field work
+2. Establish the existence of an outbreak
+3. Verify the diagnosis
+4. Define and identify cases
+5. Describe data by time, place, and person
+6. Develop hypotheses
+7. Evaluate hypotheses
+8. Refine hypotheses / conduct additional studies
+9. Implement control and prevention measures
+10. Communicate findings
+
+*(In practice these steps often overlap and don't run strictly in order —
+control measures, for instance, are often started well before the
+investigation formally concludes.)*
+
+---
+
+## Emerging and Re-emerging Infections {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Emerging infectious diseases** — newly identified, or newly
+  significant, infections in a population (e.g. a novel pathogen)
+- **Re-emerging infectious diseases** — previously controlled diseases
+  that increase again (e.g. due to declining vaccination coverage,
+  antimicrobial resistance, or ecological change)
+
+Both categories are driven by similar factors: urbanization, travel,
+climate change, land-use change, and breakdowns in public health
+infrastructure.
+
+---
+
+## Smallpox Eradication {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Smallpox remains the only human disease ever declared **eradicated**
+(WHO, 1980), achieved through a global vaccination campaign combined with
+**surveillance-containment** ("ring vaccination" around each detected
+case) rather than mass vaccination alone. It remains the reference case
+study for what a successful global eradication program requires: an
+effective vaccine, no animal reservoir, and a recognizable, short-lived
+infectious stage.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Which of the following is NOT one of the six links in the chain of
+infection?
+
+- Reservoir
+- Portal of exit
+- [Herd immunity]{.correct data-explanation="Herd immunity is a population-level protective effect, not one of the six links (agent, reservoir, portal of exit, mode of transmission, portal of entry, susceptible host)."}
+- Susceptible host
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+A disease has R₀ = 4. What proportion of the population must be immune to
+reach the herd immunity threshold?
+
+- 25%
+- 50%
+- [75%]{.correct data-explanation="HIT = 1 − (1/R0) = 1 − (1/4) = 0.75, or 75%."}
+- 100%
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A person who was exposed to a confirmed case, but has no symptoms and an
+unknown infection status, is placed in separate accommodation for the
+duration of the disease's incubation period. This is:
+
+- Isolation
+- [Quarantine]{.correct data-explanation="Quarantine applies to exposed-but-not-yet-confirmed individuals, for the length of the incubation period."}
+- Ring vaccination
+- Contact tracing
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Malaria, transmitted from an infected person to a new host via a
+mosquito, is an example of which mode of transmission?
+
+- Direct contact
+- Droplet spread
+- [Vector-borne transmission]{.correct data-explanation="Vector-borne transmission occurs when a living arthropod (here, the mosquito) carries the agent between hosts."}
+- Fomite transmission
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+In the standard outbreak-investigation sequence, "develop hypotheses"
+comes immediately after which step?
+
+- Verify the diagnosis
+- [Describe data by time, place, and person]{.correct data-explanation="Descriptive epidemiology (time, place, person) is used to generate hypotheses about the outbreak's source, which is the very next step."}
+- Implement control measures
+- Communicate findings
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+Smallpox eradication (1980) is the only successful human disease
+eradication to date. Which factor was essential to its success?
+
+- Mass vaccination of the entire world population simultaneously
+- [An effective vaccine combined with surveillance and ring vaccination around detected cases, with no animal reservoir]{.correct data-explanation="Smallpox's eradication relied on a highly effective vaccine, surveillance-containment (ring vaccination), and the absence of any animal reservoir to reintroduce the virus."}
+- Herd immunity reaching exactly 50%
+- Elimination of the mosquito vector
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. NCBI Bookshelf. *Chapter 4: Adhere to Principles of Infection
+   Control — Chain of Infection*.
+2. Plus Maths / University of Cambridge. "Maths in a minute: R nought and
+   herd immunity."
+3. Penn Today. "Quarantine or isolation? An updated glossary."
+4. Wikipedia. "Secondary attack rate."
+5. Centers for Disease Control and Prevention. *Steps of an Outbreak
+   Investigation* (10-step framework).
+6. World Health Organization (1980). *Declaration of Global Eradication
+   of Smallpox*.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Epidemiology of Chronic Non-Communicable Diseases
+
+[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/26 | [Next Chapter →](ncd.html)

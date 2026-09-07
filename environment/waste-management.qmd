@@ -1,0 +1,230 @@
+---
+title: "Hospital Waste Management"
+subtitle: "Biomedical Waste Categories, Colour Coding, and Treatment"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](environment-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 17/26 | [Next Chapter →](disaster-management.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Hospital Waste Management
+
+**Learning Objectives:**
+
+- State the four colour-coded categories under India's Biomedical Waste Management Rules, 2016
+- Explain why segregation at the point of generation is the critical first step
+- Compare autoclaving and incineration as treatment methods
+- Identify which waste types must NOT be autoclaved
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter opens the remaining Environment section stubs, connecting
+back to Chapter 6's chain of infection (improperly managed biomedical
+waste is itself a potential mode of transmission).
+:::
+
+---
+
+## Biomedical Waste Management Rules, 2016 {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India's **Biomedical Waste Management Rules, 2016** simplified
+classification from the earlier 2011 rules' 10 categories down to
+**four colour-coded categories**, based on segregation pathway:
+
+| Colour | Contents |
+|---|---|
+| **Yellow** | Human/animal anatomical waste, soiled waste (blood/body-fluid contaminated items), expired medicines, chemical waste, microbiological/lab waste |
+| **Red** | Contaminated recyclable plastics (used syringes without needles, IV sets, catheters) |
+| **White (translucent)** | Sharps waste (needles, scalpels, lancets) |
+| **Blue** | Glassware (vials, slides) |
+
+**Why colour coding matters:** it lets every level of hospital staff —
+not only specialists — segregate correctly without needing to identify
+the exact biological or chemical nature of each item.
+
+---
+
+## Segregation at the Point of Generation {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Segregation is the single most critical step** in the entire waste
+management chain — it must happen **at the moment waste is generated**,
+by the healthcare worker producing it, not sorted out later.
+
+**Why it can't be fixed downstream:** once waste streams are mixed
+(e.g. a hazardous chemical placed with general waste), the entire mixed
+batch typically has to be treated as the more hazardous category —
+increasing cost, risk, and treatment complexity for everything that
+follows.
+
+---
+
+## Treatment Methods: Autoclaving vs. Incineration {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Autoclaving** — steam sterilization under high pressure and heat,
+  killing infectious agents; produces **significantly less air
+  pollution** than incineration; **cannot** be used for volatile/
+  semi-volatile organic compounds, cytotoxic waste, mercury or other
+  hazardous chemicals, or radioactive waste
+- **Incineration** — burning at over **800°C** to destroy pathogens;
+  necessary for anatomical waste and certain chemical/pharmaceutical
+  waste that autoclaving cannot safely handle, but produces more air
+  emissions
+
+**Exam tip:** the choice between methods is *not* about which is
+"better" in general — it's about matching the treatment method to the
+specific waste category (recall the Yellow category's sub-types requiring
+different treatments: incineration, deep burial, or plasma pyrolysis
+depending on sub-type).
+
+---
+
+## Why Waste Management Is a Public Health Issue {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Poorly managed biomedical waste creates a direct **portal of exit** and
+**mode of transmission** in Chapter 6's chain-of-infection sense —
+needle-stick injuries from improperly discarded sharps, and improperly
+treated infectious waste re-entering the community through informal
+waste-picking, are both documented occupational and community health
+risks. Effective waste management is therefore a form of **primary
+prevention** (Chapter 2) at the health-facility level.
+
+---
+
+## Additional Treatment Options {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Beyond autoclaving and incineration:
+
+- **Irradiation/microwaving** — decontaminates infectious and sharps
+  waste using electromagnetic energy rather than heat or steam
+- **Deep burial** — permitted only in specific rural/remote settings
+  under regulatory conditions, for certain anatomical waste
+- **Plasma pyrolysis** — a higher-technology thermal treatment for
+  certain waste sub-types, increasingly used where infrastructure
+  permits
+
+---
+
+## Comparative Environmental Performance {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Life-cycle assessment research comparing treatment methods has found
+autoclaving performing better than incineration-plus-landfill on both
+**toxicity and climate impact indicators** in some studies — a reminder
+that waste management decisions increasingly weigh environmental impact
+alongside pathogen-kill effectiveness and cost.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Under India's Biomedical Waste Management Rules 2016, used needles and
+scalpels belong in which colour category?
+
+- Yellow
+- Red
+- [White (translucent)]{.correct data-explanation="Sharps waste (needles, scalpels, lancets) is assigned to the white (translucent) category under the 2016 rules."}
+- Blue
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The most critical step in biomedical waste management is:
+
+- Incineration temperature control
+- [Segregation at the point of generation]{.correct data-explanation="Segregation must happen at the moment waste is generated -- once waste streams are mixed, the entire batch typically must be treated as the more hazardous category."}
+- Colour-coding the storage room walls
+- Annual regulatory inspection
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Which of the following should NOT be treated by autoclaving?
+
+- Contaminated gauze
+- [Cytotoxic and radioactive waste]{.correct data-explanation="Autoclaving cannot safely treat volatile/semi-volatile organic compounds, cytotoxic waste, mercury, other hazardous chemicals, or radioactive waste -- these require alternative treatment methods."}
+- Used IV sets
+- General soiled linen
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Incineration of biomedical waste is typically carried out at
+temperatures exceeding:
+
+- 100°C
+- 300°C
+- [800°C]{.correct data-explanation="Incineration burns waste at temperatures exceeding 800 degrees Celsius to reliably destroy pathogens."}
+- 5000°C
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Ministry of Environment, Forest and Climate Change, Government of
+   India. *Biomedical Waste Management Rules, 2016*.
+2. World Health Organization. *Module 15: Non-Incineration Treatment and
+   Disposal of Healthcare Waste*.
+3. PMC. "Incineration or Autoclave? A Comparative Study in Isfahan
+   Hospitals Waste Management System."
+
+---
+
+## Thank You!
+
+**Next Chapter:** Disaster Management
+
+[← Previous](environment-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 17/26 | [Next Chapter →](disaster-management.html)

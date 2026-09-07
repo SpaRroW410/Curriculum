@@ -1,0 +1,271 @@
+---
+title: "Health Planning and Management"
+subtitle: "The Planning Cycle and Core Management Functions"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/26 | [Next Chapter →](community-health.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Health Planning and Management
+
+**Learning Objectives:**
+
+- Describe the steps of the health planning cycle
+- Explain the criteria used for setting health priorities
+- Trace the role of India's Five-Year Plans in health sector development, and the transition to NITI Aayog
+- List Gulick's seven POSDCORB management functions
+- Apply the planning cycle to a national health programme example
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter is the operational/administrative counterpart to earlier
+programme-content chapters (11-15) — it explains how such programmes are
+planned and managed, not what they contain.
+:::
+
+---
+
+## The Health Planning Cycle {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A standard sequence used to plan any health programme or policy:
+
+1. **Situation analysis** — collect and interpret data on the population,
+   morbidity/mortality, disease distribution, existing facilities and
+   manpower, and community attitudes and beliefs
+2. **Establishing objectives and goals**
+3. **Assessing available resources**
+4. **Fixing priorities**
+5. **Writing up the formulated plan**
+6. **Programming and implementation** — translating policy into annual
+   operational plans
+7. **Monitoring** — ongoing tracking, enabling timely correction
+8. **Evaluation** — assessing whether objectives were achieved
+   (efficiency, acceptance, adequacy)
+
+**Note the direct parallel to Chapter 3's descriptive epidemiology** —
+situation analysis is essentially applying the person/place/time
+framework at the planning stage.
+
+---
+
+## Setting Health Priorities {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+With finite resources, not every identified problem can be addressed at
+once. Standard criteria for prioritization include:
+
+- **Burden of disease** (DALYs — Chapter 21)
+- **Equity** — impact on the most disadvantaged groups (Chapter 23's
+  social determinants lens)
+- **Feasibility** — technical and political practicality of intervening
+- **Cost-effectiveness** — health gain per unit of resource spent
+
+This is the planning-level application of Rose's population vs. high-risk
+strategy trade-off from Chapter 7 — priority-setting decides *which*
+problems get a population-wide response at all.
+
+---
+
+## India's Five-Year Plans and Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India ran **twelve Five-Year Plans (1951–2017)**, formulated by the
+**Planning Commission** (established 1950, chaired by the Prime
+Minister), each setting specific economic and social development
+targets — including health-sector allocations for infrastructure,
+disease control, and human resources.
+
+- **1969** — the **Gadgil formula** introduced transparent, criteria-
+  based resource allocation to states
+- **2015** — the Planning Commission was replaced by **NITI Aayog**
+  (National Institution for Transforming India), which since the 12th
+  Plan's completion (2017) has taken over health-sector planning and
+  programming with a more **flexible, non-five-year framework**
+
+---
+
+## POSDCORB: Core Management Functions {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Luther Gulick's classic 1937 framework, describing the seven universal
+functions of any executive/manager — directly applicable to running a
+health programme or facility:
+
+- **P**lanning
+- **O**rganizing
+- **S**taffing
+- **D**irecting
+- **CO**ordinating
+- **R**eporting
+- **B**udgeting
+
+**Why it's still taught:** it gives a simple, complete checklist for
+"what does managing a health programme actually involve" beyond just
+clinical or technical content — the same operational lens this chapter
+applies to Chapters 11–15's programme content.
+
+---
+
+## Applying the Cycle: A Worked Example {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Consider NSCAEM (Chapter 15): **situation analysis** established the
+disproportionate tribal-population sickle cell burden; **priority
+setting** targeted it specifically because of its concentrated, genetic,
+identifiable nature; **implementation** rolled out mass screening;
+**monitoring** tracks screening numbers against the 7-crore target; final
+**evaluation** will assess progress toward the 2047 elimination goal.
+Every named national programme in this curriculum has moved through
+these same planning-cycle stages, whether or not it's stated explicitly.
+
+---
+
+## Health Systems Building Blocks {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+WHO describes six interacting "building blocks" that any functioning
+health system's planning must account for: **service delivery,
+health workforce, health information systems, access to essential
+medicines, financing, and leadership/governance**. Weakness in any one
+block — e.g. a health workforce shortage in tribal areas (Chapter 15) —
+limits the effectiveness of planning and management improvements made
+elsewhere.
+
+---
+
+## From Five-Year Plans to Flexible Governance {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The shift from fixed Five-Year Plans to NITI Aayog's more continuous,
+flexible planning approach reflects a broader governance trend also seen
+in global health policy — the same broad movement from the MDGs' fixed,
+time-bound targets to the SDGs' more integrated, continuously monitored
+agenda (Chapter 12).
+
+---
+
+## Management Span of Control {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Gulick and Urwick, alongside POSDCORB, also argued for a limited
+**"span of control"** — recommending roughly 3–6 subordinates per
+manager for effective coordination — a principle still referenced in
+designing supervisory structures for large-scale health programmes with
+many frontline workers (e.g. ASHA supervision structures under NHM).
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+In the health planning cycle, "situation analysis" primarily involves:
+
+- Writing the final budget
+- [Collecting and interpreting data on population, disease distribution, resources, and community attitudes]{.correct data-explanation="Situation analysis is the data-gathering and interpretation phase that precedes objective-setting, priority-setting, and implementation."}
+- Evaluating a completed programme
+- Assigning staff to roles
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which of the following is NOT one of the standard criteria for setting
+health priorities?
+
+- Burden of disease
+- Cost-effectiveness
+- [Alphabetical order of disease name]{.correct data-explanation="Standard prioritization criteria are burden of disease, equity, feasibility, and cost-effectiveness -- not an arbitrary ordering like alphabetical listing."}
+- Equity
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+India's Planning Commission was replaced in 2015 by:
+
+- The Ministry of Health & Family Welfare
+- [NITI Aayog]{.correct data-explanation="NITI Aayog (National Institution for Transforming India) replaced the Planning Commission in 2015, and took over health-sector planning after the 12th Five-Year Plan concluded in 2017."}
+- The National Health Mission
+- The Bhore Committee
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+In Gulick's POSDCORB framework, "CO" stands for:
+
+- Consultation
+- [Coordinating]{.correct data-explanation="In POSDCORB, CO stands for Coordinating -- one of the seven functions alongside Planning, Organizing, Staffing, Directing, Reporting, and Budgeting."}
+- Compliance
+- Communication
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *National Health Planning Tools* —
+   national health planning stages.
+2. Wikipedia. "Five-Year Plans of India" and "Planning Commission
+   (India)."
+3. Wikipedia / 12manage. "POSDCORB" — Luther Gulick's 1937 management
+   framework.
+4. World Health Organization. *Everybody's Business: Strengthening
+   Health Systems to Improve Health Outcomes* — the six health system
+   building blocks.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Health Care of the Community
+
+[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/26 | [Next Chapter →](community-health.html)

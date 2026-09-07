@@ -15,7 +15,9 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "ABVMUUP Dissertation Guidelines"
+    footer: "ABVMUUP Dissertation Guidelines | [Contents](../intro.html)"
+revealjs-plugins:
+  - local/autosize
 
 ---
 

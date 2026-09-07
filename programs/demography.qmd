@@ -1,0 +1,286 @@
+---
+title: "Demography and Family Planning"
+subtitle: "Population Dynamics and India's Family Planning Programme"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/26 | [Next Chapter →](preventive-medicine.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Demography and Family Planning
+
+**Learning Objectives:**
+
+- Describe the four stages of the demographic transition model
+- Define and distinguish CBR, CDR, TFR, GRR, and NRR
+- Explain replacement-level fertility
+- Trace the history of India's family planning programme, 1952 to present
+- State the goal of India's National Population Policy 2000
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter gives the demographic vocabulary that underlies population-
+level health planning, and traces India's role as a pioneer in national
+family planning policy.
+:::
+
+---
+
+## The Demographic Transition Model {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A generalized description of how birth rates, death rates, and population
+growth change as a society moves from pre-industrial to industrialized,
+in **four stages**:
+
+1. **Stage 1** — High birth rate, high death rate → slow/stable growth
+   (pre-industrial)
+2. **Stage 2** — Death rate falls (better sanitation/medicine), birth
+   rate stays high → **rapid population growth**
+3. **Stage 3** — Birth rate begins to fall (urbanization, education,
+   contraception) → growth slows
+4. **Stage 4** — Low birth rate, low death rate → **stable population**
+
+**Where most transitions stall or reverse today:** some countries now
+describe a Stage 5, where birth rate falls *below* death rate, causing
+population decline — not part of the classical four-stage model but
+increasingly relevant.
+
+---
+
+## Crude Birth Rate and Crude Death Rate {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Crude Birth Rate (CBR)** — live births per 1,000 mid-year population in
+a given year.
+
+**Crude Death Rate (CDR)** — deaths per 1,000 mid-year population in a
+given year.
+
+Both are "crude" because they don't adjust for the population's age or
+sex structure — a country with an older population will show a higher
+CDR even with excellent health care, simply due to demographics.
+
+---
+
+## Total Fertility Rate {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Total Fertility Rate (TFR)** — the average number of children a woman
+would bear over her lifetime, if she experienced the current age-specific
+fertility rates throughout her childbearing years.
+
+**Replacement-level fertility** — the TFR at which a population exactly
+replaces itself across generations (approximately **2.1** in most
+settings, accounting for child mortality and the sex ratio at birth). A
+country with TFR consistently below this level will eventually see its
+population decline, absent migration.
+
+---
+
+## Gross and Net Reproduction Rate {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Gross Reproduction Rate (GRR)** — like TFR, but counts only
+  **daughters** a woman would have — a measure of generational
+  replacement through the female line, ignoring mortality
+- **Net Reproduction Rate (NRR)** — refines GRR further by also adjusting
+  for the probability that daughters survive to their mother's
+  childbearing age; **NRR = 1** means the population is exactly
+  replacing itself generation to generation
+
+**Exam tip:** GRR ignores mortality; NRR accounts for it — this is the
+key distinguishing feature between the two.
+
+---
+
+## India's Family Planning Programme: Origins {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+In **1952**, India became the **first country in the world** to launch an
+official national family planning programme, aiming to reduce birth
+rates "to stabilize the population at a level consistent with the
+requirements of the national economy."
+
+- **1966** — a separate Department of Family Planning created within the
+  Ministry of Health
+- **1977** — following the coercive sterilization controversies of the
+  Emergency period, the new government's population policy explicitly
+  **ruled out compulsion**, making the programme purely **voluntary** —
+  a landmark and lasting policy shift
+
+---
+
+## National Population Policy 2000 {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's **National Population Policy (NPP) 2000** set its goals around:
+
+- Addressing **unmet need for contraception**
+- Providing free and compulsory school education up to age 14
+- Reducing infant and maternal mortality
+- Achieving **population stabilization by 2045**
+
+NPP 2000 implementation was later integrated with the **National Rural
+Health Mission** (launched 2005) as the operational vehicle for delivering
+its goals, connecting demography policy directly to the health-systems
+architecture from Chapter 11.
+
+---
+
+## Age Structure and the Population Pyramid {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+A **population pyramid** — a bar chart of population by age and sex —
+visually reflects a country's demographic-transition stage: a wide base
+(many young people) indicates high fertility (early transition), while a
+more rectangular shape indicates low fertility and an ageing population
+(late transition). India's own age structure varies significantly by
+state, reflecting different transition stages within one country.
+
+---
+
+## Demographic Dividend {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The **demographic dividend** is the potential economic growth benefit
+that can arise when a country's working-age population (15–64) is
+proportionally larger than its dependent population (children and
+elderly) — typically occurring during the middle stages of the
+demographic transition, as fertility falls but before the population
+ages substantially. Realizing this dividend depends on adequate
+education, employment, and health investment during that window.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+In the demographic transition model, rapid population growth occurs
+primarily during which stage?
+
+- Stage 1
+- [Stage 2]{.correct data-explanation="In Stage 2, the death rate falls (due to improved sanitation and medicine) while the birth rate remains high, producing rapid population growth."}
+- Stage 3
+- Stage 4
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which measure represents the average number of children a woman would
+bear over her lifetime at current age-specific fertility rates?
+
+- Crude Birth Rate
+- [Total Fertility Rate]{.correct data-explanation="Total Fertility Rate (TFR) is defined as the average number of children a woman would have if she experienced the current age-specific fertility rates throughout her reproductive years."}
+- Net Reproduction Rate
+- Crude Death Rate
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+The key difference between Gross Reproduction Rate (GRR) and Net
+Reproduction Rate (NRR) is that NRR additionally accounts for:
+
+- Male births
+- [Mortality — the probability daughters survive to childbearing age]{.correct data-explanation="NRR refines GRR by adjusting for survival probability, while GRR simply counts daughters born without regard to whether they survive to reproductive age."}
+- Migration
+- Marriage age
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+India launched its national family planning programme in:
+
+- 1946
+- [1952]{.correct data-explanation="India launched its family planning programme in 1952, becoming the first country in the world to adopt an official national programme."}
+- 1966
+- 2000
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Following the coercive sterilization controversies of the Emergency
+period, India's 1977 population policy shift was to:
+
+- Increase government targets for sterilization
+- [Rule out compulsion and make the programme purely voluntary]{.correct data-explanation="The 1977 policy shift explicitly ruled out compulsion, making participation in family planning voluntary — a lasting change to Indian population policy."}
+- End the family planning programme entirely
+- Transfer family planning to state governments only
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Our World in Data. "Demographic transition: Why is rapid population
+   growth a temporary phenomenon?"
+2. United Nations Statistics Division. *Standard Demographic, Nutrition
+   and Epidemiologic Terminology* — CBR, CDR, TFR, GRR, NRR definitions.
+3. Ministry of Health & Family Welfare, Government of India. *Family
+   Planning* — programme history, National Health Mission.
+4. United Nations Population Fund, India. *National Population Policy
+   2000*.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Preventive Medicine in Obstetrics, Paediatrics and Geriatrics
+
+[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/26 | [Next Chapter →](preventive-medicine.html)

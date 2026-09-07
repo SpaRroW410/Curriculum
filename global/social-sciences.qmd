@@ -1,0 +1,283 @@
+---
+title: "Medicine and Social Sciences"
+subtitle: "Sociology, Anthropology, and the Social Determinants of Health"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/26 | [Next Chapter →](health-planning.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Medicine and Social Sciences
+
+**Learning Objectives:**
+
+- Explain Talcott Parsons's sick role concept, its rights and obligations
+- Define illness behaviour and its five components
+- Describe how culture shapes health-seeking behaviour
+- State the WHO Social Determinants of Health framework's structural vs. intermediary determinants
+- Connect this chapter's sociology/anthropology lens to earlier chapters' health-education and prevention content
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter gives the sociological and anthropological theory
+underlying why health education (Ch17) and prevention programmes don't
+work the same way for every population — behaviour is socially and
+culturally situated, not just individually rational.
+:::
+
+---
+
+## The Sick Role (Talcott Parsons) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Parsons (1950s) described illness as a state of **"sanctioned deviance"**
+— because a sick person isn't a fully productive member of society,
+society grants them a recognized **sick role**, with defined rights and
+obligations:
+
+**Rights:**
+
+- Exemption from normal social responsibilities (work, school)
+- Not being blamed for their condition
+
+**Obligations:**
+
+- To see being sick as undesirable, and want to get well
+- To seek **technically competent help** (a doctor) once illness persists
+- To **cooperate** with treatment/medical advice
+
+**Why it matters:** it frames illness as a **social role**, not just a
+biological state — connecting directly back to Chapter 2's distinction
+between disease, illness, and sickness.
+
+---
+
+## Illness Behaviour {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Health-seeking behaviour** — any activity undertaken by a person who
+perceives themselves to have a health problem, aimed at finding an
+appropriate remedy. It has five recognized components:
+
+1. **Symptom definition** — recognizing something is wrong
+2. **Illness-related shifts in role behaviour** — adjusting daily
+   activities in response
+3. **Lay consultation and referral** — discussing symptoms with family/
+   community before (or instead of) a formal provider
+4. **Treatment actions** — choosing a source of care (biomedical,
+   traditional, or both)
+5. **Adherence** — following through with the chosen treatment
+
+**Key insight:** none of these steps are purely medical decisions — each
+is shaped by social and cultural context.
+
+---
+
+## Culture and Health-Seeking Behaviour {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+How people define illness, interpret symptoms, and decide where to seek
+care is shaped by cultural belief systems — including:
+
+- **Spiritual/supernatural explanatory models** of illness causation
+- Trust (or distrust) in the **indigenous/traditional** medical system
+  versus the formal biomedical system
+- Perceived **quality of communication** with health professionals
+- Social norms around who is expected to seek care, and when
+
+**Direct link to Chapter 22:** this is exactly why pure IEC-style
+messaging often fails — a message that ignores the target population's
+explanatory model of illness is unlikely to change behaviour, however
+factually accurate it is.
+
+---
+
+## WHO Social Determinants of Health Framework {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+WHO defines social determinants of health as **"the circumstances in
+which people are born, grow, work, live, and age, and the wider set of
+forces and systems shaping the conditions of daily life."**
+
+The framework distinguishes two levels:
+
+- **Structural determinants** — the socioeconomic/political context that
+  distributes power and resources unequally (governance, economic
+  policy, education systems, social class, gender, ethnicity)
+- **Intermediary determinants** — the more immediate, everyday living/
+  working conditions this produces (employment conditions, housing,
+  material circumstances)
+
+**Guiding principle:** **health equity** — the absence of unfair and
+avoidable health differences between groups — directly extending
+Chapter 7's discussion of the social gradient of health.
+
+---
+
+## Medical Sociology vs. Medical Anthropology {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Medical sociology** — studies how social structures, institutions,
+  and roles (like the sick role) shape health, illness, and the practice
+  of medicine within a society
+- **Medical anthropology** — studies how **culture** — beliefs, meanings,
+  and practices — shapes how illness is experienced, explained, and
+  treated across different societies
+
+Both disciplines inform community medicine's core premise: health cannot
+be understood purely biomedically, echoing the WHO definition of health
+from Chapter 1.
+
+---
+
+## Explanatory Models of Illness {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Every patient (and every provider) carries an **explanatory model** — a
+set of beliefs about what caused their illness, why it started when it
+did, what it does to the body, and what treatment should look like.
+Mismatched explanatory models between patient and provider — not lack of
+information — are a common, underappreciated cause of poor treatment
+adherence and dissatisfaction with care.
+
+---
+
+## Stigma Revisited Through a Sociological Lens {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Chapter 10 introduced stigma as a barrier to mental healthcare; medical
+sociology frames stigma more generally as a **social process of labeling
+and devaluation** applied to certain illnesses or conditions —
+applicable well beyond mental health, to conditions like leprosy, HIV/
+AIDS, and tuberculosis, where the social consequences of a diagnosis can
+outweigh its clinical severity in shaping a person's behaviour.
+
+---
+
+## Community-Based Participatory Approaches {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Recognizing that social and cultural context shapes health behaviour has
+practically influenced programme design — favouring approaches that
+involve the **community itself** in defining problems and designing
+interventions (echoing Alma-Ata's community-participation principle from
+Chapter 1), rather than externally designed programmes imposed without
+local input.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+According to Talcott Parsons's sick role concept, a sick person's
+obligations include:
+
+- Continuing all normal work responsibilities
+- [Seeking competent medical help and cooperating with treatment]{.correct data-explanation="The sick role's obligations include wanting to get well, seeking technically competent (medical) help, and cooperating with treatment advice."}
+- Being blamed for causing their illness
+- Avoiding all medical consultation
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which of the following is one of the five components of health-seeking
+behaviour?
+
+- Vaccination coverage rate
+- [Lay consultation and referral]{.correct data-explanation="Lay consultation and referral -- discussing symptoms with family or community before/instead of a formal provider -- is one of the five recognized components of health-seeking behaviour."}
+- Disability-adjusted life years
+- Herd immunity threshold
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+In the WHO Social Determinants of Health framework, governance systems,
+economic policy, and education systems are examples of:
+
+- Intermediary determinants
+- [Structural determinants]{.correct data-explanation="Structural determinants are the broader socioeconomic and political context (governance, economic policy, education systems) that unequally distributes power and resources -- distinct from the more immediate intermediary determinants like housing or employment conditions."}
+- Biological determinants
+- Genetic determinants
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+A patient believes their illness was caused by a supernatural curse,
+while their doctor explains it in purely biomedical terms. This mismatch
+is best described as a conflict between:
+
+- Sick roles
+- [Explanatory models]{.correct data-explanation="An explanatory model is a person's set of beliefs about the cause, course, and appropriate treatment of an illness; mismatched explanatory models between patient and provider are a recognized cause of poor treatment adherence."}
+- Structural determinants
+- IEC and BCC
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Wikipedia / EBSCO Research Starters. "Sick role (medical sociology)"
+   — Talcott Parsons's original framework.
+2. Springer, *Culture, Medicine, and Psychiatry*. "The health seeking
+   process: An approach to the natural history of illness."
+3. World Health Organization. *A Conceptual Framework for Action on the
+   Social Determinants of Health*.
+4. Anthropology Review. "How Concepts of Illness and Health are
+   Culturally Defined."
+
+---
+
+## Thank You!
+
+**Next Chapter:** Health Planning and Management
+
+[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/26 | [Next Chapter →](health-planning.html)

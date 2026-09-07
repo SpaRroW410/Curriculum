@@ -1,0 +1,268 @@
+---
+title: "Occupational Health"
+subtitle: "Hazard Classification, Pneumoconiosis, and Worker Protection"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/26 | [Next Chapter →](genetics.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Occupational Health
+
+**Learning Objectives:**
+
+- State the 1950 ILO/WHO joint definition of occupational health
+- Classify occupational hazards into six categories
+- Define pneumoconiosis and name its major forms
+- Describe India's Employees' State Insurance (ESI) scheme's role
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter connects Chapter 7's NCD risk-factor framework and
+Chapter 2's causation concepts to a specific, identifiable
+exposure setting: the workplace.
+:::
+
+---
+
+## The ILO/WHO Joint Definition {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Adopted by the **Joint ILO/WHO Committee on Occupational Health (1950)**,
+revised 1995 — occupational health aims at:
+
+- **Promotion and maintenance** of the highest degree of physical,
+  mental, and social well-being of workers in all occupations
+- **Prevention** of ill-health caused by working conditions
+- **Protection** of workers from risks adverse to health in their
+  employment
+- **Placing and maintaining** workers in a job matched to their
+  physiological and psychological capacity
+- **Adapting work to the worker**, and the worker to the job — not only
+  the other way around
+
+**Notice the parallel** to Chapter 1's holistic WHO definition of
+health — occupational health explicitly extends "complete physical,
+mental, and social well-being" into the workplace setting.
+
+---
+
+## Classifying Occupational Hazards {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Six recognized categories of workplace hazard:
+
+- **Physical** — noise, vibration, extreme temperature, radiation, poor
+  lighting
+- **Chemical** — solvents, dusts, fumes, gases, pesticides
+- **Biological** — bacteria, viruses, fungi (e.g. occupational
+  tuberculosis exposure in healthcare workers)
+- **Ergonomic** — poor posture, repetitive movement, awkward
+  lifting, poor workstation design
+- **Psychosocial** — work-related stress, bullying, harassment, burnout
+- **Safety** — unsafe machinery, obstructed walkways, slippery floors
+  (immediate injury risk, distinct from the slower-onset categories
+  above)
+
+---
+
+## Pneumoconiosis {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Pneumoconiosis** — a group of occupational lung diseases caused by
+**inhalation of mineral dust**, producing lung inflammation and scarring.
+Major forms:
+
+- **Silicosis** — from crystalline silica dust (mining, quarrying,
+  sandblasting); nodular lung lesions
+- **Asbestosis** — from asbestos fibres; scarring often not symptomatic
+  until **years after** initial exposure
+- **Byssinosis** — from cotton dust (textile industry)
+- **Bagassosis** — from bagasse (sugarcane fibre residue) dust
+
+**Common thread:** long latency between exposure and symptom onset —
+directly echoing Chapter 3's natural-history-of-disease concept, but on
+an occupational-exposure timescale of years to decades.
+
+---
+
+## Employees' State Insurance (ESI) Scheme {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Workers registered under the **Employees' State Insurance Act, 1948**
+receive medical treatment through **ESI hospitals**, providing a social
+insurance mechanism specifically for organized-sector workers, including
+coverage for occupational disease and injury.
+
+**State-level policy example:** Haryana's pneumoconiosis rehabilitation
+policy provides financial aid and pension support to affected workers —
+illustrating how national ESI coverage is complemented by state-specific
+disease-focused schemes for occupational conditions.
+
+---
+
+## Objectives of Occupational Health Practice {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Modern occupational health practice organizes around three objectives:
+
+1. **Maintenance and promotion** of workers' health and working capacity
+2. **Improvement of the working environment** and work itself, to be
+   conducive to safety and health
+3. **Development of work organizations and working cultures** that
+   support health, not just compliance with minimum safety standards
+
+---
+
+## Occupational Disease and the Levels of Prevention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Chapter 2's levels of prevention apply directly to occupational health:
+
+- **Primary** — engineering controls (ventilation, dust suppression),
+  personal protective equipment, pre-placement fitness assessment
+- **Secondary** — periodic occupational health screening (e.g. chest
+  X-rays for dust-exposed workers) to catch pneumoconiosis before
+  advanced symptoms
+- **Tertiary** — rehabilitation and compensation (like the ESI scheme)
+  once occupational disease has developed
+
+---
+
+## The Global Burden of Occupational Risk {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The **WHO/ILO Joint Estimates** project systematically quantifies the
+global disease burden attributable to occupational risk factors — 19
+selected risks across 183 countries — providing the evidence base for
+prioritizing occupational health interventions the same way Chapter 16's
+DALY framework prioritizes disease burden more broadly.
+
+---
+
+## From Occupational Health to "Healthy Workplaces" {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Occupational health practice has evolved beyond preventing disease and
+injury toward a broader **"healthy workplaces"** framing — incorporating
+psychosocial well-being, work-life balance, and organizational culture
+as legitimate occupational health targets, not just physical hazard
+control — reflecting the same expansion from a purely biomedical to a
+holistic view of health traced across this curriculum since Chapter 1.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+The 1950 ILO/WHO joint definition of occupational health emphasizes
+adapting:
+
+- Only the worker to the job
+- [Work to the worker, and the worker to the job]{.correct data-explanation="The definition explicitly includes 'the adaptation of work to man and of each man to his job' -- a two-way adaptation, not adaptation of the worker alone."}
+- Only wages to productivity
+- Only machinery to safety codes
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Workplace bullying and chronic work-related stress are classified as
+which type of occupational hazard?
+
+- Ergonomic
+- Biological
+- [Psychosocial]{.correct data-explanation="Psychosocial hazards relate to how work is designed, organized, and managed, including stress, bullying, harassment, and burnout."}
+- Chemical
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A textile worker develops lung disease from long-term cotton dust
+exposure. This is:
+
+- Silicosis
+- Asbestosis
+- [Byssinosis]{.correct data-explanation="Byssinosis is the pneumoconiosis caused specifically by cotton dust exposure, common in the textile industry."}
+- Bagassosis
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Periodic chest X-ray screening for workers exposed to silica dust, aimed
+at detecting silicosis before advanced symptoms develop, is an example
+of:
+
+- Primary prevention
+- [Secondary prevention]{.correct data-explanation="Periodic screening to detect disease early, before it becomes clinically advanced, is secondary prevention -- distinct from primary prevention measures like ventilation or PPE."}
+- Tertiary prevention
+- Primordial prevention
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. International Labour Organization / World Health Organization.
+   *Joint ILO/WHO Committee on Occupational Health* (1950; revised
+   1995) — definition and objectives.
+2. StatPearls. *Pneumoconiosis*.
+3. Government of India. *Employees' State Insurance Act, 1948*.
+4. PMC. "Global, regional and national burden of disease attributable to
+   19 selected occupational risk factors... WHO/ILO Joint Estimates."
+
+---
+
+## Thank You!
+
+**Next Chapter:** Genetics and Health
+
+[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/26 | [Next Chapter →](genetics.html)

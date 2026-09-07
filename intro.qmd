@@ -14,7 +14,9 @@ editor:
 ---
 
 
-**Core navigation hub** for the lecture series.\
+**Core navigation hub** for the lecture series. Looking for a specific
+term or concept instead of a chapter? See the [Topic
+Index](topic-index.qmd).\
 
 
 ---

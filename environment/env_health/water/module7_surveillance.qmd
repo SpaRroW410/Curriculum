@@ -8,10 +8,12 @@ format:
     theme: dark
     transition: slide
     center: true
-    footer: "[← Previous](module6_pollution_diseases.html) | [Home](#home) | Module 3/8 | [Next →](module8_safe_water_india.html)"
+    footer: "[← Previous](module6_pollution_diseases.html) | [Top](#home) | [Contents](../../../intro.html) | Module 3/8 | [Next →](module8_safe_water_india.html)"
     width: 1200
     height: 720
 echo: false
+revealjs-plugins:
+  - local/autosize
 ---
 
 ## Module 7: Water Surveillance & Monitoring {.center #home}

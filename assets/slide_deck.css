@@ -1,3 +1,27 @@
+/* === Content Tier Palette (reference) ===
+   Applied per-slide via Quarto's {background-color="#hex"} attribute on
+   the slide heading, not as CSS classes here. Keep every chapter's tier
+   slides on these exact four hex values so the color coding stays
+   consistent site-wide:
+     Must Know   -> #E3F2E1 (pastel mint)
+     Should Know -> #FFF6DA (pastel butter yellow)
+     May Know    -> #E8E4F3 (pastel lavender)
+     Question    -> #FDE8E8 (pastel coral)
+   Each tinted slide should also carry a text badge (e.g. "MUST KNOW"),
+   since color alone isn't an accessible signal. */
+
+/* === Adaptive slide sizing (RevealAutoSize plugin) ===
+   --autosize-clearance is set by _extensions/local/autosize/autosize.js
+   on every ready/slidechanged/resize event, to the logical-unit height
+   needed to keep slide content clear of the fixed-position footer text,
+   slide number, and chalkboard toolbar icons that sit on top of the
+   deck at a constant pixel offset regardless of Reveal's zoom level.
+   The 40px fallback covers the case before the plugin's first run. */
+.reveal .slides section {
+  padding-bottom: var(--autosize-clearance, 40px);
+  box-sizing: border-box;
+}
+
 /* === RevealJS Typography === */
 .reveal {
   font-family: 'Georgia', serif, Times, "Times New Roman";

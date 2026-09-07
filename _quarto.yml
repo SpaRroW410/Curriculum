@@ -3,6 +3,10 @@ project:
   output-dir: docs
   resources:
     - .nojekyll
+  render:
+    - "*.qmd"
+    - "**/*.qmd"
+    - "!ROADMAP.md"
 
 website:
   title: "Social and Public health"
@@ -12,6 +16,8 @@ website:
     left:
       - text: "Contents"
         href: intro.qmd
+      - text: "Topic Index"
+        href: topic-index.qmd
       - text: "Foundations"
         menu:
           - text: "Man and Medicine: Towards Health for All"
@@ -52,6 +58,12 @@ website:
         menu:
           - text: "Environment and Health"
             href: environment/environment-health.qmd
+          - text: "One Health"
+            href: environment/env_health/module1_one_health.qmd
+          - text: "Environment & Health Components"
+            href: environment/env_health/module2_environment_health.qmd
+          - text: "Water and Health"
+            href: environment/env_health/water.qmd
           - text: "Hospital Waste Management"
             href: environment/waste-management.qmd
           - text: "Disaster Management"
@@ -135,8 +147,32 @@ website:
 
       - section: "Environment, Systems & Emergencies"
         contents:
-          - text: "Environment and Health"
-            file: environment/environment-health.qmd
+          - section: "Environment and Health"
+            contents:
+              - text: "Overview"
+                file: environment/environment-health.qmd
+              - text: "One Health"
+                file: environment/env_health/module1_one_health.qmd
+              - text: "Environment & Health Components"
+                file: environment/env_health/module2_environment_health.qmd
+              - section: "Water and Health"
+                contents:
+                  - text: "Overview"
+                    file: environment/env_health/water.qmd
+                  - text: "Water Quality Standards"
+                    file: environment/env_health/water/module3_water_quality.qmd
+                  - text: "Water Sources"
+                    file: environment/env_health/water/module4_water_sources.qmd
+                  - text: "Treatment"
+                    file: environment/env_health/water/module5_water_treatment.qmd
+                  - text: "Pollution & Diseases"
+                    file: environment/env_health/water/module6_pollution_diseases.qmd
+                  - text: "Surveillance"
+                    file: environment/env_health/water/module7_surveillance.qmd
+                  - text: "Safe Water in India"
+                    file: environment/env_health/water/module8_safe_water_india.qmd
+                  - text: "Quiz"
+                    file: environment/env_health/water/module9_quiz.qmd
           - text: "Hospital Waste Management"
             file: environment/waste-management.qmd
           - text: "Disaster Management"

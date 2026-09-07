@@ -1,0 +1,321 @@
+---
+title: "Epidemiology of Chronic Non-Communicable Diseases"
+subtitle: "Shared Risk Factors and the Population Strategy"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/26 | [Next Chapter →](essential-medicines.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Epidemiology of Chronic Non-Communicable Diseases
+
+**Learning Objectives:**
+
+- Define non-communicable disease (NCD) and name the four major NCDs
+- Identify the four shared modifiable behavioural risk factors
+- Distinguish behavioural from metabolic/intermediate risk factors
+- State the global NCD targets (WHO 25x25 and SDG 3.4)
+- Describe the WHO STEPS surveillance approach
+- Explain Rose's population strategy vs. high-risk strategy
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Chapter 6 covered communicable disease; this chapter is its structural
+mirror for non-communicable disease, and reuses the levels-of-prevention
+and causation frameworks from the Foundations section.
+:::
+
+---
+
+## What Is a Non-Communicable Disease? {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+An NCD is a disease that is **not directly transmissible** from person to
+person, and typically has a **long duration** and **slow progression**,
+resulting from a combination of genetic, physiological, environmental, and
+behavioural factors.
+
+**The four major NCDs** (responsible for the large majority of the global
+NCD burden):
+
+- Cardiovascular disease (CVD)
+- Cancer
+- Chronic respiratory disease
+- Diabetes mellitus
+
+---
+
+## The Four Shared Behavioural Risk Factors {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The same four **modifiable behaviours** drive all four major NCDs, which
+is why NCD prevention is tackled as one integrated agenda rather than
+disease-by-disease:
+
+- **Tobacco use**
+- **Unhealthy diet**
+- **Physical inactivity**
+- **Harmful use of alcohol**
+
+---
+
+## Metabolic (Intermediate) Risk Factors {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Behavioural risk factors act through measurable, intermediate biological
+changes:
+
+- **Raised blood pressure**
+- **Overweight / obesity**
+- **Hyperglycaemia** (raised blood glucose)
+- **Hyperlipidaemia** (raised blood cholesterol/lipids)
+
+These metabolic factors are themselves the direct targets of most
+clinical NCD screening and management.
+
+---
+
+## Global NCD Targets {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **WHO "25×25" target** — a **25% relative reduction** in premature
+  mortality (ages 30–69) from the four major NCDs by **2025**, compared
+  with 2010 levels
+- **SDG Target 3.4** — reduce premature NCD mortality by **one-third** by
+  **2030** (relative to 2015), and promote mental health and well-being
+
+**"Premature" mortality** in both targets specifically means death in the
+30–69 age band — deaths that public health intervention can plausibly
+prevent.
+
+---
+
+## Non-Modifiable Risk Factors {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Alongside the four modifiable behaviours, NCD risk is also shaped by
+factors that cannot be changed:
+
+- **Age** — NCD risk rises with age for most conditions
+- **Sex** — some NCDs show marked sex differences in incidence
+- **Genetics / family history** — inherited susceptibility
+
+Public health strategy focuses on the modifiable factors, but
+non-modifiable factors still matter for risk stratification and targeted
+screening.
+
+---
+
+## WHO STEPS Surveillance {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The **WHO STEPwise approach to Surveillance (STEPS)** is the standard
+method countries use to monitor NCD risk factors, in three progressively
+more intensive steps:
+
+1. **Step 1 — Questionnaire:** demographic data and behavioural risk
+   factors (tobacco, alcohol, diet, physical activity)
+2. **Step 2 — Physical measurements:** height, weight, waist
+   circumference, blood pressure
+3. **Step 3 — Biochemical measurements:** blood glucose and lipid levels
+
+Countries can implement Step 1 alone or build up to all three, depending
+on resources.
+
+---
+
+## Population Strategy vs. High-Risk Strategy {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Geoffrey Rose (1981) distinguished two prevention strategies:
+
+- **High-risk strategy** — identify and intervene on individuals at
+  highest risk (e.g. treating severe hypertension)
+- **Population strategy** — shift the risk-factor distribution of the
+  **entire population** slightly downward (e.g. a national salt-reduction
+  policy)
+
+**Rose's Prevention Paradox:** because most cases of a common disease
+arise from the large number of people at *moderate* risk (not the small
+number at extreme risk), a population-wide strategy usually prevents more
+total disease than a high-risk strategy — even though the benefit to any
+one individual is small.
+
+---
+
+## Double Burden of Disease {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Many low- and middle-income countries, including India, now face a
+**double burden of disease**: they have not fully controlled
+communicable, maternal, and nutritional conditions, while NCDs are
+simultaneously rising — meaning health systems must manage both agendas
+at once, with finite resources.
+
+---
+
+## Measuring NCD Burden: DALYs {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The overall burden of a disease — combining both fatal and non-fatal
+impact — is commonly measured using **Disability-Adjusted Life Years
+(DALYs)**: years of healthy life lost to premature death plus years lived
+with disability. NCDs, being long-duration and disabling rather than
+always immediately fatal, are a major driver of global DALY burden.
+*(Health indicators, including DALYs, are covered in more depth in the
+Health Information and Basic Medical Statistics chapter.)*
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Which of the following is one of the four major NCDs?
+
+- Tuberculosis
+- Malaria
+- [Chronic respiratory disease]{.correct data-explanation="The four major NCDs are cardiovascular disease, cancer, chronic respiratory disease, and diabetes mellitus."}
+- Cholera
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which of the following is NOT one of the four shared behavioural risk
+factors for NCDs?
+
+- Tobacco use
+- Physical inactivity
+- [Genetic mutation]{.correct data-explanation="Genetic mutation is a non-modifiable factor, not one of the four shared behavioural (modifiable) risk factors — tobacco use, unhealthy diet, physical inactivity, and harmful alcohol use."}
+- Harmful use of alcohol
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+The SDG 3.4 target aims to reduce premature NCD mortality by:
+
+- 10% by 2020
+- 25% by 2025
+- [One-third by 2030]{.correct data-explanation="SDG Target 3.4 aims to reduce premature NCD mortality by one-third by 2030, relative to 2015 levels. (The WHO 25x25 target is the separate 25% reduction by 2025 goal.)"}
+- 50% by 2035
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+In the WHO STEPS surveillance approach, which step involves collecting
+blood glucose and lipid levels?
+
+- Step 1 (Questionnaire)
+- Step 2 (Physical measurements)
+- [Step 3 (Biochemical measurements)]{.correct data-explanation="Step 3 of WHO STEPS covers biochemical measurements, specifically blood glucose and lipid levels."}
+- There is no biochemical step
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+According to Rose's prevention paradox, most cases of a common disease in
+a population arise from:
+
+- The small number of people at extremely high risk
+- [The large number of people at moderate risk]{.correct data-explanation="Rose's key insight was that because moderate-risk individuals vastly outnumber high-risk individuals, they collectively contribute more total cases — which is why population-wide strategies often prevent more disease overall."}
+- People with no risk factors at all
+- Only genetically predisposed individuals
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+A country facing both a continuing burden of infectious/maternal/
+nutritional disease and a rising burden of NCDs at the same time is said
+to be experiencing:
+
+- The prevention paradox
+- The iceberg phenomenon
+- [A double burden of disease]{.correct data-explanation="The double burden of disease describes the simultaneous, unresolved burden of communicable/maternal/nutritional conditions alongside a rising NCD burden, common in many LMICs."}
+- Herd immunity
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *Global Action Plan for the Prevention and
+   Control of NCDs 2013–2020* (the "25×25" target).
+2. World Health Organization. *SDG Target 3.4: Noncommunicable diseases
+   and mental health*.
+3. World Health Organization. *STEPwise Approach to NCD Risk Factor
+   Surveillance (STEPS)*.
+4. Rose, G. (1981). "Strategy of prevention: lessons from cardiovascular
+   disease." *British Medical Journal*, 282(6279), 1847–1851.
+5. Rose, G. (1985). "Sick individuals and sick populations."
+   *International Journal of Epidemiology*, 14(1), 32–38.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Essential Medicines and Counterfeit Medicines
+
+[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/26 | [Next Chapter →](essential-medicines.html)
