@@ -13,7 +13,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](module2_environment_health.html) | [Home](#home) | Module 3/8 | [Next →](module4_water_sources.html)"
+    footer: "[← Previous](module2_environment_health.html) | [Top](#home) | [Contents](../../../intro.html) | Module 3/8 | [Next →](module4_water_sources.html)"
 revealjs-plugins:
   - local/autosize
 ---
@@ -825,7 +825,7 @@ This demonstrates application of the TDI derivation formula.
 
 **Next Module:** Water Sources & Characteristics
 
-[← Previous](module2_environment_health.html) | [Home](#home) | Module 3/8 | [Next →](module4_water_sources.html)
+[← Previous](module2_environment_health.html) | [Top](#home) | [Contents](../../../intro.html) | Module 3/8 | [Next →](module4_water_sources.html)
 
 **Questions or feedback?** Contact your instructor.
 

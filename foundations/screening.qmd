@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](epidemiologic-methods.html) | [Home](#home) | Chapter 5/26 | [Next Chapter →](../diseases/communicable-diseases.html)"
+    footer: "[← Previous](epidemiologic-methods.html) | [Top](#home) | [Contents](../intro.html) | Chapter 5/26 | [Next Chapter →](../diseases/communicable-diseases.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -341,4 +341,4 @@ have caused symptoms or harm in a person's lifetime is called:
 
 **Next Chapter:** Epidemiology of Communicable Diseases
 
-[← Previous](epidemiologic-methods.html) | [Home](#home) | Chapter 5/26 | [Next Chapter →](../diseases/communicable-diseases.html)
+[← Previous](epidemiologic-methods.html) | [Top](#home) | [Contents](../intro.html) | Chapter 5/26 | [Next Chapter →](../diseases/communicable-diseases.html)

@@ -8,7 +8,7 @@ format:
     theme: dark
     transition: slide
     center: true
-    footer: "[← Previous](module4_water_sources.html) | [Home](#home) | Module 3/8 | [Next →](module6_pollution_diseases.html)"
+    footer: "[← Previous](module4_water_sources.html) | [Top](#home) | [Contents](../../../intro.html) | Module 3/8 | [Next →](module6_pollution_diseases.html)"
     width: 1200
     height: 720
 echo: false

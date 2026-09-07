@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](../environment/genetics.html) | [Home](#home) | Chapter 21/26 | [Next Chapter →](health-education.html)"
+    footer: "[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/26 | [Next Chapter →](health-education.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -269,4 +269,4 @@ Which statement correctly distinguishes DALYs from QALYs?
 
 **Next Chapter:** Communication for Health Education
 
-[← Previous](../environment/genetics.html) | [Home](#home) | Chapter 21/26 | [Next Chapter →](health-education.html)
+[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/26 | [Next Chapter →](health-education.html)

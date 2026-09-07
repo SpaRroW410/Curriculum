@@ -13,7 +13,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[Home](#home) | Module 1/8 | [Next Module →](module2_environment_health.html)"
+    footer: "[Top](#home) | [Contents](../../intro.html) | Module 1/8 | [Next Module →](module2_environment_health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -566,6 +566,6 @@ A village experiences an outbreak of leptospirosis after monsoon flooding. Rats 
 
 **Next Module:** Environment & Health Fundamentals
 
-[Home](#home) | Module 1/8 | [Next Module →](module2_environment_health.html)
+[Top](#home) | [Contents](../../intro.html) | Module 1/8 | [Next Module →](module2_environment_health.html)
 
 

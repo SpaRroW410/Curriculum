@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](../diseases/mental-health.html) | [Home](#home) | Chapter 11/26 | [Next Chapter →](mdg-sdg.html)"
+    footer: "[← Previous](../diseases/mental-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 11/26 | [Next Chapter →](mdg-sdg.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -276,4 +276,4 @@ best described as:
 
 **Next Chapter:** Millennium Development Goals to Sustainable Development Goals
 
-[← Previous](../diseases/mental-health.html) | [Home](#home) | Chapter 11/26 | [Next Chapter →](mdg-sdg.html)
+[← Previous](../diseases/mental-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 11/26 | [Next Chapter →](mdg-sdg.html)

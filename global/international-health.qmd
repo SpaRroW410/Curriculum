@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](community-health.html) | [Home](#home) | Chapter 26/26 | [Course Contents →](../intro.html)"
+    footer: "[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/26 | [Course Contents →](../intro.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -253,4 +253,4 @@ Assembly resolution, is most closely associated with:
 
 **This is the final chapter (26/26) of the curriculum.**
 
-[← Previous](community-health.html) | [Home](#home) | Chapter 26/26 | [Course Contents →](../intro.html)
+[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/26 | [Course Contents →](../intro.html)

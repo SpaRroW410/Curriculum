@@ -10,8 +10,11 @@ window.RevealAutoSize = function () {
       // Fixed-pixel footprint of the bottom UI (footer text, possibly
       // wrapping to two lines, plus slide-number/chalkboard icons) that
       // sits on top of the viewport via position:fixed, independent of
-      // Reveal's own zoom-to-fit scaling of the slide canvas.
-      var FOOTER_PX = 70;
+      // Reveal's own zoom-to-fit scaling of the slide canvas. Footers now
+      // carry a 5th "Contents" segment (Prev | Top | Contents | Ch N/26 |
+      // Next), so they wrap more readily on narrower viewports -- kept
+      // a bit more generous than the bare minimum measured earlier.
+      var FOOTER_PX = 90;
       // Grow text when content uses less than this fraction of the
       // available height.
       var GROW_THRESHOLD = 0.8;

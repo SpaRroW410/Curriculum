@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](environment-health.html) | [Home](#home) | Chapter 17/26 | [Next Chapter →](disaster-management.html)"
+    footer: "[← Previous](environment-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 17/26 | [Next Chapter →](disaster-management.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -227,4 +227,4 @@ temperatures exceeding:
 
 **Next Chapter:** Disaster Management
 
-[← Previous](environment-health.html) | [Home](#home) | Chapter 17/26 | [Next Chapter →](disaster-management.html)
+[← Previous](environment-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 17/26 | [Next Chapter →](disaster-management.html)

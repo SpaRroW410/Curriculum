@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](concept-health-disease.html) | [Home](#home) | Chapter 3/26 | [Next Chapter →](epidemiologic-methods.html)"
+    footer: "[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/26 | [Next Chapter →](epidemiologic-methods.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -346,4 +346,4 @@ than only observing existing exposure) is classified as:
 
 **Next Chapter:** Epidemiologic Methods
 
-[← Previous](concept-health-disease.html) | [Home](#home) | Chapter 3/26 | [Next Chapter →](epidemiologic-methods.html)
+[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/26 | [Next Chapter →](epidemiologic-methods.html)

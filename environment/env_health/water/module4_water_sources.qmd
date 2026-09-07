@@ -13,7 +13,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](module3_water_quality.html) | [Home](#home) | Module 4/8 | [Next →](module5_treatment.html)"
+    footer: "[← Previous](module3_water_quality.html) | [Top](#home) | [Contents](../../../intro.html) | Module 4/8 | [Next →](module5_treatment.html)"
 revealjs-plugins:
   - local/autosize
 ---
@@ -836,7 +836,7 @@ A village has three water source options: (A) River 2 km away requiring pumping 
 
 **Next Module:** Water Treatment & Purification
 
-[← Previous](module3_water_quality.html) | [Home](#home) | Module 4/8 | [Next →](module5_treatment.html)
+[← Previous](module3_water_quality.html) | [Top](#home) | [Contents](../../../intro.html) | Module 4/8 | [Next →](module5_treatment.html)
 
 ::: {.notes}
 Congratulations on completing Module 4! You now understand different water sources, their characteristics, and selection criteria. Module 5 will cover how to treat these waters to make them safe for drinking—the longest and most detailed module covering all treatment methods.

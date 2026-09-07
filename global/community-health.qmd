@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-planning.html) | [Home](#home) | Chapter 25/26 | [Next Chapter →](international-health.html)"
+    footer: "[← Previous](health-planning.html) | [Top](#home) | [Contents](../intro.html) | Chapter 25/26 | [Next Chapter →](international-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -269,4 +269,4 @@ tertiary facilities, even for manageable conditions, is known as:
 
 **Next Chapter:** International Health
 
-[← Previous](health-planning.html) | [Home](#home) | Chapter 25/26 | [Next Chapter →](international-health.html)
+[← Previous](health-planning.html) | [Top](#home) | [Contents](../intro.html) | Chapter 25/26 | [Next Chapter →](international-health.html)

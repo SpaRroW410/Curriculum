@@ -11,7 +11,7 @@ format:
     chalkboard: false
     center: true
     zoom: true
-    footer: "[← Back to Modules](module8_safe_water_india.html) | [Home](#home) | Quiz"
+    footer: "[← Back to Modules](module8_safe_water_india.html) | [Top](#home) | [Contents](../../../intro.html) | Quiz"
 execute:
   enabled: false
 revealjs-plugins:
@@ -1003,7 +1003,7 @@ A village meets the criteria for 'Problem Village' if it has all characteristics
 - ICMR National One Health Mission documents
 - Census of India 2011 - Water and Sanitation data
 
-[← Back to Modules](module8_safe_water_india.html) | [Home](#home)
+[← Back to Modules](module8_safe_water_india.html) | [Top](#home) | [Contents](../../../intro.html)
 
 ---
 

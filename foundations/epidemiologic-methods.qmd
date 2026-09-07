@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](principles-epidemiology.html) | [Home](#home) | Chapter 4/26 | [Next Chapter →](screening.html)"
+    footer: "[← Previous](principles-epidemiology.html) | [Top](#home) | [Contents](../intro.html) | Chapter 4/26 | [Next Chapter →](screening.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -374,4 +374,4 @@ data analysis, after the study has been conducted?
 
 **Next Chapter:** Screening for Disease
 
-[← Previous](principles-epidemiology.html) | [Home](#home) | Chapter 4/26 | [Next Chapter →](screening.html)
+[← Previous](principles-epidemiology.html) | [Top](#home) | [Contents](../intro.html) | Chapter 4/26 | [Next Chapter →](screening.html)

@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](disaster-management.html) | [Home](#home) | Chapter 19/26 | [Next Chapter →](genetics.html)"
+    footer: "[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/26 | [Next Chapter →](genetics.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -265,4 +265,4 @@ of:
 
 **Next Chapter:** Genetics and Health
 
-[← Previous](disaster-management.html) | [Home](#home) | Chapter 19/26 | [Next Chapter →](genetics.html)
+[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/26 | [Next Chapter →](genetics.html)

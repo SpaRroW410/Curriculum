@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](ncd.html) | [Home](#home) | Chapter 8/26 | [Next Chapter →](nutrition.html)"
+    footer: "[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/26 | [Next Chapter →](nutrition.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -298,4 +298,4 @@ deceive, is classified as:
 
 **Next Chapter:** Nutrition and Health
 
-[← Previous](ncd.html) | [Home](#home) | Chapter 8/26 | [Next Chapter →](nutrition.html)
+[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/26 | [Next Chapter →](nutrition.html)
