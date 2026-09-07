@@ -1,0 +1,365 @@
+---
+title: "Topic Index"
+author: "SpaRroW"
+format:
+  html:
+    code-copy: true
+    theme: cosmo
+    toc: true
+    toc-depth: 2
+    lightbox: auto
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+**A–Z glossary** of terms, models, and programmes that recur across the
+curriculum. Each entry links straight to the slide(s) where it is
+introduced or applied — use it when you remember a concept but not
+which chapter it lives in. For a chapter-by-chapter view, see
+[Contents](intro.qmd).
+
+---
+
+## A
+
+**Alma-Ata Declaration / Primary Health Care (PHC)**\
+The 1978 declaration and its principles.\
+[Ch 1 – Primary Health Care: Alma-Ata, 1978](foundations/man-and-medicine.qmd#primary-health-care-alma-ata-1978) ·
+[Ch 1 – Principles of Primary Health Care](foundations/man-and-medicine.qmd#principles-of-primary-health-care)
+
+**Arsenic Contamination**\
+Guideline derivation and a real-world mitigation case study.\
+[Water Mod 3 – Worked Example: Arsenic Guideline Value](environment/env_health/water/module3_water_quality.qmd#worked-example-arsenic-guideline-value) ·
+[Water Mod 6 – Health Associations: Arsenic](environment/env_health/water/module6_pollution_diseases.qmd#health-associations-arsenic) ·
+[Water Mod 6 – Case Study: Arsenic Contamination](environment/env_health/water/module6_pollution_diseases.qmd#case-study-arsenic-contamination)
+
+**Attributable Risk**\
+[Ch 4 – Attributable Risk](foundations/epidemiologic-methods.qmd#attributable-risk)
+
+**Ayushman Bharat**\
+India's flagship health assurance scheme and its two pillars.\
+[Ch 11 – Ayushman Bharat: Two Pillars](programs/health-programmes.qmd#ayushman-bharat-two-pillars) ·
+[Ch 11 – Scale of PM-JAY](programs/health-programmes.qmd#scale-of-pm-jay)
+
+---
+
+## B
+
+**Bhore Committee (1946)**\
+[Ch 1 – The Bhore Committee (1946)](foundations/man-and-medicine.qmd#the-bhore-committee-1946)
+
+**Biomedical Waste Management Rules, 2016**\
+[Ch 17 – Biomedical Waste Management Rules, 2016](environment/waste-management.qmd#biomedical-waste-management-rules-2016)
+
+**Body Mass Index (BMI)**\
+[Ch 9 – Body Mass Index (BMI)](diseases/nutrition.qmd#body-mass-index-bmi)
+
+**Bradford Hill Criteria of Causation**\
+[Ch 2 – Bradford Hill Criteria of Causation](foundations/concept-health-disease.qmd#bradford-hill-criteria-of-causation)
+
+---
+
+## C
+
+**Case-Control Study**\
+[Ch 4 – Case-Control Study](foundations/epidemiologic-methods.qmd#case-control-study) ·
+[Ch 4 – Cohort vs. Case-Control](foundations/epidemiologic-methods.qmd#cohort-vs.-case-control)
+
+**Chain of Infection**\
+[Ch 6 – The Chain of Infection](diseases/communicable-diseases.qmd#the-chain-of-infection)
+
+**Chlorination**\
+[Water Mod 5 – Disinfection Method 2: Chlorination](environment/env_health/water/module5_water_treatment.qmd#disinfection-method-2-chlorination)
+
+**Cohort Study**\
+[Ch 4 – Cohort Study](foundations/epidemiologic-methods.qmd#cohort-study)
+
+**Confounding**\
+[Ch 4 – Confounding](foundations/epidemiologic-methods.qmd#confounding)
+
+---
+
+## D
+
+**DALY (Disability-Adjusted Life Year)**\
+[Ch 21 – DALY: Breaking Down the Formula](global/health-information.qmd#daly-breaking-down-the-formula) ·
+[Ch 21 – DALY vs. QALY](global/health-information.qmd#daly-vs.-qaly) ·
+[Ch 7 – Measuring NCD Burden: DALYs](diseases/ncd.qmd#measuring-ncd-burden-dalys)
+
+**Demographic Transition Model**\
+[Ch 13 – The Demographic Transition Model](programs/demography.qmd#the-demographic-transition-model)
+
+**Determinants of Health**\
+[Ch 1 – Determinants of Health](foundations/man-and-medicine.qmd#determinants-of-health) ·
+[Ch 23 – WHO Social Determinants of Health Framework](global/social-sciences.qmd#who-social-determinants-of-health-framework)
+
+**Disaster Management Cycle**\
+[Ch 18 – The Disaster Management Cycle](environment/disaster-management.qmd#the-disaster-management-cycle)
+
+---
+
+## E
+
+**Ecological Fallacy**\
+[Ch 4 – Ecological Fallacy — A Closer Look](foundations/epidemiologic-methods.qmd#ecological-fallacy-a-closer-look)
+
+**Epidemiological Triad**\
+[Ch 2 – The Epidemiological Triad](foundations/concept-health-disease.qmd#the-epidemiological-triad)
+
+**Essential Medicines / NLEM**\
+[Ch 8 – What Are Essential Medicines?](diseases/essential-medicines.qmd#what-are-essential-medicines) ·
+[Ch 8 – India's National List of Essential Medicines (NLEM)](diseases/essential-medicines.qmd#indias-national-list-of-essential-medicines-nlem)
+
+---
+
+## F
+
+**Fluorosis / Fluoride Contamination**\
+[Water Mod 6 – Health Associations: Fluoride](environment/env_health/water/module6_pollution_diseases.qmd#health-associations-fluoride) ·
+[Water Mod 6 – Case Study: Fluorosis Mitigation](environment/env_health/water/module6_pollution_diseases.qmd#case-study-fluorosis-mitigation)
+
+---
+
+## G
+
+**Gavi / Global Health Financing**\
+[Ch 26 – Gavi's Public-Private Partnership Model](global/international-health.qmd#gavis-public-private-partnership-model) ·
+[Ch 26 – Global Health Financing and Delivery Actors](global/international-health.qmd#global-health-financing-and-delivery-actors)
+
+**Genetic Counseling**\
+[Ch 20 – Genetic Counseling](environment/genetics.qmd#genetic-counseling) ·
+[Ch 20 – Genetic Counseling Awareness Gaps](environment/genetics.qmd#genetic-counseling-awareness-gaps)
+
+**Germ Theory**\
+[Ch 2 – From Miasma to Germ Theory](foundations/concept-health-disease.qmd#from-miasma-to-germ-theory)
+
+---
+
+## H
+
+**Health Belief Model**\
+[Ch 22 – The Health Belief Model](global/health-education.qmd#the-health-belief-model)
+
+**Herd Immunity**\
+[Ch 6 – Herd Immunity](diseases/communicable-diseases.qmd#herd-immunity)
+
+**HMIS (Health Management Information System)**\
+[Ch 21 – Health Management Information System (HMIS)](global/health-information.qmd#health-management-information-system-hmis)
+
+---
+
+## I
+
+**Iceberg Phenomenon**\
+[Ch 2 – The Iceberg Phenomenon](foundations/concept-health-disease.qmd#the-iceberg-phenomenon)
+
+**IEC vs. BCC**\
+[Ch 22 – IEC vs. BCC](global/health-education.qmd#iec-vs.-bcc)
+
+**ILO/WHO Joint Definition (Occupational Health)**\
+[Ch 19 – The ILO/WHO Joint Definition](environment/occupational-health.qmd#the-ilowho-joint-definition)
+
+**Incidence and Prevalence**\
+[Ch 3 – Incidence](foundations/principles-epidemiology.qmd#incidence) ·
+[Ch 3 – Prevalence](foundations/principles-epidemiology.qmd#prevalence)
+
+**Indian Standards IS 10500 (Drinking Water)**\
+[Water Mod 8 – Indian Standards IS 10500](environment/env_health/water/module8_safe_water_india.qmd#indian-standards-is-10500)
+
+**International Health Regulations (IHR 2005)**\
+[Ch 26 – International Health Regulations (IHR 2005)](global/international-health.qmd#international-health-regulations-ihr-2005)
+
+**Isolation vs. Quarantine**\
+[Ch 6 – Isolation vs. Quarantine](diseases/communicable-diseases.qmd#isolation-vs.-quarantine)
+
+---
+
+## J
+
+**Jal Jeevan Mission**\
+[Water Mod 8 – Jal Jeevan Mission](environment/env_health/water/module8_safe_water_india.qmd#jal-jeevan-mission)
+
+**John Snow / Broad Street Pump**\
+[Ch 3 – John Snow and the Broad Street Pump](foundations/principles-epidemiology.qmd#john-snow-and-the-broad-street-pump)
+
+---
+
+## K
+
+**Koch's Postulates**\
+[Ch 2 – Koch's Postulates](foundations/concept-health-disease.qmd#kochs-postulates)
+
+---
+
+## L
+
+**Lead Time Bias**\
+[Ch 5 – Lead Time Bias](foundations/screening.qmd#lead-time-bias)
+
+**Levels of Prevention**\
+The core primary/secondary/tertiary framework, applied across
+several chapters.\
+[Ch 2 – Levels of Prevention](foundations/concept-health-disease.qmd#levels-of-prevention) ·
+[Ch 6 – Applied to Communicable Disease](diseases/communicable-diseases.qmd#levels-of-prevention-applied-to-communicable-disease) ·
+[Ch 14 – Life-Stage Care and Levels of Prevention](programs/preventive-medicine.qmd#life-stage-care-and-levels-of-prevention) ·
+[Ch 19 – Occupational Disease and the Levels of Prevention](environment/occupational-health.qmd#occupational-disease-and-the-levels-of-prevention) ·
+[Ch 25 – Levels of Health Care (contrast)](global/community-health.qmd#levels-of-health-care-not-levels-of-prevention)
+
+---
+
+## M
+
+**Malnutrition / Protein-Energy Malnutrition (PEM)**\
+[Ch 9 – Malnutrition: The Spectrum](diseases/nutrition.qmd#malnutrition-the-spectrum) ·
+[Ch 9 – Marasmus](diseases/nutrition.qmd#protein-energy-malnutrition-marasmus) ·
+[Ch 9 – Kwashiorkor](diseases/nutrition.qmd#protein-energy-malnutrition-kwashiorkor)
+
+**Mental Healthcare Act, 2017**\
+[Ch 10 – Mental Healthcare Act, 2017](diseases/mental-health.qmd#mental-healthcare-act-2017)
+
+**mhGAP (WHO Mental Health Gap Action Programme)**\
+[Ch 10 – WHO mhGAP: Closing the Treatment Gap](diseases/mental-health.qmd#who-mhgap-closing-the-treatment-gap)
+
+**Multifactorial Causation**\
+[Ch 2 – Multifactorial Causation](foundations/concept-health-disease.qmd#multifactorial-causation)
+
+---
+
+## N
+
+**National Health Mission (NHM)**\
+[Ch 11 – National Health Mission (NHM)](programs/health-programmes.qmd#national-health-mission-nhm)
+
+**National Family Health Survey (NFHS)**\
+[Ch 21 – National Family Health Survey (NFHS)](global/health-information.qmd#national-family-health-survey-nfhs)
+
+**Natural History of Disease**\
+[Ch 2 – Natural History of Disease](foundations/concept-health-disease.qmd#natural-history-of-disease)
+
+**Number Needed to Treat**\
+[Ch 4 – Number Needed to Treat](foundations/epidemiologic-methods.qmd#number-needed-to-treat)
+
+---
+
+## O
+
+**One Health**\
+[Water Mod 1 – What is One Health?](environment/env_health/module1_one_health.qmd#what-is-one-health) ·
+[Water Mod 1 – The One Health Triad](environment/env_health/module1_one_health.qmd#the-one-health-triad)
+
+**Outbreak Investigation**\
+[Ch 6 – Outbreak Investigation: The 10 Steps](diseases/communicable-diseases.qmd#outbreak-investigation-the-10-steps) ·
+[Water Mod 7 – Case Study: Outbreak Investigation](environment/env_health/water/module7_surveillance.qmd#case-study-outbreak-investigation)
+
+---
+
+## P
+
+**POSDCORB**\
+[Ch 24 – POSDCORB: Core Management Functions](global/health-planning.qmd#posdcorb-core-management-functions)
+
+**Population Strategy vs. High-Risk Strategy**\
+[Ch 7 – Population Strategy vs. High-Risk Strategy](diseases/ncd.qmd#population-strategy-vs.-high-risk-strategy)
+
+**Predictive Values / Sensitivity and Specificity**\
+[Ch 5 – Sensitivity and Specificity](foundations/screening.qmd#sensitivity-and-specificity) ·
+[Ch 5 – Predictive Values](foundations/screening.qmd#predictive-values)
+
+---
+
+## R
+
+**Randomized Controlled Trial (RCT)**\
+[Ch 4 – Randomized Controlled Trial (RCT)](foundations/epidemiologic-methods.qmd#randomized-controlled-trial-rct)
+
+**Rational Use of Medicines**\
+[Ch 8 – Rational Use of Medicines](diseases/essential-medicines.qmd#rational-use-of-medicines)
+
+**Risk Factors**\
+[Ch 2 – Risk Factors](foundations/concept-health-disease.qmd#risk-factors) ·
+[Ch 7 – Non-Modifiable Risk Factors](diseases/ncd.qmd#non-modifiable-risk-factors) ·
+[Ch 7 – The Four Shared Behavioural Risk Factors](diseases/ncd.qmd#the-four-shared-behavioural-risk-factors)
+
+---
+
+## S
+
+**SDGs (Sustainable Development Goals)**\
+[Ch 1 – From Health for All to the SDGs](foundations/man-and-medicine.qmd#from-health-for-all-to-the-sdgs) ·
+[Ch 12 – The Seventeen SDGs (2015–2030)](programs/mdg-sdg.qmd#the-seventeen-sustainable-development-goals-20152030) ·
+[Ch 12 – Key SDG 3 Targets](programs/mdg-sdg.qmd#key-sdg-3-targets)
+
+**Selection Bias / Information Bias**\
+[Ch 4 – Selection Bias](foundations/epidemiologic-methods.qmd#selection-bias) ·
+[Ch 4 – Information Bias](foundations/epidemiologic-methods.qmd#information-bias)
+
+**Sick Role (Talcott Parsons)**\
+[Ch 23 – The Sick Role (Talcott Parsons)](global/social-sciences.qmd#the-sick-role-talcott-parsons)
+
+**Social Gradient of Health**\
+[Ch 1 – The Social Gradient of Health](foundations/man-and-medicine.qmd#the-social-gradient-of-health)
+
+**SSF vs. RSF (Slow Sand vs. Rapid Sand Filtration)**\
+[Water Mod 5 – SSF vs RSF: Detailed Comparison](environment/env_health/water/module5_water_treatment.qmd#ssf-vs-rsf-detailed-comparison)
+
+**Stigma**\
+[Ch 10 – Stigma as a Public Health Barrier](diseases/mental-health.qmd#stigma-as-a-public-health-barrier) ·
+[Ch 23 – Stigma Revisited Through a Sociological Lens](global/social-sciences.qmd#stigma-revisited-through-a-sociological-lens)
+
+**SODIS (Solar Disinfection)**\
+[Water Mod 5 – Disinfection Method 5: Solar Disinfection (SODIS)](environment/env_health/water/module5_water_treatment.qmd#disinfection-method-5-solar-disinfection-sodis)
+
+**Sufficient-Component Cause Model**\
+[Ch 2 – Sufficient-Component Cause Model](foundations/concept-health-disease.qmd#sufficient-component-cause-model)
+
+**Surveillance (Water Quality)**\
+[Water Mod 7 – The 11-Point Surveillance Framework](environment/env_health/water/module7_surveillance.qmd#the-11-point-surveillance-framework)
+
+---
+
+## T
+
+**Thalassemia**\
+[Ch 20 – Thalassemia in India](environment/genetics.qmd#thalassemia-in-india)
+
+**Three-Tier Rural Health Infrastructure**\
+[Ch 25 – India's Three-Tier Rural Health Infrastructure](global/community-health.qmd#indias-three-tier-rural-health-infrastructure)
+
+**Total Fertility Rate**\
+[Ch 13 – Total Fertility Rate](programs/demography.qmd#total-fertility-rate)
+
+**Tribal Health / PVTGs**\
+[Ch 15 – Particularly Vulnerable Tribal Groups (PVTGs)](programs/tribal-health.qmd#particularly-vulnerable-tribal-groups-pvtgs)
+
+---
+
+## U
+
+**Under-Five Clinic**\
+[Ch 14 – The Under-Five Clinic](programs/preventive-medicine.qmd#the-under-five-clinic)
+
+---
+
+## V
+
+**Vertical vs. Horizontal Programme Design**\
+[Ch 11 – Vertical vs. Horizontal Programme Design](programs/health-programmes.qmd#vertical-vs.-horizontal-programme-design)
+
+---
+
+## W
+
+**Waterborne / Water-Related Diseases**\
+[Water Mod 6 – Water-Related Diseases](environment/env_health/water/module6_pollution_diseases.qmd#water-related-diseases) ·
+[Water Mod 6 – Water-Borne Diseases](environment/env_health/water/module6_pollution_diseases.qmd#water-borne-diseases)
+
+**WHO Guidelines for Drinking Water Quality**\
+[Water Mod 3 – WHO Guidelines for Drinking Water Quality](environment/env_health/water/module3_water_quality.qmd#who-guidelines-for-drinking-water-quality)
+
+**WHO STEPS Surveillance**\
+[Ch 7 – WHO STEPS Surveillance](diseases/ncd.qmd#who-steps-surveillance)
+
+**Wilson and Jungner Criteria (1968)**\
+[Ch 5 – Wilson and Jungner Criteria (1968)](foundations/screening.qmd#wilson-and-jungner-criteria-1968)

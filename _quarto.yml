@@ -16,6 +16,8 @@ website:
     left:
       - text: "Contents"
         href: intro.qmd
+      - text: "Topic Index"
+        href: topic-index.qmd
       - text: "Foundations"
         menu:
           - text: "Man and Medicine: Towards Health for All"

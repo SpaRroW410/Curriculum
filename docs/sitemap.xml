@@ -1,23 +1,147 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>index.qmd/programs/tribal-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+    <loc>index.qmd/topic-index.html</loc>
+    <lastmod>2026-09-07T07:44:30.311Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/programs/mdg-sdg.html</loc>
+    <loc>index.qmd/programs/preventive-medicine.html</loc>
     <lastmod>2026-09-07T05:31:14.232Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/programs/demography.html</loc>
+    <loc>index.qmd/programs/health-programmes.html</loc>
     <lastmod>2026-09-07T05:31:14.232Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/intro.html</loc>
+    <loc>index.qmd/post_graduate/dissertation-guide.html</loc>
+    <lastmod>2026-09-07T07:35:48.619Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/index.html</loc>
     <lastmod>2026-08-28T09:27:29.302Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/global/social-sciences.html</loc>
+    <loc>index.qmd/global/international-health.html</loc>
+    <lastmod>2026-09-07T05:31:14.231Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/global/health-information.html</loc>
+    <lastmod>2026-09-07T05:31:14.231Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/global/community-health.html</loc>
+    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/foundations/principles-epidemiology.html</loc>
+    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/foundations/epidemiologic-methods.html</loc>
+    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/waste-management.html</loc>
+    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/genetics.html</loc>
+    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water/module9_quiz.html</loc>
+    <lastmod>2026-09-07T05:31:14.236Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water/module7_surveillance.html</loc>
+    <lastmod>2026-09-07T05:31:14.235Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water/module5_water_treatment.html</loc>
+    <lastmod>2026-09-07T05:31:14.235Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water/module3_water_quality.html</loc>
+    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/module2_environment_health.html</loc>
+    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/disaster-management.html</loc>
+    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/ncd.html</loc>
+    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/essential-medicines.html</loc>
+    <lastmod>2026-09-07T05:31:14.227Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/assets/references.html</loc>
+    <lastmod>2026-08-28T09:27:29.052Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/assets/contact.html</loc>
+    <lastmod>2026-08-28T09:27:29.052Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/communicable-diseases.html</loc>
+    <lastmod>2026-09-07T05:31:14.227Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/mental-health.html</loc>
+    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/nutrition.html</loc>
+    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/module1_one_health.html</loc>
+    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water.html</loc>
+    <lastmod>2026-08-28T09:27:29.295Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water/module4_water_sources.html</loc>
+    <lastmod>2026-09-07T05:31:14.234Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water/module6_pollution_diseases.html</loc>
+    <lastmod>2026-09-07T05:31:14.235Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water/module8_safe_water_india.html</loc>
+    <lastmod>2026-09-07T05:31:14.235Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/environment-health.html</loc>
+    <lastmod>2026-08-28T09:27:29.298Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/occupational-health.html</loc>
+    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/foundations/concept-health-disease.html</loc>
+    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/foundations/man-and-medicine.html</loc>
+    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/foundations/screening.html</loc>
+    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/global/health-education.html</loc>
     <lastmod>2026-09-07T05:31:14.231Z</lastmod>
   </url>
   <url>
@@ -25,143 +149,23 @@
     <lastmod>2026-09-07T05:31:14.231Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/global/health-education.html</loc>
+    <loc>index.qmd/global/social-sciences.html</loc>
     <lastmod>2026-09-07T05:31:14.231Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/foundations/screening.html</loc>
-    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
+    <loc>index.qmd/intro.html</loc>
+    <lastmod>2026-09-07T07:44:34.987Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/foundations/man-and-medicine.html</loc>
-    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/foundations/concept-health-disease.html</loc>
-    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/occupational-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/environment-health.html</loc>
-    <lastmod>2026-08-28T09:27:29.298Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/water/module8_safe_water_india.html</loc>
-    <lastmod>2026-09-07T05:31:14.235Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/water/module6_pollution_diseases.html</loc>
-    <lastmod>2026-09-07T05:31:14.235Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/water/module4_water_sources.html</loc>
-    <lastmod>2026-09-07T05:31:14.234Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/water.html</loc>
-    <lastmod>2026-08-28T09:27:29.295Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/module1_one_health.html</loc>
-    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/nutrition.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/mental-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/communicable-diseases.html</loc>
-    <lastmod>2026-09-07T05:31:14.227Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/assets/contact.html</loc>
-    <lastmod>2026-08-28T09:27:29.052Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/assets/references.html</loc>
-    <lastmod>2026-08-28T09:27:29.052Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/essential-medicines.html</loc>
-    <lastmod>2026-09-07T05:31:14.227Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/ncd.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/disaster-management.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/module2_environment_health.html</loc>
-    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/water/module3_water_quality.html</loc>
-    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/water/module5_water_treatment.html</loc>
-    <lastmod>2026-09-07T05:31:14.235Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/water/module7_surveillance.html</loc>
-    <lastmod>2026-09-07T05:31:14.235Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/env_health/water/module9_quiz.html</loc>
-    <lastmod>2026-09-07T05:31:14.236Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/genetics.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/environment/waste-management.html</loc>
-    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/foundations/epidemiologic-methods.html</loc>
-    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/foundations/principles-epidemiology.html</loc>
-    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/global/community-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/global/health-information.html</loc>
-    <lastmod>2026-09-07T05:31:14.231Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/global/international-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.231Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/index.html</loc>
-    <lastmod>2026-08-28T09:27:29.302Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/post_graduate/dissertation-guide.html</loc>
-    <lastmod>2026-09-07T07:35:48.619Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/programs/health-programmes.html</loc>
+    <loc>index.qmd/programs/demography.html</loc>
     <lastmod>2026-09-07T05:31:14.232Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/programs/preventive-medicine.html</loc>
+    <loc>index.qmd/programs/mdg-sdg.html</loc>
     <lastmod>2026-09-07T05:31:14.232Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/programs/tribal-health.html</loc>
+    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
   </url>
 </urlset>
