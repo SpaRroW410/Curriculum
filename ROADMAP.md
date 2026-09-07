@@ -20,6 +20,18 @@ Light, Radiation under Environment) are named in
 `environment/environment-health.qmd`'s body text but still don't have
 files at all — an intentional decision deferred to the next section.
 
+Every revealjs deck now auto-sizes its text to fit available space
+(`_extensions/local/autosize/`) — dense slides shrink, sparse ones grow,
+and content always keeps clear of the fixed bottom UI (footer,
+controls, chalkboard) rather than overlapping it. Every deck's footer
+was also fixed: "Home" (previously misleading — it jumped to the
+deck's own title slide) is now "Top", and a genuine "Contents" link to
+`intro.html` was added alongside it. A new `topic-index.qmd` — an A-Z
+glossary of ~65 recurring terms/models/programmes, each linking
+straight to the slide(s) covering it — is wired into the navbar and
+cross-linked from `intro.qmd`, so a reader can find a concept without
+knowing which chapter it is in.
+
 ## 2. Technical to-dos
 
 - [x] ~~Run `quarto render` locally and commit the regenerated `docs/`~~
@@ -39,6 +51,22 @@ files at all — an intentional decision deferred to the next section.
       excluded via `project.render` in `_quarto.yml`, and dropped several
       now-unused DT/plotly/jQuery/crosstalk JS libraries from
       `docs/site_libs/`.
+- [x] ~~Add adaptive per-slide text sizing to every revealjs deck~~ —
+      done: `_extensions/local/autosize` shrinks/grows each slide's
+      font-size to fit, reserving a fixed-pixel clearance (converted to
+      logical units via `Reveal.getScale()`) so content never overlaps
+      the footer/controls/chalkboard. Verified via headless-browser
+      screenshots across light/dark themes and multiple viewport sizes.
+- [x] ~~Fix the misleading "Home" footer link and add a way back to
+      Contents from inside a deck~~ — done: renamed to "Top", added a
+      "Contents" link to `intro.html` in every deck's footer (correct
+      relative path per file depth).
+- [x] ~~Add a topic/term index (glossary) page~~ — done:
+      `topic-index.qmd`, an A-Z glossary of ~65 recurring terms/models/
+      programmes each linking to the specific chapter/module slide(s)
+      that cover it. All internal anchor links verified against the
+      rendered site before commit. Wired into the navbar and
+      cross-linked from `intro.qmd`.
 - [ ] Decide what to do about the three unfiled Environment chapters (Air
       and Health, Light and Health, Radiation and Health) named in
       `environment/environment-health.qmd`'s Chapter Listing with no file
