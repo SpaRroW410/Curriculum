@@ -6616,7 +6616,7 @@
     "href": "diseases/nutrition.html#home",
     "title": "Nutrition and Health",
     "section": "Welcome",
-    "text": "Welcome\nNutrition and Health\nLearning Objectives:\n\nDistinguish undernutrition, overnutrition, and the double burden of malnutrition\nCompare kwashiorkor and marasmus as forms of protein-energy malnutrition\nDefine stunting, wasting, and underweight using WHO Z-score criteria\nName the major micronutrient deficiency disorders\nOutline India’s flagship nutrition programme structure (ICDS → POSHAN Abhiyaan → Saksham Anganwadi & Poshan 2.0)\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter connects the NCD chapter’s “double burden” language to nutrition specifically, and gives the anthropometric vocabulary (stunting/wasting/underweight) used throughout Indian public-health program monitoring.",
+    "text": "Welcome\nNutrition and Health\nLearning Objectives:\n\nDistinguish undernutrition, overnutrition, and the double burden of malnutrition\nCompare kwashiorkor and marasmus as forms of protein-energy malnutrition\nDefine stunting, wasting, and underweight using WHO Z-score criteria\nName the major micronutrient deficiency disorders\nIdentify low birth weight and its major risk factors\nDescribe lathyrism as a food-toxin (not deficiency) disease\nOutline India’s flagship nutrition programme structure (ICDS → POSHAN Abhiyaan → Saksham Anganwadi & Poshan 2.0)\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter connects the NCD chapter’s “double burden” language to nutrition specifically, and gives the anthropometric vocabulary (stunting/wasting/underweight) used throughout Indian public-health program monitoring.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6676,7 +6676,7 @@
     "href": "diseases/nutrition.html#major-micronutrient-deficiencies",
     "title": "Nutrition and Health",
     "section": "Major Micronutrient Deficiencies",
-    "text": "Major Micronutrient Deficiencies\n🟢 MUST KNOW\n\nVitamin A deficiency — the leading cause of preventable childhood blindness (xerophthalmia); also increases infection mortality\nIron deficiency anaemia — the most common micronutrient deficiency globally, particularly affecting women and children\nIodine deficiency disorders (IDD) — ranging from goitre to irreversible cognitive impairment (cretinism) if deficient during pregnancy/infancy\n\nEach has a dedicated national control program in India (Vitamin A Prophylaxis, National Iron Plus Initiative, National Iodine Deficiency Disorders Control Programme).",
+    "text": "Major Micronutrient Deficiencies\n🟢 MUST KNOW\n\nVitamin A deficiency — the leading cause of preventable childhood blindness (xerophthalmia); also increases infection mortality\nIron deficiency anaemia — the most common micronutrient deficiency globally, particularly affecting women and children\nIodine deficiency disorders (IDD) — ranging from goitre to irreversible cognitive impairment (cretinism) if deficient during pregnancy/infancy\n\nEach has a dedicated national control program in India (Vitamin A Prophylaxis, National Iron Plus Initiative, National Iodine Deficiency Disorders Control Programme).\nTwo more diet-linked conditions worth knowing: endemic fluorosis from excess fluoride in drinking water (fully covered as a water-quality topic in Water Module 6), and food-borne illness from bacterial toxins or contamination (fully covered in Communicable Diseases Module 5) — both sit at the intersection of nutrition and environmental/communicable disease, so they’re treated in depth where they best fit rather than repeated here.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6796,7 +6796,7 @@
     "href": "diseases/nutrition.html#references",
     "title": "Nutrition and Health",
     "section": "References",
-    "text": "References\n\nWorld Health Organization. Malnutrition — fact sheet, and WHO Child Growth Standards (2006).\nStatPearls. Severe Acute Malnutrition: Recognition and Management of Marasmus and Kwashiorkor.\nWorld Health Organization (2017). The double burden of malnutrition: policy brief.\nPress Information Bureau, Government of India. Mission Saksham Anganwadi and Poshan 2.0.\nMinistry of Women and Child Development, Government of India. ICDS Scheme — programme documentation.",
+    "text": "References\n\nWorld Health Organization. Malnutrition — fact sheet, and WHO Child Growth Standards (2006).\nStatPearls. Severe Acute Malnutrition: Recognition and Management of Marasmus and Kwashiorkor.\nWorld Health Organization (2017). The double burden of malnutrition: policy brief.\nPress Information Bureau, Government of India. Mission Saksham Anganwadi and Poshan 2.0.\nMinistry of Women and Child Development, Government of India. ICDS Scheme — programme documentation.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for low birth weight and lathyrism.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -10639,6 +10639,30 @@
       "Contents",
       "Health Programs & Populations",
       "Tribal Health in India"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#low-birth-weight",
+    "href": "diseases/nutrition.html#low-birth-weight",
+    "title": "Nutrition and Health",
+    "section": "Low Birth Weight",
+    "text": "Low Birth Weight\n🟢 MUST KNOW\nLow Birth Weight (LBW) — birth weight under 2,500 g, regardless of gestational age; affected ~19% of Indian births.\n\nMajor risk factor: maternal malnutrition and anaemia\nOther causes: heavy physical labour during pregnancy, maternal illness (especially infections)\nAssociated factors: short maternal stature, very young maternal age, high parity, smoking, closely spaced births\n\nWhy it matters: LBW is one of the strongest single predictors of infant mortality and later childhood undernutrition — prevention therefore centres on maternal nutrition and antenatal care rather than newborn intervention alone.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/nutrition.html#lathyrism",
+    "href": "diseases/nutrition.html#lathyrism",
+    "title": "Nutrition and Health",
+    "section": "Lathyrism",
+    "text": "Lathyrism\n🟡 SHOULD KNOW\nA crippling food-toxin disease, distinct from a deficiency disease — caused by excess consumption rather than lack of a nutrient.\n\nCause: the neurotoxin BOAA (beta-oxalyl amino alanine) in Lathyrus sativus (khesari dal), when it makes up over 30% of the diet for 2–6 months\nNeurolathyrism (humans) — gradually progressive spastic paralysis of the lower limbs, typically in adults aged 15–45; progresses through recognized stages (latent → no-stick → one-stick → two-stick → crawler) as muscular stiffness worsens\nReversibility: only in the earliest (latent) stage — removing the pulse from the diet at that point can produce complete remission; established paralysis in later stages is permanent\n\nControl: banning cultivation in endemic areas, detoxification (steeping/parboiling the pulse before use), and health education — essentially the same primary-prevention logic as any other diet-attributable disease, just aimed at removing a harmful food rather than adding a deficient nutrient.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Nutrition and Health"
     ]
   }
 ]

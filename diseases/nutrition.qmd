@@ -30,6 +30,8 @@ revealjs-plugins:
 - Compare kwashiorkor and marasmus as forms of protein-energy malnutrition
 - Define stunting, wasting, and underweight using WHO Z-score criteria
 - Name the major micronutrient deficiency disorders
+- Identify low birth weight and its major risk factors
+- Describe lathyrism as a food-toxin (not deficiency) disease
 - Outline India's flagship nutrition programme structure (ICDS → POSHAN Abhiyaan → Saksham Anganwadi & Poshan 2.0)
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
@@ -91,6 +93,26 @@ occurs.
 
 ---
 
+## Low Birth Weight {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Low Birth Weight (LBW)** — birth weight **under 2,500 g**, regardless
+of gestational age; affected ~19% of Indian births.
+
+- **Major risk factor:** maternal malnutrition and anaemia
+- **Other causes:** heavy physical labour during pregnancy, maternal
+  illness (especially infections)
+- **Associated factors:** short maternal stature, very young maternal
+  age, high parity, smoking, closely spaced births
+
+**Why it matters:** LBW is one of the strongest single predictors of
+infant mortality and later childhood undernutrition — prevention
+therefore centres on maternal nutrition and antenatal care rather than
+newborn intervention alone.
+
+---
+
 ## Anthropometric Indicators of Undernutrition {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -125,6 +147,40 @@ either stunting, wasting, or both — it doesn't tell you which.
 Each has a dedicated national control program in India (Vitamin A
 Prophylaxis, National Iron Plus Initiative, National Iodine Deficiency
 Disorders Control Programme).
+
+**Two more diet-linked conditions worth knowing:** endemic fluorosis
+from excess fluoride in drinking water (fully covered as a water-quality
+topic in Water Module 6), and food-borne illness from bacterial toxins
+or contamination (fully covered in Communicable Diseases Module 5) — both
+sit at the intersection of nutrition and environmental/communicable
+disease, so they're treated in depth where they best fit rather than
+repeated here.
+
+---
+
+## Lathyrism {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A crippling **food-toxin disease**, distinct from a deficiency disease —
+caused by *excess* consumption rather than lack of a nutrient.
+
+- **Cause:** the neurotoxin **BOAA** (beta-oxalyl amino alanine) in
+  *Lathyrus sativus* (khesari dal), when it makes up over 30% of the
+  diet for 2–6 months
+- **Neurolathyrism** (humans) — gradually progressive **spastic
+  paralysis of the lower limbs**, typically in adults aged 15–45;
+  progresses through recognized stages (latent → no-stick → one-stick →
+  two-stick → crawler) as muscular stiffness worsens
+- **Reversibility:** only in the earliest (latent) stage — removing the
+  pulse from the diet at that point can produce complete remission;
+  established paralysis in later stages is permanent
+
+**Control:** banning cultivation in endemic areas, detoxification
+(steeping/parboiling the pulse before use), and health education —
+essentially the same primary-prevention logic as any other
+diet-attributable disease, just aimed at removing a harmful food rather
+than adding a deficient nutrient.
 
 ---
 
@@ -295,6 +351,8 @@ Scheme, is called:
    Anganwadi and Poshan 2.0*.
 5. Ministry of Women and Child Development, Government of India. *ICDS
    Scheme* — programme documentation.
+6. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for low birth weight and lathyrism.
 
 ---
 
