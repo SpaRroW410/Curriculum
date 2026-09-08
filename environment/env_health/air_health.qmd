@@ -1,0 +1,200 @@
+---
+title: "Chapter 2: Air and Health"
+subtitle: "Indoor Air Changes, Thermal Comfort, and Ventilation"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[Top](#home) | [Environment](../environment-health.html) | Module 1/3 | [Next →](light_health.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Air and Health
+
+**Learning Objectives:**
+
+- Describe the physical and chemical changes in air in an occupied room
+- Explain thermal comfort and how effective temperature is measured
+- State ventilation standards (cubic space, air change, floor space)
+- Distinguish natural from mechanical ventilation
+- Describe air conditioning's role in health
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This is the second of the Environment section's sub-chapters, filed
+after Water and Health (Chapter 1) — one of three chapters
+(Air/Light/Radiation) named in this section's Chapter Listing but
+previously unwritten.
+:::
+
+---
+
+## Changes in the Air of an Occupied Room {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+An occupied, poorly ventilated room accumulates measurable changes:
+
+- **Chemical:** rising CO₂ and falling O₂ — an adult at rest exhales
+  ~0.6 cubic feet of CO₂ per hour, more during exertion
+- **Physical:** rising temperature and humidity (a resting adult
+  releases ~700 g of water vapour and ~400 Btu of heat per 24 hours,
+  both rising sharply with exertion), reduced air movement, body odours,
+  and **bacterial pollution** from exhaled droplets during talking,
+  coughing, and sneezing
+
+**Key insight:** "the problems of ventilation are physical, not
+chemical; cutaneous, not respiratory" — discomfort in a crowded room is
+driven far more by heat/humidity/stagnant air than by the CO₂ level
+itself, which can rise substantially without harm if temperature and
+humidity stay controlled.
+
+---
+
+## Thermal Comfort {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Air temperature alone is a poor index of comfort — **temperature,
+humidity, and air movement together** determine the "cooling power" of
+air on the body.
+
+- **Effective Temperature (ET)** — a single arbitrary index combining
+  temperature, humidity, and air movement into the sensation of warmth
+  felt
+- **Corrected Effective Temperature (CET)** — improves on ET by also
+  accounting for **radiant heat** (using a globe thermometer instead of
+  a simple dry-bulb reading)
+- **Comfort zone** — the range of ET over which most people feel
+  comfortable; not universal, since comfort also depends on
+  psychological factors, not physical ones alone
+
+---
+
+## Ventilation Standards {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Modern ventilation means not just replacing stale air, but controlling
+incoming air's temperature, humidity, and purity:
+
+| Standard | Recommendation |
+|---|---|
+| **Air change** (now considered more important than cubic space alone) | 2–3 changes/hour in living rooms; 4–6 in work rooms/assembly halls; >6 causes uncomfortable draught |
+| **Floor space** | 50–100 sq. ft. per person (more directly relevant than cubic space) |
+| **Ceiling height** | Heights above 10–12 ft are not counted — respiratory products accumulate at lower levels regardless of extra height |
+
+**Historical note:** De Chaumont's older standard of 3,000 cubic feet of
+fresh air per person per hour (based on keeping CO₂ under 2 parts per
+10,000) is no longer followed — air-change rate and floor space are now
+considered more practically meaningful.
+
+---
+
+## Natural vs. Mechanical Ventilation {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Natural ventilation** relies on wind (perflation/aspiration), diffusion
+through small openings, and temperature-driven convection (warm air
+rises and escapes high, cooler air enters low). Its main drawback:
+**velocity, temperature, and humidity of incoming air cannot be
+regulated**.
+
+**Mechanical ventilation:**
+
+- **Exhaust ventilation** — fans extract vitiated air, creating negative
+  pressure that draws fresh air in; used in halls/auditoria and, at
+  point-source scale, to remove industrial dust/fumes
+- **Plenum ventilation** — fans blow fresh air in under positive
+  pressure, displacing stale air
+- **Balanced ventilation** — exhaust and plenum combined, fully
+  replacing natural ventilation
+- **Air conditioning** — simultaneously controls temperature, humidity,
+  air movement, and filters dust/bacteria; valuable in operation
+  theatres for controlling airborne pathogens
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Discomfort in a crowded, poorly ventilated room is primarily attributed
+to:
+
+- Rising CO₂ concentration alone
+- [Rising temperature, humidity, and reduced air movement]{.correct data-explanation="\"The problems of ventilation are physical, not chemical\" — discomfort is driven mainly by heat, humidity, and stagnant air, not by CO2 levels, which can rise considerably without ill effect if temperature and humidity are controlled."}
+- Falling oxygen concentration alone
+- Increased barometric pressure
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which ventilation standard is now considered more practically important
+than cubic space requirements?
+
+- Ceiling height above 15 feet
+- [Air change rate (changes per hour)]{.correct data-explanation="Air change rate is now considered more important than cubic space — 2-3 changes/hour for living rooms, 4-6 for work rooms/assemblies, since more than 6 causes an uncomfortable draught."}
+- Total building volume
+- Number of windows
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+In exhaust ventilation, fresh air enters a room because:
+
+- Fans blow air in directly under positive pressure
+- [Extracting air creates a vacuum that draws fresh air in through inlets]{.correct data-explanation="Exhaust ventilation extracts air via fans, creating negative pressure that induces fresh air to enter through windows, doors, and other inlets — the opposite mechanism from plenum ventilation."}
+- Windows are mechanically opened on a timer
+- Air conditioning units cycle automatically
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for air hygiene, thermal comfort, and ventilation
+   standards.
+2. Houghton, F.C. and Yaglou, C.P. (1923). Effective Temperature Scale —
+   American Society of Heating and Ventilation Engineers.
+
+---
+
+## Thank You!
+
+**Next:** Light and Health
+
+[Top](#home) | [Environment](../environment-health.html) | Module 1/3 | [Next →](light_health.html)

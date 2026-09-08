@@ -1,0 +1,279 @@
+---
+title: "Chapter 4: Radiation and Noise"
+subtitle: "Ionizing and Non-Ionizing Radiation, Noise Pollution, and Protection"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](light_health.html) | [Top](#home) | [Environment](../environment-health.html) | Module 3/3"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Radiation and Noise
+
+**Learning Objectives:**
+
+- Distinguish ionizing from non-ionizing radiation
+- Identify natural and man-made sources of radiation exposure
+- Describe radiation units and biological effects by dose
+- Apply the principles of radiation protection
+- Define noise, its properties, and its auditory and non-auditory effects
+- Outline strategies for noise control
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Final sub-chapter of the Environment section's four-part sequence
+(Water → Air → Light → Radiation). Noise is included alongside
+radiation since both are physical environmental hazards not covered
+elsewhere in the curriculum, and the source material treats them
+together.
+:::
+
+---
+
+## Ionizing vs. Non-Ionizing Radiation {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Radiation** is energy emitted as electromagnetic waves or moving
+subatomic particles.
+
+| | Ionizing | Non-ionizing |
+|---|---|---|
+| **Examples** | X-rays, gamma rays (EM); alpha and beta particles (corpuscular) | UV, visible light, infrared, microwave, radio-frequency |
+| **Mechanism** | Removes tightly-bound electrons, creating ions; penetrates and damages tissue | Generally causes heating effects only |
+| **Danger** | Alpha particles: ~10× more harmful than X/gamma rays if internalized (inhaled/ingested), but poor external penetration; gamma/X-rays: short wavelength, deeply penetrating | Comparatively low energy, less harmful |
+
+---
+
+## Sources of Radiation Exposure {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Natural (~0.1 rad/year total):** cosmic rays (higher at altitude — a
+commercial pilot receives ~300 mrad/year), terrestrial radiation from
+radioactive elements in soil/rock (much higher in uranium-bearing
+regions, e.g. parts of Kerala), and internal radiation from radioactive
+material (K40, etc.) normally present in body tissue.
+
+**Man-made:** **medical/dental X-rays are the largest man-made source**
+of population radiation exposure; radioactive fallout from nuclear
+explosions (Cs137, Sr90 — both persist for decades, half-lives of
+~28–30 years); minor contributions from everyday items.
+
+---
+
+## Radiation Units {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+| Quantity | Older unit | SI unit |
+|---|---|---|
+| Activity (disintegrations/time) | Curie (Ci) | Becquerel (Bq) |
+| Exposure (ionization in air) | Roentgen | Coulomb/kg |
+| Absorbed dose (energy/mass) | Rad | Gray (Gy) — 1 rad = 0.01 Gy |
+| Dose equivalent (biological effect) | Rem | Sievert (Sv) — 1 Sv = 100 rem |
+
+**Dose equivalent (H) = Absorbed dose (D) × Quality factor (Q)** — Q = 1
+for X-rays/gamma rays/electrons, but Q = 20 for alpha particles,
+reflecting their much greater biological damage per unit of absorbed
+energy.
+
+---
+
+## Biological Effects by Dose {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Acute whole-body exposure produces a dose-dependent spectrum:
+
+| Dose (rad) | Effect |
+|---|---|
+| <5 | No observable effect |
+| 5–150 | Detectable blood changes; nausea/fatigue at the higher end |
+| 150–1,100 | Severe blood changes; at 300–500 rad, up to 50% mortality within 60 days without intensive care (bone marrow destruction) |
+| 1,100–2,000 | Near-certain death within 1–2 weeks (GI system destruction) |
+| >2,000 | Death is certain; >5,000 rad disables CNS control of breathing/circulation |
+
+**Genetic effects** differ from somatic effects: somatic damage appears
+within the exposed person's lifetime, while genetic effects (from
+chromosome/point mutations) appear in offspring.
+
+---
+
+## Radiation Protection {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Permissible dose:** additional man-made exposure should not exceed
+  **5 rad/year**, on top of ~0.1 rad/year natural background
+- **Shielding:** lead aprons (0.5 mm lead) reduce scattered X-ray
+  intensity by over 90% for occupationally exposed workers
+- **Monitoring:** film badges/dosimeters track cumulative worker
+  exposure
+- **Governing bodies:** the International Commission on Radiological
+  Protection (ICRP), IAEA, and WHO set and coordinate international dose
+  limits and safety recommendations — this field is termed
+  **radiation hygiene**
+
+---
+
+## Noise: Definition and Sources {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Noise** is best defined as *"wrong sound, in the wrong place, at the
+wrong time"* — not simply "unwanted sound," since that definition is
+too subjective. The term **"noise pollution"** captures its status as a
+modern public-health hazard.
+
+**Sources:** automobiles, aircraft, industry (acute near railway
+junctions, traffic circles, airports); domestic sources (TV, radio); and
+recreational sources (loudspeakers, pressure horns).
+
+**Properties:**
+
+- **Loudness** — measured in **decibels (dB)**; normal conversation
+  60–65 dB, whispering 20–30 dB, boiler factories ~120 dB. Daily exposure
+  up to **85 dB** is broadly the tolerable limit for hearing
+- **Frequency** — measured in **Hertz (Hz)**; the human ear detects
+  roughly 20–20,000 Hz
+
+---
+
+## Effects of Noise Exposure {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Auditory:** noise-induced hearing loss, classically showing a
+  characteristic dip at **4,000 Hz** on audiogram
+- **Non-auditory:**
+  - Interference with speech communication (300–500 Hz range most
+    disruptive)
+  - Annoyance (a psychological response, more pronounced in neurotic
+    individuals)
+  - Reduced work efficiency and concentration
+  - Physiological changes — raised blood pressure, raised intracranial
+    pressure, increased heart/breathing rate, sweating, sleep
+    interference
+
+---
+
+## Control of Noise {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Urban planning** — zoning to separate industrial/transport areas
+  from residential; green belts between roads and housing
+- **Vehicle control** — restricting heavy vehicles on narrow/residential
+  streets; prohibiting indiscriminate horn use
+- **Building design** — acoustic insulation, detached rather than
+  continuous construction
+- **Occupational protection** — hearing protection mandatory above
+  85 dB, worker rotation away from noisy areas, periodic audiometry
+- **Legislation and education** — legal noise limits plus public
+  awareness, since no noise-abatement programme succeeds without
+  community participation
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Alpha particles are considered especially dangerous when:
+
+- Encountered externally, from a distance
+- [A radioactive source has entered the body via inhalation or a wound]{.correct data-explanation="Alpha particles have poor external penetration but are about 10 times more harmful than X-rays, beta, or gamma rays if the radioactive substance is internalized through inhalation or a wound."}
+- Used in medical X-ray imaging
+- Present in cosmic radiation at altitude
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The largest man-made source of radiation exposure to the general
+population is:
+
+- Nuclear power plants
+- Radioactive fallout from weapons testing
+- [Medical and dental X-rays]{.correct data-explanation="Medical and dental X-rays are identified as the greatest man-made source of population radiation exposure — far exceeding fallout or industrial sources for the average person."}
+- Luminous wristwatches and consumer electronics
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Noise-induced hearing loss classically shows a characteristic dip on
+audiogram at which frequency?
+
+- 500 Hz
+- 1,000 Hz
+- [4,000 Hz]{.correct data-explanation="A characteristic dip at 4,000 Hz on the audiogram is the classic finding in noise-induced hearing loss."}
+- 10,000 Hz
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+A whole-body acute radiation dose of 300–500 rad is associated with:
+
+- No observable effect
+- Mild, self-limiting blood changes only
+- [Up to 50% mortality within 60 days without intensive medical care]{.correct data-explanation="At 300-500 rad, up to half of exposed people die within 60 days without intensive medical attention, due to destruction of blood-forming organs (bone marrow)."}
+- Certain death within days
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for radiation hygiene and noise pollution.
+2. International Commission on Radiological Protection (ICRP) — dose
+   limit recommendations.
+3. World Health Organization — permissible radiation levels and noise
+   exposure guidance.
+
+---
+
+## Thank You!
+
+**Back to:** Environment
+
+[← Previous](light_health.html) | [Top](#home) | [Environment](../environment-health.html) | Module 3/3

@@ -86,6 +86,12 @@ website:
             href: environment/env_health/module2_environment_health.qmd
           - text: "Water and Health"
             href: environment/env_health/water.qmd
+          - text: "Air and Health"
+            href: environment/env_health/air_health.qmd
+          - text: "Light and Health"
+            href: environment/env_health/light_health.qmd
+          - text: "Radiation and Noise"
+            href: environment/env_health/radiation_health.qmd
           - text: "Hospital Waste Management"
             href: environment/waste-management.qmd
           - text: "Disaster Management"
@@ -221,6 +227,12 @@ website:
                     file: environment/env_health/water/module8_safe_water_india.qmd
                   - text: "Quiz"
                     file: environment/env_health/water/module9_quiz.qmd
+              - text: "Air and Health"
+                file: environment/env_health/air_health.qmd
+              - text: "Light and Health"
+                file: environment/env_health/light_health.qmd
+              - text: "Radiation and Noise"
+                file: environment/env_health/radiation_health.qmd
           - text: "Hospital Waste Management"
             file: environment/waste-management.qmd
           - text: "Disaster Management"
