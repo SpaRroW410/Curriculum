@@ -11179,5 +11179,57 @@
       "Health Programs & Populations",
       "Tribal Health in India"
     ]
+  },
+  {
+    "objectID": "environment/env_health/module2_environment_health.html#healthful-housing",
+    "href": "environment/env_health/module2_environment_health.html#healthful-housing",
+    "title": "Module 2: Environment & Health Fundamentals",
+    "section": "Healthful Housing",
+    "text": "Healthful Housing\nStandards, Overcrowding, and Health Effects\nHousing is one of the “standard of living” factors named above — here is what “adequate, ventilated, uncrowded” actually means in practice.\nSite and structure standards: elevated, well-drained site away from mosquito/fly breeding; a “set back” (open space around the house) for lighting and ventilation; floor area ≥100 sq.ft per single occupant, with window area at least 1/5th of floor area; a separate kitchen and a sanitary latrine in every house.\nOvercrowding is measured as persons per room:\n\n\n\nRooms\nAccepted maximum occupants\n\n\n\n\n1\n2\n\n\n2\n3\n\n\n3\n5\n\n\n4\n7\n\n\n\nHealth effects of poor housing: respiratory infections (TB, bronchitis, measles), skin infections (scabies, ringworm), vector/rodent harbourage (plague via rats, disease via flies/mosquitoes), higher accident rates, and psychosocial effects (isolation, irritability, and in children particularly, developmental impact).\nIndia’s public housing policy: the Indira Awas Yojana (1985–86) provided low-income rural families a one-room house with kitchen, latrine, bathroom, and smokeless chullah — part of a wider public-sector and social-housing-scheme approach dating to the creation of a dedicated Ministry of Works and Housing in 1952.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Environment & Health Components"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/module2_environment_health.html#excreta-disposal-and-sewerage",
+    "href": "environment/env_health/module2_environment_health.html#excreta-disposal-and-sewerage",
+    "title": "Module 2: Environment & Health Fundamentals",
+    "section": "Excreta Disposal and Sewerage",
+    "text": "Excreta Disposal and Sewerage\nFrom Service Latrines to Water-Carriage Systems\nUnsewered areas — two broad approaches:\n\nService (conservancy) system — nightsoil manually collected from bucket latrines; now considered obsolete: a source of filth, fly exposure, and disease transmission, and inconsistent with human dignity\nSanitary (non-service) latrines — excreta disposed of on-site without human handling: pit/bore-hole latrines, water-seal designs (including Sulabh Shauchalaya), septic tanks. Criteria: must not contaminate ground/surface water or soil, must be inaccessible to flies/rodents/animals, and must not create odour or nuisance\n\nSewered areas — the water-carriage system: underground sewers transport excreta and wastewater to treatment; requires a piped water supply (no sewerage without water for flushing). India’s sewerage coverage has historically been very limited — as of the Mudaliar Committee (1962), under 15% of India’s urban population had sewerage access, since installation demands heavy capital investment.\nSewage treatment stages: primary (screening, grit removal, sedimentation) → secondary (trickling filters, activated sludge) → final disposal (sea/river outfall, sewage farming, oxidation ponds).",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Environment & Health Components"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/module2_environment_health.html#solid-waste-disposal",
+    "href": "environment/env_health/module2_environment_health.html#solid-waste-disposal",
+    "title": "Module 2: Environment & Health Fundamentals",
+    "section": "Solid Waste Disposal",
+    "text": "Solid Waste Disposal\nMunicipal Refuse: Sources, Storage, and Methods\nDistinct from the biomedical/hospital waste covered in Chapter 17 — this is municipal solid waste: garbage, rubbish, demolition debris, sewage sludge, and other discarded material from streets, markets, stables, industry, and homes.\nWhy unmanaged waste is a health hazard: favours fly breeding, attracts rodents, can carry pathogens back to food via flies/dust, risks water/soil pollution, and creates odour/aesthetic nuisance.\nPrincipal disposal methods:\n\nDumping — cheap but condemned by a WHO Expert Committee (1967) as “a most insanitary method that creates public health hazards” — exposes refuse to flies/rodents, pollutes water via drainage, and should be phased out\nControlled tipping (sanitary landfill) — the improved alternative: refuse compacted and covered with soil in layers\nIncineration, composting, manure pits, burial — chosen based on local cost, land availability, and labour",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Environment & Health Components"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/module2_environment_health.html#the-meteorological-environment",
+    "href": "environment/env_health/module2_environment_health.html#the-meteorological-environment",
+    "title": "Module 2: Environment & Health Fundamentals",
+    "section": "The Meteorological Environment",
+    "text": "The Meteorological Environment\nClimate, Pressure, and Health\nBeyond water, air quality, and sanitation, the broader meteorological environment — atmospheric pressure, temperature, humidity, rainfall, wind — also affects health.\nAtmospheric pressure: averages 760 mm Hg at sea level (“one atmosphere”), falling with altitude and rising with depth (by one atmosphere per ~33 feet below sea level).\n\nHigh altitude: Acute Mountain Sickness (headache, insomnia, breathlessness, nausea — transient and common) can progress to High Altitude Pulmonary Oedema (cough, confusion, coma — rare below 12,000 ft, does not respond to antibiotics)\nLow altitude / increased pressure (diving, caissons): excess dissolved nitrogen causes narcosis; rapid ascent releases dissolved gas from blood, causing air embolism (decompression/Caisson disease)\n\nAir temperature varies with latitude, altitude, wind direction, and proximity to the sea — the same physical factors that, together with humidity and air movement, determine the “cooling power” covered in Chapter 2 (Air and Health).",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Environment & Health Components"
+    ]
   }
 ]

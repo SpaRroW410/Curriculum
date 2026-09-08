@@ -292,6 +292,124 @@ The sanitary revolution (clean water, sewage systems) in Europe and North Americ
 
 ---
 
+## Healthful Housing {.smaller}
+
+### Standards, Overcrowding, and Health Effects
+
+Housing is one of the "standard of living" factors named above — here is
+what "adequate, ventilated, uncrowded" actually means in practice.
+
+**Site and structure standards:** elevated, well-drained site away from
+mosquito/fly breeding; a "set back" (open space around the house) for
+lighting and ventilation; floor area ≥100 sq.ft per single occupant, with
+window area at least 1/5th of floor area; a separate kitchen and a
+sanitary latrine in every house.
+
+**Overcrowding** is measured as **persons per room**:
+
+| Rooms | Accepted maximum occupants |
+|---|---|
+| 1 | 2 |
+| 2 | 3 |
+| 3 | 5 |
+| 4 | 7 |
+
+**Health effects of poor housing:** respiratory infections (TB,
+bronchitis, measles), skin infections (scabies, ringworm), vector/rodent
+harbourage (plague via rats, disease via flies/mosquitoes), higher
+accident rates, and psychosocial effects (isolation, irritability, and
+in children particularly, developmental impact).
+
+**India's public housing policy:** the **Indira Awas Yojana** (1985–86)
+provided low-income rural families a one-room house with kitchen,
+latrine, bathroom, and smokeless chullah — part of a wider public-sector
+and social-housing-scheme approach dating to the creation of a dedicated
+Ministry of Works and Housing in 1952.
+
+---
+
+## Excreta Disposal and Sewerage {.smaller}
+
+### From Service Latrines to Water-Carriage Systems
+
+**Unsewered areas** — two broad approaches:
+
+- **Service (conservancy) system** — nightsoil manually collected from
+  bucket latrines; now considered obsolete: a source of filth, fly
+  exposure, and disease transmission, and inconsistent with human dignity
+- **Sanitary (non-service) latrines** — excreta disposed of on-site
+  without human handling: pit/bore-hole latrines, water-seal designs
+  (including **Sulabh Shauchalaya**), septic tanks. Criteria: must not
+  contaminate ground/surface water or soil, must be inaccessible to
+  flies/rodents/animals, and must not create odour or nuisance
+
+**Sewered areas — the water-carriage system:** underground sewers
+transport excreta and wastewater to treatment; requires a **piped water
+supply** (no sewerage without water for flushing). India's sewerage
+coverage has historically been very limited — as of the Mudaliar
+Committee (1962), under 15% of India's urban population had sewerage
+access, since installation demands heavy capital investment.
+
+**Sewage treatment stages:** primary (screening, grit removal,
+sedimentation) → secondary (trickling filters, activated sludge) →
+final disposal (sea/river outfall, sewage farming, oxidation ponds).
+
+---
+
+## Solid Waste Disposal {.smaller}
+
+### Municipal Refuse: Sources, Storage, and Methods
+
+Distinct from the biomedical/hospital waste covered in Chapter 17 —
+this is **municipal solid waste**: garbage, rubbish, demolition debris,
+sewage sludge, and other discarded material from streets, markets,
+stables, industry, and homes.
+
+**Why unmanaged waste is a health hazard:** favours fly breeding,
+attracts rodents, can carry pathogens back to food via flies/dust, risks
+water/soil pollution, and creates odour/aesthetic nuisance.
+
+**Principal disposal methods:**
+
+- **Dumping** — cheap but condemned by a WHO Expert Committee (1967) as
+  "a most insanitary method that creates public health hazards" —
+  exposes refuse to flies/rodents, pollutes water via drainage, and
+  should be phased out
+- **Controlled tipping (sanitary landfill)** — the improved alternative:
+  refuse compacted and covered with soil in layers
+- **Incineration, composting, manure pits, burial** — chosen based on
+  local cost, land availability, and labour
+
+---
+
+## The Meteorological Environment {.smaller}
+
+### Climate, Pressure, and Health
+
+Beyond water, air quality, and sanitation, the broader **meteorological
+environment** — atmospheric pressure, temperature, humidity, rainfall,
+wind — also affects health.
+
+**Atmospheric pressure:** averages 760 mm Hg at sea level ("one
+atmosphere"), falling with altitude and rising with depth (by one
+atmosphere per ~33 feet below sea level).
+
+- **High altitude:** **Acute Mountain Sickness** (headache, insomnia,
+  breathlessness, nausea — transient and common) can progress to **High
+  Altitude Pulmonary Oedema** (cough, confusion, coma — rare below
+  12,000 ft, does not respond to antibiotics)
+- **Low altitude / increased pressure (diving, caissons):** excess
+  dissolved nitrogen causes narcosis; rapid ascent releases dissolved
+  gas from blood, causing **air embolism** (decompression/Caisson
+  disease)
+
+**Air temperature** varies with latitude, altitude, wind direction, and
+proximity to the sea — the same physical factors that, together with
+humidity and air movement, determine the "cooling power" covered in
+Chapter 2 (Air and Health).
+
+---
+
 ## From Environmental Sanitation to Environmental Health
 
 ### The Evolution
