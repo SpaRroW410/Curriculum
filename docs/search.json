@@ -11682,5 +11682,17 @@
       "Health Programs & Populations",
       "Tribal Health in India"
     ]
+  },
+  {
+    "objectID": "global/health-information.html#the-three-delays-model",
+    "href": "global/health-information.html#the-three-delays-model",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "The Three Delays Model",
+    "text": "The Three Delays Model\n🟡 SHOULD KNOW\nA widely used framework for understanding why maternal deaths happen, not just measuring how many — most maternal deaths trace to one or more of three delays:\n\nDelay in deciding to seek care — lack of awareness of danger signs, cultural beliefs, financial constraints\nDelay in reaching care — transportation barriers, distance to the nearest facility\nDelay in receiving adequate care once at a facility — inadequate staffing/training, lack of emergency obstetric care (EmOC), blood/ drug shortages\n\nWhy this framework matters: it reframes maternal mortality reduction from “improve hospitals” alone to a systems problem — interventions targeting only Delay 3 (better facilities) fail if Delays 1 and 2 still prevent women from reaching them in time.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
   }
 ]
