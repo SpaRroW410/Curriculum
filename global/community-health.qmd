@@ -30,6 +30,9 @@ revealjs-plugins:
 - Describe India's three-tier rural health infrastructure and its population norms
 - Explain the referral system linking these tiers
 - Reconnect ASHA workers and community participation to this structure
+- Trace the PHC's evolution through the Bhore and Mudaliar committees
+- Distinguish FRU from Non-FRU Community Health Centres
+- Describe ASHA's and the Community Health Officer's roles
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -117,6 +120,44 @@ beyond what a PHC can provide.
 
 ---
 
+## Primary Health Centre: Evolution and Functions {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The PHC concept traces through a sequence of committee recommendations:
+
+`Bhore Committee (1946) proposes the PHC → established from 1952 → Mudaliar Committee (1962) recommends scaling population norms down to 40,000, citing overload → Alma-Ata (1978) reframes PHCs around primary health care → National Health Policy (1983) sets 30,000 (plains) / 20,000 (hilly-tribal) per PHC`
+
+**All 8 essential elements of primary health care** (Alma-Ata) map onto
+PHC functions: medical care; MCH and family planning; safe water and
+sanitation; control of locally endemic disease; vital statistics
+collection; health education; national health programme delivery;
+referral services; training of health workers; and basic laboratory
+services.
+
+---
+
+## Community Health Centre: FRU vs. Non-FRU {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A CHC is created by upgrading a PHC, typically covering **80,000–1.2
+lakh population**, with 30 beds and specialists in surgery, medicine,
+obstetrics/gynaecology, and paediatrics.
+
+| | Non-FRU CHC | FRU CHC |
+|---|---|---|
+| **Scope** | Essential services only (MCH, NCDs, basic diagnostics) | All Non-FRU services **plus** surgical care, blood transfusion, specialist OPDs |
+| **Emergency care** | Basic stabilization and referral | Full **Comprehensive Emergency Obstetric and Newborn Care (CEmONC)** |
+| **Role** | Refers upward to an FRU or higher facility | Acts as the **First Referral Unit** for PHCs and Sub-Centres |
+
+**Key distinction:** "FRU" (First Referral Unit) is a functional
+designation, not a separate facility type — a CHC either meets the FRU
+criteria (round-the-clock emergency obstetric/newborn care, blood
+storage, anaesthesia) or it doesn't.
+
+---
+
 ## Community Participation, Revisited {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -135,6 +176,54 @@ earlier chapters actually operate:
 **The throughline:** Alma-Ata's community-participation principle
 (Chapter 1) is operationalized concretely through this specific
 tiered structure, not just as an abstract policy goal.
+
+---
+
+## ASHA: Roles and Responsibilities {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Chapter 11 introduced ASHA as NRHM's community-level link; her actual
+scope is broad:
+
+- **Health promotion** — awareness on nutrition, sanitation, hygiene,
+  and available health services
+- **Facilitation** — mobilizes the community to access anganwadi/
+  Sub-Centre/PHC services (immunization, antenatal/postnatal checkups)
+  and escorts patients to the nearest facility
+- **Direct care** — first-aid and primary care for minor ailments;
+  DOTS provider under the TB programme; **depot holder** for ORS, iron
+  folic acid tablets, chloroquine, contraceptives
+- **Reporting** — informs the Sub-Centre/PHC of births, deaths, and
+  disease outbreaks in her village
+
+**Selection norm:** a resident woman, generally aged 25–45, educated to
+at least class 8 — one ASHA per 1,000 population (relaxed to one per
+habitation in tribal/hilly/desert areas).
+
+---
+
+## Health and Wellness Centres: The Community Health Officer {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Chapter 11 named Health and Wellness Centres as Ayushman Bharat's first
+pillar; the **Community Health Officer (CHO)** is the role created to
+staff it — a new mid-level provider cadre (2018), not simply an
+upgraded ANM.
+
+- **Position:** team leader of the primary care team at a Sub-Centre-
+  level HWC — first point of contact, reducing patient load on PHCs
+- **Clinical role:** manages common communicable/non-communicable
+  disease per Standard Treatment Guidelines, NCD screening, MCH
+  services, and pre-referral emergency stabilization
+- **Managerial role:** supervises ANMs and ASHAs at the HWC, maintains
+  digital health records, and facilitates teleconsultation with
+  specialists for cases beyond her scope
+
+**Why this matters:** the CHO is the structural answer to a long-standing
+gap — a trained provider physically present at the *most* peripheral
+tier, rather than only at the PHC and above.
 
 ---
 
@@ -163,6 +252,27 @@ peri-urban poor populations, recognizing that urban health-access
 barriers (informal settlements, migrant populations, different
 population density) differ from rural ones even where similar
 infrastructure logic applies.
+
+---
+
+## Landmark Health Committees {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+India's rural health infrastructure was shaped by a sequence of expert
+committees, several already named in this chapter and Chapter 1:
+
+| Committee | Year | Key contribution |
+|---|---|---|
+| **Bhore** (Chapter 1) | 1946 | Proposed the PHC itself as the basic rural health unit |
+| **Mudaliar** | 1962 | Found PHCs overloaded; recommended scaling population norms down and strengthening existing centres before creating new ones |
+| **Shrivastav** | 1975 | Recommended the **three-tier rural health system** and community health volunteers — the conceptual basis for what became ASHA |
+| **Alma-Ata / National Health Policy** | 1978 / 1983 | Reframed the whole system around primary health care and formalized the 30,000-population PHC norm |
+
+**Pattern to notice:** each committee responded to a specific failure of
+the one before it — Mudaliar to Bhore's overload, Shrivastav to
+Mudaliar's still-limited village-level reach — rather than each being an
+independent proposal.
 
 ---
 
@@ -262,6 +372,11 @@ tertiary facilities, even for manageable conditions, is known as:
    India."
 4. Directorate General of Health Services, Government of India. *Indian
    Public Health Standards*.
+5. National Health Systems Resource Centre, Government of India. *ASHA
+   Guidelines*; *Community Health Officer job description under
+   Ayushman Bharat*.
+6. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for the PHC/CHC evolution and health committees.
 
 ---
 
