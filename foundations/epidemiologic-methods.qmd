@@ -27,10 +27,14 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - Compare cohort, case-control, cross-sectional, and ecological study designs
+- Explain matching and the nested case-control design
 - Calculate and interpret relative risk (RR) and odds ratio (OR)
 - Calculate attributable risk and attributable risk percent
+- Classify types of association and distinguish them from causation
 - Describe the design and purpose of a randomized controlled trial
 - Distinguish selection bias, information bias, and confounding
+- Compute crude, specific, and case fatality mortality rates
+- Explain why and how mortality rates are age-standardized
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -100,6 +104,44 @@ their past exposure.
 **Rare disease assumption:** when the disease is uncommon (roughly
 <10% in the unexposed group), OR closely approximates RR — this is why
 case-control studies are widely used to estimate risk for rare diseases.
+
+---
+
+## Matching in Case-Control Studies {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Matching** selects controls so that a potential confounder (e.g. age,
+occupation) has the **same distribution** in cases and controls,
+removing its confounding effect before analysis even starts.
+
+- **Group matching** — the frequency distribution of the matched
+  variable is made similar in both groups (e.g. same age-band mix)
+- **Pair (individual) matching** — each case is paired with a control
+  sharing that characteristic (a 50-year-old mason case gets a
+  50-year-old mason control)
+
+**Critical rule:** never match on the exposure/factor you actually want
+to study — doing so forces cases and controls to look alike on that
+factor and erases its association with disease entirely. Over-matching
+also makes finding controls harder and can bias the odds ratio toward 1.
+
+---
+
+## Nested Case-Control Study {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A case-control study conducted **within** an existing cohort: once
+enough cases accumulate in a large prospective cohort, controls are
+sampled from the cohort's non-cases rather than tracking exposure data
+for everyone.
+
+- More **efficient** than analyzing the full cohort — exposure data is
+  processed only for cases and the sampled controls
+- Because both groups are drawn from the *same* defined cohort, this
+  design minimizes selection bias and misclassification compared to an
+  ordinary case-control study
 
 ---
 
@@ -221,6 +263,68 @@ no direct causal link between the two.
 after data collection** — through stratification, matching, or
 statistical adjustment (e.g. multivariable regression) — as well as
 through randomization at the design stage.
+
+---
+
+## Types of Association {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Not every statistical association between an exposure and a disease is
+causal. Four categories are recognized:
+
+| Type | What it means |
+|---|---|
+| **Spurious** | An artifact of bias — comparing groups that were never truly "like with like" (a form of selection bias) |
+| **Indirect** | Exposure and disease are each linked to a separate third factor, with no direct link between them (e.g. altitude and endemic goitre — both track with iodine-poor terrain) |
+| **One-to-one causal** | A change in the exposure directly produces a change in disease — the single-cause model behind Koch's postulates (Chapter 2) |
+| **Multifactorial causal** | Several causes act together — either independently (any one is enough) or cumulatively/synergistically (as in coronary heart disease) |
+
+**Rule of thumb:** correlation can suggest causation, but never proves
+it on its own — ruling out spurious and indirect association is exactly
+what the Bradford Hill criteria (Chapter 2) are for.
+
+---
+
+## Mortality Rates: Crude, Specific, and Case Fatality {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Rate | Formula (per convention) | Use |
+|---|---|---|
+| **Crude Death Rate (CDR)** | All deaths ÷ mid-year population × 1,000 | Simplest mortality measure — but not comparable between populations with different age structures |
+| **Specific Death Rate** | Deaths in a subgroup (age/sex/cause) ÷ subgroup population × 1,000 | Identifies at-risk groups; comparable across causes within a population |
+| **Case Fatality Rate (CFR)** | Deaths from a disease ÷ cases of that disease × 100 | The "killing power" of a disease — best suited to acute infections, not chronic disease |
+| **Proportional Mortality Rate (PMR)** | Deaths from a cause ÷ all deaths × 100 | Used when population denominators aren't available — does **not** measure risk of dying |
+
+**Common exam trap:** PMR is often mistaken for a risk measure. It only
+describes the *share* of deaths due to a cause — a rising PMR can simply
+mean deaths from other causes fell, not that the disease got more
+lethal.
+
+---
+
+## Standardization: Direct and Indirect Methods {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Crude rates aren't comparable between populations with different age (or
+sex) structures. **Standardization** removes that distortion by applying
+a common "standard population."
+
+- **Direct method** — used when age-specific rates are known for the
+  populations being compared. Apply each population's own age-specific
+  rates to one standard population, then compare the resulting expected
+  totals.
+- **Indirect method** — used when age-specific rates for the study
+  population aren't available. Apply the *standard population's*
+  age-specific rates to the study population's age structure, producing
+  the **Standardized Mortality Ratio (SMR)**:
+
+`SMR = Observed deaths / Expected deaths`
+
+An SMR above 1 means the study population had more deaths than expected
+from the standard population's experience; below 1 means fewer.
 
 ---
 
@@ -367,6 +471,9 @@ data analysis, after the study has been conducted?
    ed.). Lippincott Williams & Wilkins.
 4. Wikipedia contributors. "Attributable fraction among the exposed" and
    "Randomized controlled trial."
+5. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for matching, types of association, mortality
+   rates, and standardization.
 
 ---
 

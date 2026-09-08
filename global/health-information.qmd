@@ -43,10 +43,15 @@ defined back in the Demography chapter.
 
 ---
 
-## Civil Registration vs. Sample Registration {background-color="#E3F2E1"}
+## Census, Civil Registration, and Sample Registration {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
 
+- **Census** — a complete, periodic (every 10 years in India) headcount
+  with legal backing, collecting population size, composition, density,
+  literacy, and occupational structure. Records either **de facto**
+  (location at the time of enumeration) or **de jure** (usual place of
+  residence)
 - **Civil Registration System (CRS)** — aims at **universal, legal
   registration** of every individual birth and death, for documentary and
   legal purposes
@@ -92,6 +97,15 @@ denominator scale from IMR).
 Both are core indicators already referenced as SDG 3 targets (Chapter
 12) — this chapter defines the measures themselves, which those targets
 are expressed in.
+
+**Related neonatal/perinatal measures**, all per 1,000 live births unless
+noted:
+
+- **Neonatal Mortality Rate (NMR)** — deaths in the first 28 days of life
+- **Early Neonatal Mortality Rate** — deaths in the first 7 days of life
+- **Perinatal Mortality Rate** — (late fetal deaths ≥28 weeks gestation +
+  deaths in the first 7 days) ÷ (total live births + late fetal deaths
+  ≥28 weeks)
 
 ---
 
@@ -262,6 +276,9 @@ Which statement correctly distinguishes DALYs from QALYs?
    HALYs, DALYs and QALYs."
 4. GiveWell. "Interpreting the Disability-Adjusted Life-Year (DALY)
    Metric."
+5. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for census, neonatal/perinatal mortality
+   definitions.
 
 ---
 

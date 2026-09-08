@@ -1061,7 +1061,7 @@
     "href": "global/health-information.html#infant-and-maternal-mortality-indicators",
     "title": "Health Information and Basic Medical Statistics",
     "section": "Infant and Maternal Mortality Indicators",
-    "text": "Infant and Maternal Mortality Indicators\n🟢 MUST KNOW\nInfant Mortality Rate (IMR) — deaths of infants under 1 year of age, per 1,000 live births, in a given year.\nMaternal Mortality Ratio (MMR) — deaths of women from pregnancy- related causes, per 100,000 live births (note the different denominator scale from IMR).\nBoth are core indicators already referenced as SDG 3 targets (Chapter 12) — this chapter defines the measures themselves, which those targets are expressed in.",
+    "text": "Infant and Maternal Mortality Indicators\n🟢 MUST KNOW\nInfant Mortality Rate (IMR) — deaths of infants under 1 year of age, per 1,000 live births, in a given year.\nMaternal Mortality Ratio (MMR) — deaths of women from pregnancy- related causes, per 100,000 live births (note the different denominator scale from IMR).\nBoth are core indicators already referenced as SDG 3 targets (Chapter 12) — this chapter defines the measures themselves, which those targets are expressed in.\nRelated neonatal/perinatal measures, all per 1,000 live births unless noted:\n\nNeonatal Mortality Rate (NMR) — deaths in the first 28 days of life\nEarly Neonatal Mortality Rate — deaths in the first 7 days of life\nPerinatal Mortality Rate — (late fetal deaths ≥28 weeks gestation + deaths in the first 7 days) ÷ (total live births + late fetal deaths ≥28 weeks)",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -1181,7 +1181,7 @@
     "href": "global/health-information.html#references",
     "title": "Health Information and Basic Medical Statistics",
     "section": "References",
-    "text": "References\n\nOffice of the Registrar General, India. Sample Registration System (SRS) — UN Statistics Wiki overview.\nWorld Health Organization. Global Health Observatory — life expectancy, IMR, MMR definitions.\nNational Collaborating Centre for Infectious Diseases. “Understanding Summary Measures Used to Estimate the Burden of Disease: All about HALYs, DALYs and QALYs.”\nGiveWell. “Interpreting the Disability-Adjusted Life-Year (DALY) Metric.”",
+    "text": "References\n\nOffice of the Registrar General, India. Sample Registration System (SRS) — UN Statistics Wiki overview.\nWorld Health Organization. Global Health Observatory — life expectancy, IMR, MMR definitions.\nNational Collaborating Centre for Infectious Diseases. “Understanding Summary Measures Used to Estimate the Burden of Disease: All about HALYs, DALYs and QALYs.”\nGiveWell. “Interpreting the Disability-Adjusted Life-Year (DALY) Metric.”\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for census, neonatal/perinatal mortality definitions.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -1385,7 +1385,7 @@
     "href": "foundations/principles-epidemiology.html#home",
     "title": "Principles of Epidemiology",
     "section": "Welcome",
-    "text": "Welcome\nPrinciples of Epidemiology\nLearning Objectives:\n\nState the standard definition of epidemiology and its core aims\nDistinguish ratio, proportion, and rate\nDefine incidence and prevalence, and the relationship between them\nDescribe descriptive epidemiology by person, place, and time\nOutline the broad types of epidemiological study\nRecognize John Snow’s 1854 investigation as a founding case study\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the vocabulary and basic measures that Chapter 4 (Epidemiologic Methods) will use to compare exposed and unexposed groups, and that Chapter 5 (Screening) will use to evaluate tests.",
+    "text": "Welcome\nPrinciples of Epidemiology\nLearning Objectives:\n\nState the standard definition of epidemiology and its core aims\nDistinguish ratio, proportion, and rate\nDefine incidence and prevalence, and the relationship between them\nCalculate an attack rate for an outbreak\nDescribe descriptive epidemiology by person, place, and time\nExplain why epidemiology needs a fixed operational case definition\nOutline the broad types of epidemiological study\nRecognize John Snow’s 1854 investigation as a founding case study\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the vocabulary and basic measures that Chapter 4 (Epidemiologic Methods) will use to compare exposed and unexposed groups, and that Chapter 5 (Screening) will use to evaluate tests.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -1601,7 +1601,7 @@
     "href": "foundations/principles-epidemiology.html#references",
     "title": "Principles of Epidemiology",
     "section": "References",
-    "text": "References\n\nLast, J.M. (Ed.) (1988). A Dictionary of Epidemiology (2nd ed.). Oxford University Press.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.).\nSnow, J. (1855). On the Mode of Communication of Cholera (2nd ed.).\nLondon Museum / London School of Hygiene and Tropical Medicine — historical records of the 1854 Broad Street cholera outbreak.",
+    "text": "References\n\nLast, J.M. (Ed.) (1988). A Dictionary of Epidemiology (2nd ed.). Oxford University Press.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.).\nSnow, J. (1855). On the Mode of Communication of Cholera (2nd ed.).\nLondon Museum / London School of Hygiene and Tropical Medicine — historical records of the 1854 Broad Street cholera outbreak.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for attack rate and operational case definitions.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -1625,7 +1625,7 @@
     "href": "foundations/epidemiologic-methods.html#home",
     "title": "Epidemiologic Methods",
     "section": "Welcome",
-    "text": "Welcome\nEpidemiologic Methods\nLearning Objectives:\n\nCompare cohort, case-control, cross-sectional, and ecological study designs\nCalculate and interpret relative risk (RR) and odds ratio (OR)\nCalculate attributable risk and attributable risk percent\nDescribe the design and purpose of a randomized controlled trial\nDistinguish selection bias, information bias, and confounding\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter builds directly on Chapter 3’s incidence/prevalence and the overview of study-design categories, going into the analytical and experimental designs in depth.",
+    "text": "Welcome\nEpidemiologic Methods\nLearning Objectives:\n\nCompare cohort, case-control, cross-sectional, and ecological study designs\nExplain matching and the nested case-control design\nCalculate and interpret relative risk (RR) and odds ratio (OR)\nCalculate attributable risk and attributable risk percent\nClassify types of association and distinguish them from causation\nDescribe the design and purpose of a randomized controlled trial\nDistinguish selection bias, information bias, and confounding\nCompute crude, specific, and case fatality mortality rates\nExplain why and how mortality rates are age-standardized\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter builds directly on Chapter 3’s incidence/prevalence and the overview of study-design categories, going into the analytical and experimental designs in depth.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -1853,7 +1853,7 @@
     "href": "foundations/epidemiologic-methods.html#references",
     "title": "Epidemiologic Methods",
     "section": "References",
-    "text": "References\n\nBoston University School of Public Health. Case-Control Studies and Measuring Association in Case-Control Studies — Epidemiology teaching modules.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.), Lesson 3.\nRothman, K.J., Greenland, S., Lash, T.L. Modern Epidemiology (3rd ed.). Lippincott Williams & Wilkins.\nWikipedia contributors. “Attributable fraction among the exposed” and “Randomized controlled trial.”",
+    "text": "References\n\nBoston University School of Public Health. Case-Control Studies and Measuring Association in Case-Control Studies — Epidemiology teaching modules.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.), Lesson 3.\nRothman, K.J., Greenland, S., Lash, T.L. Modern Epidemiology (3rd ed.). Lippincott Williams & Wilkins.\nWikipedia contributors. “Attributable fraction among the exposed” and “Randomized controlled trial.”\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for matching, types of association, mortality rates, and standardization.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -4679,7 +4679,7 @@
     "href": "diseases/communicable-diseases.html#home",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Welcome",
-    "text": "Welcome\nEpidemiology of Communicable Diseases\nLearning Objectives:\n\nDescribe the six links in the chain of infection\nClassify modes of transmission of communicable disease\nDefine basic reproduction number (R₀) and herd immunity threshold\nDistinguish isolation from quarantine\nApply the levels of prevention to communicable disease control\nOutline the standard steps of an outbreak investigation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter applies Chapter 2’s levels of prevention and Chapter 3’s epidemiological triad specifically to infectious disease, and opens the Diseases section of the curriculum.",
+    "text": "Welcome\nEpidemiology of Communicable Diseases\nLearning Objectives:\n\nDescribe the six links in the chain of infection\nDistinguish endemic, sporadic, epidemic, and pandemic disease occurrence\nClassify modes of transmission of communicable disease\nDefine basic reproduction number (R₀) and herd immunity threshold\nDescribe carrier states and why chronic carriers matter\nDistinguish incubation period, generation time, and serial interval\nDistinguish isolation from quarantine\nCompare live, killed, toxoid, and subunit vaccines\nApply the levels of prevention to communicable disease control\nOutline the standard steps of an outbreak investigation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter applies Chapter 2’s levels of prevention and Chapter 3’s epidemiological triad specifically to infectious disease, and opens the Diseases section of the curriculum.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -4895,7 +4895,7 @@
     "href": "diseases/communicable-diseases.html#references",
     "title": "Epidemiology of Communicable Diseases",
     "section": "References",
-    "text": "References\n\nNCBI Bookshelf. Chapter 4: Adhere to Principles of Infection Control — Chain of Infection.\nPlus Maths / University of Cambridge. “Maths in a minute: R nought and herd immunity.”\nPenn Today. “Quarantine or isolation? An updated glossary.”\nWikipedia. “Secondary attack rate.”\nCenters for Disease Control and Prevention. Steps of an Outbreak Investigation (10-step framework).\nWorld Health Organization (1980). Declaration of Global Eradication of Smallpox.",
+    "text": "References\n\nNCBI Bookshelf. Chapter 4: Adhere to Principles of Infection Control — Chain of Infection.\nPlus Maths / University of Cambridge. “Maths in a minute: R nought and herd immunity.”\nPenn Today. “Quarantine or isolation? An updated glossary.”\nWikipedia. “Secondary attack rate.”\nCenters for Disease Control and Prevention. Steps of an Outbreak Investigation (10-step framework).\nWorld Health Organization (1980). Declaration of Global Eradication of Smallpox.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for epidemic/endemic classification, carrier states, incubation-related intervals, and vaccine types.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9158,6 +9158,150 @@
       "Contents",
       "Foundations of Health & Epidemiology",
       "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#attack-rate",
+    "href": "foundations/principles-epidemiology.html#attack-rate",
+    "title": "Principles of Epidemiology",
+    "section": "Attack Rate",
+    "text": "Attack Rate\n🟢 MUST KNOW\nA special form of incidence rate, used only when a population is exposed to risk for a limited period — typically during an outbreak:\nAttack Rate = (New cases during the outbreak) / (Population at risk) × 100\nUnlike a general incidence rate, it is expressed as a percentage over the whole exposure episode rather than per year. Secondary attack rate — new cases among contacts of a primary case, within the incubation period — is covered with outbreak measures in Communicable Diseases (Chapter 6).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#operational-case-definitions",
+    "href": "foundations/principles-epidemiology.html#operational-case-definitions",
+    "title": "Principles of Epidemiology",
+    "section": "Operational Case Definitions",
+    "text": "Operational Case Definitions\n🟡 SHOULD KNOW\nA clinician can revise a diagnosis later if it turns out to be wrong. An epidemiologist cannot: the study needs a definition fixed in advance that any field worker can apply consistently to classify a person as a case or not.\n\nAn operational definition spells out exact, measurable criteria — e.g. tonsillitis defined not just clinically, but as “enlarged, red tonsils with white exudate, throat swab culture positive for S. pyogenes”\nIt must be precise (unambiguous), valid (actually captures the disease), and applicable across large populations and different observers\nOnce set, the case definition is used throughout the study — changing it mid-study breaks comparability between phases\n\nWhy it matters: without this, “who counts as a case” varies by observer, and rates computed from the data become impossible to compare or replicate.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#matching-in-case-control-studies",
+    "href": "foundations/epidemiologic-methods.html#matching-in-case-control-studies",
+    "title": "Epidemiologic Methods",
+    "section": "Matching in Case-Control Studies",
+    "text": "Matching in Case-Control Studies\n🟡 SHOULD KNOW\nMatching selects controls so that a potential confounder (e.g. age, occupation) has the same distribution in cases and controls, removing its confounding effect before analysis even starts.\n\nGroup matching — the frequency distribution of the matched variable is made similar in both groups (e.g. same age-band mix)\nPair (individual) matching — each case is paired with a control sharing that characteristic (a 50-year-old mason case gets a 50-year-old mason control)\n\nCritical rule: never match on the exposure/factor you actually want to study — doing so forces cases and controls to look alike on that factor and erases its association with disease entirely. Over-matching also makes finding controls harder and can bias the odds ratio toward 1.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#nested-case-control-study",
+    "href": "foundations/epidemiologic-methods.html#nested-case-control-study",
+    "title": "Epidemiologic Methods",
+    "section": "Nested Case-Control Study",
+    "text": "Nested Case-Control Study\n🟡 SHOULD KNOW\nA case-control study conducted within an existing cohort: once enough cases accumulate in a large prospective cohort, controls are sampled from the cohort’s non-cases rather than tracking exposure data for everyone.\n\nMore efficient than analyzing the full cohort — exposure data is processed only for cases and the sampled controls\nBecause both groups are drawn from the same defined cohort, this design minimizes selection bias and misclassification compared to an ordinary case-control study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#types-of-association",
+    "href": "foundations/epidemiologic-methods.html#types-of-association",
+    "title": "Epidemiologic Methods",
+    "section": "Types of Association",
+    "text": "Types of Association\n🟡 SHOULD KNOW\nNot every statistical association between an exposure and a disease is causal. Four categories are recognized:\n\n\n\n\n\n\n\nType\nWhat it means\n\n\n\n\nSpurious\nAn artifact of bias — comparing groups that were never truly “like with like” (a form of selection bias)\n\n\nIndirect\nExposure and disease are each linked to a separate third factor, with no direct link between them (e.g. altitude and endemic goitre — both track with iodine-poor terrain)\n\n\nOne-to-one causal\nA change in the exposure directly produces a change in disease — the single-cause model behind Koch’s postulates (Chapter 2)\n\n\nMultifactorial causal\nSeveral causes act together — either independently (any one is enough) or cumulatively/synergistically (as in coronary heart disease)\n\n\n\nRule of thumb: correlation can suggest causation, but never proves it on its own — ruling out spurious and indirect association is exactly what the Bradford Hill criteria (Chapter 2) are for.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#mortality-rates-crude-specific-and-case-fatality",
+    "href": "foundations/epidemiologic-methods.html#mortality-rates-crude-specific-and-case-fatality",
+    "title": "Epidemiologic Methods",
+    "section": "Mortality Rates: Crude, Specific, and Case Fatality",
+    "text": "Mortality Rates: Crude, Specific, and Case Fatality\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\nRate\nFormula (per convention)\nUse\n\n\n\n\nCrude Death Rate (CDR)\nAll deaths ÷ mid-year population × 1,000\nSimplest mortality measure — but not comparable between populations with different age structures\n\n\nSpecific Death Rate\nDeaths in a subgroup (age/sex/cause) ÷ subgroup population × 1,000\nIdentifies at-risk groups; comparable across causes within a population\n\n\nCase Fatality Rate (CFR)\nDeaths from a disease ÷ cases of that disease × 100\nThe “killing power” of a disease — best suited to acute infections, not chronic disease\n\n\nProportional Mortality Rate (PMR)\nDeaths from a cause ÷ all deaths × 100\nUsed when population denominators aren’t available — does not measure risk of dying\n\n\n\nCommon exam trap: PMR is often mistaken for a risk measure. It only describes the share of deaths due to a cause — a rising PMR can simply mean deaths from other causes fell, not that the disease got more lethal.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#standardization-direct-and-indirect-methods",
+    "href": "foundations/epidemiologic-methods.html#standardization-direct-and-indirect-methods",
+    "title": "Epidemiologic Methods",
+    "section": "Standardization: Direct and Indirect Methods",
+    "text": "Standardization: Direct and Indirect Methods\n🟡 SHOULD KNOW\nCrude rates aren’t comparable between populations with different age (or sex) structures. Standardization removes that distortion by applying a common “standard population.”\n\nDirect method — used when age-specific rates are known for the populations being compared. Apply each population’s own age-specific rates to one standard population, then compare the resulting expected totals.\nIndirect method — used when age-specific rates for the study population aren’t available. Apply the standard population’s age-specific rates to the study population’s age structure, producing the Standardized Mortality Ratio (SMR):\n\nSMR = Observed deaths / Expected deaths\nAn SMR above 1 means the study population had more deaths than expected from the standard population’s experience; below 1 means fewer.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#epidemic-endemic-and-pandemic",
+    "href": "diseases/communicable-diseases.html#epidemic-endemic-and-pandemic",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Epidemic, Endemic, and Pandemic",
+    "text": "Epidemic, Endemic, and Pandemic\n🟢 MUST KNOW\nDisease occurrence is classified by how its frequency compares to what’s normally expected in a place and population:\n\n\n\n\n\n\n\nTerm\nMeaning\n\n\n\n\nEndemic\nConstant, expected presence of a disease in a given area/population, without importation\n\n\nSporadic\nCases occur irregularly and infrequently, with no consistent pattern\n\n\nEpidemic\nCases clearly in excess of normal expectancy for that place, population, and season\n\n\nPandemic\nAn epidemic spanning multiple countries/continents, usually affecting large numbers of people\n\n\nExotic\nA disease imported into an area where it does not otherwise occur\n\n\n\nZoonoses — infections naturally transmissible between vertebrate animals and humans — are classified by direction: anthropozoonoses (animal → human, e.g. rabies, anthrax), zooanthroponoses (human → animal, e.g. human TB in cattle), and amphixenoses (either direction).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#types-of-vaccines",
+    "href": "diseases/communicable-diseases.html#types-of-vaccines",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Types of Vaccines",
+    "text": "Types of Vaccines\n🟡 SHOULD KNOW\nImmunizing agents used for primary prevention fall into distinct categories, each with different implications for immunity and administration:\n\n\n\n\n\n\n\n\nType\nHow it works\nExamples\n\n\n\n\nLive attenuated\nWeakened live organism; usually strong, long-lasting immunity from few doses\nBCG, OPV, MMR\n\n\nKilled / inactivated\nWhole organism inactivated; safer in immunocompromised hosts, but needs boosters\nInactivated polio (IPV), rabies\n\n\nToxoid\nInactivated bacterial toxin, not the organism itself\nTetanus, diphtheria\n\n\nSubunit / conjugate\nOnly a specific antigenic component, reducing side effects\nHepatitis B, Hib\n\n\n\nExam tip: live vaccines are generally contraindicated in pregnancy and immunocompromised individuals, since the attenuated organism can still replicate.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#carrier-states",
+    "href": "diseases/communicable-diseases.html#carrier-states",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Carrier States",
+    "text": "Carrier States\n🟡 SHOULD KNOW\nA carrier is an infected person who sheds the agent without (or before/after) showing overt disease — carriers matter because they’re often missed by clinical surveillance.\n\nBy type: incubatory (sheds during incubation) · convalescent (continues shedding after clinical recovery, e.g. typhoid, cholera) · healthy (shedding without ever having overt disease, e.g. poliomyelitis)\nBy duration: temporary (short-lived shedding) vs. chronic (indefinite shedding — the greater public-health threat, since the longer the carrier state, the greater the cumulative community risk)\n\nWhy carriers matter more than cases, sometimes: a diagnosed case is usually isolated; an unrecognized chronic carrier keeps transmitting silently.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#incubation-period-and-related-intervals",
+    "href": "diseases/communicable-diseases.html#incubation-period-and-related-intervals",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Incubation Period and Related Intervals",
+    "text": "Incubation Period and Related Intervals\n🟡 SHOULD KNOW\nIncubation period — the time between exposure to an infectious agent and the first sign or symptom of disease. It depends on infective dose, portal of entry, and host susceptibility, and is used to set quarantine duration and trace likely sources.\nTwo related, easily confused intervals:\n\nGeneration time — from receipt of infection to that host’s own peak infectivity\nSerial interval — the gap between symptom onset in a primary case and symptom onset in a secondary case it infects",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#census-civil-registration-and-sample-registration",
+    "href": "global/health-information.html#census-civil-registration-and-sample-registration",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Census, Civil Registration, and Sample Registration",
+    "text": "Census, Civil Registration, and Sample Registration\n🟢 MUST KNOW\n\nCensus — a complete, periodic (every 10 years in India) headcount with legal backing, collecting population size, composition, density, literacy, and occupational structure. Records either de facto (location at the time of enumeration) or de jure (usual place of residence)\nCivil Registration System (CRS) — aims at universal, legal registration of every individual birth and death, for documentary and legal purposes\nSample Registration System (SRS), India — a sample-based statistical exercise (not universal registration), designed to estimate rates, not register individuals; operates via dual recording (continuous local enumeration plus independent retrospective half-yearly surveys) across a representative sample of units nationwide\n\nWhy SRS exists alongside CRS: where civil registration completeness is incomplete, SRS provides India’s most reliable source of birth/death rate estimates — it has served as the standard data source for India’s mortality indicators since the late 1960s.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
     ]
   }
 ]

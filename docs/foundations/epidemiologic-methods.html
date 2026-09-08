@@ -143,10 +143,14 @@
 <p><strong>Learning Objectives:</strong></p>
 <ul>
 <li>Compare cohort, case-control, cross-sectional, and ecological study designs</li>
+<li>Explain matching and the nested case-control design</li>
 <li>Calculate and interpret relative risk (RR) and odds ratio (OR)</li>
 <li>Calculate attributable risk and attributable risk percent</li>
+<li>Classify types of association and distinguish them from causation</li>
 <li>Describe the design and purpose of a randomized controlled trial</li>
 <li>Distinguish selection bias, information bias, and confounding</li>
+<li>Compute crude, specific, and case fatality mortality rates</li>
+<li>Explain why and how mortality rates are age-standardized</li>
 </ul>
 <p>🟢 <strong>MUST KNOW</strong> · 🟡 <strong>SHOULD KNOW</strong> · 🟣 <strong>MAY KNOW</strong> · 🧡 <strong>QUESTION</strong></p>
 <aside class="notes">
@@ -212,6 +216,25 @@
 </ul>
 <p><code>OR = (a × d) / (b × c)</code></p>
 <p><strong>Rare disease assumption:</strong> when the disease is uncommon (roughly &lt;10% in the unexposed group), OR closely approximates RR — this is why case-control studies are widely used to estimate risk for rare diseases.</p>
+</section>
+<section id="matching-in-case-control-studies" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Matching in Case-Control Studies</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Matching</strong> selects controls so that a potential confounder (e.g.&nbsp;age, occupation) has the <strong>same distribution</strong> in cases and controls, removing its confounding effect before analysis even starts.</p>
+<ul>
+<li><strong>Group matching</strong> — the frequency distribution of the matched variable is made similar in both groups (e.g.&nbsp;same age-band mix)</li>
+<li><strong>Pair (individual) matching</strong> — each case is paired with a control sharing that characteristic (a 50-year-old mason case gets a 50-year-old mason control)</li>
+</ul>
+<p><strong>Critical rule:</strong> never match on the exposure/factor you actually want to study — doing so forces cases and controls to look alike on that factor and erases its association with disease entirely. Over-matching also makes finding controls harder and can bias the odds ratio toward 1.</p>
+</section>
+<section id="nested-case-control-study" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Nested Case-Control Study</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>A case-control study conducted <strong>within</strong> an existing cohort: once enough cases accumulate in a large prospective cohort, controls are sampled from the cohort’s non-cases rather than tracking exposure data for everyone.</p>
+<ul>
+<li>More <strong>efficient</strong> than analyzing the full cohort — exposure data is processed only for cases and the sampled controls</li>
+<li>Because both groups are drawn from the <em>same</em> defined cohort, this design minimizes selection bias and misclassification compared to an ordinary case-control study</li>
+</ul>
 </section>
 <section id="cohort-vs.-case-control" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Cohort vs.&nbsp;Case-Control</h2>
@@ -307,6 +330,94 @@
 <p>A <strong>confounder</strong> is a third factor that is associated with <em>both</em> the exposure and the outcome, and distorts the apparent exposure–disease association — it can exaggerate, mask, or even reverse the true direction of an effect.</p>
 <p><strong>Example:</strong> age can confound the association between grey hair and heart disease — older people have more grey hair <em>and</em> more heart disease, with no direct causal link between the two.</p>
 <p><strong>Unlike selection and information bias, confounding can be addressed after data collection</strong> — through stratification, matching, or statistical adjustment (e.g.&nbsp;multivariable regression) — as well as through randomization at the design stage.</p>
+</section>
+<section id="types-of-association" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Types of Association</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>Not every statistical association between an exposure and a disease is causal. Four categories are recognized:</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>What it means</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Spurious</strong></td>
+<td>An artifact of bias — comparing groups that were never truly “like with like” (a form of selection bias)</td>
+</tr>
+<tr class="even">
+<td><strong>Indirect</strong></td>
+<td>Exposure and disease are each linked to a separate third factor, with no direct link between them (e.g.&nbsp;altitude and endemic goitre — both track with iodine-poor terrain)</td>
+</tr>
+<tr class="odd">
+<td><strong>One-to-one causal</strong></td>
+<td>A change in the exposure directly produces a change in disease — the single-cause model behind Koch’s postulates (Chapter 2)</td>
+</tr>
+<tr class="even">
+<td><strong>Multifactorial causal</strong></td>
+<td>Several causes act together — either independently (any one is enough) or cumulatively/synergistically (as in coronary heart disease)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Rule of thumb:</strong> correlation can suggest causation, but never proves it on its own — ruling out spurious and indirect association is exactly what the Bradford Hill criteria (Chapter 2) are for.</p>
+</section>
+<section id="mortality-rates-crude-specific-and-case-fatality" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Mortality Rates: Crude, Specific, and Case Fatality</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Rate</th>
+<th>Formula (per convention)</th>
+<th>Use</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Crude Death Rate (CDR)</strong></td>
+<td>All deaths ÷ mid-year population × 1,000</td>
+<td>Simplest mortality measure — but not comparable between populations with different age structures</td>
+</tr>
+<tr class="even">
+<td><strong>Specific Death Rate</strong></td>
+<td>Deaths in a subgroup (age/sex/cause) ÷ subgroup population × 1,000</td>
+<td>Identifies at-risk groups; comparable across causes within a population</td>
+</tr>
+<tr class="odd">
+<td><strong>Case Fatality Rate (CFR)</strong></td>
+<td>Deaths from a disease ÷ cases of that disease × 100</td>
+<td>The “killing power” of a disease — best suited to acute infections, not chronic disease</td>
+</tr>
+<tr class="even">
+<td><strong>Proportional Mortality Rate (PMR)</strong></td>
+<td>Deaths from a cause ÷ all deaths × 100</td>
+<td>Used when population denominators aren’t available — does <strong>not</strong> measure risk of dying</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Common exam trap:</strong> PMR is often mistaken for a risk measure. It only describes the <em>share</em> of deaths due to a cause — a rising PMR can simply mean deaths from other causes fell, not that the disease got more lethal.</p>
+</section>
+<section id="standardization-direct-and-indirect-methods" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Standardization: Direct and Indirect Methods</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>Crude rates aren’t comparable between populations with different age (or sex) structures. <strong>Standardization</strong> removes that distortion by applying a common “standard population.”</p>
+<ul>
+<li><strong>Direct method</strong> — used when age-specific rates are known for the populations being compared. Apply each population’s own age-specific rates to one standard population, then compare the resulting expected totals.</li>
+<li><strong>Indirect method</strong> — used when age-specific rates for the study population aren’t available. Apply the <em>standard population’s</em> age-specific rates to the study population’s age structure, producing the <strong>Standardized Mortality Ratio (SMR)</strong>:</li>
+</ul>
+<p><code>SMR = Observed deaths / Expected deaths</code></p>
+<p>An SMR above 1 means the study population had more deaths than expected from the standard population’s experience; below 1 means fewer.</p>
 </section>
 <section id="ecological-fallacy-a-closer-look" class="slide level2 center" data-background-color="#E8E4F3">
 <h2>Ecological Fallacy — A Closer Look</h2>
@@ -409,6 +520,7 @@
 <li>Centers for Disease Control and Prevention. <em>Principles of Epidemiology in Public Health Practice</em> (3rd ed.), Lesson 3.</li>
 <li>Rothman, K.J., Greenland, S., Lash, T.L. <em>Modern Epidemiology</em> (3rd ed.). Lippincott Williams &amp; Wilkins.</li>
 <li>Wikipedia contributors. “Attributable fraction among the exposed” and “Randomized controlled trial.”</li>
+<li>Park, K. <em>Park’s Textbook of Preventive and Social Medicine</em> — standard reference for matching, types of association, mortality rates, and standardization.</li>
 </ol>
 </section>
 <section id="thank-you" class="slide level2 center">
