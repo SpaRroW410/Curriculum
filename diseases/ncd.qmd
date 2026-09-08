@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/26 | [Next Chapter →](essential-medicines.html)"
+    footer: "[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/28 | [Next Chapter →](essential-medicines.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -360,4 +360,4 @@ to be experiencing:
 
 **Next Chapter:** Essential Medicines and Counterfeit Medicines
 
-[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/26 | [Next Chapter →](essential-medicines.html)
+[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/28 | [Next Chapter →](essential-medicines.html)

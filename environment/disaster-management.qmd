@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/26 | [Next Chapter →](occupational-health.html)"
+    footer: "[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/28 | [Next Chapter →](occupational-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -253,4 +253,4 @@ prevention (Chapter 2)?
 
 **Next Chapter:** Occupational Health
 
-[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/26 | [Next Chapter →](occupational-health.html)
+[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/28 | [Next Chapter →](occupational-health.html)

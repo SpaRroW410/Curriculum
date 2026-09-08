@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/26 | [Next Chapter →](principles-epidemiology.html)"
+    footer: "[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/28 | [Next Chapter →](principles-epidemiology.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -535,4 +535,4 @@ The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
 
 **Next Chapter:** Principles of Epidemiology
 
-[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/26 | [Next Chapter →](principles-epidemiology.html)
+[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/28 | [Next Chapter →](principles-epidemiology.html)

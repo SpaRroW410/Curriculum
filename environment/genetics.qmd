@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](occupational-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 20/26 | [Next Chapter →](../global/health-information.html)"
+    footer: "[← Previous](occupational-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 20/28 | [Next Chapter →](../global/health-information.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -331,4 +331,4 @@ family support, is best described as:
 
 **Next Chapter:** Health Information and Basic Medical Statistics
 
-[← Previous](occupational-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 20/26 | [Next Chapter →](../global/health-information.html)
+[← Previous](occupational-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 20/28 | [Next Chapter →](../global/health-information.html)

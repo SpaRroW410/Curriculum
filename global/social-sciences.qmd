@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/26 | [Next Chapter →](health-planning.html)"
+    footer: "[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/28 | [Next Chapter →](health-planning.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -280,4 +280,4 @@ is best described as a conflict between:
 
 **Next Chapter:** Health Planning and Management
 
-[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/26 | [Next Chapter →](health-planning.html)
+[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/28 | [Next Chapter →](health-planning.html)

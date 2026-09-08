@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/26 | [Next Chapter →](preventive-medicine.html)"
+    footer: "[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/28 | [Next Chapter →](preventive-medicine.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -312,4 +312,4 @@ period, India's 1977 population policy shift was to:
 
 **Next Chapter:** Preventive Medicine in Obstetrics, Paediatrics and Geriatrics
 
-[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/26 | [Next Chapter →](preventive-medicine.html)
+[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/28 | [Next Chapter →](preventive-medicine.html)

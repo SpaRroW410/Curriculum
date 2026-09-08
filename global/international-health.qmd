@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/26 | [Course Contents →](../intro.html)"
+    footer: "[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/28 | [Next Chapter →](aetcom.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -297,6 +297,6 @@ Assembly resolution, is most closely associated with:
 
 ## Thank You!
 
-**This is the final chapter (26/26) of the curriculum.**
+**Next Chapter:** AETCOM — Attitude, Ethics and Communication
 
-[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/26 | [Course Contents →](../intro.html)
+[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/28 | [Next Chapter →](aetcom.html)

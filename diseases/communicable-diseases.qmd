@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/26 | [Next Chapter →](ncd.html)"
+    footer: "[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/28 | [Next Chapter →](ncd.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -467,4 +467,4 @@ eradication to date. Which factor was essential to its success?
 
 **Next Chapter:** Epidemiology of Chronic Non-Communicable Diseases
 
-[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/26 | [Next Chapter →](ncd.html)
+[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/28 | [Next Chapter →](ncd.html)

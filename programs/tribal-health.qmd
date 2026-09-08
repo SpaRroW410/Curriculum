@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/26 | [Next Chapter →](../environment/environment-health.html)"
+    footer: "[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/28 | [Next Chapter →](../environment/environment-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -271,4 +271,4 @@ access specific to tribal areas, beyond infrastructure shortages?
 
 **Next Chapter:** Environment and Health
 
-[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/26 | [Next Chapter →](../environment/environment-health.html)
+[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/28 | [Next Chapter →](../environment/environment-health.html)

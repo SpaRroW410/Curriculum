@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/26 | [Next Chapter →](../programs/health-programmes.html)"
+    footer: "[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/28 | [Next Chapter →](../programs/health-programmes.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -338,4 +338,4 @@ through:
 
 **Next Chapter:** Health Programmes in India
 
-[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/26 | [Next Chapter →](../programs/health-programmes.html)
+[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/28 | [Next Chapter →](../programs/health-programmes.html)

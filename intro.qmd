@@ -58,9 +58,15 @@ Index](topic-index.qmd).\
 ---
 
 ## E. Health Information, Education & Global Perspectives
-- [Chapter 21: Health Information and Basic Medical Statistics](global/health-information.qmd)  
-- [Chapter 22: Communication for Health Education](global/health-education.qmd)  
-- [Chapter 23: Medicine and Social Sciences](global/social-sciences.qmd)  
-- [Chapter 24: Health Planning and Management](global/health-planning.qmd)  
-- [Chapter 25: Health Care of the Community](global/community-health.qmd)  
-- [Chapter 26: International Health](global/international-health.qmd)  
+- [Chapter 21: Health Information and Basic Medical Statistics](global/health-information.qmd)
+- [Chapter 22: Communication for Health Education](global/health-education.qmd)
+- [Chapter 23: Medicine and Social Sciences](global/social-sciences.qmd)
+- [Chapter 24: Health Planning and Management](global/health-planning.qmd)
+- [Chapter 25: Health Care of the Community](global/community-health.qmd)
+- [Chapter 26: International Health](global/international-health.qmd)
+
+---
+
+## F. Professionalism & Communication
+- [Chapter 27: AETCOM — Attitude, Ethics and Communication](global/aetcom.qmd)
+- [Chapter 28: Health Talks and Community IEC](global/health-talks.qmd)

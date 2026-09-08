@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](essential-medicines.html) | [Top](#home) | [Contents](../intro.html) | Chapter 9/26 | [Next Chapter →](mental-health.html)"
+    footer: "[← Previous](essential-medicines.html) | [Top](#home) | [Contents](../intro.html) | Chapter 9/28 | [Next Chapter →](mental-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -360,4 +360,4 @@ Scheme, is called:
 
 **Next Chapter:** Mental Health
 
-[← Previous](essential-medicines.html) | [Top](#home) | [Contents](../intro.html) | Chapter 9/26 | [Next Chapter →](mental-health.html)
+[← Previous](essential-medicines.html) | [Top](#home) | [Contents](../intro.html) | Chapter 9/28 | [Next Chapter →](mental-health.html)

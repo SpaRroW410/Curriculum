@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/26 | [Next Chapter →](demography.html)"
+    footer: "[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/28 | [Next Chapter →](demography.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -269,4 +269,4 @@ is that it:
 
 **Next Chapter:** Demography and Family Planning
 
-[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/26 | [Next Chapter →](demography.html)
+[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/28 | [Next Chapter →](demography.html)

@@ -114,12 +114,18 @@ website:
             href: global/community-health.qmd
           - text: "International Health"
             href: global/international-health.qmd
+      - text: "Professionalism"
+        menu:
+          - text: "AETCOM: Attitude, Ethics and Communication"
+            href: global/aetcom.qmd
+          - text: "Health Talks and Community IEC"
+            href: global/health-talks.qmd
       - text: "Post Graduate"
         menu:
           - text: "Guide for Dissertation"
             href: post_graduate/dissertation-guide.qmd
-          
-      
+
+
     right:
       - text: "Reference"
         icon: book
@@ -256,6 +262,13 @@ website:
             file: global/community-health.qmd
           - text: "International Health"
             file: global/international-health.qmd
+
+      - section: "Professionalism & Communication"
+        contents:
+          - text: "AETCOM: Attitude, Ethics and Communication"
+            file: global/aetcom.qmd
+          - text: "Health Talks and Community IEC"
+            file: global/health-talks.qmd
 
 format:
   html:

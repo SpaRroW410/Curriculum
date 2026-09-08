@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](demography.html) | [Top](#home) | [Contents](../intro.html) | Chapter 14/26 | [Next Chapter →](tribal-health.html)"
+    footer: "[← Previous](demography.html) | [Top](#home) | [Contents](../intro.html) | Chapter 14/28 | [Next Chapter →](tribal-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -299,4 +299,4 @@ The WHO Decade of Healthy Ageing (2021-2030) is explicitly aligned with:
 
 **Next Chapter:** Tribal Health in India
 
-[← Previous](demography.html) | [Top](#home) | [Contents](../intro.html) | Chapter 14/26 | [Next Chapter →](tribal-health.html)
+[← Previous](demography.html) | [Top](#home) | [Contents](../intro.html) | Chapter 14/28 | [Next Chapter →](tribal-health.html)

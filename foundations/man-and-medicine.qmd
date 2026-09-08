@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[Top](#home) | [Contents](../intro.html) | Chapter 1/26 | [Next Chapter →](concept-health-disease.html)"
+    footer: "[Top](#home) | [Contents](../intro.html) | Chapter 1/28 | [Next Chapter →](concept-health-disease.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -448,4 +448,4 @@ under which goal?
 
 **Next Chapter:** Concept of Health and Disease
 
-[Top](#home) | [Contents](../intro.html) | Chapter 1/26 | [Next Chapter →](concept-health-disease.html)
+[Top](#home) | [Contents](../intro.html) | Chapter 1/28 | [Next Chapter →](concept-health-disease.html)

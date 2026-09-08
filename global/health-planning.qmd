@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/26 | [Next Chapter →](community-health.html)"
+    footer: "[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/28 | [Next Chapter →](community-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -268,4 +268,4 @@ In Gulick's POSDCORB framework, "CO" stands for:
 
 **Next Chapter:** Health Care of the Community
 
-[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/26 | [Next Chapter →](community-health.html)
+[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/28 | [Next Chapter →](community-health.html)
