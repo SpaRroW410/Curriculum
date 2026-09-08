@@ -287,6 +287,25 @@ investigation formally concludes.)*
 
 ---
 
+## Explore: Selected Diseases in Depth {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The principles above apply to every communicable disease — six specific
+diseases are covered in dedicated modules, each with agent, clinical
+features, diagnosis, treatment, and control in full depth:
+
+[**Malaria**](cd/module1_malaria.html) · [**Typhoid Fever &
+Cholera**](cd/module2_typhoid_cholera.html) · [**Viral
+Hepatitis**](cd/module3_viral_hepatitis.html) ·
+[**Poliomyelitis**](cd/module4_poliomyelitis.html) · [**Food Poisoning &
+Diarrhoeal Disease**](cd/module5_food_poisoning.html) ·
+[**Hospital-Acquired Infections**](cd/module6_hospital_acquired_infections.html)
+
+Or browse the [module hub](cd.html) for an overview of all six.
+
+---
+
 ## Emerging and Re-emerging Infections {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**

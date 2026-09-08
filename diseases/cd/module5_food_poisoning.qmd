@@ -1,0 +1,242 @@
+---
+title: "Module 5: Food Poisoning and Diarrhoeal Disease Control"
+subtitle: "Bacterial Agents, Oral Rehydration Therapy, and India's Programme"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module4_poliomyelitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 5/6 | [Next →](module6_hospital_acquired_infections.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Food Poisoning and Diarrhoeal Disease Control
+
+**Learning Objectives:**
+
+- Compare the major bacterial causes of food poisoning
+- Calculate ORS requirements and apply WHO rehydration guidelines
+- Distinguish cholera from shigella diarrhoea clinically
+- Explain the role of zinc supplementation in diarrhoea management
+- Identify key preventive strategies against diarrhoeal disease
+- Recognize amoebiasis and soil-transmitted helminths as related enteric threats
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This module closes the enteric-disease cluster (typhoid, cholera,
+hepatitis A/E, and now food poisoning) with the single most
+consequential intervention across all of them: oral rehydration therapy.
+:::
+
+---
+
+## Bacterial Food Poisoning: A Comparison {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Agent | Source | Incubation | Key feature |
+|---|---|---|---|
+| **Staphylococcus aureus** | Milk products (preformed enterotoxin) | 1–6 hours | Rapid-onset vomiting, cramps |
+| **Salmonella** | Meat, milk, eggs | 12–24 hours | Fever, vomiting, diarrhoea |
+| **Bacillus cereus (emetic)** | Fried rice, pasta (preformed toxin) | 1–6 hours | Upper GI symptoms (vomiting) |
+| **Bacillus cereus (diarrhoeal)** | Soup, gravy, meat | 12–24 hours | Lower GI symptoms (diarrhoea) |
+| **Clostridium botulinum** | Home-canned/preserved food | 18–36 hours | **Neurological**: diplopia, dysphagia, weakness — can be fatal |
+| **Clostridium perfringens** | Reheated meat/poultry | 6–24 hours | Diarrhoea, cramps |
+
+**Pattern to remember:** a **preformed toxin** (Staph, B. cereus emetic
+form, botulism) gives fast onset within hours; an organism that must
+multiply and invade first (Salmonella, C. perfringens) takes longer.
+
+---
+
+## Investigating a Food Poisoning Outbreak {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Standard steps, applying the general outbreak-investigation framework
+(Chapter 6) to a food-borne event:
+
+1. **History-taking** — interview everyone who shared the food: what was
+   eaten, when, symptom onset and type, in order of occurrence
+2. **Laboratory investigation** — culture stool/vomit/food remnants;
+   examine kitchen staff's stool samples too
+3. **Food-specific attack rates** — calculated for each food item to
+   identify the culprit
+4. **Case-control study** — used to statistically confirm the
+   association between illness and a specific food
+
+**Prevention:** meat inspection, food-handler personal hygiene (exclude
+those with wounds/diarrhoea from food handling), rapid cooling/cold
+storage, and thorough cooking (most agents killed above 60°C).
+
+---
+
+## Oral Rehydration Therapy {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The single most important intervention for acute watery diarrhoea:
+
+`ORS required (first 4 hours) = body weight (kg) × 75 mL/kg`
+
+- Give **as much ORS as the patient wants**, monitoring for continued
+  dehydration signs
+- Vomiting is **not** a reason to stop — wait 10 minutes, then resume
+  slowly (a spoonful every 2–3 minutes)
+- **Continue breastfeeding and normal feeding** throughout — food should
+  never be withheld or diluted; this is a major shift from older
+  "starve the diarrhoea" practice
+
+**Maintenance therapy** (after initial rehydration): oral fluid intake
+should match ongoing stool loss — roughly 10–15 mL/kg/hour for severe
+diarrhoea if stool volume can't be measured directly.
+
+---
+
+## Cholera vs. Shigella: Clinical Differentiation {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Feature | Cholera | Shigella |
+|---|---|---|
+| Stool | Watery, "rice-water" | Bloody/mucoid |
+| Fever | Absent | Present |
+| Vomiting | Present | Absent |
+| Rectal pain (tenesmus) | Absent | Present |
+
+**Why it matters:** antibiotics are indicated only when the cause is
+clearly identified (shigella, typhoid, cholera) — routine antibiotic use
+in undifferentiated diarrhoea causes more harm than benefit. Cholera:
+doxycycline/tetracycline. Shigella: ciprofloxacin (often resistant to
+ampicillin/TMP-SMX).
+
+---
+
+## Zinc Supplementation and Prevention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Zinc** — WHO/UNICEF recommend 10 mg/day (under 6 months) or 20 mg/day
+(over 6 months) for **10–14 days** during acute diarrhoea. This reduces
+episode duration/severity *and* lowers diarrhoea incidence for the
+following 2–3 months.
+
+**Broader prevention (better MCH care practices):**
+
+- **Breastfeeding promotion** — breast-fed children have far lower
+  severe-diarrhoea and death risk than bottle-fed children
+- **Appropriate weaning** — not too early (before 6 months) or too late,
+  with hygienically prepared, nutritious foods
+- **Vitamin A supplementation** — reduces child mortality by 19–54%,
+  substantially via reduced diarrhoeal and measles deaths
+- **Rotavirus vaccine** — included in India's Universal Immunization
+  Programme, targeting the leading viral cause of severe childhood
+  diarrhoea
+
+---
+
+## Amoebiasis and Soil-Transmitted Helminths {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Two further faeco-orally transmitted enteric conditions worth
+recognizing alongside bacterial/viral diarrhoea:
+
+- **Amoebiasis** (*Entamoeba histolytica*) — faeco-oral transmission via
+  contaminated water/food; ranges from asymptomatic cyst passage to
+  amoebic dysentery and, rarely, liver abscess. Control mirrors typhoid
+  and cholera: safe water, sanitation, food hygiene
+- **Soil-transmitted helminths (STH)** — roundworm (*Ascaris*), hookworm,
+  whipworm; transmitted via soil contaminated by human faeces (eggs
+  ingested, or hookworm larvae penetrate skin). Public health control
+  relies on periodic deworming, sanitation, and footwear use
+- **Guinea worm (dracunculiasis)** — transmitted via contaminated
+  drinking water containing infected copepods; a WHO-targeted eradication
+  disease, controlled almost entirely through safe water and case
+  containment rather than drugs
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A patient develops vomiting and cramps within 2 hours of eating a milk
+product. This rapid onset is most characteristic of:
+
+- Salmonella food poisoning
+- [A preformed toxin, such as Staphylococcus aureus enterotoxin]{.correct data-explanation="Preformed toxins (Staph aureus, B. cereus emetic form) act within 1-6 hours because no bacterial multiplication is needed before symptoms appear — unlike Salmonella, which must invade and multiply first."}
+- Clostridium perfringens
+- Amoebic dysentery
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The standard formula for calculating ORS required during the first 4
+hours of rehydration is:
+
+- Body weight (kg) × 10 mL/kg
+- Body weight (kg) × 30 mL/kg
+- [Body weight (kg) × 75 mL/kg]{.correct data-explanation="WHO guidelines set the fluid deficit at approximately 75 mL/kg for the first 4 hours of oral rehydration therapy."}
+- Age (years) × 100 mL
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A child with acute diarrhoea has fever, bloody/mucoid stool, and rectal
+pain, but no vomiting. This clinical picture is most consistent with:
+
+- Cholera
+- [Shigella]{.correct data-explanation="Shigella classically presents with fever, bloody/mucoid stool, and tenesmus (rectal pain), and typically without vomiting — the opposite pattern from cholera's watery, afebrile, vomiting-predominant picture."}
+- Staphylococcal food poisoning
+- Rotavirus gastroenteritis
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization / UNICEF. *Clinical Management of Acute
+   Diarrhoea* — joint statement on ORS and zinc.
+2. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for food poisoning and diarrhoeal disease control.
+3. Government of India, Universal Immunization Programme — rotavirus
+   vaccine introduction.
+
+---
+
+## Thank You!
+
+**Next Module:** Hospital-Acquired Infections
+
+[← Previous](module4_poliomyelitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 5/6 | [Next →](module6_hospital_acquired_infections.html)

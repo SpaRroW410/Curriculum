@@ -1033,11 +1033,11 @@
     ]
   },
   {
-    "objectID": "global/health-information.html#civil-registration-vs.-sample-registration",
-    "href": "global/health-information.html#civil-registration-vs.-sample-registration",
+    "objectID": "global/health-information.html#census-civil-registration-and-sample-registration",
+    "href": "global/health-information.html#census-civil-registration-and-sample-registration",
     "title": "Health Information and Basic Medical Statistics",
-    "section": "Civil Registration vs. Sample Registration",
-    "text": "Civil Registration vs. Sample Registration\n🟢 MUST KNOW\n\nCivil Registration System (CRS) — aims at universal, legal registration of every individual birth and death, for documentary and legal purposes\nSample Registration System (SRS), India — a sample-based statistical exercise (not universal registration), designed to estimate rates, not register individuals; operates via dual recording (continuous local enumeration plus independent retrospective half-yearly surveys) across a representative sample of units nationwide\n\nWhy SRS exists alongside CRS: where civil registration completeness is incomplete, SRS provides India’s most reliable source of birth/death rate estimates — it has served as the standard data source for India’s mortality indicators since the late 1960s.",
+    "section": "Census, Civil Registration, and Sample Registration",
+    "text": "Census, Civil Registration, and Sample Registration\n🟢 MUST KNOW\n\nCensus — a complete, periodic (every 10 years in India) headcount with legal backing, collecting population size, composition, density, literacy, and occupational structure. Records either de facto (location at the time of enumeration) or de jure (usual place of residence)\nCivil Registration System (CRS) — aims at universal, legal registration of every individual birth and death, for documentary and legal purposes\nSample Registration System (SRS), India — a sample-based statistical exercise (not universal registration), designed to estimate rates, not register individuals; operates via dual recording (continuous local enumeration plus independent retrospective half-yearly surveys) across a representative sample of units nationwide\n\nWhy SRS exists alongside CRS: where civil registration completeness is incomplete, SRS provides India’s most reliable source of birth/death rate estimates — it has served as the standard data source for India’s mortality indicators since the late 1960s.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -1453,6 +1453,18 @@
     ]
   },
   {
+    "objectID": "foundations/principles-epidemiology.html#attack-rate",
+    "href": "foundations/principles-epidemiology.html#attack-rate",
+    "title": "Principles of Epidemiology",
+    "section": "Attack Rate",
+    "text": "Attack Rate\n🟢 MUST KNOW\nA special form of incidence rate, used only when a population is exposed to risk for a limited period — typically during an outbreak:\nAttack Rate = (New cases during the outbreak) / (Population at risk) × 100\nUnlike a general incidence rate, it is expressed as a percentage over the whole exposure episode rather than per year. Secondary attack rate — new cases among contacts of a primary case, within the incubation period — is covered with outbreak measures in Communicable Diseases (Chapter 6).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
     "objectID": "foundations/principles-epidemiology.html#descriptive-epidemiology-person-place-time",
     "href": "foundations/principles-epidemiology.html#descriptive-epidemiology-person-place-time",
     "title": "Principles of Epidemiology",
@@ -1482,6 +1494,18 @@
     "title": "Principles of Epidemiology",
     "section": "Uses of Epidemiology",
     "text": "Uses of Epidemiology\n🟡 SHOULD KNOW\n\nAssessing the community’s health status and identifying its health problems\nStudying the natural history and prognosis of disease\nIdentifying syndromes by describing clinical patterns\nCompleting the clinical picture of chronic diseases by finding sub-clinical and mild cases\nSearching for causes of disease by comparing rates in different population subgroups\nEvaluating the effectiveness and efficiency of health services and interventions",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#operational-case-definitions",
+    "href": "foundations/principles-epidemiology.html#operational-case-definitions",
+    "title": "Principles of Epidemiology",
+    "section": "Operational Case Definitions",
+    "text": "Operational Case Definitions\n🟡 SHOULD KNOW\nA clinician can revise a diagnosis later if it turns out to be wrong. An epidemiologist cannot: the study needs a definition fixed in advance that any field worker can apply consistently to classify a person as a case or not.\n\nAn operational definition spells out exact, measurable criteria — e.g. tonsillitis defined not just clinically, but as “enlarged, red tonsils with white exudate, throat swab culture positive for S. pyogenes”\nIt must be precise (unambiguous), valid (actually captures the disease), and applicable across large populations and different observers\nOnce set, the case definition is used throughout the study — changing it mid-study breaks comparability between phases\n\nWhy it matters: without this, “who counts as a case” varies by observer, and rates computed from the data become impossible to compare or replicate.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -1669,6 +1693,30 @@
     ]
   },
   {
+    "objectID": "foundations/epidemiologic-methods.html#matching-in-case-control-studies",
+    "href": "foundations/epidemiologic-methods.html#matching-in-case-control-studies",
+    "title": "Epidemiologic Methods",
+    "section": "Matching in Case-Control Studies",
+    "text": "Matching in Case-Control Studies\n🟡 SHOULD KNOW\nMatching selects controls so that a potential confounder (e.g. age, occupation) has the same distribution in cases and controls, removing its confounding effect before analysis even starts.\n\nGroup matching — the frequency distribution of the matched variable is made similar in both groups (e.g. same age-band mix)\nPair (individual) matching — each case is paired with a control sharing that characteristic (a 50-year-old mason case gets a 50-year-old mason control)\n\nCritical rule: never match on the exposure/factor you actually want to study — doing so forces cases and controls to look alike on that factor and erases its association with disease entirely. Over-matching also makes finding controls harder and can bias the odds ratio toward 1.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#nested-case-control-study",
+    "href": "foundations/epidemiologic-methods.html#nested-case-control-study",
+    "title": "Epidemiologic Methods",
+    "section": "Nested Case-Control Study",
+    "text": "Nested Case-Control Study\n🟡 SHOULD KNOW\nA case-control study conducted within an existing cohort: once enough cases accumulate in a large prospective cohort, controls are sampled from the cohort’s non-cases rather than tracking exposure data for everyone.\n\nMore efficient than analyzing the full cohort — exposure data is processed only for cases and the sampled controls\nBecause both groups are drawn from the same defined cohort, this design minimizes selection bias and misclassification compared to an ordinary case-control study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
     "objectID": "foundations/epidemiologic-methods.html#cohort-vs.-case-control",
     "href": "foundations/epidemiologic-methods.html#cohort-vs.-case-control",
     "title": "Epidemiologic Methods",
@@ -1746,6 +1794,42 @@
     "title": "Epidemiologic Methods",
     "section": "Confounding",
     "text": "Confounding\n🟡 SHOULD KNOW\nA confounder is a third factor that is associated with both the exposure and the outcome, and distorts the apparent exposure–disease association — it can exaggerate, mask, or even reverse the true direction of an effect.\nExample: age can confound the association between grey hair and heart disease — older people have more grey hair and more heart disease, with no direct causal link between the two.\nUnlike selection and information bias, confounding can be addressed after data collection — through stratification, matching, or statistical adjustment (e.g. multivariable regression) — as well as through randomization at the design stage.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#types-of-association",
+    "href": "foundations/epidemiologic-methods.html#types-of-association",
+    "title": "Epidemiologic Methods",
+    "section": "Types of Association",
+    "text": "Types of Association\n🟡 SHOULD KNOW\nNot every statistical association between an exposure and a disease is causal. Four categories are recognized:\n\n\n\n\n\n\n\nType\nWhat it means\n\n\n\n\nSpurious\nAn artifact of bias — comparing groups that were never truly “like with like” (a form of selection bias)\n\n\nIndirect\nExposure and disease are each linked to a separate third factor, with no direct link between them (e.g. altitude and endemic goitre — both track with iodine-poor terrain)\n\n\nOne-to-one causal\nA change in the exposure directly produces a change in disease — the single-cause model behind Koch’s postulates (Chapter 2)\n\n\nMultifactorial causal\nSeveral causes act together — either independently (any one is enough) or cumulatively/synergistically (as in coronary heart disease)\n\n\n\nRule of thumb: correlation can suggest causation, but never proves it on its own — ruling out spurious and indirect association is exactly what the Bradford Hill criteria (Chapter 2) are for.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#mortality-rates-crude-specific-and-case-fatality",
+    "href": "foundations/epidemiologic-methods.html#mortality-rates-crude-specific-and-case-fatality",
+    "title": "Epidemiologic Methods",
+    "section": "Mortality Rates: Crude, Specific, and Case Fatality",
+    "text": "Mortality Rates: Crude, Specific, and Case Fatality\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\nRate\nFormula (per convention)\nUse\n\n\n\n\nCrude Death Rate (CDR)\nAll deaths ÷ mid-year population × 1,000\nSimplest mortality measure — but not comparable between populations with different age structures\n\n\nSpecific Death Rate\nDeaths in a subgroup (age/sex/cause) ÷ subgroup population × 1,000\nIdentifies at-risk groups; comparable across causes within a population\n\n\nCase Fatality Rate (CFR)\nDeaths from a disease ÷ cases of that disease × 100\nThe “killing power” of a disease — best suited to acute infections, not chronic disease\n\n\nProportional Mortality Rate (PMR)\nDeaths from a cause ÷ all deaths × 100\nUsed when population denominators aren’t available — does not measure risk of dying\n\n\n\nCommon exam trap: PMR is often mistaken for a risk measure. It only describes the share of deaths due to a cause — a rising PMR can simply mean deaths from other causes fell, not that the disease got more lethal.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#standardization-direct-and-indirect-methods",
+    "href": "foundations/epidemiologic-methods.html#standardization-direct-and-indirect-methods",
+    "title": "Epidemiologic Methods",
+    "section": "Standardization: Direct and Indirect Methods",
+    "text": "Standardization: Direct and Indirect Methods\n🟡 SHOULD KNOW\nCrude rates aren’t comparable between populations with different age (or sex) structures. Standardization removes that distortion by applying a common “standard population.”\n\nDirect method — used when age-specific rates are known for the populations being compared. Apply each population’s own age-specific rates to one standard population, then compare the resulting expected totals.\nIndirect method — used when age-specific rates for the study population aren’t available. Apply the standard population’s age-specific rates to the study population’s age structure, producing the Standardized Mortality Ratio (SMR):\n\nSMR = Observed deaths / Expected deaths\nAn SMR above 1 means the study population had more deaths than expected from the standard population’s experience; below 1 means fewer.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -4654,11 +4738,472 @@
     ]
   },
   {
-    "objectID": "assets/references.html",
-    "href": "assets/references.html",
-    "title": "References",
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#home",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#home",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Welcome",
+    "text": "Welcome\nHospital-Acquired Infections\nLearning Objectives:\n\nDefine hospital-acquired (nosocomial) infection\nIdentify the four most common types of HAI\nDescribe the source, route of spread, and recipient framework\nList standard precautions and device-specific prevention measures\nDistinguish barrier nursing from task nursing\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module closes the disease-specific series by turning from community transmission to the healthcare setting itself — the same chain-of-infection framework from Chapter 6 applies, just with the hospital as the environment.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#definition-and-classification",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#definition-and-classification",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Definition and Classification",
+    "text": "Definition and Classification\n🟢 MUST KNOW\nA hospital-acquired (nosocomial) infection is one a patient develops during treatment for another condition, not present or incubating at admission — conventionally, onset after 48 hours of admission. It can also affect healthcare workers.\nThe four most common types, each linked to an invasive device or procedure:\n\n\n\n\n\n\n\nType\nSimplified criterion\n\n\n\n\nUrinary tract infection\nPositive culture, ≥10⁵ bacteria/mL\n\n\nSurgical site infection\nPurulent discharge/abscess/cellulitis within a month of surgery\n\n\nRespiratory infection (esp. ventilator-associated pneumonia)\nRespiratory symptoms + new infiltrate or purulent sputum\n\n\nVascular catheter infection / septicaemia\nInflammation at insertion site, or fever + positive blood culture",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#source-spread-and-recipient",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#source-spread-and-recipient",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Source, Spread, and Recipient",
+    "text": "Source, Spread, and Recipient\n🟢 MUST KNOW\nHAIs are analyzed from three angles:\n\nSource — other patients, hospital staff (Staph aureus commonly carried in nose/skin; Salmonella in the gut), or the environment itself (hospital dust, surfaces)\nRoute of spread — direct contact (most common: via hands), droplet, airborne particles, or contaminated equipment/procedures (catheterization, IV lines, dressings)\nRecipient — all patients are potential recipients, but risk is highest in the seriously ill, those on corticosteroids, and patients in ICU, urology, geriatric, or special newborn care units",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#prevention-standard-precautions",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#prevention-standard-precautions",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Prevention: Standard Precautions",
+    "text": "Prevention: Standard Precautions\n🟡 SHOULD KNOW\nApplied to the care of every patient, regardless of known infection status:\n\nHand hygiene — the single most important measure, since hands are the most common route of transmission; alcohol-based disinfectant when soap and water alone is insufficient\nPersonal protective equipment — gloves for any contact risking contamination; gown, mask, and eye protection where splashing is anticipated\nSharps handled with extreme care; hands washed immediately after glove removal\nIsolation of infectious patients; susceptible patients kept away from infection sources\nDust and droplet control — wet dusting/vacuum cleaning (not dry sweeping), face masks, adequate bed spacing, ventilation",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#device-specific-prevention",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#device-specific-prevention",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Device-Specific Prevention",
+    "text": "Device-Specific Prevention\n🟡 SHOULD KNOW\nEvidence-based measures differ by infection type — knowing what doesn’t work is as important as what does:\n\n\n\n\n\n\n\n\nInfection\nProven effective\nProven NOT effective\n\n\n\n\nUTI\nLimiting catheter duration, aseptic insertion, closed drainage\nSystemic antibiotic prophylaxis\n\n\nSurgical site\nClean OR environment, optimal antibiotic timing, aseptic technique\nPreoperative shaving, fumigation\n\n\nVentilator pneumonia\nAseptic suctioning, limiting ventilation duration\nRoutine ventilator-circuit changes every 48–72h\n\n\nVascular catheter\nClosed system, limited duration, aseptic insertion\nAntimicrobial skin creams",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#nursing-and-administrative-measures",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#nursing-and-administrative-measures",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Nursing and Administrative Measures",
+    "text": "Nursing and Administrative Measures\n🟣 MAY KNOW\n\n\n\n\n\n\n\n\nApproach\nFocus\nPurpose\n\n\n\n\nBarrier nursing\nPPE, isolation, dedicated equipment, strict hand hygiene protocols\nPrevent infection spread\n\n\nTask nursing\nEach staff member repeats specific duties across all patients, supervised by a head nurse\nEfficient care delivery\n\n\n\nAdministrative control: every hospital should have a Control of Infection Committee — responsible for policies on admission of infectious cases, isolation facilities, disinfection procedures, and overall HAI surveillance and response.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#self-check-question-1",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#self-check-question-1",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nBy convention, an infection is classified as hospital-acquired (nosocomial) if it becomes apparent:\n\nWithin 24 hours of admission\nAfter 48 hours of admission, and not present or incubating at admission\nOnly after discharge\nOnly in ICU patients",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#self-check-question-2",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#self-check-question-2",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nThe single most important and most common route of transmission for hospital-acquired infections is:\n\nAirborne particles\nContaminated hospital dust\nDirect contact via the hands of healthcare workers\nContaminated food",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#self-check-question-3",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#self-check-question-3",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nWhich of the following is a proven-ineffective measure for preventing catheter-associated urinary tract infection?\n\nLimiting catheter duration\nAseptic technique at insertion\nMaintaining closed drainage\nSystemic antibiotic prophylaxis",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#references",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#references",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. Guidelines on Core Components of Infection Prevention and Control Programmes.\nCenters for Disease Control and Prevention. Guideline for Isolation Precautions: Preventing Transmission of Infectious Agents in Healthcare Settings.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for hospital-acquired infection control.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#thank-you",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#thank-you",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Thank You!",
+    "text": "Thank You!\nBack to: Communicable Diseases\n← Previous | Top | Communicable Diseases | Module 6/6",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#home",
+    "href": "diseases/cd/module4_poliomyelitis.html#home",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Welcome",
+    "text": "Welcome\nPoliomyelitis\nLearning Objectives:\n\nDescribe poliovirus, its reservoir, and modes of transmission\nClassify the clinical spectrum of polio infection\nRecognize the features of paralytic poliomyelitis\nCompare IPV and OPV — mechanism, advantages, and complications\nExplain AFP surveillance and vaccine-derived poliovirus (VDPV)\nOutline India’s path to polio-free certification\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nPolio is a landmark eradication success story — India was certified polio-free in 2014 after being one of the last endemic reservoirs. This module pairs the biology with the surveillance/vaccination programme that achieved that result.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#agent-reservoir-and-transmission",
+    "href": "diseases/cd/module4_poliomyelitis.html#agent-reservoir-and-transmission",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Agent, Reservoir, and Transmission",
+    "text": "Agent, Reservoir, and Transmission\n🟢 MUST KNOW\nAgent: poliovirus (RNA virus), 3 serotypes — most paralytic outbreaks are type 1. Reservoir: humans only, no chronic carriers, no animal source. Most infections are subclinical — for every clinical case there may be ~1,000 subclinical infections in children, driving silent community spread.\nTransmission: primarily faeco-oral (contaminated water, food, fingers, flies); droplet spread can occur during the acute phase and matters more where sanitation is already good.\nIncubation period: 7–14 days (range 3–35 days). Most vulnerable age in India: 6 months–3 years.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#clinical-spectrum",
+    "href": "diseases/cd/module4_poliomyelitis.html#clinical-spectrum",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Clinical Spectrum",
+    "text": "Clinical Spectrum\n🟢 MUST KNOW\nOnly about 1% of infections involve the CNS and cause paralysis — the rest fall into three non-paralytic categories:\n\n\n\n\n\n\n\nForm\nFeatures\n\n\n\n\nInapparent (subclinical)\nNo symptoms; detected only by virus isolation or rising antibody titre\n\n\nAbortive polio\nMild, self-limiting illness from viraemia; not clinically distinguishable without lab tests\n\n\nNon-paralytic polio\nNeck/back stiffness and pain, synonymous with aseptic meningitis; recovery in 2–10 days\n\n\nParalytic polio\nVirus invades the CNS — see next slide",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#paralytic-polio-recognition",
+    "href": "diseases/cd/module4_poliomyelitis.html#paralytic-polio-recognition",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Paralytic Polio: Recognition",
+    "text": "Paralytic Polio: Recognition\n🟡 SHOULD KNOW\n\nAsymmetrical flaccid paralysis is the hallmark, preceded by fever at onset\nParalysis is descending (hip → distal limb), asymmetric and patchy, with proximal muscles more affected than distal\nProgresses to its maximum in under 4 days (up to 4–7); deep tendon reflexes diminish before paralysis onset; no sensory loss\nBulbar/bulbospinal forms involve cranial nerves — facial asymmetry, swallowing difficulty; respiratory insufficiency is the usual cause of death\n\nNo specific treatment exists — management is supportive: good nursing care and early physiotherapy to minimize residual disability.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#ipv-vs.-opv",
+    "href": "diseases/cd/module4_poliomyelitis.html#ipv-vs.-opv",
+    "title": "Module 4: Poliomyelitis",
+    "section": "IPV vs. OPV",
+    "text": "IPV vs. OPV\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\n\n\nIPV (Salk)\nOPV (Sabin)\n\n\n\n\nType\nInactivated, injectable\nLive attenuated, oral\n\n\nImmunity induced\nHumoral only (IgG/IgM/IgA in serum)\nHumoral and intestinal (secretory IgA)\n\n\nHerd effect\nNone — doesn’t block gut transmission\nStrong — vaccine virus spreads to contacts, achieving herd immunity at ~66% coverage\n\n\nEpidemic use\nPoor fit — needs multiple doses, injections risky during outbreaks\nWell suited — rapid, can interrupt transmission\n\n\nKey risk\nNone significant\nRare Vaccine-Associated Paralytic Polio (VAPP), mostly linked to Sabin type 3\n\n\n\nIndia’s routine schedule uses OPV (birth dose + primary series) with fractional-dose IPV (fIPV) introduced nationally after a 2016 VDPV2 detection — 2 intradermal fIPV doses achieve higher seroconversion than one full IM dose.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#afp-surveillance",
+    "href": "diseases/cd/module4_poliomyelitis.html#afp-surveillance",
+    "title": "Module 4: Poliomyelitis",
+    "section": "AFP Surveillance",
+    "text": "AFP Surveillance\n🟣 MAY KNOW\nSince polio itself is often silent, Acute Flaccid Paralysis (AFP) case reporting is the surveillance backbone — any child with sudden flaccid paralysis is investigated, whether or not polio is suspected clinically.\n\nSensitivity target: ≥1 non-polio AFP case per 100,000 children under 15 detected annually — proof the system is sensitive enough to catch a real case if one occurred\nTwo stool specimens, 24–48 hours apart, within 14 days of paralysis onset, shipped to a WHO-accredited lab within 72 hours\nEnvironmental surveillance (testing sewage, e.g. in Mumbai) can detect circulating poliovirus even without a clinical AFP case",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#vaccine-derived-poliovirus-and-indias-eradication",
+    "href": "diseases/cd/module4_poliomyelitis.html#vaccine-derived-poliovirus-and-indias-eradication",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Vaccine-Derived Poliovirus and India’s Eradication",
+    "text": "Vaccine-Derived Poliovirus and India’s Eradication\n🟣 MAY KNOW\n\nVDPV — the live OPV strain, in communities with low vaccination coverage, can genetically revert over prolonged circulation and cause paralysis indistinguishable from wild-type polio; classified as circulating (cVDPV), immunodeficiency-associated (iVDPV), or ambiguous (aVDPV)\nPulse Polio Immunization (PPI) — India’s mass campaign strategy since 1995: two immunization rounds 4–6 weeks apart, during the low-transmission season (Nov–Feb), targeting every child under 5 regardless of prior immunization status, as extra doses supplementing (not replacing) routine immunization\n\nOutcome: India was certified polio-free on 27 March 2014. Wild poliovirus type 2 (eradicated 2015) and type 3 (eradicated 2019) are gone globally; type 1 is the only wild strain still circulating anywhere.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#self-check-question-1",
+    "href": "diseases/cd/module4_poliomyelitis.html#self-check-question-1",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nApproximately what proportion of poliovirus infections result in paralysis?\n\n50%\n10%\n1%\n25%",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#self-check-question-2",
+    "href": "diseases/cd/module4_poliomyelitis.html#self-check-question-2",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich vaccine induces intestinal (mucosal) immunity and can create herd immunity through community spread of the vaccine virus?\n\nIPV\nOPV\nFractional IPV alone\nHuman normal immunoglobulin",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#self-check-question-3",
+    "href": "diseases/cd/module4_poliomyelitis.html#self-check-question-3",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nThe minimum surveillance sensitivity target for AFP case detection is:\n\nAt least 1 case per 1,000 children under 15 per year\nAt least 1 non-polio AFP case per 100,000 children under 15 per year\nAt least 1 case per 10,000 children under 5 per year\nZero AFP cases reported annually",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#references",
+    "href": "diseases/cd/module4_poliomyelitis.html#references",
+    "title": "Module 4: Poliomyelitis",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. Polio Eradication and Endgame Strategic Plan (2013–2018); Global Polio Laboratory Network surveillance standards.\nGovernment of India, Ministry of Health and Family Welfare — Pulse Polio Immunization and fractional-dose IPV rollout.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for poliomyelitis epidemiology.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#thank-you",
+    "href": "diseases/cd/module4_poliomyelitis.html#thank-you",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Food Poisoning and Diarrhoeal Disease\n← Previous | Top | Communicable Diseases | Module 4/6 | Next →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#home",
+    "href": "diseases/cd/module2_typhoid_cholera.html#home",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Welcome",
+    "text": "Welcome\nTyphoid Fever and Cholera\nLearning Objectives:\n\nIdentify the agent, reservoir, and carrier states of typhoid fever\nDescribe the clinical course, complications, and diagnosis of typhoid\nExplain the pathogenesis and clinical stages of cholera\nCompare oral and injectable typhoid vaccines\nOutline cholera outbreak control, including rehydration therapy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nBoth diseases share a faeco-oral transmission route and the same core control principles (safe water, sanitation, food hygiene) already introduced in Chapter 6 — this module focuses on what’s specific to each.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#typhoid-fever-agent-and-reservoir",
+    "href": "diseases/cd/module2_typhoid_cholera.html#typhoid-fever-agent-and-reservoir",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Typhoid Fever: Agent and Reservoir",
+    "text": "Typhoid Fever: Agent and Reservoir\n🟢 MUST KNOW\nAgent: Salmonella typhi (main cause); S. paratyphi A/B less frequent. Survives intracellularly; killed by drying, pasteurization, common disinfectants.\nReservoir — humans only:\n\nCases — infectious as long as bacilli appear in stool/urine\nCarriers — temporary (incubatory/convalescent) or chronic (excretes bacilli for over a year, often from the gall bladder/biliary tract; develops in 2–5% of cases). Famous example: “Typhoid Mary,” linked to over 1,300 cases as a lifelong chronic carrier\n\nTransmission: faeco-oral / urine-oral, via contaminated water, food, fingers, and flies. Incubation period: 10–14 days (range 3 days–3 weeks).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#typhoid-fever-clinical-course",
+    "href": "diseases/cd/module2_typhoid_cholera.html#typhoid-fever-clinical-course",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Typhoid Fever: Clinical Course",
+    "text": "Typhoid Fever: Clinical Course\n🟡 SHOULD KNOW\n\nFever — classic “step-ladder” rise over 7–10 days, then plateau with a toxic, exhausted appearance\nGI features — constipation or pea-soup (“khaki green”) diarrhoea, abdominal distension\nRose spots — pink, blanching papules on the trunk, appearing in week 2\nComplications (up to 10%, mainly after 2 weeks untreated): intestinal haemorrhage (sudden temperature drop, blood in stool) and intestinal perforation (classically in week 3)\n\nCase fatality: ~1% with early treatment vs. up to 10–20% untreated; mortality is roughly 10× higher in children under 4.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#typhoid-fever-diagnosis-and-control",
+    "href": "diseases/cd/module2_typhoid_cholera.html#typhoid-fever-diagnosis-and-control",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Typhoid Fever: Diagnosis and Control",
+    "text": "Typhoid Fever: Diagnosis and Control\n🟡 SHOULD KNOW\nDiagnosis: blood culture is the mainstay (also bone marrow, stool). Widal test measures O and H antibodies (O appears day 6–8, H day 10–12) but has only moderate sensitivity/specificity and cross-reacts with other Salmonella — a negative Widal does not exclude typhoid.\nControl of reservoir: early diagnosis, notification, isolation until stool/urine cultures are negative; chronic carriers treated with prolonged ampicillin/amoxicillin + probenecid, or cholecystectomy in refractory biliary carriage.\nVaccination: Vi polysaccharide (injectable, single dose, IM/SC, protection from day 7, revaccinate every 3 years) or Ty21a (oral, live-attenuated, 3-dose regimen on alternate days). Neither gives 100% protection but both reduce incidence and severity.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#cholera-agent-and-clinical-picture",
+    "href": "diseases/cd/module2_typhoid_cholera.html#cholera-agent-and-clinical-picture",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Cholera: Agent and Clinical Picture",
+    "text": "Cholera: Agent and Clinical Picture\n🟢 MUST KNOW\nAgent: Vibrio cholerae O1 (classical or El Tor biotype) or O139. Most infections are mild or asymptomatic; typical cases show sudden, profuse, painless, watery diarrhoea (“rice-water stools”) followed by vomiting, rapid dehydration, and muscle cramps.\nPathogenesis: the organism does not invade tissue — cholera toxin activates adenylate cyclase in gut epithelium, raising cAMP and driving massive fluid/electrolyte secretion into the lumen.\nWithout rapid rehydration, case fatality can reach 30–40% — this is almost entirely a disease of fluid loss, not tissue invasion.\nIncubation period: a few hours to 5 days, commonly 1–2 days.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#cholera-transmission-and-diagnosis",
+    "href": "diseases/cd/module2_typhoid_cholera.html#cholera-transmission-and-diagnosis",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Cholera: Transmission and Diagnosis",
+    "text": "Cholera: Transmission and Diagnosis\n🟡 SHOULD KNOW\nTransmission: faecally contaminated water (wells, ponds, rivers) and contaminated food/drink; gastric acidity is a key host defence — the vibrio is destroyed at pH ≤5, which is why achlorhydria and antacid use raise susceptibility.\nCarriers: healthy persons excreting V. cholerae in stool; incubatory carriers are short-lived (short incubation period), but some convalescent/chronic carriage occurs.\nDiagnosis: dark-field microscopy of fresh stool can give a rapid presumptive diagnosis (vibrios show characteristic “shooting star” motility); definitive diagnosis is stool culture on bile salt agar with slide agglutination (Inaba/Ogawa subtyping).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#cholera-outbreak-control",
+    "href": "diseases/cd/module2_typhoid_cholera.html#cholera-outbreak-control",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Cholera: Outbreak Control",
+    "text": "Cholera: Outbreak Control\n🟣 MAY KNOW\nStandard sequence once an outbreak is suspected (echoes Chapter 6’s general outbreak-investigation framework, applied to cholera):\n\nVerify the diagnosis (stool culture for V. cholerae O1/O139)\nNotify local/national health authorities\nActive case-finding in the community\nEstablish accessible treatment centres — 90%+ of cases can be managed with oral rehydration alone; only severe dehydration needs IV fluids\nRehydration therapy (mortality reduced to &lt;1% with effective rehydration)\nAntibiotics as an adjunct only, once vomiting has stopped (fluoroquinolones, tetracycline, azithromycin)\nSanitation measures — safe water, excreta disposal, food hygiene, disinfection\n\nMass chemoprophylaxis is not recommended — treating ~10,000 people to prevent one serious case is not cost-effective and has repeatedly failed to stop spread. Oral cholera vaccines (e.g. Dukoral) exist but supplement, not replace, water/sanitation measures.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#self-check-question-1",
+    "href": "diseases/cd/module2_typhoid_cholera.html#self-check-question-1",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA patient recovers clinically from typhoid fever but continues to excrete S. typhi in stool for over a year, with organisms persisting in the gall bladder. This person is best described as a:\n\nIncubatory carrier\nConvalescent carrier\nChronic carrier\nHealthy carrier",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#self-check-question-2",
+    "href": "diseases/cd/module2_typhoid_cholera.html#self-check-question-2",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nIntestinal perforation as a complication of typhoid fever is classically most likely to occur during which week of illness?\n\nWeek 1\nWeek 2\nWeek 3\nWeek 4",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#self-check-question-3",
+    "href": "diseases/cd/module2_typhoid_cholera.html#self-check-question-3",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nThe primary cause of death in untreated cholera is:\n\nBacterial invasion of the bloodstream (sepsis)\nFluid and electrolyte loss leading to dehydration and shock\nDirect toxin-mediated organ failure\nSecondary pneumonia",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#references",
+    "href": "diseases/cd/module2_typhoid_cholera.html#references",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. Typhoid Fever Vaccines: WHO Position Paper; Cholera Fact Sheet and outbreak control guidance.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for typhoid and cholera epidemiology.\nGovernment of India, National Centre for Disease Control — enteric fever and cholera surveillance guidelines.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#thank-you",
+    "href": "diseases/cd/module2_typhoid_cholera.html#thank-you",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Viral Hepatitis\n← Previous | Top | Communicable Diseases | Module 2/6 | Next →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd.html",
+    "href": "diseases/cd.html",
+    "title": "Selected Communicable Diseases",
     "section": "",
-    "text": "References"
+    "text": "Selected Communicable Diseases\nChapter 6 covers the general principles of communicable disease epidemiology — the chain of infection, transmission, herd immunity, and outbreak investigation. This section applies those principles to six specific diseases in depth, each as its own module.\n\nModule 1: Malaria — agent, life cycle, clinical types, diagnosis, treatment, and NVBDCP\nModule 2: Typhoid Fever and Cholera — two classic faeco-oral enteric diseases\nModule 3: Viral Hepatitis — hepatitis A through E compared\nModule 4: Poliomyelitis — clinical spectrum, IPV vs. OPV, surveillance, and India’s eradication\nModule 5: Food Poisoning and Diarrhoeal Disease Control — bacterial agents, oral rehydration therapy, and India’s programme\nModule 6: Hospital-Acquired Infections — source, spread, and prevention of nosocomial infection\n\nReturn to Communicable Diseases for the general epidemiology of communicable disease, or to Contents for the full curriculum.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Overview"
+    ]
   },
   {
     "objectID": "assets/contact.html",
@@ -4673,6 +5218,481 @@
     "title": "Contact Us",
     "section": "",
     "text": "We welcome feedback, collaboration ideas, and questions about the workshop or its materials. Whether you’re an educator, learner, or curious explorer, feel free to reach out.\n\n\nDr. Rudresh Negi Assistant Professor, Community Medicine\nDr. Mukul Maheshwari\nAssistant Professor, Community Medicine\nEmail: [ryan00700@gmail.com]\nGitHub: github.com/SpaRroW410\n\n\n\n\n\nCompetency-based medical education\nTime trend analysis\nData visualization and analytics in R\nCurriculum design using Quarto\nFinancial modeling for health economics\nStrategic learning tools and gamified pedagogy\n\n\n\n\n\nIf you’re experiencing issues with the site or workshop materials, please include:\n\nYour R version and operating system\nA brief description of the error\nScreenshot or code snippet (if applicable)\n\nWe’ll do our best to respond promptly and help you troubleshoot.\n\n\n\n\nTo receive updates on new modules, public releases, or upcoming workshops, watch the GitHub repo or connect via email."
+  },
+  {
+    "objectID": "assets/references.html",
+    "href": "assets/references.html",
+    "title": "References",
+    "section": "",
+    "text": "References"
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#home",
+    "href": "diseases/cd/module1_malaria.html#home",
+    "title": "Module 1: Malaria",
+    "section": "Welcome",
+    "text": "Welcome\nMalaria\nLearning Objectives:\n\nIdentify the agent, vector, and reservoir of malaria\nDescribe the parasite life cycle in man and mosquito\nDistinguish the clinical types of malaria by species\nCompare methods of diagnosis and outline treatment by species\nState the key malariometric indicators used in surveillance\nDescribe India’s malaria control programme (NVBDCP) and strategy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module extends Chapter 6’s general communicable-disease principles (chain of infection, vector control) to malaria specifically — the first of several vector-borne and enteric diseases covered as dedicated modules.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#agent-reservoir-and-vector",
+    "href": "diseases/cd/module1_malaria.html#agent-reservoir-and-vector",
+    "title": "Module 1: Malaria",
+    "section": "Agent, Reservoir, and Vector",
+    "text": "Agent, Reservoir, and Vector\n🟢 MUST KNOW\nMalaria is caused by four Plasmodium species, transmitted by the bite of an infected female Anopheles mosquito:\n\n\n\n\n\n\n\n\nSpecies\nShare of cases\nNote\n\n\n\n\nP. vivax\n~70%\nBenign tertian; relapses (hypnozoites)\n\n\nP. falciparum\n~25–30%\nMalignant tertian; responsible for severe/fatal malaria; no relapse\n\n\nP. malariae\nuncommon\nQuartan fever (every 4th day)\n\n\nP. ovale\nrare\nMainly Africa; relapses\n\n\n\nReservoir: humans only — either a case (clinical malaria) or a carrier (asymptomatic gametocyte carriage; children more often carriers than adults).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#life-cycle",
+    "href": "diseases/cd/module1_malaria.html#life-cycle",
+    "title": "Module 1: Malaria",
+    "section": "Life Cycle",
+    "text": "Life Cycle\n🟢 MUST KNOW\nThe parasite completes its life cycle across two hosts:\n\nIn man (asexual cycle) — sporozoites injected by the mosquito bite reach the liver, multiply into schizonts, and release merozoites into the blood. Merozoites invade RBCs (erythrocytic phase); rupture of infected RBCs causes the fever paroxysm. P. vivax/ovale leave dormant hypnozoites in the liver → later relapse; P. falciparum does not relapse.\nIn the mosquito (sexual cycle / sporogony) — ingested gametocytes fertilize in the mosquito gut, forming an oocyst that produces sporozoites, which migrate to the salivary glands (10–20 days, temperature/humidity dependent) — the mosquito is now infective.\n\nIncubation period: vivax ≈14 days · falciparum ≈12 days · malariae ≈28 days · ovale ≈17 days.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#clinical-features",
+    "href": "diseases/cd/module1_malaria.html#clinical-features",
+    "title": "Module 1: Malaria",
+    "section": "Clinical Features",
+    "text": "Clinical Features\n🟡 SHOULD KNOW\nBenign tertian (P. vivax): the classic three-stage paroxysm — cold stage (chills, rigors) → hot stage (103–104°F) → sweating stage — fever on alternate days; repeated attacks → splenomegaly, anaemia.\nMalignant tertian (P. falciparum): continuous fever, classic stages often absent; can progress to cerebral malaria (convulsions, coma), blackwater fever (haemoglobinuria), or algid/septicaemic malaria (shock) — the life-threatening form.\nQuartan (P. malariae): fever every 4th day. Ovale malaria: similar to vivax, mainly in Africa.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#diagnosis",
+    "href": "diseases/cd/module1_malaria.html#diagnosis",
+    "title": "Module 1: Malaria",
+    "section": "Diagnosis",
+    "text": "Diagnosis\n🟡 SHOULD KNOW\nAll suspected cases require parasitological confirmation:\n\nLight microscopy — thick smear (detects presence/absence); thin smear (identifies species and parasite stage) — remains the gold standard\nRapid Diagnostic Tests (RDTs) — immunochromatographic antigen detection, results in ~15 minutes; can distinguish P. falciparum from non-falciparum\n\nSuspected case definition: fever in a person living in or having recently visited an endemic area during transmission season, with no other confirmed diagnosis.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#treatment-principles",
+    "href": "diseases/cd/module1_malaria.html#treatment-principles",
+    "title": "Module 1: Malaria",
+    "section": "Treatment Principles",
+    "text": "Treatment Principles\n🟣 MAY KNOW\n\nP. vivax — chloroquine (blood stages) plus primaquine for 14 days (clears liver hypnozoites, prevents relapse)\nP. falciparum — Artemisinin-based Combination Therapy (ACT, e.g. artesunate + sulfadoxine-pyrimethamine) plus a single dose of primaquine (gametocytocidal, blocks transmission)\nPrimaquine is contraindicated in pregnancy, infants, and G6PD deficiency (risk of haemolysis)\nMixed infections involving falciparum are treated as falciparum malaria\nPregnancy: ACT in the 2nd/3rd trimester for falciparum (quinine in the 1st trimester); chloroquine for vivax",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#malariometric-indicators",
+    "href": "diseases/cd/module1_malaria.html#malariometric-indicators",
+    "title": "Module 1: Malaria",
+    "section": "Malariometric Indicators",
+    "text": "Malariometric Indicators\n🟣 MAY KNOW\nUsed to measure transmission intensity and evaluate control programmes:\n\nAnnual Parasite Incidence (API) — confirmed cases per 1,000 population per year (India’s key programme metric)\nSlide Positivity Rate (SPR) / Slide Falciparum Rate (SFR) — % of examined blood smears positive overall / positive for falciparum\nInfant Parasite Rate — most sensitive indicator of active transmission; considered interrupted if zero for 3 consecutive years\nEntomological indices — vector density, human blood index, sporozoite rate (vector-side transmission risk)",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#nvbdcp-and-malaria-elimination",
+    "href": "diseases/cd/module1_malaria.html#nvbdcp-and-malaria-elimination",
+    "title": "Module 1: Malaria",
+    "section": "NVBDCP and Malaria Elimination",
+    "text": "NVBDCP and Malaria Elimination\n🟡 SHOULD KNOW\nIndia’s malaria programme has evolved considerably:\nNMCP (1953) → NMEP (1958) → Modified Plan of Operation (1977) → National Anti-Malaria Programme (1999) → NVBDCP (2003–04) → National Framework for Malaria Elimination 2016–2030\nControl strategy (three-pronged): early diagnosis and complete treatment (passive + active surveillance) · integrated vector control (indoor residual spray, ITNs/LLINs, source reduction) · behaviour change communication and community participation.\nVaccine: RTS,S/AS01 (Mosquirix®) — WHO-recommended since October 2021, the first licensed anti-parasite vaccine; effective against P. falciparum only, ~40% efficacy, 4-dose schedule from 5 months of age.\nIndia’s progress: Annual Parasite Incidence fell from 2.09 (2000) to 0.13 (2022); malaria deaths fell from 932 to 83 over the same period.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#self-check-question-1",
+    "href": "diseases/cd/module1_malaria.html#self-check-question-1",
+    "title": "Module 1: Malaria",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nWhich Plasmodium species is responsible for the large majority of severe, life-threatening malaria?\n\nP. vivax\nP. falciparum\nP. malariae\nP. ovale",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#self-check-question-2",
+    "href": "diseases/cd/module1_malaria.html#self-check-question-2",
+    "title": "Module 1: Malaria",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nPrimaquine is given in P. vivax malaria primarily to:\n\nKill blood-stage parasites and end the fever paroxysm\nClear liver hypnozoites and prevent relapse\nProvide immediate symptomatic relief\nSterilize the Anopheles vector",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#self-check-question-3",
+    "href": "diseases/cd/module1_malaria.html#self-check-question-3",
+    "title": "Module 1: Malaria",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nWhich malariometric indicator is considered the most sensitive marker of active malaria transmission in a community?\n\nSlide Positivity Rate\nChild Spleen Rate\nInfant Parasite Rate\nAnnual Blood Examination Rate",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#references",
+    "href": "diseases/cd/module1_malaria.html#references",
+    "title": "Module 1: Malaria",
+    "section": "References",
+    "text": "References\n\nNational Vector Borne Disease Control Programme (NVBDCP), Ministry of Health and Family Welfare, Government of India — Malaria treatment and control guidelines.\nWorld Health Organization. World Malaria Report and RTS,S/AS01 vaccine recommendation (2021).\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for malaria epidemiology and malariometric indicators.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#thank-you",
+    "href": "diseases/cd/module1_malaria.html#thank-you",
+    "title": "Module 1: Malaria",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Typhoid Fever and Cholera\nTop | Communicable Diseases | Module 1/6 | Next →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#home",
+    "href": "diseases/cd/module3_viral_hepatitis.html#home",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Welcome",
+    "text": "Welcome\nViral Hepatitis\nLearning Objectives:\n\nCompare hepatitis A–E by transmission route, incubation, and chronicity\nInterpret the HBV serological marker panel (HBsAg, HBeAg, anti-HBs)\nDescribe hepatitis B prevention: vaccine, HBIG, and passive-active immunization\nRecognize hepatitis C’s shift to direct-acting antivirals\nIdentify why hepatitis E is especially dangerous in pregnancy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nFive clinically distinct viruses cause “viral hepatitis” — this module organizes them by the single most useful axis for undergraduate exams: faeco-oral (A, E) vs. blood-borne/parenteral (B, C, D) transmission, since that axis predicts chronicity, prevention strategy, and severity in pregnancy.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#hepatitis-ae-at-a-glance",
+    "href": "diseases/cd/module3_viral_hepatitis.html#hepatitis-ae-at-a-glance",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Hepatitis A–E at a Glance",
+    "text": "Hepatitis A–E at a Glance\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\n\nType\nRoute\nIncubation\nChronic state?\nVaccine\n\n\n\n\nA\nFaeco-oral\n10–50 days\nNo\nYes (inactivated/live)\n\n\nB\nParenteral, perinatal, sexual\n30–180 days\nYes\nYes (recombinant)\n\n\nC\nParenteral (blood)\n2 weeks–6 months\nYes (55–85%)\nNo\n\n\nD\nParenteral, requires HBV co-infection\nVariable\nYes, if HBV chronic\nPrevented via HBV vaccine\n\n\nE\nFaeco-oral (water)\n3–8 weeks\nUsually no (chronic only if immunosuppressed)\nYes (China only)\n\n\n\nExam pattern: A and E are faeco-oral, self-limiting, and never become chronic; B, C, and D are blood-borne and can become chronic — this single distinction predicts most of what differs in prevention and prognosis below.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#hepatitis-b-serological-markers",
+    "href": "diseases/cd/module3_viral_hepatitis.html#hepatitis-b-serological-markers",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Hepatitis B: Serological Markers",
+    "text": "Hepatitis B: Serological Markers\n🟡 SHOULD KNOW\nHBV has three antigen–antibody systems that together stage infection — classic MBBS exam material:\n\nHBsAg (surface antigen, “Australia antigen”) — presence beyond 6 months defines the chronic carrier state\nHBeAg — marker of active viral replication and higher infectivity\nAnti-HBs — indicates immunity, either from past infection or vaccination\nAnti-HBc (IgM) — marks recent/acute infection\n\nHigh-risk groups: surgeons (~50× general-population incidence), transfusion recipients, healthcare/lab workers, infants of HBV-carrier mothers, and people who are immunocompromised — all recommended for screening and vaccination.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#hepatitis-b-prevention",
+    "href": "diseases/cd/module3_viral_hepatitis.html#hepatitis-b-prevention",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Hepatitis B: Prevention",
+    "text": "Hepatitis B: Prevention\n🟡 SHOULD KNOW\n\nHepatitis B vaccine — recombinant (HBsAg-based), given IM in the deltoid (anterolateral thigh in infants); 3 doses at 0, 1, and 6 months; included in India’s pentavalent vaccine (DPT + Hep B + Hib)\nHepatitis B Immunoglobulin (HBIG) — passive immunization for acute exposure (needle-stick, newborn of a carrier mother); most effective within 6 hours, ideally not later than 48 hours\nPassive-active immunization — HBIG + vaccine given together is more effective than either alone, and is the standard approach for a newborn of an HBsAg-positive mother\n\nNo specific curative treatment exists for hepatitis B — this is why prevention (vaccination, blood screening) is the primary public-health strategy.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#hepatitis-c-a-changing-picture",
+    "href": "diseases/cd/module3_viral_hepatitis.html#hepatitis-c-a-changing-picture",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Hepatitis C: A Changing Picture",
+    "text": "Hepatitis C: A Changing Picture\n🟣 MAY KNOW\n\nTransmitted almost entirely via blood exposure (transfusion, needle-stick, injection drug use) — not through food, water, or casual contact\n~80% of new infections are asymptomatic; of those infected, 55–85% develop chronic infection, with 15–30% cirrhosis risk over 20 years\nTreatment has been transformed: older interferon + ribavirin regimens (48 weeks, ~50% cure, significant side effects) have been replaced by direct-acting antivirals (DAAs) — 12-week courses that cure most patients with far fewer adverse effects\nNo vaccine exists for hepatitis C — prevention relies entirely on blood safety and injection safety",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#hepatitis-e-special-risk-in-pregnancy",
+    "href": "diseases/cd/module3_viral_hepatitis.html#hepatitis-e-special-risk-in-pregnancy",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Hepatitis E: Special Risk in Pregnancy",
+    "text": "Hepatitis E: Special Risk in Pregnancy\n🟣 MAY KNOW\n\nA water-borne disease; genotype 1 (common in India and South Asia) causes community outbreaks, unlike genotype 3 (developed countries)\nUsually self-limiting with complete recovery — except in pregnancy, where hepatitis E can cause fulminant hepatitis with a case fatality of up to 20% in the third trimester\nNo specific treatment; prevention relies on safe water and sanitation (the same measures already covered for cholera and typhoid)\n\nExam tip: hepatitis E is the one viral hepatitis where pregnancy itself is a major severity risk factor — this is the single fact most often tested.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#self-check-question-1",
+    "href": "diseases/cd/module3_viral_hepatitis.html#self-check-question-1",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nWhich hepatitis viruses are transmitted primarily by the faeco-oral route and never cause a chronic carrier state?\n\nB and C\nA and E\nC and D\nB and D",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#self-check-question-2",
+    "href": "diseases/cd/module3_viral_hepatitis.html#self-check-question-2",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nPersistence of which marker beyond 6 months defines the chronic hepatitis B carrier state?\n\nAnti-HBs\nHBeAg\nHBsAg\nAnti-HBc IgM",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#self-check-question-3",
+    "href": "diseases/cd/module3_viral_hepatitis.html#self-check-question-3",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA pregnant woman in her third trimester is at particularly high risk of fulminant, potentially fatal hepatitis from which virus?\n\nHepatitis A\nHepatitis C\nHepatitis E\nHepatitis D",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#references",
+    "href": "diseases/cd/module3_viral_hepatitis.html#references",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. Fact sheets: Hepatitis A, Hepatitis B, Hepatitis C, Hepatitis E.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for viral hepatitis epidemiology.\nGovernment of India, Universal Immunization Programme — pentavalent vaccine schedule.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#thank-you",
+    "href": "diseases/cd/module3_viral_hepatitis.html#thank-you",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Poliomyelitis\n← Previous | Top | Communicable Diseases | Module 3/6 | Next →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#home",
+    "href": "diseases/cd/module5_food_poisoning.html#home",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Welcome",
+    "text": "Welcome\nFood Poisoning and Diarrhoeal Disease Control\nLearning Objectives:\n\nCompare the major bacterial causes of food poisoning\nCalculate ORS requirements and apply WHO rehydration guidelines\nDistinguish cholera from shigella diarrhoea clinically\nExplain the role of zinc supplementation in diarrhoea management\nIdentify key preventive strategies against diarrhoeal disease\nRecognize amoebiasis and soil-transmitted helminths as related enteric threats\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module closes the enteric-disease cluster (typhoid, cholera, hepatitis A/E, and now food poisoning) with the single most consequential intervention across all of them: oral rehydration therapy.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#bacterial-food-poisoning-a-comparison",
+    "href": "diseases/cd/module5_food_poisoning.html#bacterial-food-poisoning-a-comparison",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Bacterial Food Poisoning: A Comparison",
+    "text": "Bacterial Food Poisoning: A Comparison\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\nAgent\nSource\nIncubation\nKey feature\n\n\n\n\nStaphylococcus aureus\nMilk products (preformed enterotoxin)\n1–6 hours\nRapid-onset vomiting, cramps\n\n\nSalmonella\nMeat, milk, eggs\n12–24 hours\nFever, vomiting, diarrhoea\n\n\nBacillus cereus (emetic)\nFried rice, pasta (preformed toxin)\n1–6 hours\nUpper GI symptoms (vomiting)\n\n\nBacillus cereus (diarrhoeal)\nSoup, gravy, meat\n12–24 hours\nLower GI symptoms (diarrhoea)\n\n\nClostridium botulinum\nHome-canned/preserved food\n18–36 hours\nNeurological: diplopia, dysphagia, weakness — can be fatal\n\n\nClostridium perfringens\nReheated meat/poultry\n6–24 hours\nDiarrhoea, cramps\n\n\n\nPattern to remember: a preformed toxin (Staph, B. cereus emetic form, botulism) gives fast onset within hours; an organism that must multiply and invade first (Salmonella, C. perfringens) takes longer.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#investigating-a-food-poisoning-outbreak",
+    "href": "diseases/cd/module5_food_poisoning.html#investigating-a-food-poisoning-outbreak",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Investigating a Food Poisoning Outbreak",
+    "text": "Investigating a Food Poisoning Outbreak\n🟡 SHOULD KNOW\nStandard steps, applying the general outbreak-investigation framework (Chapter 6) to a food-borne event:\n\nHistory-taking — interview everyone who shared the food: what was eaten, when, symptom onset and type, in order of occurrence\nLaboratory investigation — culture stool/vomit/food remnants; examine kitchen staff’s stool samples too\nFood-specific attack rates — calculated for each food item to identify the culprit\nCase-control study — used to statistically confirm the association between illness and a specific food\n\nPrevention: meat inspection, food-handler personal hygiene (exclude those with wounds/diarrhoea from food handling), rapid cooling/cold storage, and thorough cooking (most agents killed above 60°C).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#oral-rehydration-therapy",
+    "href": "diseases/cd/module5_food_poisoning.html#oral-rehydration-therapy",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Oral Rehydration Therapy",
+    "text": "Oral Rehydration Therapy\n🟢 MUST KNOW\nThe single most important intervention for acute watery diarrhoea:\nORS required (first 4 hours) = body weight (kg) × 75 mL/kg\n\nGive as much ORS as the patient wants, monitoring for continued dehydration signs\nVomiting is not a reason to stop — wait 10 minutes, then resume slowly (a spoonful every 2–3 minutes)\nContinue breastfeeding and normal feeding throughout — food should never be withheld or diluted; this is a major shift from older “starve the diarrhoea” practice\n\nMaintenance therapy (after initial rehydration): oral fluid intake should match ongoing stool loss — roughly 10–15 mL/kg/hour for severe diarrhoea if stool volume can’t be measured directly.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#cholera-vs.-shigella-clinical-differentiation",
+    "href": "diseases/cd/module5_food_poisoning.html#cholera-vs.-shigella-clinical-differentiation",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Cholera vs. Shigella: Clinical Differentiation",
+    "text": "Cholera vs. Shigella: Clinical Differentiation\n🟡 SHOULD KNOW\n\n\n\nFeature\nCholera\nShigella\n\n\n\n\nStool\nWatery, “rice-water”\nBloody/mucoid\n\n\nFever\nAbsent\nPresent\n\n\nVomiting\nPresent\nAbsent\n\n\nRectal pain (tenesmus)\nAbsent\nPresent\n\n\n\nWhy it matters: antibiotics are indicated only when the cause is clearly identified (shigella, typhoid, cholera) — routine antibiotic use in undifferentiated diarrhoea causes more harm than benefit. Cholera: doxycycline/tetracycline. Shigella: ciprofloxacin (often resistant to ampicillin/TMP-SMX).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#zinc-supplementation-and-prevention",
+    "href": "diseases/cd/module5_food_poisoning.html#zinc-supplementation-and-prevention",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Zinc Supplementation and Prevention",
+    "text": "Zinc Supplementation and Prevention\n🟡 SHOULD KNOW\nZinc — WHO/UNICEF recommend 10 mg/day (under 6 months) or 20 mg/day (over 6 months) for 10–14 days during acute diarrhoea. This reduces episode duration/severity and lowers diarrhoea incidence for the following 2–3 months.\nBroader prevention (better MCH care practices):\n\nBreastfeeding promotion — breast-fed children have far lower severe-diarrhoea and death risk than bottle-fed children\nAppropriate weaning — not too early (before 6 months) or too late, with hygienically prepared, nutritious foods\nVitamin A supplementation — reduces child mortality by 19–54%, substantially via reduced diarrhoeal and measles deaths\nRotavirus vaccine — included in India’s Universal Immunization Programme, targeting the leading viral cause of severe childhood diarrhoea",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#amoebiasis-and-soil-transmitted-helminths",
+    "href": "diseases/cd/module5_food_poisoning.html#amoebiasis-and-soil-transmitted-helminths",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Amoebiasis and Soil-Transmitted Helminths",
+    "text": "Amoebiasis and Soil-Transmitted Helminths\n🟣 MAY KNOW\nTwo further faeco-orally transmitted enteric conditions worth recognizing alongside bacterial/viral diarrhoea:\n\nAmoebiasis (Entamoeba histolytica) — faeco-oral transmission via contaminated water/food; ranges from asymptomatic cyst passage to amoebic dysentery and, rarely, liver abscess. Control mirrors typhoid and cholera: safe water, sanitation, food hygiene\nSoil-transmitted helminths (STH) — roundworm (Ascaris), hookworm, whipworm; transmitted via soil contaminated by human faeces (eggs ingested, or hookworm larvae penetrate skin). Public health control relies on periodic deworming, sanitation, and footwear use\nGuinea worm (dracunculiasis) — transmitted via contaminated drinking water containing infected copepods; a WHO-targeted eradication disease, controlled almost entirely through safe water and case containment rather than drugs",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#self-check-question-1",
+    "href": "diseases/cd/module5_food_poisoning.html#self-check-question-1",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA patient develops vomiting and cramps within 2 hours of eating a milk product. This rapid onset is most characteristic of:\n\nSalmonella food poisoning\nA preformed toxin, such as Staphylococcus aureus enterotoxin\nClostridium perfringens\nAmoebic dysentery",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#self-check-question-2",
+    "href": "diseases/cd/module5_food_poisoning.html#self-check-question-2",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nThe standard formula for calculating ORS required during the first 4 hours of rehydration is:\n\nBody weight (kg) × 10 mL/kg\nBody weight (kg) × 30 mL/kg\nBody weight (kg) × 75 mL/kg\nAge (years) × 100 mL",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#self-check-question-3",
+    "href": "diseases/cd/module5_food_poisoning.html#self-check-question-3",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA child with acute diarrhoea has fever, bloody/mucoid stool, and rectal pain, but no vomiting. This clinical picture is most consistent with:\n\nCholera\nShigella\nStaphylococcal food poisoning\nRotavirus gastroenteritis",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#references",
+    "href": "diseases/cd/module5_food_poisoning.html#references",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization / UNICEF. Clinical Management of Acute Diarrhoea — joint statement on ORS and zinc.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for food poisoning and diarrhoeal disease control.\nGovernment of India, Universal Immunization Programme — rotavirus vaccine introduction.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#thank-you",
+    "href": "diseases/cd/module5_food_poisoning.html#thank-you",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Hospital-Acquired Infections\n← Previous | Top | Communicable Diseases | Module 5/6 | Next →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
   },
   {
     "objectID": "diseases/communicable-diseases.html#home",
@@ -4692,6 +5712,18 @@
     "title": "Epidemiology of Communicable Diseases",
     "section": "The Chain of Infection",
     "text": "The Chain of Infection\n🟢 MUST KNOW\nCommunicable disease transmission depends on six linked elements — break any one link, and transmission stops:\n\nInfectious agent — the causative organism\nReservoir — where the agent lives and multiplies (human, animal, or environment)\nPortal of exit — how the agent leaves the reservoir (respiratory tract, gut, skin, blood)\nMode of transmission — how it travels to a new host\nPortal of entry — how it enters the new host\nSusceptible host — an individual capable of being infected",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#epidemic-endemic-and-pandemic",
+    "href": "diseases/communicable-diseases.html#epidemic-endemic-and-pandemic",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Epidemic, Endemic, and Pandemic",
+    "text": "Epidemic, Endemic, and Pandemic\n🟢 MUST KNOW\nDisease occurrence is classified by how its frequency compares to what’s normally expected in a place and population:\n\n\n\n\n\n\n\nTerm\nMeaning\n\n\n\n\nEndemic\nConstant, expected presence of a disease in a given area/population, without importation\n\n\nSporadic\nCases occur irregularly and infrequently, with no consistent pattern\n\n\nEpidemic\nCases clearly in excess of normal expectancy for that place, population, and season\n\n\nPandemic\nAn epidemic spanning multiple countries/continents, usually affecting large numbers of people\n\n\nExotic\nA disease imported into an area where it does not otherwise occur\n\n\n\nZoonoses — infections naturally transmissible between vertebrate animals and humans — are classified by direction: anthropozoonoses (animal → human, e.g. rabies, anthrax), zooanthroponoses (human → animal, e.g. human TB in cattle), and amphixenoses (either direction).",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -4759,11 +5791,47 @@
     ]
   },
   {
+    "objectID": "diseases/communicable-diseases.html#types-of-vaccines",
+    "href": "diseases/communicable-diseases.html#types-of-vaccines",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Types of Vaccines",
+    "text": "Types of Vaccines\n🟡 SHOULD KNOW\nImmunizing agents used for primary prevention fall into distinct categories, each with different implications for immunity and administration:\n\n\n\n\n\n\n\n\nType\nHow it works\nExamples\n\n\n\n\nLive attenuated\nWeakened live organism; usually strong, long-lasting immunity from few doses\nBCG, OPV, MMR\n\n\nKilled / inactivated\nWhole organism inactivated; safer in immunocompromised hosts, but needs boosters\nInactivated polio (IPV), rabies\n\n\nToxoid\nInactivated bacterial toxin, not the organism itself\nTetanus, diphtheria\n\n\nSubunit / conjugate\nOnly a specific antigenic component, reducing side effects\nHepatitis B, Hib\n\n\n\nExam tip: live vaccines are generally contraindicated in pregnancy and immunocompromised individuals, since the attenuated organism can still replicate.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
     "objectID": "diseases/communicable-diseases.html#isolation-vs.-quarantine",
     "href": "diseases/communicable-diseases.html#isolation-vs.-quarantine",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Isolation vs. Quarantine",
     "text": "Isolation vs. Quarantine\n🟡 SHOULD KNOW\n\nIsolation — separating a person already known to be infected (diagnosed or symptomatic) from others, until no longer contagious\nQuarantine — separating a person who was exposed but is not yet known to be infected, for the duration of the incubation period, to see if disease develops\n\nBoth are control measures acting on different links of the chain of infection — isolation removes an active reservoir; quarantine interrupts transmission from a potential future case.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#carrier-states",
+    "href": "diseases/communicable-diseases.html#carrier-states",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Carrier States",
+    "text": "Carrier States\n🟡 SHOULD KNOW\nA carrier is an infected person who sheds the agent without (or before/after) showing overt disease — carriers matter because they’re often missed by clinical surveillance.\n\nBy type: incubatory (sheds during incubation) · convalescent (continues shedding after clinical recovery, e.g. typhoid, cholera) · healthy (shedding without ever having overt disease, e.g. poliomyelitis)\nBy duration: temporary (short-lived shedding) vs. chronic (indefinite shedding — the greater public-health threat, since the longer the carrier state, the greater the cumulative community risk)\n\nWhy carriers matter more than cases, sometimes: a diagnosed case is usually isolated; an unrecognized chronic carrier keeps transmitting silently.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#incubation-period-and-related-intervals",
+    "href": "diseases/communicable-diseases.html#incubation-period-and-related-intervals",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Incubation Period and Related Intervals",
+    "text": "Incubation Period and Related Intervals\n🟡 SHOULD KNOW\nIncubation period — the time between exposure to an infectious agent and the first sign or symptom of disease. It depends on infective dose, portal of entry, and host susceptibility, and is used to set quarantine duration and trace likely sources.\nTwo related, easily confused intervals:\n\nGeneration time — from receipt of infection to that host’s own peak infectivity\nSerial interval — the gap between symptom onset in a primary case and symptom onset in a secondary case it infects",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -4788,6 +5856,18 @@
     "title": "Epidemiology of Communicable Diseases",
     "section": "Outbreak Investigation: The 10 Steps",
     "text": "Outbreak Investigation: The 10 Steps\n🟡 SHOULD KNOW\nThe standard CDC-style sequence for investigating a suspected outbreak:\n\nPrepare for field work\nEstablish the existence of an outbreak\nVerify the diagnosis\nDefine and identify cases\nDescribe data by time, place, and person\nDevelop hypotheses\nEvaluate hypotheses\nRefine hypotheses / conduct additional studies\nImplement control and prevention measures\nCommunicate findings\n\n(In practice these steps often overlap and don’t run strictly in order — control measures, for instance, are often started well before the investigation formally concludes.)",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#explore-selected-diseases-in-depth",
+    "href": "diseases/communicable-diseases.html#explore-selected-diseases-in-depth",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Explore: Selected Diseases in Depth",
+    "text": "Explore: Selected Diseases in Depth\n🟣 MAY KNOW\nThe principles above apply to every communicable disease — six specific diseases are covered in dedicated modules, each with agent, clinical features, diagnosis, treatment, and control in full depth:\nMalaria · Typhoid Fever & Cholera · Viral Hepatitis · Poliomyelitis · Food Poisoning & Diarrhoeal Disease · Hospital-Acquired Infections\nOr browse the module hub for an overview of all six.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -7211,6 +8291,18 @@
     ]
   },
   {
+    "objectID": "foundations/concept-health-disease.html#concepts-of-health-four-models",
+    "href": "foundations/concept-health-disease.html#concepts-of-health-four-models",
+    "title": "Concept of Health and Disease",
+    "section": "Concepts of Health: Four Models",
+    "text": "Concepts of Health: Four Models\n🟢 MUST KNOW\nChapter 1 gave the WHO’s definition of health. Community medicine teaching groups the thinking behind that definition into four models:\n\n\n\n\n\n\n\nModel\nCore idea\n\n\n\n\nBiomedical\nHealth = absence of disease; rooted in germ theory. Criticized for ignoring social, environmental, and psychological determinants — it cannot explain malnutrition, chronic disease, drug abuse, or pollution as “health” problems\n\n\nEcological\nHealth = a dynamic equilibrium between humans and their environment; disease = a maladjustment to that environment (“imperfect man” meets “imperfect environment”)\n\n\nPsychosocial\nHealth is shaped by social, psychological, cultural, economic, and political factors, not biology alone\n\n\nHolistic\nA synthesis of all three — every sector (agriculture, education, housing, industry) affects health; this is the thinking underlying the WHO’s 1948 definition\n\n\n\nExam tip: the biomedical model is the oldest and narrowest; the holistic model is the broadest and is what the WHO definition operationalizes.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
     "objectID": "foundations/concept-health-disease.html#disease-illness-and-sickness",
     "href": "foundations/concept-health-disease.html#disease-illness-and-sickness",
     "title": "Concept of Health and Disease",
@@ -7319,6 +8411,30 @@
     ]
   },
   {
+    "objectID": "foundations/concept-health-disease.html#determinants-of-health-revisited",
+    "href": "foundations/concept-health-disease.html#determinants-of-health-revisited",
+    "title": "Concept of Health and Disease",
+    "section": "Determinants of Health Revisited",
+    "text": "Determinants of Health Revisited\n🟡 SHOULD KNOW\nChapter 1’s four-domain model (environment, biology, lifestyle, health services) is the core teaching, but two further determinants are commonly added:\n\nAging of the population — more than two-thirds of people aged 60+ now live in developing countries; population aging raises the burden of chronic disease and disability and needs dedicated health-system attention\nGender — recognized as a distinct determinant since the 1993 Global Commission on Women’s Health, whose agenda spanned nutrition, reproductive health, violence, aging, lifestyle, and occupational exposure\n\nHealth and development: health is not merely an outcome of development — it is an input to it. Health services are one subsystem within the broader socio-economic system, and human health and well-being are treated as an ultimate goal of development, not a byproduct.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#indicators-of-health-a-classification",
+    "href": "foundations/concept-health-disease.html#indicators-of-health-a-classification",
+    "title": "Concept of Health and Disease",
+    "section": "Indicators of Health: A Classification",
+    "text": "Indicators of Health: A Classification\n🟡 SHOULD KNOW\nThe WHO defines a health indicator as a variable that helps measure changes which cannot be measured directly. No single indicator captures “health” — a full profile draws on several categories:\nMortality · Morbidity · Disability · Nutritional status · Health-care delivery · Utilization · Social/mental health · Environmental · Socio-economic · Health policy · Quality of life · Social indicators\nA good indicator should be: Valid · Reliable · Sensitive · Specific · Feasible · Relevant.\nDALY, QALY, and the mortality/morbidity indicators used in Indian health surveillance are covered in depth in Health Information and Basic Medical Statistics (Chapter 21).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
     "objectID": "foundations/concept-health-disease.html#sufficient-component-cause-model",
     "href": "foundations/concept-health-disease.html#sufficient-component-cause-model",
     "title": "Concept of Health and Disease",
@@ -7348,6 +8464,30 @@
     "title": "Concept of Health and Disease",
     "section": "Syndemics: A Modern Extension",
     "text": "Syndemics: A Modern Extension\n🟣 MAY KNOW\nA syndemic is the concept that two or more diseases (or a disease and a social condition) cluster together and interact within a population, each worsening the other — for example, the interaction between undernutrition, poor sanitation, and infectious disease in the same vulnerable communities. It extends the web-of-causation idea from a single disease to interacting epidemics.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#pqli-and-hdi",
+    "href": "foundations/concept-health-disease.html#pqli-and-hdi",
+    "title": "Concept of Health and Disease",
+    "section": "PQLI and HDI",
+    "text": "PQLI and HDI\n🟣 MAY KNOW\nTwo composite indices built to summarize development/well-being in a single number:\n\n\n\n\n\n\n\n\nIndex\nComponents\nScale\n\n\n\n\nPhysical Quality of Life Index (PQLI)\nInfant mortality + life expectancy at age 1 + literacy, equally weighted\n0 (worst) – 100 (best)\n\n\nHuman Development Index (HDI)\nLife expectancy at birth + education (mean/expected years of schooling) + GNI per capita (PPP US$)\n0 – 1\n\n\n\nBoth consolidate outcome measures rather than inputs, and both allow country-to-country comparison over time — HDI is the more widely cited today (UNDP’s Human Development Report).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#right-to-health-and-responsibility-for-health",
+    "href": "foundations/concept-health-disease.html#right-to-health-and-responsibility-for-health",
+    "title": "Concept of Health and Disease",
+    "section": "Right to Health and Responsibility for Health",
+    "text": "Right to Health and Responsibility for Health\n🟣 MAY KNOW\nThe WHO Constitution was the first instrument to formally recognize health as a right: “the enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being, without distinction of race, religion, political belief, economic or social condition.”\nResponsibility for realizing that right is shared across four levels:\n\nIndividual — self-care: the health decisions and habits a person controls directly\nCommunity — participates through manpower/resources, through planning–management–evaluation, and simply by using health services\nState — in India, health is constitutionally a state subject\nInternational — cooperation between governments and bodies inside and outside the UN system (e.g. exchange of experts, drugs and supplies, cross-border communicable disease control)",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -9098,210 +10238,6 @@
       "Contents",
       "Health Programs & Populations",
       "Tribal Health in India"
-    ]
-  },
-  {
-    "objectID": "foundations/concept-health-disease.html#concepts-of-health-four-models",
-    "href": "foundations/concept-health-disease.html#concepts-of-health-four-models",
-    "title": "Concept of Health and Disease",
-    "section": "Concepts of Health: Four Models",
-    "text": "Concepts of Health: Four Models\n🟢 MUST KNOW\nChapter 1 gave the WHO’s definition of health. Community medicine teaching groups the thinking behind that definition into four models:\n\n\n\n\n\n\n\nModel\nCore idea\n\n\n\n\nBiomedical\nHealth = absence of disease; rooted in germ theory. Criticized for ignoring social, environmental, and psychological determinants — it cannot explain malnutrition, chronic disease, drug abuse, or pollution as “health” problems\n\n\nEcological\nHealth = a dynamic equilibrium between humans and their environment; disease = a maladjustment to that environment (“imperfect man” meets “imperfect environment”)\n\n\nPsychosocial\nHealth is shaped by social, psychological, cultural, economic, and political factors, not biology alone\n\n\nHolistic\nA synthesis of all three — every sector (agriculture, education, housing, industry) affects health; this is the thinking underlying the WHO’s 1948 definition\n\n\n\nExam tip: the biomedical model is the oldest and narrowest; the holistic model is the broadest and is what the WHO definition operationalizes.",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Concept of Health and Disease"
-    ]
-  },
-  {
-    "objectID": "foundations/concept-health-disease.html#determinants-of-health-revisited",
-    "href": "foundations/concept-health-disease.html#determinants-of-health-revisited",
-    "title": "Concept of Health and Disease",
-    "section": "Determinants of Health Revisited",
-    "text": "Determinants of Health Revisited\n🟡 SHOULD KNOW\nChapter 1’s four-domain model (environment, biology, lifestyle, health services) is the core teaching, but two further determinants are commonly added:\n\nAging of the population — more than two-thirds of people aged 60+ now live in developing countries; population aging raises the burden of chronic disease and disability and needs dedicated health-system attention\nGender — recognized as a distinct determinant since the 1993 Global Commission on Women’s Health, whose agenda spanned nutrition, reproductive health, violence, aging, lifestyle, and occupational exposure\n\nHealth and development: health is not merely an outcome of development — it is an input to it. Health services are one subsystem within the broader socio-economic system, and human health and well-being are treated as an ultimate goal of development, not a byproduct.",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Concept of Health and Disease"
-    ]
-  },
-  {
-    "objectID": "foundations/concept-health-disease.html#indicators-of-health-a-classification",
-    "href": "foundations/concept-health-disease.html#indicators-of-health-a-classification",
-    "title": "Concept of Health and Disease",
-    "section": "Indicators of Health: A Classification",
-    "text": "Indicators of Health: A Classification\n🟡 SHOULD KNOW\nThe WHO defines a health indicator as a variable that helps measure changes which cannot be measured directly. No single indicator captures “health” — a full profile draws on several categories:\nMortality · Morbidity · Disability · Nutritional status · Health-care delivery · Utilization · Social/mental health · Environmental · Socio-economic · Health policy · Quality of life · Social indicators\nA good indicator should be: Valid · Reliable · Sensitive · Specific · Feasible · Relevant.\nDALY, QALY, and the mortality/morbidity indicators used in Indian health surveillance are covered in depth in Health Information and Basic Medical Statistics (Chapter 21).",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Concept of Health and Disease"
-    ]
-  },
-  {
-    "objectID": "foundations/concept-health-disease.html#pqli-and-hdi",
-    "href": "foundations/concept-health-disease.html#pqli-and-hdi",
-    "title": "Concept of Health and Disease",
-    "section": "PQLI and HDI",
-    "text": "PQLI and HDI\n🟣 MAY KNOW\nTwo composite indices built to summarize development/well-being in a single number:\n\n\n\n\n\n\n\n\nIndex\nComponents\nScale\n\n\n\n\nPhysical Quality of Life Index (PQLI)\nInfant mortality + life expectancy at age 1 + literacy, equally weighted\n0 (worst) – 100 (best)\n\n\nHuman Development Index (HDI)\nLife expectancy at birth + education (mean/expected years of schooling) + GNI per capita (PPP US$)\n0 – 1\n\n\n\nBoth consolidate outcome measures rather than inputs, and both allow country-to-country comparison over time — HDI is the more widely cited today (UNDP’s Human Development Report).",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Concept of Health and Disease"
-    ]
-  },
-  {
-    "objectID": "foundations/concept-health-disease.html#right-to-health-and-responsibility-for-health",
-    "href": "foundations/concept-health-disease.html#right-to-health-and-responsibility-for-health",
-    "title": "Concept of Health and Disease",
-    "section": "Right to Health and Responsibility for Health",
-    "text": "Right to Health and Responsibility for Health\n🟣 MAY KNOW\nThe WHO Constitution was the first instrument to formally recognize health as a right: “the enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being, without distinction of race, religion, political belief, economic or social condition.”\nResponsibility for realizing that right is shared across four levels:\n\nIndividual — self-care: the health decisions and habits a person controls directly\nCommunity — participates through manpower/resources, through planning–management–evaluation, and simply by using health services\nState — in India, health is constitutionally a state subject\nInternational — cooperation between governments and bodies inside and outside the UN system (e.g. exchange of experts, drugs and supplies, cross-border communicable disease control)",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Concept of Health and Disease"
-    ]
-  },
-  {
-    "objectID": "foundations/principles-epidemiology.html#attack-rate",
-    "href": "foundations/principles-epidemiology.html#attack-rate",
-    "title": "Principles of Epidemiology",
-    "section": "Attack Rate",
-    "text": "Attack Rate\n🟢 MUST KNOW\nA special form of incidence rate, used only when a population is exposed to risk for a limited period — typically during an outbreak:\nAttack Rate = (New cases during the outbreak) / (Population at risk) × 100\nUnlike a general incidence rate, it is expressed as a percentage over the whole exposure episode rather than per year. Secondary attack rate — new cases among contacts of a primary case, within the incubation period — is covered with outbreak measures in Communicable Diseases (Chapter 6).",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Principles of Epidemiology"
-    ]
-  },
-  {
-    "objectID": "foundations/principles-epidemiology.html#operational-case-definitions",
-    "href": "foundations/principles-epidemiology.html#operational-case-definitions",
-    "title": "Principles of Epidemiology",
-    "section": "Operational Case Definitions",
-    "text": "Operational Case Definitions\n🟡 SHOULD KNOW\nA clinician can revise a diagnosis later if it turns out to be wrong. An epidemiologist cannot: the study needs a definition fixed in advance that any field worker can apply consistently to classify a person as a case or not.\n\nAn operational definition spells out exact, measurable criteria — e.g. tonsillitis defined not just clinically, but as “enlarged, red tonsils with white exudate, throat swab culture positive for S. pyogenes”\nIt must be precise (unambiguous), valid (actually captures the disease), and applicable across large populations and different observers\nOnce set, the case definition is used throughout the study — changing it mid-study breaks comparability between phases\n\nWhy it matters: without this, “who counts as a case” varies by observer, and rates computed from the data become impossible to compare or replicate.",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Principles of Epidemiology"
-    ]
-  },
-  {
-    "objectID": "foundations/epidemiologic-methods.html#matching-in-case-control-studies",
-    "href": "foundations/epidemiologic-methods.html#matching-in-case-control-studies",
-    "title": "Epidemiologic Methods",
-    "section": "Matching in Case-Control Studies",
-    "text": "Matching in Case-Control Studies\n🟡 SHOULD KNOW\nMatching selects controls so that a potential confounder (e.g. age, occupation) has the same distribution in cases and controls, removing its confounding effect before analysis even starts.\n\nGroup matching — the frequency distribution of the matched variable is made similar in both groups (e.g. same age-band mix)\nPair (individual) matching — each case is paired with a control sharing that characteristic (a 50-year-old mason case gets a 50-year-old mason control)\n\nCritical rule: never match on the exposure/factor you actually want to study — doing so forces cases and controls to look alike on that factor and erases its association with disease entirely. Over-matching also makes finding controls harder and can bias the odds ratio toward 1.",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Epidemiologic Methods"
-    ]
-  },
-  {
-    "objectID": "foundations/epidemiologic-methods.html#nested-case-control-study",
-    "href": "foundations/epidemiologic-methods.html#nested-case-control-study",
-    "title": "Epidemiologic Methods",
-    "section": "Nested Case-Control Study",
-    "text": "Nested Case-Control Study\n🟡 SHOULD KNOW\nA case-control study conducted within an existing cohort: once enough cases accumulate in a large prospective cohort, controls are sampled from the cohort’s non-cases rather than tracking exposure data for everyone.\n\nMore efficient than analyzing the full cohort — exposure data is processed only for cases and the sampled controls\nBecause both groups are drawn from the same defined cohort, this design minimizes selection bias and misclassification compared to an ordinary case-control study",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Epidemiologic Methods"
-    ]
-  },
-  {
-    "objectID": "foundations/epidemiologic-methods.html#types-of-association",
-    "href": "foundations/epidemiologic-methods.html#types-of-association",
-    "title": "Epidemiologic Methods",
-    "section": "Types of Association",
-    "text": "Types of Association\n🟡 SHOULD KNOW\nNot every statistical association between an exposure and a disease is causal. Four categories are recognized:\n\n\n\n\n\n\n\nType\nWhat it means\n\n\n\n\nSpurious\nAn artifact of bias — comparing groups that were never truly “like with like” (a form of selection bias)\n\n\nIndirect\nExposure and disease are each linked to a separate third factor, with no direct link between them (e.g. altitude and endemic goitre — both track with iodine-poor terrain)\n\n\nOne-to-one causal\nA change in the exposure directly produces a change in disease — the single-cause model behind Koch’s postulates (Chapter 2)\n\n\nMultifactorial causal\nSeveral causes act together — either independently (any one is enough) or cumulatively/synergistically (as in coronary heart disease)\n\n\n\nRule of thumb: correlation can suggest causation, but never proves it on its own — ruling out spurious and indirect association is exactly what the Bradford Hill criteria (Chapter 2) are for.",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Epidemiologic Methods"
-    ]
-  },
-  {
-    "objectID": "foundations/epidemiologic-methods.html#mortality-rates-crude-specific-and-case-fatality",
-    "href": "foundations/epidemiologic-methods.html#mortality-rates-crude-specific-and-case-fatality",
-    "title": "Epidemiologic Methods",
-    "section": "Mortality Rates: Crude, Specific, and Case Fatality",
-    "text": "Mortality Rates: Crude, Specific, and Case Fatality\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\nRate\nFormula (per convention)\nUse\n\n\n\n\nCrude Death Rate (CDR)\nAll deaths ÷ mid-year population × 1,000\nSimplest mortality measure — but not comparable between populations with different age structures\n\n\nSpecific Death Rate\nDeaths in a subgroup (age/sex/cause) ÷ subgroup population × 1,000\nIdentifies at-risk groups; comparable across causes within a population\n\n\nCase Fatality Rate (CFR)\nDeaths from a disease ÷ cases of that disease × 100\nThe “killing power” of a disease — best suited to acute infections, not chronic disease\n\n\nProportional Mortality Rate (PMR)\nDeaths from a cause ÷ all deaths × 100\nUsed when population denominators aren’t available — does not measure risk of dying\n\n\n\nCommon exam trap: PMR is often mistaken for a risk measure. It only describes the share of deaths due to a cause — a rising PMR can simply mean deaths from other causes fell, not that the disease got more lethal.",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Epidemiologic Methods"
-    ]
-  },
-  {
-    "objectID": "foundations/epidemiologic-methods.html#standardization-direct-and-indirect-methods",
-    "href": "foundations/epidemiologic-methods.html#standardization-direct-and-indirect-methods",
-    "title": "Epidemiologic Methods",
-    "section": "Standardization: Direct and Indirect Methods",
-    "text": "Standardization: Direct and Indirect Methods\n🟡 SHOULD KNOW\nCrude rates aren’t comparable between populations with different age (or sex) structures. Standardization removes that distortion by applying a common “standard population.”\n\nDirect method — used when age-specific rates are known for the populations being compared. Apply each population’s own age-specific rates to one standard population, then compare the resulting expected totals.\nIndirect method — used when age-specific rates for the study population aren’t available. Apply the standard population’s age-specific rates to the study population’s age structure, producing the Standardized Mortality Ratio (SMR):\n\nSMR = Observed deaths / Expected deaths\nAn SMR above 1 means the study population had more deaths than expected from the standard population’s experience; below 1 means fewer.",
-    "crumbs": [
-      "Contents",
-      "Foundations of Health & Epidemiology",
-      "Epidemiologic Methods"
-    ]
-  },
-  {
-    "objectID": "diseases/communicable-diseases.html#epidemic-endemic-and-pandemic",
-    "href": "diseases/communicable-diseases.html#epidemic-endemic-and-pandemic",
-    "title": "Epidemiology of Communicable Diseases",
-    "section": "Epidemic, Endemic, and Pandemic",
-    "text": "Epidemic, Endemic, and Pandemic\n🟢 MUST KNOW\nDisease occurrence is classified by how its frequency compares to what’s normally expected in a place and population:\n\n\n\n\n\n\n\nTerm\nMeaning\n\n\n\n\nEndemic\nConstant, expected presence of a disease in a given area/population, without importation\n\n\nSporadic\nCases occur irregularly and infrequently, with no consistent pattern\n\n\nEpidemic\nCases clearly in excess of normal expectancy for that place, population, and season\n\n\nPandemic\nAn epidemic spanning multiple countries/continents, usually affecting large numbers of people\n\n\nExotic\nA disease imported into an area where it does not otherwise occur\n\n\n\nZoonoses — infections naturally transmissible between vertebrate animals and humans — are classified by direction: anthropozoonoses (animal → human, e.g. rabies, anthrax), zooanthroponoses (human → animal, e.g. human TB in cattle), and amphixenoses (either direction).",
-    "crumbs": [
-      "Contents",
-      "Communicable & Non-Communicable Diseases",
-      "Epidemiology of Communicable Diseases"
-    ]
-  },
-  {
-    "objectID": "diseases/communicable-diseases.html#types-of-vaccines",
-    "href": "diseases/communicable-diseases.html#types-of-vaccines",
-    "title": "Epidemiology of Communicable Diseases",
-    "section": "Types of Vaccines",
-    "text": "Types of Vaccines\n🟡 SHOULD KNOW\nImmunizing agents used for primary prevention fall into distinct categories, each with different implications for immunity and administration:\n\n\n\n\n\n\n\n\nType\nHow it works\nExamples\n\n\n\n\nLive attenuated\nWeakened live organism; usually strong, long-lasting immunity from few doses\nBCG, OPV, MMR\n\n\nKilled / inactivated\nWhole organism inactivated; safer in immunocompromised hosts, but needs boosters\nInactivated polio (IPV), rabies\n\n\nToxoid\nInactivated bacterial toxin, not the organism itself\nTetanus, diphtheria\n\n\nSubunit / conjugate\nOnly a specific antigenic component, reducing side effects\nHepatitis B, Hib\n\n\n\nExam tip: live vaccines are generally contraindicated in pregnancy and immunocompromised individuals, since the attenuated organism can still replicate.",
-    "crumbs": [
-      "Contents",
-      "Communicable & Non-Communicable Diseases",
-      "Epidemiology of Communicable Diseases"
-    ]
-  },
-  {
-    "objectID": "diseases/communicable-diseases.html#carrier-states",
-    "href": "diseases/communicable-diseases.html#carrier-states",
-    "title": "Epidemiology of Communicable Diseases",
-    "section": "Carrier States",
-    "text": "Carrier States\n🟡 SHOULD KNOW\nA carrier is an infected person who sheds the agent without (or before/after) showing overt disease — carriers matter because they’re often missed by clinical surveillance.\n\nBy type: incubatory (sheds during incubation) · convalescent (continues shedding after clinical recovery, e.g. typhoid, cholera) · healthy (shedding without ever having overt disease, e.g. poliomyelitis)\nBy duration: temporary (short-lived shedding) vs. chronic (indefinite shedding — the greater public-health threat, since the longer the carrier state, the greater the cumulative community risk)\n\nWhy carriers matter more than cases, sometimes: a diagnosed case is usually isolated; an unrecognized chronic carrier keeps transmitting silently.",
-    "crumbs": [
-      "Contents",
-      "Communicable & Non-Communicable Diseases",
-      "Epidemiology of Communicable Diseases"
-    ]
-  },
-  {
-    "objectID": "diseases/communicable-diseases.html#incubation-period-and-related-intervals",
-    "href": "diseases/communicable-diseases.html#incubation-period-and-related-intervals",
-    "title": "Epidemiology of Communicable Diseases",
-    "section": "Incubation Period and Related Intervals",
-    "text": "Incubation Period and Related Intervals\n🟡 SHOULD KNOW\nIncubation period — the time between exposure to an infectious agent and the first sign or symptom of disease. It depends on infective dose, portal of entry, and host susceptibility, and is used to set quarantine duration and trace likely sources.\nTwo related, easily confused intervals:\n\nGeneration time — from receipt of infection to that host’s own peak infectivity\nSerial interval — the gap between symptom onset in a primary case and symptom onset in a secondary case it infects",
-    "crumbs": [
-      "Contents",
-      "Communicable & Non-Communicable Diseases",
-      "Epidemiology of Communicable Diseases"
-    ]
-  },
-  {
-    "objectID": "global/health-information.html#census-civil-registration-and-sample-registration",
-    "href": "global/health-information.html#census-civil-registration-and-sample-registration",
-    "title": "Health Information and Basic Medical Statistics",
-    "section": "Census, Civil Registration, and Sample Registration",
-    "text": "Census, Civil Registration, and Sample Registration\n🟢 MUST KNOW\n\nCensus — a complete, periodic (every 10 years in India) headcount with legal backing, collecting population size, composition, density, literacy, and occupational structure. Records either de facto (location at the time of enumeration) or de jure (usual place of residence)\nCivil Registration System (CRS) — aims at universal, legal registration of every individual birth and death, for documentary and legal purposes\nSample Registration System (SRS), India — a sample-based statistical exercise (not universal registration), designed to estimate rates, not register individuals; operates via dual recording (continuous local enumeration plus independent retrospective half-yearly surveys) across a representative sample of units nationwide\n\nWhy SRS exists alongside CRS: where civil registration completeness is incomplete, SRS provides India’s most reliable source of birth/death rate estimates — it has served as the standard data source for India’s mortality indicators since the late 1960s.",
-    "crumbs": [
-      "Contents",
-      "Health Information, Education & Global Perspectives",
-      "Health Information and Basic Medical Statistics"
     ]
   }
 ]
