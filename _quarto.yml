@@ -50,6 +50,14 @@ website:
             href: diseases/cd/module6_hospital_acquired_infections.qmd
           - text: "Epidemiology of Chronic Non-Communicable Diseases"
             href: diseases/ncd.qmd
+          - text: "Selected NCDs: Overview"
+            href: diseases/ncd_modules.qmd
+          - text: "Module 1: Diabetes Mellitus"
+            href: diseases/ncd/module1_diabetes.qmd
+          - text: "Module 2: Hypertension"
+            href: diseases/ncd/module2_hypertension.qmd
+          - text: "Module 3: Stroke"
+            href: diseases/ncd/module3_stroke.qmd
           - text: "Essential Medicines and Counterfeit Medicines"
             href: diseases/essential-medicines.qmd
           - text: "Nutrition and Health"
@@ -155,6 +163,16 @@ website:
                 file: diseases/cd/module6_hospital_acquired_infections.qmd
           - text: "Epidemiology of Chronic Non-Communicable Diseases"
             file: diseases/ncd.qmd
+          - section: "Selected Non-Communicable Diseases"
+            contents:
+              - text: "Overview"
+                file: diseases/ncd_modules.qmd
+              - text: "Module 1: Diabetes Mellitus"
+                file: diseases/ncd/module1_diabetes.qmd
+              - text: "Module 2: Hypertension"
+                file: diseases/ncd/module2_hypertension.qmd
+              - text: "Module 3: Stroke"
+                file: diseases/ncd/module3_stroke.qmd
           - text: "Essential Medicines and Counterfeit Medicines"
             file: diseases/essential-medicines.qmd
           - text: "Nutrition and Health"

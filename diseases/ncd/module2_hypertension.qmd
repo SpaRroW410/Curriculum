@@ -1,0 +1,168 @@
+---
+title: "Module 2: Hypertension"
+subtitle: "The Silent Killer — Burden, Classification, and Prevention"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module1_diabetes.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 2/3 | [Next →](module3_stroke.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Hypertension
+
+**Learning Objectives:**
+
+- Describe the global and Indian burden of hypertension
+- Define hypertension and classify it by severity
+- Identify risk factors for hypertension
+- Apply primary and secondary prevention to hypertension control
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Hypertension is both a disease in its own right and the single largest
+modifiable risk factor for stroke, covered next — the two modules are
+best read together.
+:::
+
+---
+
+## Definition and Burden {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Hypertension** is diagnosed when, on **two separate days**, systolic
+BP ≥140 mmHg and/or diastolic BP ≥90 mmHg.
+
+- **Global:** ~1.13 billion people affected, two-thirds in low- and
+  middle-income countries; prevalence over 60% in people aged 60+
+- **India (NFHS 2015–16):** 15% of men, 11% of women hypertensive;
+  prevalence rises consistently with BMI
+- Called the **"silent killer"** — most affected people have no symptoms
+  and are unaware of their status, which is why regular BP measurement
+  matters more than symptom-based detection
+
+**Global NCD target:** reduce hypertension prevalence by 25% by 2025
+(2010 baseline).
+
+---
+
+## Classification {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Category | Systolic (mmHg) | Diastolic (mmHg) |
+|---|---|---|
+| Optimal | <120 | <80 |
+| Normal | 120–129 | <85 |
+| High-normal | 130–139 | 85–89 |
+| Grade 1 (mild) | 140–159 | 90–99 |
+| Grade 2 (moderate–severe) | ≥160 | ≥100 |
+
+**When symptoms do occur** (usually only at higher grades): early
+morning headache, nosebleeds, irregular heart rhythm, vision changes,
+tinnitus; severe hypertension can cause fatigue, nausea, confusion, and
+chest pain.
+
+---
+
+## Risk Factors and Prevention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Risk factors:** age, sex, genetic factors, ethnicity, obesity, high
+salt intake, alcohol use, physical inactivity, environmental stress.
+
+- **Primary prevention** — reduce population-wide incidence through low
+  salt diet, regular exercise, stress reduction, and weight/BMI control
+- **Secondary prevention** — early case detection (routine BP screening)
+  plus antihypertensive drug therapy once diagnosed
+
+**Treatment approach:** lifestyle modification and stress management as
+the foundation, with antihypertensive medication (e.g. amlodipine,
+telmisartan, chlorthalidone — representative drug classes, not a
+prescribing guide) added for confirmed hypertension.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A diagnosis of hypertension requires elevated readings measured:
+
+- Once, at any single visit
+- [On two separate days]{.correct data-explanation="Hypertension is diagnosed only when systolic ≥140 and/or diastolic ≥90 mmHg is confirmed on two separate days — a single elevated reading is not diagnostic."}
+- Only in the morning
+- After a 12-hour fast
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Hypertension is often called the "silent killer" because:
+
+- It always causes sudden death
+- [Most affected people have no symptoms and are unaware of their condition]{.correct data-explanation="The majority of people with hypertension have no warning signs or symptoms, which is exactly why routine BP screening — not symptom-based detection — is the public health strategy."}
+- It is untreatable
+- Symptoms only appear after death
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Reducing population salt intake to lower hypertension incidence is an
+example of:
+
+- Secondary prevention
+- Tertiary prevention
+- [Primary prevention]{.correct data-explanation="Reducing salt intake population-wide targets the risk factor before disease develops, the definition of primary prevention — distinct from secondary prevention (early detection) or tertiary (managing established disease)."}
+- Screening
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *Global Report on Hypertension*.
+2. National Family Health Survey (NFHS), India, 2015–16.
+3. International Society of Hypertension — blood pressure classification.
+4. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for hypertension epidemiology.
+
+---
+
+## Thank You!
+
+**Next Module:** Stroke
+
+[← Previous](module1_diabetes.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 2/3 | [Next →](module3_stroke.html)

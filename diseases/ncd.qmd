@@ -30,6 +30,7 @@ revealjs-plugins:
 - Identify the four shared modifiable behavioural risk factors
 - Distinguish behavioural from metabolic/intermediate risk factors
 - State the global NCD targets (WHO 25x25 and SDG 3.4)
+- Outline India's National Programme for Prevention and Control of NCDs
 - Describe the WHO STEPS surveillance approach
 - Explain Rose's population strategy vs. high-risk strategy
 
@@ -107,6 +108,27 @@ clinical NCD screening and management.
 **"Premature" mortality** in both targets specifically means death in the
 30–69 age band — deaths that public health intervention can plausibly
 prevent.
+
+---
+
+## India's Response: NP-NCD {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's **National Programme for Prevention and Control of
+Non-Communicable Diseases (NP-NCD)**, launched in 2010 as NPCDCS in 100
+districts, has evolved considerably:
+
+`NPCDCS (2010, 100 districts) → subsumed under NHM (2013–14) → Population-Based Screening under Comprehensive Primary Health Care (2016) → National Multisectoral Action Plan (2016) → renamed NP-NCD`
+
+- **Focus:** health promotion, screening, early diagnosis, and
+  management of individuals with NCDs, alongside risk-factor reduction
+- **Scope expanded in phases** to include COPD/asthma, chronic kidney
+  disease, stroke, NAFLD, and STEMI alongside the original cardiovascular
+  disease/diabetes/cancer focus
+- **India's NCD burden (WHO NCD Country Profile):** NCDs account for 63%
+  of all deaths — cardiovascular disease leads (27%), followed by
+  chronic respiratory disease (11%), cancer (9%), and diabetes (3%)
 
 ---
 
@@ -189,6 +211,23 @@ with disability. NCDs, being long-duration and disabling rather than
 always immediately fatal, are a major driver of global DALY burden.
 *(Health indicators, including DALYs, are covered in more depth in the
 Health Information and Basic Medical Statistics chapter.)*
+
+---
+
+## Explore: Selected Diseases in Depth {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The principles above apply across NCDs generally — three specific
+diseases are covered in dedicated modules, each with burden, risk
+factors, screening/diagnosis, and prevention in full depth:
+
+[**Diabetes Mellitus**](ncd/module1_diabetes.html) ·
+[**Hypertension**](ncd/module2_hypertension.html) ·
+[**Stroke**](ncd/module3_stroke.html)
+
+Or browse the [module hub](ncd_modules.html) for an overview of all
+three.
 
 ---
 
@@ -311,6 +350,9 @@ to be experiencing:
    disease." *British Medical Journal*, 282(6279), 1847–1851.
 5. Rose, G. (1985). "Sick individuals and sick populations."
    *International Journal of Epidemiology*, 14(1), 32–38.
+6. Government of India, Ministry of Health and Family Welfare —
+   National Programme for Prevention and Control of Non-Communicable
+   Diseases (NP-NCD).
 
 ---
 

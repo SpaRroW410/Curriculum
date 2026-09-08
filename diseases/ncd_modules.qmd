@@ -1,0 +1,31 @@
+---
+title: "Selected Non-Communicable Diseases"
+format:
+  html:
+    code-copy: true
+    theme: cosmo
+    toc: true
+    lightbox: auto
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+# Selected Non-Communicable Diseases
+
+Chapter 7 covers the **general principles** of NCD epidemiology — shared
+behavioural risk factors, WHO STEPS surveillance, and the population vs.
+high-risk prevention strategies. This section applies those principles
+to three specific diseases in depth, each as its own module.
+
+- **[Module 1: Diabetes Mellitus](ncd/module1_diabetes.qmd)** — burden,
+  risk factors, screening, diagnostic criteria, and management principles
+- **[Module 2: Hypertension](ncd/module2_hypertension.qmd)** — the
+  "silent killer": burden, classification, and prevention
+- **[Module 3: Stroke](ncd/module3_stroke.qmd)** — epidemiology and the
+  three levels of prevention
+
+Return to [Chronic Non-Communicable Diseases](ncd.qmd) for the general
+epidemiology of NCDs, or to [Contents](../intro.qmd) for the full
+curriculum.

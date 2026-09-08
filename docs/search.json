@@ -4330,11 +4330,141 @@
     ]
   },
   {
+    "objectID": "diseases/ncd_modules.html",
+    "href": "diseases/ncd_modules.html",
+    "title": "Selected Non-Communicable Diseases",
+    "section": "",
+    "text": "Selected Non-Communicable Diseases\nChapter 7 covers the general principles of NCD epidemiology — shared behavioural risk factors, WHO STEPS surveillance, and the population vs. high-risk prevention strategies. This section applies those principles to three specific diseases in depth, each as its own module.\n\nModule 1: Diabetes Mellitus — burden, risk factors, screening, diagnostic criteria, and management principles\nModule 2: Hypertension — the “silent killer”: burden, classification, and prevention\nModule 3: Stroke — epidemiology and the three levels of prevention\n\nReturn to Chronic Non-Communicable Diseases for the general epidemiology of NCDs, or to Contents for the full curriculum.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Overview"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#home",
+    "href": "diseases/ncd/module2_hypertension.html#home",
+    "title": "Module 2: Hypertension",
+    "section": "Welcome",
+    "text": "Welcome\nHypertension\nLearning Objectives:\n\nDescribe the global and Indian burden of hypertension\nDefine hypertension and classify it by severity\nIdentify risk factors for hypertension\nApply primary and secondary prevention to hypertension control\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nHypertension is both a disease in its own right and the single largest modifiable risk factor for stroke, covered next — the two modules are best read together.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#definition-and-burden",
+    "href": "diseases/ncd/module2_hypertension.html#definition-and-burden",
+    "title": "Module 2: Hypertension",
+    "section": "Definition and Burden",
+    "text": "Definition and Burden\n🟢 MUST KNOW\nHypertension is diagnosed when, on two separate days, systolic BP ≥140 mmHg and/or diastolic BP ≥90 mmHg.\n\nGlobal: ~1.13 billion people affected, two-thirds in low- and middle-income countries; prevalence over 60% in people aged 60+\nIndia (NFHS 2015–16): 15% of men, 11% of women hypertensive; prevalence rises consistently with BMI\nCalled the “silent killer” — most affected people have no symptoms and are unaware of their status, which is why regular BP measurement matters more than symptom-based detection\n\nGlobal NCD target: reduce hypertension prevalence by 25% by 2025 (2010 baseline).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#classification",
+    "href": "diseases/ncd/module2_hypertension.html#classification",
+    "title": "Module 2: Hypertension",
+    "section": "Classification",
+    "text": "Classification\n🟢 MUST KNOW\n\n\n\nCategory\nSystolic (mmHg)\nDiastolic (mmHg)\n\n\n\n\nOptimal\n&lt;120\n&lt;80\n\n\nNormal\n120–129\n&lt;85\n\n\nHigh-normal\n130–139\n85–89\n\n\nGrade 1 (mild)\n140–159\n90–99\n\n\nGrade 2 (moderate–severe)\n≥160\n≥100\n\n\n\nWhen symptoms do occur (usually only at higher grades): early morning headache, nosebleeds, irregular heart rhythm, vision changes, tinnitus; severe hypertension can cause fatigue, nausea, confusion, and chest pain.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#risk-factors-and-prevention",
+    "href": "diseases/ncd/module2_hypertension.html#risk-factors-and-prevention",
+    "title": "Module 2: Hypertension",
+    "section": "Risk Factors and Prevention",
+    "text": "Risk Factors and Prevention\n🟡 SHOULD KNOW\nRisk factors: age, sex, genetic factors, ethnicity, obesity, high salt intake, alcohol use, physical inactivity, environmental stress.\n\nPrimary prevention — reduce population-wide incidence through low salt diet, regular exercise, stress reduction, and weight/BMI control\nSecondary prevention — early case detection (routine BP screening) plus antihypertensive drug therapy once diagnosed\n\nTreatment approach: lifestyle modification and stress management as the foundation, with antihypertensive medication (e.g. amlodipine, telmisartan, chlorthalidone — representative drug classes, not a prescribing guide) added for confirmed hypertension.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#self-check-question-1",
+    "href": "diseases/ncd/module2_hypertension.html#self-check-question-1",
+    "title": "Module 2: Hypertension",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA diagnosis of hypertension requires elevated readings measured:\n\nOnce, at any single visit\nOn two separate days\nOnly in the morning\nAfter a 12-hour fast",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#self-check-question-2",
+    "href": "diseases/ncd/module2_hypertension.html#self-check-question-2",
+    "title": "Module 2: Hypertension",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nHypertension is often called the “silent killer” because:\n\nIt always causes sudden death\nMost affected people have no symptoms and are unaware of their condition\nIt is untreatable\nSymptoms only appear after death",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#self-check-question-3",
+    "href": "diseases/ncd/module2_hypertension.html#self-check-question-3",
+    "title": "Module 2: Hypertension",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nReducing population salt intake to lower hypertension incidence is an example of:\n\nSecondary prevention\nTertiary prevention\nPrimary prevention\nScreening",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#references",
+    "href": "diseases/ncd/module2_hypertension.html#references",
+    "title": "Module 2: Hypertension",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. Global Report on Hypertension.\nNational Family Health Survey (NFHS), India, 2015–16.\nInternational Society of Hypertension — blood pressure classification.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for hypertension epidemiology.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#thank-you",
+    "href": "diseases/ncd/module2_hypertension.html#thank-you",
+    "title": "Module 2: Hypertension",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Stroke\n← Previous | Top | Chronic Non-Communicable Diseases | Module 2/3 | Next →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
     "objectID": "diseases/ncd.html#home",
     "href": "diseases/ncd.html#home",
     "title": "Epidemiology of Chronic Non-Communicable Diseases",
     "section": "Welcome",
-    "text": "Welcome\nEpidemiology of Chronic Non-Communicable Diseases\nLearning Objectives:\n\nDefine non-communicable disease (NCD) and name the four major NCDs\nIdentify the four shared modifiable behavioural risk factors\nDistinguish behavioural from metabolic/intermediate risk factors\nState the global NCD targets (WHO 25x25 and SDG 3.4)\nDescribe the WHO STEPS surveillance approach\nExplain Rose’s population strategy vs. high-risk strategy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nChapter 6 covered communicable disease; this chapter is its structural mirror for non-communicable disease, and reuses the levels-of-prevention and causation frameworks from the Foundations section.",
+    "text": "Welcome\nEpidemiology of Chronic Non-Communicable Diseases\nLearning Objectives:\n\nDefine non-communicable disease (NCD) and name the four major NCDs\nIdentify the four shared modifiable behavioural risk factors\nDistinguish behavioural from metabolic/intermediate risk factors\nState the global NCD targets (WHO 25x25 and SDG 3.4)\nOutline India’s National Programme for Prevention and Control of NCDs\nDescribe the WHO STEPS surveillance approach\nExplain Rose’s population strategy vs. high-risk strategy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nChapter 6 covered communicable disease; this chapter is its structural mirror for non-communicable disease, and reuses the levels-of-prevention and causation frameworks from the Foundations section.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -4383,6 +4513,18 @@
     "title": "Epidemiology of Chronic Non-Communicable Diseases",
     "section": "Global NCD Targets",
     "text": "Global NCD Targets\n🟢 MUST KNOW\n\nWHO “25×25” target — a 25% relative reduction in premature mortality (ages 30–69) from the four major NCDs by 2025, compared with 2010 levels\nSDG Target 3.4 — reduce premature NCD mortality by one-third by 2030 (relative to 2015), and promote mental health and well-being\n\n“Premature” mortality in both targets specifically means death in the 30–69 age band — deaths that public health intervention can plausibly prevent.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Chronic Non-Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd.html#indias-response-np-ncd",
+    "href": "diseases/ncd.html#indias-response-np-ncd",
+    "title": "Epidemiology of Chronic Non-Communicable Diseases",
+    "section": "India’s Response: NP-NCD",
+    "text": "India’s Response: NP-NCD\n🟡 SHOULD KNOW\nIndia’s National Programme for Prevention and Control of Non-Communicable Diseases (NP-NCD), launched in 2010 as NPCDCS in 100 districts, has evolved considerably:\nNPCDCS (2010, 100 districts) → subsumed under NHM (2013–14) → Population-Based Screening under Comprehensive Primary Health Care (2016) → National Multisectoral Action Plan (2016) → renamed NP-NCD\n\nFocus: health promotion, screening, early diagnosis, and management of individuals with NCDs, alongside risk-factor reduction\nScope expanded in phases to include COPD/asthma, chronic kidney disease, stroke, NAFLD, and STEMI alongside the original cardiovascular disease/diabetes/cancer focus\nIndia’s NCD burden (WHO NCD Country Profile): NCDs account for 63% of all deaths — cardiovascular disease leads (27%), followed by chronic respiratory disease (11%), cancer (9%), and diabetes (3%)",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -4443,6 +4585,18 @@
     "title": "Epidemiology of Chronic Non-Communicable Diseases",
     "section": "Measuring NCD Burden: DALYs",
     "text": "Measuring NCD Burden: DALYs\n🟣 MAY KNOW\nThe overall burden of a disease — combining both fatal and non-fatal impact — is commonly measured using Disability-Adjusted Life Years (DALYs): years of healthy life lost to premature death plus years lived with disability. NCDs, being long-duration and disabling rather than always immediately fatal, are a major driver of global DALY burden. (Health indicators, including DALYs, are covered in more depth in the Health Information and Basic Medical Statistics chapter.)",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Chronic Non-Communicable Diseases"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd.html#explore-selected-diseases-in-depth",
+    "href": "diseases/ncd.html#explore-selected-diseases-in-depth",
+    "title": "Epidemiology of Chronic Non-Communicable Diseases",
+    "section": "Explore: Selected Diseases in Depth",
+    "text": "Explore: Selected Diseases in Depth\n🟣 MAY KNOW\nThe principles above apply across NCDs generally — three specific diseases are covered in dedicated modules, each with burden, risk factors, screening/diagnosis, and prevention in full depth:\nDiabetes Mellitus · Hypertension · Stroke\nOr browse the module hub for an overview of all three.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -4526,7 +4680,7 @@
     "href": "diseases/ncd.html#references",
     "title": "Epidemiology of Chronic Non-Communicable Diseases",
     "section": "References",
-    "text": "References\n\nWorld Health Organization. Global Action Plan for the Prevention and Control of NCDs 2013–2020 (the “25×25” target).\nWorld Health Organization. SDG Target 3.4: Noncommunicable diseases and mental health.\nWorld Health Organization. STEPwise Approach to NCD Risk Factor Surveillance (STEPS).\nRose, G. (1981). “Strategy of prevention: lessons from cardiovascular disease.” British Medical Journal, 282(6279), 1847–1851.\nRose, G. (1985). “Sick individuals and sick populations.” International Journal of Epidemiology, 14(1), 32–38.",
+    "text": "References\n\nWorld Health Organization. Global Action Plan for the Prevention and Control of NCDs 2013–2020 (the “25×25” target).\nWorld Health Organization. SDG Target 3.4: Noncommunicable diseases and mental health.\nWorld Health Organization. STEPwise Approach to NCD Risk Factor Surveillance (STEPS).\nRose, G. (1981). “Strategy of prevention: lessons from cardiovascular disease.” British Medical Journal, 282(6279), 1847–1851.\nRose, G. (1985). “Sick individuals and sick populations.” International Journal of Epidemiology, 14(1), 32–38.\nGovernment of India, Ministry of Health and Family Welfare — National Programme for Prevention and Control of Non-Communicable Diseases (NP-NCD).",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6208,6 +6362,253 @@
       "Contents",
       "Communicable & Non-Communicable Diseases",
       "Mental Health"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#home",
+    "href": "diseases/ncd/module1_diabetes.html#home",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Welcome",
+    "text": "Welcome\nDiabetes Mellitus\nLearning Objectives:\n\nDescribe the burden of diabetes globally and in India\nIdentify the agent, host, and environmental risk factors for diabetes\nApply WHO diagnostic criteria using FPG, 2-hour PG, and HbA1c\nDescribe whom to screen and how\nOutline the principles of lifestyle modification and pharmacological management\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module extends Chapter 7’s general NCD framework (four shared behavioural risk factors, WHO STEPS, population vs. high-risk strategy) to diabetes specifically — the first of three dedicated disease modules. Detailed drug pharmacology (dosing, duration of action) is intentionally left to a pharmacology course — this module stays at the community medicine level: epidemiology, screening, diagnosis, and management principles.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#definition-types-and-burden",
+    "href": "diseases/ncd/module1_diabetes.html#definition-types-and-burden",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Definition, Types, and Burden",
+    "text": "Definition, Types, and Burden\n🟢 MUST KNOW\nDiabetes mellitus is a heterogeneous syndrome of chronic hyperglycaemia from defective insulin secretion, action, or both, disturbing carbohydrate, fat, and protein metabolism — one of the four priority NCDs targeted globally.\n\nGlobal prevalence: 8.5% (2014), projected to affect 6 in 10 people by 2040; nearly half of people with diabetes are unaware they have it\nIndia: second-largest diabetic population worldwide (~73 million, 2017); urban prevalence rose from ~2% (1970s) to over 20% today, with rural areas fast catching up",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#risk-factors",
+    "href": "diseases/ncd/module1_diabetes.html#risk-factors",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Risk Factors",
+    "text": "Risk Factors\n🟢 MUST KNOW\n\n\n\n\n\n\n\nCategory\nExamples\n\n\n\n\nAgent\nBeta-cell destruction (viral: rubella, mumps, coxsackie B4; autoimmune), genetic defects in insulin structure/function\n\n\nHost\nAge, obesity (strongest modifiable risk factor), genetics (~90% concordance in identical twins for type 2), family history\n\n\nEnvironmental / behavioural\nPhysical inactivity, diet high in saturated fat and refined carbohydrate, smoking (elevated risk persists ~10 years after cessation)\n\n\n\nClinical features: many patients are asymptomatic; classic presentation includes polyuria, polydipsia, recurrent genital infections, and generalized pruritus — only about 1 in 5 people can recognize their own symptoms.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#screening-and-diagnosis",
+    "href": "diseases/ncd/module1_diabetes.html#screening-and-diagnosis",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Screening and Diagnosis",
+    "text": "Screening and Diagnosis\n🟡 SHOULD KNOW\nWhom to screen: family history of diabetes, overweight/obesity, hypertension, dyslipidaemia, sedentary lifestyle, history of gestational diabetes or macrosomic birth, cardiovascular disease.\nWHO diagnostic criteria:\n\n\n\n\nNormoglycaemia\nPrediabetes\nDiabetes\n\n\n\n\nFPG (mg/dL)\n&lt;110\n110–125 (IFG)\n≥126\n\n\n2-hour PG (mg/dL)\n&lt;140\n140–199 (IGT)\n≥200\n\n\nHbA1c\n&lt;5.7%\n5.7–6.4%\n≥6.5%\n\n\n\nRe-screen normoglycaemic individuals every 3 years; prediabetic individuals annually. OGTT uses a 75 g glucose load, with fasting and 2-hour samples.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#management-principles",
+    "href": "diseases/ncd/module1_diabetes.html#management-principles",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Management Principles",
+    "text": "Management Principles\n🟡 SHOULD KNOW\nGoals: glycaemic control, prevention of acute/chronic complications, symptom relief, managing comorbidities (obesity, hypertension, dyslipidaemia), and behavioural change support.\nLifestyle modification (first-line, all patients): diet (complex carbohydrates and fibre over refined sugar; limit saturated/trans fat), regular physical activity, tobacco cessation, stress management, and structured diabetes education on self-care and monitoring.\nPharmacological management (broad categories, by mechanism):\n\nOral hypoglycaemic agents — sulfonylureas (stimulate insulin secretion), biguanides/metformin (reduce hepatic glucose output; first choice in obese type 2 patients), and others targeting glucose absorption or post-prandial spikes\nInsulin — required at diagnosis for symptomatic hyperglycaemia, ketosis, severe infection, or very high FPG/HbA1c; also used in pregnancy, acute stress states, and hepatic/renal failure",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#self-check-question-1",
+    "href": "diseases/ncd/module1_diabetes.html#self-check-question-1",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nAccording to WHO criteria, an HbA1c of 6.0% indicates:\n\nNormoglycaemia\nPrediabetes\nDiabetes\nRequires OGTT regardless of the result",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#self-check-question-2",
+    "href": "diseases/ncd/module1_diabetes.html#self-check-question-2",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich of the following is considered the strongest modifiable risk factor for type 2 diabetes?\n\nGenetic predisposition\nObesity\nMale sex\nAge under 40",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#self-check-question-3",
+    "href": "diseases/ncd/module1_diabetes.html#self-check-question-3",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA patient with type 2 diabetes and obesity would typically be started on which first-line oral agent?\n\nSulfonylurea\nMetformin (a biguanide)\nInsulin\nAlpha-glucosidase inhibitor",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#references",
+    "href": "diseases/ncd/module1_diabetes.html#references",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. Global Report on Diabetes; WHO/IDF diagnostic criteria for diabetes mellitus.\nInternational Diabetes Federation. IDF Diabetes Atlas.\nICMR-INDIAB Study — state-wise diabetes prevalence in India.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for diabetes epidemiology.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#thank-you",
+    "href": "diseases/ncd/module1_diabetes.html#thank-you",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Hypertension\nTop | Chronic Non-Communicable Diseases | Module 1/3 | Next →",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#home",
+    "href": "diseases/ncd/module3_stroke.html#home",
+    "title": "Module 3: Stroke",
+    "section": "Welcome",
+    "text": "Welcome\nStroke\nLearning Objectives:\n\nDescribe the descriptive epidemiology of stroke\nIdentify major and other risk factors for stroke\nApply primary, secondary, and tertiary prevention to stroke\nExplain why stroke mortality has declined in some countries\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nStroke risk factors overlap heavily with coronary artery disease (CAD) and with hypertension (previous module) — this module emphasizes that overlap rather than treating stroke as an isolated condition.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#descriptive-epidemiology",
+    "href": "diseases/ncd/module3_stroke.html#descriptive-epidemiology",
+    "title": "Module 3: Stroke",
+    "section": "Descriptive Epidemiology",
+    "text": "Descriptive Epidemiology\n🟢 MUST KNOW\nStroke (cerebrovascular disease) — sudden loss of brain function due to a vascular lesion; a leading cause of death and a major source of disability and economic impact. Can occur in children, though with different risk factors than adult stroke.\n\nAge: the strongest determinant — incidence roughly doubles each decade after age 55; mortality also rises with age\nSex: higher incidence in males\nTime trend: a striking decline in stroke mortality in many countries, attributed mainly to better hypertension control, secondary prevention after TIA, reduced smoking, and improved acute treatment",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#risk-factors",
+    "href": "diseases/ncd/module3_stroke.html#risk-factors",
+    "title": "Module 3: Stroke",
+    "section": "Risk Factors",
+    "text": "Risk Factors\n🟡 SHOULD KNOW\nStroke risk factors are largely shared with coronary artery disease — this overlap is the single most testable fact about stroke epidemiology:\n\nMajor: hypertension (the single most important risk factor), smoking, hyperlipidaemia, diabetes mellitus, heart disease, polycythaemia, thrombocythaemia\nOther: family history, oral contraceptive use, previous stroke/TIA, carotid bruit, obesity, physical inactivity, high alcohol intake, drug abuse, trauma, coexisting CAD or peripheral vascular disease",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#prevention",
+    "href": "diseases/ncd/module3_stroke.html#prevention",
+    "title": "Module 3: Stroke",
+    "section": "Prevention",
+    "text": "Prevention\n🟢 MUST KNOW\nApplying the standard levels-of-prevention framework (Chapter 2) to stroke specifically:\n\n\n\n\n\n\n\nLevel\nAction\n\n\n\n\nPrimary\nDetect and control risk factors — especially hypertension, smoking, hypercholesterolaemia, diabetes, heart disease, TIA\n\n\nSecondary\nEarly detection (no definitive screening test exists; carotid bruit auscultation in high-risk individuals is reasonable); low-dose aspirin has a suggested but not firmly proven role\n\n\nTertiary\nAcute treatment — rehabilitation, anticoagulants in selected cases; preventing recurrence — antiplatelet therapy, carotid endarterectomy in selected cases\n\n\n\nExam tip: unlike cancer or diabetes, stroke has no established population screening test — prevention relies almost entirely on controlling upstream risk factors (primary prevention), which is why hypertension control gets so much emphasis.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#self-check-question-1",
+    "href": "diseases/ncd/module3_stroke.html#self-check-question-1",
+    "title": "Module 3: Stroke",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nThe single most important risk factor for stroke is:\n\nDiabetes mellitus\nHypertension\nPolycythaemia\nOral contraceptive use",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#self-check-question-2",
+    "href": "diseases/ncd/module3_stroke.html#self-check-question-2",
+    "title": "Module 3: Stroke",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nStroke risk factors most closely overlap with those of which other condition?\n\nMalaria\nType 1 diabetes only\nCoronary artery disease (CAD)\nViral hepatitis",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#self-check-question-3",
+    "href": "diseases/ncd/module3_stroke.html#self-check-question-3",
+    "title": "Module 3: Stroke",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nWhich statement about stroke screening is correct?\n\nA validated population-wide screening test exists and should be applied to all adults\nNo definitive early-detection test exists; prevention relies primarily on controlling upstream risk factors\nScreening is only useful after age 75\nCarotid bruit auscultation replaces the need for risk factor control",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#references",
+    "href": "diseases/ncd/module3_stroke.html#references",
+    "title": "Module 3: Stroke",
+    "section": "References",
+    "text": "References\n\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for stroke epidemiology and prevention.\nWorld Health Organization. Global Status Report on Noncommunicable Diseases — stroke burden and time trends.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#thank-you",
+    "href": "diseases/ncd/module3_stroke.html#thank-you",
+    "title": "Module 3: Stroke",
+    "section": "Thank You!",
+    "text": "Thank You!\nBack to: Chronic Non-Communicable Diseases\n← Previous | Top | Chronic Non-Communicable Diseases | Module 3/3",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
     ]
   },
   {
