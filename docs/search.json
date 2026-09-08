@@ -8504,7 +8504,7 @@
     "href": "environment/occupational-health.html#home",
     "title": "Occupational Health",
     "section": "Welcome",
-    "text": "Welcome\nOccupational Health\nLearning Objectives:\n\nState the 1950 ILO/WHO joint definition of occupational health\nClassify occupational hazards into six categories\nDefine pneumoconiosis and name its major forms\nDescribe India’s Employees’ State Insurance (ESI) scheme’s role\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter connects Chapter 7’s NCD risk-factor framework and Chapter 2’s causation concepts to a specific, identifiable exposure setting: the workplace.",
+    "text": "Welcome\nOccupational Health\nLearning Objectives:\n\nState the 1950 ILO/WHO joint definition of occupational health\nClassify occupational hazards into six categories\nDefine pneumoconiosis and name its major forms\nDescribe India’s Employees’ State Insurance (ESI) scheme’s role\nRecognize lead poisoning and the major occupational cancers\nDistinguish human from environmental causes of industrial accidents\nOutline the Factories Act, 1948 alongside the ESI Act\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter connects Chapter 7’s NCD risk-factor framework and Chapter 2’s causation concepts to a specific, identifiable exposure setting: the workplace.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -8540,7 +8540,7 @@
     "href": "environment/occupational-health.html#pneumoconiosis",
     "title": "Occupational Health",
     "section": "Pneumoconiosis",
-    "text": "Pneumoconiosis\n🟢 MUST KNOW\nPneumoconiosis — a group of occupational lung diseases caused by inhalation of mineral dust, producing lung inflammation and scarring. Major forms:\n\nSilicosis — from crystalline silica dust (mining, quarrying, sandblasting); nodular lung lesions\nAsbestosis — from asbestos fibres; scarring often not symptomatic until years after initial exposure\nByssinosis — from cotton dust (textile industry)\nBagassosis — from bagasse (sugarcane fibre residue) dust\n\nCommon thread: long latency between exposure and symptom onset — directly echoing Chapter 3’s natural-history-of-disease concept, but on an occupational-exposure timescale of years to decades.",
+    "text": "Pneumoconiosis\n🟢 MUST KNOW\nPneumoconiosis — a group of occupational lung diseases caused by inhalation of mineral dust, producing lung inflammation and scarring. Major forms:\n\nSilicosis — from crystalline silica dust (mining, quarrying, sandblasting); nodular lung lesions\nAsbestosis — from asbestos fibres; scarring often not symptomatic until years after initial exposure\nByssinosis — from cotton dust (textile industry)\nBagassosis — from bagasse (sugarcane fibre residue) dust\nAnthracosis — from coal dust (coal mining)\nFarmer’s Lung — a hypersensitivity pneumonitis from mouldy hay dust (thermophilic actinomycetes), not mineral dust — technically not a true pneumoconiosis, but grouped here by occupational exposure pattern\n\nCommon thread: long latency between exposure and symptom onset — directly echoing Chapter 3’s natural-history-of-disease concept, but on an occupational-exposure timescale of years to decades.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -8552,7 +8552,7 @@
     "href": "environment/occupational-health.html#employees-state-insurance-esi-scheme",
     "title": "Occupational Health",
     "section": "Employees’ State Insurance (ESI) Scheme",
-    "text": "Employees’ State Insurance (ESI) Scheme\n🟢 MUST KNOW\nWorkers registered under the Employees’ State Insurance Act, 1948 receive medical treatment through ESI hospitals, providing a social insurance mechanism specifically for organized-sector workers, including coverage for occupational disease and injury.\nState-level policy example: Haryana’s pneumoconiosis rehabilitation policy provides financial aid and pension support to affected workers — illustrating how national ESI coverage is complemented by state-specific disease-focused schemes for occupational conditions.",
+    "text": "Employees’ State Insurance (ESI) Scheme\n🟢 MUST KNOW\nWorkers registered under the Employees’ State Insurance Act, 1948 receive medical treatment through ESI hospitals, providing a social insurance mechanism specifically for organized-sector workers, including coverage for occupational disease and injury.\nState-level policy example: Haryana’s pneumoconiosis rehabilitation policy provides financial aid and pension support to affected workers — illustrating how national ESI coverage is complemented by state-specific disease-focused schemes for occupational conditions.\nESI’s seven benefit categories: medical, sickness, maternity, disablement, dependants’, funeral expenses, and rehabilitation — funded by employer (3.25% of wages) and employee (0.75% of wages) contributions plus central/state grants.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -8660,7 +8660,7 @@
     "href": "environment/occupational-health.html#references",
     "title": "Occupational Health",
     "section": "References",
-    "text": "References\n\nInternational Labour Organization / World Health Organization. Joint ILO/WHO Committee on Occupational Health (1950; revised\n\n— definition and objectives.\n\nStatPearls. Pneumoconiosis.\nGovernment of India. Employees’ State Insurance Act, 1948.\nPMC. “Global, regional and national burden of disease attributable to 19 selected occupational risk factors… WHO/ILO Joint Estimates.”",
+    "text": "References\n\nInternational Labour Organization / World Health Organization. Joint ILO/WHO Committee on Occupational Health (1950; revised\n\n— definition and objectives.\n\nStatPearls. Pneumoconiosis.\nGovernment of India. Employees’ State Insurance Act, 1948.\nPMC. “Global, regional and national burden of disease attributable to 19 selected occupational risk factors… WHO/ILO Joint Estimates.”\nGovernment of India. The Factories Act, 1948 (as amended).\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for lead poisoning, occupational cancers, and industrial accident epidemiology.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -10663,6 +10663,66 @@
       "Contents",
       "Communicable & Non-Communicable Diseases",
       "Nutrition and Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#lead-poisoning",
+    "href": "environment/occupational-health.html#lead-poisoning",
+    "title": "Occupational Health",
+    "section": "Lead Poisoning",
+    "text": "Lead Poisoning\n🟡 SHOULD KNOW\nA classic occupational heavy-metal toxicity, from lead smelting, battery manufacture, printing, and paint work.\n\nAbsorption: inhalation of lead dust/fumes (main occupational route) and ingestion (contaminated hands/food)\nClinical picture: anaemia (basophilic stippling of RBCs), abdominal colic, peripheral neuropathy (classically wrist drop), and a blue-black “lead line” on the gums\nPrevention: substitution of lead-free materials where possible, engineering controls (exhaust ventilation, enclosed processes), personal hygiene (no eating in the work area), and periodic blood-lead monitoring\nManagement: removal from exposure plus chelation therapy in confirmed toxicity",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#occupational-cancers",
+    "href": "environment/occupational-health.html#occupational-cancers",
+    "title": "Occupational Health",
+    "section": "Occupational Cancers",
+    "text": "Occupational Cancers\n🟡 SHOULD KNOW\nCertain workplace exposures are established carcinogens — occupational cancer is one of the few cancer categories where the causative exposure is often precisely identifiable:\n\n\n\n\n\n\n\nCancer\nOccupational exposure\n\n\n\n\nSkin cancer\nTar, soot, mineral oils, arsenic, UV/ionizing radiation\n\n\nLung cancer\nAsbestos, arsenic, chromium, nickel, radon (mining)\n\n\nBladder cancer\nAromatic amines (dye, rubber, and printing industries)\n\n\nLeukaemia\nBenzene and ionizing radiation\n\n\n\nControl of industrial cancer follows the same levels-of-prevention logic as any occupational disease: substitution of the carcinogen where possible, engineering controls to limit exposure, and periodic medical surveillance for early detection in exposed workers.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#occupational-dermatitis-and-agricultural-hazards",
+    "href": "environment/occupational-health.html#occupational-dermatitis-and-agricultural-hazards",
+    "title": "Occupational Health",
+    "section": "Occupational Dermatitis and Agricultural Hazards",
+    "text": "Occupational Dermatitis and Agricultural Hazards\n🟣 MAY KNOW\nOccupational dermatitis — the most common occupational skin condition, from repeated contact with irritants (solvents, cement, oils) or allergens (nickel, rubber chemicals); prevention relies on protective clothing/gloves and skin barrier creams rather than treatment alone.\nAgricultural workers face a distinct hazard profile from industrial workers: pesticide exposure, zoonotic disease risk (from livestock contact), musculoskeletal strain, heat exposure, and mechanical injury from farm equipment — a reminder that “occupational health” is not synonymous with “industrial health.”",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#industrial-accidents",
+    "href": "environment/occupational-health.html#industrial-accidents",
+    "title": "Occupational Health",
+    "section": "Industrial Accidents",
+    "text": "Industrial Accidents\n🟣 MAY KNOW\n~85% of industrial accidents are attributed to human causes (carelessness, fatigue, inadequate training) rather than purely environmental/mechanical ones (unsafe machinery, poor lighting) — a finding with direct implications for prevention strategy: engineering fixes alone are insufficient without training, supervision, and safety culture.\nPrevention combines both angles: safety engineering (machine guarding, adequate lighting/ventilation) and human-factor measures (training, enforced safety protocols, adequate rest periods to reduce fatigue-related error).",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#the-factories-act-1948",
+    "href": "environment/occupational-health.html#the-factories-act-1948",
+    "title": "Occupational Health",
+    "section": "The Factories Act, 1948",
+    "text": "The Factories Act, 1948\n🟡 SHOULD KNOW\nIndia’s principal occupational safety legislation, predating the ESI Act by the same year — together they form the two-pillar legal foundation of Indian occupational health (ESI = health insurance and benefits; Factories Act = workplace safety standards and conditions).\nCore provisions include mandated standards for:\n\nHealth — cleanliness, ventilation, lighting, drinking water, sanitation\nSafety — machine guarding, safe means of access, precautions against fire\nWelfare — washing facilities, canteens (in larger factories), rest rooms\nWorking hours and conditions — limits on daily/weekly working hours, overtime, and employment of young persons",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
     ]
   }
 ]
