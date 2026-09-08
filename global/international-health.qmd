@@ -26,9 +26,11 @@ revealjs-plugins:
 
 **Learning Objectives:**
 
+- Trace the organizations that preceded WHO and what it inherited from them
 - Describe WHO's governance structure and India's regional office
 - State the purpose and core capacities required under the International Health Regulations (2005)
 - Identify the roles of UNICEF, the World Bank, the Global Fund, and Gavi in global health
+- Name further UN and bilateral/philanthropic contributors to international health
 - Define global health security and health diplomacy
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
@@ -39,6 +41,23 @@ This chapter closes the Global Perspectives section and the full
 systems (Chapters 11-25) to the international architecture they operate
 within.
 :::
+
+---
+
+## Evolution of International Health Organizations {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+WHO did not emerge in isolation — it consolidated a century of earlier,
+fragmented efforts:
+
+`International Sanitary Conferences (from 1851, Paris — quarantine coordination, no lasting agreement) → Pan American Sanitary Bureau (1902, the world's first international health agency) → Office International d'Hygiène Publique (1907, Paris — communicable disease intelligence) → Health Organization of the League of Nations (1923) → UNRRA (1943) → WHO (1948)`
+
+**Why this history matters:** each predecessor contributed something WHO
+still uses — the Pan American Sanitary Bureau became **PAHO**, WHO's
+regional office for the Americas; the League's Health Organization
+pioneered the **expert-committee model** and periodic epidemiological
+reporting that WHO still runs today.
 
 ---
 
@@ -104,6 +123,30 @@ Beyond WHO, several other organizations shape global health outcomes:
   society) that has helped immunize **over 1.2 billion children**,
   preventing more than 20.6 million deaths, and helped **halve child
   mortality** in 78 lower-income countries since 2000
+
+---
+
+## Other UN and Partner Agencies {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Beyond WHO/UNICEF/World Bank/Gavi, several further UN specialized
+agencies and external partners have shaped health outcomes in India and
+globally:
+
+| Agency | Focus |
+|---|---|
+| **UNDP** (1966) | Broad development financing/technical assistance across sectors, health included |
+| **UNFPA** | Population and reproductive health programming; assisting India since 1974 |
+| **FAO** (1945) | Food production and nutrition; ran the World Freedom from Hunger Campaign (1960) |
+| **ILO** (1919) | Labour/occupational health standards — the *International Labour Code* |
+
+**Bilateral and philanthropic contributors** have also mattered
+historically: USAID (malaria eradication, family planning support), the
+**Colombo Plan** (helped establish AIIMS New Delhi), and the
+**Rockefeller** and **Ford Foundations** (medical education, rural
+health service pilots, and institutions including AIIMS and the
+National Institute of Virology, Pune).
 
 ---
 
@@ -246,6 +289,9 @@ Assembly resolution, is most closely associated with:
 3. World Health Assembly (2001). *Global health security: epidemic alert
    and response* — resolution WHA54.14.
 4. PMC. "The need for health diplomacy in health security operations."
+5. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for the evolution of international health
+   organizations and UN/bilateral/philanthropic agencies.
 
 ---
 

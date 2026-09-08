@@ -31,6 +31,7 @@ revealjs-plugins:
 - Explain replacement-level fertility
 - Trace the history of India's family planning programme, 1952 to present
 - State the goal of India's National Population Policy 2000
+- Apply the MTP Act's gestational-age thresholds and recognized indications
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -147,6 +148,32 @@ NPP 2000 implementation was later integrated with the **National Rural
 Health Mission** (launched 2005) as the operational vehicle for delivering
 its goals, connecting demography policy directly to the health-systems
 architecture from Chapter 11.
+
+---
+
+## The MTP Act: Gestational Limits {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The Medical Termination of Pregnancy (MTP) Act governs **legally
+permitted** induced abortion in India — "MTP" refers only to this legal
+category, distinct from spontaneous abortion (miscarriage).
+
+| Gestational age | Requirement |
+|---|---|
+| **Up to 20 weeks** | Opinion of **one** Registered Medical Practitioner |
+| **20–24 weeks** | Opinion of **two** RMPs, for specified eligible categories only (e.g. rape survivors, minors, change in marital status during pregnancy, disability) |
+| **Beyond 24 weeks** | Only for substantial fetal abnormality, as diagnosed by a Medical Board |
+
+**Recognized indications:** therapeutic (risk to mother's life), eugenic
+(fetal abnormality), humanitarian (rape/incest), and social (contraceptive
+failure causing mental distress) — with the underlying public health
+goal of reducing unsafe abortion and its complications (haemorrhage,
+sepsis, infertility).
+
+**Consent:** an adult woman's own written consent is sufficient; a
+minor or a woman with mental illness requires guardian consent. The Act
+mandates confidentiality of the woman's identity.
 
 ---
 
@@ -276,6 +303,8 @@ period, India's 1977 population policy shift was to:
    Planning* — programme history, National Health Mission.
 4. United Nations Population Fund, India. *National Population Policy
    2000*.
+5. Government of India. *Medical Termination of Pregnancy Act, 1971*
+   (as amended, 2021).
 
 ---
 

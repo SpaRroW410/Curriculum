@@ -30,6 +30,9 @@ revealjs-plugins:
 - Explain why consanguinity raises genetic disorder risk
 - Define genetic counseling and its role in community medicine
 - Describe India's approach to thalassemia carrier screening
+- Identify the major chromosomal disorders and their karyotypes
+- Explain Rh incompatibility and how it is prevented
+- Distinguish eugenics from euthenics, and why counseling is non-directive
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -119,6 +122,70 @@ India carries a very large share of the global thalassemia burden:
 (most feasible in urban antenatal clinics), premarital screening,
 cascade screening (testing relatives of a known carrier), and newborn
 screening pilots (e.g. the UMMID project in Jharkhand).
+
+---
+
+## Chromosomal Disorders {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Chromosomal aberrations occur in roughly **5.6 per 1,000 live births**,
+split between sex aneuploidies, autosomal aneuploidies, and
+translocations:
+
+| Syndrome | Karyotype | Key features |
+|---|---|---|
+| **Down's (Trisomy 21)** | Extra chromosome 21 | Short stature, flat facial profile, cardiac defects; risk rises sharply with **maternal age** (1 in 3,000 at age 20 vs. 1 in 50 at age 45) |
+| **Klinefelter's** | XXY | Non-functional testes, gynaecomastia, infertility; ~1 in 1,000 males |
+| **Turner's** | 45, X (XO) | Short stature, primary amenorrhoea, infertility, cardiac anomalies; most common human chromosomal disorder overall |
+| **XYY** | Extra Y | Increased height; historically (and controversially) associated with behavioural traits — treat this claim cautiously, evidence is weak |
+
+**Exam pattern:** Down's syndrome risk correlates with **maternal** age;
+paternal age has no comparable effect on this specific trisomy.
+
+---
+
+## Rh Incompatibility and Erythroblastosis Foetalis {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Occurs when an **Rh-negative mother** carries an **Rh-positive fetus** —
+the mother's immune system mounts a response against fetal red blood
+cells, risking fetal jaundice, anaemia, or intrauterine death if
+untreated.
+
+- **Prevention:** anti-D immunoglobulin given to Rh-negative mothers
+  prevents maternal sensitization — this is a genuine primary-prevention
+  success story in obstetric genetics
+- **Contrast with ABO incompatibility** (mother O, but father/child A or
+  B): a related but generally **milder** condition, usually managed with
+  monitoring rather than requiring the same preventive intervention
+
+---
+
+## Eugenics: History and Ethics {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+**Eugenics** — coined by Francis Galton (1883), the (now largely
+discredited as a coercive population strategy) idea of improving human
+genetic traits through selective reproduction:
+
+- **Negative eugenics** — attempts to reduce the frequency of harmful
+  genes in a population
+- **Positive eugenics** — attempts to encourage desirable traits;
+  considered far less workable given multifactorial inheritance
+- **Historical context:** eugenics was catastrophically misused
+  (compulsory sterilization programmes, Nazi Germany's racial policies)
+  — modern genetic counseling (already covered in this chapter) is
+  explicitly **non-directive** and voluntary specifically *because* of
+  this history, not despite it
+
+**Euthenics** — a distinct, uncontroversial concept: improving the
+*environment* to let existing genetic potential express itself (e.g.
+early stimulation programmes improving outcomes in children with mild
+intellectual disability) — addressing gene-environment interaction
+rather than the genes themselves.
 
 ---
 
@@ -253,6 +320,9 @@ family support, is best described as:
    community genetics."
 3. PMC. "Need for a universal thalassemia screening programme in India?
    A public health perspective."
+4. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for chromosomal disorders, Rh incompatibility,
+   and eugenics.
 4. Wikipedia / NIH. "Genetic counseling" — definition and process.
 
 ---

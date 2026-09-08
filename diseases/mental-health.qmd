@@ -27,6 +27,7 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - State the WHO definition of mental health
+- Apply the levels of prevention specifically to mental health
 - Recognize mental disorders as a major, under-addressed share of the global disease burden
 - Trace India's National Mental Health Programme and District Mental Health Programme
 - Describe the Mental Healthcare Act 2017's rights-based approach, including Section 115
@@ -74,6 +75,27 @@ NCDs and disability).
 **Key structural problem — the treatment gap:** in most countries,
 especially low- and middle-income ones, the majority of people with a
 diagnosable mental disorder never receive any formal treatment.
+
+---
+
+## Levels of Prevention Applied to Mental Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Chapter 2's levels of prevention map onto mental health with genuinely
+distinct, specific measures at each level:
+
+| Level | Examples |
+|---|---|
+| **Primary** | Universal salt iodization (prevents cretinism/intellectual disability); industrial lead safety (prevents lead encephalopathy); antenatal treatment of hypertension/syphilis/diabetes; prevention of intrauterine infections (rubella, syphilis); good housing and child welfare services |
+| **Secondary** | Early diagnosis/treatment via screening in schools, industry, antenatal clinics; family counseling for marital/parent-child stress; specific drug therapy (e.g. diazepam for anxiety, lithium for mania) |
+| **Tertiary** | Day-care programmes teaching social skills post-hospitalization; **halfway homes** — a transitional living arrangement between hospital and family, where recovering patients manage daily needs semi-independently with social-worker support |
+
+**Exam tip:** primary prevention here overlaps substantially with
+general preventive medicine (nutrition, antenatal care, occupational
+safety) — mental health primary prevention is rarely "mental-health
+specific" at the intervention level, even though the *outcome* it
+protects is specifically psychiatric.
 
 ---
 
