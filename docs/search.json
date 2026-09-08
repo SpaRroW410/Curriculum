@@ -7203,7 +7203,7 @@
     "href": "foundations/concept-health-disease.html#home",
     "title": "Concept of Health and Disease",
     "section": "Welcome",
-    "text": "Welcome\nConcept of Health and Disease\nLearning Objectives:\n\nDefine disease and distinguish it from illness and sickness\nDescribe the epidemiological triad of agent, host, and environment\nExplain the natural history of disease and its phases\nDescribe the iceberg phenomenon of disease\nApply the levels of prevention — primordial, primary, secondary, tertiary\nDistinguish Koch’s postulates from the Bradford Hill criteria of causation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter builds directly on Chapter 1’s determinants-of-health framework: here we formalize how disease actually develops and how prevention maps onto that process.",
+    "text": "Welcome\nConcept of Health and Disease\nLearning Objectives:\n\nCompare the biomedical, ecological, psychosocial, and holistic models of health\nDefine disease and distinguish it from illness and sickness\nDescribe the epidemiological triad of agent, host, and environment\nExplain the natural history of disease and its phases\nDescribe the iceberg phenomenon of disease\nApply the levels of prevention — primordial, primary, secondary, tertiary\nDistinguish Koch’s postulates from the Bradford Hill criteria of causation\nClassify indicators of health and describe the PQLI and HDI\nState who is responsible for realizing the right to health\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter builds directly on Chapter 1’s determinants-of-health framework: here we formalize how disease actually develops and how prevention maps onto that process.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -7443,7 +7443,7 @@
     "href": "foundations/concept-health-disease.html#references",
     "title": "Concept of Health and Disease",
     "section": "References",
-    "text": "References\n\nKoch, R. (1884). Die Aetiologie der Tuberkulose. Postulates as later formalized by Koch and Loeffler.\nHill, A.B. (1965). “The Environment and Disease: Association or Causation?” Proceedings of the Royal Society of Medicine, 58(5), 295–300.\nRothman, K.J. (1976). “Causes.” American Journal of Epidemiology, 104(6), 587–592.\nWorld Health Organization. Prevention concepts and levels of prevention — standard public health teaching reference.\nSingh, A., et al. Syndemic theory in public health — as applied to co-occurring disease and social conditions.",
+    "text": "References\n\nKoch, R. (1884). Die Aetiologie der Tuberkulose. Postulates as later formalized by Koch and Loeffler.\nHill, A.B. (1965). “The Environment and Disease: Association or Causation?” Proceedings of the Royal Society of Medicine, 58(5), 295–300.\nRothman, K.J. (1976). “Causes.” American Journal of Epidemiology, 104(6), 587–592.\nWorld Health Organization. Prevention concepts and levels of prevention — standard public health teaching reference.\nSingh, A., et al. Syndemic theory in public health — as applied to co-occurring disease and social conditions.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for concepts of health, determinants, indicators of health, PQLI, and right to health.\nWorld Health Organization. Constitution of the World Health Organization (1946/1948).\nUnited Nations Development Programme. Human Development Report — HDI methodology.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -9098,6 +9098,66 @@
       "Contents",
       "Health Programs & Populations",
       "Tribal Health in India"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#concepts-of-health-four-models",
+    "href": "foundations/concept-health-disease.html#concepts-of-health-four-models",
+    "title": "Concept of Health and Disease",
+    "section": "Concepts of Health: Four Models",
+    "text": "Concepts of Health: Four Models\n🟢 MUST KNOW\nChapter 1 gave the WHO’s definition of health. Community medicine teaching groups the thinking behind that definition into four models:\n\n\n\n\n\n\n\nModel\nCore idea\n\n\n\n\nBiomedical\nHealth = absence of disease; rooted in germ theory. Criticized for ignoring social, environmental, and psychological determinants — it cannot explain malnutrition, chronic disease, drug abuse, or pollution as “health” problems\n\n\nEcological\nHealth = a dynamic equilibrium between humans and their environment; disease = a maladjustment to that environment (“imperfect man” meets “imperfect environment”)\n\n\nPsychosocial\nHealth is shaped by social, psychological, cultural, economic, and political factors, not biology alone\n\n\nHolistic\nA synthesis of all three — every sector (agriculture, education, housing, industry) affects health; this is the thinking underlying the WHO’s 1948 definition\n\n\n\nExam tip: the biomedical model is the oldest and narrowest; the holistic model is the broadest and is what the WHO definition operationalizes.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#determinants-of-health-revisited",
+    "href": "foundations/concept-health-disease.html#determinants-of-health-revisited",
+    "title": "Concept of Health and Disease",
+    "section": "Determinants of Health Revisited",
+    "text": "Determinants of Health Revisited\n🟡 SHOULD KNOW\nChapter 1’s four-domain model (environment, biology, lifestyle, health services) is the core teaching, but two further determinants are commonly added:\n\nAging of the population — more than two-thirds of people aged 60+ now live in developing countries; population aging raises the burden of chronic disease and disability and needs dedicated health-system attention\nGender — recognized as a distinct determinant since the 1993 Global Commission on Women’s Health, whose agenda spanned nutrition, reproductive health, violence, aging, lifestyle, and occupational exposure\n\nHealth and development: health is not merely an outcome of development — it is an input to it. Health services are one subsystem within the broader socio-economic system, and human health and well-being are treated as an ultimate goal of development, not a byproduct.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#indicators-of-health-a-classification",
+    "href": "foundations/concept-health-disease.html#indicators-of-health-a-classification",
+    "title": "Concept of Health and Disease",
+    "section": "Indicators of Health: A Classification",
+    "text": "Indicators of Health: A Classification\n🟡 SHOULD KNOW\nThe WHO defines a health indicator as a variable that helps measure changes which cannot be measured directly. No single indicator captures “health” — a full profile draws on several categories:\nMortality · Morbidity · Disability · Nutritional status · Health-care delivery · Utilization · Social/mental health · Environmental · Socio-economic · Health policy · Quality of life · Social indicators\nA good indicator should be: Valid · Reliable · Sensitive · Specific · Feasible · Relevant.\nDALY, QALY, and the mortality/morbidity indicators used in Indian health surveillance are covered in depth in Health Information and Basic Medical Statistics (Chapter 21).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#pqli-and-hdi",
+    "href": "foundations/concept-health-disease.html#pqli-and-hdi",
+    "title": "Concept of Health and Disease",
+    "section": "PQLI and HDI",
+    "text": "PQLI and HDI\n🟣 MAY KNOW\nTwo composite indices built to summarize development/well-being in a single number:\n\n\n\n\n\n\n\n\nIndex\nComponents\nScale\n\n\n\n\nPhysical Quality of Life Index (PQLI)\nInfant mortality + life expectancy at age 1 + literacy, equally weighted\n0 (worst) – 100 (best)\n\n\nHuman Development Index (HDI)\nLife expectancy at birth + education (mean/expected years of schooling) + GNI per capita (PPP US$)\n0 – 1\n\n\n\nBoth consolidate outcome measures rather than inputs, and both allow country-to-country comparison over time — HDI is the more widely cited today (UNDP’s Human Development Report).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#right-to-health-and-responsibility-for-health",
+    "href": "foundations/concept-health-disease.html#right-to-health-and-responsibility-for-health",
+    "title": "Concept of Health and Disease",
+    "section": "Right to Health and Responsibility for Health",
+    "text": "Right to Health and Responsibility for Health\n🟣 MAY KNOW\nThe WHO Constitution was the first instrument to formally recognize health as a right: “the enjoyment of the highest attainable standard of health is one of the fundamental rights of every human being, without distinction of race, religion, political belief, economic or social condition.”\nResponsibility for realizing that right is shared across four levels:\n\nIndividual — self-care: the health decisions and habits a person controls directly\nCommunity — participates through manpower/resources, through planning–management–evaluation, and simply by using health services\nState — in India, health is constitutionally a state subject\nInternational — cooperation between governments and bodies inside and outside the UN system (e.g. exchange of experts, drugs and supplies, cross-border communicable disease control)",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease"
     ]
   }
 ]
