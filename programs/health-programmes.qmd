@@ -27,6 +27,7 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - Describe the structure of the National Health Mission (NRHM + NUHM)
+- State the key targets set by National Health Policy 2017
 - Explain Ayushman Bharat's two-pillar design
 - Outline the RMNCH+A strategy and its "+A" additions
 - Distinguish vertical from horizontal (integrated) programme design
@@ -62,6 +63,33 @@ sub-missions, unified under one governance structure in **2013**:
 **Key NRHM strategy:** deploying an **ASHA (Accredited Social Health
 Activist)** in every village as a community-level link to the health
 system.
+
+---
+
+## National Health Policy 2017: Targets {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**NHP 2017** is the policy backdrop against which NHM, Ayushman Bharat,
+and RMNCH+A were subsequently designed and scaled up, setting explicit,
+measurable targets:
+
+- **Raise public health expenditure to 2.5% of GDP** by 2025 (from a
+  historically low base) — the financing target underlying the
+  programme expansion described in this chapter
+- **Life expectancy at birth:** raise to 70 years by 2025
+- **Reduce out-of-pocket health expenditure** as a share of total health
+  spending — since high out-of-pocket cost is a major driver of
+  catastrophic health spending and impoverishment, which PM-JAY's
+  hospitalization cover is specifically designed to address
+- Envisions **Health and Wellness Centres** as the platform for
+  delivering comprehensive primary care — the same HWC concept detailed
+  in Ayushman Bharat's first pillar below
+
+**Why this matters:** NHP 2017 is the policy document that names the
+targets; NHM, Ayushman Bharat, and RMNCH+A are the operational
+programmes built to hit them — this chapter's "container vs. contents"
+framing applies here too.
 
 ---
 
@@ -258,6 +286,24 @@ best described as:
 
 ---
 
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+National Health Policy 2017 set a target of raising public health
+expenditure to what share of GDP by 2025?
+
+- 1%
+- [2.5%]{.correct data-explanation="NHP 2017 targets raising public health expenditure to 2.5% of GDP by 2025, from a historically low base -- the financing goal behind the subsequent scale-up of NHM and Ayushman Bharat."}
+- 5%
+- 10%
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. Ministry of Health & Family Welfare, Government of India. *National
@@ -269,6 +315,8 @@ best described as:
 4. Ministry of Health & Family Welfare (2013). *A Strategic Approach to
    Reproductive, Maternal, Newborn, Child and Adolescent Health
    (RMNCH+A) in India*.
+5. Ministry of Health & Family Welfare, Government of India (2017).
+   *National Health Policy 2017*.
 
 ---
 

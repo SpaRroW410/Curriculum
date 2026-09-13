@@ -30,6 +30,7 @@ revealjs-plugins:
 - Define illness behaviour and its five components
 - Describe how culture shapes health-seeking behaviour
 - State the WHO Social Determinants of Health framework's structural vs. intermediary determinants
+- Identify caste, gender, and class as India-specific axes of health inequity
 - Connect this chapter's sociology/anthropology lens to earlier chapters' health-education and prevention content
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
@@ -131,6 +132,33 @@ The framework distinguishes two levels:
 **Guiding principle:** **health equity** — the absence of unfair and
 avoidable health differences between groups — directly extending
 Chapter 7's discussion of the social gradient of health.
+
+---
+
+## Social Stratification and Health Inequities in India {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The WHO structural-determinants framework above becomes concrete in the
+Indian context through specific axes of social stratification that
+independently shape health access and outcomes:
+
+- **Caste** — documented disparities in healthcare access, treatment
+  quality, and health outcomes correlate with caste position,
+  independent of income alone
+- **Gender** — shapes health-seeking autonomy (whether a woman can
+  independently decide to seek care), resource allocation within
+  households, and reproductive health outcomes (echoing Chapter 14's
+  maternal health content)
+- **Class/economic status** — determines not only ability to pay, but
+  which of the health-seeking behaviour steps (lay consultation vs.
+  formal care, treatment adherence) are practically available
+
+**Why this matters for programme design:** a scheme like PM-JAY
+(Chapter 11) addresses the *financial* barrier, but caste- and
+gender-based barriers to care require different, non-financial
+interventions — a reminder that health equity requires addressing
+multiple, independent axes of disadvantage simultaneously, not just one.
 
 ---
 
@@ -259,6 +287,24 @@ is best described as a conflict between:
 - [Explanatory models]{.correct data-explanation="An explanatory model is a person's set of beliefs about the cause, course, and appropriate treatment of an illness; mismatched explanatory models between patient and provider are a recognized cause of poor treatment adherence."}
 - Structural determinants
 - IEC and BCC
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+A financial-protection scheme like PM-JAY addresses which specific
+barrier to healthcare access?
+
+- Caste-based discrimination
+- Gender-based restrictions on autonomy
+- [Financial/economic barriers to accessing care]{.correct data-explanation="PM-JAY specifically addresses the financial barrier through hospitalization cost coverage -- caste- and gender-based barriers to care are independent axes of disadvantage that require different, non-financial interventions."}
+- Cultural explanatory model mismatches
 :::
 
 ---
