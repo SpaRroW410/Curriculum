@@ -165,7 +165,7 @@
     "href": "programs/preventive-medicine.html#home",
     "title": "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
     "section": "Welcome",
-    "text": "Welcome\nPreventive Medicine in Obstetrics, Paediatrics and Geriatrics\nLearning Objectives:\n\nDescribe the WHO 2016 antenatal care model and its purpose\nDefine high-risk pregnancy and list its major risk factor categories\nExplain the Under-Five Clinic concept and its symbolic triangle\nApply the levels of prevention to child and elderly preventive care\nDescribe the WHO Decade of Healthy Ageing framework\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter applies the levels-of-prevention framework from Chapter 2 across three specific life stages, rather than introducing new prevention theory.",
+    "text": "Welcome\nPreventive Medicine in Obstetrics, Paediatrics and Geriatrics\nLearning Objectives:\n\nDescribe the WHO 2016 antenatal care model and its purpose\nDefine high-risk pregnancy and list its major risk factor categories\nExplain the Under-Five Clinic concept and its symbolic triangle\nDescribe Essential Newborn Care and Kangaroo Mother Care\nApply the levels of prevention to child and elderly preventive care\nDescribe the WHO Decade of Healthy Ageing framework\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter applies the levels-of-prevention framework from Chapter 2 across three specific life stages, rather than introducing new prevention theory.",
     "crumbs": [
       "Contents",
       "Health Programs & Populations",
@@ -345,7 +345,7 @@
     "href": "programs/preventive-medicine.html#references",
     "title": "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
     "section": "References",
-    "text": "References\n\nWorld Health Organization (2016). WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience.\nCleveland Clinic. “High-Risk Pregnancy: Age, Complications & Management.”\nNursing College teaching materials. “Under-Five’s Clinic” — the symbolic triangle model.\nWorld Health Organization (2020). Decade of Healthy Ageing 2021–2030.",
+    "text": "References\n\nWorld Health Organization (2016). WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience.\nCleveland Clinic. “High-Risk Pregnancy: Age, Complications & Management.”\nNursing College teaching materials. “Under-Five’s Clinic” — the symbolic triangle model.\nWorld Health Organization (2020). Decade of Healthy Ageing 2021–2030.\nWorld Health Organization. Kangaroo Mother Care: A Practical Guide.",
     "crumbs": [
       "Contents",
       "Health Programs & Populations",
@@ -10571,7 +10571,7 @@
     "href": "global/health-information.html#home",
     "title": "Health Information and Basic Medical Statistics",
     "section": "Welcome",
-    "text": "Welcome\nHealth Information and Basic Medical Statistics\nLearning Objectives:\n\nDistinguish Civil Registration from India’s Sample Registration System (SRS)\nDefine life expectancy at birth, IMR, and MMR\nBreak down the DALY formula into its YLL and YLD components\nDistinguish DALYs from QALYs\nRecognize basic data-presentation formats used in health information systems\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nDALYs were already introduced conceptually in the NCD and Mental Health chapters; this chapter gives the actual formula and its components, alongside the vital-statistics data sources that feed all the rates defined back in the Demography chapter.",
+    "text": "Welcome\nHealth Information and Basic Medical Statistics\nLearning Objectives:\n\nDistinguish Civil Registration from India’s Sample Registration System (SRS)\nCalculate the Crude Birth Rate and Crude Death Rate, and explain why they are “crude”\nDefine life expectancy at birth, IMR, and MMR\nBreak down the DALY formula into its YLL and YLD components\nDistinguish DALYs from QALYs\nRecognize basic data-presentation formats used in health information systems\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nDALYs were already introduced conceptually in the NCD and Mental Health chapters; this chapter gives the actual formula and its components, alongside the vital-statistics data sources that feed all the rates defined back in the Demography chapter.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -12410,6 +12410,54 @@
       "Contents",
       "Health Information, Education & Global Perspectives",
       "International Health"
+    ]
+  },
+  {
+    "objectID": "programs/preventive-medicine.html#essential-newborn-care-and-kangaroo-mother-care",
+    "href": "programs/preventive-medicine.html#essential-newborn-care-and-kangaroo-mother-care",
+    "title": "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
+    "section": "Essential Newborn Care and Kangaroo Mother Care",
+    "text": "Essential Newborn Care and Kangaroo Mother Care\n🟢 MUST KNOW\nBetween birth and the Under-Five Clinic’s ongoing care lies the neonatal period — the highest-risk window in childhood, and the target of the Neonatal Mortality Rate defined in the Health Information chapter.\n\nEssential Newborn Care — immediate drying and warming, delayed cord clamping, early (within one hour) initiation of breastfeeding, and eye/cord care — a simple bundle proven to reduce neonatal deaths\nKangaroo Mother Care (KMC) — continuous skin-to-skin contact between mother and newborn, combined with exclusive breastfeeding; particularly valuable for low-birth-weight and preterm infants (recall the Nutrition chapter’s coverage of low birth weight), where it improves thermoregulation, breastfeeding success, and survival at far lower cost than incubator care\n\nWhy this fits between antenatal and under-five care: it is the preventive bridge connecting the WHO 8-contact antenatal model to the Under-Five Clinic — most neonatal deaths are preventable with this simple bundle, not advanced technology.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics"
+    ]
+  },
+  {
+    "objectID": "programs/preventive-medicine.html#self-check-question-6",
+    "href": "programs/preventive-medicine.html#self-check-question-6",
+    "title": "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nKangaroo Mother Care is particularly valuable for which group of newborns?\n\nFull-term infants only\nLow-birth-weight and preterm infants\nInfants born by caesarean section only\nInfants of mothers with gestational diabetes only",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#crude-birth-rate-and-crude-death-rate",
+    "href": "global/health-information.html#crude-birth-rate-and-crude-death-rate",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Crude Birth Rate and Crude Death Rate",
+    "text": "Crude Birth Rate and Crude Death Rate\n🟢 MUST KNOW\nThe most basic vital statistics rates, both drawn from the CRS/SRS sources above, and the starting point before the more specific mortality indicators that follow:\nCrude Birth Rate (CBR) = (Live births in a year / Mid-year population) × 1,000\nCrude Death Rate (CDR) = (Deaths in a year / Mid-year population) × 1,000\nWhy “crude”: both rates use the total population as the denominator, without adjusting for age structure — a population with more elderly people will show a higher CDR even with identical age-specific mortality, which is exactly why more specific indicators (IMR, MMR, age-specific rates) are needed alongside these crude measures, not instead of them.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#self-check-question-5",
+    "href": "global/health-information.html#self-check-question-5",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nCrude Birth Rate and Crude Death Rate are called “crude” because they:\n\nAre calculated only from hospital records\nUse the total population as the denominator, without adjusting for age structure\nAre estimated rather than measured directly\nApply only to rural populations",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
     ]
   }
 ]

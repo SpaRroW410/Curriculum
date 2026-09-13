@@ -27,6 +27,7 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - Distinguish Civil Registration from India's Sample Registration System (SRS)
+- Calculate the Crude Birth Rate and Crude Death Rate, and explain why they are "crude"
 - Define life expectancy at birth, IMR, and MMR
 - Break down the DALY formula into its YLL and YLD components
 - Distinguish DALYs from QALYs
@@ -65,6 +66,27 @@ defined back in the Demography chapter.
 is incomplete, SRS provides India's most reliable source of birth/death
 rate estimates — it has served as the standard data source for India's
 mortality indicators since the late 1960s.
+
+---
+
+## Crude Birth Rate and Crude Death Rate {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The most basic vital statistics rates, both drawn from the CRS/SRS
+sources above, and the starting point before the more specific mortality
+indicators that follow:
+
+`Crude Birth Rate (CBR) = (Live births in a year / Mid-year population) × 1,000`
+
+`Crude Death Rate (CDR) = (Deaths in a year / Mid-year population) × 1,000`
+
+**Why "crude":** both rates use the **total** population as the
+denominator, without adjusting for age structure — a population with
+more elderly people will show a higher CDR even with identical
+age-specific mortality, which is exactly why more specific indicators
+(IMR, MMR, age-specific rates) are needed alongside these crude
+measures, not instead of them.
 
 ---
 
@@ -284,6 +306,23 @@ Which statement correctly distinguishes DALYs from QALYs?
 - [DALYs measure healthy years lost using standardized weights; QALYs measure years gained in good health using preference-based weights]{.correct data-explanation="DALYs (burden, standardized disability weights) and QALYs (benefit gained, preference-based weights) are conceptual mirror images used for different purposes -- population burden vs. treatment cost-effectiveness."}
 - QALYs are used only for infectious disease
 - DALYs cannot be used for non-fatal conditions
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Crude Birth Rate and Crude Death Rate are called "crude" because they:
+
+- Are calculated only from hospital records
+- [Use the total population as the denominator, without adjusting for age structure]{.correct data-explanation="CBR and CDR divide by the total mid-year population without accounting for age distribution, so a population with more elderly people shows a higher CDR even with identical age-specific mortality -- which is why more specific indicators like IMR and age-specific rates are also needed."}
+- Are estimated rather than measured directly
+- Apply only to rural populations
 :::
 
 ---

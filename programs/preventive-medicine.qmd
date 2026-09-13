@@ -29,6 +29,7 @@ revealjs-plugins:
 - Describe the WHO 2016 antenatal care model and its purpose
 - Define high-risk pregnancy and list its major risk factor categories
 - Explain the Under-Five Clinic concept and its symbolic triangle
+- Describe Essential Newborn Care and Kangaroo Mother Care
 - Apply the levels of prevention to child and elderly preventive care
 - Describe the WHO Decade of Healthy Ageing framework
 
@@ -97,6 +98,32 @@ five.
 - **Right side** — immunization
 - **Central inner triangle** — family planning
 - **Border line** — health education for the mother
+
+---
+
+## Essential Newborn Care and Kangaroo Mother Care {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Between birth and the Under-Five Clinic's ongoing care lies the
+neonatal period — the highest-risk window in childhood, and the target
+of the Neonatal Mortality Rate defined in the Health Information
+chapter.
+
+- **Essential Newborn Care** — immediate drying and warming, delayed
+  cord clamping, early (within one hour) initiation of breastfeeding,
+  and eye/cord care — a simple bundle proven to reduce neonatal deaths
+- **Kangaroo Mother Care (KMC)** — continuous skin-to-skin contact
+  between mother and newborn, combined with exclusive breastfeeding;
+  particularly valuable for **low-birth-weight and preterm infants**
+  (recall the Nutrition chapter's coverage of low birth weight), where
+  it improves thermoregulation, breastfeeding success, and survival at
+  far lower cost than incubator care
+
+**Why this fits between antenatal and under-five care:** it is the
+preventive bridge connecting the WHO 8-contact antenatal model to the
+Under-Five Clinic — most neonatal deaths are preventable with this
+simple bundle, not advanced technology.
 
 ---
 
@@ -282,6 +309,24 @@ The WHO Decade of Healthy Ageing (2021-2030) is explicitly aligned with:
 
 ---
 
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+Kangaroo Mother Care is particularly valuable for which group of
+newborns?
+
+- Full-term infants only
+- [Low-birth-weight and preterm infants]{.correct data-explanation="KMC -- continuous skin-to-skin contact combined with exclusive breastfeeding -- is particularly effective for low-birth-weight and preterm infants, improving thermoregulation, breastfeeding success, and survival at far lower cost than incubator care."}
+- Infants born by caesarean section only
+- Infants of mothers with gestational diabetes only
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. World Health Organization (2016). *WHO Recommendations on Antenatal
@@ -292,6 +337,7 @@ The WHO Decade of Healthy Ageing (2021-2030) is explicitly aligned with:
    symbolic triangle model.
 4. World Health Organization (2020). *Decade of Healthy Ageing
    2021–2030*.
+5. World Health Organization. *Kangaroo Mother Care: A Practical Guide*.
 
 ---
 
