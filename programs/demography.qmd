@@ -29,6 +29,7 @@ revealjs-plugins:
 - Describe the four stages of the demographic transition model
 - Define and distinguish CBR, CDR, TFR, GRR, and NRR
 - Explain replacement-level fertility
+- Classify contraceptive methods as spacing or terminal
 - Trace the history of India's family planning programme, 1952 to present
 - State the goal of India's National Population Policy 2000
 - Apply the MTP Act's gestational-age thresholds and recognized indications
@@ -130,6 +131,37 @@ requirements of the national economy."
   Emergency period, the new government's population policy explicitly
   **ruled out compulsion**, making the programme purely **voluntary** —
   a landmark and lasting policy shift
+
+---
+
+## Contraceptive Methods: Spacing vs. Terminal {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India's family planning programme offers two broad categories of
+contraceptive method, chosen based on whether a couple wants to delay/
+space future births or end fertility permanently:
+
+- **Spacing methods (temporary, reversible):**
+  - **Barrier methods** — condoms, diaphragms
+  - **Intrauterine devices (IUDs)** — e.g. Cu-T, long-acting and
+    reversible
+  - **Hormonal methods** — oral contraceptive pills, injectables
+    (e.g. DMPA), implants
+  - **Natural methods** — rhythm/calendar method, lactational
+    amenorrhoea (least effective, no side effects)
+- **Terminal methods (permanent sterilization):**
+  - **Tubectomy (female sterilization)** — blocking the fallopian
+    tubes; the more commonly used terminal method in India
+  - **Vasectomy (male sterilization)** — blocking the vas deferens; a
+    simpler, lower-risk procedure than tubectomy, though historically
+    less utilized
+
+**Why the distinction matters for programme design:** spacing methods
+suit couples still completing their family size, while terminal methods
+suit those who have completed childbearing — India's programme offers
+both, reflecting the shift toward **voluntary, choice-based** family
+planning described on the next slide.
 
 ---
 
@@ -289,6 +321,24 @@ period, India's 1977 population policy shift was to:
 - [Rule out compulsion and make the programme purely voluntary]{.correct data-explanation="The 1977 policy shift explicitly ruled out compulsion, making participation in family planning voluntary — a lasting change to Indian population policy."}
 - End the family planning programme entirely
 - Transfer family planning to state governments only
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+A couple who has completed their desired family size and wants a
+permanent method would most likely choose:
+
+- Oral contraceptive pills
+- An intrauterine device (IUD)
+- [Tubectomy or vasectomy]{.correct data-explanation="Tubectomy and vasectomy are terminal (permanent) methods, suited to couples who have completed childbearing -- distinct from spacing methods like pills, IUDs, or condoms, which are temporary and reversible."}
+- The lactational amenorrhoea method
 :::
 
 ---

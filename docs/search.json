@@ -11124,7 +11124,7 @@
     "href": "programs/demography.html#home",
     "title": "Demography and Family Planning",
     "section": "Welcome",
-    "text": "Welcome\nDemography and Family Planning\nLearning Objectives:\n\nDescribe the four stages of the demographic transition model\nDefine and distinguish CBR, CDR, TFR, GRR, and NRR\nExplain replacement-level fertility\nTrace the history of India’s family planning programme, 1952 to present\nState the goal of India’s National Population Policy 2000\nApply the MTP Act’s gestational-age thresholds and recognized indications\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the demographic vocabulary that underlies population- level health planning, and traces India’s role as a pioneer in national family planning policy.",
+    "text": "Welcome\nDemography and Family Planning\nLearning Objectives:\n\nDescribe the four stages of the demographic transition model\nDefine and distinguish CBR, CDR, TFR, GRR, and NRR\nExplain replacement-level fertility\nClassify contraceptive methods as spacing or terminal\nTrace the history of India’s family planning programme, 1952 to present\nState the goal of India’s National Population Policy 2000\nApply the MTP Act’s gestational-age thresholds and recognized indications\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the demographic vocabulary that underlies population- level health planning, and traces India’s role as a pioneer in national family planning policy.",
     "crumbs": [
       "Contents",
       "Health Programs & Populations",
@@ -12458,6 +12458,30 @@
       "Contents",
       "Health Information, Education & Global Perspectives",
       "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#contraceptive-methods-spacing-vs.-terminal",
+    "href": "programs/demography.html#contraceptive-methods-spacing-vs.-terminal",
+    "title": "Demography and Family Planning",
+    "section": "Contraceptive Methods: Spacing vs. Terminal",
+    "text": "Contraceptive Methods: Spacing vs. Terminal\n🟢 MUST KNOW\nIndia’s family planning programme offers two broad categories of contraceptive method, chosen based on whether a couple wants to delay/ space future births or end fertility permanently:\n\nSpacing methods (temporary, reversible):\n\nBarrier methods — condoms, diaphragms\nIntrauterine devices (IUDs) — e.g. Cu-T, long-acting and reversible\nHormonal methods — oral contraceptive pills, injectables (e.g. DMPA), implants\nNatural methods — rhythm/calendar method, lactational amenorrhoea (least effective, no side effects)\n\nTerminal methods (permanent sterilization):\n\nTubectomy (female sterilization) — blocking the fallopian tubes; the more commonly used terminal method in India\nVasectomy (male sterilization) — blocking the vas deferens; a simpler, lower-risk procedure than tubectomy, though historically less utilized\n\n\nWhy the distinction matters for programme design: spacing methods suit couples still completing their family size, while terminal methods suit those who have completed childbearing — India’s programme offers both, reflecting the shift toward voluntary, choice-based family planning described on the next slide.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
+    ]
+  },
+  {
+    "objectID": "programs/demography.html#self-check-question-6",
+    "href": "programs/demography.html#self-check-question-6",
+    "title": "Demography and Family Planning",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nA couple who has completed their desired family size and wants a permanent method would most likely choose:\n\nOral contraceptive pills\nAn intrauterine device (IUD)\nTubectomy or vasectomy\nThe lactational amenorrhoea method",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Demography and Family Planning"
     ]
   }
 ]
