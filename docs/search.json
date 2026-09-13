@@ -1049,7 +1049,7 @@
     "href": "global/health-planning.html#home",
     "title": "Health Planning and Management",
     "section": "Welcome",
-    "text": "Welcome\nHealth Planning and Management\nLearning Objectives:\n\nDescribe the steps of the health planning cycle\nExplain the criteria used for setting health priorities\nTrace the role of India’s Five-Year Plans in health sector development, and the transition to NITI Aayog\nList Gulick’s seven POSDCORB management functions\nApply the planning cycle to a national health programme example\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter is the operational/administrative counterpart to earlier programme-content chapters (11-15) — it explains how such programmes are planned and managed, not what they contain.",
+    "text": "Welcome\nHealth Planning and Management\nLearning Objectives:\n\nDescribe the steps of the health planning cycle\nExplain the criteria used for setting health priorities\nDistinguish monitoring from evaluation within the planning cycle\nTrace the role of India’s Five-Year Plans in health sector development, and the transition to NITI Aayog\nList Gulick’s seven POSDCORB management functions\nApply the planning cycle to a national health programme example\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter is the operational/administrative counterpart to earlier programme-content chapters (11-15) — it explains how such programmes are planned and managed, not what they contain.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -1229,7 +1229,7 @@
     "href": "global/health-education.html#home",
     "title": "Communication for Health Education",
     "section": "Welcome",
-    "text": "Welcome\nCommunication for Health Education\nLearning Objectives:\n\nDescribe the basic sender-message-channel-receiver-feedback communication model\nDistinguish IEC from BCC\nList and apply the six components of the Health Belief Model\nCompare individual, group, and mass approaches to health education\nExplain why one-way information provision is often insufficient for behaviour change\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter is the theory behind why health messaging (immunization uptake, sanitation behaviour, NCD risk-factor reduction) succeeds or fails, connecting back to nearly every earlier chapter’s programmes.",
+    "text": "Welcome\nCommunication for Health Education\nLearning Objectives:\n\nDescribe the basic sender-message-channel-receiver-feedback communication model\nDistinguish IEC from BCC\nList and apply the six components of the Health Belief Model\nCompare individual, group, and mass approaches to health education\nClassify audio, visual, and traditional/folk media used to deliver health messages\nExplain why one-way information provision is often insufficient for behaviour change\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter is the theory behind why health messaging (immunization uptake, sanitation behaviour, NCD risk-factor reduction) succeeds or fails, connecting back to nearly every earlier chapter’s programmes.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -4109,7 +4109,7 @@
     "href": "environment/env_health/radiation_health.html#home",
     "title": "Chapter 4: Radiation and Noise",
     "section": "Welcome",
-    "text": "Welcome\nRadiation and Noise\nLearning Objectives:\n\nDistinguish ionizing from non-ionizing radiation\nIdentify natural and man-made sources of radiation exposure\nDescribe radiation units and biological effects by dose\nApply the principles of radiation protection\nDefine noise, its properties, and its auditory and non-auditory effects\nOutline strategies for noise control\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nFinal sub-chapter of the Environment section’s four-part sequence (Water → Air → Light → Radiation). Noise is included alongside radiation since both are physical environmental hazards not covered elsewhere in the curriculum, and the source material treats them together.",
+    "text": "Welcome\nRadiation and Noise\nLearning Objectives:\n\nDistinguish ionizing from non-ionizing radiation\nIdentify natural and man-made sources of radiation exposure\nDescribe radiation units and biological effects by dose\nApply the principles of radiation protection, including ALARA\nDefine noise, its properties, and its auditory and non-auditory effects\nOutline strategies for noise control\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nFinal sub-chapter of the Environment section’s four-part sequence (Water → Air → Light → Radiation). Noise is included alongside radiation since both are physical environmental hazards not covered elsewhere in the curriculum, and the source material treats them together.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -11328,7 +11328,7 @@
     "href": "programs/mdg-sdg.html#home",
     "title": "Millennium Development Goals to Sustainable Development Goals",
     "section": "Welcome",
-    "text": "Welcome\nMillennium Development Goals to Sustainable Development Goals\nLearning Objectives:\n\nList the 8 Millennium Development Goals and identify the three explicitly health-focused ones\nState the key SDG 3 health targets\nExplain why the global development agenda moved from MDGs to SDGs\nDistinguish the scope and design philosophy of the two frameworks\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nChapter 1 already placed “Health for All” on the MDG-&gt;SDG timeline, and Chapter 7 already introduced SDG 3.4 in the NCD context. This chapter gives the full picture both of those referenced without repeating either.",
+    "text": "Welcome\nMillennium Development Goals to Sustainable Development Goals\nLearning Objectives:\n\nList the 8 Millennium Development Goals and identify the three explicitly health-focused ones\nState the key SDG 3 health targets\nExplain why the global development agenda moved from MDGs to SDGs\nIdentify SDGs beyond SDG 3 that directly determine health outcomes\nDistinguish the scope and design philosophy of the two frameworks\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nChapter 1 already placed “Health for All” on the MDG-&gt;SDG timeline, and Chapter 7 already introduced SDG 3.4 in the NCD context. This chapter gives the full picture both of those referenced without repeating either.",
     "crumbs": [
       "Contents",
       "Health Programs & Populations",
@@ -11520,7 +11520,7 @@
     "href": "programs/tribal-health.html#home",
     "title": "Tribal Health in India",
     "section": "Welcome",
-    "text": "Welcome\nTribal Health in India\nLearning Objectives:\n\nDescribe the major health determinants specific to India’s Scheduled Tribes\nState the burden of sickle cell disease among tribal populations\nExplain the National Sickle Cell Anaemia Elimination Mission’s goals\nSummarize the Expert Committee on Tribal Health’s key findings\nIdentify the structural healthcare-access barriers unique to tribal areas\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter closes Phase 3 by applying the social-determinants and double-burden-of-disease concepts from earlier chapters to a specific, policy-relevant Indian population group.",
+    "text": "Welcome\nTribal Health in India\nLearning Objectives:\n\nDescribe the major health determinants specific to India’s Scheduled Tribes\nState the burden of sickle cell disease among tribal populations\nExplain the autosomal recessive inheritance pattern behind sickle cell trait and disease\nExplain the National Sickle Cell Anaemia Elimination Mission’s goals\nSummarize the Expert Committee on Tribal Health’s key findings\nIdentify the structural healthcare-access barriers unique to tribal areas\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter closes Phase 3 by applying the social-determinants and double-burden-of-disease concepts from earlier chapters to a specific, policy-relevant Indian population group.",
     "crumbs": [
       "Contents",
       "Health Programs & Populations",
@@ -12168,6 +12168,128 @@
       "Contents",
       "Environment, Systems & Emergencies",
       "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "global/health-education.html#audio-visual-aids-in-health-education",
+    "href": "global/health-education.html#audio-visual-aids-in-health-education",
+    "title": "Communication for Health Education",
+    "section": "Audio-Visual Aids in Health Education",
+    "text": "Audio-Visual Aids in Health Education\n🟡 SHOULD KNOW\nWhatever the approach (individual/group/mass) or model (IEC/BCC), the message still needs a concrete medium — classified by which senses they engage:\n\nAudio aids — radio, audio cassettes/recordings; reach large audiences without requiring literacy\nVisual aids — posters, flip charts, flash cards, flannel graphs, charts and models; effective for concepts that are easier to show than describe\nAudio-visual aids — television, films, video, puppet shows; combine both channels, generally the most engaging but also most resource-intensive to produce\nTraditional/folk media — street theatre (nukkad natak), puppetry, folk songs; culturally embedded and trusted, especially effective for rural and low-literacy audiences where mass media may not penetrate as well\n\nWhy this matters alongside method choice: picking mass approach vs. individual counselling answers who is reached; choosing the aid answers how the message is actually delivered to that audience — a low-literacy rural audience is better served by folk media or visual aids than a printed pamphlet, regardless of which approach is chosen.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Communication for Health Education"
+    ]
+  },
+  {
+    "objectID": "global/health-education.html#self-check-question-5",
+    "href": "global/health-education.html#self-check-question-5",
+    "title": "Communication for Health Education",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nStreet theatre (nukkad natak) and folk songs as a health-education medium are especially valued because they are:\n\nFaster to produce than a poster\nCulturally embedded and trusted, reaching rural/low-literacy audiences mass media may not penetrate as well\nA substitute for the Health Belief Model\nOnly usable for mass approaches",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Communication for Health Education"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#monitoring-vs.-evaluation",
+    "href": "global/health-planning.html#monitoring-vs.-evaluation",
+    "title": "Health Planning and Management",
+    "section": "Monitoring vs. Evaluation",
+    "text": "Monitoring vs. Evaluation\n🟡 SHOULD KNOW\nThe planning cycle’s last two steps are often confused, but ask different questions and happen on different timescales:\n\n\n\n\n\n\n\n\n\nMonitoring\nEvaluation\n\n\n\n\nQuestion asked\n“Are we doing what we planned?”\n“Did it work?”\n\n\nTiming\nContinuous, throughout implementation\nPeriodic — mid-term or at completion\n\n\nPurpose\nTrack process indicators, enable timely correction\nJudge outcomes against objectives (efficiency, acceptance, adequacy)\n\n\nExample\nTracking monthly ASHA home-visit counts against target\nAssessing whether IMR actually fell in the target districts\n\n\n\nWhy the distinction matters: a programme can pass every monitoring checkpoint (activities completed on schedule) and still fail evaluation (no measurable health outcome improved) — process fidelity is not the same as impact.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "global/health-planning.html#self-check-question-5",
+    "href": "global/health-planning.html#self-check-question-5",
+    "title": "Health Planning and Management",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nA programme completes all its planned activities on schedule, but the target health outcome does not improve. This scenario illustrates that:\n\nMonitoring and evaluation always agree\nPassing monitoring checkpoints (process fidelity) does not guarantee a positive evaluation (impact)\nEvaluation should be skipped if monitoring looks good\nThe programme’s objectives were never defined",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Planning and Management"
+    ]
+  },
+  {
+    "objectID": "programs/mdg-sdg.html#health-beyond-sdg-3-interlinked-goals",
+    "href": "programs/mdg-sdg.html#health-beyond-sdg-3-interlinked-goals",
+    "title": "Millennium Development Goals to Sustainable Development Goals",
+    "section": "Health Beyond SDG 3: Interlinked Goals",
+    "text": "Health Beyond SDG 3: Interlinked Goals\n🟡 SHOULD KNOW\nHealth depends on more than SDG 3 alone — several other SDGs directly determine health outcomes, each connecting back to a chapter already covered in this course:\n\nSDG 1 (No Poverty) and SDG 2 (Zero Hunger) — poverty and malnutrition are upstream drivers of ill health (Chapter 9)\nSDG 4 (Quality Education) — maternal education is one of the strongest predictors of child survival and health-seeking behaviour\nSDG 5 (Gender Equality) — directly shapes access to reproductive health services and maternal health outcomes (Chapter 14)\nSDG 6 (Clean Water and Sanitation) — safe water and sanitation underlie faeco-oral disease control (Chapters 6, 16)\nSDG 13 (Climate Action) — climate change increasingly affects vector-borne disease patterns and environmental health (Chapter 16)\n\nWhy this matters: it is the concrete version of the “interlocking sectors” point made on the previous slide — SDG 3 alone cannot achieve its own targets without progress on these other goals, which is exactly the intersectoral logic the SDGs were designed around.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Millennium Development Goals to Sustainable Development Goals"
+    ]
+  },
+  {
+    "objectID": "programs/mdg-sdg.html#self-check-question-6",
+    "href": "programs/mdg-sdg.html#self-check-question-6",
+    "title": "Millennium Development Goals to Sustainable Development Goals",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nWhich SDG most directly underlies the faeco-oral disease control measures covered in the Communicable Diseases chapter?\n\nSDG 4 (Quality Education)\nSDG 6 (Clean Water and Sanitation)\nSDG 13 (Climate Action)\nSDG 1 (No Poverty)",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Millennium Development Goals to Sustainable Development Goals"
+    ]
+  },
+  {
+    "objectID": "programs/tribal-health.html#sickle-cell-disease-genetics-basics",
+    "href": "programs/tribal-health.html#sickle-cell-disease-genetics-basics",
+    "title": "Tribal Health in India",
+    "section": "Sickle Cell Disease: Genetics Basics",
+    "text": "Sickle Cell Disease: Genetics Basics\n🟢 MUST KNOW\nUnderstanding why screening (rather than treatment alone) is the core strategy requires the basic inheritance pattern:\n\nAutosomal recessive inheritance — sickle cell disease results from inheriting the abnormal haemoglobin gene (HbS) from both parents\nSickle cell trait (HbAS) — one normal + one HbS gene; usually asymptomatic carriers, but can pass the gene to offspring\nSickle cell disease (HbSS) — two HbS genes; symptomatic disease with chronic haemolytic anaemia, painful vaso-occlusive crises, and increased infection susceptibility\nG6PD deficiency — a separate genetic condition also concentrated in some tribal populations; relevant here because it is a contraindication to primaquine, the antimalarial drug covered in the Malaria module, due to haemolysis risk\n\nWhy this matters for screening design: because carrier (HbAS) status is detectable but asymptomatic, population screening — not symptom-based case-finding — is the only way to identify at-risk couples before disease occurs in their children, which is exactly what NSCAEM’s universal screening approach targets.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Tribal Health in India"
+    ]
+  },
+  {
+    "objectID": "programs/tribal-health.html#self-check-question-5",
+    "href": "programs/tribal-health.html#self-check-question-5",
+    "title": "Tribal Health in India",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nA person who inherits one normal haemoglobin gene and one HbS gene, and is usually asymptomatic but can pass the gene to offspring, has:\n\nSickle cell disease (HbSS)\nSickle cell trait (HbAS)\nG6PD deficiency\nThalassemia major",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Tribal Health in India"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/radiation_health.html#alara-time-distance-and-shielding",
+    "href": "environment/env_health/radiation_health.html#alara-time-distance-and-shielding",
+    "title": "Chapter 4: Radiation and Noise",
+    "section": "ALARA: Time, Distance, and Shielding",
+    "text": "ALARA: Time, Distance, and Shielding\n🟡 SHOULD KNOW\nRadiation protection in practice is organized around three controllable factors, together following the ALARA principle (“As Low As Reasonably Achievable”) — exposure should always be minimized, even when it is below the permissible dose limit:\n\nTime — minimize time spent near a radiation source; exposure is directly proportional to duration\nDistance — exposure falls off with the inverse square of distance, so even a small increase in distance from the source substantially reduces dose\nShielding — material (e.g. the lead aprons already mentioned) placed between the source and the person absorbs radiation before it reaches them\n\nWhy ALARA matters as a principle, not just a limit: the 5 rad/year permissible dose is a ceiling, not a target — ALARA pushes practice to minimize exposure well below that ceiling whenever reasonably possible, the same logic used elsewhere in this course for “no safe threshold” exposures.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Radiation and Noise"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/radiation_health.html#self-check-question-5",
+    "href": "environment/env_health/radiation_health.html#self-check-question-5",
+    "title": "Chapter 4: Radiation and Noise",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nUnder the ALARA principle, radiation exposure falls off with which relationship to distance from the source?\n\nDirectly proportional to distance\nNo relationship to distance\nInverse square of distance\nDirectly proportional to the square of distance",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Radiation and Noise"
     ]
   }
 ]

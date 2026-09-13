@@ -30,6 +30,7 @@ revealjs-plugins:
 - Distinguish IEC from BCC
 - List and apply the six components of the Health Belief Model
 - Compare individual, group, and mass approaches to health education
+- Classify audio, visual, and traditional/folk media used to deliver health messages
 - Explain why one-way information provision is often insufficient for behaviour change
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
@@ -123,6 +124,35 @@ different reach and depth trade-offs:
 **No single method suits every goal** — awareness campaigns favour mass
 approaches; sustained behaviour change (BCC) usually needs individual or
 group-level engagement as well.
+
+---
+
+## Audio-Visual Aids in Health Education {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Whatever the approach (individual/group/mass) or model (IEC/BCC), the
+message still needs a concrete medium — classified by which senses they
+engage:
+
+- **Audio aids** — radio, audio cassettes/recordings; reach large
+  audiences without requiring literacy
+- **Visual aids** — posters, flip charts, flash cards, flannel graphs,
+  charts and models; effective for concepts that are easier to show than
+  describe
+- **Audio-visual aids** — television, films, video, puppet shows; combine
+  both channels, generally the most engaging but also most
+  resource-intensive to produce
+- **Traditional/folk media** — street theatre (nukkad natak), puppetry,
+  folk songs; culturally embedded and trusted, especially effective for
+  rural and low-literacy audiences where mass media may not penetrate as
+  well
+
+**Why this matters alongside method choice:** picking mass approach vs.
+individual counselling answers *who* is reached; choosing the aid
+answers *how* the message is actually delivered to that audience — a
+low-literacy rural audience is better served by folk media or visual
+aids than a printed pamphlet, regardless of which approach is chosen.
 
 ---
 
@@ -238,6 +268,24 @@ personalization?
 - Group demonstration
 - [Mass approach (radio, TV, social media)]{.correct data-explanation="Mass approaches maximize reach at the cost of personalization, the opposite trade-off from individual counselling."}
 - Home visits
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Street theatre (nukkad natak) and folk songs as a health-education
+medium are especially valued because they are:
+
+- Faster to produce than a poster
+- [Culturally embedded and trusted, reaching rural/low-literacy audiences mass media may not penetrate as well]{.correct data-explanation="Traditional/folk media leverage existing cultural trust and don't require literacy, making them effective where printed or broadcast mass media may have limited reach or credibility."}
+- A substitute for the Health Belief Model
+- Only usable for mass approaches
 :::
 
 ---
