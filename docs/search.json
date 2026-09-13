@@ -857,7 +857,7 @@
     "href": "global/international-health.html#home",
     "title": "International Health",
     "section": "Welcome",
-    "text": "Welcome\nInternational Health\nLearning Objectives:\n\nTrace the organizations that preceded WHO and what it inherited from them\nDescribe WHO’s governance structure and India’s regional office\nState the purpose and core capacities required under the International Health Regulations (2005)\nIdentify the roles of UNICEF, the World Bank, the Global Fund, and Gavi in global health\nName further UN and bilateral/philanthropic contributors to international health\nDefine global health security and health diplomacy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter closes the Global Perspectives section and the full 26-chapter curriculum, by zooming out from national programmes and systems (Chapters 11-25) to the international architecture they operate within.",
+    "text": "Welcome\nInternational Health\nLearning Objectives:\n\nTrace the organizations that preceded WHO and what it inherited from them\nDescribe WHO’s governance structure and India’s regional office\nState the purpose and core capacities required under the International Health Regulations (2005)\nExplain how and by whom a Public Health Emergency of International Concern (PHEIC) is declared\nIdentify the roles of UNICEF, the World Bank, the Global Fund, and Gavi in global health\nName further UN and bilateral/philanthropic contributors to international health\nDefine global health security and health diplomacy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter closes the Global Perspectives section and the full 26-chapter curriculum, by zooming out from national programmes and systems (Chapters 11-25) to the international architecture they operate within.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -1397,7 +1397,7 @@
     "href": "global/aetcom.html#home",
     "title": "Chapter 27: AETCOM",
     "section": "Welcome",
-    "text": "Welcome\nAETCOM: Attitude, Ethics, and Communication\nLearning Objectives:\n\nExplain why effective communication is a clinical skill, not a soft skill\nState and apply the four principles of biomedical ethics\nDescribe the elements of valid informed consent\nTrace the historical abuses that produced modern research ethics\nApply a structured framework to an ethical dilemma\nExplain why error disclosure is an ethical obligation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nAETCOM is a mandatory competency thread in the Indian MBBS curriculum, distinct from disease-specific chapters — it addresses how a doctor practises, not just what a doctor knows. This chapter closes the main curriculum before the closing Health Talks/Community IEC chapter.",
+    "text": "Welcome\nAETCOM: Attitude, Ethics, and Communication\nLearning Objectives:\n\nExplain why effective communication is a clinical skill, not a soft skill\nApply the SPIKES protocol for breaking bad news\nState and apply the four principles of biomedical ethics\nDescribe the elements of valid informed consent\nTrace the historical abuses that produced modern research ethics\nApply a structured framework to an ethical dilemma\nExplain why error disclosure is an ethical obligation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nAETCOM is a mandatory competency thread in the Indian MBBS curriculum, distinct from disease-specific chapters — it addresses how a doctor practises, not just what a doctor knows. This chapter closes the main curriculum before the closing Health Talks/Community IEC chapter.",
     "crumbs": [
       "Contents",
       "Professionalism & Communication",
@@ -1541,7 +1541,7 @@
     "href": "global/aetcom.html#references",
     "title": "Chapter 27: AETCOM",
     "section": "References",
-    "text": "References\n\nBeauchamp, T.L. and Childress, J.F. Principles of Biomedical Ethics — the four-principles framework.\nThe Nuremberg Code (1947); Declaration of Helsinki (1964, revised).\nThe Belmont Report (1979), US National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research.\nIndian Council of Medical Research (ICMR). National Ethical Guidelines for Biomedical and Health Research Involving Human Participants.\nMedical Council of India / National Medical Commission. AETCOM Competencies for the Indian Medical Graduate.",
+    "text": "References\n\nBeauchamp, T.L. and Childress, J.F. Principles of Biomedical Ethics — the four-principles framework.\nThe Nuremberg Code (1947); Declaration of Helsinki (1964, revised).\nThe Belmont Report (1979), US National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research.\nIndian Council of Medical Research (ICMR). National Ethical Guidelines for Biomedical and Health Research Involving Human Participants.\nMedical Council of India / National Medical Commission. AETCOM Competencies for the Indian Medical Graduate.\nBaile, W.F. et al. (2000). “SPIKES — A Six-Step Protocol for Delivering Bad News.” The Oncologist.",
     "crumbs": [
       "Contents",
       "Professionalism & Communication",
@@ -12362,6 +12362,54 @@
       "Contents",
       "Communicable & Non-Communicable Diseases",
       "Essential Medicines and Counterfeit Medicines"
+    ]
+  },
+  {
+    "objectID": "global/aetcom.html#breaking-bad-news-the-spikes-protocol",
+    "href": "global/aetcom.html#breaking-bad-news-the-spikes-protocol",
+    "title": "Chapter 27: AETCOM",
+    "section": "Breaking Bad News: The SPIKES Protocol",
+    "text": "Breaking Bad News: The SPIKES Protocol\n🟡 SHOULD KNOW\nCommunicating a serious diagnosis or poor prognosis is one of the most difficult communication tasks in medicine — the SPIKES protocol structures it into six steps:\n\nS — Setting: private space, adequate time, sitting down, no interruptions\nP — Perception: ask what the patient already understands before telling them anything\nI — Invitation: ask how much detail they want to know, respecting that this varies by individual\nK — Knowledge: give the information in small chunks, plain language, warning (“I have some difficult news”) before the news itself\nE — Emotions: acknowledge and respond to the patient’s emotional reaction before moving on — silence and empathy, not immediately problem-solving\nS — Strategy/Summary: agree on concrete next steps together\n\nWhy this belongs alongside the communication principles above: SPIKES is patient-centred communication and active listening applied to the single highest-stakes conversation a clinician has — not a separate skill.",
+    "crumbs": [
+      "Contents",
+      "Professionalism & Communication",
+      "AETCOM: Attitude, Ethics and Communication"
+    ]
+  },
+  {
+    "objectID": "global/aetcom.html#self-check-question-4",
+    "href": "global/aetcom.html#self-check-question-4",
+    "title": "Chapter 27: AETCOM",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nIn the SPIKES protocol for breaking bad news, the “E” step (Emotions) involves:\n\nImmediately proposing a treatment plan\nAcknowledging and responding to the patient’s emotional reaction before moving forward\nEnding the conversation to give the patient privacy\nAsking the patient to sign a consent form",
+    "crumbs": [
+      "Contents",
+      "Professionalism & Communication",
+      "AETCOM: Attitude, Ethics and Communication"
+    ]
+  },
+  {
+    "objectID": "global/international-health.html#public-health-emergency-of-international-concern-pheic",
+    "href": "global/international-health.html#public-health-emergency-of-international-concern-pheic",
+    "title": "International Health",
+    "section": "Public Health Emergency of International Concern (PHEIC)",
+    "text": "Public Health Emergency of International Concern (PHEIC)\n🟡 SHOULD KNOW\nIHR (2005)’s core capacities above exist to support one specific, consequential mechanism: the PHEIC declaration.\n\nDefinition: an extraordinary event determined to constitute a public health risk to other states through international spread, and to potentially require a coordinated international response\nWho declares it: the WHO Director-General, based on advice from an Emergency Committee of independent experts convened under IHR\nEffect: triggers WHO Temporary Recommendations to member states (on travel, trade, surveillance) and mobilizes coordinated international response and funding\nExamples: H1N1 influenza (2009), Ebola in West Africa (2014) and DRC (2019), COVID-19 (2020), mpox (2022 and 2024)\n\nWhy this matters: PHEIC is the concrete trigger mechanism connecting IHR’s abstract legal framework to an actual global response — the outbreak-investigation and surveillance core capacities listed above are what a country needs before an event reaches PHEIC threshold, not only during one.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "International Health"
+    ]
+  },
+  {
+    "objectID": "global/international-health.html#self-check-question-5",
+    "href": "global/international-health.html#self-check-question-5",
+    "title": "International Health",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nA Public Health Emergency of International Concern (PHEIC) is formally declared by:\n\nThe United Nations Security Council\nThe affected country’s health ministry\nThe WHO Director-General, on advice from an Emergency Committee\nThe World Bank",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "International Health"
     ]
   }
 ]

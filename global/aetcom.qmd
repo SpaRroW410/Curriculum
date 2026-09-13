@@ -27,6 +27,7 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - Explain why effective communication is a clinical skill, not a soft skill
+- Apply the SPIKES protocol for breaking bad news
 - State and apply the four principles of biomedical ethics
 - Describe the elements of valid informed consent
 - Trace the historical abuses that produced modern research ethics
@@ -66,6 +67,35 @@ to diagnostic accuracy, treatment adherence, and patient satisfaction.
 **Why it matters:** poor communication is one of the most common
 sources of patient complaints and diagnostic error — not lack of
 medical knowledge.
+
+---
+
+## Breaking Bad News: The SPIKES Protocol {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Communicating a serious diagnosis or poor prognosis is one of the most
+difficult communication tasks in medicine — the **SPIKES** protocol
+structures it into six steps:
+
+- **S — Setting:** private space, adequate time, sitting down, no
+  interruptions
+- **P — Perception:** ask what the patient already understands before
+  telling them anything
+- **I — Invitation:** ask how much detail they want to know, respecting
+  that this varies by individual
+- **K — Knowledge:** give the information in small chunks, plain
+  language, warning ("I have some difficult news") before the news
+  itself
+- **E — Emotions:** acknowledge and respond to the patient's emotional
+  reaction before moving on — silence and empathy, not immediately
+  problem-solving
+- **S — Strategy/Summary:** agree on concrete next steps together
+
+**Why this belongs alongside the communication principles above:**
+SPIKES is patient-centred communication and active listening applied to
+the single highest-stakes conversation a clinician has — not a separate
+skill.
 
 ---
 
@@ -279,6 +309,24 @@ makes a minor error that causes no harm to the patient should:
 
 ---
 
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+In the SPIKES protocol for breaking bad news, the "E" step (Emotions)
+involves:
+
+- Immediately proposing a treatment plan
+- [Acknowledging and responding to the patient's emotional reaction before moving forward]{.correct data-explanation="The Emotions step calls for the clinician to recognize and respond to the patient's emotional reaction -- with empathy and silence where needed -- before moving on to next steps, rather than rushing straight to problem-solving."}
+- Ending the conversation to give the patient privacy
+- Asking the patient to sign a consent form
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. Beauchamp, T.L. and Childress, J.F. *Principles of Biomedical
@@ -291,6 +339,8 @@ makes a minor error that causes no harm to the patient should:
    Participants*.
 5. Medical Council of India / National Medical Commission. *AETCOM
    Competencies for the Indian Medical Graduate*.
+6. Baile, W.F. et al. (2000). "SPIKES — A Six-Step Protocol for
+   Delivering Bad News." *The Oncologist*.
 
 ---
 
