@@ -4935,7 +4935,7 @@
     "href": "diseases/ncd/module3_stroke.html#home",
     "title": "Module 3: Stroke",
     "section": "Welcome",
-    "text": "Welcome\nStroke\nLearning Objectives:\n\nDescribe the descriptive epidemiology of stroke\nIdentify major and other risk factors for stroke\nApply primary, secondary, and tertiary prevention to stroke\nExplain why stroke mortality has declined in some countries\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nStroke risk factors overlap heavily with coronary artery disease (CAD) and with hypertension (previous module) — this module emphasizes that overlap rather than treating stroke as an isolated condition.",
+    "text": "Welcome\nStroke\nLearning Objectives:\n\nDescribe the descriptive epidemiology of stroke\nDistinguish ischaemic from haemorrhagic stroke and explain why the distinction matters for treatment\nApply the FAST test for community-level stroke recognition\nIdentify major and other risk factors for stroke\nApply primary, secondary, and tertiary prevention to stroke\nExplain why stroke mortality has declined in some countries\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nStroke risk factors overlap heavily with coronary artery disease (CAD) and with hypertension (previous module) — this module emphasizes that overlap rather than treating stroke as an isolated condition.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -7099,7 +7099,7 @@
     "href": "diseases/ncd/module2_hypertension.html#home",
     "title": "Module 2: Hypertension",
     "section": "Welcome",
-    "text": "Welcome\nHypertension\nLearning Objectives:\n\nDescribe the global and Indian burden of hypertension\nDefine hypertension and classify it by severity\nIdentify risk factors for hypertension\nApply primary and secondary prevention to hypertension control\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nHypertension is both a disease in its own right and the single largest modifiable risk factor for stroke, covered next — the two modules are best read together.",
+    "text": "Welcome\nHypertension\nLearning Objectives:\n\nDescribe the global and Indian burden of hypertension\nDefine hypertension and classify it by severity\nDistinguish essential from secondary hypertension\nList the major target organs damaged by uncontrolled hypertension\nIdentify risk factors for hypertension\nApply primary, secondary, and tertiary prevention to hypertension control\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nHypertension is both a disease in its own right and the single largest modifiable risk factor for stroke, covered next — the two modules are best read together.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -7138,7 +7138,7 @@
     "href": "diseases/ncd/module2_hypertension.html#risk-factors-and-prevention",
     "title": "Module 2: Hypertension",
     "section": "Risk Factors and Prevention",
-    "text": "Risk Factors and Prevention\n🟡 SHOULD KNOW\nRisk factors: age, sex, genetic factors, ethnicity, obesity, high salt intake, alcohol use, physical inactivity, environmental stress.\n\nPrimary prevention — reduce population-wide incidence through low salt diet, regular exercise, stress reduction, and weight/BMI control\nSecondary prevention — early case detection (routine BP screening) plus antihypertensive drug therapy once diagnosed\n\nTreatment approach: lifestyle modification and stress management as the foundation, with antihypertensive medication (e.g. amlodipine, telmisartan, chlorthalidone — representative drug classes, not a prescribing guide) added for confirmed hypertension.",
+    "text": "Risk Factors and Prevention\n🟡 SHOULD KNOW\nRisk factors: age, sex, genetic factors, ethnicity, obesity, high salt intake, alcohol use, physical inactivity, environmental stress.\nApplying the three-level prevention framework (Chapter 2):\n\nPrimary prevention — reduce population-wide incidence through low salt diet, regular exercise, stress reduction, and weight/BMI control\nSecondary prevention — early case detection (routine BP screening, since most cases are asymptomatic) plus antihypertensive drug therapy once diagnosed\nTertiary prevention — in patients with established hypertension, preventing/limiting target-organ damage through sustained BP control, and managing complications (e.g. heart failure, CKD) once they occur\n\nTreatment approach: lifestyle modification and stress management as the foundation, with antihypertensive medication (e.g. amlodipine, telmisartan, chlorthalidone — representative drug classes, not a prescribing guide) added for confirmed hypertension.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -11693,6 +11693,149 @@
       "Contents",
       "Health Programs & Populations",
       "Tribal Health in India"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#classification-type-1-type-2-and-gestational",
+    "href": "diseases/ncd/module1_diabetes.html#classification-type-1-type-2-and-gestational",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Classification: Type 1, Type 2, and Gestational",
+    "text": "Classification: Type 1, Type 2, and Gestational\n🟢 MUST KNOW\n\nType 1 diabetes — autoimmune destruction of pancreatic beta cells, causing absolute insulin deficiency; typically presents in childhood/ young adulthood, requires insulin from diagnosis\nType 2 diabetes (majority of cases) — a combination of insulin resistance and relative (not absolute) insulin deficiency; strongly linked to obesity and lifestyle factors, usually presents in adulthood but rising in younger age groups\nGestational diabetes mellitus (GDM) — glucose intolerance first recognized during pregnancy; a risk factor for both future maternal type 2 diabetes and macrosomic birth, which is itself listed among the screening indications below\n\nWhy this classification matters for prevention: type 1 has no established primary prevention strategy (it is autoimmune, not lifestyle-driven), whereas type 2 is where population-level primary prevention (diet, physical activity) has real impact — this module’s prevention content applies principally to type 2.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#complications",
+    "href": "diseases/ncd/module1_diabetes.html#complications",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Complications",
+    "text": "Complications\n🟢 MUST KNOW\nDiabetes is dangerous largely because of its complications, split into two categories with very different time courses:\n\nAcute complications — diabetic ketoacidosis (DKA, mainly type 1: absolute insulin deficiency leads to fat breakdown and ketone production), hyperosmolar hyperglycaemic state (mainly type 2), and hypoglycaemia (usually a treatment complication rather than a disease complication itself)\nChronic complications, from sustained hyperglycaemia over years:\n\nMicrovascular — retinopathy (a leading cause of adult blindness), nephropathy (a leading cause of chronic kidney disease and dialysis need), neuropathy (loss of protective sensation, contributing to diabetic foot ulcers and amputation)\nMacrovascular — accelerated atherosclerosis leading to coronary artery disease, stroke, and peripheral vascular disease — the same endpoints covered in the hypertension and stroke modules, since diabetes, hypertension, and stroke share overlapping vascular pathology\n\n\nWhy this matters for management: the goals listed below (“prevention of acute/chronic complications”) are not abstract — the specific screening a diabetic patient needs (annual fundoscopy, renal function, foot examination) is defined directly by this complication list.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#self-check-question-4",
+    "href": "diseases/ncd/module1_diabetes.html#self-check-question-4",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nDiabetic ketoacidosis is an acute complication seen predominantly in which type of diabetes?\n\nType 2 diabetes, due to insulin resistance\nType 1 diabetes, due to absolute insulin deficiency\nGestational diabetes only\nIt occurs equally regardless of type",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module1_diabetes.html#self-check-question-5",
+    "href": "diseases/ncd/module1_diabetes.html#self-check-question-5",
+    "title": "Module 1: Diabetes Mellitus",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nDiabetic retinopathy, nephropathy, and neuropathy are grouped together as:\n\nMacrovascular complications\nAcute complications\nMicrovascular complications\nScreening indications only",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 1: Diabetes Mellitus"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#essential-vs.-secondary-hypertension",
+    "href": "diseases/ncd/module2_hypertension.html#essential-vs.-secondary-hypertension",
+    "title": "Module 2: Hypertension",
+    "section": "Essential vs. Secondary Hypertension",
+    "text": "Essential vs. Secondary Hypertension\n🟣 MAY KNOW\n\nEssential (primary) hypertension (~90–95% of cases) — no single identifiable cause; arises from a combination of genetic and lifestyle factors (see risk factors below)\nSecondary hypertension (~5–10% of cases) — a specific, identifiable underlying cause: renal disease (most common secondary cause), endocrine disorders, or coarctation of the aorta\n\nWhy this distinction matters clinically: secondary hypertension is suggested by early onset (young age), very severe or resistant BP readings, or sudden worsening of previously controlled hypertension — findings that should prompt a search for an underlying cause rather than simply escalating standard antihypertensive therapy.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#target-organ-damage",
+    "href": "diseases/ncd/module2_hypertension.html#target-organ-damage",
+    "title": "Module 2: Hypertension",
+    "section": "Target-Organ Damage",
+    "text": "Target-Organ Damage\n🟢 MUST KNOW\nUncontrolled hypertension is dangerous precisely because it silently damages multiple organs over years — this is why it is called the silent killer, beyond simply being asymptomatic:\n\n\n\n\n\n\n\nOrgan\nDamage\n\n\n\n\nHeart\nLeft ventricular hypertrophy, coronary artery disease, heart failure\n\n\nBrain\nStroke (ischaemic and haemorrhagic — see next module), cognitive decline\n\n\nKidney\nNephrosclerosis, progressive chronic kidney disease\n\n\nEyes\nHypertensive retinopathy — visible on fundoscopy, used clinically to grade chronicity/severity\n\n\nBlood vessels\nAccelerated atherosclerosis, aortic aneurysm\n\n\n\nWhy this table matters for prevention: it is the reason secondary prevention (early detection via BP screening) and tertiary prevention (controlling BP after diagnosis) are pursued so aggressively — the goal is not just controlling the number, but preventing this irreversible downstream organ damage.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#self-check-question-4",
+    "href": "diseases/ncd/module2_hypertension.html#self-check-question-4",
+    "title": "Module 2: Hypertension",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nThe most common identifiable cause of secondary hypertension is:\n\nCoarctation of the aorta\nRenal disease\nEndocrine tumours\nGenetic factors",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module2_hypertension.html#self-check-question-5",
+    "href": "diseases/ncd/module2_hypertension.html#self-check-question-5",
+    "title": "Module 2: Hypertension",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nSustained BP control in a patient already diagnosed with hypertension, aimed at preventing target-organ damage, is an example of:\n\nPrimary prevention\nSecondary prevention\nTertiary prevention\nHealth promotion",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 2: Hypertension"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#types-of-stroke",
+    "href": "diseases/ncd/module3_stroke.html#types-of-stroke",
+    "title": "Module 3: Stroke",
+    "section": "Types of Stroke",
+    "text": "Types of Stroke\n🟢 MUST KNOW\nStroke is not a single pathology — the two broad types share risk factors but differ in mechanism, and this distinction determines emergency management (e.g. thrombolysis is appropriate only in ischaemic stroke):\n\nIschaemic stroke (~85% of cases) — blood supply to part of the brain is blocked, most often by a thrombus (local clot, usually atherosclerotic) or an embolus (a clot travelling from elsewhere, classically the heart in atrial fibrillation)\nHaemorrhagic stroke (~15% of cases) — bleeding into or around brain tissue, split into:\n\nIntracerebral haemorrhage — bleeding directly into brain tissue, most strongly linked to poorly controlled hypertension\nSubarachnoid haemorrhage — bleeding into the space around the brain, classically from a ruptured berry aneurysm\n\n\nWhy the distinction matters for prevention: hypertension drives both types, but antiplatelet/anticoagulant therapy — a tertiary prevention tool for ischaemic stroke — would worsen a haemorrhagic stroke, which is why accurate early diagnosis (imaging) precedes any tertiary-level treatment decision.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#recognizing-a-stroke-the-fast-test",
+    "href": "diseases/ncd/module3_stroke.html#recognizing-a-stroke-the-fast-test",
+    "title": "Module 3: Stroke",
+    "section": "Recognizing a Stroke: The FAST Test",
+    "text": "Recognizing a Stroke: The FAST Test\n🟡 SHOULD KNOW\nBecause acute stroke treatment (thrombolysis) is highly time-sensitive, community-level recognition is itself a public health intervention — this is the population-education counterpart to Chapter 28’s health-talk skills, applied to stroke:\n\nF — Face: ask the person to smile; look for facial drooping on one side\nA — Arms: ask them to raise both arms; look for one arm drifting downward\nS — Speech: ask them to repeat a simple sentence; listen for slurred or strange speech\nT — Time: if any sign is present, note the time symptoms started and seek emergency care immediately — “time is brain”\n\nWhy this belongs in a prevention framework: rapid recognition and transport is what makes tertiary-level treatment (thrombolysis, rehabilitation) possible at all — a stroke unrecognized at home never reaches the acute care where outcomes are actually changed.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "diseases/ncd/module3_stroke.html#self-check-question-1a",
+    "href": "diseases/ncd/module3_stroke.html#self-check-question-1a",
+    "title": "Module 3: Stroke",
+    "section": "Self-Check: Question 1a",
+    "text": "Self-Check: Question 1a\n🧡 QUESTION\n\nQuestion 1a\nThrombolysis is an appropriate emergency treatment for which type of stroke?\n\nSubarachnoid haemorrhage\nIntracerebral haemorrhage\nIschaemic stroke\nAll types equally",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Non-Communicable Diseases",
+      "Module 3: Stroke"
     ]
   }
 ]

@@ -28,8 +28,11 @@ revealjs-plugins:
 
 - Describe the global and Indian burden of hypertension
 - Define hypertension and classify it by severity
+- Distinguish essential from secondary hypertension
+- List the major target organs damaged by uncontrolled hypertension
 - Identify risk factors for hypertension
-- Apply primary and secondary prevention to hypertension control
+- Apply primary, secondary, and tertiary prevention to hypertension
+  control
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -80,6 +83,49 @@ chest pain.
 
 ---
 
+## Essential vs. Secondary Hypertension {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Essential (primary) hypertension (~90–95% of cases)** — no single
+  identifiable cause; arises from a combination of genetic and
+  lifestyle factors (see risk factors below)
+- **Secondary hypertension (~5–10% of cases)** — a specific,
+  identifiable underlying cause: renal disease (most common secondary
+  cause), endocrine disorders, or coarctation of the aorta
+
+**Why this distinction matters clinically:** secondary hypertension is
+suggested by early onset (young age), very severe or resistant BP
+readings, or sudden worsening of previously controlled hypertension —
+findings that should prompt a search for an underlying cause rather
+than simply escalating standard antihypertensive therapy.
+
+---
+
+## Target-Organ Damage {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Uncontrolled hypertension is dangerous precisely because it silently
+damages multiple organs over years — this is *why* it is called the
+silent killer, beyond simply being asymptomatic:
+
+| Organ | Damage |
+|---|---|
+| **Heart** | Left ventricular hypertrophy, coronary artery disease, heart failure |
+| **Brain** | Stroke (ischaemic and haemorrhagic — see next module), cognitive decline |
+| **Kidney** | Nephrosclerosis, progressive chronic kidney disease |
+| **Eyes** | Hypertensive retinopathy — visible on fundoscopy, used clinically to grade chronicity/severity |
+| **Blood vessels** | Accelerated atherosclerosis, aortic aneurysm |
+
+**Why this table matters for prevention:** it is the reason secondary
+prevention (early detection via BP screening) and tertiary prevention
+(controlling BP after diagnosis) are pursued so aggressively — the goal
+is not just controlling the number, but preventing this irreversible
+downstream organ damage.
+
+---
+
 ## Risk Factors and Prevention {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -87,10 +133,16 @@ chest pain.
 **Risk factors:** age, sex, genetic factors, ethnicity, obesity, high
 salt intake, alcohol use, physical inactivity, environmental stress.
 
+Applying the three-level prevention framework (Chapter 2):
+
 - **Primary prevention** — reduce population-wide incidence through low
   salt diet, regular exercise, stress reduction, and weight/BMI control
-- **Secondary prevention** — early case detection (routine BP screening)
-  plus antihypertensive drug therapy once diagnosed
+- **Secondary prevention** — early case detection (routine BP screening,
+  since most cases are asymptomatic) plus antihypertensive drug therapy
+  once diagnosed
+- **Tertiary prevention** — in patients with established hypertension,
+  preventing/limiting target-organ damage through sustained BP control,
+  and managing complications (e.g. heart failure, CKD) once they occur
 
 **Treatment approach:** lifestyle modification and stress management as
 the foundation, with antihypertensive medication (e.g. amlodipine,
@@ -147,6 +199,41 @@ example of:
 - Tertiary prevention
 - [Primary prevention]{.correct data-explanation="Reducing salt intake population-wide targets the risk factor before disease develops, the definition of primary prevention — distinct from secondary prevention (early detection) or tertiary (managing established disease)."}
 - Screening
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+The most common identifiable cause of secondary hypertension is:
+
+- Coarctation of the aorta
+- [Renal disease]{.correct data-explanation="Among the identifiable causes of secondary hypertension (renal disease, endocrine disorders, coarctation of the aorta), renal disease is the most common."}
+- Endocrine tumours
+- Genetic factors
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Sustained BP control in a patient already diagnosed with hypertension,
+aimed at preventing target-organ damage, is an example of:
+
+- Primary prevention
+- Secondary prevention
+- [Tertiary prevention]{.correct data-explanation="Once hypertension is established, ongoing control aimed at preventing or limiting complications (heart failure, CKD, stroke) is tertiary prevention -- distinct from primary (preventing the disease) or secondary (early detection)."}
+- Health promotion
 :::
 
 ---

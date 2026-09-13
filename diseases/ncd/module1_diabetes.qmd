@@ -64,6 +64,30 @@ priority NCDs targeted globally.
 
 ---
 
+## Classification: Type 1, Type 2, and Gestational {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Type 1 diabetes** — autoimmune destruction of pancreatic beta cells,
+  causing absolute insulin deficiency; typically presents in childhood/
+  young adulthood, requires insulin from diagnosis
+- **Type 2 diabetes (majority of cases)** — a combination of insulin
+  resistance and relative (not absolute) insulin deficiency; strongly
+  linked to obesity and lifestyle factors, usually presents in adulthood
+  but rising in younger age groups
+- **Gestational diabetes mellitus (GDM)** — glucose intolerance first
+  recognized during pregnancy; a risk factor for both future maternal
+  type 2 diabetes and macrosomic birth, which is itself listed among the
+  screening indications below
+
+**Why this classification matters for prevention:** type 1 has no
+established primary prevention strategy (it is autoimmune, not
+lifestyle-driven), whereas type 2 is where population-level primary
+prevention (diet, physical activity) has real impact — this module's
+prevention content applies principally to type 2.
+
+---
+
 ## Risk Factors {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -100,6 +124,37 @@ diabetes or macrosomic birth, cardiovascular disease.
 Re-screen normoglycaemic individuals every 3 years; prediabetic
 individuals annually. **OGTT** uses a 75 g glucose load, with fasting
 and 2-hour samples.
+
+---
+
+## Complications {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Diabetes is dangerous largely because of its complications, split into
+two categories with very different time courses:
+
+- **Acute complications** — diabetic ketoacidosis (DKA, mainly type 1:
+  absolute insulin deficiency leads to fat breakdown and ketone
+  production), hyperosmolar hyperglycaemic state (mainly type 2), and
+  hypoglycaemia (usually a treatment complication rather than a disease
+  complication itself)
+- **Chronic complications**, from sustained hyperglycaemia over years:
+  - **Microvascular** — retinopathy (a leading cause of adult
+    blindness), nephropathy (a leading cause of chronic kidney disease
+    and dialysis need), neuropathy (loss of protective sensation,
+    contributing to diabetic foot ulcers and amputation)
+  - **Macrovascular** — accelerated atherosclerosis leading to coronary
+    artery disease, stroke, and peripheral vascular disease — the same
+    endpoints covered in the hypertension and stroke modules, since
+    diabetes, hypertension, and stroke share overlapping vascular
+    pathology
+
+**Why this matters for management:** the goals listed below
+("prevention of acute/chronic complications") are not abstract — the
+specific screening a diabetic patient needs (annual fundoscopy, renal
+function, foot examination) is defined directly by this complication
+list.
 
 ---
 
@@ -177,6 +232,42 @@ on which first-line oral agent?
 - [Metformin (a biguanide)]{.correct data-explanation="Metformin is the drug of choice in obese type 2 diabetics — it reduces hepatic gluconeogenesis without causing weight gain or significant hypoglycaemia, unlike sulfonylureas."}
 - Insulin
 - Alpha-glucosidase inhibitor
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Diabetic ketoacidosis is an acute complication seen predominantly in
+which type of diabetes?
+
+- Type 2 diabetes, due to insulin resistance
+- [Type 1 diabetes, due to absolute insulin deficiency]{.correct data-explanation="DKA arises from absolute insulin deficiency driving fat breakdown and ketone production, which is characteristic of type 1 diabetes; type 2 more commonly presents acutely with hyperosmolar hyperglycaemic state."}
+- Gestational diabetes only
+- It occurs equally regardless of type
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Diabetic retinopathy, nephropathy, and neuropathy are grouped together
+as:
+
+- Macrovascular complications
+- Acute complications
+- [Microvascular complications]{.correct data-explanation="Retinopathy, nephropathy, and neuropathy result from small-vessel (microvascular) damage from sustained hyperglycaemia, distinct from macrovascular complications like coronary artery disease and stroke."}
+- Screening indications only
 :::
 
 ---

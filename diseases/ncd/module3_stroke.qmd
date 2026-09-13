@@ -27,6 +27,9 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - Describe the descriptive epidemiology of stroke
+- Distinguish ischaemic from haemorrhagic stroke and explain why the
+  distinction matters for treatment
+- Apply the FAST test for community-level stroke recognition
 - Identify major and other risk factors for stroke
 - Apply primary, secondary, and tertiary prevention to stroke
 - Explain why stroke mortality has declined in some countries
@@ -56,6 +59,59 @@ different risk factors than adult stroke.
 - **Time trend:** a striking decline in stroke mortality in many
   countries, attributed mainly to better hypertension control, secondary
   prevention after TIA, reduced smoking, and improved acute treatment
+
+---
+
+## Types of Stroke {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Stroke is not a single pathology — the two broad types share risk
+factors but differ in mechanism, and this distinction determines
+emergency management (e.g. thrombolysis is appropriate only in
+ischaemic stroke):
+
+- **Ischaemic stroke (~85% of cases)** — blood supply to part of the
+  brain is blocked, most often by a **thrombus** (local clot, usually
+  atherosclerotic) or an **embolus** (a clot travelling from elsewhere,
+  classically the heart in atrial fibrillation)
+- **Haemorrhagic stroke (~15% of cases)** — bleeding into or around
+  brain tissue, split into:
+  - **Intracerebral haemorrhage** — bleeding directly into brain
+    tissue, most strongly linked to poorly controlled hypertension
+  - **Subarachnoid haemorrhage** — bleeding into the space around the
+    brain, classically from a ruptured berry aneurysm
+
+**Why the distinction matters for prevention:** hypertension drives
+both types, but antiplatelet/anticoagulant therapy — a tertiary
+prevention tool for ischaemic stroke — would worsen a haemorrhagic
+stroke, which is why accurate early diagnosis (imaging) precedes any
+tertiary-level treatment decision.
+
+---
+
+## Recognizing a Stroke: The FAST Test {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Because acute stroke treatment (thrombolysis) is highly time-sensitive,
+community-level recognition is itself a public health intervention —
+this is the population-education counterpart to Chapter 28's health-talk
+skills, applied to stroke:
+
+- **F — Face:** ask the person to smile; look for facial drooping on
+  one side
+- **A — Arms:** ask them to raise both arms; look for one arm drifting
+  downward
+- **S — Speech:** ask them to repeat a simple sentence; listen for
+  slurred or strange speech
+- **T — Time:** if any sign is present, note the time symptoms started
+  and seek emergency care immediately — "time is brain"
+
+**Why this belongs in a prevention framework:** rapid recognition and
+transport is what makes tertiary-level treatment (thrombolysis,
+rehabilitation) possible at all — a stroke unrecognized at home never
+reaches the acute care where outcomes are actually changed.
 
 ---
 
@@ -110,6 +166,24 @@ The single most important risk factor for stroke is:
 - [Hypertension]{.correct data-explanation="Hypertension is identified as the major risk factor for stroke, which is why stroke prevention strategy places such heavy emphasis on blood pressure control."}
 - Polycythaemia
 - Oral contraceptive use
+:::
+
+---
+
+## Self-Check: Question 1a {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1a
+
+Thrombolysis is an appropriate emergency treatment for which type of
+stroke?
+
+- Subarachnoid haemorrhage
+- Intracerebral haemorrhage
+- [Ischaemic stroke]{.correct data-explanation="Thrombolysis dissolves a clot blocking a vessel, which is appropriate only for ischaemic stroke (~85% of cases); giving it in a haemorrhagic stroke would worsen the bleeding, which is why imaging to distinguish the two precedes any treatment decision."}
+- All types equally
 :::
 
 ---
