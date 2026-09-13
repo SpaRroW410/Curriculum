@@ -2141,7 +2141,7 @@
     "href": "environment/waste-management.html#home",
     "title": "Hospital Waste Management",
     "section": "Welcome",
-    "text": "Welcome\nHospital Waste Management\nLearning Objectives:\n\nState the four colour-coded categories under India’s Biomedical Waste Management Rules, 2016\nExplain why segregation at the point of generation is the critical first step\nCompare autoclaving and incineration as treatment methods\nIdentify which waste types must NOT be autoclaved\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter opens the remaining Environment section stubs, connecting back to Chapter 6’s chain of infection (improperly managed biomedical waste is itself a potential mode of transmission).",
+    "text": "Welcome\nHospital Waste Management\nLearning Objectives:\n\nState the four colour-coded categories under India’s Biomedical Waste Management Rules, 2016\nExplain why segregation at the point of generation is the critical first step\nState what proportion of hospital waste is hazardous vs. general\nCompare autoclaving and incineration as treatment methods\nIdentify which waste types must NOT be autoclaved\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter opens the remaining Environment section stubs, connecting back to Chapter 6’s chain of infection (improperly managed biomedical waste is itself a potential mode of transmission).",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -7229,7 +7229,7 @@
     "href": "environment/disaster-management.html#home",
     "title": "Disaster Management",
     "section": "Welcome",
-    "text": "Welcome\nDisaster Management\nLearning Objectives:\n\nClassify disasters as natural vs. man-made, and internal vs. external\nDescribe the four phases of the disaster management cycle\nOutline India’s Disaster Management Act, 2005 and its authority structure\nApply the levels-of-prevention framework to disaster mitigation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter reuses the levels-of-prevention framework (Chapter 2) in a new context: mitigation and preparedness act before a disaster’s “pathogenesis,” while response and recovery act after.",
+    "text": "Welcome\nDisaster Management\nLearning Objectives:\n\nClassify disasters as natural vs. man-made, and internal vs. external\nDescribe the four phases of the disaster management cycle\nApply the four-colour mass-casualty triage system\nOutline India’s Disaster Management Act, 2005 and its authority structure\nApply the levels-of-prevention framework to disaster mitigation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter reuses the levels-of-prevention framework (Chapter 2) in a new context: mitigation and preparedness act before a disaster’s “pathogenesis,” while response and recovery act after.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -12096,6 +12096,78 @@
       "Communicable & Non-Communicable Diseases",
       "Selected Communicable Diseases",
       "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "environment/waste-management.html#how-much-hospital-waste-is-actually-hazardous",
+    "href": "environment/waste-management.html#how-much-hospital-waste-is-actually-hazardous",
+    "title": "Hospital Waste Management",
+    "section": "How Much Hospital Waste Is Actually Hazardous?",
+    "text": "How Much Hospital Waste Is Actually Hazardous?\n🟡 SHOULD KNOW\nA commonly tested fact that reframes the whole chapter: most hospital waste is not hazardous.\n\n~85% of waste generated in healthcare facilities is general, non-hazardous waste (comparable to domestic waste)\n~15% is hazardous — infectious, chemical, radioactive, or sharps waste requiring special handling\n\nWhy this matters: the colour-coding and segregation rules exist precisely to keep this smaller, genuinely hazardous fraction from contaminating the much larger general-waste stream — mixing the two, as the previous slide noted, forces the entire mixed batch to be treated as hazardous, at far greater cost and complexity.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Hospital Waste Management"
+    ]
+  },
+  {
+    "objectID": "environment/waste-management.html#storage-and-transport-requirements",
+    "href": "environment/waste-management.html#storage-and-transport-requirements",
+    "title": "Hospital Waste Management",
+    "section": "Storage and Transport Requirements",
+    "text": "Storage and Transport Requirements\n🟡 SHOULD KNOW\nSegregation at the point of generation (next slide) is only the first step — the Rules also specify how waste must move afterward:\n\nOn-site storage duration — biomedical waste must not be stored beyond 48 hours before treatment/disposal, to limit the time infectious material remains on the premises\nLabelling — bags/containers must carry the biohazard symbol, waste category, and date of generation\nTransport — dedicated, leak-proof, covered trolleys/vehicles, never shared with general waste or clean supplies, to prevent cross-contamination during movement within or beyond the facility",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Hospital Waste Management"
+    ]
+  },
+  {
+    "objectID": "environment/waste-management.html#self-check-question-5",
+    "href": "environment/waste-management.html#self-check-question-5",
+    "title": "Hospital Waste Management",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nApproximately what proportion of waste generated by a healthcare facility is hazardous, requiring special handling?\n\n~85%\n~50%\n~15%\n~100%",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Hospital Waste Management"
+    ]
+  },
+  {
+    "objectID": "environment/waste-management.html#self-check-question-6",
+    "href": "environment/waste-management.html#self-check-question-6",
+    "title": "Hospital Waste Management",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nUnder India’s Biomedical Waste Management Rules, generated biomedical waste must be treated or disposed of within:\n\n7 days\n24 hours\n48 hours\n1 week, if refrigerated",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Hospital Waste Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#mass-casualty-triage",
+    "href": "environment/disaster-management.html#mass-casualty-triage",
+    "title": "Disaster Management",
+    "section": "Mass-Casualty Triage",
+    "text": "Mass-Casualty Triage\n🟢 MUST KNOW\nWhen casualties exceed available resources, triage sorts patients by urgency rather than order of arrival — the disaster-medicine counterpart to the “mass-casualty triage training” mentioned as a preparedness activity above. The standard four-colour system:\n\n\n\n\n\n\n\n\nColour\nCategory\nMeaning\n\n\n\n\nRed\nImmediate\nLife-threatening but survivable with immediate intervention\n\n\nYellow\nDelayed\nSerious injury, but can safely wait for treatment\n\n\nGreen\nMinor (“walking wounded”)\nMinor injuries, can wait or self-care\n\n\nBlack\nExpectant/deceased\nDeceased, or injuries incompatible with survival given available resources\n\n\n\nWhy this reverses everyday clinical priority: in routine care, the most critically injured patient always gets treated first regardless of resource cost; in mass-casualty triage, resources are deliberately directed toward the red category rather than the most severely injured (black) — because the goal shifts from maximizing outcome for one patient to maximizing survivors overall.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
+    ]
+  },
+  {
+    "objectID": "environment/disaster-management.html#self-check-question-5",
+    "href": "environment/disaster-management.html#self-check-question-5",
+    "title": "Disaster Management",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nIn mass-casualty triage, a patient with life-threatening but survivable injuries requiring immediate intervention is categorized as:\n\nGreen\nBlack\nYellow\nRed",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Disaster Management"
     ]
   }
 ]
