@@ -29,6 +29,7 @@ revealjs-plugins:
 - Describe poliovirus, its reservoir, and modes of transmission
 - Classify the clinical spectrum of polio infection
 - Recognize the features of paralytic poliomyelitis
+- Distinguish post-polio syndrome from acute paralytic polio
 - Compare IPV and OPV — mechanism, advantages, and complications
 - Explain AFP surveillance and vaccine-derived poliovirus (VDPV)
 - Outline India's path to polio-free certification
@@ -95,6 +96,30 @@ the rest fall into three non-paralytic categories:
 
 **No specific treatment exists** — management is supportive: good
 nursing care and early physiotherapy to minimize residual disability.
+
+---
+
+## Post-Polio Syndrome {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+A distinct entity from the acute paralytic illness above — worth
+distinguishing because it can appear decades later:
+
+- **Post-polio syndrome (PPS)** — new muscle weakness, fatigue, and pain
+  developing **15–40 years after** apparent recovery from acute
+  paralytic polio, in muscles previously affected (or thought fully
+  recovered)
+- **Proposed mechanism:** gradual degeneration of overworked motor
+  neurons that had compensated for those originally destroyed by the
+  virus, not a reactivation or re-infection
+- **Management:** supportive — energy conservation, individualized
+  exercise, mobility aids — since, like acute polio, there is no
+  curative treatment
+
+**Why it matters going forward:** even after a country is certified
+polio-free, its polio survivors from the pre-eradication era remain a
+population with an ongoing, delayed clinical need.
 
 ---
 
@@ -206,6 +231,24 @@ The minimum surveillance sensitivity target for AFP case detection is:
 - [At least 1 non-polio AFP case per 100,000 children under 15 per year]{.correct data-explanation="This is the WHO benchmark used to confirm a surveillance system is sensitive enough to detect a true polio case if one occurred, even in polio-free settings."}
 - At least 1 case per 10,000 children under 5 per year
 - Zero AFP cases reported annually
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Post-polio syndrome, developing 15-40 years after acute paralytic
+polio, is best explained by:
+
+- Reactivation of latent poliovirus
+- Re-infection with a new poliovirus serotype
+- [Gradual degeneration of overworked motor neurons that had compensated for those originally destroyed]{.correct data-explanation="Post-polio syndrome is thought to result from the gradual failure of motor neurons that had been compensating for the ones destroyed during the original acute infection -- not reactivation or re-infection, since poliovirus is not known to persist latently."}
+- A vaccine complication in unimmunized adults
 :::
 
 ---

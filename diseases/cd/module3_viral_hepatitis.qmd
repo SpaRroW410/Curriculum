@@ -27,6 +27,7 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - Compare hepatitis A–E by transmission route, incubation, and chronicity
+- Describe the three-phase clinical course of acute viral hepatitis
 - Interpret the HBV serological marker panel (HBsAg, HBeAg, anti-HBs)
 - Describe hepatitis B prevention: vaccine, HBIG, and passive-active immunization
 - Recognize hepatitis C's shift to direct-acting antivirals
@@ -60,6 +61,51 @@ in pregnancy.
 become chronic; B, C, and D are blood-borne and can become chronic —
 this single distinction predicts most of what differs in prevention and
 prognosis below.
+
+---
+
+## Clinical Course of Acute Viral Hepatitis {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Regardless of which virus is responsible, acute viral hepatitis follows
+a shared three-phase clinical course:
+
+1. **Prodromal (pre-icteric) phase** — fever, malaise, anorexia, nausea,
+   and right upper quadrant discomfort, typically lasting several days
+   to two weeks; the patient is often most infectious during this phase,
+   before jaundice appears
+2. **Icteric phase** — jaundice develops as constitutional symptoms
+   begin to improve; dark urine and pale stools reflect impaired
+   bilirubin excretion
+3. **Convalescent phase** — jaundice and symptoms resolve gradually over
+   weeks; complete recovery is the rule in hepatitis A and E, while B, C,
+   and D may instead progress to chronic infection rather than resolving
+
+**Why this matters for control:** peak infectiousness in the
+symptom-free or pre-icteric phase (particularly relevant for hepatitis
+A) is exactly why faeco-oral hepatitis can spread silently before
+anyone recognizes an outbreak is underway.
+
+---
+
+## Hepatitis A: Prevention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Hepatitis A prevention mirrors the faeco-oral control measures already
+covered for typhoid and cholera (previous module), plus a specific
+vaccine:
+
+- **Non-specific measures** — safe water supply, sanitary excreta
+  disposal, food hygiene, and personal hand hygiene — the same
+  faeco-oral chain interruption used for typhoid/cholera
+- **Hepatitis A vaccine** — inactivated or live-attenuated, given to
+  travellers to endemic areas and increasingly included in some
+  national schedules; confers long-lasting immunity
+- **Passive immunization** — normal human immunoglobulin can be given
+  for post-exposure prophylaxis in close contacts, though largely
+  superseded by vaccination where available
 
 ---
 
@@ -191,6 +237,24 @@ fulminant, potentially fatal hepatitis from which virus?
 - Hepatitis C
 - [Hepatitis E]{.correct data-explanation="Hepatitis E carries a case-fatality rate of up to 20% in pregnant women in the third trimester — the highest severity risk among the five hepatitis viruses in this population."}
 - Hepatitis D
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+A patient with acute hepatitis is often most infectious during which
+phase, before jaundice is even visible?
+
+- Convalescent phase
+- [Prodromal (pre-icteric) phase]{.correct data-explanation="Infectiousness typically peaks during the prodromal phase, before jaundice appears — this silent-spread window is a key reason faeco-oral hepatitis outbreaks can be underway before they are recognized."}
+- Icteric phase only
+- Infectiousness is equal across all phases
 :::
 
 ---

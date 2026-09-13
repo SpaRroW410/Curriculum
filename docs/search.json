@@ -4577,7 +4577,7 @@
     "href": "environment/env_health/air_health.html#home",
     "title": "Chapter 2: Air and Health",
     "section": "Welcome",
-    "text": "Welcome\nAir and Health\nLearning Objectives:\n\nDescribe the physical and chemical changes in air in an occupied room\nExplain thermal comfort and how effective temperature is measured\nState ventilation standards (cubic space, air change, floor space)\nDistinguish natural from mechanical ventilation\nDescribe air conditioning’s role in health\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis is the second of the Environment section’s sub-chapters, filed after Water and Health (Chapter 1) — one of three chapters (Air/Light/Radiation) named in this section’s Chapter Listing but previously unwritten.",
+    "text": "Welcome\nAir and Health\nLearning Objectives:\n\nDescribe the physical and chemical changes in air in an occupied room\nExplain thermal comfort and how effective temperature is measured\nState ventilation standards (cubic space, air change, floor space)\nDistinguish natural from mechanical ventilation\nDescribe air conditioning’s role in health\nIdentify major outdoor air pollutants and their health effects\nDescribe how ambient air quality is monitored and controlled in India\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis is the second of the Environment section’s sub-chapters, filed after Water and Health (Chapter 1) — one of three chapters (Air/Light/Radiation) named in this section’s Chapter Listing but previously unwritten.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -4681,7 +4681,7 @@
     "href": "environment/env_health/air_health.html#references",
     "title": "Chapter 2: Air and Health",
     "section": "References",
-    "text": "References\n\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for air hygiene, thermal comfort, and ventilation standards.\nHoughton, F.C. and Yaglou, C.P. (1923). Effective Temperature Scale — American Society of Heating and Ventilation Engineers.",
+    "text": "References\n\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for air hygiene, thermal comfort, and ventilation standards.\nHoughton, F.C. and Yaglou, C.P. (1923). Effective Temperature Scale — American Society of Heating and Ventilation Engineers.\nCentral Pollution Control Board, India. National Ambient Air Quality Standards (NAAQS) and National Air Quality Index.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -5710,7 +5710,7 @@
     "href": "diseases/cd/module5_food_poisoning.html#home",
     "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
     "section": "Welcome",
-    "text": "Welcome\nFood Poisoning and Diarrhoeal Disease Control\nLearning Objectives:\n\nCompare the major bacterial causes of food poisoning\nCalculate ORS requirements and apply WHO rehydration guidelines\nDistinguish cholera from shigella diarrhoea clinically\nExplain the role of zinc supplementation in diarrhoea management\nIdentify key preventive strategies against diarrhoeal disease\nRecognize amoebiasis and soil-transmitted helminths as related enteric threats\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module closes the enteric-disease cluster (typhoid, cholera, hepatitis A/E, and now food poisoning) with the single most consequential intervention across all of them: oral rehydration therapy.",
+    "text": "Welcome\nFood Poisoning and Diarrhoeal Disease Control\nLearning Objectives:\n\nCompare the major bacterial causes of food poisoning\nClassify dehydration severity and match it to WHO Plan A/B/C\nCalculate ORS requirements and apply WHO rehydration guidelines\nDistinguish cholera from shigella diarrhoea clinically\nExplain the role of zinc supplementation in diarrhoea management\nIdentify key preventive strategies against diarrhoeal disease\nRecognize amoebiasis and soil-transmitted helminths as related enteric threats\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module closes the enteric-disease cluster (typhoid, cholera, hepatitis A/E, and now food poisoning) with the single most consequential intervention across all of them: oral rehydration therapy.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -5866,7 +5866,7 @@
     "href": "diseases/cd/module3_viral_hepatitis.html#home",
     "title": "Module 3: Viral Hepatitis",
     "section": "Welcome",
-    "text": "Welcome\nViral Hepatitis\nLearning Objectives:\n\nCompare hepatitis A–E by transmission route, incubation, and chronicity\nInterpret the HBV serological marker panel (HBsAg, HBeAg, anti-HBs)\nDescribe hepatitis B prevention: vaccine, HBIG, and passive-active immunization\nRecognize hepatitis C’s shift to direct-acting antivirals\nIdentify why hepatitis E is especially dangerous in pregnancy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nFive clinically distinct viruses cause “viral hepatitis” — this module organizes them by the single most useful axis for undergraduate exams: faeco-oral (A, E) vs. blood-borne/parenteral (B, C, D) transmission, since that axis predicts chronicity, prevention strategy, and severity in pregnancy.",
+    "text": "Welcome\nViral Hepatitis\nLearning Objectives:\n\nCompare hepatitis A–E by transmission route, incubation, and chronicity\nDescribe the three-phase clinical course of acute viral hepatitis\nInterpret the HBV serological marker panel (HBsAg, HBeAg, anti-HBs)\nDescribe hepatitis B prevention: vaccine, HBIG, and passive-active immunization\nRecognize hepatitis C’s shift to direct-acting antivirals\nIdentify why hepatitis E is especially dangerous in pregnancy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nFive clinically distinct viruses cause “viral hepatitis” — this module organizes them by the single most useful axis for undergraduate exams: faeco-oral (A, E) vs. blood-borne/parenteral (B, C, D) transmission, since that axis predicts chronicity, prevention strategy, and severity in pregnancy.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6009,7 +6009,7 @@
     "href": "diseases/cd/module1_malaria.html#home",
     "title": "Module 1: Malaria",
     "section": "Welcome",
-    "text": "Welcome\nMalaria\nLearning Objectives:\n\nIdentify the agent, vector, and reservoir of malaria\nDescribe the parasite life cycle in man and mosquito\nDistinguish the clinical types of malaria by species\nCompare methods of diagnosis and outline treatment by species\nState the key malariometric indicators used in surveillance\nDescribe India’s malaria control programme (NVBDCP) and strategy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module extends Chapter 6’s general communicable-disease principles (chain of infection, vector control) to malaria specifically — the first of several vector-borne and enteric diseases covered as dedicated modules.",
+    "text": "Welcome\nMalaria\nLearning Objectives:\n\nIdentify the agent, vector, and reservoir of malaria\nDescribe the parasite life cycle in man and mosquito\nDistinguish the clinical types of malaria by species\nRecognize the WHO danger signs defining severe/complicated malaria\nCompare methods of diagnosis and outline treatment by species\nState the key malariometric indicators used in surveillance\nDescribe India’s malaria control programme (NVBDCP) and strategy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module extends Chapter 6’s general communicable-disease principles (chain of infection, vector control) to malaria specifically — the first of several vector-borne and enteric diseases covered as dedicated modules.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6212,7 +6212,7 @@
     "href": "diseases/cd/module2_typhoid_cholera.html#home",
     "title": "Module 2: Typhoid Fever and Cholera",
     "section": "Welcome",
-    "text": "Welcome\nTyphoid Fever and Cholera\nLearning Objectives:\n\nIdentify the agent, reservoir, and carrier states of typhoid fever\nDescribe the clinical course, complications, and diagnosis of typhoid\nExplain the pathogenesis and clinical stages of cholera\nCompare oral and injectable typhoid vaccines\nOutline cholera outbreak control, including rehydration therapy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nBoth diseases share a faeco-oral transmission route and the same core control principles (safe water, sanitation, food hygiene) already introduced in Chapter 6 — this module focuses on what’s specific to each.",
+    "text": "Welcome\nTyphoid Fever and Cholera\nLearning Objectives:\n\nIdentify the agent, reservoir, and carrier states of typhoid fever\nDescribe the clinical course, complications, and diagnosis of typhoid\nExplain why extensively drug-resistant (XDR) typhoid strengthens the case for prevention\nExplain the pathogenesis and clinical stages of cholera\nCompare oral and injectable typhoid vaccines\nOutline cholera outbreak control, including rehydration therapy\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nBoth diseases share a faeco-oral transmission route and the same core control principles (safe water, sanitation, food hygiene) already introduced in Chapter 6 — this module focuses on what’s specific to each.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6368,7 +6368,7 @@
     "href": "diseases/cd/module4_poliomyelitis.html#home",
     "title": "Module 4: Poliomyelitis",
     "section": "Welcome",
-    "text": "Welcome\nPoliomyelitis\nLearning Objectives:\n\nDescribe poliovirus, its reservoir, and modes of transmission\nClassify the clinical spectrum of polio infection\nRecognize the features of paralytic poliomyelitis\nCompare IPV and OPV — mechanism, advantages, and complications\nExplain AFP surveillance and vaccine-derived poliovirus (VDPV)\nOutline India’s path to polio-free certification\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nPolio is a landmark eradication success story — India was certified polio-free in 2014 after being one of the last endemic reservoirs. This module pairs the biology with the surveillance/vaccination programme that achieved that result.",
+    "text": "Welcome\nPoliomyelitis\nLearning Objectives:\n\nDescribe poliovirus, its reservoir, and modes of transmission\nClassify the clinical spectrum of polio infection\nRecognize the features of paralytic poliomyelitis\nDistinguish post-polio syndrome from acute paralytic polio\nCompare IPV and OPV — mechanism, advantages, and complications\nExplain AFP surveillance and vaccine-derived poliovirus (VDPV)\nOutline India’s path to polio-free certification\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nPolio is a landmark eradication success story — India was certified polio-free in 2014 after being one of the last endemic reservoirs. This module pairs the biology with the surveillance/vaccination programme that achieved that result.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6524,7 +6524,7 @@
     "href": "diseases/cd/module6_hospital_acquired_infections.html#home",
     "title": "Module 6: Hospital-Acquired Infections",
     "section": "Welcome",
-    "text": "Welcome\nHospital-Acquired Infections\nLearning Objectives:\n\nDefine hospital-acquired (nosocomial) infection\nIdentify the four most common types of HAI\nDescribe the source, route of spread, and recipient framework\nList standard precautions and device-specific prevention measures\nDistinguish barrier nursing from task nursing\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module closes the disease-specific series by turning from community transmission to the healthcare setting itself — the same chain-of-infection framework from Chapter 6 applies, just with the hospital as the environment.",
+    "text": "Welcome\nHospital-Acquired Infections\nLearning Objectives:\n\nDefine hospital-acquired (nosocomial) infection\nIdentify the four most common types of HAI\nDescribe the source, route of spread, and recipient framework\nList standard precautions and device-specific prevention measures\nDistinguish barrier nursing from task nursing\nExplain why antimicrobial resistance and HAI are a linked problem\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module closes the disease-specific series by turning from community transmission to the healthcare setting itself — the same chain-of-infection framework from Chapter 6 applies, just with the hospital as the environment.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -7397,7 +7397,7 @@
     "href": "environment/env_health/light_health.html#home",
     "title": "Chapter 3: Light and Health",
     "section": "Welcome",
-    "text": "Welcome\nLight and Health\nLearning Objectives:\n\nList the qualities of good lighting for efficient, strain-free vision\nExplain the Daylight Factor and how it guides building design\nDistinguish direct, indirect, and semi-direct artificial lighting\nCompare filament and fluorescent lamps\nDescribe biological effects of light beyond vision\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThird of the Environment section’s sub-chapters — Air (Chapter 2) covered the thermal/ventilation environment; this one covers the visual environment.",
+    "text": "Welcome\nLight and Health\nLearning Objectives:\n\nList the qualities of good lighting for efficient, strain-free vision\nDescribe the health and safety effects of poor lighting\nExplain the Daylight Factor and how it guides building design\nDistinguish direct, indirect, and semi-direct artificial lighting\nCompare filament and fluorescent lamps\nDescribe biological effects of light beyond vision\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThird of the Environment section’s sub-chapters — Air (Chapter 2) covered the thermal/ventilation environment; this one covers the visual environment.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -11836,6 +11836,266 @@
       "Communicable & Non-Communicable Diseases",
       "Selected Non-Communicable Diseases",
       "Module 3: Stroke"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/light_health.html#effects-of-poor-lighting",
+    "href": "environment/env_health/light_health.html#effects-of-poor-lighting",
+    "title": "Chapter 3: Light and Health",
+    "section": "Effects of Poor Lighting",
+    "text": "Effects of Poor Lighting\n🟢 MUST KNOW\nLighting quality is not a comfort issue alone — it has measurable health and safety consequences, which is why the qualities above are specified so precisely:\n\nEye strain (asthenopia) — from insufficient illumination, glare, or flicker; presents as tired, aching, or watering eyes and headache with prolonged near work\nReduced visual acuity and accidents — glare and sharp shadows reduce the ability to judge distance and detail, raising the risk of occupational and traffic accidents\nReduced efficiency — both insufficient and excessive illumination reduce work output; there is an optimal range, not simply “more light is better”\nNystagmus — a specific occupational eye disorder (rapid involuntary eye movements) historically linked to prolonged work in poorly lit conditions, classically described in miners",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Light and Health"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/light_health.html#recommended-illumination-levels",
+    "href": "environment/env_health/light_health.html#recommended-illumination-levels",
+    "title": "Chapter 3: Light and Health",
+    "section": "Recommended Illumination Levels",
+    "text": "Recommended Illumination Levels\n🟡 SHOULD KNOW\nRequired illumination varies by the precision of the task — a single “sufficient” threshold does not apply everywhere:\n\n\n\nSetting/task\nApproximate illumination (foot-candles)\n\n\n\n\nStairways, corridors, storage\n~5\n\n\nGeneral living/working areas\n15–20 (accepted minimum)\n\n\nReading, classrooms, offices\n20–30\n\n\nFine assembly, precision industrial work\nup to 100\n\n\n\nWhy this table matters: it operationalizes “sufficiency” from the previous slide — a corridor and an operating table are not held to the same lighting standard, because the visual precision each task demands is different.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Light and Health"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/light_health.html#self-check-question-4",
+    "href": "environment/env_health/light_health.html#self-check-question-4",
+    "title": "Chapter 3: Light and Health",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nNystagmus as an occupational eye disorder is classically associated with:\n\nExcessive outdoor sunlight exposure\nProlonged work in poorly lit conditions, classically in miners\nUse of fluorescent lamps\nHigh Daylight Factor buildings",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Light and Health"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/air_health.html#outdoor-air-pollution-sources-and-pollutants",
+    "href": "environment/env_health/air_health.html#outdoor-air-pollution-sources-and-pollutants",
+    "title": "Chapter 2: Air and Health",
+    "section": "Outdoor Air Pollution: Sources and Pollutants",
+    "text": "Outdoor Air Pollution: Sources and Pollutants\n🟢 MUST KNOW\nThe chapter so far covers the indoor air environment; outdoor ambient air pollution is an equally central public health topic, with its own sources and monitored pollutants:\n\nSources: vehicular exhaust, industrial emissions, biomass/solid fuel burning (a major contributor in India, also linked to indoor air pollution in households using traditional chulhas), construction dust, and crop-residue burning\nCriteria pollutants monitored under India’s National Ambient Air Quality Standards (NAAQS):\n\nPM2.5 and PM10 — particulate matter; PM2.5 (≤2.5 micrometres) penetrates deepest into the respiratory tract and is most strongly linked to health effects\nSO₂ and NOx — from fuel combustion; contribute to respiratory irritation and, at ecosystem scale, acid rain\nCarbon monoxide (CO) — binds haemoglobin with much higher affinity than oxygen, reducing oxygen-carrying capacity\nGround-level ozone (O₃) — a secondary pollutant formed by sunlight acting on other pollutants, not emitted directly",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Air and Health"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/air_health.html#health-effects-and-control-of-air-pollution",
+    "href": "environment/env_health/air_health.html#health-effects-and-control-of-air-pollution",
+    "title": "Chapter 2: Air and Health",
+    "section": "Health Effects and Control of Air Pollution",
+    "text": "Health Effects and Control of Air Pollution\n🟡 SHOULD KNOW\nHealth effects, mirroring the exposure-response logic used throughout this course:\n\nRespiratory: aggravation of asthma and COPD, reduced lung function, increased respiratory infections — particularly in children and the elderly\nCardiovascular: fine particulate matter is linked to increased cardiovascular events, not only respiratory disease\nChronic exposure: long-term PM2.5 exposure is associated with reduced life expectancy at the population level, and is classified as a human carcinogen (lung cancer)\n\nMonitoring and control:\n\nAir Quality Index (AQI) — a single composite number derived from multiple pollutant concentrations, translated into categories (Good, Satisfactory, Moderate, Poor, Very Poor, Severe) for public communication — the outdoor-air counterpart to how DALYs (Chapter 21) translate complex data into one comparable number\nSource control — vehicular emission standards (e.g. Bharat Stage norms), industrial emission limits, promotion of cleaner household fuels (LPG) to reduce biomass burning",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Air and Health"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/air_health.html#self-check-question-4",
+    "href": "environment/env_health/air_health.html#self-check-question-4",
+    "title": "Chapter 2: Air and Health",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWhich particulate matter size fraction penetrates deepest into the respiratory tract and is most strongly linked to health effects?\n\nPM10\nPM2.5\nPM100\nTotal suspended particulates only",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Air and Health"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/air_health.html#self-check-question-5",
+    "href": "environment/env_health/air_health.html#self-check-question-5",
+    "title": "Chapter 2: Air and Health",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nThe Air Quality Index (AQI) serves which primary purpose?\n\nIt measures indoor CO2 levels\nIt translates multiple pollutant concentrations into a single composite number and category for public communication\nIt replaces the need for emission standards\nIt only applies to industrial zones",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Air and Health"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#clinical-course-of-acute-viral-hepatitis",
+    "href": "diseases/cd/module3_viral_hepatitis.html#clinical-course-of-acute-viral-hepatitis",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Clinical Course of Acute Viral Hepatitis",
+    "text": "Clinical Course of Acute Viral Hepatitis\n🟢 MUST KNOW\nRegardless of which virus is responsible, acute viral hepatitis follows a shared three-phase clinical course:\n\nProdromal (pre-icteric) phase — fever, malaise, anorexia, nausea, and right upper quadrant discomfort, typically lasting several days to two weeks; the patient is often most infectious during this phase, before jaundice appears\nIcteric phase — jaundice develops as constitutional symptoms begin to improve; dark urine and pale stools reflect impaired bilirubin excretion\nConvalescent phase — jaundice and symptoms resolve gradually over weeks; complete recovery is the rule in hepatitis A and E, while B, C, and D may instead progress to chronic infection rather than resolving\n\nWhy this matters for control: peak infectiousness in the symptom-free or pre-icteric phase (particularly relevant for hepatitis A) is exactly why faeco-oral hepatitis can spread silently before anyone recognizes an outbreak is underway.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#hepatitis-a-prevention",
+    "href": "diseases/cd/module3_viral_hepatitis.html#hepatitis-a-prevention",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Hepatitis A: Prevention",
+    "text": "Hepatitis A: Prevention\n🟡 SHOULD KNOW\nHepatitis A prevention mirrors the faeco-oral control measures already covered for typhoid and cholera (previous module), plus a specific vaccine:\n\nNon-specific measures — safe water supply, sanitary excreta disposal, food hygiene, and personal hand hygiene — the same faeco-oral chain interruption used for typhoid/cholera\nHepatitis A vaccine — inactivated or live-attenuated, given to travellers to endemic areas and increasingly included in some national schedules; confers long-lasting immunity\nPassive immunization — normal human immunoglobulin can be given for post-exposure prophylaxis in close contacts, though largely superseded by vaccination where available",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module3_viral_hepatitis.html#self-check-question-4",
+    "href": "diseases/cd/module3_viral_hepatitis.html#self-check-question-4",
+    "title": "Module 3: Viral Hepatitis",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nA patient with acute hepatitis is often most infectious during which phase, before jaundice is even visible?\n\nConvalescent phase\nProdromal (pre-icteric) phase\nIcteric phase only\nInfectiousness is equal across all phases",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 3: Viral Hepatitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#antimicrobial-resistance-and-hai",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#antimicrobial-resistance-and-hai",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Antimicrobial Resistance and HAI",
+    "text": "Antimicrobial Resistance and HAI\n🟢 MUST KNOW\nHospital-acquired infections and antimicrobial resistance (AMR) are a linked problem, not two separate issues:\n\nWhy hospitals concentrate resistant organisms: dense antibiotic use, close proximity of vulnerable patients, and invasive devices create ideal conditions for resistant strains to emerge and spread — e.g. MRSA (methicillin-resistant Staphylococcus aureus), carbapenem-resistant Enterobacteriaceae, and multidrug-resistant (MDR) Gram-negative organisms\nConsequence: infections caused by resistant organisms have fewer effective treatment options, higher treatment failure, longer hospital stays, and higher mortality than the same infection caused by a susceptible strain\nAntimicrobial stewardship — hospital-level policies restricting inappropriate/prophylactic antibiotic overuse, guided by local resistance patterns (antibiograms) — is now considered as essential to HAI control as hand hygiene and standard precautions\n\nWhy this belongs alongside standard precautions: a hospital that practices good hand hygiene and isolation but has poor antibiotic stewardship will still breed resistant organisms — the two strategies are complementary, not substitutes for each other.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module6_hospital_acquired_infections.html#self-check-question-4",
+    "href": "diseases/cd/module6_hospital_acquired_infections.html#self-check-question-4",
+    "title": "Module 6: Hospital-Acquired Infections",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWhy are hospitals particularly prone to concentrating antimicrobial- resistant organisms such as MRSA?\n\nHospitals use fewer antibiotics than the community\nDense antibiotic use combined with vulnerable patients and invasive devices creates ideal conditions for resistant strains\nResistant organisms only exist outside hospitals\nAntimicrobial stewardship increases resistance",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 6: Hospital-Acquired Infections"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#severe-malaria-recognizing-danger-signs",
+    "href": "diseases/cd/module1_malaria.html#severe-malaria-recognizing-danger-signs",
+    "title": "Module 1: Malaria",
+    "section": "Severe Malaria: Recognizing Danger Signs",
+    "text": "Severe Malaria: Recognizing Danger Signs\n🟢 MUST KNOW\nAny of the following, in a patient with confirmed P. falciparum infection, defines severe/complicated malaria requiring emergency treatment — this is the structured version of the complications named on the previous slide:\n\nCerebral malaria — impaired consciousness or convulsions\nSevere anaemia — from massive RBC destruction\nRenal failure — including blackwater fever (massive haemoglobinuria)\nPulmonary oedema / ARDS\nHypoglycaemia — worsened by quinine treatment itself\nCirculatory collapse/shock — algid/septicaemic malaria\nMetabolic (lactic) acidosis\n\nWhy this list matters clinically: severe malaria requires parenteral antimalarial therapy (IV artesunate, the WHO-preferred agent) rather than the oral regimens used for uncomplicated malaria — recognizing any one of these signs changes the treatment route immediately.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module1_malaria.html#self-check-question-4",
+    "href": "diseases/cd/module1_malaria.html#self-check-question-4",
+    "title": "Module 1: Malaria",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nA patient with confirmed P. falciparum malaria develops impaired consciousness. This finding means the patient:\n\nHas uncomplicated malaria and can continue oral treatment\nHas severe/complicated malaria and requires parenteral treatment such as IV artesunate\nShould be given oral primaquine immediately\nOnly needs a repeat RDT to confirm",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 1: Malaria"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#typhoid-fever-treatment-and-rising-resistance",
+    "href": "diseases/cd/module2_typhoid_cholera.html#typhoid-fever-treatment-and-rising-resistance",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Typhoid Fever: Treatment and Rising Resistance",
+    "text": "Typhoid Fever: Treatment and Rising Resistance\n🟡 SHOULD KNOW\n\nFirst-line treatment: fluoroquinolones (e.g. ciprofloxacin) or third-generation cephalosporins (e.g. ceftriaxone) — the specific choice increasingly depends on local resistance patterns rather than a single universal drug\nExtensively drug-resistant (XDR) typhoid — strains resistant to first-line antibiotics and fluoroquinolones and third-generation cephalosporins have emerged (notably reported from Pakistan), leaving very few oral treatment options\nWhy this matters for public health, not just treatment: antibiotic resistance in typhoid strengthens the case for prevention (safe water, sanitation, vaccination) over reliance on treatment — the same stewardship logic already introduced for hospital-acquired infections",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module2_typhoid_cholera.html#self-check-question-4",
+    "href": "diseases/cd/module2_typhoid_cholera.html#self-check-question-4",
+    "title": "Module 2: Typhoid Fever and Cholera",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nExtensively drug-resistant (XDR) typhoid strains, notably reported from Pakistan, are resistant to first-line antibiotics, fluoroquinolones, and:\n\nOnly oral rehydration solutions\nThird-generation cephalosporins\nVi polysaccharide vaccine\nWidal test reagents",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 2: Typhoid Fever & Cholera"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#post-polio-syndrome",
+    "href": "diseases/cd/module4_poliomyelitis.html#post-polio-syndrome",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Post-Polio Syndrome",
+    "text": "Post-Polio Syndrome\n🟣 MAY KNOW\nA distinct entity from the acute paralytic illness above — worth distinguishing because it can appear decades later:\n\nPost-polio syndrome (PPS) — new muscle weakness, fatigue, and pain developing 15–40 years after apparent recovery from acute paralytic polio, in muscles previously affected (or thought fully recovered)\nProposed mechanism: gradual degeneration of overworked motor neurons that had compensated for those originally destroyed by the virus, not a reactivation or re-infection\nManagement: supportive — energy conservation, individualized exercise, mobility aids — since, like acute polio, there is no curative treatment\n\nWhy it matters going forward: even after a country is certified polio-free, its polio survivors from the pre-eradication era remain a population with an ongoing, delayed clinical need.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module4_poliomyelitis.html#self-check-question-4",
+    "href": "diseases/cd/module4_poliomyelitis.html#self-check-question-4",
+    "title": "Module 4: Poliomyelitis",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nPost-polio syndrome, developing 15-40 years after acute paralytic polio, is best explained by:\n\nReactivation of latent poliovirus\nRe-infection with a new poliovirus serotype\nGradual degeneration of overworked motor neurons that had compensated for those originally destroyed\nA vaccine complication in unimmunized adults",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 4: Poliomyelitis"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#assessing-dehydration-severity",
+    "href": "diseases/cd/module5_food_poisoning.html#assessing-dehydration-severity",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Assessing Dehydration Severity",
+    "text": "Assessing Dehydration Severity\n🟢 MUST KNOW\nBefore treating, WHO’s three-category clinical assessment decides which treatment plan applies — this classification is what the ORS formula on the next slide is actually calculating for:\n\n\n\n\n\n\n\n\nCategory\nKey signs\nTreatment\n\n\n\n\nNo dehydration\nAlert, drinks normally, skin pinch goes back quickly\nPlan A — extra fluids and continued feeding at home\n\n\nSome dehydration\nRestless/irritable, sunken eyes, drinks eagerly/thirsty, skin pinch goes back slowly\nPlan B — ORS in a health facility over 4 hours (the 75 mL/kg formula)\n\n\nSevere dehydration\nLethargic/unconscious, sunken eyes, drinks poorly or unable to drink, skin pinch goes back very slowly (≥2 seconds)\nPlan C — urgent IV fluids, ORS alone is insufficient\n\n\n\nWhy this matters: the 75 mL/kg oral formula on the next slide applies to Plan B (some dehydration) — a severely dehydrated, unconscious patient needs IV therapy first, not oral rehydration alone.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module5_food_poisoning.html#self-check-question-4",
+    "href": "diseases/cd/module5_food_poisoning.html#self-check-question-4",
+    "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nA child is lethargic, has sunken eyes, drinks poorly, and the skin pinch goes back very slowly. This corresponds to which WHO category and treatment plan?\n\nNo dehydration; Plan A\nSome dehydration; Plan B\nSevere dehydration; Plan C (urgent IV fluids)\nSevere dehydration; oral ORS only",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Selected Communicable Diseases",
+      "Module 5: Food Poisoning & Diarrhoeal Disease"
     ]
   }
 ]

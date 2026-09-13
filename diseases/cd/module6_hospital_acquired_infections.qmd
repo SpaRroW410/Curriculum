@@ -31,6 +31,7 @@ revealjs-plugins:
 - Describe the source, route of spread, and recipient framework
 - List standard precautions and device-specific prevention measures
 - Distinguish barrier nursing from task nursing
+- Explain why antimicrobial resistance and HAI are a linked problem
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -120,6 +121,35 @@ Evidence-based measures differ by infection type — knowing what
 
 ---
 
+## Antimicrobial Resistance and HAI {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Hospital-acquired infections and antimicrobial resistance (AMR) are a
+linked problem, not two separate issues:
+
+- **Why hospitals concentrate resistant organisms:** dense antibiotic
+  use, close proximity of vulnerable patients, and invasive devices
+  create ideal conditions for resistant strains to emerge and spread —
+  e.g. **MRSA** (methicillin-resistant *Staphylococcus aureus*),
+  carbapenem-resistant Enterobacteriaceae, and multidrug-resistant
+  (MDR) Gram-negative organisms
+- **Consequence:** infections caused by resistant organisms have fewer
+  effective treatment options, higher treatment failure, longer
+  hospital stays, and higher mortality than the same infection caused
+  by a susceptible strain
+- **Antimicrobial stewardship** — hospital-level policies restricting
+  inappropriate/prophylactic antibiotic overuse, guided by local
+  resistance patterns (antibiograms) — is now considered as essential
+  to HAI control as hand hygiene and standard precautions
+
+**Why this belongs alongside standard precautions:** a hospital that
+practices good hand hygiene and isolation but has poor antibiotic
+stewardship will still breed resistant organisms — the two strategies
+are complementary, not substitutes for each other.
+
+---
+
 ## Nursing and Administrative Measures {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
@@ -186,6 +216,24 @@ preventing catheter-associated urinary tract infection?
 - Aseptic technique at insertion
 - Maintaining closed drainage
 - [Systemic antibiotic prophylaxis]{.correct data-explanation="Systemic antibiotic prophylaxis has not been shown to be effective for preventing catheter-associated UTIs and is not recommended; catheter-duration limitation and aseptic technique are the proven measures."}
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Why are hospitals particularly prone to concentrating antimicrobial-
+resistant organisms such as MRSA?
+
+- Hospitals use fewer antibiotics than the community
+- [Dense antibiotic use combined with vulnerable patients and invasive devices creates ideal conditions for resistant strains]{.correct data-explanation="The combination of heavy antibiotic exposure, close proximity of susceptible patients, and invasive devices makes hospitals a favourable environment for resistant organisms to emerge and spread -- linking AMR directly to HAI control."}
+- Resistant organisms only exist outside hospitals
+- Antimicrobial stewardship increases resistance
 :::
 
 ---

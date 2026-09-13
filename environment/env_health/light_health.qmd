@@ -27,6 +27,7 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - List the qualities of good lighting for efficient, strain-free vision
+- Describe the health and safety effects of poor lighting
 - Explain the Daylight Factor and how it guides building design
 - Distinguish direct, indirect, and semi-direct artificial lighting
 - Compare filament and fluorescent lamps
@@ -60,6 +61,50 @@ efficiency. Good lighting requires:
 - **Colour** — artificial light should approximate natural daylight;
   surface reflection factors matter (ceilings ~80%, walls 50–60%,
   furniture 30–40%, floors ≤15–20%)
+
+---
+
+## Effects of Poor Lighting {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Lighting quality is not a comfort issue alone — it has measurable
+health and safety consequences, which is why the qualities above are
+specified so precisely:
+
+- **Eye strain (asthenopia)** — from insufficient illumination, glare,
+  or flicker; presents as tired, aching, or watering eyes and headache
+  with prolonged near work
+- **Reduced visual acuity and accidents** — glare and sharp shadows
+  reduce the ability to judge distance and detail, raising the risk of
+  occupational and traffic accidents
+- **Reduced efficiency** — both insufficient and excessive illumination
+  reduce work output; there is an optimal range, not simply "more light
+  is better"
+- **Nystagmus** — a specific occupational eye disorder (rapid
+  involuntary eye movements) historically linked to prolonged work in
+  poorly lit conditions, classically described in miners
+
+---
+
+## Recommended Illumination Levels {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Required illumination varies by the precision of the task — a single
+"sufficient" threshold does not apply everywhere:
+
+| Setting/task | Approximate illumination (foot-candles) |
+|---|---|
+| Stairways, corridors, storage | ~5 |
+| General living/working areas | 15–20 (accepted minimum) |
+| Reading, classrooms, offices | 20–30 |
+| Fine assembly, precision industrial work | up to 100 |
+
+**Why this table matters:** it operationalizes "sufficiency" from the
+previous slide — a corridor and an operating table are not held to the
+same lighting standard, because the visual precision each task demands
+is different.
 
 ---
 
@@ -168,6 +213,24 @@ Phototherapy using daylight/blue light is a recognized treatment for:
 - [Neonatal hyperbilirubinaemia in premature infants]{.correct data-explanation="Light causes in-vitro degradation of bilirubin, a biological effect exploited therapeutically as phototherapy for hyperbilirubinaemia in premature infants."}
 - Seasonal affective disorder only
 - Xerophthalmia
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Nystagmus as an occupational eye disorder is classically associated
+with:
+
+- Excessive outdoor sunlight exposure
+- [Prolonged work in poorly lit conditions, classically in miners]{.correct data-explanation="Occupational nystagmus (rapid involuntary eye movements) is classically described in workers, such as miners, doing prolonged close work under poor illumination."}
+- Use of fluorescent lamps
+- High Daylight Factor buildings
 :::
 
 ---

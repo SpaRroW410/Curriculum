@@ -27,6 +27,7 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - Compare the major bacterial causes of food poisoning
+- Classify dehydration severity and match it to WHO Plan A/B/C
 - Calculate ORS requirements and apply WHO rehydration guidelines
 - Distinguish cholera from shigella diarrhoea clinically
 - Explain the role of zinc supplementation in diarrhoea management
@@ -81,6 +82,26 @@ Standard steps, applying the general outbreak-investigation framework
 **Prevention:** meat inspection, food-handler personal hygiene (exclude
 those with wounds/diarrhoea from food handling), rapid cooling/cold
 storage, and thorough cooking (most agents killed above 60°C).
+
+---
+
+## Assessing Dehydration Severity {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Before treating, WHO's three-category clinical assessment decides
+**which** treatment plan applies — this classification is what the ORS
+formula on the next slide is actually calculating for:
+
+| Category | Key signs | Treatment |
+|---|---|---|
+| **No dehydration** | Alert, drinks normally, skin pinch goes back quickly | **Plan A** — extra fluids and continued feeding at home |
+| **Some dehydration** | Restless/irritable, sunken eyes, drinks eagerly/thirsty, skin pinch goes back slowly | **Plan B** — ORS in a health facility over 4 hours (the 75 mL/kg formula) |
+| **Severe dehydration** | Lethargic/unconscious, sunken eyes, drinks poorly or unable to drink, skin pinch goes back very slowly (≥2 seconds) | **Plan C** — urgent **IV fluids**, ORS alone is insufficient |
+
+**Why this matters:** the 75 mL/kg oral formula on the next slide
+applies to Plan B (some dehydration) — a severely dehydrated,
+unconscious patient needs IV therapy first, not oral rehydration alone.
 
 ---
 
@@ -220,6 +241,25 @@ pain, but no vomiting. This clinical picture is most consistent with:
 - [Shigella]{.correct data-explanation="Shigella classically presents with fever, bloody/mucoid stool, and tenesmus (rectal pain), and typically without vomiting — the opposite pattern from cholera's watery, afebrile, vomiting-predominant picture."}
 - Staphylococcal food poisoning
 - Rotavirus gastroenteritis
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+A child is lethargic, has sunken eyes, drinks poorly, and the skin
+pinch goes back very slowly. This corresponds to which WHO category and
+treatment plan?
+
+- No dehydration; Plan A
+- Some dehydration; Plan B
+- [Severe dehydration; Plan C (urgent IV fluids)]{.correct data-explanation="Lethargy, poor drinking, and a very slow skin pinch (≥2 seconds) are signs of severe dehydration, which requires Plan C -- urgent IV rehydration -- since oral rehydration alone is insufficient at this stage."}
+- Severe dehydration; oral ORS only
 :::
 
 ---

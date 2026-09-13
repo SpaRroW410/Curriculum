@@ -31,6 +31,8 @@ revealjs-plugins:
 - State ventilation standards (cubic space, air change, floor space)
 - Distinguish natural from mechanical ventilation
 - Describe air conditioning's role in health
+- Identify major outdoor air pollutants and their health effects
+- Describe how ambient air quality is monitored and controlled in India
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -130,6 +132,61 @@ regulated**.
 
 ---
 
+## Outdoor Air Pollution: Sources and Pollutants {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The chapter so far covers the **indoor** air environment; outdoor
+**ambient air pollution** is an equally central public health topic,
+with its own sources and monitored pollutants:
+
+- **Sources:** vehicular exhaust, industrial emissions, biomass/solid
+  fuel burning (a major contributor in India, also linked to indoor air
+  pollution in households using traditional chulhas), construction
+  dust, and crop-residue burning
+- **Criteria pollutants monitored under India's National Ambient Air
+  Quality Standards (NAAQS):**
+  - **PM2.5 and PM10** — particulate matter; PM2.5 (≤2.5 micrometres)
+    penetrates deepest into the respiratory tract and is most strongly
+    linked to health effects
+  - **SO₂ and NOx** — from fuel combustion; contribute to respiratory
+    irritation and, at ecosystem scale, acid rain
+  - **Carbon monoxide (CO)** — binds haemoglobin with much higher
+    affinity than oxygen, reducing oxygen-carrying capacity
+  - **Ground-level ozone (O₃)** — a secondary pollutant formed by
+    sunlight acting on other pollutants, not emitted directly
+
+---
+
+## Health Effects and Control of Air Pollution {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Health effects**, mirroring the exposure-response logic used
+throughout this course:
+
+- **Respiratory:** aggravation of asthma and COPD, reduced lung
+  function, increased respiratory infections — particularly in
+  children and the elderly
+- **Cardiovascular:** fine particulate matter is linked to increased
+  cardiovascular events, not only respiratory disease
+- **Chronic exposure:** long-term PM2.5 exposure is associated with
+  reduced life expectancy at the population level, and is classified as
+  a human carcinogen (lung cancer)
+
+**Monitoring and control:**
+
+- **Air Quality Index (AQI)** — a single composite number derived from
+  multiple pollutant concentrations, translated into categories (Good,
+  Satisfactory, Moderate, Poor, Very Poor, Severe) for public
+  communication — the outdoor-air counterpart to how DALYs (Chapter 21)
+  translate complex data into one comparable number
+- **Source control** — vehicular emission standards (e.g. Bharat Stage
+  norms), industrial emission limits, promotion of cleaner household
+  fuels (LPG) to reduce biomass burning
+
+---
+
 ## Self-Check: Question 1 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -183,6 +240,41 @@ In exhaust ventilation, fresh air enters a room because:
 
 ---
 
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Which particulate matter size fraction penetrates deepest into the
+respiratory tract and is most strongly linked to health effects?
+
+- PM10
+- [PM2.5]{.correct data-explanation="PM2.5 (particles 2.5 micrometres or smaller) penetrate deepest into the respiratory tract, including the alveoli, which is why it is the particulate fraction most strongly associated with respiratory and cardiovascular health effects."}
+- PM100
+- Total suspended particulates only
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+The Air Quality Index (AQI) serves which primary purpose?
+
+- It measures indoor CO2 levels
+- [It translates multiple pollutant concentrations into a single composite number and category for public communication]{.correct data-explanation="AQI combines several monitored pollutants into one number and category (Good to Severe), making complex air-quality data understandable to the general public -- conceptually similar to how DALYs combine mortality and disability into one comparable measure."}
+- It replaces the need for emission standards
+- It only applies to industrial zones
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. Park, K. *Park's Textbook of Preventive and Social Medicine* —
@@ -190,6 +282,8 @@ In exhaust ventilation, fresh air enters a room because:
    standards.
 2. Houghton, F.C. and Yaglou, C.P. (1923). Effective Temperature Scale —
    American Society of Heating and Ventilation Engineers.
+3. Central Pollution Control Board, India. *National Ambient Air
+   Quality Standards (NAAQS)* and *National Air Quality Index*.
 
 ---
 
