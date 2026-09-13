@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/26 | [Next Chapter →](genetics.html)"
+    footer: "[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/28 | [Next Chapter →](genetics.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -30,6 +30,9 @@ revealjs-plugins:
 - Classify occupational hazards into six categories
 - Define pneumoconiosis and name its major forms
 - Describe India's Employees' State Insurance (ESI) scheme's role
+- Recognize lead poisoning and the major occupational cancers
+- Distinguish human from environmental causes of industrial accidents
+- Outline the Factories Act, 1948 alongside the ESI Act
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -98,6 +101,10 @@ Major forms:
   until **years after** initial exposure
 - **Byssinosis** — from cotton dust (textile industry)
 - **Bagassosis** — from bagasse (sugarcane fibre residue) dust
+- **Anthracosis** — from coal dust (coal mining)
+- **Farmer's Lung** — a hypersensitivity pneumonitis from mouldy hay dust
+  (thermophilic actinomycetes), not mineral dust — technically not a
+  true pneumoconiosis, but grouped here by occupational exposure pattern
 
 **Common thread:** long latency between exposure and symptom onset —
 directly echoing Chapter 3's natural-history-of-disease concept, but on
@@ -118,6 +125,110 @@ coverage for occupational disease and injury.
 policy provides financial aid and pension support to affected workers —
 illustrating how national ESI coverage is complemented by state-specific
 disease-focused schemes for occupational conditions.
+
+**ESI's seven benefit categories:** medical, sickness, maternity,
+disablement, dependants', funeral expenses, and rehabilitation — funded
+by employer (3.25% of wages) and employee (0.75% of wages) contributions
+plus central/state grants.
+
+---
+
+## Lead Poisoning {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A classic occupational **heavy-metal toxicity**, from lead smelting,
+battery manufacture, printing, and paint work.
+
+- **Absorption:** inhalation of lead dust/fumes (main occupational
+  route) and ingestion (contaminated hands/food)
+- **Clinical picture:** anaemia (basophilic stippling of RBCs), abdominal
+  colic, peripheral neuropathy (classically wrist drop), and a
+  blue-black "lead line" on the gums
+- **Prevention:** substitution of lead-free materials where possible,
+  engineering controls (exhaust ventilation, enclosed processes),
+  personal hygiene (no eating in the work area), and periodic blood-lead
+  monitoring
+- **Management:** removal from exposure plus chelation therapy in
+  confirmed toxicity
+
+---
+
+## Occupational Cancers {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Certain workplace exposures are established carcinogens — occupational
+cancer is one of the few cancer categories where the causative exposure
+is often precisely identifiable:
+
+| Cancer | Occupational exposure |
+|---|---|
+| **Skin cancer** | Tar, soot, mineral oils, arsenic, UV/ionizing radiation |
+| **Lung cancer** | Asbestos, arsenic, chromium, nickel, radon (mining) |
+| **Bladder cancer** | Aromatic amines (dye, rubber, and printing industries) |
+| **Leukaemia** | Benzene and ionizing radiation |
+
+**Control of industrial cancer** follows the same levels-of-prevention
+logic as any occupational disease: substitution of the carcinogen where
+possible, engineering controls to limit exposure, and periodic medical
+surveillance for early detection in exposed workers.
+
+---
+
+## Occupational Dermatitis and Agricultural Hazards {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+**Occupational dermatitis** — the most common occupational skin
+condition, from repeated contact with irritants (solvents, cement, oils)
+or allergens (nickel, rubber chemicals); prevention relies on protective
+clothing/gloves and skin barrier creams rather than treatment alone.
+
+**Agricultural workers** face a distinct hazard profile from industrial
+workers: pesticide exposure, zoonotic disease risk (from livestock
+contact), musculoskeletal strain, heat exposure, and mechanical injury
+from farm equipment — a reminder that "occupational health" is not
+synonymous with "industrial health."
+
+---
+
+## Industrial Accidents {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+**~85% of industrial accidents are attributed to human causes**
+(carelessness, fatigue, inadequate training) rather than purely
+environmental/mechanical ones (unsafe machinery, poor lighting) — a
+finding with direct implications for prevention strategy: engineering
+fixes alone are insufficient without training, supervision, and safety
+culture.
+
+**Prevention** combines both angles: safety engineering (machine
+guarding, adequate lighting/ventilation) and human-factor measures
+(training, enforced safety protocols, adequate rest periods to reduce
+fatigue-related error).
+
+---
+
+## The Factories Act, 1948 {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's principal occupational safety legislation, predating the ESI
+Act by the same year — together they form the two-pillar legal
+foundation of Indian occupational health (**ESI = health insurance and
+benefits; Factories Act = workplace safety standards and conditions**).
+
+Core provisions include mandated standards for:
+
+- Health — cleanliness, ventilation, lighting, drinking water, sanitation
+- Safety — machine guarding, safe means of access, precautions against
+  fire
+- Welfare — washing facilities, canteens (in larger factories), rest
+  rooms
+- Working hours and conditions — limits on daily/weekly working hours,
+  overtime, and employment of young persons
 
 ---
 
@@ -258,6 +369,10 @@ of:
 3. Government of India. *Employees' State Insurance Act, 1948*.
 4. PMC. "Global, regional and national burden of disease attributable to
    19 selected occupational risk factors... WHO/ILO Joint Estimates."
+5. Government of India. *The Factories Act, 1948* (as amended).
+6. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for lead poisoning, occupational cancers, and
+   industrial accident epidemiology.
 
 ---
 
@@ -265,4 +380,4 @@ of:
 
 **Next Chapter:** Genetics and Health
 
-[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/26 | [Next Chapter →](genetics.html)
+[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/28 | [Next Chapter →](genetics.html)

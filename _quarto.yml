@@ -34,8 +34,30 @@ website:
         menu:
           - text: "Epidemiology of Communicable Diseases"
             href: diseases/communicable-diseases.qmd
+          - text: "Selected Diseases: Overview"
+            href: diseases/cd.qmd
+          - text: "Module 1: Malaria"
+            href: diseases/cd/module1_malaria.qmd
+          - text: "Module 2: Typhoid Fever & Cholera"
+            href: diseases/cd/module2_typhoid_cholera.qmd
+          - text: "Module 3: Viral Hepatitis"
+            href: diseases/cd/module3_viral_hepatitis.qmd
+          - text: "Module 4: Poliomyelitis"
+            href: diseases/cd/module4_poliomyelitis.qmd
+          - text: "Module 5: Food Poisoning & Diarrhoeal Disease"
+            href: diseases/cd/module5_food_poisoning.qmd
+          - text: "Module 6: Hospital-Acquired Infections"
+            href: diseases/cd/module6_hospital_acquired_infections.qmd
           - text: "Epidemiology of Chronic Non-Communicable Diseases"
             href: diseases/ncd.qmd
+          - text: "Selected NCDs: Overview"
+            href: diseases/ncd_modules.qmd
+          - text: "Module 1: Diabetes Mellitus"
+            href: diseases/ncd/module1_diabetes.qmd
+          - text: "Module 2: Hypertension"
+            href: diseases/ncd/module2_hypertension.qmd
+          - text: "Module 3: Stroke"
+            href: diseases/ncd/module3_stroke.qmd
           - text: "Essential Medicines and Counterfeit Medicines"
             href: diseases/essential-medicines.qmd
           - text: "Nutrition and Health"
@@ -64,6 +86,12 @@ website:
             href: environment/env_health/module2_environment_health.qmd
           - text: "Water and Health"
             href: environment/env_health/water.qmd
+          - text: "Air and Health"
+            href: environment/env_health/air_health.qmd
+          - text: "Light and Health"
+            href: environment/env_health/light_health.qmd
+          - text: "Radiation and Noise"
+            href: environment/env_health/radiation_health.qmd
           - text: "Hospital Waste Management"
             href: environment/waste-management.qmd
           - text: "Disaster Management"
@@ -86,12 +114,18 @@ website:
             href: global/community-health.qmd
           - text: "International Health"
             href: global/international-health.qmd
+      - text: "Professionalism"
+        menu:
+          - text: "AETCOM: Attitude, Ethics and Communication"
+            href: global/aetcom.qmd
+          - text: "Health Talks and Community IEC"
+            href: global/health-talks.qmd
       - text: "Post Graduate"
         menu:
           - text: "Guide for Dissertation"
             href: post_graduate/dissertation-guide.qmd
-          
-      
+
+
     right:
       - text: "Reference"
         icon: book
@@ -123,8 +157,34 @@ website:
         contents:
           - text: "Epidemiology of Communicable Diseases"
             file: diseases/communicable-diseases.qmd
+          - section: "Selected Communicable Diseases"
+            contents:
+              - text: "Overview"
+                file: diseases/cd.qmd
+              - text: "Module 1: Malaria"
+                file: diseases/cd/module1_malaria.qmd
+              - text: "Module 2: Typhoid Fever & Cholera"
+                file: diseases/cd/module2_typhoid_cholera.qmd
+              - text: "Module 3: Viral Hepatitis"
+                file: diseases/cd/module3_viral_hepatitis.qmd
+              - text: "Module 4: Poliomyelitis"
+                file: diseases/cd/module4_poliomyelitis.qmd
+              - text: "Module 5: Food Poisoning & Diarrhoeal Disease"
+                file: diseases/cd/module5_food_poisoning.qmd
+              - text: "Module 6: Hospital-Acquired Infections"
+                file: diseases/cd/module6_hospital_acquired_infections.qmd
           - text: "Epidemiology of Chronic Non-Communicable Diseases"
             file: diseases/ncd.qmd
+          - section: "Selected Non-Communicable Diseases"
+            contents:
+              - text: "Overview"
+                file: diseases/ncd_modules.qmd
+              - text: "Module 1: Diabetes Mellitus"
+                file: diseases/ncd/module1_diabetes.qmd
+              - text: "Module 2: Hypertension"
+                file: diseases/ncd/module2_hypertension.qmd
+              - text: "Module 3: Stroke"
+                file: diseases/ncd/module3_stroke.qmd
           - text: "Essential Medicines and Counterfeit Medicines"
             file: diseases/essential-medicines.qmd
           - text: "Nutrition and Health"
@@ -173,6 +233,12 @@ website:
                     file: environment/env_health/water/module8_safe_water_india.qmd
                   - text: "Quiz"
                     file: environment/env_health/water/module9_quiz.qmd
+              - text: "Air and Health"
+                file: environment/env_health/air_health.qmd
+              - text: "Light and Health"
+                file: environment/env_health/light_health.qmd
+              - text: "Radiation and Noise"
+                file: environment/env_health/radiation_health.qmd
           - text: "Hospital Waste Management"
             file: environment/waste-management.qmd
           - text: "Disaster Management"
@@ -196,6 +262,13 @@ website:
             file: global/community-health.qmd
           - text: "International Health"
             file: global/international-health.qmd
+
+      - section: "Professionalism & Communication"
+        contents:
+          - text: "AETCOM: Attitude, Ethics and Communication"
+            file: global/aetcom.qmd
+          - text: "Health Talks and Community IEC"
+            file: global/health-talks.qmd
 
 format:
   html:

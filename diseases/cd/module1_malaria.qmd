@@ -1,0 +1,299 @@
+---
+title: "Module 1: Malaria"
+subtitle: "Epidemiology, Diagnosis, Treatment, and NVBDCP"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 1/6 | [Next →](module2_typhoid_cholera.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Malaria
+
+**Learning Objectives:**
+
+- Identify the agent, vector, and reservoir of malaria
+- Describe the parasite life cycle in man and mosquito
+- Distinguish the clinical types of malaria by species
+- Recognize the WHO danger signs defining severe/complicated malaria
+- Compare methods of diagnosis and outline treatment by species
+- State the key malariometric indicators used in surveillance
+- Describe India's malaria control programme (NVBDCP) and strategy
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This module extends Chapter 6's general communicable-disease principles
+(chain of infection, vector control) to malaria specifically — the
+first of several vector-borne and enteric diseases covered as dedicated
+modules.
+:::
+
+---
+
+## Agent, Reservoir, and Vector {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Malaria is caused by four **Plasmodium** species, transmitted by the bite
+of an infected **female Anopheles mosquito**:
+
+| Species | Share of cases | Note |
+|---|---|---|
+| **P. vivax** | ~70% | Benign tertian; relapses (hypnozoites) |
+| **P. falciparum** | ~25–30% | Malignant tertian; responsible for severe/fatal malaria; no relapse |
+| **P. malariae** | uncommon | Quartan fever (every 4th day) |
+| **P. ovale** | rare | Mainly Africa; relapses |
+
+**Reservoir:** humans only — either a **case** (clinical malaria) or a
+**carrier** (asymptomatic gametocyte carriage; children more often
+carriers than adults).
+
+---
+
+## Life Cycle {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The parasite completes its life cycle across **two hosts**:
+
+- **In man (asexual cycle)** — sporozoites injected by the mosquito bite
+  reach the liver, multiply into schizonts, and release merozoites into
+  the blood. Merozoites invade RBCs (erythrocytic phase); rupture of
+  infected RBCs causes the fever paroxysm. *P. vivax/ovale* leave dormant
+  **hypnozoites** in the liver → later relapse; *P. falciparum* does not
+  relapse.
+- **In the mosquito (sexual cycle / sporogony)** — ingested gametocytes
+  fertilize in the mosquito gut, forming an oocyst that produces
+  sporozoites, which migrate to the salivary glands (10–20 days,
+  temperature/humidity dependent) — the mosquito is now infective.
+
+**Incubation period:** vivax ≈14 days · falciparum ≈12 days · malariae
+≈28 days · ovale ≈17 days.
+
+---
+
+## Clinical Features {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Benign tertian (P. vivax):** the classic three-stage paroxysm — cold
+stage (chills, rigors) → hot stage (103–104°F) → sweating stage — fever
+on alternate days; repeated attacks → splenomegaly, anaemia.
+
+**Malignant tertian (P. falciparum):** continuous fever, classic stages
+often absent; can progress to **cerebral malaria** (convulsions, coma),
+**blackwater fever** (haemoglobinuria), or **algid/septicaemic malaria**
+(shock) — the life-threatening form.
+
+**Quartan (P. malariae):** fever every 4th day. **Ovale malaria:** similar
+to vivax, mainly in Africa.
+
+---
+
+## Severe Malaria: Recognizing Danger Signs {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Any of the following, in a patient with confirmed *P. falciparum*
+infection, defines **severe/complicated malaria** requiring emergency
+treatment — this is the structured version of the complications named
+on the previous slide:
+
+- **Cerebral malaria** — impaired consciousness or convulsions
+- **Severe anaemia** — from massive RBC destruction
+- **Renal failure** — including **blackwater fever** (massive
+  haemoglobinuria)
+- **Pulmonary oedema / ARDS**
+- **Hypoglycaemia** — worsened by quinine treatment itself
+- **Circulatory collapse/shock** — algid/septicaemic malaria
+- **Metabolic (lactic) acidosis**
+
+**Why this list matters clinically:** severe malaria requires
+**parenteral** antimalarial therapy (IV artesunate, the WHO-preferred
+agent) rather than the oral regimens used for uncomplicated malaria —
+recognizing any one of these signs changes the treatment route
+immediately.
+
+---
+
+## Diagnosis {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+All suspected cases require **parasitological confirmation**:
+
+- **Light microscopy** — thick smear (detects presence/absence); thin
+  smear (identifies species and parasite stage) — remains the gold
+  standard
+- **Rapid Diagnostic Tests (RDTs)** — immunochromatographic antigen
+  detection, results in ~15 minutes; can distinguish *P. falciparum* from
+  non-falciparum
+
+**Suspected case definition:** fever in a person living in or having
+recently visited an endemic area during transmission season, with no
+other confirmed diagnosis.
+
+---
+
+## Treatment Principles {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **P. vivax** — chloroquine (blood stages) **plus** primaquine for 14
+  days (clears liver hypnozoites, prevents relapse)
+- **P. falciparum** — Artemisinin-based Combination Therapy (**ACT**,
+  e.g. artesunate + sulfadoxine-pyrimethamine) plus a single dose of
+  primaquine (gametocytocidal, blocks transmission)
+- **Primaquine is contraindicated** in pregnancy, infants, and G6PD
+  deficiency (risk of haemolysis)
+- **Mixed infections** involving falciparum are treated as falciparum
+  malaria
+- **Pregnancy:** ACT in the 2nd/3rd trimester for falciparum (quinine in
+  the 1st trimester); chloroquine for vivax
+
+---
+
+## Malariometric Indicators {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Used to measure transmission intensity and evaluate control programmes:
+
+- **Annual Parasite Incidence (API)** — confirmed cases per 1,000
+  population per year (India's key programme metric)
+- **Slide Positivity Rate (SPR)** / **Slide Falciparum Rate (SFR)** —
+  % of examined blood smears positive overall / positive for falciparum
+- **Infant Parasite Rate** — most sensitive indicator of active
+  transmission; considered interrupted if zero for 3 consecutive years
+- **Entomological indices** — vector density, human blood index,
+  sporozoite rate (vector-side transmission risk)
+
+---
+
+## NVBDCP and Malaria Elimination {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's malaria programme has evolved considerably:
+
+`NMCP (1953) → NMEP (1958) → Modified Plan of Operation (1977) → National Anti-Malaria Programme (1999) → NVBDCP (2003–04) → National Framework for Malaria Elimination 2016–2030`
+
+**Control strategy (three-pronged):** early diagnosis and complete
+treatment (passive + active surveillance) · integrated vector control
+(indoor residual spray, ITNs/LLINs, source reduction) · behaviour change
+communication and community participation.
+
+**Vaccine:** RTS,S/AS01 (Mosquirix®) — WHO-recommended since October
+2021, the first licensed anti-parasite vaccine; effective against
+*P. falciparum* only, ~40% efficacy, 4-dose schedule from 5 months of
+age.
+
+**India's progress:** Annual Parasite Incidence fell from 2.09 (2000) to
+0.13 (2022); malaria deaths fell from 932 to 83 over the same period.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Which Plasmodium species is responsible for the large majority of
+severe, life-threatening malaria?
+
+- P. vivax
+- [P. falciparum]{.correct data-explanation="P. falciparum causes malignant tertian malaria and is responsible for nearly all severe and fatal malaria, including cerebral malaria."}
+- P. malariae
+- P. ovale
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Primaquine is given in P. vivax malaria primarily to:
+
+- Kill blood-stage parasites and end the fever paroxysm
+- [Clear liver hypnozoites and prevent relapse]{.correct data-explanation="Chloroquine acts on blood stages; primaquine is the only drug that clears dormant liver hypnozoites in P. vivax/ovale, preventing relapse."}
+- Provide immediate symptomatic relief
+- Sterilize the Anopheles vector
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Which malariometric indicator is considered the most sensitive marker of
+active malaria transmission in a community?
+
+- Slide Positivity Rate
+- Child Spleen Rate
+- [Infant Parasite Rate]{.correct data-explanation="Infants have had the shortest possible exposure window, so a positive infant parasite rate indicates recent, active transmission; it is considered interrupted only if zero for 3 consecutive years."}
+- Annual Blood Examination Rate
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+A patient with confirmed P. falciparum malaria develops impaired
+consciousness. This finding means the patient:
+
+- Has uncomplicated malaria and can continue oral treatment
+- [Has severe/complicated malaria and requires parenteral treatment such as IV artesunate]{.correct data-explanation="Impaired consciousness (a feature of cerebral malaria) is one of the WHO danger signs defining severe malaria, which requires parenteral therapy rather than the oral regimens used for uncomplicated malaria."}
+- Should be given oral primaquine immediately
+- Only needs a repeat RDT to confirm
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. National Vector Borne Disease Control Programme (NVBDCP), Ministry of
+   Health and Family Welfare, Government of India — Malaria treatment
+   and control guidelines.
+2. World Health Organization. *World Malaria Report* and RTS,S/AS01
+   vaccine recommendation (2021).
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for malaria epidemiology and malariometric
+   indicators.
+
+---
+
+## Thank You!
+
+**Next Module:** Typhoid Fever and Cholera
+
+[Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 1/6 | [Next →](module2_typhoid_cholera.html)

@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/26 | [Next Chapter →](occupational-health.html)"
+    footer: "[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/28 | [Next Chapter →](occupational-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -28,6 +28,7 @@ revealjs-plugins:
 
 - Classify disasters as natural vs. man-made, and internal vs. external
 - Describe the four phases of the disaster management cycle
+- Apply the four-colour mass-casualty triage system
 - Outline India's Disaster Management Act, 2005 and its authority structure
 - Apply the levels-of-prevention framework to disaster mitigation
 
@@ -121,6 +122,31 @@ The health sector has specific responsibilities at every phase:
   crowding — recall Chapter 6's chain of infection)
 - **Recovery** — restoring routine health services, and addressing
   longer-term mental health needs of affected populations (Chapter 10)
+
+---
+
+## Mass-Casualty Triage {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+When casualties exceed available resources, **triage** sorts patients by
+urgency rather than order of arrival — the disaster-medicine
+counterpart to the "mass-casualty triage training" mentioned as a
+preparedness activity above. The standard four-colour system:
+
+| Colour | Category | Meaning |
+|---|---|---|
+| **Red** | Immediate | Life-threatening but survivable with immediate intervention |
+| **Yellow** | Delayed | Serious injury, but can safely wait for treatment |
+| **Green** | Minor ("walking wounded") | Minor injuries, can wait or self-care |
+| **Black** | Expectant/deceased | Deceased, or injuries incompatible with survival given available resources |
+
+**Why this reverses everyday clinical priority:** in routine care, the
+most critically injured patient always gets treated first regardless of
+resource cost; in mass-casualty triage, resources are deliberately
+directed toward the **red** category rather than the most severely
+injured (black) — because the goal shifts from maximizing outcome for
+one patient to maximizing survivors overall.
 
 ---
 
@@ -238,6 +264,24 @@ prevention (Chapter 2)?
 
 ---
 
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+In mass-casualty triage, a patient with life-threatening but survivable
+injuries requiring immediate intervention is categorized as:
+
+- Green
+- Black
+- Yellow
+- [Red]{.correct data-explanation="Red (Immediate) marks patients with life-threatening but survivable injuries who need immediate intervention -- resources are directed here first in a mass-casualty setting."}
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. UCF Online. "The Disaster Management Cycle: 5 Key Stages."
@@ -253,4 +297,4 @@ prevention (Chapter 2)?
 
 **Next Chapter:** Occupational Health
 
-[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/26 | [Next Chapter →](occupational-health.html)
+[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/28 | [Next Chapter →](occupational-health.html)

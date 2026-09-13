@@ -1,0 +1,351 @@
+---
+title: "Chapter 27: AETCOM"
+subtitle: "Attitude, Ethics, and Communication"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](international-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 27/28 | [Next Chapter →](health-talks.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### AETCOM: Attitude, Ethics, and Communication
+
+**Learning Objectives:**
+
+- Explain why effective communication is a clinical skill, not a soft skill
+- Apply the SPIKES protocol for breaking bad news
+- State and apply the four principles of biomedical ethics
+- Describe the elements of valid informed consent
+- Trace the historical abuses that produced modern research ethics
+- Apply a structured framework to an ethical dilemma
+- Explain why error disclosure is an ethical obligation
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+AETCOM is a mandatory competency thread in the Indian MBBS curriculum,
+distinct from disease-specific chapters — it addresses how a doctor
+practises, not just what a doctor knows. This chapter closes the main
+curriculum before the closing Health Talks/Community IEC chapter.
+:::
+
+---
+
+## Effective Communication in Healthcare {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Communication is not incidental to clinical care — it is directly tied
+to diagnostic accuracy, treatment adherence, and patient satisfaction.
+
+- **Patient-centred communication** — understanding and addressing the
+  patient's concerns, values, and preferences, not just transmitting
+  clinical information
+- **Verbal communication** — clarity, appropriate language (avoiding
+  unexplained jargon), tone
+- **Non-verbal communication** — eye contact, posture, facial expression,
+  physical space — often communicates more than words, and can
+  contradict them if inconsistent
+- **Active listening** — fully attending to what a patient says (and
+  doesn't say) before responding, rather than formulating a reply while
+  they're still speaking
+
+**Why it matters:** poor communication is one of the most common
+sources of patient complaints and diagnostic error — not lack of
+medical knowledge.
+
+---
+
+## Breaking Bad News: The SPIKES Protocol {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Communicating a serious diagnosis or poor prognosis is one of the most
+difficult communication tasks in medicine — the **SPIKES** protocol
+structures it into six steps:
+
+- **S — Setting:** private space, adequate time, sitting down, no
+  interruptions
+- **P — Perception:** ask what the patient already understands before
+  telling them anything
+- **I — Invitation:** ask how much detail they want to know, respecting
+  that this varies by individual
+- **K — Knowledge:** give the information in small chunks, plain
+  language, warning ("I have some difficult news") before the news
+  itself
+- **E — Emotions:** acknowledge and respond to the patient's emotional
+  reaction before moving on — silence and empathy, not immediately
+  problem-solving
+- **S — Strategy/Summary:** agree on concrete next steps together
+
+**Why this belongs alongside the communication principles above:**
+SPIKES is patient-centred communication and active listening applied to
+the single highest-stakes conversation a clinician has — not a separate
+skill.
+
+---
+
+## The Four Principles of Biomedical Ethics {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The standard framework (Beauchamp and Childress) underlying essentially
+all modern clinical and research ethics:
+
+| Principle | Meaning |
+|---|---|
+| **Autonomy** | Respect the patient's right to make informed decisions about their own care |
+| **Beneficence** | Act to benefit the patient — maximize good outcomes |
+| **Non-maleficence** | *"First, do no harm"* — avoid causing harm |
+| **Justice** | Treat people fairly; distribute benefits/burdens of care and research equitably |
+
+**When principles conflict** (e.g. a competent patient autonomously
+refuses a beneficial treatment): there is no fixed hierarchy — this is
+precisely what makes ethics *reasoning*, not a lookup table, and is why
+a structured decision framework (later in this chapter) matters more
+than memorizing the four words.
+
+---
+
+## Informed Consent {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The practical expression of **autonomy** in clinical and research
+practice. Valid informed consent requires:
+
+- **Mental capacity** — the ability to understand and process the
+  information given
+- **Disclosure** — adequate information about the procedure, risks,
+  benefits, and alternatives (including the alternative of no treatment)
+- **Voluntariness** — freedom from coercion or undue influence,
+  including from family members or the treating team itself
+- **Comprehension** — confirming the patient actually understood, not
+  merely that information was provided
+
+**Exam tip:** consent obtained without genuine voluntariness (e.g. a
+patient agreeing only because a powerful relative is present and
+pressuring them) is **not valid consent**, even if a form is signed.
+
+---
+
+## Milestones in Medical Ethics {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Modern research ethics exists because of specific historical abuses —
+this timeline is worth knowing as cause-and-effect, not just dates:
+
+`Nuremberg Code (1947, following Nazi medical experiments) → Declaration of Helsinki (1964) → US Public Health Service Syphilis Study at Tuskegee exposed (1972) → Belmont Report (1979) → International ethical guidelines (1980s–2000s)`
+
+**The Tuskegee Syphilis Study (1932–1972):** researchers observed the
+natural progression of untreated syphilis in African American men,
+**deliberately withholding** effective treatment (including penicillin,
+proven safe and effective by the 1940s) without informing participants
+— leading to preventable deaths and disability, and directly triggering
+the Belmont Report's three core principles (respect for persons,
+beneficence, justice).
+
+**Nuremberg Code's core requirements:** informed consent is essential;
+research must be justified by anticipated benefit exceeding risk;
+avoidable suffering and death/disability risk must not be imposed on
+subjects.
+
+---
+
+## A Framework for Ethical Decision-Making {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A structured sequence for working through a genuine ethical dilemma,
+rather than defaulting to intuition alone:
+
+1. **Identify the dilemma** — which principles are actually in tension?
+2. **Gather relevant data** — clinical facts, patient values, family/
+   social context
+3. **Evaluate options and consequences** — for the patient, for others
+   affected, for the health system
+4. **Consult ethical guidelines and, where needed, colleagues/ethics
+   committees** — a dilemma faced alone is more likely to be resolved
+   poorly
+5. **Communicate transparently** — with the patient/family and the
+   care team, about the reasoning, not just the decision
+
+**Applies equally to individual clinical dilemmas** (e.g. a
+diagnostically uncertain case, a resource-allocation decision) and to
+**public health ethics** (e.g. balancing individual liberty against
+population benefit in an outbreak response).
+
+---
+
+## Disclosure of Medical Errors {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Medical errors** — diagnostic, procedural, communication, or systemic
+— occur in every health system; the ethical question is not whether
+they occur but how they are handled afterward.
+
+- **Why disclosure matters:** builds patient trust, upholds honesty and
+  respect for autonomy, and is the only route to systemic learning and
+  improvement
+- **Disclosure is not contingent on harm** — even a harmless error is
+  worth disclosing, since the ethical basis is honesty and transparency,
+  not damage control
+- **Common barriers:** fear of litigation or blame, inadequate
+  communication training, and an institutional culture of silence around
+  error — all of which disclosure policies and a "just culture" approach
+  aim to counter
+
+---
+
+## Ethical Theories: A Brief Map {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The four-principles framework is not the only lens available — several
+underlying ethical theories inform it:
+
+- **Deontology** — actions are right or wrong based on rules/duties,
+  regardless of consequences (e.g. "never lie to a patient")
+- **Consequentialism** — actions are judged by their outcomes (e.g.
+  public health decisions weighing aggregate population benefit)
+- **Virtue ethics** — focuses on the character of the practitioner
+  (honesty, compassion, courage) rather than rules or outcomes alone
+- **Principlism** — the four-principles approach itself, treated as a
+  practical middle ground between these more abstract theories
+
+---
+
+## Doctors as Social Agents {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Professionalism extends the doctor-patient relationship outward to
+society:
+
+- **Professional boundaries** — maintaining appropriate limits in the
+  doctor-patient relationship even under social or emotional pressure
+- **Physician and society** — doctors hold a position of public trust
+  and accountability that extends beyond individual patient encounters
+  to community and policy roles
+- **Physicians and colleagues** — collegial relationships (referral,
+  consultation, peer review) carry their own ethical obligations of
+  honesty and respect, distinct from the doctor-patient relationship
+
+**Trust and accountability** are the throughline connecting individual
+ethics (informed consent), institutional ethics (error disclosure), and
+professional ethics (social role) — this chapter's three threads are
+ultimately one continuous obligation, not three separate topics.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A patient signs a consent form for surgery but does so only because her
+adult son, present in the room, insists she must — while she privately
+expresses reluctance. This consent is:
+
+- Valid, since the form is signed
+- Valid, because a family member's presence is standard practice
+- [Not valid, because it lacks genuine voluntariness]{.correct data-explanation="Valid informed consent requires voluntariness — freedom from coercion or undue influence, including from family members. A signed form alone does not make consent valid if it was not freely given."}
+- Valid, since the son has legal authority over her care
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The Belmont Report's three core principles were formulated directly in
+response to which historical event?
+
+- The Nuremberg trials
+- [The Tuskegee Syphilis Study]{.correct data-explanation="The Belmont Report (1979) was produced by the US National Commission established after the Tuskegee Syphilis Study was exposed in 1972, in which effective treatment was deliberately withheld from participants without their knowledge."}
+- The Declaration of Helsinki
+- The Universal Declaration of Human Rights
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+According to the principle of ethical error disclosure, a doctor who
+makes a minor error that causes no harm to the patient should:
+
+- Not disclose it, since no harm occurred
+- [Disclose it, since ethical disclosure is rooted in honesty and transparency, not contingent on harm]{.correct data-explanation="Disclosure is grounded in honesty, autonomy, and trust — not merely damage control. Even a harmless error is worth disclosing, and doing so supports learning and strengthens the doctor-patient relationship."}
+- Disclose it only if the patient asks directly
+- Document it privately but never inform the patient
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+In the SPIKES protocol for breaking bad news, the "E" step (Emotions)
+involves:
+
+- Immediately proposing a treatment plan
+- [Acknowledging and responding to the patient's emotional reaction before moving forward]{.correct data-explanation="The Emotions step calls for the clinician to recognize and respond to the patient's emotional reaction -- with empathy and silence where needed -- before moving on to next steps, rather than rushing straight to problem-solving."}
+- Ending the conversation to give the patient privacy
+- Asking the patient to sign a consent form
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Beauchamp, T.L. and Childress, J.F. *Principles of Biomedical
+   Ethics* — the four-principles framework.
+2. The Nuremberg Code (1947); Declaration of Helsinki (1964, revised).
+3. The Belmont Report (1979), US National Commission for the
+   Protection of Human Subjects of Biomedical and Behavioral Research.
+4. Indian Council of Medical Research (ICMR). *National Ethical
+   Guidelines for Biomedical and Health Research Involving Human
+   Participants*.
+5. Medical Council of India / National Medical Commission. *AETCOM
+   Competencies for the Indian Medical Graduate*.
+6. Baile, W.F. et al. (2000). "SPIKES — A Six-Step Protocol for
+   Delivering Bad News." *The Oncologist*.
+
+---
+
+## Thank You!
+
+**Next Chapter:** Health Talks and Community IEC
+
+[← Previous](international-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 27/28 | [Next Chapter →](health-talks.html)

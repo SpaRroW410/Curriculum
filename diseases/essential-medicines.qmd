@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/26 | [Next Chapter →](nutrition.html)"
+    footer: "[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/28 | [Next Chapter →](nutrition.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -28,6 +28,7 @@ revealjs-plugins:
 
 - Define essential medicines and state WHO's selection criteria
 - Describe India's National List of Essential Medicines (NLEM)
+- Explain how NPPA and the Drug Price Control Order keep essential medicines affordable
 - State WHO's definition of rational use of medicines and list forms of irrational use
 - Distinguish substandard, falsified, and generic medicines
 - Explain why WHO retired the term "counterfeit medicines"
@@ -76,6 +77,31 @@ Organisation (CDSCO)** — India's National Regulatory Authority.
 - Purpose: ensure **accessibility of affordable, quality medicines** at
   every level of healthcare, and to guide public procurement and price
   control
+
+---
+
+## Drug Price Control in India {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Listing a medicine as "essential" does not by itself make it affordable
+— India uses a dedicated price-control mechanism to bridge that gap:
+
+- **National Pharmaceutical Pricing Authority (NPPA)** — the regulatory
+  body that fixes and monitors ceiling prices for scheduled (essential)
+  medicines
+- **Drug Price Control Order (DPCO)** — the legal instrument (most
+  recently DPCO 2013) under which NPPA sets **ceiling prices** for
+  medicines listed in the NLEM, preventing manufacturers from charging
+  above the fixed cap for essential medicines specifically
+- **Non-scheduled medicines** — those outside the NLEM are not subject
+  to the same ceiling-price control, only to an annual price-increase
+  cap
+
+**Why this connects to NLEM:** the NLEM decides *which* medicines are
+essential; DPCO/NPPA is the mechanism that actually keeps *those same
+medicines* affordable in the market — selection and price control work
+as a linked pair, not independently.
 
 ---
 
@@ -279,6 +305,24 @@ deceive, is classified as:
 
 ---
 
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+In India, ceiling prices for NLEM-listed medicines are fixed and
+monitored under which mechanism?
+
+- CDSCO licensing
+- [The Drug Price Control Order (DPCO), enforced by NPPA]{.correct data-explanation="NPPA (National Pharmaceutical Pricing Authority) fixes ceiling prices for scheduled/essential medicines under the Drug Price Control Order (most recently DPCO 2013) -- the price-control counterpart to NLEM's selection of which medicines are essential."}
+- WHO Model List classification
+- Generic substitution laws
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. World Health Organization. *WHO Model Lists of Essential Medicines*
@@ -291,6 +335,8 @@ deceive, is classified as:
    *National List of Essential Medicines 2022*.
 5. World Health Organization. *Access to Medicines* — the four-pillar
    framework (selection/use, financing, health systems, regulation).
+6. National Pharmaceutical Pricing Authority, Government of India.
+   *Drug Price Control Order, 2013*.
 
 ---
 
@@ -298,4 +344,4 @@ deceive, is classified as:
 
 **Next Chapter:** Nutrition and Health
 
-[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/26 | [Next Chapter →](nutrition.html)
+[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/28 | [Next Chapter →](nutrition.html)

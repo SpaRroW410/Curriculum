@@ -1,0 +1,249 @@
+---
+title: "Chapter 3: Light and Health"
+subtitle: "Natural and Artificial Lighting, Vision, and Biological Effects"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](air_health.html) | [Top](#home) | [Environment](../environment-health.html) | Module 2/3 | [Next →](radiation_health.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Light and Health
+
+**Learning Objectives:**
+
+- List the qualities of good lighting for efficient, strain-free vision
+- Describe the health and safety effects of poor lighting
+- Explain the Daylight Factor and how it guides building design
+- Distinguish direct, indirect, and semi-direct artificial lighting
+- Compare filament and fluorescent lamps
+- Describe biological effects of light beyond vision
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Third of the Environment section's sub-chapters — Air (Chapter 2)
+covered the thermal/ventilation environment; this one covers the visual
+environment.
+:::
+
+---
+
+## Qualities of Good Lighting {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Poor lighting strains the visual apparatus, causing fatigue and reduced
+efficiency. Good lighting requires:
+
+- **Sufficiency** — enough illumination to discern detail without
+  strain; 15–20 foot-candles is the accepted minimum, ranging from ~5
+  (stairways/corridors) to 100 (some industrial tasks)
+- **Uniform distribution** — no sharp contrast across the field of work
+- **Absence of glare** — excessive contrast (direct or reflected) causes
+  discomfort and reduces visual acuity
+- **Absence of sharp shadows** and **steadiness** — flickering causes eye
+  strain and accident risk
+- **Colour** — artificial light should approximate natural daylight;
+  surface reflection factors matter (ceilings ~80%, walls 50–60%,
+  furniture 30–40%, floors ≤15–20%)
+
+---
+
+## Effects of Poor Lighting {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Lighting quality is not a comfort issue alone — it has measurable
+health and safety consequences, which is why the qualities above are
+specified so precisely:
+
+- **Eye strain (asthenopia)** — from insufficient illumination, glare,
+  or flicker; presents as tired, aching, or watering eyes and headache
+  with prolonged near work
+- **Reduced visual acuity and accidents** — glare and sharp shadows
+  reduce the ability to judge distance and detail, raising the risk of
+  occupational and traffic accidents
+- **Reduced efficiency** — both insufficient and excessive illumination
+  reduce work output; there is an optimal range, not simply "more light
+  is better"
+- **Nystagmus** — a specific occupational eye disorder (rapid
+  involuntary eye movements) historically linked to prolonged work in
+  poorly lit conditions, classically described in miners
+
+---
+
+## Recommended Illumination Levels {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Required illumination varies by the precision of the task — a single
+"sufficient" threshold does not apply everywhere:
+
+| Setting/task | Approximate illumination (foot-candles) |
+|---|---|
+| Stairways, corridors, storage | ~5 |
+| General living/working areas | 15–20 (accepted minimum) |
+| Reading, classrooms, offices | 20–30 |
+| Fine assembly, precision industrial work | up to 100 |
+
+**Why this table matters:** it operationalizes "sufficiency" from the
+previous slide — a corridor and an operating table are not held to the
+same lighting standard, because the visual precision each task demands
+is different.
+
+---
+
+## Natural Lighting and the Daylight Factor {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Effective natural lighting depends on building **orientation** (north/
+south preferred in the tropics to avoid direct east/west sun heating
+rooms), **window design** (tall windows → deeper penetration; broad
+windows → wider diffusion), and **interior colour scheme** (white
+ceiling, light-tinted upper walls, darker lower walls for comfortable
+contrast).
+
+Because daylight intensity constantly changes, it's measured relative to
+outdoor conditions using the **Daylight Factor (DF)**:
+
+`DF = (Indoor illumination / Simultaneous outdoor illumination) × 100`
+
+Recommended minimum: **8% in living rooms, 10% in kitchens**.
+
+---
+
+## Artificial Lighting {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Type | Light distribution |
+|---|---|
+| **Direct** | 90–100% projected straight down; efficient but casts sharp shadows |
+| **Semi-direct** | 60–90% down, rest reflected off ceiling |
+| **Indirect** | 90–100% projected up to ceiling/walls; general room illumination without object-specific light |
+| **Semi-indirect** | 60–90% up, rest down |
+
+**Lamp types:** filament lamps (heat a tungsten filament; efficiency
+drops 30–40% with dust accumulation on the bulb) vs. **fluorescent
+lamps** (more efficient, cooler, light output closer to natural
+daylight — mercury vapour tube with fluorescent coating converting UV to
+visible light).
+
+---
+
+## Biological Effects of Light {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Light's effects on the body extend well beyond vision:
+
+- **Phototherapy** — daylight/blue light degrades bilirubin, used
+  therapeutically for **neonatal hyperbilirubinaemia** in premature
+  infants
+- **Circadian effects** — influences biologic rhythms of body
+  temperature and physical activity
+- Stimulates **melanin synthesis** and activates **vitamin D precursors**
+  in skin
+- Affects adrenocortical secretion and food consumption patterns
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+The Daylight Factor is best described as:
+
+- The absolute illumination measured in foot-candles
+- [The ratio of indoor illumination to simultaneous outdoor illumination, expressed as a percentage]{.correct data-explanation="DF = (indoor illumination / simultaneous outdoor illumination) x 100 — used instead of an absolute foot-candle measure because outdoor daylight intensity constantly changes."}
+- The number of windows per room
+- The colour temperature of daylight
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which artificial lighting type projects 90–100% of light upward toward
+the ceiling and walls, giving general room illumination rather than
+object-specific light?
+
+- Direct lighting
+- Semi-direct lighting
+- [Indirect lighting]{.correct data-explanation="Indirect lighting projects 90-100% of light upward to be reflected off the ceiling and walls, producing diffuse general illumination without directly lighting any specific object."}
+- Semi-indirect lighting
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Phototherapy using daylight/blue light is a recognized treatment for:
+
+- Vitamin D deficiency rickets
+- [Neonatal hyperbilirubinaemia in premature infants]{.correct data-explanation="Light causes in-vitro degradation of bilirubin, a biological effect exploited therapeutically as phototherapy for hyperbilirubinaemia in premature infants."}
+- Seasonal affective disorder only
+- Xerophthalmia
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Nystagmus as an occupational eye disorder is classically associated
+with:
+
+- Excessive outdoor sunlight exposure
+- [Prolonged work in poorly lit conditions, classically in miners]{.correct data-explanation="Occupational nystagmus (rapid involuntary eye movements) is classically described in workers, such as miners, doing prolonged close work under poor illumination."}
+- Use of fluorescent lamps
+- High Daylight Factor buildings
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for lighting hygiene and the Daylight Factor.
+
+---
+
+## Thank You!
+
+**Next:** Radiation and Noise
+
+[← Previous](air_health.html) | [Top](#home) | [Environment](../environment-health.html) | Module 2/3 | [Next →](radiation_health.html)

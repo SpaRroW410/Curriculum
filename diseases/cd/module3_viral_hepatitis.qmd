@@ -1,0 +1,277 @@
+---
+title: "Module 3: Viral Hepatitis"
+subtitle: "Hepatitis A Through E — A Comparative Approach"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module2_typhoid_cholera.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 3/6 | [Next →](module4_poliomyelitis.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Viral Hepatitis
+
+**Learning Objectives:**
+
+- Compare hepatitis A–E by transmission route, incubation, and chronicity
+- Describe the three-phase clinical course of acute viral hepatitis
+- Interpret the HBV serological marker panel (HBsAg, HBeAg, anti-HBs)
+- Describe hepatitis B prevention: vaccine, HBIG, and passive-active immunization
+- Recognize hepatitis C's shift to direct-acting antivirals
+- Identify why hepatitis E is especially dangerous in pregnancy
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Five clinically distinct viruses cause "viral hepatitis" — this module
+organizes them by the single most useful axis for undergraduate exams:
+faeco-oral (A, E) vs. blood-borne/parenteral (B, C, D) transmission,
+since that axis predicts chronicity, prevention strategy, and severity
+in pregnancy.
+:::
+
+---
+
+## Hepatitis A–E at a Glance {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Type | Route | Incubation | Chronic state? | Vaccine |
+|---|---|---|---|---|
+| **A** | Faeco-oral | 10–50 days | No | Yes (inactivated/live) |
+| **B** | Parenteral, perinatal, sexual | 30–180 days | Yes | Yes (recombinant) |
+| **C** | Parenteral (blood) | 2 weeks–6 months | Yes (55–85%) | No |
+| **D** | Parenteral, requires HBV co-infection | Variable | Yes, if HBV chronic | Prevented via HBV vaccine |
+| **E** | Faeco-oral (water) | 3–8 weeks | Usually no (chronic only if immunosuppressed) | Yes (China only) |
+
+**Exam pattern:** A and E are faeco-oral, self-limiting, and never
+become chronic; B, C, and D are blood-borne and can become chronic —
+this single distinction predicts most of what differs in prevention and
+prognosis below.
+
+---
+
+## Clinical Course of Acute Viral Hepatitis {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Regardless of which virus is responsible, acute viral hepatitis follows
+a shared three-phase clinical course:
+
+1. **Prodromal (pre-icteric) phase** — fever, malaise, anorexia, nausea,
+   and right upper quadrant discomfort, typically lasting several days
+   to two weeks; the patient is often most infectious during this phase,
+   before jaundice appears
+2. **Icteric phase** — jaundice develops as constitutional symptoms
+   begin to improve; dark urine and pale stools reflect impaired
+   bilirubin excretion
+3. **Convalescent phase** — jaundice and symptoms resolve gradually over
+   weeks; complete recovery is the rule in hepatitis A and E, while B, C,
+   and D may instead progress to chronic infection rather than resolving
+
+**Why this matters for control:** peak infectiousness in the
+symptom-free or pre-icteric phase (particularly relevant for hepatitis
+A) is exactly why faeco-oral hepatitis can spread silently before
+anyone recognizes an outbreak is underway.
+
+---
+
+## Hepatitis A: Prevention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Hepatitis A prevention mirrors the faeco-oral control measures already
+covered for typhoid and cholera (previous module), plus a specific
+vaccine:
+
+- **Non-specific measures** — safe water supply, sanitary excreta
+  disposal, food hygiene, and personal hand hygiene — the same
+  faeco-oral chain interruption used for typhoid/cholera
+- **Hepatitis A vaccine** — inactivated or live-attenuated, given to
+  travellers to endemic areas and increasingly included in some
+  national schedules; confers long-lasting immunity
+- **Passive immunization** — normal human immunoglobulin can be given
+  for post-exposure prophylaxis in close contacts, though largely
+  superseded by vaccination where available
+
+---
+
+## Hepatitis B: Serological Markers {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+HBV has three antigen–antibody systems that together stage infection —
+classic MBBS exam material:
+
+- **HBsAg** (surface antigen, "Australia antigen") — presence beyond 6
+  months defines the **chronic carrier state**
+- **HBeAg** — marker of active viral replication and higher infectivity
+- **Anti-HBs** — indicates immunity, either from past infection or
+  vaccination
+- **Anti-HBc (IgM)** — marks recent/acute infection
+
+**High-risk groups:** surgeons (~50× general-population incidence),
+transfusion recipients, healthcare/lab workers, infants of HBV-carrier
+mothers, and people who are immunocompromised — all recommended for
+screening and vaccination.
+
+---
+
+## Hepatitis B: Prevention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Hepatitis B vaccine** — recombinant (HBsAg-based), given IM in the
+  deltoid (anterolateral thigh in infants); 3 doses at 0, 1, and 6
+  months; included in India's **pentavalent vaccine** (DPT + Hep B + Hib)
+- **Hepatitis B Immunoglobulin (HBIG)** — passive immunization for acute
+  exposure (needle-stick, newborn of a carrier mother); most effective
+  within 6 hours, ideally not later than 48 hours
+- **Passive-active immunization** — HBIG + vaccine given together is
+  more effective than either alone, and is the standard approach for a
+  newborn of an HBsAg-positive mother
+
+**No specific curative treatment exists for hepatitis B** — this is why
+prevention (vaccination, blood screening) is the primary public-health
+strategy.
+
+---
+
+## Hepatitis C: A Changing Picture {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- Transmitted almost entirely via **blood exposure** (transfusion,
+  needle-stick, injection drug use) — not through food, water, or casual
+  contact
+- ~80% of new infections are **asymptomatic**; of those infected,
+  55–85% develop chronic infection, with 15–30% cirrhosis risk over 20
+  years
+- **Treatment has been transformed:** older interferon + ribavirin
+  regimens (48 weeks, ~50% cure, significant side effects) have been
+  replaced by **direct-acting antivirals (DAAs)** — 12-week courses that
+  cure most patients with far fewer adverse effects
+- **No vaccine exists** for hepatitis C — prevention relies entirely on
+  blood safety and injection safety
+
+---
+
+## Hepatitis E: Special Risk in Pregnancy {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- A water-borne disease; **genotype 1** (common in India and South Asia)
+  causes community outbreaks, unlike genotype 3 (developed countries)
+- Usually self-limiting with complete recovery — **except in pregnancy**,
+  where hepatitis E can cause fulminant hepatitis with a case fatality of
+  up to **20% in the third trimester**
+- No specific treatment; prevention relies on safe water and sanitation
+  (the same measures already covered for cholera and typhoid)
+
+**Exam tip:** hepatitis E is the one viral hepatitis where pregnancy
+itself is a major severity risk factor — this is the single fact most
+often tested.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Which hepatitis viruses are transmitted primarily by the faeco-oral
+route and never cause a chronic carrier state?
+
+- B and C
+- [A and E]{.correct data-explanation="Hepatitis A and E are transmitted faeco-orally and are self-limiting — neither establishes a chronic carrier state, unlike B, C, and D."}
+- C and D
+- B and D
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Persistence of which marker beyond 6 months defines the chronic hepatitis
+B carrier state?
+
+- Anti-HBs
+- HBeAg
+- [HBsAg]{.correct data-explanation="The chronic carrier state is defined by HBsAg persisting for more than 6 months, with or without concurrent HBeAg."}
+- Anti-HBc IgM
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A pregnant woman in her third trimester is at particularly high risk of
+fulminant, potentially fatal hepatitis from which virus?
+
+- Hepatitis A
+- Hepatitis C
+- [Hepatitis E]{.correct data-explanation="Hepatitis E carries a case-fatality rate of up to 20% in pregnant women in the third trimester — the highest severity risk among the five hepatitis viruses in this population."}
+- Hepatitis D
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+A patient with acute hepatitis is often most infectious during which
+phase, before jaundice is even visible?
+
+- Convalescent phase
+- [Prodromal (pre-icteric) phase]{.correct data-explanation="Infectiousness typically peaks during the prodromal phase, before jaundice appears — this silent-spread window is a key reason faeco-oral hepatitis outbreaks can be underway before they are recognized."}
+- Icteric phase only
+- Infectiousness is equal across all phases
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. Fact sheets: *Hepatitis A*, *Hepatitis B*,
+   *Hepatitis C*, *Hepatitis E*.
+2. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for viral hepatitis epidemiology.
+3. Government of India, Universal Immunization Programme — pentavalent
+   vaccine schedule.
+
+---
+
+## Thank You!
+
+**Next Module:** Poliomyelitis
+
+[← Previous](module2_typhoid_cholera.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 3/6 | [Next →](module4_poliomyelitis.html)

@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/26 | [Next Chapter →](demography.html)"
+    footer: "[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/28 | [Next Chapter →](demography.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -29,6 +29,7 @@ revealjs-plugins:
 - List the 8 Millennium Development Goals and identify the three explicitly health-focused ones
 - State the key SDG 3 health targets
 - Explain why the global development agenda moved from MDGs to SDGs
+- Identify SDGs beyond SDG 3 that directly determine health outcomes
 - Distinguish the scope and design philosophy of the two frameworks
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
@@ -125,6 +126,32 @@ The shift reflects a recognition that health outcomes depend on
 interlocking sectors (poverty, education, environment, inequality) —
 consistent with the multifactorial-causation and social-determinants
 ideas from earlier chapters.
+
+---
+
+## Health Beyond SDG 3: Interlinked Goals {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Health depends on more than SDG 3 alone — several other SDGs directly
+determine health outcomes, each connecting back to a chapter already
+covered in this course:
+
+- **SDG 1 (No Poverty)** and **SDG 2 (Zero Hunger)** — poverty and
+  malnutrition are upstream drivers of ill health (Chapter 9)
+- **SDG 4 (Quality Education)** — maternal education is one of the
+  strongest predictors of child survival and health-seeking behaviour
+- **SDG 5 (Gender Equality)** — directly shapes access to reproductive
+  health services and maternal health outcomes (Chapter 14)
+- **SDG 6 (Clean Water and Sanitation)** — safe water and sanitation
+  underlie faeco-oral disease control (Chapters 6, 16)
+- **SDG 13 (Climate Action)** — climate change increasingly affects
+  vector-borne disease patterns and environmental health (Chapter 16)
+
+**Why this matters:** it is the concrete version of the "interlocking
+sectors" point made on the previous slide — SDG 3 alone cannot achieve
+its own targets without progress on these other goals, which is exactly
+the intersectoral logic the SDGs were designed around.
 
 ---
 
@@ -252,6 +279,24 @@ is that it:
 
 ---
 
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+Which SDG most directly underlies the faeco-oral disease control
+measures covered in the Communicable Diseases chapter?
+
+- SDG 4 (Quality Education)
+- [SDG 6 (Clean Water and Sanitation)]{.correct data-explanation="Safe water and sanitation (SDG 6) are the structural basis for interrupting faeco-oral transmission, directly underlying disease-control measures covered for typhoid, cholera, and hepatitis A/E."}
+- SDG 13 (Climate Action)
+- SDG 1 (No Poverty)
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. World Health Organization. *Millennium Development Goals (MDGs)* —
@@ -269,4 +314,4 @@ is that it:
 
 **Next Chapter:** Demography and Family Planning
 
-[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/26 | [Next Chapter →](demography.html)
+[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/28 | [Next Chapter →](demography.html)

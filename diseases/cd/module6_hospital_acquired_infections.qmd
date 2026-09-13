@@ -1,0 +1,257 @@
+---
+title: "Module 6: Hospital-Acquired Infections"
+subtitle: "Source, Spread, and Prevention of Nosocomial Infection"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module5_food_poisoning.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 6/6"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Hospital-Acquired Infections
+
+**Learning Objectives:**
+
+- Define hospital-acquired (nosocomial) infection
+- Identify the four most common types of HAI
+- Describe the source, route of spread, and recipient framework
+- List standard precautions and device-specific prevention measures
+- Distinguish barrier nursing from task nursing
+- Explain why antimicrobial resistance and HAI are a linked problem
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This module closes the disease-specific series by turning from
+community transmission to the healthcare setting itself — the same
+chain-of-infection framework from Chapter 6 applies, just with the
+hospital as the environment.
+:::
+
+---
+
+## Definition and Classification {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A **hospital-acquired (nosocomial) infection** is one a patient develops
+during treatment for another condition, **not present or incubating at
+admission** — conventionally, onset **after 48 hours** of admission. It
+can also affect healthcare workers.
+
+The four most common types, each linked to an invasive device or
+procedure:
+
+| Type | Simplified criterion |
+|---|---|
+| **Urinary tract infection** | Positive culture, ≥10⁵ bacteria/mL |
+| **Surgical site infection** | Purulent discharge/abscess/cellulitis within a month of surgery |
+| **Respiratory infection** (esp. ventilator-associated pneumonia) | Respiratory symptoms + new infiltrate or purulent sputum |
+| **Vascular catheter infection / septicaemia** | Inflammation at insertion site, or fever + positive blood culture |
+
+---
+
+## Source, Spread, and Recipient {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+HAIs are analyzed from three angles:
+
+- **Source** — other patients, **hospital staff** (Staph aureus commonly
+  carried in nose/skin; Salmonella in the gut), or the **environment**
+  itself (hospital dust, surfaces)
+- **Route of spread** — direct contact (most common: via hands),
+  droplet, airborne particles, or contaminated equipment/procedures
+  (catheterization, IV lines, dressings)
+- **Recipient** — all patients are potential recipients, but risk is
+  highest in the seriously ill, those on corticosteroids, and patients
+  in ICU, urology, geriatric, or special newborn care units
+
+---
+
+## Prevention: Standard Precautions {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Applied to the care of **every** patient, regardless of known infection
+status:
+
+- **Hand hygiene** — the single most important measure, since hands are
+  the most common route of transmission; alcohol-based disinfectant when
+  soap and water alone is insufficient
+- **Personal protective equipment** — gloves for any contact risking
+  contamination; gown, mask, and eye protection where splashing is
+  anticipated
+- **Sharps handled with extreme care**; hands washed immediately after
+  glove removal
+- **Isolation** of infectious patients; susceptible patients kept away
+  from infection sources
+- **Dust and droplet control** — wet dusting/vacuum cleaning (not dry
+  sweeping), face masks, adequate bed spacing, ventilation
+
+---
+
+## Device-Specific Prevention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Evidence-based measures differ by infection type — knowing what
+**doesn't** work is as important as what does:
+
+| Infection | Proven effective | Proven NOT effective |
+|---|---|---|
+| **UTI** | Limiting catheter duration, aseptic insertion, closed drainage | Systemic antibiotic prophylaxis |
+| **Surgical site** | Clean OR environment, optimal antibiotic timing, aseptic technique | Preoperative shaving, fumigation |
+| **Ventilator pneumonia** | Aseptic suctioning, limiting ventilation duration | Routine ventilator-circuit changes every 48–72h |
+| **Vascular catheter** | Closed system, limited duration, aseptic insertion | Antimicrobial skin creams |
+
+---
+
+## Antimicrobial Resistance and HAI {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Hospital-acquired infections and antimicrobial resistance (AMR) are a
+linked problem, not two separate issues:
+
+- **Why hospitals concentrate resistant organisms:** dense antibiotic
+  use, close proximity of vulnerable patients, and invasive devices
+  create ideal conditions for resistant strains to emerge and spread —
+  e.g. **MRSA** (methicillin-resistant *Staphylococcus aureus*),
+  carbapenem-resistant Enterobacteriaceae, and multidrug-resistant
+  (MDR) Gram-negative organisms
+- **Consequence:** infections caused by resistant organisms have fewer
+  effective treatment options, higher treatment failure, longer
+  hospital stays, and higher mortality than the same infection caused
+  by a susceptible strain
+- **Antimicrobial stewardship** — hospital-level policies restricting
+  inappropriate/prophylactic antibiotic overuse, guided by local
+  resistance patterns (antibiograms) — is now considered as essential
+  to HAI control as hand hygiene and standard precautions
+
+**Why this belongs alongside standard precautions:** a hospital that
+practices good hand hygiene and isolation but has poor antibiotic
+stewardship will still breed resistant organisms — the two strategies
+are complementary, not substitutes for each other.
+
+---
+
+## Nursing and Administrative Measures {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+| Approach | Focus | Purpose |
+|---|---|---|
+| **Barrier nursing** | PPE, isolation, dedicated equipment, strict hand hygiene protocols | Prevent infection spread |
+| **Task nursing** | Each staff member repeats specific duties across all patients, supervised by a head nurse | Efficient care delivery |
+
+**Administrative control:** every hospital should have a **Control of
+Infection Committee** — responsible for policies on admission of
+infectious cases, isolation facilities, disinfection procedures, and
+overall HAI surveillance and response.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+By convention, an infection is classified as hospital-acquired
+(nosocomial) if it becomes apparent:
+
+- Within 24 hours of admission
+- [After 48 hours of admission, and not present or incubating at admission]{.correct data-explanation="The standard definition requires onset after 48 hours of admission, distinguishing it from a community-acquired infection the patient already had or was incubating on arrival."}
+- Only after discharge
+- Only in ICU patients
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The single most important and most common route of transmission for
+hospital-acquired infections is:
+
+- Airborne particles
+- Contaminated hospital dust
+- [Direct contact via the hands of healthcare workers]{.correct data-explanation="Hand contact is the most common route of cross-infection in hospitals, which is why hand hygiene is the cornerstone of standard precautions."}
+- Contaminated food
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Which of the following is a proven-**ineffective** measure for
+preventing catheter-associated urinary tract infection?
+
+- Limiting catheter duration
+- Aseptic technique at insertion
+- Maintaining closed drainage
+- [Systemic antibiotic prophylaxis]{.correct data-explanation="Systemic antibiotic prophylaxis has not been shown to be effective for preventing catheter-associated UTIs and is not recommended; catheter-duration limitation and aseptic technique are the proven measures."}
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Why are hospitals particularly prone to concentrating antimicrobial-
+resistant organisms such as MRSA?
+
+- Hospitals use fewer antibiotics than the community
+- [Dense antibiotic use combined with vulnerable patients and invasive devices creates ideal conditions for resistant strains]{.correct data-explanation="The combination of heavy antibiotic exposure, close proximity of susceptible patients, and invasive devices makes hospitals a favourable environment for resistant organisms to emerge and spread -- linking AMR directly to HAI control."}
+- Resistant organisms only exist outside hospitals
+- Antimicrobial stewardship increases resistance
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *Guidelines on Core Components of
+   Infection Prevention and Control Programmes*.
+2. Centers for Disease Control and Prevention. *Guideline for Isolation
+   Precautions: Preventing Transmission of Infectious Agents in
+   Healthcare Settings*.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for hospital-acquired infection control.
+
+---
+
+## Thank You!
+
+**Back to:** Communicable Diseases
+
+[← Previous](module5_food_poisoning.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 6/6

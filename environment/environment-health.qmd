@@ -57,13 +57,14 @@ well-being.\
     Safe water supply, sanitation, waterborne diseases, and control
     measures
 
--   **Chapter 2: Air and Health**\
-    Air quality, indoor and outdoor pollution, respiratory impacts, and
-    preventive strategies
+-   **[Chapter 2: Air and Health](env_health/air_health.qmd)**\
+    Physical and chemical changes in occupied-room air, thermal comfort,
+    and ventilation standards
 
--   **Chapter 3: Light and Health**\
-    Importance of natural and artificial lighting, vision health, and
-    ergonomic considerations
+-   **[Chapter 3: Light and Health](env_health/light_health.qmd)**\
+    Natural and artificial lighting, the Daylight Factor, and biological
+    effects of light
 
--   **Chapter 4: Radiation and Health**\
-    Types of radiation, sources, health effects, and protective measure
+-   **[Chapter 4: Radiation and Noise](env_health/radiation_health.qmd)**\
+    Ionizing and non-ionizing radiation, biological effects, radiation
+    protection, and noise pollution

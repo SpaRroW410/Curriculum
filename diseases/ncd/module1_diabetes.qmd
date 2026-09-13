@@ -1,0 +1,290 @@
+---
+title: "Module 1: Diabetes Mellitus"
+subtitle: "Burden, Screening, Diagnosis, and Management Principles"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 1/3 | [Next →](module2_hypertension.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Diabetes Mellitus
+
+**Learning Objectives:**
+
+- Describe the burden of diabetes globally and in India
+- Identify the agent, host, and environmental risk factors for diabetes
+- Apply WHO diagnostic criteria using FPG, 2-hour PG, and HbA1c
+- Describe whom to screen and how
+- Outline the principles of lifestyle modification and pharmacological
+  management
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This module extends Chapter 7's general NCD framework (four shared
+behavioural risk factors, WHO STEPS, population vs. high-risk strategy)
+to diabetes specifically — the first of three dedicated disease modules.
+Detailed drug pharmacology (dosing, duration of action) is intentionally
+left to a pharmacology course — this module stays at the community
+medicine level: epidemiology, screening, diagnosis, and management
+principles.
+:::
+
+---
+
+## Definition, Types, and Burden {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Diabetes mellitus** is a heterogeneous syndrome of chronic
+hyperglycaemia from defective insulin secretion, action, or both,
+disturbing carbohydrate, fat, and protein metabolism — one of the four
+priority NCDs targeted globally.
+
+- **Global prevalence:** 8.5% (2014), projected to affect 6 in 10 people
+  by 2040; nearly half of people with diabetes are unaware they have it
+- **India:** second-largest diabetic population worldwide (~73 million,
+  2017); urban prevalence rose from ~2% (1970s) to over 20% today, with
+  rural areas fast catching up
+
+---
+
+## Classification: Type 1, Type 2, and Gestational {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Type 1 diabetes** — autoimmune destruction of pancreatic beta cells,
+  causing absolute insulin deficiency; typically presents in childhood/
+  young adulthood, requires insulin from diagnosis
+- **Type 2 diabetes (majority of cases)** — a combination of insulin
+  resistance and relative (not absolute) insulin deficiency; strongly
+  linked to obesity and lifestyle factors, usually presents in adulthood
+  but rising in younger age groups
+- **Gestational diabetes mellitus (GDM)** — glucose intolerance first
+  recognized during pregnancy; a risk factor for both future maternal
+  type 2 diabetes and macrosomic birth, which is itself listed among the
+  screening indications below
+
+**Why this classification matters for prevention:** type 1 has no
+established primary prevention strategy (it is autoimmune, not
+lifestyle-driven), whereas type 2 is where population-level primary
+prevention (diet, physical activity) has real impact — this module's
+prevention content applies principally to type 2.
+
+---
+
+## Risk Factors {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Category | Examples |
+|---|---|
+| **Agent** | Beta-cell destruction (viral: rubella, mumps, coxsackie B4; autoimmune), genetic defects in insulin structure/function |
+| **Host** | Age, obesity (strongest modifiable risk factor), genetics (~90% concordance in identical twins for type 2), family history |
+| **Environmental / behavioural** | Physical inactivity, diet high in saturated fat and refined carbohydrate, smoking (elevated risk persists ~10 years after cessation) |
+
+**Clinical features:** many patients are asymptomatic; classic
+presentation includes polyuria, polydipsia, recurrent genital
+infections, and generalized pruritus — only about 1 in 5 people can
+recognize their own symptoms.
+
+---
+
+## Screening and Diagnosis {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Whom to screen:** family history of diabetes, overweight/obesity,
+hypertension, dyslipidaemia, sedentary lifestyle, history of gestational
+diabetes or macrosomic birth, cardiovascular disease.
+
+**WHO diagnostic criteria:**
+
+| | Normoglycaemia | Prediabetes | Diabetes |
+|---|---|---|---|
+| **FPG (mg/dL)** | <110 | 110–125 (IFG) | ≥126 |
+| **2-hour PG (mg/dL)** | <140 | 140–199 (IGT) | ≥200 |
+| **HbA1c** | <5.7% | 5.7–6.4% | ≥6.5% |
+
+Re-screen normoglycaemic individuals every 3 years; prediabetic
+individuals annually. **OGTT** uses a 75 g glucose load, with fasting
+and 2-hour samples.
+
+---
+
+## Complications {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Diabetes is dangerous largely because of its complications, split into
+two categories with very different time courses:
+
+- **Acute complications** — diabetic ketoacidosis (DKA, mainly type 1:
+  absolute insulin deficiency leads to fat breakdown and ketone
+  production), hyperosmolar hyperglycaemic state (mainly type 2), and
+  hypoglycaemia (usually a treatment complication rather than a disease
+  complication itself)
+- **Chronic complications**, from sustained hyperglycaemia over years:
+  - **Microvascular** — retinopathy (a leading cause of adult
+    blindness), nephropathy (a leading cause of chronic kidney disease
+    and dialysis need), neuropathy (loss of protective sensation,
+    contributing to diabetic foot ulcers and amputation)
+  - **Macrovascular** — accelerated atherosclerosis leading to coronary
+    artery disease, stroke, and peripheral vascular disease — the same
+    endpoints covered in the hypertension and stroke modules, since
+    diabetes, hypertension, and stroke share overlapping vascular
+    pathology
+
+**Why this matters for management:** the goals listed below
+("prevention of acute/chronic complications") are not abstract — the
+specific screening a diabetic patient needs (annual fundoscopy, renal
+function, foot examination) is defined directly by this complication
+list.
+
+---
+
+## Management Principles {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Goals:** glycaemic control, prevention of acute/chronic complications,
+symptom relief, managing comorbidities (obesity, hypertension,
+dyslipidaemia), and behavioural change support.
+
+**Lifestyle modification (first-line, all patients):** diet (complex
+carbohydrates and fibre over refined sugar; limit saturated/trans fat),
+regular physical activity, tobacco cessation, stress management, and
+structured diabetes education on self-care and monitoring.
+
+**Pharmacological management (broad categories, by mechanism):**
+
+- **Oral hypoglycaemic agents** — sulfonylureas (stimulate insulin
+  secretion), biguanides/metformin (reduce hepatic glucose output; first
+  choice in obese type 2 patients), and others targeting glucose
+  absorption or post-prandial spikes
+- **Insulin** — required at diagnosis for symptomatic hyperglycaemia,
+  ketosis, severe infection, or very high FPG/HbA1c; also used in
+  pregnancy, acute stress states, and hepatic/renal failure
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+According to WHO criteria, an HbA1c of 6.0% indicates:
+
+- Normoglycaemia
+- [Prediabetes]{.correct data-explanation="An HbA1c of 5.7-6.4% falls in the prediabetes range; diabetes requires HbA1c ≥6.5%."}
+- Diabetes
+- Requires OGTT regardless of the result
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which of the following is considered the strongest modifiable risk
+factor for type 2 diabetes?
+
+- Genetic predisposition
+- [Obesity]{.correct data-explanation="Obesity is repeatedly identified as the strongest modifiable risk factor for type 2 diabetes, reducing insulin receptor sensitivity on target cells."}
+- Male sex
+- Age under 40
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A patient with type 2 diabetes and obesity would typically be started
+on which first-line oral agent?
+
+- Sulfonylurea
+- [Metformin (a biguanide)]{.correct data-explanation="Metformin is the drug of choice in obese type 2 diabetics — it reduces hepatic gluconeogenesis without causing weight gain or significant hypoglycaemia, unlike sulfonylureas."}
+- Insulin
+- Alpha-glucosidase inhibitor
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Diabetic ketoacidosis is an acute complication seen predominantly in
+which type of diabetes?
+
+- Type 2 diabetes, due to insulin resistance
+- [Type 1 diabetes, due to absolute insulin deficiency]{.correct data-explanation="DKA arises from absolute insulin deficiency driving fat breakdown and ketone production, which is characteristic of type 1 diabetes; type 2 more commonly presents acutely with hyperosmolar hyperglycaemic state."}
+- Gestational diabetes only
+- It occurs equally regardless of type
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Diabetic retinopathy, nephropathy, and neuropathy are grouped together
+as:
+
+- Macrovascular complications
+- Acute complications
+- [Microvascular complications]{.correct data-explanation="Retinopathy, nephropathy, and neuropathy result from small-vessel (microvascular) damage from sustained hyperglycaemia, distinct from macrovascular complications like coronary artery disease and stroke."}
+- Screening indications only
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *Global Report on Diabetes*; WHO/IDF
+   diagnostic criteria for diabetes mellitus.
+2. International Diabetes Federation. *IDF Diabetes Atlas*.
+3. ICMR-INDIAB Study — state-wise diabetes prevalence in India.
+4. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for diabetes epidemiology.
+
+---
+
+## Thank You!
+
+**Next Module:** Hypertension
+
+[Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 1/3 | [Next →](module2_hypertension.html)

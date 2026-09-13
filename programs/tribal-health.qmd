@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/26 | [Next Chapter →](../environment/environment-health.html)"
+    footer: "[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/28 | [Next Chapter →](../environment/environment-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -28,6 +28,7 @@ revealjs-plugins:
 
 - Describe the major health determinants specific to India's Scheduled Tribes
 - State the burden of sickle cell disease among tribal populations
+- Explain the autosomal recessive inheritance pattern behind sickle cell trait and disease
 - Explain the National Sickle Cell Anaemia Elimination Mission's goals
 - Summarize the Expert Committee on Tribal Health's key findings
 - Identify the structural healthcare-access barriers unique to tribal areas
@@ -81,6 +82,34 @@ population:
 be identified through a simple test, sickle cell disease is a strong
 candidate for secondary prevention (early detection) at population scale
 (Chapter 2's levels of prevention).
+
+---
+
+## Sickle Cell Disease: Genetics Basics {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Understanding why screening (rather than treatment alone) is the core
+strategy requires the basic inheritance pattern:
+
+- **Autosomal recessive inheritance** — sickle cell disease results
+  from inheriting the abnormal haemoglobin gene (HbS) from **both**
+  parents
+- **Sickle cell trait (HbAS)** — one normal + one HbS gene; usually
+  asymptomatic carriers, but can pass the gene to offspring
+- **Sickle cell disease (HbSS)** — two HbS genes; symptomatic disease
+  with chronic haemolytic anaemia, painful vaso-occlusive crises, and
+  increased infection susceptibility
+- **G6PD deficiency** — a separate genetic condition also concentrated
+  in some tribal populations; relevant here because it is a
+  contraindication to **primaquine**, the antimalarial drug covered in
+  the Malaria module, due to haemolysis risk
+
+**Why this matters for screening design:** because carrier (HbAS) status
+is detectable but asymptomatic, population screening — not
+symptom-based case-finding — is the only way to identify at-risk couples
+before disease occurs in their children, which is exactly what NSCAEM's
+universal screening approach targets.
 
 ---
 
@@ -252,6 +281,24 @@ access specific to tribal areas, beyond infrastructure shortages?
 
 ---
 
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+A person who inherits one normal haemoglobin gene and one HbS gene,
+and is usually asymptomatic but can pass the gene to offspring, has:
+
+- Sickle cell disease (HbSS)
+- [Sickle cell trait (HbAS)]{.correct data-explanation="Sickle cell trait (HbAS) results from one normal and one HbS gene -- usually asymptomatic, but able to transmit the gene, which is exactly why carrier screening (not symptom-based detection) is needed to catch it."}
+- G6PD deficiency
+- Thalassemia major
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. International Journal of Community Medicine and Public Health.
@@ -271,4 +318,4 @@ access specific to tribal areas, beyond infrastructure shortages?
 
 **Next Chapter:** Environment and Health
 
-[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/26 | [Next Chapter →](../environment/environment-health.html)
+[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/28 | [Next Chapter →](../environment/environment-health.html)

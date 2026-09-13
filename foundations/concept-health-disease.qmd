@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/26 | [Next Chapter →](principles-epidemiology.html)"
+    footer: "[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/28 | [Next Chapter →](principles-epidemiology.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -26,12 +26,16 @@ revealjs-plugins:
 
 **Learning Objectives:**
 
+- Compare the biomedical, ecological, psychosocial, and holistic models
+  of health
 - Define disease and distinguish it from illness and sickness
 - Describe the epidemiological triad of agent, host, and environment
 - Explain the natural history of disease and its phases
 - Describe the iceberg phenomenon of disease
 - Apply the levels of prevention — primordial, primary, secondary, tertiary
 - Distinguish Koch's postulates from the Bradford Hill criteria of causation
+- Classify indicators of health and describe the PQLI and HDI
+- State who is responsible for realizing the right to health
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -40,6 +44,25 @@ This chapter builds directly on Chapter 1's determinants-of-health
 framework: here we formalize how disease actually develops and how
 prevention maps onto that process.
 :::
+
+---
+
+## Concepts of Health: Four Models {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Chapter 1 gave the WHO's definition of health. Community medicine
+teaching groups the thinking *behind* that definition into four models:
+
+| Model | Core idea |
+|---|---|
+| **Biomedical** | Health = absence of disease; rooted in germ theory. Criticized for ignoring social, environmental, and psychological determinants — it cannot explain malnutrition, chronic disease, drug abuse, or pollution as "health" problems |
+| **Ecological** | Health = a dynamic equilibrium between humans and their environment; disease = a maladjustment to that environment ("imperfect man" meets "imperfect environment") |
+| **Psychosocial** | Health is shaped by social, psychological, cultural, economic, and political factors, not biology alone |
+| **Holistic** | A synthesis of all three — every sector (agriculture, education, housing, industry) affects health; this is the thinking underlying the WHO's 1948 definition |
+
+**Exam tip:** the biomedical model is the oldest and narrowest; the
+holistic model is the broadest and is what the WHO definition operationalizes.
 
 ---
 
@@ -235,6 +258,52 @@ intervention.
 
 ---
 
+## Determinants of Health Revisited {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Chapter 1's four-domain model (environment, biology, lifestyle, health
+services) is the core teaching, but two further determinants are
+commonly added:
+
+- **Aging of the population** — more than two-thirds of people aged 60+
+  now live in developing countries; population aging raises the burden
+  of chronic disease and disability and needs dedicated health-system
+  attention
+- **Gender** — recognized as a distinct determinant since the 1993 Global
+  Commission on Women's Health, whose agenda spanned nutrition,
+  reproductive health, violence, aging, lifestyle, and occupational
+  exposure
+
+**Health and development:** health is not merely an *outcome* of
+development — it is an input to it. Health services are one subsystem
+within the broader socio-economic system, and human health and
+well-being are treated as an ultimate goal of development, not a
+byproduct.
+
+---
+
+## Indicators of Health: A Classification {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The WHO defines a health indicator as a variable that helps measure
+changes which cannot be measured directly. No single indicator captures
+"health" — a full profile draws on several categories:
+
+Mortality · Morbidity · Disability · Nutritional status · Health-care
+delivery · Utilization · Social/mental health · Environmental ·
+Socio-economic · Health policy · Quality of life · Social indicators
+
+**A good indicator should be:** Valid · Reliable · Sensitive · Specific ·
+Feasible · Relevant.
+
+DALY, QALY, and the mortality/morbidity indicators used in Indian health
+surveillance are covered in depth in Health Information and Basic
+Medical Statistics (Chapter 21).
+
+---
+
 ## Sufficient-Component Cause Model {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
@@ -272,6 +341,47 @@ each worsening the other — for example, the interaction between
 undernutrition, poor sanitation, and infectious disease in the same
 vulnerable communities. It extends the web-of-causation idea from a
 single disease to interacting epidemics.
+
+---
+
+## PQLI and HDI {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Two composite indices built to summarize development/well-being in a
+single number:
+
+| Index | Components | Scale |
+|---|---|---|
+| **Physical Quality of Life Index (PQLI)** | Infant mortality + life expectancy at age 1 + literacy, equally weighted | 0 (worst) – 100 (best) |
+| **Human Development Index (HDI)** | Life expectancy at birth + education (mean/expected years of schooling) + GNI per capita (PPP US\$) | 0 – 1 |
+
+Both consolidate outcome measures rather than inputs, and both allow
+country-to-country comparison over time — HDI is the more widely cited
+today (UNDP's Human Development Report).
+
+---
+
+## Right to Health and Responsibility for Health {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The WHO Constitution was the first instrument to formally recognize
+health as a right: *"the enjoyment of the highest attainable standard of
+health is one of the fundamental rights of every human being, without
+distinction of race, religion, political belief, economic or social
+condition."*
+
+Responsibility for realizing that right is shared across four levels:
+
+- **Individual** — self-care: the health decisions and habits a person
+  controls directly
+- **Community** — participates through manpower/resources, through
+  planning–management–evaluation, and simply by using health services
+- **State** — in India, health is constitutionally a state subject
+- **International** — cooperation between governments and bodies inside
+  and outside the UN system (e.g. exchange of experts, drugs and
+  supplies, cross-border communicable disease control)
 
 ---
 
@@ -411,6 +521,13 @@ The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
    prevention* — standard public health teaching reference.
 5. Singh, A., et al. Syndemic theory in public health — as applied to
    co-occurring disease and social conditions.
+6. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for concepts of health, determinants, indicators
+   of health, PQLI, and right to health.
+7. World Health Organization. *Constitution of the World Health
+   Organization* (1946/1948).
+8. United Nations Development Programme. *Human Development Report* —
+   HDI methodology.
 
 ---
 
@@ -418,4 +535,4 @@ The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
 
 **Next Chapter:** Principles of Epidemiology
 
-[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/26 | [Next Chapter →](principles-epidemiology.html)
+[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/28 | [Next Chapter →](principles-epidemiology.html)

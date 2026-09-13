@@ -1,0 +1,38 @@
+---
+title: "Selected Communicable Diseases"
+format:
+  html:
+    code-copy: true
+    theme: cosmo
+    toc: true
+    lightbox: auto
+
+editor:
+  markdown:
+    wrap: 72
+---
+
+# Selected Communicable Diseases
+
+Chapter 6 covers the **general principles** of communicable disease
+epidemiology — the chain of infection, transmission, herd immunity, and
+outbreak investigation. This section applies those principles to six
+specific diseases in depth, each as its own module.
+
+- **[Module 1: Malaria](cd/module1_malaria.qmd)** — agent, life cycle,
+  clinical types, diagnosis, treatment, and NVBDCP
+- **[Module 2: Typhoid Fever and Cholera](cd/module2_typhoid_cholera.qmd)**
+  — two classic faeco-oral enteric diseases
+- **[Module 3: Viral Hepatitis](cd/module3_viral_hepatitis.qmd)** —
+  hepatitis A through E compared
+- **[Module 4: Poliomyelitis](cd/module4_poliomyelitis.qmd)** — clinical
+  spectrum, IPV vs. OPV, surveillance, and India's eradication
+- **[Module 5: Food Poisoning and Diarrhoeal Disease
+  Control](cd/module5_food_poisoning.qmd)** — bacterial agents, oral
+  rehydration therapy, and India's programme
+- **[Module 6: Hospital-Acquired Infections](cd/module6_hospital_acquired_infections.qmd)**
+  — source, spread, and prevention of nosocomial infection
+
+Return to [Communicable Diseases](communicable-diseases.qmd) for the
+general epidemiology of communicable disease, or to
+[Contents](../intro.qmd) for the full curriculum.

@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>index.qmd/topic-index.html</loc>
-    <lastmod>2026-09-07T07:44:30.311Z</lastmod>
+    <lastmod>2026-09-08T20:52:56.059Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/programs/preventive-medicine.html</loc>
-    <lastmod>2026-09-07T05:31:14.232Z</lastmod>
+    <lastmod>2026-09-13T05:34:27.356Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/programs/health-programmes.html</loc>
-    <lastmod>2026-09-07T05:31:14.232Z</lastmod>
+    <lastmod>2026-09-13T05:31:41.048Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/post_graduate/dissertation-guide.html</loc>
@@ -22,31 +22,35 @@
   </url>
   <url>
     <loc>index.qmd/global/international-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.231Z</lastmod>
+    <lastmod>2026-09-13T05:33:41.312Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/global/health-information.html</loc>
-    <lastmod>2026-09-07T05:31:14.231Z</lastmod>
+    <loc>index.qmd/global/health-planning.html</loc>
+    <lastmod>2026-09-13T05:29:03.256Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/global/community-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
+    <loc>index.qmd/global/health-education.html</loc>
+    <lastmod>2026-09-13T05:28:42.580Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/global/aetcom.html</loc>
+    <lastmod>2026-09-13T05:33:18.256Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/foundations/principles-epidemiology.html</loc>
-    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
+    <lastmod>2026-09-08T08:05:16.534Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/foundations/epidemiologic-methods.html</loc>
-    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
+    <lastmod>2026-09-08T08:05:16.537Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/environment/waste-management.html</loc>
-    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
+    <lastmod>2026-09-13T05:27:42.624Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/environment/genetics.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+    <lastmod>2026-09-13T05:36:23.908Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/environment/env_health/water/module9_quiz.html</loc>
@@ -65,20 +69,48 @@
     <lastmod>2026-09-07T05:31:14.233Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/module2_environment_health.html</loc>
+    <loc>index.qmd/environment/env_health/radiation_health.html</loc>
+    <lastmod>2026-09-13T05:30:25.844Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/module1_one_health.html</loc>
     <lastmod>2026-09-07T05:31:14.233Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/disaster-management.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+    <loc>index.qmd/environment/env_health/air_health.html</loc>
+    <lastmod>2026-09-13T05:24:22.384Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/ncd.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+    <loc>index.qmd/diseases/nutrition.html</loc>
+    <lastmod>2026-09-08T08:05:16.512Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/essential-medicines.html</loc>
-    <lastmod>2026-09-07T05:31:14.227Z</lastmod>
+    <loc>index.qmd/diseases/ncd/module3_stroke.html</loc>
+    <lastmod>2026-09-13T05:21:21.448Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/ncd/module1_diabetes.html</loc>
+    <lastmod>2026-09-13T05:22:35.316Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/mental-health.html</loc>
+    <lastmod>2026-09-08T08:05:16.515Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/communicable-diseases.html</loc>
+    <lastmod>2026-09-08T08:05:16.509Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/cd/module5_food_poisoning.html</loc>
+    <lastmod>2026-09-13T05:26:09.872Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/cd/module3_viral_hepatitis.html</loc>
+    <lastmod>2026-09-13T05:24:55.764Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/cd/module1_malaria.html</loc>
+    <lastmod>2026-09-13T05:26:51.156Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/assets/references.html</loc>
@@ -89,20 +121,48 @@
     <lastmod>2026-08-28T09:27:29.052Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/communicable-diseases.html</loc>
-    <lastmod>2026-09-07T05:31:14.227Z</lastmod>
+    <loc>index.qmd/diseases/cd.html</loc>
+    <lastmod>2026-09-08T07:36:48.296Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/mental-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+    <loc>index.qmd/diseases/cd/module2_typhoid_cholera.html</loc>
+    <lastmod>2026-09-13T05:26:29.516Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/nutrition.html</loc>
-    <lastmod>2026-09-07T05:31:14.228Z</lastmod>
+    <loc>index.qmd/diseases/cd/module4_poliomyelitis.html</loc>
+    <lastmod>2026-09-13T05:25:48.616Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/module1_one_health.html</loc>
-    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+    <loc>index.qmd/diseases/cd/module6_hospital_acquired_infections.html</loc>
+    <lastmod>2026-09-13T05:25:18.332Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/essential-medicines.html</loc>
+    <lastmod>2026-09-13T05:32:37.508Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/ncd.html</loc>
+    <lastmod>2026-09-08T08:05:16.517Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/ncd/module2_hypertension.html</loc>
+    <lastmod>2026-09-13T05:22:09.108Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/ncd_modules.html</loc>
+    <lastmod>2026-09-08T07:41:35.744Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/disaster-management.html</loc>
+    <lastmod>2026-09-13T05:28:02.228Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/light_health.html</loc>
+    <lastmod>2026-09-13T05:23:51.996Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/module2_environment_health.html</loc>
+    <lastmod>2026-09-08T07:56:26.744Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/environment/env_health/water.html</loc>
@@ -122,50 +182,54 @@
   </url>
   <url>
     <loc>index.qmd/environment/environment-health.html</loc>
-    <lastmod>2026-08-28T09:27:29.298Z</lastmod>
+    <lastmod>2026-09-08T07:51:11.596Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/environment/occupational-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
+    <lastmod>2026-09-08T08:05:16.530Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/foundations/concept-health-disease.html</loc>
-    <lastmod>2026-09-07T05:31:14.229Z</lastmod>
+    <lastmod>2026-09-08T08:05:16.539Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/foundations/man-and-medicine.html</loc>
-    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
+    <lastmod>2026-09-08T08:05:16.532Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/foundations/screening.html</loc>
-    <lastmod>2026-09-07T05:31:14.230Z</lastmod>
+    <lastmod>2026-09-08T08:05:16.542Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/global/health-education.html</loc>
-    <lastmod>2026-09-07T05:31:14.231Z</lastmod>
+    <loc>index.qmd/global/community-health.html</loc>
+    <lastmod>2026-09-08T08:05:16.494Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/global/health-planning.html</loc>
-    <lastmod>2026-09-07T05:31:14.231Z</lastmod>
+    <loc>index.qmd/global/health-information.html</loc>
+    <lastmod>2026-09-13T05:34:50.460Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/global/health-talks.html</loc>
+    <lastmod>2026-09-08T08:08:32.156Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/global/social-sciences.html</loc>
-    <lastmod>2026-09-07T05:31:14.231Z</lastmod>
+    <lastmod>2026-09-13T05:32:04.228Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/intro.html</loc>
-    <lastmod>2026-09-07T07:44:34.987Z</lastmod>
+    <lastmod>2026-09-08T08:08:49.472Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/programs/demography.html</loc>
-    <lastmod>2026-09-07T05:31:14.232Z</lastmod>
+    <lastmod>2026-09-13T05:36:15.720Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/programs/mdg-sdg.html</loc>
-    <lastmod>2026-09-07T05:31:14.232Z</lastmod>
+    <lastmod>2026-09-13T05:29:42.756Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/programs/tribal-health.html</loc>
-    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+    <lastmod>2026-09-13T05:30:05.232Z</lastmod>
   </url>
 </urlset>

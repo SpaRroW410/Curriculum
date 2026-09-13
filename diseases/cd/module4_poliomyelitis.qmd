@@ -1,0 +1,272 @@
+---
+title: "Module 4: Poliomyelitis"
+subtitle: "Clinical Spectrum, Vaccines, Surveillance, and India's Eradication"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module3_viral_hepatitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 4/6 | [Next →](module5_food_poisoning.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Poliomyelitis
+
+**Learning Objectives:**
+
+- Describe poliovirus, its reservoir, and modes of transmission
+- Classify the clinical spectrum of polio infection
+- Recognize the features of paralytic poliomyelitis
+- Distinguish post-polio syndrome from acute paralytic polio
+- Compare IPV and OPV — mechanism, advantages, and complications
+- Explain AFP surveillance and vaccine-derived poliovirus (VDPV)
+- Outline India's path to polio-free certification
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Polio is a landmark eradication success story — India was certified
+polio-free in 2014 after being one of the last endemic reservoirs. This
+module pairs the biology with the surveillance/vaccination programme
+that achieved that result.
+:::
+
+---
+
+## Agent, Reservoir, and Transmission {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Agent:** poliovirus (RNA virus), 3 serotypes — most paralytic outbreaks
+are **type 1**. **Reservoir:** humans only, no chronic carriers, no
+animal source. Most infections are **subclinical** — for every clinical
+case there may be ~1,000 subclinical infections in children, driving
+silent community spread.
+
+**Transmission:** primarily **faeco-oral** (contaminated water, food,
+fingers, flies); droplet spread can occur during the acute phase and
+matters more where sanitation is already good.
+
+**Incubation period:** 7–14 days (range 3–35 days). Most vulnerable age
+in India: **6 months–3 years**.
+
+---
+
+## Clinical Spectrum {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Only about **1% of infections** involve the CNS and cause paralysis —
+the rest fall into three non-paralytic categories:
+
+| Form | Features |
+|---|---|
+| **Inapparent (subclinical)** | No symptoms; detected only by virus isolation or rising antibody titre |
+| **Abortive polio** | Mild, self-limiting illness from viraemia; not clinically distinguishable without lab tests |
+| **Non-paralytic polio** | Neck/back stiffness and pain, synonymous with aseptic meningitis; recovery in 2–10 days |
+| **Paralytic polio** | Virus invades the CNS — see next slide |
+
+---
+
+## Paralytic Polio: Recognition {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Asymmetrical flaccid paralysis** is the hallmark, preceded by fever
+  at onset
+- Paralysis is **descending** (hip → distal limb), asymmetric and
+  patchy, with proximal muscles more affected than distal
+- Progresses to its maximum in under 4 days (up to 4–7); deep tendon
+  reflexes diminish before paralysis onset; **no sensory loss**
+- Bulbar/bulbospinal forms involve cranial nerves — facial asymmetry,
+  swallowing difficulty; **respiratory insufficiency is the usual cause
+  of death**
+
+**No specific treatment exists** — management is supportive: good
+nursing care and early physiotherapy to minimize residual disability.
+
+---
+
+## Post-Polio Syndrome {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+A distinct entity from the acute paralytic illness above — worth
+distinguishing because it can appear decades later:
+
+- **Post-polio syndrome (PPS)** — new muscle weakness, fatigue, and pain
+  developing **15–40 years after** apparent recovery from acute
+  paralytic polio, in muscles previously affected (or thought fully
+  recovered)
+- **Proposed mechanism:** gradual degeneration of overworked motor
+  neurons that had compensated for those originally destroyed by the
+  virus, not a reactivation or re-infection
+- **Management:** supportive — energy conservation, individualized
+  exercise, mobility aids — since, like acute polio, there is no
+  curative treatment
+
+**Why it matters going forward:** even after a country is certified
+polio-free, its polio survivors from the pre-eradication era remain a
+population with an ongoing, delayed clinical need.
+
+---
+
+## IPV vs. OPV {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| | IPV (Salk) | OPV (Sabin) |
+|---|---|---|
+| **Type** | Inactivated, injectable | Live attenuated, oral |
+| **Immunity induced** | Humoral only (IgG/IgM/IgA in serum) | Humoral **and** intestinal (secretory IgA) |
+| **Herd effect** | None — doesn't block gut transmission | Strong — vaccine virus spreads to contacts, achieving herd immunity at ~66% coverage |
+| **Epidemic use** | Poor fit — needs multiple doses, injections risky during outbreaks | Well suited — rapid, can interrupt transmission |
+| **Key risk** | None significant | Rare **Vaccine-Associated Paralytic Polio (VAPP)**, mostly linked to Sabin type 3 |
+
+**India's routine schedule** uses OPV (birth dose + primary series) with
+**fractional-dose IPV (fIPV)** introduced nationally after a 2016
+VDPV2 detection — 2 intradermal fIPV doses achieve higher seroconversion
+than one full IM dose.
+
+---
+
+## AFP Surveillance {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Since polio itself is often silent, **Acute Flaccid Paralysis (AFP)
+case reporting** is the surveillance backbone — any child with sudden
+flaccid paralysis is investigated, whether or not polio is suspected
+clinically.
+
+- **Sensitivity target:** ≥1 non-polio AFP case per 100,000 children
+  under 15 detected annually — proof the system is sensitive enough to
+  catch a real case if one occurred
+- Two stool specimens, 24–48 hours apart, within 14 days of paralysis
+  onset, shipped to a WHO-accredited lab within 72 hours
+- **Environmental surveillance** (testing sewage, e.g. in Mumbai) can
+  detect circulating poliovirus even without a clinical AFP case
+
+---
+
+## Vaccine-Derived Poliovirus and India's Eradication {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **VDPV** — the live OPV strain, in communities with low vaccination
+  coverage, can genetically revert over prolonged circulation and cause
+  paralysis indistinguishable from wild-type polio; classified as
+  circulating (cVDPV), immunodeficiency-associated (iVDPV), or ambiguous
+  (aVDPV)
+- **Pulse Polio Immunization (PPI)** — India's mass campaign strategy
+  since 1995: two immunization rounds 4–6 weeks apart, during the
+  **low-transmission season** (Nov–Feb), targeting every child under 5
+  regardless of prior immunization status, as extra doses supplementing
+  (not replacing) routine immunization
+
+**Outcome:** India was certified **polio-free on 27 March 2014**. Wild
+poliovirus type 2 (eradicated 2015) and type 3 (eradicated 2019) are
+gone globally; type 1 is the only wild strain still circulating anywhere.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Approximately what proportion of poliovirus infections result in
+paralysis?
+
+- 50%
+- 10%
+- [1%]{.correct data-explanation="Only about 1% of poliovirus infections involve the CNS and cause paralysis — the overwhelming majority are subclinical, which is exactly what makes AFP surveillance and environmental surveillance necessary."}
+- 25%
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which vaccine induces intestinal (mucosal) immunity and can create herd
+immunity through community spread of the vaccine virus?
+
+- IPV
+- [OPV]{.correct data-explanation="OPV, as a live attenuated oral vaccine, replicates in the gut, inducing secretory IgA (intestinal immunity) and spreading to contacts — producing herd immunity at roughly 66% coverage. IPV induces only humoral immunity."}
+- Fractional IPV alone
+- Human normal immunoglobulin
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+The minimum surveillance sensitivity target for AFP case detection is:
+
+- At least 1 case per 1,000 children under 15 per year
+- [At least 1 non-polio AFP case per 100,000 children under 15 per year]{.correct data-explanation="This is the WHO benchmark used to confirm a surveillance system is sensitive enough to detect a true polio case if one occurred, even in polio-free settings."}
+- At least 1 case per 10,000 children under 5 per year
+- Zero AFP cases reported annually
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Post-polio syndrome, developing 15-40 years after acute paralytic
+polio, is best explained by:
+
+- Reactivation of latent poliovirus
+- Re-infection with a new poliovirus serotype
+- [Gradual degeneration of overworked motor neurons that had compensated for those originally destroyed]{.correct data-explanation="Post-polio syndrome is thought to result from the gradual failure of motor neurons that had been compensating for the ones destroyed during the original acute infection -- not reactivation or re-infection, since poliovirus is not known to persist latently."}
+- A vaccine complication in unimmunized adults
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *Polio Eradication and Endgame Strategic
+   Plan (2013–2018)*; Global Polio Laboratory Network surveillance
+   standards.
+2. Government of India, Ministry of Health and Family Welfare —
+   Pulse Polio Immunization and fractional-dose IPV rollout.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for poliomyelitis epidemiology.
+
+---
+
+## Thank You!
+
+**Next Module:** Food Poisoning and Diarrhoeal Disease
+
+[← Previous](module3_viral_hepatitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 4/6 | [Next →](module5_food_poisoning.html)

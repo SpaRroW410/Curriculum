@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/26 | [Next Chapter →](community-health.html)"
+    footer: "[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/28 | [Next Chapter →](community-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -28,6 +28,7 @@ revealjs-plugins:
 
 - Describe the steps of the health planning cycle
 - Explain the criteria used for setting health priorities
+- Distinguish monitoring from evaluation within the planning cycle
 - Trace the role of India's Five-Year Plans in health sector development, and the transition to NITI Aayog
 - List Gulick's seven POSDCORB management functions
 - Apply the planning cycle to a national health programme example
@@ -102,6 +103,27 @@ disease control, and human resources.
   (National Institution for Transforming India), which since the 12th
   Plan's completion (2017) has taken over health-sector planning and
   programming with a more **flexible, non-five-year framework**
+
+---
+
+## Monitoring vs. Evaluation {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The planning cycle's last two steps are often confused, but ask
+different questions and happen on different timescales:
+
+| | Monitoring | Evaluation |
+|---|---|---|
+| **Question asked** | "Are we doing what we planned?" | "Did it work?" |
+| **Timing** | Continuous, throughout implementation | Periodic — mid-term or at completion |
+| **Purpose** | Track process indicators, enable timely correction | Judge outcomes against objectives (efficiency, acceptance, adequacy) |
+| **Example** | Tracking monthly ASHA home-visit counts against target | Assessing whether IMR actually fell in the target districts |
+
+**Why the distinction matters:** a programme can pass every monitoring
+checkpoint (activities completed on schedule) and still fail evaluation
+(no measurable health outcome improved) — process fidelity is not the
+same as impact.
 
 ---
 
@@ -250,6 +272,24 @@ In Gulick's POSDCORB framework, "CO" stands for:
 
 ---
 
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+A programme completes all its planned activities on schedule, but the
+target health outcome does not improve. This scenario illustrates that:
+
+- Monitoring and evaluation always agree
+- [Passing monitoring checkpoints (process fidelity) does not guarantee a positive evaluation (impact)]{.correct data-explanation="Monitoring tracks whether planned activities happened; evaluation judges whether objectives were actually achieved. A programme can be monitored as fully on-track while still failing evaluation, since process completion is not the same as impact."}
+- Evaluation should be skipped if monitoring looks good
+- The programme's objectives were never defined
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. World Health Organization. *National Health Planning Tools* —
@@ -268,4 +308,4 @@ In Gulick's POSDCORB framework, "CO" stands for:
 
 **Next Chapter:** Health Care of the Community
 
-[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/26 | [Next Chapter →](community-health.html)
+[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/28 | [Next Chapter →](community-health.html)

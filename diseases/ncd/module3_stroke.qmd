@@ -1,0 +1,239 @@
+---
+title: "Module 3: Stroke"
+subtitle: "Epidemiology and Three Levels of Prevention"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module2_hypertension.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 3/3"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Stroke
+
+**Learning Objectives:**
+
+- Describe the descriptive epidemiology of stroke
+- Distinguish ischaemic from haemorrhagic stroke and explain why the
+  distinction matters for treatment
+- Apply the FAST test for community-level stroke recognition
+- Identify major and other risk factors for stroke
+- Apply primary, secondary, and tertiary prevention to stroke
+- Explain why stroke mortality has declined in some countries
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Stroke risk factors overlap heavily with coronary artery disease (CAD)
+and with hypertension (previous module) — this module emphasizes that
+overlap rather than treating stroke as an isolated condition.
+:::
+
+---
+
+## Descriptive Epidemiology {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Stroke (cerebrovascular disease)** — sudden loss of brain function due
+to a vascular lesion; a leading cause of death and a major source of
+disability and economic impact. Can occur in children, though with
+different risk factors than adult stroke.
+
+- **Age:** the strongest determinant — incidence roughly doubles each
+  decade after age 55; mortality also rises with age
+- **Sex:** higher incidence in males
+- **Time trend:** a striking decline in stroke mortality in many
+  countries, attributed mainly to better hypertension control, secondary
+  prevention after TIA, reduced smoking, and improved acute treatment
+
+---
+
+## Types of Stroke {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Stroke is not a single pathology — the two broad types share risk
+factors but differ in mechanism, and this distinction determines
+emergency management (e.g. thrombolysis is appropriate only in
+ischaemic stroke):
+
+- **Ischaemic stroke (~85% of cases)** — blood supply to part of the
+  brain is blocked, most often by a **thrombus** (local clot, usually
+  atherosclerotic) or an **embolus** (a clot travelling from elsewhere,
+  classically the heart in atrial fibrillation)
+- **Haemorrhagic stroke (~15% of cases)** — bleeding into or around
+  brain tissue, split into:
+  - **Intracerebral haemorrhage** — bleeding directly into brain
+    tissue, most strongly linked to poorly controlled hypertension
+  - **Subarachnoid haemorrhage** — bleeding into the space around the
+    brain, classically from a ruptured berry aneurysm
+
+**Why the distinction matters for prevention:** hypertension drives
+both types, but antiplatelet/anticoagulant therapy — a tertiary
+prevention tool for ischaemic stroke — would worsen a haemorrhagic
+stroke, which is why accurate early diagnosis (imaging) precedes any
+tertiary-level treatment decision.
+
+---
+
+## Recognizing a Stroke: The FAST Test {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Because acute stroke treatment (thrombolysis) is highly time-sensitive,
+community-level recognition is itself a public health intervention —
+this is the population-education counterpart to Chapter 28's health-talk
+skills, applied to stroke:
+
+- **F — Face:** ask the person to smile; look for facial drooping on
+  one side
+- **A — Arms:** ask them to raise both arms; look for one arm drifting
+  downward
+- **S — Speech:** ask them to repeat a simple sentence; listen for
+  slurred or strange speech
+- **T — Time:** if any sign is present, note the time symptoms started
+  and seek emergency care immediately — "time is brain"
+
+**Why this belongs in a prevention framework:** rapid recognition and
+transport is what makes tertiary-level treatment (thrombolysis,
+rehabilitation) possible at all — a stroke unrecognized at home never
+reaches the acute care where outcomes are actually changed.
+
+---
+
+## Risk Factors {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Stroke risk factors are **largely shared with coronary artery disease**
+— this overlap is the single most testable fact about stroke
+epidemiology:
+
+- **Major:** hypertension (the single most important risk factor),
+  smoking, hyperlipidaemia, diabetes mellitus, heart disease,
+  polycythaemia, thrombocythaemia
+- **Other:** family history, oral contraceptive use, previous
+  stroke/TIA, carotid bruit, obesity, physical inactivity, high alcohol
+  intake, drug abuse, trauma, coexisting CAD or peripheral vascular
+  disease
+
+---
+
+## Prevention {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Applying the standard levels-of-prevention framework (Chapter 2) to
+stroke specifically:
+
+| Level | Action |
+|---|---|
+| **Primary** | Detect and control risk factors — especially hypertension, smoking, hypercholesterolaemia, diabetes, heart disease, TIA |
+| **Secondary** | Early detection (no definitive screening test exists; carotid bruit auscultation in high-risk individuals is reasonable); low-dose aspirin has a suggested but not firmly proven role |
+| **Tertiary** | Acute treatment — rehabilitation, anticoagulants in selected cases; preventing recurrence — antiplatelet therapy, carotid endarterectomy in selected cases |
+
+**Exam tip:** unlike cancer or diabetes, stroke has **no established
+population screening test** — prevention relies almost entirely on
+controlling upstream risk factors (primary prevention), which is why
+hypertension control gets so much emphasis.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+The single most important risk factor for stroke is:
+
+- Diabetes mellitus
+- [Hypertension]{.correct data-explanation="Hypertension is identified as the major risk factor for stroke, which is why stroke prevention strategy places such heavy emphasis on blood pressure control."}
+- Polycythaemia
+- Oral contraceptive use
+:::
+
+---
+
+## Self-Check: Question 1a {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1a
+
+Thrombolysis is an appropriate emergency treatment for which type of
+stroke?
+
+- Subarachnoid haemorrhage
+- Intracerebral haemorrhage
+- [Ischaemic stroke]{.correct data-explanation="Thrombolysis dissolves a clot blocking a vessel, which is appropriate only for ischaemic stroke (~85% of cases); giving it in a haemorrhagic stroke would worsen the bleeding, which is why imaging to distinguish the two precedes any treatment decision."}
+- All types equally
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Stroke risk factors most closely overlap with those of which other
+condition?
+
+- Malaria
+- Type 1 diabetes only
+- [Coronary artery disease (CAD)]{.correct data-explanation="Stroke and CAD share nearly identical major risk factors — hypertension, smoking, hyperlipidaemia, diabetes, and heart disease — reflecting their shared vascular pathology."}
+- Viral hepatitis
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Which statement about stroke screening is correct?
+
+- A validated population-wide screening test exists and should be applied to all adults
+- [No definitive early-detection test exists; prevention relies primarily on controlling upstream risk factors]{.correct data-explanation="Unlike some cancers or diabetes, there is no established screening test for stroke — this is why primary prevention (risk factor control) carries so much of the preventive burden."}
+- Screening is only useful after age 75
+- Carotid bruit auscultation replaces the need for risk factor control
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for stroke epidemiology and prevention.
+2. World Health Organization. *Global Status Report on
+   Noncommunicable Diseases* — stroke burden and time trends.
+
+---
+
+## Thank You!
+
+**Back to:** Chronic Non-Communicable Diseases
+
+[← Previous](module2_hypertension.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 3/3

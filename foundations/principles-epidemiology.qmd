@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/26 | [Next Chapter →](epidemiologic-methods.html)"
+    footer: "[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/28 | [Next Chapter →](epidemiologic-methods.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -29,7 +29,9 @@ revealjs-plugins:
 - State the standard definition of epidemiology and its core aims
 - Distinguish ratio, proportion, and rate
 - Define incidence and prevalence, and the relationship between them
+- Calculate an attack rate for an outbreak
 - Describe descriptive epidemiology by person, place, and time
+- Explain why epidemiology needs a fixed operational case definition
 - Outline the broad types of epidemiological study
 - Recognize John Snow's 1854 investigation as a founding case study
 
@@ -129,6 +131,23 @@ questions and must not be confused.
 
 ---
 
+## Attack Rate {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A special form of incidence rate, used only when a population is exposed
+to risk for a **limited period** — typically during an outbreak:
+
+`Attack Rate = (New cases during the outbreak) / (Population at risk) × 100`
+
+Unlike a general incidence rate, it is expressed as a percentage over the
+whole exposure episode rather than per year. **Secondary attack rate** —
+new cases among *contacts* of a primary case, within the incubation
+period — is covered with outbreak measures in Communicable Diseases
+(Chapter 6).
+
+---
+
 ## Descriptive Epidemiology: Person, Place, Time {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -175,6 +194,31 @@ Three broad categories — detailed study designs are covered in
   population subgroups
 - Evaluating the effectiveness and efficiency of health services and
   interventions
+
+---
+
+## Operational Case Definitions {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A clinician can revise a diagnosis later if it turns out to be wrong. An
+epidemiologist cannot: the study needs a definition **fixed in advance**
+that any field worker can apply consistently to classify a person as a
+case or not.
+
+- An **operational definition** spells out exact, measurable criteria —
+  e.g. tonsillitis defined not just clinically, but as "enlarged, red
+  tonsils with white exudate, throat swab culture positive for
+  *S. pyogenes*"
+- It must be **precise** (unambiguous), **valid** (actually captures the
+  disease), and **applicable** across large populations and different
+  observers
+- Once set, the case definition is used **throughout the study** —
+  changing it mid-study breaks comparability between phases
+
+**Why it matters:** without this, "who counts as a case" varies by
+observer, and rates computed from the data become impossible to compare
+or replicate.
 
 ---
 
@@ -339,6 +383,8 @@ than only observing existing exposure) is classified as:
 3. Snow, J. (1855). *On the Mode of Communication of Cholera* (2nd ed.).
 4. London Museum / London School of Hygiene and Tropical Medicine —
    historical records of the 1854 Broad Street cholera outbreak.
+5. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for attack rate and operational case definitions.
 
 ---
 
@@ -346,4 +392,4 @@ than only observing existing exposure) is classified as:
 
 **Next Chapter:** Epidemiologic Methods
 
-[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/26 | [Next Chapter →](epidemiologic-methods.html)
+[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/28 | [Next Chapter →](epidemiologic-methods.html)

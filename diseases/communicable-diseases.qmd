@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/26 | [Next Chapter →](ncd.html)"
+    footer: "[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/28 | [Next Chapter →](ncd.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -27,9 +27,13 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - Describe the six links in the chain of infection
+- Distinguish endemic, sporadic, epidemic, and pandemic disease occurrence
 - Classify modes of transmission of communicable disease
 - Define basic reproduction number (R₀) and herd immunity threshold
+- Describe carrier states and why chronic carriers matter
+- Distinguish incubation period, generation time, and serial interval
 - Distinguish isolation from quarantine
+- Compare live, killed, toxoid, and subunit vaccines
 - Apply the levels of prevention to communicable disease control
 - Outline the standard steps of an outbreak investigation
 
@@ -58,6 +62,29 @@ any one link, and transmission stops:
 4. **Mode of transmission** — how it travels to a new host
 5. **Portal of entry** — how it enters the new host
 6. **Susceptible host** — an individual capable of being infected
+
+---
+
+## Epidemic, Endemic, and Pandemic {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Disease occurrence is classified by how its frequency compares to what's
+normally expected in a place and population:
+
+| Term | Meaning |
+|---|---|
+| **Endemic** | Constant, expected presence of a disease in a given area/population, without importation |
+| **Sporadic** | Cases occur irregularly and infrequently, with no consistent pattern |
+| **Epidemic** | Cases clearly **in excess** of normal expectancy for that place, population, and season |
+| **Pandemic** | An epidemic spanning multiple countries/continents, usually affecting large numbers of people |
+| **Exotic** | A disease imported into an area where it does not otherwise occur |
+
+**Zoonoses** — infections naturally transmissible between vertebrate
+animals and humans — are classified by direction: **anthropozoonoses**
+(animal → human, e.g. rabies, anthrax), **zooanthroponoses** (human →
+animal, e.g. human TB in cattle), and **amphixenoses** (either
+direction).
 
 ---
 
@@ -145,6 +172,27 @@ control:
 
 ---
 
+## Types of Vaccines {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Immunizing agents used for primary prevention fall into distinct
+categories, each with different implications for immunity and
+administration:
+
+| Type | How it works | Examples |
+|---|---|---|
+| **Live attenuated** | Weakened live organism; usually strong, long-lasting immunity from few doses | BCG, OPV, MMR |
+| **Killed / inactivated** | Whole organism inactivated; safer in immunocompromised hosts, but needs boosters | Inactivated polio (IPV), rabies |
+| **Toxoid** | Inactivated bacterial toxin, not the organism itself | Tetanus, diphtheria |
+| **Subunit / conjugate** | Only a specific antigenic component, reducing side effects | Hepatitis B, Hib |
+
+**Exam tip:** live vaccines are generally contraindicated in pregnancy
+and immunocompromised individuals, since the attenuated organism can
+still replicate.
+
+---
+
 ## Isolation vs. Quarantine {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -158,6 +206,45 @@ control:
 **Both are control measures acting on different links of the chain of
 infection** — isolation removes an active reservoir; quarantine
 interrupts transmission from a potential future case.
+
+---
+
+## Carrier States {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A **carrier** is an infected person who sheds the agent without (or
+before/after) showing overt disease — carriers matter because they're
+often *missed* by clinical surveillance.
+
+- **By type:** incubatory (sheds during incubation) · convalescent
+  (continues shedding after clinical recovery, e.g. typhoid, cholera) ·
+  healthy (shedding without ever having overt disease, e.g. poliomyelitis)
+- **By duration:** temporary (short-lived shedding) vs. **chronic**
+  (indefinite shedding — the greater public-health threat, since the
+  longer the carrier state, the greater the cumulative community risk)
+
+**Why carriers matter more than cases, sometimes:** a diagnosed case is
+usually isolated; an unrecognized chronic carrier keeps transmitting
+silently.
+
+---
+
+## Incubation Period and Related Intervals {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Incubation period** — the time between exposure to an infectious agent
+and the first sign or symptom of disease. It depends on infective dose,
+portal of entry, and host susceptibility, and is used to set quarantine
+duration and trace likely sources.
+
+Two related, easily confused intervals:
+
+- **Generation time** — from receipt of infection to that host's own
+  peak infectivity
+- **Serial interval** — the gap between symptom onset in a primary case
+  and symptom onset in a secondary case it infects
 
 ---
 
@@ -197,6 +284,25 @@ The standard CDC-style sequence for investigating a suspected outbreak:
 *(In practice these steps often overlap and don't run strictly in order —
 control measures, for instance, are often started well before the
 investigation formally concludes.)*
+
+---
+
+## Explore: Selected Diseases in Depth {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The principles above apply to every communicable disease — six specific
+diseases are covered in dedicated modules, each with agent, clinical
+features, diagnosis, treatment, and control in full depth:
+
+[**Malaria**](cd/module1_malaria.html) · [**Typhoid Fever &
+Cholera**](cd/module2_typhoid_cholera.html) · [**Viral
+Hepatitis**](cd/module3_viral_hepatitis.html) ·
+[**Poliomyelitis**](cd/module4_poliomyelitis.html) · [**Food Poisoning &
+Diarrhoeal Disease**](cd/module5_food_poisoning.html) ·
+[**Hospital-Acquired Infections**](cd/module6_hospital_acquired_infections.html)
+
+Or browse the [module hub](cd.html) for an overview of all six.
 
 ---
 
@@ -351,6 +457,9 @@ eradication to date. Which factor was essential to its success?
    Investigation* (10-step framework).
 6. World Health Organization (1980). *Declaration of Global Eradication
    of Smallpox*.
+7. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for epidemic/endemic classification, carrier
+   states, incubation-related intervals, and vaccine types.
 
 ---
 
@@ -358,4 +467,4 @@ eradication to date. Which factor was essential to its success?
 
 **Next Chapter:** Epidemiology of Chronic Non-Communicable Diseases
 
-[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/26 | [Next Chapter →](ncd.html)
+[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/28 | [Next Chapter →](ncd.html)

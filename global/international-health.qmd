@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/26 | [Course Contents →](../intro.html)"
+    footer: "[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/28 | [Next Chapter →](aetcom.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -26,9 +26,12 @@ revealjs-plugins:
 
 **Learning Objectives:**
 
+- Trace the organizations that preceded WHO and what it inherited from them
 - Describe WHO's governance structure and India's regional office
 - State the purpose and core capacities required under the International Health Regulations (2005)
+- Explain how and by whom a Public Health Emergency of International Concern (PHEIC) is declared
 - Identify the roles of UNICEF, the World Bank, the Global Fund, and Gavi in global health
+- Name further UN and bilateral/philanthropic contributors to international health
 - Define global health security and health diplomacy
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
@@ -39,6 +42,23 @@ This chapter closes the Global Perspectives section and the full
 systems (Chapters 11-25) to the international architecture they operate
 within.
 :::
+
+---
+
+## Evolution of International Health Organizations {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+WHO did not emerge in isolation — it consolidated a century of earlier,
+fragmented efforts:
+
+`International Sanitary Conferences (from 1851, Paris — quarantine coordination, no lasting agreement) → Pan American Sanitary Bureau (1902, the world's first international health agency) → Office International d'Hygiène Publique (1907, Paris — communicable disease intelligence) → Health Organization of the League of Nations (1923) → UNRRA (1943) → WHO (1948)`
+
+**Why this history matters:** each predecessor contributed something WHO
+still uses — the Pan American Sanitary Bureau became **PAHO**, WHO's
+regional office for the Americas; the League's Health Organization
+pioneered the **expert-committee model** and periodic epidemiological
+reporting that WHO still runs today.
 
 ---
 
@@ -86,6 +106,33 @@ covered there.
 
 ---
 
+## Public Health Emergency of International Concern (PHEIC) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+IHR (2005)'s core capacities above exist to support one specific,
+consequential mechanism: the **PHEIC declaration**.
+
+- **Definition:** an extraordinary event determined to constitute a
+  public health risk to other states through international spread, and
+  to potentially require a coordinated international response
+- **Who declares it:** the WHO **Director-General**, based on advice
+  from an **Emergency Committee** of independent experts convened under
+  IHR
+- **Effect:** triggers WHO Temporary Recommendations to member states
+  (on travel, trade, surveillance) and mobilizes coordinated
+  international response and funding
+- **Examples:** H1N1 influenza (2009), Ebola in West Africa (2014) and
+  DRC (2019), COVID-19 (2020), mpox (2022 and 2024)
+
+**Why this matters:** PHEIC is the concrete trigger mechanism connecting
+IHR's abstract legal framework to an actual global response — the
+outbreak-investigation and surveillance core capacities listed above are
+what a country needs *before* an event reaches PHEIC threshold, not only
+during one.
+
+---
+
 ## Global Health Financing and Delivery Actors {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -104,6 +151,30 @@ Beyond WHO, several other organizations shape global health outcomes:
   society) that has helped immunize **over 1.2 billion children**,
   preventing more than 20.6 million deaths, and helped **halve child
   mortality** in 78 lower-income countries since 2000
+
+---
+
+## Other UN and Partner Agencies {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Beyond WHO/UNICEF/World Bank/Gavi, several further UN specialized
+agencies and external partners have shaped health outcomes in India and
+globally:
+
+| Agency | Focus |
+|---|---|
+| **UNDP** (1966) | Broad development financing/technical assistance across sectors, health included |
+| **UNFPA** | Population and reproductive health programming; assisting India since 1974 |
+| **FAO** (1945) | Food production and nutrition; ran the World Freedom from Hunger Campaign (1960) |
+| **ILO** (1919) | Labour/occupational health standards — the *International Labour Code* |
+
+**Bilateral and philanthropic contributors** have also mattered
+historically: USAID (malaria eradication, family planning support), the
+**Colombo Plan** (helped establish AIIMS New Delhi), and the
+**Rockefeller** and **Ford Foundations** (medical education, rural
+health service pilots, and institutions including AIIMS and the
+National Institute of Virology, Pune).
 
 ---
 
@@ -237,6 +308,24 @@ Assembly resolution, is most closely associated with:
 
 ---
 
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+A Public Health Emergency of International Concern (PHEIC) is formally
+declared by:
+
+- The United Nations Security Council
+- The affected country's health ministry
+- [The WHO Director-General, on advice from an Emergency Committee]{.correct data-explanation="Under IHR (2005), the WHO Director-General declares a PHEIC based on advice from an Emergency Committee of independent experts -- the mechanism that triggers coordinated international response and WHO Temporary Recommendations."}
+- The World Bank
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. World Health Organization. *International Health Regulations (2005)*
@@ -246,11 +335,14 @@ Assembly resolution, is most closely associated with:
 3. World Health Assembly (2001). *Global health security: epidemic alert
    and response* — resolution WHA54.14.
 4. PMC. "The need for health diplomacy in health security operations."
+5. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for the evolution of international health
+   organizations and UN/bilateral/philanthropic agencies.
 
 ---
 
 ## Thank You!
 
-**This is the final chapter (26/26) of the curriculum.**
+**Next Chapter:** AETCOM — Attitude, Ethics and Communication
 
-[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/26 | [Course Contents →](../intro.html)
+[← Previous](community-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 26/28 | [Next Chapter →](aetcom.html)

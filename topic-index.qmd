@@ -24,6 +24,13 @@ which chapter it lives in. For a chapter-by-chapter view, see
 
 ## A
 
+**ASHA (Accredited Social Health Activist)**\
+Selection, roles, and responsibilities.\
+[Ch 25 – ASHA: Roles and Responsibilities](global/community-health.qmd#asha-roles-and-responsibilities)
+
+**Attack Rate**\
+[Ch 3 – Attack Rate](foundations/principles-epidemiology.qmd#attack-rate)
+
 **Alma-Ata Declaration / Primary Health Care (PHC)**\
 The 1978 declaration and its principles.\
 [Ch 1 – Primary Health Care: Alma-Ata, 1978](foundations/man-and-medicine.qmd#primary-health-care-alma-ata-1978) ·
@@ -65,7 +72,9 @@ India's flagship health assurance scheme and its two pillars.\
 
 **Case-Control Study**\
 [Ch 4 – Case-Control Study](foundations/epidemiologic-methods.qmd#case-control-study) ·
-[Ch 4 – Cohort vs. Case-Control](foundations/epidemiologic-methods.qmd#cohort-vs.-case-control)
+[Ch 4 – Cohort vs. Case-Control](foundations/epidemiologic-methods.qmd#cohort-vs.-case-control) ·
+[Ch 4 – Matching in Case-Control Studies](foundations/epidemiologic-methods.qmd#matching-in-case-control-studies) ·
+[Ch 4 – Nested Case-Control Study](foundations/epidemiologic-methods.qmd#nested-case-control-study)
 
 **Chain of Infection**\
 [Ch 6 – The Chain of Infection](diseases/communicable-diseases.qmd#the-chain-of-infection)
@@ -73,8 +82,23 @@ India's flagship health assurance scheme and its two pillars.\
 **Chlorination**\
 [Water Mod 5 – Disinfection Method 2: Chlorination](environment/env_health/water/module5_water_treatment.qmd#disinfection-method-2-chlorination)
 
+**Cholera**\
+[CD Mod 2 – Cholera: Agent and Clinical Picture](diseases/cd/module2_typhoid_cholera.qmd#cholera-agent-and-clinical-picture) ·
+[CD Mod 2 – Cholera: Outbreak Control](diseases/cd/module2_typhoid_cholera.qmd#cholera-outbreak-control)
+
+**Chromosomal Disorders**\
+Down's, Klinefelter's, Turner's, XYY.\
+[Ch 20 – Chromosomal Disorders](environment/genetics.qmd#chromosomal-disorders)
+
 **Cohort Study**\
 [Ch 4 – Cohort Study](foundations/epidemiologic-methods.qmd#cohort-study)
+
+**Community Health Centre (CHC) / First Referral Unit (FRU)**\
+[Ch 25 – Community Health Centre: FRU vs. Non-FRU](global/community-health.qmd#community-health-centre-fru-vs.-non-fru)
+
+**Concepts of Health: Four Models**\
+Biomedical, ecological, psychosocial, holistic.\
+[Ch 2 – Concepts of Health: Four Models](foundations/concept-health-disease.qmd#concepts-of-health-four-models)
 
 **Confounding**\
 [Ch 4 – Confounding](foundations/epidemiologic-methods.qmd#confounding)
@@ -95,6 +119,11 @@ India's flagship health assurance scheme and its two pillars.\
 [Ch 1 – Determinants of Health](foundations/man-and-medicine.qmd#determinants-of-health) ·
 [Ch 23 – WHO Social Determinants of Health Framework](global/social-sciences.qmd#who-social-determinants-of-health-framework)
 
+**Diabetes Mellitus**\
+Burden, risk factors, WHO diagnostic criteria.\
+[NCD Mod 1 – Definition, Types, and Burden](diseases/ncd/module1_diabetes.qmd#definition-types-and-burden) ·
+[NCD Mod 1 – Screening and Diagnosis](diseases/ncd/module1_diabetes.qmd#screening-and-diagnosis)
+
 **Disaster Management Cycle**\
 [Ch 18 – The Disaster Management Cycle](environment/disaster-management.qmd#the-disaster-management-cycle)
 
@@ -105,6 +134,10 @@ India's flagship health assurance scheme and its two pillars.\
 **Ecological Fallacy**\
 [Ch 4 – Ecological Fallacy — A Closer Look](foundations/epidemiologic-methods.qmd#ecological-fallacy-a-closer-look)
 
+**Epidemic, Endemic, Sporadic, and Pandemic**\
+Classification of disease occurrence, plus zoonoses.\
+[Ch 6 – Epidemic, Endemic, and Pandemic](diseases/communicable-diseases.qmd#epidemic-endemic-and-pandemic)
+
 **Epidemiological Triad**\
 [Ch 2 – The Epidemiological Triad](foundations/concept-health-disease.qmd#the-epidemiological-triad)
 
@@ -112,13 +145,27 @@ India's flagship health assurance scheme and its two pillars.\
 [Ch 8 – What Are Essential Medicines?](diseases/essential-medicines.qmd#what-are-essential-medicines) ·
 [Ch 8 – India's National List of Essential Medicines (NLEM)](diseases/essential-medicines.qmd#indias-national-list-of-essential-medicines-nlem)
 
+**Eugenics**\
+[Ch 20 – Eugenics: History and Ethics](environment/genetics.qmd#eugenics-history-and-ethics)
+
+**Evolution of International Health Organizations**\
+Sanitary Conferences → PASB → OIHP → League of Nations → UNRRA → WHO.\
+[Ch 26 – Evolution of International Health Organizations](global/international-health.qmd#evolution-of-international-health-organizations)
+
 ---
 
 ## F
 
+**The Factories Act, 1948**\
+[Ch 19 – The Factories Act, 1948](environment/occupational-health.qmd#the-factories-act-1948)
+
 **Fluorosis / Fluoride Contamination**\
 [Water Mod 6 – Health Associations: Fluoride](environment/env_health/water/module6_pollution_diseases.qmd#health-associations-fluoride) ·
 [Water Mod 6 – Case Study: Fluorosis Mitigation](environment/env_health/water/module6_pollution_diseases.qmd#case-study-fluorosis-mitigation)
+
+**Four Principles of Biomedical Ethics**\
+Autonomy, beneficence, non-maleficence, justice.\
+[Ch 27 – The Four Principles of Biomedical Ethics](global/aetcom.qmd#the-four-principles-of-biomedical-ethics)
 
 ---
 
@@ -139,14 +186,29 @@ India's flagship health assurance scheme and its two pillars.\
 
 ## H
 
+**Health and Wellness Centres (HWC) / Community Health Officer (CHO)**\
+[Ch 25 – Health and Wellness Centres: The Community Health Officer](global/community-health.qmd#health-and-wellness-centres-the-community-health-officer)
+
 **Health Belief Model**\
 [Ch 22 – The Health Belief Model](global/health-education.qmd#the-health-belief-model)
+
+**Hepatitis, Viral (A–E)**\
+Comparative transmission, chronicity, and prevention.\
+[CD Mod 3 – Hepatitis A–E at a Glance](diseases/cd/module3_viral_hepatitis.qmd#hepatitis-ae-at-a-glance) ·
+[CD Mod 3 – Hepatitis B: Serological Markers](diseases/cd/module3_viral_hepatitis.qmd#hepatitis-b-serological-markers)
 
 **Herd Immunity**\
 [Ch 6 – Herd Immunity](diseases/communicable-diseases.qmd#herd-immunity)
 
 **HMIS (Health Management Information System)**\
 [Ch 21 – Health Management Information System (HMIS)](global/health-information.qmd#health-management-information-system-hmis)
+
+**Hospital-Acquired Infections (HAI)**\
+[CD Mod 6 – Definition and Classification](diseases/cd/module6_hospital_acquired_infections.qmd#definition-and-classification)
+
+**Housing, Healthful**\
+Site/room standards, overcrowding indicators.\
+[Water Mod 2 – Healthful Housing](environment/env_health/module2_environment_health.qmd#healthful-housing)
 
 ---
 
@@ -168,8 +230,15 @@ India's flagship health assurance scheme and its two pillars.\
 **Indian Standards IS 10500 (Drinking Water)**\
 [Water Mod 8 – Indian Standards IS 10500](environment/env_health/water/module8_safe_water_india.qmd#indian-standards-is-10500)
 
+**Informed Consent**\
+Mental capacity, disclosure, voluntariness, comprehension.\
+[Ch 27 – Informed Consent](global/aetcom.qmd#informed-consent)
+
 **International Health Regulations (IHR 2005)**\
 [Ch 26 – International Health Regulations (IHR 2005)](global/international-health.qmd#international-health-regulations-ihr-2005)
+
+**IPV vs. OPV (Polio Vaccines)**\
+[CD Mod 4 – IPV vs. OPV](diseases/cd/module4_poliomyelitis.qmd#ipv-vs.-opv)
 
 **Isolation vs. Quarantine**\
 [Ch 6 – Isolation vs. Quarantine](diseases/communicable-diseases.qmd#isolation-vs.-quarantine)
@@ -195,6 +264,13 @@ India's flagship health assurance scheme and its two pillars.\
 
 ## L
 
+**Lathyrism**\
+Food-toxin (not deficiency) paralytic disease.\
+[Ch 9 – Lathyrism](diseases/nutrition.qmd#lathyrism)
+
+**Lead Poisoning**\
+[Ch 19 – Lead Poisoning](environment/occupational-health.qmd#lead-poisoning)
+
 **Lead Time Bias**\
 [Ch 5 – Lead Time Bias](foundations/screening.qmd#lead-time-bias)
 
@@ -203,24 +279,43 @@ The core primary/secondary/tertiary framework, applied across
 several chapters.\
 [Ch 2 – Levels of Prevention](foundations/concept-health-disease.qmd#levels-of-prevention) ·
 [Ch 6 – Applied to Communicable Disease](diseases/communicable-diseases.qmd#levels-of-prevention-applied-to-communicable-disease) ·
+[Ch 10 – Levels of Prevention Applied to Mental Health](diseases/mental-health.qmd#levels-of-prevention-applied-to-mental-health) ·
 [Ch 14 – Life-Stage Care and Levels of Prevention](programs/preventive-medicine.qmd#life-stage-care-and-levels-of-prevention) ·
 [Ch 19 – Occupational Disease and the Levels of Prevention](environment/occupational-health.qmd#occupational-disease-and-the-levels-of-prevention) ·
 [Ch 25 – Levels of Health Care (contrast)](global/community-health.qmd#levels-of-health-care-not-levels-of-prevention)
 
+**Low Birth Weight**\
+[Ch 9 – Low Birth Weight](diseases/nutrition.qmd#low-birth-weight)
+
 ---
 
 ## M
+
+**Malaria**\
+Life cycle, clinical types, diagnosis, treatment, NVBDCP.\
+[CD Mod 1 – Agent, Reservoir, and Vector](diseases/cd/module1_malaria.qmd#agent-reservoir-and-vector) ·
+[CD Mod 1 – NVBDCP and Malaria Elimination](diseases/cd/module1_malaria.qmd#nvbdcp-and-malaria-elimination)
 
 **Malnutrition / Protein-Energy Malnutrition (PEM)**\
 [Ch 9 – Malnutrition: The Spectrum](diseases/nutrition.qmd#malnutrition-the-spectrum) ·
 [Ch 9 – Marasmus](diseases/nutrition.qmd#protein-energy-malnutrition-marasmus) ·
 [Ch 9 – Kwashiorkor](diseases/nutrition.qmd#protein-energy-malnutrition-kwashiorkor)
 
+**Menstrual Hygiene Management (MHM)**\
+[Ch 28 – Menstrual Hygiene Management: A Worked Case Study](global/health-talks.qmd#menstrual-hygiene-management-a-worked-case-study)
+
 **Mental Healthcare Act, 2017**\
 [Ch 10 – Mental Healthcare Act, 2017](diseases/mental-health.qmd#mental-healthcare-act-2017)
 
 **mhGAP (WHO Mental Health Gap Action Programme)**\
 [Ch 10 – WHO mhGAP: Closing the Treatment Gap](diseases/mental-health.qmd#who-mhgap-closing-the-treatment-gap)
+
+**Mortality Rates (Crude, Specific, Case Fatality, PMR)**\
+[Ch 4 – Mortality Rates: Crude, Specific, and Case Fatality](foundations/epidemiologic-methods.qmd#mortality-rates-crude-specific-and-case-fatality)
+
+**MTP Act (Medical Termination of Pregnancy)**\
+Gestational limits, indications, consent.\
+[Ch 13 – The MTP Act: Gestational Limits](programs/demography.qmd#the-mtp-act-gestational-limits)
 
 **Multifactorial Causation**\
 [Ch 2 – Multifactorial Causation](foundations/concept-health-disease.qmd#multifactorial-causation)
@@ -238,12 +333,23 @@ several chapters.\
 **Natural History of Disease**\
 [Ch 2 – Natural History of Disease](foundations/concept-health-disease.qmd#natural-history-of-disease)
 
+**Noise (Pollution)**\
+Properties, effects, control.\
+[Ch 16 – Noise: Definition and Sources](environment/env_health/radiation_health.qmd#noise-definition-and-sources)
+
+**NP-NCD (National Programme for Prevention and Control of NCDs)**\
+[Ch 7 – India's Response: NP-NCD](diseases/ncd.qmd#indias-response-np-ncd)
+
 **Number Needed to Treat**\
 [Ch 4 – Number Needed to Treat](foundations/epidemiologic-methods.qmd#number-needed-to-treat)
 
 ---
 
 ## O
+
+**Occupational Cancers**\
+Skin, lung, bladder, leukaemia by exposure.\
+[Ch 19 – Occupational Cancers](environment/occupational-health.qmd#occupational-cancers)
 
 **One Health**\
 [Water Mod 1 – What is One Health?](environment/env_health/module1_one_health.qmd#what-is-one-health) ·
@@ -256,6 +362,14 @@ several chapters.\
 ---
 
 ## P
+
+**PHC (Primary Health Centre)**\
+Evolution (Bhore → Mudaliar → Alma-Ata) and functions.\
+[Ch 25 – Primary Health Centre: Evolution and Functions](global/community-health.qmd#primary-health-centre-evolution-and-functions)
+
+**Poliomyelitis**\
+Clinical spectrum, IPV vs. OPV, AFP surveillance, India's eradication.\
+[CD Mod 4 – Agent, Reservoir, and Transmission](diseases/cd/module4_poliomyelitis.qmd#agent-reservoir-and-transmission)
 
 **POSDCORB**\
 [Ch 24 – POSDCORB: Core Management Functions](global/health-planning.qmd#posdcorb-core-management-functions)
@@ -271,11 +385,18 @@ several chapters.\
 
 ## R
 
+**Radiation, Ionizing and Non-Ionizing**\
+Sources, units, biological effects, protection.\
+[Ch 16 – Ionizing vs. Non-Ionizing Radiation](environment/env_health/radiation_health.qmd#ionizing-vs.-non-ionizing-radiation)
+
 **Randomized Controlled Trial (RCT)**\
 [Ch 4 – Randomized Controlled Trial (RCT)](foundations/epidemiologic-methods.qmd#randomized-controlled-trial-rct)
 
 **Rational Use of Medicines**\
 [Ch 8 – Rational Use of Medicines](diseases/essential-medicines.qmd#rational-use-of-medicines)
+
+**Rh Incompatibility / Erythroblastosis Foetalis**\
+[Ch 20 – Rh Incompatibility and Erythroblastosis Foetalis](environment/genetics.qmd#rh-incompatibility-and-erythroblastosis-foetalis)
 
 **Risk Factors**\
 [Ch 2 – Risk Factors](foundations/concept-health-disease.qmd#risk-factors) ·
@@ -304,6 +425,9 @@ several chapters.\
 **SSF vs. RSF (Slow Sand vs. Rapid Sand Filtration)**\
 [Water Mod 5 – SSF vs RSF: Detailed Comparison](environment/env_health/water/module5_water_treatment.qmd#ssf-vs-rsf-detailed-comparison)
 
+**Standardization (Direct and Indirect, SMR)**\
+[Ch 4 – Standardization: Direct and Indirect Methods](foundations/epidemiologic-methods.qmd#standardization-direct-and-indirect-methods)
+
 **Stigma**\
 [Ch 10 – Stigma as a Public Health Barrier](diseases/mental-health.qmd#stigma-as-a-public-health-barrier) ·
 [Ch 23 – Stigma Revisited Through a Sociological Lens](global/social-sciences.qmd#stigma-revisited-through-a-sociological-lens)
@@ -324,6 +448,10 @@ several chapters.\
 **Thalassemia**\
 [Ch 20 – Thalassemia in India](environment/genetics.qmd#thalassemia-in-india)
 
+**Three Delays Model**\
+Why maternal deaths happen, not just how many.\
+[Ch 21 – The Three Delays Model](global/health-information.qmd#the-three-delays-model)
+
 **Three-Tier Rural Health Infrastructure**\
 [Ch 25 – India's Three-Tier Rural Health Infrastructure](global/community-health.qmd#indias-three-tier-rural-health-infrastructure)
 
@@ -332,6 +460,17 @@ several chapters.\
 
 **Tribal Health / PVTGs**\
 [Ch 15 – Particularly Vulnerable Tribal Groups (PVTGs)](programs/tribal-health.qmd#particularly-vulnerable-tribal-groups-pvtgs)
+
+**Typhoid Fever**\
+[CD Mod 2 – Typhoid Fever: Agent and Reservoir](diseases/cd/module2_typhoid_cholera.qmd#typhoid-fever-agent-and-reservoir)
+
+**Types of Association**\
+Spurious, indirect, one-to-one causal, multifactorial.\
+[Ch 4 – Types of Association](foundations/epidemiologic-methods.qmd#types-of-association)
+
+**Types of Vaccines**\
+Live attenuated, killed, toxoid, subunit.\
+[Ch 6 – Types of Vaccines](diseases/communicable-diseases.qmd#types-of-vaccines)
 
 ---
 

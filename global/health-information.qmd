@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/26 | [Next Chapter →](health-education.html)"
+    footer: "[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/28 | [Next Chapter →](health-education.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -27,6 +27,7 @@ revealjs-plugins:
 **Learning Objectives:**
 
 - Distinguish Civil Registration from India's Sample Registration System (SRS)
+- Calculate the Crude Birth Rate and Crude Death Rate, and explain why they are "crude"
 - Define life expectancy at birth, IMR, and MMR
 - Break down the DALY formula into its YLL and YLD components
 - Distinguish DALYs from QALYs
@@ -43,10 +44,15 @@ defined back in the Demography chapter.
 
 ---
 
-## Civil Registration vs. Sample Registration {background-color="#E3F2E1"}
+## Census, Civil Registration, and Sample Registration {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
 
+- **Census** — a complete, periodic (every 10 years in India) headcount
+  with legal backing, collecting population size, composition, density,
+  literacy, and occupational structure. Records either **de facto**
+  (location at the time of enumeration) or **de jure** (usual place of
+  residence)
 - **Civil Registration System (CRS)** — aims at **universal, legal
   registration** of every individual birth and death, for documentary and
   legal purposes
@@ -60,6 +66,27 @@ defined back in the Demography chapter.
 is incomplete, SRS provides India's most reliable source of birth/death
 rate estimates — it has served as the standard data source for India's
 mortality indicators since the late 1960s.
+
+---
+
+## Crude Birth Rate and Crude Death Rate {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The most basic vital statistics rates, both drawn from the CRS/SRS
+sources above, and the starting point before the more specific mortality
+indicators that follow:
+
+`Crude Birth Rate (CBR) = (Live births in a year / Mid-year population) × 1,000`
+
+`Crude Death Rate (CDR) = (Deaths in a year / Mid-year population) × 1,000`
+
+**Why "crude":** both rates use the **total** population as the
+denominator, without adjusting for age structure — a population with
+more elderly people will show a higher CDR even with identical
+age-specific mortality, which is exactly why more specific indicators
+(IMR, MMR, age-specific rates) are needed alongside these crude
+measures, not instead of them.
 
 ---
 
@@ -92,6 +119,38 @@ denominator scale from IMR).
 Both are core indicators already referenced as SDG 3 targets (Chapter
 12) — this chapter defines the measures themselves, which those targets
 are expressed in.
+
+**Related neonatal/perinatal measures**, all per 1,000 live births unless
+noted:
+
+- **Neonatal Mortality Rate (NMR)** — deaths in the first 28 days of life
+- **Early Neonatal Mortality Rate** — deaths in the first 7 days of life
+- **Perinatal Mortality Rate** — (late fetal deaths ≥28 weeks gestation +
+  deaths in the first 7 days) ÷ (total live births + late fetal deaths
+  ≥28 weeks)
+
+---
+
+## The Three Delays Model {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A widely used framework for understanding **why** maternal deaths
+happen, not just measuring how many — most maternal deaths trace to one
+or more of three delays:
+
+1. **Delay in deciding to seek care** — lack of awareness of danger
+   signs, cultural beliefs, financial constraints
+2. **Delay in reaching care** — transportation barriers, distance to the
+   nearest facility
+3. **Delay in receiving adequate care once at a facility** — inadequate
+   staffing/training, lack of emergency obstetric care (EmOC), blood/
+   drug shortages
+
+**Why this framework matters:** it reframes maternal mortality
+reduction from "improve hospitals" alone to a **systems problem** —
+interventions targeting only Delay 3 (better facilities) fail if
+Delays 1 and 2 still prevent women from reaching them in time.
 
 ---
 
@@ -251,6 +310,23 @@ Which statement correctly distinguishes DALYs from QALYs?
 
 ---
 
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Crude Birth Rate and Crude Death Rate are called "crude" because they:
+
+- Are calculated only from hospital records
+- [Use the total population as the denominator, without adjusting for age structure]{.correct data-explanation="CBR and CDR divide by the total mid-year population without accounting for age distribution, so a population with more elderly people shows a higher CDR even with identical age-specific mortality -- which is why more specific indicators like IMR and age-specific rates are also needed."}
+- Are estimated rather than measured directly
+- Apply only to rural populations
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. Office of the Registrar General, India. *Sample Registration System
@@ -262,6 +338,9 @@ Which statement correctly distinguishes DALYs from QALYs?
    HALYs, DALYs and QALYs."
 4. GiveWell. "Interpreting the Disability-Adjusted Life-Year (DALY)
    Metric."
+5. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for census, neonatal/perinatal mortality
+   definitions.
 
 ---
 
@@ -269,4 +348,4 @@ Which statement correctly distinguishes DALYs from QALYs?
 
 **Next Chapter:** Communication for Health Education
 
-[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/26 | [Next Chapter →](health-education.html)
+[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/28 | [Next Chapter →](health-education.html)
