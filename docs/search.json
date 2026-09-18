@@ -5791,6 +5791,18 @@
     ]
   },
   {
+    "objectID": "diseases/communicable-diseases.html#chain-of-infection-visual-summary",
+    "href": "diseases/communicable-diseases.html#chain-of-infection-visual-summary",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Chain of Infection: Visual Summary",
+    "text": "Chain of Infection: Visual Summary\n🟢 MUST KNOW\n\nThe Chain of Infection\nSix linked stages of disease transmission arranged in a ring: infectious agent, reservoir, portal of exit, mode of transmission, portal of entry, and susceptible host, with arrows showing the cycle and back to the agent.\n\n\n\n\n\n\n\n\n\n\n\n\n\n1. Infectious\nAgent\n\n\n\n2. Reservoir\n\n\n\n3. Portal of\nExit\n\n\n\n4. Mode of\nTransmission\n\n\n\n5. Portal of\nEntry\n\n\n\n6. Susceptible\nHost\n\n\nBreaking any single link — e.g. safe water interrupting the portal of exit/entry, or vaccination removing the susceptible host — stops transmission around the entire ring, regardless of which link is targeted.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases"
+    ]
+  },
+  {
     "objectID": "diseases/communicable-diseases.html#epidemic-endemic-and-pandemic",
     "href": "diseases/communicable-diseases.html#epidemic-endemic-and-pandemic",
     "title": "Epidemiology of Communicable Diseases",
@@ -11313,6 +11325,18 @@
     "title": "Health Information and Basic Medical Statistics",
     "section": "DALY: Breaking Down the Formula",
     "text": "DALY: Breaking Down the Formula\n🟢 MUST KNOW\nDALY = YLL + YLD\n\nYLL (Years of Life Lost) = number of deaths × standard life expectancy at age of death — the fatal component\nYLD (Years Lived with Disability) = number of new cases × disability weight × average duration of disability — the non-fatal component\n\nDisability weight ranges from 0 (no limitation) to 1 (a health state equivalent to death), assigned per condition based on its severity.\nOne DALY = one lost year of healthy life — combining death and disability into a single comparable unit, which is exactly what allowed Chapters 7 and 10 to compare the burden of NCDs and mental disorders on the same scale as fatal disease.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Information and Basic Medical Statistics"
+    ]
+  },
+  {
+    "objectID": "global/health-information.html#daly-visualizing-the-two-components",
+    "href": "global/health-information.html#daly-visualizing-the-two-components",
+    "title": "Health Information and Basic Medical Statistics",
+    "section": "DALY: Visualizing the Two Components",
+    "text": "DALY: Visualizing the Two Components\n🟢 MUST KNOW\n\nDALY = YLL + YLD, illustrative breakdown\nBar chart showing a total DALY bar as a stack of its YLL and YLD components, alongside each component shown separately, using illustrative (not epidemiological) values.\n\n\n\n\n\n0\n5\n10\n15\n20\nIllustrative units\n\n\n\nYLL 15\nYLD 5\nTotal DALY = 20\n\n\n\n15\nYLL alone\n\n\n\n5\nYLD alone\n\n\n\nYLL (fatal)\n\nYLD\n\n\nIllustrative values, not real epidemiological estimates — the point is the decomposition: stacking the YLL and YLD bars produces exactly the total DALY bar, since DALY is defined as their sum, not measured independently.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",

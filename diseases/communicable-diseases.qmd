@@ -65,6 +65,64 @@ any one link, and transmission stops:
 
 ---
 
+## Chain of Infection: Visual Summary {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+```{=html}
+<svg viewBox="0 0 720 460" width="100%" height="auto" role="img" aria-labelledby="chain-title chain-desc" style="max-width:640px;display:block;margin:0 auto;font-family:Georgia,serif;">
+<title id="chain-title">The Chain of Infection</title>
+<desc id="chain-desc">Six linked stages of disease transmission arranged in a ring: infectious agent, reservoir, portal of exit, mode of transmission, portal of entry, and susceptible host, with arrows showing the cycle and back to the agent.</desc>
+<defs>
+<marker id="chainArrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+<path d="M0,0 L10,5 L0,10 z" fill="#555"/>
+</marker>
+</defs>
+<line x1="407.6" y1="87.5" x2="459.4" y2="117.5" stroke="#555" stroke-width="2" marker-end="url(#chainArrow)"/>
+<line x1="507" y1="190" x2="507" y2="270" stroke="#555" stroke-width="2" marker-end="url(#chainArrow)"/>
+<line x1="459.4" y1="342.5" x2="407.6" y2="372.5" stroke="#555" stroke-width="2" marker-end="url(#chainArrow)"/>
+<line x1="312.4" y1="372.5" x2="260.6" y2="342.5" stroke="#555" stroke-width="2" marker-end="url(#chainArrow)"/>
+<line x1="213" y1="270" x2="213" y2="190" stroke="#555" stroke-width="2" marker-end="url(#chainArrow)"/>
+<line x1="260.6" y1="117.5" x2="312.4" y2="87.5" stroke="#555" stroke-width="2" marker-end="url(#chainArrow)"/>
+<g>
+<rect x="275" y="25" width="170" height="70" rx="12" fill="#E3F2E1" stroke="#2f7d4f" stroke-width="2"/>
+<text x="360" y="52" text-anchor="middle" font-size="15" fill="#1c4a30">1. Infectious</text>
+<text x="360" y="72" text-anchor="middle" font-size="15" fill="#1c4a30">Agent</text>
+</g>
+<g>
+<rect x="422" y="110" width="170" height="70" rx="12" fill="#E3F2E1" stroke="#2f7d4f" stroke-width="2"/>
+<text x="507" y="150" text-anchor="middle" font-size="15" fill="#1c4a30">2. Reservoir</text>
+</g>
+<g>
+<rect x="422" y="280" width="170" height="70" rx="12" fill="#E3F2E1" stroke="#2f7d4f" stroke-width="2"/>
+<text x="507" y="307" text-anchor="middle" font-size="15" fill="#1c4a30">3. Portal of</text>
+<text x="507" y="327" text-anchor="middle" font-size="15" fill="#1c4a30">Exit</text>
+</g>
+<g>
+<rect x="275" y="365" width="170" height="70" rx="12" fill="#E3F2E1" stroke="#2f7d4f" stroke-width="2"/>
+<text x="360" y="392" text-anchor="middle" font-size="15" fill="#1c4a30">4. Mode of</text>
+<text x="360" y="412" text-anchor="middle" font-size="15" fill="#1c4a30">Transmission</text>
+</g>
+<g>
+<rect x="128" y="280" width="170" height="70" rx="12" fill="#E3F2E1" stroke="#2f7d4f" stroke-width="2"/>
+<text x="213" y="307" text-anchor="middle" font-size="15" fill="#1c4a30">5. Portal of</text>
+<text x="213" y="327" text-anchor="middle" font-size="15" fill="#1c4a30">Entry</text>
+</g>
+<g>
+<rect x="128" y="110" width="170" height="70" rx="12" fill="#E3F2E1" stroke="#2f7d4f" stroke-width="2"/>
+<text x="213" y="140" text-anchor="middle" font-size="15" fill="#1c4a30">6. Susceptible</text>
+<text x="213" y="160" text-anchor="middle" font-size="15" fill="#1c4a30">Host</text>
+</g>
+</svg>
+```
+
+**Breaking any single link** — e.g. safe water interrupting the portal
+of exit/entry, or vaccination removing the susceptible host — stops
+transmission around the entire ring, regardless of which link is
+targeted.
+
+---
+
 ## Epidemic, Endemic, and Pandemic {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
