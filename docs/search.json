@@ -13344,5 +13344,145 @@
     "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
     "section": "Thank You!",
     "text": "Thank You!\nBack to: Communicable Diseases\n← Previous | Top | Communicable Diseases | Module 13/13"
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#home",
+    "href": "diseases/ncd/module4_cancer.html#home",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "Welcome",
+    "text": "Welcome\nCancer Epidemiology and Control\nLearning Objectives:\n\nDescribe common cancer sites and patterns in India\nDistinguish modifiable from non-modifiable cancer risk factors\nApply the levels of prevention to cancer control\nDescribe the role of the National Cancer Registry Programme\nExplain HPV vaccination’s role in cervical cancer prevention\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nCancer is one of the four major NCDs already named in Chapter 7’s overview; this module gives it the same dedicated treatment already given to diabetes, hypertension, and stroke in this series."
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#patterns-and-causes",
+    "href": "diseases/ncd/module4_cancer.html#patterns-and-causes",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "Patterns and Causes",
+    "text": "Patterns and Causes\n🟢 MUST KNOW\nCancer site patterns in India differ meaningfully from high-income countries, reflecting different exposure patterns:\n\nMen: oral cavity/lung cancers rank highest, strongly linked to tobacco use (smoked and smokeless)\nWomen: breast cancer has overtaken cervical cancer as the most common site in urban India, while cervical cancer remains far more prominent in rural/lower-resource settings — a pattern tracking access to screening and HPV exposure, not biology alone\nModifiable risk factors: tobacco (the single largest attributable cause worldwide), alcohol, poor diet, physical inactivity, and chronic infections (HPV for cervical cancer, hepatitis B/C for liver cancer — recall the viral hepatitis module)\nNon-modifiable factors: age, genetic predisposition, family history"
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#levels-of-prevention-applied-to-cancer",
+    "href": "diseases/ncd/module4_cancer.html#levels-of-prevention-applied-to-cancer",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "Levels of Prevention Applied to Cancer",
+    "text": "Levels of Prevention Applied to Cancer\n🟢 MUST KNOW\nChapter 2’s prevention framework maps directly onto cancer control:\n\n\n\n\n\n\n\nLevel\nExample\n\n\n\n\nPrimary\nTobacco control, HPV vaccination, hepatitis B vaccination, dietary modification\n\n\nSecondary\nScreening — Pap smear/VIA for cervical cancer, mammography for breast cancer, oral visual examination\n\n\nTertiary\nTreatment (surgery, chemotherapy, radiotherapy), palliative care for advanced disease\n\n\n\nWhy cancer especially rewards a multi-level approach: unlike an acute infection with one clear intervention point, cancer’s long latency between exposure and disease means primary prevention (removing the exposure decades earlier) and secondary prevention (catching it early once it starts) both meaningfully change outcomes — neither alone is sufficient."
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#national-cancer-registry-programme",
+    "href": "diseases/ncd/module4_cancer.html#national-cancer-registry-programme",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "National Cancer Registry Programme",
+    "text": "National Cancer Registry Programme\n🟡 SHOULD KNOW\nThe National Cancer Registry Programme (NCRP), run by the Indian Council of Medical Research (ICMR), is India’s system for tracking cancer patterns:\n\nPopulation-Based Cancer Registries (PBCR) — capture all cancer cases in a defined geographic population, enabling true incidence rate calculation\nHospital-Based Cancer Registries (HBCR) — capture cases seen at a specific hospital, useful for clinical/treatment-pattern data but cannot generate population incidence rates (recall the numerator/ denominator logic from Chapter 3 — a hospital’s catchment population is not well-defined)\n\nWhy this data matters: cancer control priorities (which cancers to screen for, where to focus tobacco control) are set using exactly this registry data — without it, prevention efforts would be guesswork."
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#hpv-vaccination-and-cervical-cancer-prevention",
+    "href": "diseases/ncd/module4_cancer.html#hpv-vaccination-and-cervical-cancer-prevention",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "HPV Vaccination and Cervical Cancer Prevention",
+    "text": "HPV Vaccination and Cervical Cancer Prevention\n🟡 SHOULD KNOW\nHuman papillomavirus (HPV) causes the large majority of cervical cancer cases — making cervical cancer one of the few cancers with a primary-prevention vaccine, not just secondary-prevention screening.\n\nHPV vaccine — most effective when given before sexual debut (typically ages 9–14), since it prevents initial infection rather than treating existing infection\nComplementary, not competing, with screening: vaccination prevents infection in the vaccinated cohort, but cervical cancer screening (Pap smear/VIA) remains necessary for unvaccinated women and for HPV types not covered by the vaccine\nIndia has moved toward including HPV vaccination in its national immunization efforts, extending the same primary-prevention logic already used for hepatitis B (also cancer-preventing, via liver cancer) to a second cancer-causing infection"
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#self-check-question-1",
+    "href": "diseases/ncd/module4_cancer.html#self-check-question-1",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nThe single largest modifiable risk factor for cancer worldwide is:\n\nAlcohol use\nTobacco use\nPhysical inactivity\nGenetic predisposition"
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#self-check-question-2",
+    "href": "diseases/ncd/module4_cancer.html#self-check-question-2",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nA national programme offering Pap smear testing to detect early cervical cell changes is an example of which level of prevention?\n\nPrimary prevention\nSecondary prevention\nTertiary prevention\nPrimordial prevention"
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#self-check-question-3",
+    "href": "diseases/ncd/module4_cancer.html#self-check-question-3",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nWhich type of cancer registry can generate true population-based cancer incidence rates?\n\nHospital-Based Cancer Registry only\nPopulation-Based Cancer Registry\nBoth registry types equally\nNeither registry type"
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#self-check-question-4",
+    "href": "diseases/ncd/module4_cancer.html#self-check-question-4",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nHPV vaccination is most effective when given:\n\nAfter a woman’s first Pap smear\nAfter menopause\nBefore sexual debut, typically ages 9-14\nOnly to women with a family history of cervical cancer"
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#references",
+    "href": "diseases/ncd/module4_cancer.html#references",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "References",
+    "text": "References\n\nNational Centre for Disease Informatics and Research, Indian Council of Medical Research. National Cancer Registry Programme.\nWorld Health Organization. Cancer and Human Papillomavirus and Cancer — fact sheets.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for cancer epidemiology in India."
+  },
+  {
+    "objectID": "diseases/ncd/module4_cancer.html#thank-you",
+    "href": "diseases/ncd/module4_cancer.html#thank-you",
+    "title": "Module 4: Cancer Epidemiology and Control",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Blindness and Visual Impairment\n← Previous | Top | Chronic Non-Communicable Diseases | Module 4/7 | Next →"
+  },
+  {
+    "objectID": "diseases/ncd/module5_blindness.html#home",
+    "href": "diseases/ncd/module5_blindness.html#home",
+    "title": "Module 5: Blindness and Visual Impairment",
+    "section": "Welcome",
+    "text": "Welcome\nBlindness and Visual Impairment\nLearning Objectives:\n\nDefine blindness using WHO’s visual acuity criteria\nIdentify the leading causes of blindness in India\nDescribe cataract as the single largest treatable cause\nOutline India’s NPCBVI strategy and school eye-screening programmes\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nBlindness prevention connects back to trachoma (already named in the “Other Infections” module as a preventable infectious cause) and to diabetes (diabetic retinopathy, Module 1) — this module gives blindness its own dedicated epidemiological treatment as its own major NCD-linked public health problem."
+  },
+  {
+    "objectID": "diseases/ncd/module5_blindness.html#defining-and-measuring-blindness",
+    "href": "diseases/ncd/module5_blindness.html#defining-and-measuring-blindness",
+    "title": "Module 5: Blindness and Visual Impairment",
+    "section": "Defining and Measuring Blindness",
+    "text": "Defining and Measuring Blindness\n🟢 MUST KNOW\nWHO definition of blindness: visual acuity of less than 3/60 in the better eye with best possible correction (i.e. even with glasses, unable to see at 3 metres what a person with normal vision sees at 60 metres).\n\nLow vision — visual acuity between 3/60 and 6/18 in the better eye — impaired but not meeting the blindness threshold\nIndia periodically conducts National Blindness and Visual Impairment Surveys to track prevalence and the changing distribution of causes over time — the same registry/survey logic already seen for cancer (previous module) applied here"
+  },
+  {
+    "objectID": "diseases/ncd/module5_blindness.html#leading-causes-of-blindness-in-india",
+    "href": "diseases/ncd/module5_blindness.html#leading-causes-of-blindness-in-india",
+    "title": "Module 5: Blindness and Visual Impairment",
+    "section": "Leading Causes of Blindness in India",
+    "text": "Leading Causes of Blindness in India\n🟢 MUST KNOW\n\nCataract — by far the single largest cause of blindness in India, and critically, a treatable/reversible cause via surgery — making it the top priority target for blindness-control programmes\nRefractive error — uncorrected, a major cause of avoidable visual impairment, especially in children, correctable simply with glasses\nCorneal blindness — from infection, injury, or vitamin A deficiency (recall Chapter 9’s nutrition content)\nGlaucoma — progressive optic nerve damage, often asymptomatic until advanced, making screening important since damage already done cannot be reversed\nDiabetic retinopathy — a direct link to Module 1’s diabetes complications content; increasingly significant as India’s diabetes burden grows\n\nExam pattern: cataract’s dominance, combined with its treatability, is why India’s blindness-control strategy centres so heavily on cataract surgical coverage."
+  },
+  {
+    "objectID": "diseases/ncd/module5_blindness.html#npcbvi-indias-national-programme",
+    "href": "diseases/ncd/module5_blindness.html#npcbvi-indias-national-programme",
+    "title": "Module 5: Blindness and Visual Impairment",
+    "section": "NPCBVI: India’s National Programme",
+    "text": "NPCBVI: India’s National Programme\n🟡 SHOULD KNOW\nThe National Programme for Control of Blindness and Visual Impairment (NPCBVI) — renamed and expanded from the original National Programme for Control of Blindness to explicitly include visual impairment, not only blindness — pursues:\n\nCataract surgical services — the programme’s largest single activity, given cataract’s dominant, treatable share of the burden\nSchool eye-screening programmes — identifying uncorrected refractive error in children early, since undetected poor vision directly affects learning — connecting blindness control to the Under-Five Clinic and school health content (Chapter 14)\nIntegration with the general health system — following the same primary-care integration logic already seen for leprosy (NLEP) and mental health (DMHP) — vision screening delivered through existing health infrastructure rather than a separate parallel system"
+  },
+  {
+    "objectID": "diseases/ncd/module5_blindness.html#self-check-question-1",
+    "href": "diseases/ncd/module5_blindness.html#self-check-question-1",
+    "title": "Module 5: Blindness and Visual Impairment",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nWHO defines blindness as visual acuity, with best correction, of:\n\nLess than 6/18\nLess than 3/60\nLess than 6/6\nAny uncorrected refractive error"
+  },
+  {
+    "objectID": "diseases/ncd/module5_blindness.html#self-check-question-2",
+    "href": "diseases/ncd/module5_blindness.html#self-check-question-2",
+    "title": "Module 5: Blindness and Visual Impairment",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nThe single largest cause of blindness in India, and a key reason India’s blindness-control strategy prioritizes it, is:\n\nGlaucoma\nDiabetic retinopathy\nCataract\nCorneal blindness"
+  },
+  {
+    "objectID": "diseases/ncd/module5_blindness.html#self-check-question-3",
+    "href": "diseases/ncd/module5_blindness.html#self-check-question-3",
+    "title": "Module 5: Blindness and Visual Impairment",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nSchool eye-screening programmes under NPCBVI primarily aim to detect:\n\nGlaucoma\nUncorrected refractive error\nDiabetic retinopathy\nCorneal ulcers"
+  },
+  {
+    "objectID": "diseases/ncd/module5_blindness.html#references",
+    "href": "diseases/ncd/module5_blindness.html#references",
+    "title": "Module 5: Blindness and Visual Impairment",
+    "section": "References",
+    "text": "References\n\nNational Programme for Control of Blindness and Visual Impairment (NPCBVI), Ministry of Health & Family Welfare, Government of India.\nWorld Health Organization. Blindness and Vision Impairment — fact sheet.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for blindness epidemiology in India."
+  },
+  {
+    "objectID": "diseases/ncd/module5_blindness.html#thank-you",
+    "href": "diseases/ncd/module5_blindness.html#thank-you",
+    "title": "Module 5: Blindness and Visual Impairment",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Injuries — Road Traffic Accidents, Burns, and Drowning\n← Previous | Top | Chronic Non-Communicable Diseases | Module 5/7 | Next →"
   }
 ]
