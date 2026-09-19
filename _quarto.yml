@@ -120,6 +120,10 @@ website:
             href: global/aetcom.qmd
           - text: "Health Talks and Community IEC"
             href: global/health-talks.qmd
+      - text: "Biostatistics"
+        menu:
+          - text: "Basic Biostatistics"
+            href: foundations/biostatistics.qmd
       - text: "Post Graduate"
         menu:
           - text: "Guide for Dissertation"
@@ -269,6 +273,11 @@ website:
             file: global/aetcom.qmd
           - text: "Health Talks and Community IEC"
             file: global/health-talks.qmd
+
+      - section: "Biostatistics"
+        contents:
+          - text: "Basic Biostatistics"
+            file: foundations/biostatistics.qmd
 
 format:
   html:

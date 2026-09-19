@@ -70,3 +70,8 @@ Index](topic-index.qmd).\
 ## F. Professionalism & Communication
 - [Chapter 27: AETCOM — Attitude, Ethics and Communication](global/aetcom.qmd)
 - [Chapter 28: Health Talks and Community IEC](global/health-talks.qmd)
+
+---
+
+## G. Biostatistics
+- [Chapter 29: Basic Biostatistics](foundations/biostatistics.qmd)

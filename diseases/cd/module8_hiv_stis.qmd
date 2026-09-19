@@ -1,0 +1,244 @@
+---
+title: "Module 8: HIV/AIDS, STIs and NACP"
+subtitle: "Transmission, Prevention, Treatment, and India's AIDS Control Programme"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module7_tuberculosis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 8/13 | [Next →](module9_leprosy.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### HIV/AIDS, STIs and NACP
+
+**Learning Objectives:**
+
+- Describe HIV transmission routes and the natural history of infection
+- Distinguish HIV infection from AIDS
+- Describe the principles of antiretroviral therapy and PMTCT
+- Outline India's National AIDS Control Programme (NACP) phases
+- Apply the syndromic approach to managing sexually transmitted infections
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+HIV/AIDS was one of the three explicitly health-focused MDGs (Chapter
+12) and remains an SDG 3 target for ending epidemics by 2030 — this
+module gives the clinical and programmatic detail behind those targets,
+alongside sexually transmitted infections more broadly, since NACP
+addresses both together.
+:::
+
+---
+
+## Transmission and Natural History {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Agent:** Human Immunodeficiency Virus (HIV), a retrovirus that
+progressively destroys **CD4+ T-lymphocytes**, the cells central to
+cell-mediated immunity.
+
+**Transmission routes:**
+
+- **Sexual contact** — the predominant mode globally and in India
+- **Blood-borne** — transfusion of unscreened blood, sharing needles
+  (injection drug use)
+- **Vertical (mother-to-child)** — during pregnancy, delivery, or
+  breastfeeding
+
+**Not transmitted** by casual contact, sharing food/utensils,
+mosquito bites, or airborne droplets — an important distinction for
+countering stigma (Chapter 23).
+
+**Natural history:** acute infection → a long **asymptomatic latent
+period** (years) → progressive immune decline → **AIDS**, defined by a
+CD4 count falling below a threshold or the appearance of specific
+opportunistic infections/cancers.
+
+---
+
+## HIV Infection vs. AIDS {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **HIV infection** — presence of the virus, which may be entirely
+  asymptomatic for years while progressively damaging the immune
+  system
+- **AIDS (Acquired Immunodeficiency Syndrome)** — the advanced stage,
+  defined by a CD4 count below a set threshold **or** the occurrence of
+  specific **opportunistic infections** (e.g. tuberculosis, *Pneumocystis*
+  pneumonia, cryptococcal meningitis) or certain cancers that a healthy
+  immune system would normally control
+
+**Why the distinction matters clinically:** a person can be HIV-positive
+for years without having AIDS — antiretroviral therapy (next slide)
+aims precisely at preventing that progression from infection to
+syndrome.
+
+---
+
+## Antiretroviral Therapy and PMTCT {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Antiretroviral therapy (ART)** — a combination of drugs
+  (Highly Active ART, HAART) that suppresses viral replication,
+  preserving immune function; India provides ART **free of cost**
+  through government ART centres, initiated as early as possible after
+  diagnosis regardless of CD4 count ("test and treat")
+- **Prevention of Mother-to-Child Transmission (PMTCT)** — ART given to
+  the HIV-positive mother during pregnancy and delivery, plus
+  prophylaxis to the newborn, reduces vertical transmission risk from
+  roughly 25–30% (untreated) to **under 2%**
+- **Post-exposure prophylaxis (PEP)** — ART started within 72 hours of
+  a high-risk exposure (e.g. a needle-stick injury) can prevent
+  infection from becoming established
+
+**Exam tip:** ART does not cure HIV — it suppresses it to
+undetectable levels, which also dramatically reduces onward
+transmission risk ("treatment as prevention").
+
+---
+
+## India's National AIDS Control Programme (NACP) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's HIV response has run through successive NACP phases since 1992,
+shifting emphasis over time:
+
+`NACP-I (1992) — awareness & blood safety → NACP-II — targeted interventions for high-risk groups → NACP-III — scale-up of prevention & treatment → NACP-IV/V (ongoing) — "90-90-90" and ending AIDS as a public health threat`
+
+- **Targeted interventions** — focused prevention programmes for
+  high-risk groups (sex workers, men who have sex with men, injection
+  drug users, transgender persons), recognizing that HIV spreads
+  unevenly across a population, not uniformly (recall Rose's high-risk
+  vs. population strategy, Chapter 7)
+- **Integrated Counselling and Testing Centres (ICTC)** — provide free,
+  confidential HIV counselling and testing nationwide
+
+---
+
+## Sexually Transmitted Infections: Syndromic Management {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Beyond HIV itself, NACP also addresses other **sexually transmitted
+infections (STIs)** — since STIs and HIV share risk factors and STIs
+increase HIV transmission risk.
+
+- **Syndromic management** — treating an STI based on a recognizable
+  **cluster of symptoms** (e.g. urethral discharge, genital ulcer)
+  rather than waiting for laboratory confirmation, allowing immediate
+  treatment at first contact, especially valuable where laboratory
+  access is limited
+- **Why this approach fits STI control specifically:** delayed
+  treatment risks both onward transmission and complications
+  (infertility, increased HIV susceptibility), so syndromic management
+  trades some diagnostic precision for speed and coverage
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+HIV primarily damages which component of the immune system?
+
+- B-lymphocytes
+- [CD4+ T-lymphocytes]{.correct data-explanation="HIV targets and progressively destroys CD4+ T-lymphocytes, the cells central to cell-mediated immunity, which is why CD4 count is used to stage disease progression."}
+- Neutrophils
+- Platelets
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+A person is HIV-positive but has a normal CD4 count and no
+opportunistic infections. This person is best described as:
+
+- Having AIDS
+- [Having HIV infection, but not yet AIDS]{.correct data-explanation="HIV infection can exist for years without progressing to AIDS, which is specifically defined by a CD4 count below a threshold or the occurrence of specific opportunistic infections or cancers."}
+- Cured of HIV
+- Not infectious to others
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Without any intervention, mother-to-child HIV transmission risk is
+approximately 25-30%. With effective PMTCT, this risk falls to:
+
+- 20%
+- 10%
+- [Under 2%]{.correct data-explanation="Effective PMTCT -- ART during pregnancy and delivery plus newborn prophylaxis -- reduces vertical transmission risk from 25-30% to under 2%."}
+- 0% is guaranteed in all cases
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Treating a patient's genital ulcer immediately based on the clinical
+symptom pattern, without waiting for lab confirmation, is an example
+of:
+
+- Targeted intervention
+- [Syndromic management]{.correct data-explanation="Syndromic management treats an STI based on a recognizable cluster of symptoms rather than waiting for laboratory confirmation, enabling immediate treatment at first contact."}
+- Post-exposure prophylaxis
+- Directly observed therapy
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. National AIDS Control Organisation (NACO), Ministry of Health &
+   Family Welfare, Government of India. *National AIDS Control
+   Programme* — phases and guidelines.
+2. World Health Organization. *HIV/AIDS* and *Sexually Transmitted
+   Infections* — fact sheets.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for HIV/AIDS and STI epidemiology.
+
+---
+
+## Thank You!
+
+**Next Module:** Leprosy
+
+[← Previous](module7_tuberculosis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 8/13 | [Next →](module9_leprosy.html)

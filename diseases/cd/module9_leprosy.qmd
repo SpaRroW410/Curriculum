@@ -1,0 +1,225 @@
+---
+title: "Module 9: Leprosy"
+subtitle: "Classification, Multidrug Therapy, and NLEP"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module8_hiv_stis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 9/13 | [Next →](module10_vector_borne_fevers.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Leprosy
+
+**Learning Objectives:**
+
+- Describe the agent, transmission, and clinical classification of leprosy
+- Distinguish paucibacillary from multibacillary disease
+- Describe multidrug therapy (MDT) and its duration by type
+- Outline India's NLEP and the SPARSH campaign
+- Explain the role of deformity grading and stigma reduction
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Leprosy is a classic example of Chapter 23's sociological lens on
+stigma — a curable disease whose social consequences have historically
+outweighed its clinical severity in shaping patients' lives. This
+module pairs the clinical/programmatic detail with that context.
+:::
+
+---
+
+## Agent, Transmission, and Classification {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Agent:** *Mycobacterium leprae*, a slow-growing acid-fast bacillus
+with an unusually long incubation period (average 3–5 years, up to
+20).
+
+**Transmission:** thought to occur mainly via **prolonged close
+contact**, through nasal droplets from untreated multibacillary cases;
+casual contact carries very low risk.
+
+**Clinical classification (WHO, for treatment purposes):**
+
+| Type | Skin lesions | Bacillary load |
+|---|---|---|
+| **Paucibacillary (PB)** | 1–5 lesions | Skin smear-negative |
+| **Multibacillary (MB)** | 6 or more lesions | Skin smear-positive |
+
+**Why this classification matters:** it directly determines which MDT
+regimen and duration a patient receives (next slide) — the single most
+consequential grouping in leprosy management.
+
+---
+
+## Multidrug Therapy (MDT) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+WHO-recommended multidrug therapy, provided **free of cost** in India:
+
+- **Paucibacillary (PB):** Rifampicin + Dapsone, for **6 months**
+- **Multibacillary (MB):** Rifampicin + Clofazimine + Dapsone, for
+  **12 months**
+
+**Why multiple drugs, always:** monotherapy historically led to rapid
+drug resistance — the same rationale already introduced for
+tuberculosis (previous module) applies here, and MDT has been the
+cornerstone of leprosy elimination globally since the 1980s.
+
+**Leprosy is fully curable** with completed MDT — the disability
+associated with it results from **delayed diagnosis and treatment**,
+not from the disease being inherently untreatable.
+
+---
+
+## Deformity Grading and Disability Prevention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+*M. leprae* has a particular affinity for **peripheral nerves and
+skin**, which is why untreated leprosy can cause sensory loss and
+deformity if not caught early:
+
+| Grade | Findings |
+|---|---|
+| **Grade 0** | No sensory loss, no visible deformity |
+| **Grade 1** | Sensory loss present, but no visible deformity |
+| **Grade 2** | Visible deformity or damage present (e.g. clawing, ulcers, lagophthalmos) |
+
+**Why early detection matters so much:** deformity results from nerve
+damage that has already occurred by the time it's visible — this is
+why active case-finding (next slide) aims to catch cases at Grade 0/1,
+before irreversible damage sets in.
+
+---
+
+## NLEP and SPARSH {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's **National Leprosy Eradication Programme (NLEP)** has run since
+1983, shifting emphasis from vertical campaigns to integration with the
+general health system (the same NRHM-era integration logic already
+seen for other vertical programmes, Chapter 11).
+
+- **Active case-finding campaigns** — house-to-house surveys in
+  high-endemic areas to detect cases early, before Grade 2 disability
+  develops
+- **SPARSH (Sensitize, Prevent, Awareness, Reach, Sanitize, Health)
+  Leprosy Awareness Campaign** — a public awareness initiative
+  specifically targeting **stigma reduction**, run annually around
+  World Leprosy Day
+- **Contact tracing and post-exposure prophylaxis** — single-dose
+  rifampicin (SDR-PEP) offered to close contacts of newly diagnosed
+  cases
+
+**Direct link to Chapter 23:** leprosy is named there as a condition
+where social consequences of diagnosis can outweigh clinical severity —
+SPARSH exists precisely to address that structural stigma barrier.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A patient with 8 skin lesions and a skin-smear-positive result is
+classified as:
+
+- Paucibacillary (PB)
+- [Multibacillary (MB)]{.correct data-explanation="6 or more skin lesions with a smear-positive result defines multibacillary (MB) leprosy, requiring the longer 12-month MDT regimen."}
+- Grade 0
+- Grade 1
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Standard MDT duration for multibacillary (MB) leprosy is:
+
+- 6 months
+- [12 months]{.correct data-explanation="Multibacillary leprosy requires 12 months of Rifampicin, Clofazimine, and Dapsone, compared to 6 months for paucibacillary disease."}
+- 3 months
+- 24 months
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Disability in leprosy is best understood as resulting from:
+
+- An inherently untreatable disease
+- [Delayed diagnosis and treatment, allowing nerve damage to progress]{.correct data-explanation="Leprosy is fully curable with MDT; disability results from nerve damage that occurs before treatment starts, which is why early active case-finding is so heavily emphasized."}
+- The MDT regimen itself
+- Contact with a treated patient
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+India's SPARSH campaign primarily addresses which barrier to leprosy
+control?
+
+- Drug shortages
+- [Social stigma surrounding a leprosy diagnosis]{.correct data-explanation="SPARSH is a public awareness campaign specifically targeting stigma reduction around leprosy, run annually around World Leprosy Day."}
+- Lack of a curative treatment
+- Vector control
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Central Leprosy Division, Ministry of Health & Family Welfare,
+   Government of India. *National Leprosy Eradication Programme
+   (NLEP)* and *SPARSH Leprosy Awareness Campaign*.
+2. World Health Organization. *Leprosy (Hansen's Disease)* — fact
+   sheet and MDT guidelines.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for leprosy epidemiology and classification.
+
+---
+
+## Thank You!
+
+**Next Module:** Vector-Borne Viral Fevers
+
+[← Previous](module8_hiv_stis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 9/13 | [Next →](module10_vector_borne_fevers.html)

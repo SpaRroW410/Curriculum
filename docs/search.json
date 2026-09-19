@@ -11600,7 +11600,7 @@
     "href": "global/health-talks.html#thank-you",
     "title": "Chapter 28: Health Talks and Community IEC",
     "section": "Thank You!",
-    "text": "Thank You!\nThis is the final chapter (28/28) of the curriculum.\n← Previous | Top | Contents | Chapter 28/28 | Course Contents →",
+    "text": "Thank You!\nNext Chapter: Basic Biostatistics\n← Previous | Top | Contents | Chapter 28/29 | Next Chapter →",
     "crumbs": [
       "Contents",
       "Professionalism & Communication",
@@ -12507,5 +12507,485 @@
       "Health Programs & Populations",
       "Tribal Health in India"
     ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#home",
+    "href": "foundations/biostatistics.html#home",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Welcome",
+    "text": "Welcome\nBasic Biostatistics\nLearning Objectives:\n\nDistinguish qualitative from quantitative data and choose an appropriate presentation method\nCalculate and interpret the mean, median, and mode\nCalculate and interpret the range, standard deviation, and coefficient of variation\nDescribe the properties of the normal distribution\nDistinguish probability from non-probability sampling techniques\nApply the t-test and chi-square test to appropriate data types\nDistinguish correlation from regression\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the statistical toolkit that Chapter 3’s rates and ratios, Chapter 4’s study designs, and Chapter 5’s screening validity measures all quietly assume — the numbers behind the numbers. It closes the curriculum as its own standalone subject area, since NMC’s CBME blueprint treats basic biostatistics as a distinct competency domain from epidemiology itself.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#types-of-data",
+    "href": "foundations/biostatistics.html#types-of-data",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Types of Data",
+    "text": "Types of Data\n🟢 MUST KNOW\nChoosing the right statistical technique starts with knowing what kind of data you have:\n\nQualitative (categorical) data — describes a quality/attribute, not a quantity\n\nNominal — unordered categories (blood group, sex, religion)\nOrdinal — ordered categories without equal intervals (mild/ moderate/severe; socioeconomic class)\n\nQuantitative (numerical) data — measured on a numeric scale\n\nDiscrete — whole-number counts only (number of children, number of episodes of diarrhoea)\nContinuous — any value within a range (height, blood pressure, haemoglobin level)\n\n\nWhy this distinction matters first: it determines everything that follows — which measure of central tendency is meaningful, which chart type applies, and which test of significance is valid for that data type.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#presenting-data",
+    "href": "foundations/biostatistics.html#presenting-data",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Presenting Data",
+    "text": "Presenting Data\n🟡 SHOULD KNOW\nRaw data must be organized before it can be interpreted — the same “choosing the right format” logic already introduced for population health data (Chapter 21), applied here to any dataset:\n\nTables — precise values, ordered rows/columns, the basis for every other presentation format\nBar diagram — compares categories (qualitative or discrete data); bar height/length represents frequency\nPie chart — shows proportions of a whole\nHistogram — for continuous data grouped into class intervals; unlike a bar diagram, bars touch since the underlying scale is continuous\nLine diagram — shows a trend over time (e.g. monthly disease incidence)\n\nExam tip: a histogram’s bars touch; a bar diagram’s bars don’t — this single visual distinction encodes the deeper point that histograms represent a continuous scale with no natural gaps between categories.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#measures-of-central-tendency",
+    "href": "foundations/biostatistics.html#measures-of-central-tendency",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Measures of Central Tendency",
+    "text": "Measures of Central Tendency\n🟢 MUST KNOW\nThree ways to describe a “typical” value in a dataset, each suited to different circumstances:\n\nMean — the arithmetic average (sum of values ÷ number of values); uses every value, but is pulled toward outliers/skewed data\nMedian — the middle value when data is arranged in order; not affected by extreme outliers, making it the better choice for skewed distributions (e.g. income, hospital length of stay)\nMode — the most frequently occurring value; the only measure of central tendency usable for nominal (categorical) data\n\nChoosing between them: symmetric, non-skewed continuous data → mean; skewed continuous data or data with outliers → median; categorical data → mode.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#measures-of-dispersion",
+    "href": "foundations/biostatistics.html#measures-of-dispersion",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Measures of Dispersion",
+    "text": "Measures of Dispersion\n🟢 MUST KNOW\nCentral tendency alone can be misleading — two datasets can share the same mean while looking very different in spread:\n\nRange — highest value minus lowest value; simplest measure, but entirely determined by the two most extreme values\nStandard deviation (SD) — the average distance of each value from the mean; the most widely used measure of spread for data that is roughly normally distributed\nVariance — the square of the SD; used mathematically (e.g. in further statistical tests) more often than reported directly\nCoefficient of variation (CV) — SD expressed as a percentage of the mean (CV = (SD / Mean) × 100); allows comparing the relative spread of two datasets measured in different units (e.g. comparing variability in height vs. weight)\n\nWhy CV matters specifically: SD alone can’t compare variability across different scales — a SD of 5 kg and a SD of 5 cm aren’t comparable, but their CVs are.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#the-normal-distribution",
+    "href": "foundations/biostatistics.html#the-normal-distribution",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "The Normal Distribution",
+    "text": "The Normal Distribution\n🟢 MUST KNOW\nMany biological measurements (height, blood pressure, haemoglobin) approximate a normal (Gaussian) distribution — a symmetric, bell-shaped curve with defining properties:\n\nMean = median = mode, all at the centre of the curve\nSymmetric about the mean — the two tails mirror each other\n68–95–99.7 rule: approximately 68% of values fall within ±1 SD of the mean, 95% within ±2 SD, and 99.7% within ±3 SD\n\nWhy this matters practically: it’s what makes the SD interpretable — knowing the mean and SD of a normally distributed variable tells you, without seeing the raw data, roughly what range most values fall in, and what counts as an unusually extreme value.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#sampling-techniques",
+    "href": "foundations/biostatistics.html#sampling-techniques",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Sampling Techniques",
+    "text": "Sampling Techniques\n🟡 SHOULD KNOW\nStudying an entire population is rarely feasible — a sample is selected to represent it, using one of two broad approaches:\n\nProbability sampling (every unit has a known, non-zero chance of selection — allows valid generalization to the population):\n\nSimple random sampling — every unit has an equal chance, selected via random numbers\nSystematic sampling — every kth unit selected from a list\nStratified sampling — population divided into homogeneous strata (e.g. by age group) first, then randomly sampled within each\nCluster sampling — naturally occurring groups (e.g. villages, schools) are randomly selected, and every unit within a chosen cluster is included\n\nNon-probability sampling (selection not random — convenient but cannot support valid generalization): convenience, purposive, and quota sampling\n\nWhy the distinction matters: only probability sampling provides a statistical basis for generalizing findings from the sample back to the population — the entire logic of inferential statistics that follows depends on it.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#sample-size",
+    "href": "foundations/biostatistics.html#sample-size",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Sample Size",
+    "text": "Sample Size\n🟡 SHOULD KNOW\nAn appropriately calculated sample size balances two competing risks: too small a sample risks missing a real effect (inadequate statistical power); too large wastes time, cost, and participant burden without added benefit.\nKey factors that increase the required sample size:\n\nHigher desired confidence level (e.g. 99% vs. 95%)\nSmaller expected effect size (a subtle difference needs more participants to detect reliably than an obvious one)\nGreater variability in the outcome being measured\nHigher desired statistical power (the ability to detect a true effect if one exists)\n\nWhy this belongs in a curriculum, not just a statistics course: an underpowered study (Chapter 4) can fail to detect a real association purely because it enrolled too few participants — not because no association exists.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#standard-error-and-confidence-intervals",
+    "href": "foundations/biostatistics.html#standard-error-and-confidence-intervals",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Standard Error and Confidence Intervals",
+    "text": "Standard Error and Confidence Intervals\n🟢 MUST KNOW\n\nStandard Error (SE) — the standard deviation of the sample mean itself, estimating how much a sample mean would vary if the study were repeated; SE = SD / √n — SE shrinks as sample size grows, unlike SD, which describes spread within a single sample and doesn’t shrink with larger n\nConfidence interval (CI) — a range, calculated from the sample mean ± a multiple of the SE, that is expected to contain the true population value with a stated level of confidence (typically 95%)\n\nWhy SE matters for tests of significance: every test on the following slides ultimately compares an observed difference to the amount of variation expected by chance alone — and that expected variation is expressed using the standard error.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#tests-of-significance-the-t-test",
+    "href": "foundations/biostatistics.html#tests-of-significance-the-t-test",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Tests of Significance: The t-test",
+    "text": "Tests of Significance: The t-test\n🟡 SHOULD KNOW\nThe t-test compares the means of continuous data between two groups (or a sample mean against a known value), asking: is the observed difference larger than what chance alone would produce?\n\nUnpaired (independent) t-test — compares means between two separate, independent groups (e.g. mean blood pressure in a treated vs. untreated group)\nPaired t-test — compares means from the same subjects measured twice (e.g. before and after an intervention), accounting for the natural correlation between paired measurements\n\np-value: the probability of observing a difference this large (or larger) if there were truly no difference in the population; by convention, p &lt; 0.05 is considered statistically significant — but statistical significance is not the same as clinical importance.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#tests-of-significance-chi-square-test",
+    "href": "foundations/biostatistics.html#tests-of-significance-chi-square-test",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Tests of Significance: Chi-Square Test",
+    "text": "Tests of Significance: Chi-Square Test\n🟡 SHOULD KNOW\nThe chi-square (χ²) test is used for categorical data, testing whether the observed distribution across categories differs from what would be expected by chance — e.g. is disease frequency associated with exposure status, when both are categorical (present/absent)?\nχ² = Σ [(Observed − Expected)² / Expected]\nWhy it’s the categorical counterpart to the t-test: the t-test needs continuous data with means to compare; chi-square instead compares counts/frequencies across categories — the correct tool once data is nominal or ordinal rather than a measurable numeric scale.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#correlation-and-regression",
+    "href": "foundations/biostatistics.html#correlation-and-regression",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Correlation and Regression",
+    "text": "Correlation and Regression\n🟣 MAY KNOW\n\nCorrelation — measures the strength and direction of a linear relationship between two continuous variables, expressed as the correlation coefficient (r, ranging from −1 to +1); r close to 0 means little or no linear relationship\nRegression — goes further than correlation by modelling how one variable predicts or changes with another, producing an equation that can estimate one variable’s value from the other\n\nExam tip, revisited from Chapter 4: correlation and regression both describe association, not causation — the same causal-inference caution already introduced in the Bradford Hill criteria (Chapter 2) applies directly here.",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#self-check-question-1",
+    "href": "foundations/biostatistics.html#self-check-question-1",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA dataset of hospital length-of-stay (in days) contains a few very long outlier admissions. Which measure of central tendency best represents the “typical” stay?\n\nMean\nMedian\nMode\nRange",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#self-check-question-2",
+    "href": "foundations/biostatistics.html#self-check-question-2",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nUnder the 68-95-99.7 rule for a normally distributed variable, approximately what proportion of values fall within ±2 standard deviations of the mean?\n\n68%\n95%\n99.7%\n50%",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#self-check-question-3",
+    "href": "foundations/biostatistics.html#self-check-question-3",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA researcher randomly selects entire villages for a study, including every household within each selected village. This is an example of:\n\nSimple random sampling\nStratified sampling\nCluster sampling\nConvenience sampling",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#self-check-question-4",
+    "href": "foundations/biostatistics.html#self-check-question-4",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nComparing mean fasting blood glucose in the same patients before and after a 12-week diet intervention calls for which test?\n\nUnpaired t-test\nPaired t-test\nChi-square test\nCorrelation coefficient",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#self-check-question-5",
+    "href": "foundations/biostatistics.html#self-check-question-5",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nTesting whether vaccination status (yes/no) is associated with disease occurrence (yes/no) in a group of children calls for which test?\n\nPaired t-test\nChi-square test\nCorrelation coefficient\nStandard error calculation",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#references",
+    "href": "foundations/biostatistics.html#references",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "References",
+    "text": "References\n\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for biostatistics in community medicine.\nWorld Health Organization. Basic Statistical Methods for Analysis of Health Data.\nNational Medical Commission, India. Competency-Based Undergraduate Curriculum for the Indian Medical Graduate — Community Medicine, CM6 (Basic Statistics and its Applications).",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "foundations/biostatistics.html#thank-you",
+    "href": "foundations/biostatistics.html#thank-you",
+    "title": "Chapter 29: Basic Biostatistics",
+    "section": "Thank You!",
+    "text": "Thank You!\nThis is the final chapter (29/29) of the curriculum.\n← Previous | Top | Contents | Chapter 29/29",
+    "crumbs": [
+      "Contents",
+      "Biostatistics",
+      "Basic Biostatistics"
+    ]
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#home",
+    "href": "diseases/cd/module7_tuberculosis.html#home",
+    "title": "Module 7: Tuberculosis",
+    "section": "Welcome",
+    "text": "Welcome\nTuberculosis\nLearning Objectives:\n\nDescribe the burden and transmission of tuberculosis in India\nDistinguish primary from post-primary (reactivation) TB\nOutline the diagnostic algorithm, including molecular tests\nDescribe the standard treatment regimen and directly observed therapy\nExplain India’s NTEP strategy and the TB elimination target\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nTuberculosis is the single highest-burden communicable disease in India’s public health curriculum — this module applies Chapter 6’s chain-of-infection and outbreak-control framework to a disease that, unlike the acute enteric and vector-borne diseases already covered, is chronic, airborne, and managed through a dedicated long-term national programme."
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#burden-and-transmission",
+    "href": "diseases/cd/module7_tuberculosis.html#burden-and-transmission",
+    "title": "Module 7: Tuberculosis",
+    "section": "Burden and Transmission",
+    "text": "Burden and Transmission\n🟢 MUST KNOW\nAgent: Mycobacterium tuberculosis, an acid-fast bacillus.\n\nIndia carries the world’s highest TB burden — roughly a quarter of all global TB cases — making TB elimination central to India’s public health strategy, not just one programme among many\nTransmission: airborne, via droplet nuclei produced when a person with pulmonary TB coughs, sneezes, or talks; prolonged close contact carries the highest risk\nRisk factors for progression to disease: HIV co-infection (the single strongest risk factor), malnutrition, diabetes mellitus, smoking, alcohol use, and overcrowded living conditions\n\nOnly a minority of infected people ever develop active disease — most mount an immune response that contains the bacillus without symptoms (see latent infection, next slide)."
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#primary-vs.-post-primary-tb",
+    "href": "diseases/cd/module7_tuberculosis.html#primary-vs.-post-primary-tb",
+    "title": "Module 7: Tuberculosis",
+    "section": "Primary vs. Post-Primary TB",
+    "text": "Primary vs. Post-Primary TB\n🟢 MUST KNOW\n\nPrimary TB — the initial infection, usually in childhood; often asymptomatic or mild, contained by the immune system as a latent infection (bacilli persist, dormant, causing no symptoms and no transmission risk)\nPost-primary (reactivation) TB — latent bacilli reactivate later in life, typically when immunity is weakened (HIV, malnutrition, ageing, immunosuppressive therapy), producing the classic symptomatic, transmissible disease\n\nWhy this distinction matters for control: a large latent-infection reservoir means TB control requires not only treating active cases, but also TB Preventive Therapy (TPT) for high-risk contacts and co-infected individuals — treating infection before it becomes disease."
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#clinical-features-and-diagnosis",
+    "href": "diseases/cd/module7_tuberculosis.html#clinical-features-and-diagnosis",
+    "title": "Module 7: Tuberculosis",
+    "section": "Clinical Features and Diagnosis",
+    "text": "Clinical Features and Diagnosis\n🟡 SHOULD KNOW\nClassic presentation: cough for 2 or more weeks, low-grade fever (often evening rise), night sweats, weight loss, and haemoptysis in advanced disease. TB can also be extrapulmonary (lymph nodes, pleura, spine, meninges), especially in HIV-positive individuals.\nDiagnostic algorithm:\n\nSputum smear microscopy (AFB staining) — rapid, inexpensive, but lower sensitivity than molecular methods\nMolecular tests (CBNAAT/Truenat) — detect M. tuberculosis DNA directly and simultaneously screen for rifampicin resistance, now the preferred first-line diagnostic under NTEP\nCulture — the diagnostic gold standard, but slow (weeks), used mainly to confirm drug resistance\nChest X-ray — supportive, not diagnostic alone"
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#treatment-regimen-and-dots",
+    "href": "diseases/cd/module7_tuberculosis.html#treatment-regimen-and-dots",
+    "title": "Module 7: Tuberculosis",
+    "section": "Treatment: Regimen and DOTS",
+    "text": "Treatment: Regimen and DOTS\n🟢 MUST KNOW\nStandard drug-sensitive TB treatment follows a fixed two-phase regimen using four first-line drugs:\nIntensive phase (2 months): Isoniazid (H) + Rifampicin (R) + Pyrazinamide (Z) + Ethambutol (E) → Continuation phase (4 months): Isoniazid + Rifampicin\n\nDirectly Observed Treatment (DOT) — a healthcare worker or designated person watches the patient swallow every dose, ensuring adherence — the “DOTS” (DOT, Short-course) strategy that gives the older programme name its acronym\nDrug-resistant TB — MDR-TB (resistant to at least isoniazid and rifampicin) requires longer, more toxic second-line regimens; XDR-TB adds resistance to key second-line drugs, leaving very few effective options — the same drug-resistance logic already introduced for typhoid (XDR typhoid, earlier module)\n\nWhy adherence is emphasized so heavily: incomplete or interrupted treatment is the single most important driver of acquired drug resistance."
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#ntep-indias-tb-elimination-programme",
+    "href": "diseases/cd/module7_tuberculosis.html#ntep-indias-tb-elimination-programme",
+    "title": "Module 7: Tuberculosis",
+    "section": "NTEP: India’s TB Elimination Programme",
+    "text": "NTEP: India’s TB Elimination Programme\n🟡 SHOULD KNOW\nIndia’s TB programme has evolved from the National TB Control Programme (NTCP) → RNTCP (Revised NTCP) → NTEP (National TB Elimination Programme), reflecting a shift from control to outright elimination as the stated goal.\n\nTarget: eliminate TB in India by 2025, five years ahead of the global SDG target of 2030\nNi-kshay — India’s digital TB surveillance and case-management portal, tracking every notified patient from diagnosis through treatment completion\nTB Mukt Bharat Abhiyan — a community-mobilization campaign (Ni-kshay Mitras “adopting” TB patients to support nutrition and treatment completion) alongside the clinical programme\nTB Preventive Therapy (TPT) — extends treatment to household contacts and other high-risk groups with latent infection, directly applying the primary-vs-post-primary distinction above"
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#self-check-question-1",
+    "href": "diseases/cd/module7_tuberculosis.html#self-check-question-1",
+    "title": "Module 7: Tuberculosis",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nTuberculosis is transmitted primarily via:\n\nContaminated water\nAirborne droplet nuclei from a person with pulmonary TB\nFaeco-oral contamination\nVector bite"
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#self-check-question-2",
+    "href": "diseases/cd/module7_tuberculosis.html#self-check-question-2",
+    "title": "Module 7: Tuberculosis",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nThe single strongest risk factor for progression from latent TB infection to active disease is:\n\nSmoking\nDiabetes mellitus\nHIV co-infection\nAlcohol use"
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#self-check-question-3",
+    "href": "diseases/cd/module7_tuberculosis.html#self-check-question-3",
+    "title": "Module 7: Tuberculosis",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nUnder NTEP, which diagnostic test simultaneously detects M. tuberculosis and screens for rifampicin resistance?\n\nSputum smear microscopy alone\nChest X-ray\nCBNAAT/Truenat (molecular testing)\nTuberculin skin test"
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#self-check-question-4",
+    "href": "diseases/cd/module7_tuberculosis.html#self-check-question-4",
+    "title": "Module 7: Tuberculosis",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nThe intensive phase of standard drug-sensitive TB treatment consists of which drugs, for how long?\n\nIsoniazid and Rifampicin alone, for 4 months\nIsoniazid, Rifampicin, Pyrazinamide, and Ethambutol, for 2 months\nRifampicin alone, for 6 months\nEthambutol and Pyrazinamide, for 6 months"
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#self-check-question-5",
+    "href": "diseases/cd/module7_tuberculosis.html#self-check-question-5",
+    "title": "Module 7: Tuberculosis",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nIndia’s target year for TB elimination under NTEP is:\n\n2030 (matching the global SDG target)\n2025\n2035\n2047"
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#references",
+    "href": "diseases/cd/module7_tuberculosis.html#references",
+    "title": "Module 7: Tuberculosis",
+    "section": "References",
+    "text": "References\n\nCentral TB Division, Ministry of Health & Family Welfare, Government of India. National TB Elimination Programme (NTEP) — guidelines and Ni-kshay portal.\nWorld Health Organization. Global Tuberculosis Report.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for tuberculosis epidemiology and control."
+  },
+  {
+    "objectID": "diseases/cd/module7_tuberculosis.html#thank-you",
+    "href": "diseases/cd/module7_tuberculosis.html#thank-you",
+    "title": "Module 7: Tuberculosis",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: HIV/AIDS, STIs and NACP\n← Previous | Top | Communicable Diseases | Module 7/13 | Next →"
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#home",
+    "href": "diseases/cd/module8_hiv_stis.html#home",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "Welcome",
+    "text": "Welcome\nHIV/AIDS, STIs and NACP\nLearning Objectives:\n\nDescribe HIV transmission routes and the natural history of infection\nDistinguish HIV infection from AIDS\nDescribe the principles of antiretroviral therapy and PMTCT\nOutline India’s National AIDS Control Programme (NACP) phases\nApply the syndromic approach to managing sexually transmitted infections\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nHIV/AIDS was one of the three explicitly health-focused MDGs (Chapter 12) and remains an SDG 3 target for ending epidemics by 2030 — this module gives the clinical and programmatic detail behind those targets, alongside sexually transmitted infections more broadly, since NACP addresses both together."
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#transmission-and-natural-history",
+    "href": "diseases/cd/module8_hiv_stis.html#transmission-and-natural-history",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "Transmission and Natural History",
+    "text": "Transmission and Natural History\n🟢 MUST KNOW\nAgent: Human Immunodeficiency Virus (HIV), a retrovirus that progressively destroys CD4+ T-lymphocytes, the cells central to cell-mediated immunity.\nTransmission routes:\n\nSexual contact — the predominant mode globally and in India\nBlood-borne — transfusion of unscreened blood, sharing needles (injection drug use)\nVertical (mother-to-child) — during pregnancy, delivery, or breastfeeding\n\nNot transmitted by casual contact, sharing food/utensils, mosquito bites, or airborne droplets — an important distinction for countering stigma (Chapter 23).\nNatural history: acute infection → a long asymptomatic latent period (years) → progressive immune decline → AIDS, defined by a CD4 count falling below a threshold or the appearance of specific opportunistic infections/cancers."
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#hiv-infection-vs.-aids",
+    "href": "diseases/cd/module8_hiv_stis.html#hiv-infection-vs.-aids",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "HIV Infection vs. AIDS",
+    "text": "HIV Infection vs. AIDS\n🟢 MUST KNOW\n\nHIV infection — presence of the virus, which may be entirely asymptomatic for years while progressively damaging the immune system\nAIDS (Acquired Immunodeficiency Syndrome) — the advanced stage, defined by a CD4 count below a set threshold or the occurrence of specific opportunistic infections (e.g. tuberculosis, Pneumocystis pneumonia, cryptococcal meningitis) or certain cancers that a healthy immune system would normally control\n\nWhy the distinction matters clinically: a person can be HIV-positive for years without having AIDS — antiretroviral therapy (next slide) aims precisely at preventing that progression from infection to syndrome."
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#antiretroviral-therapy-and-pmtct",
+    "href": "diseases/cd/module8_hiv_stis.html#antiretroviral-therapy-and-pmtct",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "Antiretroviral Therapy and PMTCT",
+    "text": "Antiretroviral Therapy and PMTCT\n🟡 SHOULD KNOW\n\nAntiretroviral therapy (ART) — a combination of drugs (Highly Active ART, HAART) that suppresses viral replication, preserving immune function; India provides ART free of cost through government ART centres, initiated as early as possible after diagnosis regardless of CD4 count (“test and treat”)\nPrevention of Mother-to-Child Transmission (PMTCT) — ART given to the HIV-positive mother during pregnancy and delivery, plus prophylaxis to the newborn, reduces vertical transmission risk from roughly 25–30% (untreated) to under 2%\nPost-exposure prophylaxis (PEP) — ART started within 72 hours of a high-risk exposure (e.g. a needle-stick injury) can prevent infection from becoming established\n\nExam tip: ART does not cure HIV — it suppresses it to undetectable levels, which also dramatically reduces onward transmission risk (“treatment as prevention”)."
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#indias-national-aids-control-programme-nacp",
+    "href": "diseases/cd/module8_hiv_stis.html#indias-national-aids-control-programme-nacp",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "India’s National AIDS Control Programme (NACP)",
+    "text": "India’s National AIDS Control Programme (NACP)\n🟡 SHOULD KNOW\nIndia’s HIV response has run through successive NACP phases since 1992, shifting emphasis over time:\nNACP-I (1992) — awareness & blood safety → NACP-II — targeted interventions for high-risk groups → NACP-III — scale-up of prevention & treatment → NACP-IV/V (ongoing) — \"90-90-90\" and ending AIDS as a public health threat\n\nTargeted interventions — focused prevention programmes for high-risk groups (sex workers, men who have sex with men, injection drug users, transgender persons), recognizing that HIV spreads unevenly across a population, not uniformly (recall Rose’s high-risk vs. population strategy, Chapter 7)\nIntegrated Counselling and Testing Centres (ICTC) — provide free, confidential HIV counselling and testing nationwide"
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#sexually-transmitted-infections-syndromic-management",
+    "href": "diseases/cd/module8_hiv_stis.html#sexually-transmitted-infections-syndromic-management",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "Sexually Transmitted Infections: Syndromic Management",
+    "text": "Sexually Transmitted Infections: Syndromic Management\n🟣 MAY KNOW\nBeyond HIV itself, NACP also addresses other sexually transmitted infections (STIs) — since STIs and HIV share risk factors and STIs increase HIV transmission risk.\n\nSyndromic management — treating an STI based on a recognizable cluster of symptoms (e.g. urethral discharge, genital ulcer) rather than waiting for laboratory confirmation, allowing immediate treatment at first contact, especially valuable where laboratory access is limited\nWhy this approach fits STI control specifically: delayed treatment risks both onward transmission and complications (infertility, increased HIV susceptibility), so syndromic management trades some diagnostic precision for speed and coverage"
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#self-check-question-1",
+    "href": "diseases/cd/module8_hiv_stis.html#self-check-question-1",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nHIV primarily damages which component of the immune system?\n\nB-lymphocytes\nCD4+ T-lymphocytes\nNeutrophils\nPlatelets"
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#self-check-question-2",
+    "href": "diseases/cd/module8_hiv_stis.html#self-check-question-2",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nA person is HIV-positive but has a normal CD4 count and no opportunistic infections. This person is best described as:\n\nHaving AIDS\nHaving HIV infection, but not yet AIDS\nCured of HIV\nNot infectious to others"
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#self-check-question-3",
+    "href": "diseases/cd/module8_hiv_stis.html#self-check-question-3",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nWithout any intervention, mother-to-child HIV transmission risk is approximately 25-30%. With effective PMTCT, this risk falls to:\n\n20%\n10%\nUnder 2%\n0% is guaranteed in all cases"
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#self-check-question-4",
+    "href": "diseases/cd/module8_hiv_stis.html#self-check-question-4",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nTreating a patient’s genital ulcer immediately based on the clinical symptom pattern, without waiting for lab confirmation, is an example of:\n\nTargeted intervention\nSyndromic management\nPost-exposure prophylaxis\nDirectly observed therapy"
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#references",
+    "href": "diseases/cd/module8_hiv_stis.html#references",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "References",
+    "text": "References\n\nNational AIDS Control Organisation (NACO), Ministry of Health & Family Welfare, Government of India. National AIDS Control Programme — phases and guidelines.\nWorld Health Organization. HIV/AIDS and Sexually Transmitted Infections — fact sheets.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for HIV/AIDS and STI epidemiology."
+  },
+  {
+    "objectID": "diseases/cd/module8_hiv_stis.html#thank-you",
+    "href": "diseases/cd/module8_hiv_stis.html#thank-you",
+    "title": "Module 8: HIV/AIDS, STIs and NACP",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Leprosy\n← Previous | Top | Communicable Diseases | Module 8/13 | Next →"
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#home",
+    "href": "diseases/cd/module9_leprosy.html#home",
+    "title": "Module 9: Leprosy",
+    "section": "Welcome",
+    "text": "Welcome\nLeprosy\nLearning Objectives:\n\nDescribe the agent, transmission, and clinical classification of leprosy\nDistinguish paucibacillary from multibacillary disease\nDescribe multidrug therapy (MDT) and its duration by type\nOutline India’s NLEP and the SPARSH campaign\nExplain the role of deformity grading and stigma reduction\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nLeprosy is a classic example of Chapter 23’s sociological lens on stigma — a curable disease whose social consequences have historically outweighed its clinical severity in shaping patients’ lives. This module pairs the clinical/programmatic detail with that context."
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#agent-transmission-and-classification",
+    "href": "diseases/cd/module9_leprosy.html#agent-transmission-and-classification",
+    "title": "Module 9: Leprosy",
+    "section": "Agent, Transmission, and Classification",
+    "text": "Agent, Transmission, and Classification\n🟢 MUST KNOW\nAgent: Mycobacterium leprae, a slow-growing acid-fast bacillus with an unusually long incubation period (average 3–5 years, up to 20).\nTransmission: thought to occur mainly via prolonged close contact, through nasal droplets from untreated multibacillary cases; casual contact carries very low risk.\nClinical classification (WHO, for treatment purposes):\n\n\n\nType\nSkin lesions\nBacillary load\n\n\n\n\nPaucibacillary (PB)\n1–5 lesions\nSkin smear-negative\n\n\nMultibacillary (MB)\n6 or more lesions\nSkin smear-positive\n\n\n\nWhy this classification matters: it directly determines which MDT regimen and duration a patient receives (next slide) — the single most consequential grouping in leprosy management."
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#multidrug-therapy-mdt",
+    "href": "diseases/cd/module9_leprosy.html#multidrug-therapy-mdt",
+    "title": "Module 9: Leprosy",
+    "section": "Multidrug Therapy (MDT)",
+    "text": "Multidrug Therapy (MDT)\n🟢 MUST KNOW\nWHO-recommended multidrug therapy, provided free of cost in India:\n\nPaucibacillary (PB): Rifampicin + Dapsone, for 6 months\nMultibacillary (MB): Rifampicin + Clofazimine + Dapsone, for 12 months\n\nWhy multiple drugs, always: monotherapy historically led to rapid drug resistance — the same rationale already introduced for tuberculosis (previous module) applies here, and MDT has been the cornerstone of leprosy elimination globally since the 1980s.\nLeprosy is fully curable with completed MDT — the disability associated with it results from delayed diagnosis and treatment, not from the disease being inherently untreatable."
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#deformity-grading-and-disability-prevention",
+    "href": "diseases/cd/module9_leprosy.html#deformity-grading-and-disability-prevention",
+    "title": "Module 9: Leprosy",
+    "section": "Deformity Grading and Disability Prevention",
+    "text": "Deformity Grading and Disability Prevention\n🟡 SHOULD KNOW\nM. leprae has a particular affinity for peripheral nerves and skin, which is why untreated leprosy can cause sensory loss and deformity if not caught early:\n\n\n\n\n\n\n\nGrade\nFindings\n\n\n\n\nGrade 0\nNo sensory loss, no visible deformity\n\n\nGrade 1\nSensory loss present, but no visible deformity\n\n\nGrade 2\nVisible deformity or damage present (e.g. clawing, ulcers, lagophthalmos)\n\n\n\nWhy early detection matters so much: deformity results from nerve damage that has already occurred by the time it’s visible — this is why active case-finding (next slide) aims to catch cases at Grade 0/1, before irreversible damage sets in."
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#nlep-and-sparsh",
+    "href": "diseases/cd/module9_leprosy.html#nlep-and-sparsh",
+    "title": "Module 9: Leprosy",
+    "section": "NLEP and SPARSH",
+    "text": "NLEP and SPARSH\n🟡 SHOULD KNOW\nIndia’s National Leprosy Eradication Programme (NLEP) has run since 1983, shifting emphasis from vertical campaigns to integration with the general health system (the same NRHM-era integration logic already seen for other vertical programmes, Chapter 11).\n\nActive case-finding campaigns — house-to-house surveys in high-endemic areas to detect cases early, before Grade 2 disability develops\nSPARSH (Sensitize, Prevent, Awareness, Reach, Sanitize, Health) Leprosy Awareness Campaign — a public awareness initiative specifically targeting stigma reduction, run annually around World Leprosy Day\nContact tracing and post-exposure prophylaxis — single-dose rifampicin (SDR-PEP) offered to close contacts of newly diagnosed cases\n\nDirect link to Chapter 23: leprosy is named there as a condition where social consequences of diagnosis can outweigh clinical severity — SPARSH exists precisely to address that structural stigma barrier."
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#self-check-question-1",
+    "href": "diseases/cd/module9_leprosy.html#self-check-question-1",
+    "title": "Module 9: Leprosy",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA patient with 8 skin lesions and a skin-smear-positive result is classified as:\n\nPaucibacillary (PB)\nMultibacillary (MB)\nGrade 0\nGrade 1"
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#self-check-question-2",
+    "href": "diseases/cd/module9_leprosy.html#self-check-question-2",
+    "title": "Module 9: Leprosy",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nStandard MDT duration for multibacillary (MB) leprosy is:\n\n6 months\n12 months\n3 months\n24 months"
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#self-check-question-3",
+    "href": "diseases/cd/module9_leprosy.html#self-check-question-3",
+    "title": "Module 9: Leprosy",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nDisability in leprosy is best understood as resulting from:\n\nAn inherently untreatable disease\nDelayed diagnosis and treatment, allowing nerve damage to progress\nThe MDT regimen itself\nContact with a treated patient"
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#self-check-question-4",
+    "href": "diseases/cd/module9_leprosy.html#self-check-question-4",
+    "title": "Module 9: Leprosy",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nIndia’s SPARSH campaign primarily addresses which barrier to leprosy control?\n\nDrug shortages\nSocial stigma surrounding a leprosy diagnosis\nLack of a curative treatment\nVector control"
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#references",
+    "href": "diseases/cd/module9_leprosy.html#references",
+    "title": "Module 9: Leprosy",
+    "section": "References",
+    "text": "References\n\nCentral Leprosy Division, Ministry of Health & Family Welfare, Government of India. National Leprosy Eradication Programme (NLEP) and SPARSH Leprosy Awareness Campaign.\nWorld Health Organization. Leprosy (Hansen’s Disease) — fact sheet and MDT guidelines.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for leprosy epidemiology and classification."
+  },
+  {
+    "objectID": "diseases/cd/module9_leprosy.html#thank-you",
+    "href": "diseases/cd/module9_leprosy.html#thank-you",
+    "title": "Module 9: Leprosy",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Vector-Borne Viral Fevers\n← Previous | Top | Communicable Diseases | Module 9/13 | Next →"
   }
 ]

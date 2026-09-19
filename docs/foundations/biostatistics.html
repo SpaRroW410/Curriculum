@@ -9,7 +9,7 @@
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
   <meta name="generator" content="quarto-1.6.42">
 
-  <title>Social and Public health – Chapter 28: Health Talks and Community IEC</title>
+  <title>Social and Public health – Chapter 29: Basic Biostatistics</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -130,8 +130,8 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Chapter 28: Health Talks and Community IEC</h1>
-  <p class="subtitle">Planning and Delivering Effective Health Education Sessions</p>
+  <h1 class="title">Chapter 29: Basic Biostatistics</h1>
+  <p class="subtitle">Data, Central Tendency, Dispersion, and Tests of Significance</p>
 
 <div class="quarto-title-authors">
 </div>
@@ -139,18 +139,20 @@
 </section>
 <section id="home" class="slide level2 center">
 <h2>Welcome</h2>
-<h3 id="health-talks-and-community-iec">Health Talks and Community IEC</h3>
+<h3 id="basic-biostatistics">Basic Biostatistics</h3>
 <p><strong>Learning Objectives:</strong></p>
 <ul>
-<li>Structure a community health talk from needs assessment to delivery</li>
-<li>Apply effective IEC techniques (myth-busting, plain language, actionable takeaways)</li>
-<li>Describe Menstrual Hygiene Management (MHM) as a worked case study</li>
-<li>Apply a multi-level approach to reducing health-related stigma</li>
-<li>Identify red-flag criteria that belong in every health talk’s referral guidance</li>
+<li>Distinguish qualitative from quantitative data and choose an appropriate presentation method</li>
+<li>Calculate and interpret the mean, median, and mode</li>
+<li>Calculate and interpret the range, standard deviation, and coefficient of variation</li>
+<li>Describe the properties of the normal distribution</li>
+<li>Distinguish probability from non-probability sampling techniques</li>
+<li>Apply the t-test and chi-square test to appropriate data types</li>
+<li>Distinguish correlation from regression</li>
 </ul>
 <p>🟢 <strong>MUST KNOW</strong> · 🟡 <strong>SHOULD KNOW</strong> · 🟣 <strong>MAY KNOW</strong> · 🧡 <strong>QUESTION</strong></p>
 <aside class="notes">
-<p>Chapter 22 covered the theory of health communication (IEC vs.&nbsp;BCC, the Health Belief Model). This closing chapter is the practical counterpart: how a medical student or health worker actually plans and delivers one, using a real school-based Menstrual Hygiene Management talk as a worked example throughout.</p>
+<p>This chapter gives the statistical toolkit that Chapter 3’s rates and ratios, Chapter 4’s study designs, and Chapter 5’s screening validity measures all quietly assume — the numbers behind the numbers. It closes the curriculum as its own standalone subject area, since NMC’s CBME blueprint treats basic biostatistics as a distinct competency domain from epidemiology itself.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -163,95 +165,146 @@
           display:block!important;
       }</style></aside>
 </section>
-<section id="planning-a-health-talk-the-structure" class="slide level2 center" data-background-color="#E3F2E1">
-<h2>Planning a Health Talk: The Structure</h2>
+<section id="types-of-data" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Types of Data</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p>A community health talk is planned, not improvised — five steps, echoing Chapter 22’s IEC framework applied concretely:</p>
-<ol type="1">
-<li><strong>Needs assessment</strong> — what does <em>this</em> audience need to know, and what do they already (mis)understand?</li>
-<li><strong>Define audience and objectives</strong> — age group, setting (school, antenatal clinic, workplace), and 2–3 concrete, memorable takeaways rather than exhaustive information transfer</li>
-<li><strong>Organize content</strong> — normal/expected first, warning signs second, practical action third; too much information in the wrong order undermines retention</li>
-<li><strong>Choose delivery methods and materials</strong> — visual aids, simple language, interactive elements (Q&amp;A, myth-busting) suited to the audience’s literacy and comfort level</li>
-<li><strong>Build in referral guidance and evaluation</strong> — a health talk that doesn’t tell people when to seek care, and doesn’t check whether the message landed, is incomplete</li>
-</ol>
+<p>Choosing the right statistical technique starts with knowing what kind of data you have:</p>
+<ul>
+<li><strong>Qualitative (categorical) data</strong> — describes a quality/attribute, not a quantity
+<ul>
+<li><strong>Nominal</strong> — unordered categories (blood group, sex, religion)</li>
+<li><strong>Ordinal</strong> — ordered categories without equal intervals (mild/ moderate/severe; socioeconomic class)</li>
+</ul></li>
+<li><strong>Quantitative (numerical) data</strong> — measured on a numeric scale
+<ul>
+<li><strong>Discrete</strong> — whole-number counts only (number of children, number of episodes of diarrhoea)</li>
+<li><strong>Continuous</strong> — any value within a range (height, blood pressure, haemoglobin level)</li>
+</ul></li>
+</ul>
+<p><strong>Why this distinction matters first:</strong> it determines everything that follows — which measure of central tendency is meaningful, which chart type applies, and which test of significance is valid for that data type.</p>
 </section>
-<section id="menstrual-hygiene-management-a-worked-case-study" class="slide level2 center" data-background-color="#E3F2E1">
-<h2>Menstrual Hygiene Management: A Worked Case Study</h2>
+<section id="presenting-data" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Presenting Data</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>Raw data must be organized before it can be interpreted — the same “choosing the right format” logic already introduced for population health data (Chapter 21), applied here to any dataset:</p>
+<ul>
+<li><strong>Tables</strong> — precise values, ordered rows/columns, the basis for every other presentation format</li>
+<li><strong>Bar diagram</strong> — compares categories (qualitative or discrete data); bar height/length represents frequency</li>
+<li><strong>Pie chart</strong> — shows proportions of a whole</li>
+<li><strong>Histogram</strong> — for continuous data grouped into class intervals; unlike a bar diagram, bars touch since the underlying scale is continuous</li>
+<li><strong>Line diagram</strong> — shows a trend over time (e.g.&nbsp;monthly disease incidence)</li>
+</ul>
+<p><strong>Exam tip:</strong> a histogram’s bars touch; a bar diagram’s bars don’t — this single visual distinction encodes the deeper point that histograms represent a continuous scale with no natural gaps between categories.</p>
+</section>
+<section id="measures-of-central-tendency" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Measures of Central Tendency</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Menstrual Hygiene Management (MHM)</strong> is a recognized public health priority in India — poor MHM contributes to school absenteeism and dropout among adolescent girls, and is addressed under the <strong>Rashtriya Kishor Swasthya Karyakram (RKSK)</strong>, India’s adolescent health programme.</p>
-<p><strong>Core content a school-based MHM talk must cover:</strong></p>
+<p>Three ways to describe a “typical” value in a dataset, each suited to different circumstances:</p>
 <ul>
-<li><strong>Normalize first:</strong> menstruation is a normal physiological process (uterine lining shedding), not illness or impurity — typically beginning age 9–16, cycles 21–40 days, bleeding 3–7 days</li>
-<li><strong>Practical hygiene:</strong> changing products every 4–6 hours, handwashing before/after, washing the external genital area only (front to back), never washing inside the vagina</li>
-<li><strong>Product options:</strong> sanitary pads, menstrual cups, and <strong>why cloth rags carry real infection risk</strong> (bacterial/fungal growth in damp, poorly dried cloth) — a genuine safety message, not just a preference</li>
+<li><strong>Mean</strong> — the arithmetic average (sum of values ÷ number of values); uses every value, but is <strong>pulled toward outliers/skewed data</strong></li>
+<li><strong>Median</strong> — the middle value when data is arranged in order; <strong>not affected by extreme outliers</strong>, making it the better choice for skewed distributions (e.g.&nbsp;income, hospital length of stay)</li>
+<li><strong>Mode</strong> — the most frequently occurring value; the only measure of central tendency usable for <strong>nominal (categorical) data</strong></li>
 </ul>
+<p><strong>Choosing between them:</strong> symmetric, non-skewed continuous data → mean; skewed continuous data or data with outliers → median; categorical data → mode.</p>
 </section>
-<section id="effective-iec-techniques" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Effective IEC Techniques</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>What made this worked example effective as <em>health communication</em>, not just accurate content:</p>
+<section id="measures-of-dispersion" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Measures of Dispersion</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>Central tendency alone can be misleading — two datasets can share the same mean while looking very different in spread:</p>
 <ul>
-<li><strong>Myth vs.&nbsp;fact framing</strong> — directly naming a common misconception before correcting it is more effective than only stating the correct fact, because it addresses what the audience actually believes (e.g. “bathing during periods is unsafe” → directly refuted, not just omitted)</li>
-<li><strong>Plain language over clinical language</strong> — “the vagina cleans itself naturally” communicates the same fact as a clinical explanation of vaginal flora, but is retained and trusted by a lay adolescent audience</li>
-<li><strong>A short, explicit recap</strong> — closing with a small number of concrete, memorable action points outperforms a comprehensive summary that tries to restate everything</li>
-<li><strong>Empowering framing</strong> — closing on capability and agency (“you are informed, you are in control”), not fear, improves message uptake and reduces the shame this exact talk is trying to undo</li>
+<li><strong>Range</strong> — highest value minus lowest value; simplest measure, but entirely determined by the two most extreme values</li>
+<li><strong>Standard deviation (SD)</strong> — the average distance of each value from the mean; the most widely used measure of spread for data that is roughly normally distributed</li>
+<li><strong>Variance</strong> — the square of the SD; used mathematically (e.g.&nbsp;in further statistical tests) more often than reported directly</li>
+<li><strong>Coefficient of variation (CV)</strong> — SD expressed as a percentage of the mean (<code>CV = (SD / Mean) × 100</code>); allows comparing the relative spread of two datasets measured in <strong>different units</strong> (e.g.&nbsp;comparing variability in height vs.&nbsp;weight)</li>
 </ul>
+<p><strong>Why CV matters specifically:</strong> SD alone can’t compare variability across different scales — a SD of 5 kg and a SD of 5 cm aren’t comparable, but their CVs are.</p>
 </section>
-<section id="overcoming-stigma-a-multi-level-approach" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Overcoming Stigma: A Multi-Level Approach</h2>
+<section id="the-normal-distribution" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>The Normal Distribution</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>Many biological measurements (height, blood pressure, haemoglobin) approximate a <strong>normal (Gaussian) distribution</strong> — a symmetric, bell-shaped curve with defining properties:</p>
+<ul>
+<li><strong>Mean = median = mode</strong>, all at the centre of the curve</li>
+<li>Symmetric about the mean — the two tails mirror each other</li>
+<li><strong>68–95–99.7 rule:</strong> approximately 68% of values fall within ±1 SD of the mean, 95% within ±2 SD, and 99.7% within ±3 SD</li>
+</ul>
+<p><strong>Why this matters practically:</strong> it’s what makes the SD interpretable — knowing the mean and SD of a normally distributed variable tells you, without seeing the raw data, roughly what range most values fall in, and what counts as an unusually extreme value.</p>
+</section>
+<section id="sampling-techniques" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Sampling Techniques</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>Chapter 10 introduced stigma as a public health barrier in the mental health context; the same multi-level logic applies generally, and MHM is a clean example of it in practice:</p>
-<table class="caption-top">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Level</th>
-<th>Action</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Individual</strong></td>
-<td>Encouraged to talk to a trusted adult, not suffer in silence</td>
-</tr>
-<tr class="even">
-<td><strong>Family</strong></td>
-<td>Open discussion at home; ensuring access to products and support</td>
-</tr>
-<tr class="odd">
-<td><strong>Institution (school)</strong></td>
-<td>Providing pads, clean toilets, safe disposal facilities; teaching menstrual health to <em>everyone</em>, not only girls</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Why all three levels matter together:</strong> individual-level messaging alone (telling a girl menstruation is normal) does little if her school has no clean facilities or her family still treats it as shameful — the intervention has to match the level where the actual barrier sits.</p>
+<p>Studying an entire population is rarely feasible — a <strong>sample</strong> is selected to represent it, using one of two broad approaches:</p>
+<ul>
+<li><strong>Probability sampling</strong> (every unit has a known, non-zero chance of selection — allows valid generalization to the population):
+<ul>
+<li><strong>Simple random sampling</strong> — every unit has an equal chance, selected via random numbers</li>
+<li><strong>Systematic sampling</strong> — every <em>k</em>th unit selected from a list</li>
+<li><strong>Stratified sampling</strong> — population divided into homogeneous strata (e.g.&nbsp;by age group) first, then randomly sampled within each</li>
+<li><strong>Cluster sampling</strong> — naturally occurring groups (e.g.&nbsp;villages, schools) are randomly selected, and every unit within a chosen cluster is included</li>
+</ul></li>
+<li><strong>Non-probability sampling</strong> (selection not random — convenient but cannot support valid generalization): convenience, purposive, and quota sampling</li>
+</ul>
+<p><strong>Why the distinction matters:</strong> only probability sampling provides a statistical basis for generalizing findings from the sample back to the population — the entire logic of inferential statistics that follows depends on it.</p>
 </section>
-<section id="red-flags-referral-guidance-belongs-in-every-talk" class="slide level2 center" data-background-color="#E8E4F3">
-<h2>Red Flags: Referral Guidance Belongs in Every Talk</h2>
+<section id="sample-size" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Sample Size</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>An appropriately calculated sample size balances two competing risks: too small a sample risks missing a real effect (inadequate statistical power); too large wastes time, cost, and participant burden without added benefit.</p>
+<p><strong>Key factors that increase the required sample size:</strong></p>
+<ul>
+<li>Higher desired <strong>confidence level</strong> (e.g.&nbsp;99% vs.&nbsp;95%)</li>
+<li>Smaller <strong>expected effect size</strong> (a subtle difference needs more participants to detect reliably than an obvious one)</li>
+<li>Greater <strong>variability</strong> in the outcome being measured</li>
+<li>Higher desired <strong>statistical power</strong> (the ability to detect a true effect if one exists)</li>
+</ul>
+<p><strong>Why this belongs in a curriculum, not just a statistics course:</strong> an underpowered study (Chapter 4) can fail to detect a real association purely because it enrolled too few participants — not because no association exists.</p>
+</section>
+<section id="standard-error-and-confidence-intervals" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Standard Error and Confidence Intervals</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<ul>
+<li><strong>Standard Error (SE)</strong> — the standard deviation of the <em>sample mean</em> itself, estimating how much a sample mean would vary if the study were repeated; <code>SE = SD / √n</code> — <strong>SE shrinks as sample size grows</strong>, unlike SD, which describes spread within a single sample and doesn’t shrink with larger n</li>
+<li><strong>Confidence interval (CI)</strong> — a range, calculated from the sample mean ± a multiple of the SE, that is expected to contain the true population value with a stated level of confidence (typically 95%)</li>
+</ul>
+<p><strong>Why SE matters for tests of significance:</strong> every test on the following slides ultimately compares an observed difference to the amount of variation expected by chance alone — and that expected variation is expressed using the standard error.</p>
+</section>
+<section id="tests-of-significance-the-t-test" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Tests of Significance: The t-test</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>The <strong>t-test</strong> compares the <strong>means</strong> of continuous data between two groups (or a sample mean against a known value), asking: is the observed difference larger than what chance alone would produce?</p>
+<ul>
+<li><strong>Unpaired (independent) t-test</strong> — compares means between two separate, independent groups (e.g.&nbsp;mean blood pressure in a treated vs.&nbsp;untreated group)</li>
+<li><strong>Paired t-test</strong> — compares means from the <strong>same</strong> subjects measured twice (e.g.&nbsp;before and after an intervention), accounting for the natural correlation between paired measurements</li>
+</ul>
+<p><strong>p-value:</strong> the probability of observing a difference this large (or larger) if there were truly no difference in the population; by convention, <strong>p &lt; 0.05</strong> is considered statistically significant — but statistical significance is not the same as clinical importance.</p>
+</section>
+<section id="tests-of-significance-chi-square-test" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Tests of Significance: Chi-Square Test</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>The <strong>chi-square (χ²) test</strong> is used for <strong>categorical data</strong>, testing whether the observed distribution across categories differs from what would be expected by chance — e.g.&nbsp;is disease frequency associated with exposure status, when both are categorical (present/absent)?</p>
+<p><code>χ² = Σ [(Observed − Expected)² / Expected]</code></p>
+<p><strong>Why it’s the categorical counterpart to the t-test:</strong> the t-test needs continuous data with means to compare; chi-square instead compares <strong>counts/frequencies</strong> across categories — the correct tool once data is nominal or ordinal rather than a measurable numeric scale.</p>
+</section>
+<section id="correlation-and-regression" class="slide level2 center" data-background-color="#E8E4F3">
+<h2>Correlation and Regression</h2>
 <p>🟣 <strong>MAY KNOW</strong></p>
-<p>A well-designed health talk always closes the loop with clear criteria for when the normal-reassurance message does <strong>not</strong> apply — general principle, illustrated with the MHM example:</p>
 <ul>
-<li>Bleeding lasting more than 8 days, or soaking a pad in under an hour</li>
-<li>No period for 3+ months after cycles were previously regular</li>
-<li>Pain severe enough to prevent normal activity (e.g.&nbsp;missing school)</li>
-<li>Any symptom the audience is unsure about — explicit permission to ask rather than guess</li>
+<li><strong>Correlation</strong> — measures the <strong>strength and direction</strong> of a linear relationship between two continuous variables, expressed as the correlation coefficient (<em>r</em>, ranging from −1 to +1); <em>r</em> close to 0 means little or no linear relationship</li>
+<li><strong>Regression</strong> — goes further than correlation by modelling how one variable <strong>predicts or changes with</strong> another, producing an equation that can estimate one variable’s value from the other</li>
 </ul>
-<p><strong>Why this matters pedagogically:</strong> a talk that only reassures risks under-referral (a genuine problem is dismissed as normal); a talk that only warns risks over-medicalizing a normal process and reinforcing the stigma it set out to reduce. Good IEC design does both, explicitly.</p>
+<p><strong>Exam tip, revisited from Chapter 4:</strong> correlation and regression both describe association, not causation — the same causal-inference caution already introduced in the Bradford Hill criteria (Chapter 2) applies directly here.</p>
 </section>
 <section id="self-check-question-1" class="slide level2 center" data-background-color="#FDE8E8">
 <h2>Self-Check: Question 1</h2>
 <p>🧡 <strong>QUESTION</strong></p>
 <section id="question-1" class="quiz-question">
 <h3>Question 1</h3>
-<p>When planning a health talk, why is “myth vs.&nbsp;fact” framing generally more effective than simply stating correct information?</p>
+<p>A dataset of hospital length-of-stay (in days) contains a few very long outlier admissions. Which measure of central tendency best represents the “typical” stay?</p>
 <ul>
-<li>It takes less time to deliver</li>
-<li><span class="correct" data-explanation="Myth-busting works because it engages with the audience's actual existing beliefs rather than presenting information as if the audience has no prior (possibly incorrect) ideas — this makes the correction more memorable and more likely to actually change behavior.">It directly addresses what the audience already (mis)believes, rather than assuming a blank slate</span></li>
-<li>It avoids the need for visual aids</li>
-<li>It requires no needs assessment beforehand</li>
+<li>Mean</li>
+<li><span class="correct" data-explanation="The median is not affected by extreme outliers, making it the better choice for skewed data like length-of-stay, where a few very long admissions would pull the mean upward.">Median</span></li>
+<li>Mode</li>
+<li>Range</li>
 </ul>
 </section>
 </section>
@@ -260,12 +313,12 @@
 <p>🧡 <strong>QUESTION</strong></p>
 <section id="question-2" class="quiz-question">
 <h3>Question 2</h3>
-<p>Cloth rags are considered a higher-risk menstrual hygiene option primarily because:</p>
+<p>Under the 68-95-99.7 rule for a normally distributed variable, approximately what proportion of values fall within ±2 standard deviations of the mean?</p>
 <ul>
-<li>They are more expensive than sanitary pads</li>
-<li><span class="correct" data-explanation="The core safety concern with cloth rags is that inadequately dried cloth stays damp, allowing bacteria and fungi to multiply, which can cause infections including UTIs — this is a genuine hygiene/safety issue, not merely a preference.">Damp, poorly dried cloth allows bacterial and fungal growth, raising infection risk</span></li>
-<li>They cannot be reused</li>
-<li>They are not available in rural areas</li>
+<li>68%</li>
+<li><span class="correct" data-explanation="Approximately 95% of values in a normal distribution fall within plus-or-minus 2 standard deviations of the mean, with 99.7% falling within plus-or-minus 3 SD.">95%</span></li>
+<li>99.7%</li>
+<li>50%</li>
 </ul>
 </section>
 </section>
@@ -274,34 +327,62 @@
 <p>🧡 <strong>QUESTION</strong></p>
 <section id="question-3" class="quiz-question">
 <h3>Question 3</h3>
-<p>Effective stigma reduction around a topic like menstrual hygiene requires action at which level(s)?</p>
+<p>A researcher randomly selects entire villages for a study, including every household within each selected village. This is an example of:</p>
 <ul>
-<li>Individual level only</li>
-<li>Family level only</li>
-<li>School/institutional level only</li>
-<li><span class="correct" data-explanation="Stigma reduction requires action at all three levels together — individual reassurance alone does little if institutional facilities are absent or family attitudes remain unchanged; the intervention must match wherever the actual barrier sits.">Individual, family, and institutional levels together</span></li>
+<li>Simple random sampling</li>
+<li>Stratified sampling</li>
+<li><span class="correct" data-explanation="Cluster sampling randomly selects naturally occurring groups (like villages) and includes every unit within each selected cluster, rather than sampling individuals directly from the whole population.">Cluster sampling</span></li>
+<li>Convenience sampling</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-4" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 4</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-4" class="quiz-question">
+<h3>Question 4</h3>
+<p>Comparing mean fasting blood glucose in the same patients before and after a 12-week diet intervention calls for which test?</p>
+<ul>
+<li>Unpaired t-test</li>
+<li><span class="correct" data-explanation="A paired t-test is used when the same subjects are measured twice (before and after), since it accounts for the natural correlation between each person's two measurements.">Paired t-test</span></li>
+<li>Chi-square test</li>
+<li>Correlation coefficient</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-5" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 5</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-5" class="quiz-question">
+<h3>Question 5</h3>
+<p>Testing whether vaccination status (yes/no) is associated with disease occurrence (yes/no) in a group of children calls for which test?</p>
+<ul>
+<li>Paired t-test</li>
+<li><span class="correct" data-explanation="Chi-square is the appropriate test for categorical data such as vaccination status and disease occurrence, both expressed as counts/frequencies across categories rather than as a continuous measured scale.">Chi-square test</span></li>
+<li>Correlation coefficient</li>
+<li>Standard error calculation</li>
 </ul>
 </section>
 </section>
 <section id="references" class="slide level2 center" data-background-color="#FFF6DA">
 <h2>References</h2>
 <ol type="1">
-<li>Ministry of Health and Family Welfare, Government of India. <em>Rashtriya Kishor Swasthya Karyakram (RKSK)</em> — adolescent health programme framework.</li>
-<li>UNICEF. <em>Guidance on Menstrual Health and Hygiene</em>.</li>
-<li>World Health Organization. <em>Health Education: Theoretical Concepts, Effective Strategies and Core Competencies</em>.</li>
+<li>Park, K. <em>Park’s Textbook of Preventive and Social Medicine</em> — standard reference for biostatistics in community medicine.</li>
+<li>World Health Organization. <em>Basic Statistical Methods for Analysis of Health Data</em>.</li>
+<li>National Medical Commission, India. <em>Competency-Based Undergraduate Curriculum for the Indian Medical Graduate</em> — Community Medicine, CM6 (Basic Statistics and its Applications).</li>
 </ol>
 </section>
 <section id="thank-you" class="slide level2 center">
 <h2>Thank You!</h2>
-<p><strong>Next Chapter:</strong> Basic Biostatistics</p>
-<p><a href="aetcom.html">← Previous</a> | <a href="#/home">Top</a> | <a href="../intro.html">Contents</a> | Chapter 28/29 | <a href="../foundations/biostatistics.html">Next Chapter →</a></p>
+<p><strong>This is the final chapter (29/29) of the curriculum.</strong></p>
+<p><a href="../global/health-talks.html">← Previous</a> | <a href="#/home">Top</a> | <a href="../intro.html">Contents</a> | Chapter 29/29</p>
 
 
 </section>
     </div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <div class="footer footer-default">
-<p><a href="aetcom.html">← Previous</a> | <a href="#/home">Top</a> | <a href="../intro.html">Contents</a> | Chapter 28/29 | <a href="../foundations/biostatistics.html">Next Chapter →</a></p>
+<p><a href="../global/health-talks.html">← Previous</a> | <a href="#/home">Top</a> | <a href="../intro.html">Contents</a> | Chapter 29/29</p>
 </div>
 </div></div>
 
