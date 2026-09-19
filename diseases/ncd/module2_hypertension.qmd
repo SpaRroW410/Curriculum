@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](module1_diabetes.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 2/3 | [Next →](module3_stroke.html)"
+    footer: "[← Previous](module1_diabetes.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 2/7 | [Next →](module3_stroke.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -252,4 +252,4 @@ aimed at preventing target-organ damage, is an example of:
 
 **Next Module:** Stroke
 
-[← Previous](module1_diabetes.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 2/3 | [Next →](module3_stroke.html)
+[← Previous](module1_diabetes.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 2/7 | [Next →](module3_stroke.html)

@@ -5348,7 +5348,7 @@
     "href": "diseases/ncd/module3_stroke.html#thank-you",
     "title": "Module 3: Stroke",
     "section": "Thank You!",
-    "text": "Thank You!\nBack to: Chronic Non-Communicable Diseases\n← Previous | Top | Chronic Non-Communicable Diseases | Module 3/3",
+    "text": "Thank You!\nNext Module: Cancer Epidemiology and Control\n← Previous | Top | Chronic Non-Communicable Diseases | Module 3/7 | Next →",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -5530,7 +5530,7 @@
     "href": "diseases/ncd/module1_diabetes.html#thank-you",
     "title": "Module 1: Diabetes Mellitus",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Module: Hypertension\nTop | Chronic Non-Communicable Diseases | Module 1/3 | Next →",
+    "text": "Thank You!\nNext Module: Hypertension\nTop | Chronic Non-Communicable Diseases | Module 1/7 | Next →",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -7821,7 +7821,7 @@
     "href": "diseases/ncd/module2_hypertension.html#thank-you",
     "title": "Module 2: Hypertension",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Module: Stroke\n← Previous | Top | Chronic Non-Communicable Diseases | Module 2/3 | Next →",
+    "text": "Thank You!\nNext Module: Stroke\n← Previous | Top | Chronic Non-Communicable Diseases | Module 2/7 | Next →",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -7834,7 +7834,7 @@
     "href": "diseases/ncd_modules.html",
     "title": "Selected Non-Communicable Diseases",
     "section": "",
-    "text": "Selected Non-Communicable Diseases\nChapter 7 covers the general principles of NCD epidemiology — shared behavioural risk factors, WHO STEPS surveillance, and the population vs. high-risk prevention strategies. This section applies those principles to three specific diseases in depth, each as its own module.\n\nModule 1: Diabetes Mellitus — burden, risk factors, screening, diagnostic criteria, and management principles\nModule 2: Hypertension — the “silent killer”: burden, classification, and prevention\nModule 3: Stroke — epidemiology and the three levels of prevention\n\nReturn to Chronic Non-Communicable Diseases for the general epidemiology of NCDs, or to Contents for the full curriculum.",
+    "text": "Selected Non-Communicable Diseases\nChapter 7 covers the general principles of NCD epidemiology — shared behavioural risk factors, WHO STEPS surveillance, and the population vs. high-risk prevention strategies. This section applies those principles to seven specific diseases/disease clusters in depth, each as its own module.\n\nModule 1: Diabetes Mellitus — burden, risk factors, screening, diagnostic criteria, and management principles\nModule 2: Hypertension — the “silent killer”: burden, classification, and prevention\nModule 3: Stroke — epidemiology and the three levels of prevention\nModule 4: Cancer Epidemiology and Control — patterns, screening, NCRP, and HPV vaccination\nModule 5: Blindness and Visual Impairment — magnitude, causes, and NPCBVI\nModule 6: Injuries — road traffic accidents, burns, drowning, and the Haddon Matrix\nModule 7: Other Significant NCDs — coronary/rheumatic heart disease, COPD, CKD, deafness, oral health, and tobacco control\n\nReturn to Chronic Non-Communicable Diseases for the general epidemiology of NCDs, or to Contents for the full curriculum.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -13484,5 +13484,159 @@
     "title": "Module 5: Blindness and Visual Impairment",
     "section": "Thank You!",
     "text": "Thank You!\nNext Module: Injuries — Road Traffic Accidents, Burns, and Drowning\n← Previous | Top | Chronic Non-Communicable Diseases | Module 5/7 | Next →"
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#home",
+    "href": "diseases/ncd/module6_injuries.html#home",
+    "title": "Module 6: Injuries",
+    "section": "Welcome",
+    "text": "Welcome\nInjuries\nLearning Objectives:\n\nExplain why injuries are treated as preventable events, not accidents\nDescribe the burden and major risk factors for road traffic injuries\nApply the Haddon Matrix to an injury-prevention scenario\nDescribe the epidemiology and prevention of burns and drowning\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nInjuries are grouped with NCDs in the NMC curriculum despite not being “diseases” in the traditional sense — this module treats them with the same epidemiological triad and prevention-levels framework already applied throughout this course, showing those tools generalize beyond infectious and chronic disease."
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#injuries-as-a-public-health-problem",
+    "href": "diseases/ncd/module6_injuries.html#injuries-as-a-public-health-problem",
+    "title": "Module 6: Injuries",
+    "section": "Injuries as a Public Health Problem",
+    "text": "Injuries as a Public Health Problem\n🟢 MUST KNOW\nModern injury epidemiology deliberately avoids the word “accident” — an accident implies randomness and unpredictability, while injuries follow identifiable, preventable patterns, just like any other public health problem in this curriculum.\nThe epidemiological triad (Chapter 2) applies directly:\n\nAgent — the actual injuring force is energy transfer — mechanical (crashes, falls), thermal (burns), chemical, or electrical — exceeding the body’s tolerance\nHost — factors like age (children, elderly at higher risk), alcohol use, risk-taking behaviour\nEnvironment — physical (road design, unfenced water bodies) and social (enforcement of safety laws, socioeconomic pressure to work in hazardous conditions)\n\nWhy this reframing matters: if injuries are patterned and predictable, they are also preventable — the entire premise behind every programme in this module."
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#road-traffic-injuries",
+    "href": "diseases/ncd/module6_injuries.html#road-traffic-injuries",
+    "title": "Module 6: Injuries",
+    "section": "Road Traffic Injuries",
+    "text": "Road Traffic Injuries\n🟢 MUST KNOW\nIndia records among the highest absolute numbers of road traffic deaths globally — a burden comparable in scale to many major communicable and non-communicable disease categories already covered in this curriculum.\nMajor risk factors:\n\nHuman factors — non-use of helmets/seatbelts, drunk driving, speeding, distracted driving (mobile phone use)\nRoad/environment factors — poor road design, inadequate lighting, mixed high-speed traffic (pedestrians, two-wheelers, and vehicles sharing the same road space)\nVehicle factors — poor vehicle maintenance, absence of safety features\n\nThe “Golden Hour” — the first hour after a severe injury, during which prompt emergency care dramatically improves survival odds — underscores why rapid trauma response and ambulance access (recall Chapter 25’s National Ambulance Services content) matter as much as crash prevention itself."
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#the-haddon-matrix",
+    "href": "diseases/ncd/module6_injuries.html#the-haddon-matrix",
+    "title": "Module 6: Injuries",
+    "section": "The Haddon Matrix",
+    "text": "The Haddon Matrix\n🟡 SHOULD KNOW\nA structured framework for injury prevention, crossing the epidemiological triad (host/agent/environment) against the timeline of an injury event:\n\n\n\n\n\n\n\n\n\nPhase\nHost\nAgent/Vehicle\nEnvironment\n\n\n\n\nPre-event\nDriver training, avoiding alcohol\nVehicle maintenance, speed limits\nRoad signage, lighting\n\n\nEvent\nSeatbelt/helmet use\nAirbags, crumple zones\nMedian barriers, guard rails\n\n\nPost-event\nFirst-aid knowledge\nFuel-tank crash design (fire prevention)\nTrauma care access, “Golden Hour” response\n\n\n\nWhy the matrix matters: it forces prevention planning across all nine cells, not just the obvious “pre-event” interventions — a society that only tries to prevent crashes but ignores post-crash trauma care leaves a major, addressable source of preventable death unaddressed."
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#burns-and-drowning",
+    "href": "diseases/ncd/module6_injuries.html#burns-and-drowning",
+    "title": "Module 6: Injuries",
+    "section": "Burns and Drowning",
+    "text": "Burns and Drowning\n🟡 SHOULD KNOW\n\nBurns — commonly domestic (kitchen accidents involving open flames, stoves), with a disproportionate burden among women cooking on unsafe stoves — connecting back to Chapter 16’s cleaner cooking-fuel content (LPG promotion reduces both indoor air pollution and burn risk simultaneously)\nDrowning — a leading cause of death in young children, especially near unsupervised or unfenced water bodies (ponds, wells, storage containers); prevention centres on supervision, fencing water bodies, and swimming skills training, since there is no “treatment” once drowning has occurred beyond emergency resuscitation\n\nShared prevention principle: both are addressed primarily through environmental modification (safer stoves, fenced water access) rather than relying on behaviour change alone — the same population-strategy logic (Chapter 7) that changing the environment protects everyone, not just those who receive a health education message."
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#self-check-question-1",
+    "href": "diseases/ncd/module6_injuries.html#self-check-question-1",
+    "title": "Module 6: Injuries",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nModern injury epidemiology avoids the term “accident” because:\n\nInjuries are rare events not worth studying\nInjuries follow identifiable, preventable patterns rather than being random\nOnly intentional injuries are a public health concern\nThe word is offensive to victims"
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#self-check-question-2",
+    "href": "diseases/ncd/module6_injuries.html#self-check-question-2",
+    "title": "Module 6: Injuries",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nThe “Golden Hour” concept in trauma care refers to:\n\nThe first hour of a driver’s journey being highest-risk\nThe first hour after severe injury, during which prompt care dramatically improves survival\nThe hour of day with the most road traffic crashes\nThe first hour of a burns patient’s hospital stay only"
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#self-check-question-3",
+    "href": "diseases/ncd/module6_injuries.html#self-check-question-3",
+    "title": "Module 6: Injuries",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nIn the Haddon Matrix, installing median barriers and guard rails on a highway addresses which cell?\n\nPre-event / Host\nEvent / Environment\nPost-event / Agent\nPre-event / Agent"
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#self-check-question-4",
+    "href": "diseases/ncd/module6_injuries.html#self-check-question-4",
+    "title": "Module 6: Injuries",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nThe most effective approach to preventing childhood drowning near unsupervised ponds is best described as:\n\nHealth education alone\nEnvironmental modification (fencing water bodies) alongside supervision and swimming skills\nWaiting for children to learn caution naturally\nBanning children from all outdoor play"
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#references",
+    "href": "diseases/ncd/module6_injuries.html#references",
+    "title": "Module 6: Injuries",
+    "section": "References",
+    "text": "References\n\nWorld Health Organization. Global Status Report on Road Safety; Drowning and Burns — fact sheets.\nHaddon, W. Jr. (1980). “Advances in the epidemiology of injuries as a basis for public policy.” Public Health Reports.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for injury epidemiology."
+  },
+  {
+    "objectID": "diseases/ncd/module6_injuries.html#thank-you",
+    "href": "diseases/ncd/module6_injuries.html#thank-you",
+    "title": "Module 6: Injuries",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Coronary/Rheumatic Heart Disease, COPD, CKD, Deafness and Oral Health\n← Previous | Top | Chronic Non-Communicable Diseases | Module 6/7 | Next →"
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#home",
+    "href": "diseases/ncd/module7_other_ncds.html#home",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "Welcome",
+    "text": "Welcome\nOther Significant NCDs\nLearning Objectives:\n\nDistinguish coronary heart disease from rheumatic heart disease\nDescribe COPD and chronic kidney disease as major NCD contributors\nOutline India’s deafness and oral health programmes\nRecognize tobacco control as a cross-cutting NCD intervention\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis closing module of the Selected NCDs series gathers several NMC-listed conditions that share risk-factor overlap with diabetes, hypertension, and stroke (already covered) without individually needing a full module of their own."
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#coronary-heart-disease-vs.-rheumatic-heart-disease",
+    "href": "diseases/ncd/module7_other_ncds.html#coronary-heart-disease-vs.-rheumatic-heart-disease",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "Coronary Heart Disease vs. Rheumatic Heart Disease",
+    "text": "Coronary Heart Disease vs. Rheumatic Heart Disease\n🟢 MUST KNOW\nBoth affect the heart, but arise through entirely different mechanisms — a frequently tested distinction:\n\n\n\n\n\n\n\n\nFeature\nCoronary Heart Disease (CHD)\nRheumatic Heart Disease (RHD)\n\n\n\n\nMechanism\nAtherosclerotic narrowing of coronary arteries\nAutoimmune damage to heart valves following untreated streptococcal throat infection (rheumatic fever)\n\n\nRisk factors\nHypertension, diabetes, smoking, dyslipidaemia (shared with stroke, Module 3)\nOvercrowding, poor access to antibiotic treatment for strep throat\n\n\nPopulation pattern\nRising with urbanization and NCD risk-factor prevalence\nDeclining with improved living standards and antibiotic access, but still significant in lower-resource settings\n\n\n\nWhy RHD is particularly a “social” NCD: unlike CHD’s individual risk-factor profile, RHD’s root cause is a treatable childhood infection — meaning its persistence reflects healthcare access gaps as much as any biological risk factor."
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#copd-and-chronic-kidney-disease",
+    "href": "diseases/ncd/module7_other_ncds.html#copd-and-chronic-kidney-disease",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "COPD and Chronic Kidney Disease",
+    "text": "COPD and Chronic Kidney Disease\n🟡 SHOULD KNOW\n\nChronic Obstructive Pulmonary Disease (COPD) — progressive airflow limitation, strongly linked to tobacco smoking and, in India specifically, indoor air pollution from solid-fuel cooking (a direct link to Chapter 16’s household air pollution content) — making COPD risk gendered, since women who cook are disproportionately exposed\nChronic Kidney Disease (CKD) — progressive, irreversible kidney function decline; diabetes and hypertension are the leading causes (recall Modules 1 and 2’s complications content), making CKD less a standalone disease than a shared downstream consequence of the NCD risk factors already covered throughout this series\n\nWhy grouping these together matters: neither disease has a single dominant cause the way, say, rheumatic heart disease does — both emerge from the same overlapping web of tobacco, air pollution, and metabolic risk factors running through this entire module series."
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#deafness-and-oral-health",
+    "href": "diseases/ncd/module7_other_ncds.html#deafness-and-oral-health",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "Deafness and Oral Health",
+    "text": "Deafness and Oral Health\n🟡 SHOULD KNOW\n\nNational Programme for Prevention and Control of Deafness (NPPCD) — addresses hearing loss through early screening (including newborn hearing screening), treatment of correctable causes (chronic ear infection, wax impaction), and hearing aid provision\nNational Oral Health Programme (NOHP) — addresses dental caries and periodontal disease, integrating oral health screening into general primary care rather than treating it as a separate specialty concern\n\nShared pattern with the rest of this module: both conditions are common, often under-prioritized relative to their disease burden, and addressed through screening integrated into the general health system — the same primary-care integration principle already seen throughout this curriculum (NLEP, DMHP, NPCBVI)."
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#tobacco-control-a-cross-cutting-intervention",
+    "href": "diseases/ncd/module7_other_ncds.html#tobacco-control-a-cross-cutting-intervention",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "Tobacco Control: A Cross-Cutting Intervention",
+    "text": "Tobacco Control: A Cross-Cutting Intervention\n🟢 MUST KNOW\nTobacco doesn’t belong to just one disease in this module — it is a shared risk factor for CHD, COPD, and multiple cancers (Module 4) simultaneously, which is why India addresses it through its own dedicated legal and programmatic framework:\n\nNational Tobacco Control Programme (NTCP) — awareness, cessation services, and enforcement support\nCOTPA (Cigarettes and Other Tobacco Products Act) — India’s core tobacco-control legislation: bans smoking in public places, prohibits tobacco advertising, mandates pictorial health warnings on packaging\nWHO Framework Convention on Tobacco Control (FCTC) — the international treaty India is party to, providing the global policy architecture (taxation, advertising bans, packaging requirements) that COTPA implements domestically\n\nWhy tobacco control is treated as its own topic, not folded into any one disease: a single successful tobacco-control policy simultaneously reduces CHD, COPD, and cancer risk at once — a rare example of one intervention addressing three separate disease burdens in this curriculum simultaneously."
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#self-check-question-1",
+    "href": "diseases/ncd/module7_other_ncds.html#self-check-question-1",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nRheumatic heart disease results from:\n\nAtherosclerotic narrowing of coronary arteries\nAutoimmune damage to heart valves following untreated streptococcal throat infection\nChronic tobacco exposure\nDiabetic complications"
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#self-check-question-2",
+    "href": "diseases/ncd/module7_other_ncds.html#self-check-question-2",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nIn India specifically, which additional exposure (beyond tobacco smoking) raises COPD risk, especially among women?\n\nExcess dietary salt\nIndoor air pollution from solid-fuel cooking\nHigh-altitude living\nExcess physical activity"
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#self-check-question-3",
+    "href": "diseases/ncd/module7_other_ncds.html#self-check-question-3",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nThe two leading causes of chronic kidney disease are:\n\nTobacco use and alcohol\nDiabetes and hypertension\nRheumatic fever and COPD\nCancer and cataract"
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#self-check-question-4",
+    "href": "diseases/ncd/module7_other_ncds.html#self-check-question-4",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nIndia’s core tobacco-control legislation, banning smoking in public places and mandating pictorial warnings, is:\n\nNTCP\nWHO FCTC\nCOTPA (Cigarettes and Other Tobacco Products Act)\nNPPCD"
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#references",
+    "href": "diseases/ncd/module7_other_ncds.html#references",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "References",
+    "text": "References\n\nMinistry of Health & Family Welfare, Government of India. National Programme for Prevention and Control of Deafness, National Oral Health Programme, and National Tobacco Control Programme.\nWorld Health Organization. Rheumatic Heart Disease, Chronic Obstructive Pulmonary Disease, Chronic Kidney Disease — fact sheets; WHO Framework Convention on Tobacco Control.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for these NCD topics."
+  },
+  {
+    "objectID": "diseases/ncd/module7_other_ncds.html#thank-you",
+    "href": "diseases/ncd/module7_other_ncds.html#thank-you",
+    "title": "Module 7: Other Significant NCDs",
+    "section": "Thank You!",
+    "text": "Thank You!\nBack to: Chronic Non-Communicable Diseases\n← Previous | Top | Chronic Non-Communicable Diseases | Module 7/7"
   }
 ]

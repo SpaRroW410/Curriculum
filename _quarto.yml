@@ -72,6 +72,14 @@ website:
             href: diseases/ncd/module2_hypertension.qmd
           - text: "Module 3: Stroke"
             href: diseases/ncd/module3_stroke.qmd
+          - text: "Module 4: Cancer Epidemiology and Control"
+            href: diseases/ncd/module4_cancer.qmd
+          - text: "Module 5: Blindness and Visual Impairment"
+            href: diseases/ncd/module5_blindness.qmd
+          - text: "Module 6: Injuries"
+            href: diseases/ncd/module6_injuries.qmd
+          - text: "Module 7: Other Significant NCDs"
+            href: diseases/ncd/module7_other_ncds.qmd
           - text: "Essential Medicines and Counterfeit Medicines"
             href: diseases/essential-medicines.qmd
           - text: "Nutrition and Health"
@@ -217,6 +225,14 @@ website:
                 file: diseases/ncd/module2_hypertension.qmd
               - text: "Module 3: Stroke"
                 file: diseases/ncd/module3_stroke.qmd
+              - text: "Module 4: Cancer Epidemiology and Control"
+                file: diseases/ncd/module4_cancer.qmd
+              - text: "Module 5: Blindness and Visual Impairment"
+                file: diseases/ncd/module5_blindness.qmd
+              - text: "Module 6: Injuries"
+                file: diseases/ncd/module6_injuries.qmd
+              - text: "Module 7: Other Significant NCDs"
+                file: diseases/ncd/module7_other_ncds.qmd
           - text: "Essential Medicines and Counterfeit Medicines"
             file: diseases/essential-medicines.qmd
           - text: "Nutrition and Health"

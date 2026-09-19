@@ -1,0 +1,230 @@
+---
+title: "Module 6: Injuries"
+subtitle: "Road Traffic Accidents, Burns, Drowning, and the Haddon Matrix"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module5_blindness.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 6/7 | [Next →](module7_other_ncds.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Injuries
+
+**Learning Objectives:**
+
+- Explain why injuries are treated as preventable events, not accidents
+- Describe the burden and major risk factors for road traffic injuries
+- Apply the Haddon Matrix to an injury-prevention scenario
+- Describe the epidemiology and prevention of burns and drowning
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Injuries are grouped with NCDs in the NMC curriculum despite not being
+"diseases" in the traditional sense — this module treats them with the
+same epidemiological triad and prevention-levels framework already
+applied throughout this course, showing those tools generalize beyond
+infectious and chronic disease.
+:::
+
+---
+
+## Injuries as a Public Health Problem {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Modern injury epidemiology deliberately avoids the word "accident" —
+an accident implies randomness and unpredictability, while injuries
+follow **identifiable, preventable patterns**, just like any other
+public health problem in this curriculum.
+
+The epidemiological triad (Chapter 2) applies directly:
+
+- **Agent** — the actual injuring force is **energy transfer** —
+  mechanical (crashes, falls), thermal (burns), chemical, or electrical
+  — exceeding the body's tolerance
+- **Host** — factors like age (children, elderly at higher risk),
+  alcohol use, risk-taking behaviour
+- **Environment** — physical (road design, unfenced water bodies) and
+  social (enforcement of safety laws, socioeconomic pressure to work
+  in hazardous conditions)
+
+**Why this reframing matters:** if injuries are patterned and
+predictable, they are also **preventable** — the entire premise
+behind every programme in this module.
+
+---
+
+## Road Traffic Injuries {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**India records among the highest absolute numbers of road traffic
+deaths globally** — a burden comparable in scale to many major
+communicable and non-communicable disease categories already covered
+in this curriculum.
+
+**Major risk factors:**
+
+- **Human factors** — non-use of helmets/seatbelts, drunk driving,
+  speeding, distracted driving (mobile phone use)
+- **Road/environment factors** — poor road design, inadequate
+  lighting, mixed high-speed traffic (pedestrians, two-wheelers, and
+  vehicles sharing the same road space)
+- **Vehicle factors** — poor vehicle maintenance, absence of safety
+  features
+
+**The "Golden Hour"** — the first hour after a severe injury, during
+which prompt emergency care dramatically improves survival odds —
+underscores why **rapid trauma response and ambulance access** (recall
+Chapter 25's National Ambulance Services content) matter as much as
+crash prevention itself.
+
+---
+
+## The Haddon Matrix {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A structured framework for injury prevention, crossing the
+epidemiological triad (host/agent/environment) against the
+**timeline of an injury event**:
+
+| Phase | Host | Agent/Vehicle | Environment |
+|---|---|---|---|
+| **Pre-event** | Driver training, avoiding alcohol | Vehicle maintenance, speed limits | Road signage, lighting |
+| **Event** | Seatbelt/helmet use | Airbags, crumple zones | Median barriers, guard rails |
+| **Post-event** | First-aid knowledge | Fuel-tank crash design (fire prevention) | Trauma care access, "Golden Hour" response |
+
+**Why the matrix matters:** it forces prevention planning across
+**all nine cells**, not just the obvious "pre-event" interventions —
+a society that only tries to prevent crashes but ignores post-crash
+trauma care leaves a major, addressable source of preventable death
+unaddressed.
+
+---
+
+## Burns and Drowning {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Burns** — commonly domestic (kitchen accidents involving open
+  flames, stoves), with a disproportionate burden among **women**
+  cooking on unsafe stoves — connecting back to Chapter 16's cleaner
+  cooking-fuel content (LPG promotion reduces both indoor air pollution
+  *and* burn risk simultaneously)
+- **Drowning** — a leading cause of death in **young children**,
+  especially near unsupervised or unfenced water bodies (ponds, wells,
+  storage containers); prevention centres on **supervision, fencing
+  water bodies, and swimming skills training**, since there is no
+  "treatment" once drowning has occurred beyond emergency resuscitation
+
+**Shared prevention principle:** both are addressed primarily through
+**environmental modification** (safer stoves, fenced water access)
+rather than relying on behaviour change alone — the same
+population-strategy logic (Chapter 7) that changing the environment
+protects everyone, not just those who receive a health education
+message.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Modern injury epidemiology avoids the term "accident" because:
+
+- Injuries are rare events not worth studying
+- [Injuries follow identifiable, preventable patterns rather than being random]{.correct data-explanation="Framing injuries as patterned and preventable, rather than random accidents, is exactly what justifies applying the same epidemiological and prevention tools used for infectious and chronic disease."}
+- Only intentional injuries are a public health concern
+- The word is offensive to victims
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The "Golden Hour" concept in trauma care refers to:
+
+- The first hour of a driver's journey being highest-risk
+- [The first hour after severe injury, during which prompt care dramatically improves survival]{.correct data-explanation="The Golden Hour is the critical window after a severe injury during which rapid emergency care meaningfully improves survival odds, underscoring the importance of trauma response systems."}
+- The hour of day with the most road traffic crashes
+- The first hour of a burns patient's hospital stay only
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+In the Haddon Matrix, installing median barriers and guard rails on a
+highway addresses which cell?
+
+- Pre-event / Host
+- [Event / Environment]{.correct data-explanation="Median barriers and guard rails reduce harm during the crash itself (the 'event' phase) and are a feature of the road environment, placing this intervention in the Event/Environment cell of the matrix."}
+- Post-event / Agent
+- Pre-event / Agent
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+The most effective approach to preventing childhood drowning near
+unsupervised ponds is best described as:
+
+- Health education alone
+- [Environmental modification (fencing water bodies) alongside supervision and swimming skills]{.correct data-explanation="Fencing water bodies and improving supervision protect all children regardless of whether they received a specific health message -- the same population-strategy logic (Chapter 7) of changing the environment rather than relying on individual behaviour change alone."}
+- Waiting for children to learn caution naturally
+- Banning children from all outdoor play
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. World Health Organization. *Global Status Report on Road Safety*;
+   *Drowning* and *Burns* — fact sheets.
+2. Haddon, W. Jr. (1980). "Advances in the epidemiology of injuries as
+   a basis for public policy." *Public Health Reports*.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for injury epidemiology.
+
+---
+
+## Thank You!
+
+**Next Module:** Coronary/Rheumatic Heart Disease, COPD, CKD, Deafness and Oral Health
+
+[← Previous](module5_blindness.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 6/7 | [Next →](module7_other_ncds.html)
