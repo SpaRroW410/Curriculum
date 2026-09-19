@@ -12987,5 +12987,194 @@
     "title": "Module 9: Leprosy",
     "section": "Thank You!",
     "text": "Thank You!\nNext Module: Vector-Borne Viral Fevers\n← Previous | Top | Communicable Diseases | Module 9/13 | Next →"
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#home",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#home",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Welcome",
+    "text": "Welcome\nVector-Borne Viral Fevers\nLearning Objectives:\n\nDescribe dengue’s clinical spectrum, including warning signs\nDistinguish chikungunya from dengue clinically\nIdentify the vectors and reservoirs of JE, Zika, and KFD\nCompare the five diseases in this module by vector and key feature\nApply integrated vector control principles common to Aedes-borne disease\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis module groups five viral fevers sharing India’s NVBDC programme umbrella with malaria (already covered in Module 1) — the vector identification and control principles from that module apply directly here, since several of these diseases share the same Aedes vector."
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#dengue-clinical-spectrum",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#dengue-clinical-spectrum",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Dengue: Clinical Spectrum",
+    "text": "Dengue: Clinical Spectrum\n🟢 MUST KNOW\nAgent: Dengue virus (DENV), 4 serotypes (DENV-1–4) — infection with one serotype gives lifelong immunity to that serotype only, and a subsequent infection with a different serotype raises the risk of severe disease.\nVector: Aedes aegypti — a day-biting mosquito breeding in clean, stagnant water in and around homes (tyres, coolers, flower pots) — a sharp contrast to malaria’s Anopheles, which breeds in dirtier water and bites at night.\nClinical spectrum:\n\n\n\n\n\n\n\nCategory\nKey features\n\n\n\n\nDengue fever\nHigh fever, severe headache, retro-orbital pain, myalgia (“breakbone fever”), rash\n\n\nDengue Haemorrhagic Fever (DHF)\nAbove, plus bleeding manifestations and plasma leakage\n\n\nDengue Shock Syndrome (DSS)\nDHF progressing to circulatory failure — the life-threatening form\n\n\n\nWarning signs of progression: abdominal pain, persistent vomiting, bleeding, lethargy — prompt hospitalization if any appear."
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#dengue-diagnosis-and-management",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#dengue-diagnosis-and-management",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Dengue: Diagnosis and Management",
+    "text": "Dengue: Diagnosis and Management\n🟡 SHOULD KNOW\n\nDiagnosis: NS1 antigen (positive in the first few days of fever) and IgM antibody testing (positive later in illness)\nNo specific antiviral treatment exists — management is entirely supportive: fluid management and monitoring for warning signs\nAvoid NSAIDs and aspirin — both increase bleeding risk in a disease already prone to haemorrhagic complications; paracetamol is the safe antipyretic choice\n\nExam tip: the absence of a specific cure is exactly why vector control (source reduction of Aedes breeding sites) carries so much of the prevention burden, mirroring cholera’s “no cure, so control the exposure” logic from an earlier module."
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#chikungunya-distinguishing-from-dengue",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#chikungunya-distinguishing-from-dengue",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Chikungunya: Distinguishing from Dengue",
+    "text": "Chikungunya: Distinguishing from Dengue\n🟡 SHOULD KNOW\nAgent: Chikungunya virus (CHIKV). Vector: the same Aedes mosquitoes as dengue — the two diseases frequently co-circulate and can even co-infect the same patient.\n\n\n\n\n\n\n\n\nFeature\nDengue\nChikungunya\n\n\n\n\nJoint pain\nPresent but milder\nSevere, often disabling, may persist for months\n\n\nHaemorrhagic risk\nSignificant (DHF/DSS)\nRare\n\n\nRash\nCommon\nCommon\n\n\nChronicity\nResolves with illness\nArthralgia can become chronic\n\n\n\nWhy the name matters: “chikungunya” derives from a word meaning “that which bends up,” describing the stooped posture caused by its characteristic severe joint pain — the single most useful clinical differentiator from dengue at the bedside."
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#japanese-encephalitis-zika-and-kfd",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#japanese-encephalitis-zika-and-kfd",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Japanese Encephalitis, Zika, and KFD",
+    "text": "Japanese Encephalitis, Zika, and KFD\n🟢 MUST KNOW\n\nJapanese Encephalitis (JE) — a flavivirus transmitted by Culex mosquitoes (unlike the Aedes-borne diseases above); pigs and wading birds are amplifying hosts, making JE common in areas with rice-field irrigation and pig-rearing; a vaccine exists and is included in India’s immunization schedule in endemic districts — the most severe outcome is encephalitis with significant mortality/neurological sequelae in survivors\nZika virus — Aedes-borne; usually mild or asymptomatic in adults, but infection during pregnancy is linked to congenital microcephaly — the single fact most often tested about Zika\nKyasanur Forest Disease (KFD) — transmitted by tick bites in forest areas of Karnataka and neighbouring states; monkey deaths in an area are a recognized sentinel event preceding human outbreaks, since monkeys and humans share exposure to infected ticks"
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#comparative-summary",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#comparative-summary",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Comparative Summary",
+    "text": "Comparative Summary\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\n\nDisease\nVector\nDistinctive feature\n\n\n\n\nDengue\nAedes aegypti\nWarning signs → DHF/DSS progression\n\n\nChikungunya\nAedes aegypti\nSevere, disabling arthralgia\n\n\nJapanese Encephalitis\nCulex\nPig/bird reservoir; vaccine available\n\n\nZika\nAedes aegypti\nCongenital microcephaly risk\n\n\nKyasanur Forest Disease\nTicks\nMonkey deaths as a sentinel event\n\n\n\nWhy grouping these together matters: three of the five (dengue, chikungunya, Zika) share the same Aedes vector and the same source-reduction control strategy — a single well-executed vector control programme addresses multiple diseases at once, not just one."
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#integrated-vector-control",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#integrated-vector-control",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Integrated Vector Control",
+    "text": "Integrated Vector Control\n🟣 MAY KNOW\nPrinciples shared across all Aedes-borne diseases in this module, extending the vector-control logic already introduced for malaria:\n\nSource reduction — eliminating breeding sites (emptying/covering water containers, coolers, discarded tyres) is the single most effective Aedes control measure, since it breeds in small volumes of clean water around homes\nLarvicides and fogging — chemical control as an adjunct, not a substitute, for source reduction\nCommunity participation — weekly “dry day” campaigns depend entirely on household-level cooperation, the same community mobilization principle behind Pulse Polio’s success"
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-1",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-1",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nA patient with dengue fever develops persistent vomiting and abdominal pain on day 4 of illness. This should prompt:\n\nReassurance, since these are expected symptoms\nPrompt hospitalization, as these are warning signs of progression to severe dengue\nAspirin for symptomatic relief\nDischarge with oral antivirals"
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-2",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-2",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhy should aspirin and NSAIDs be avoided in suspected dengue?\n\nThey are ineffective against viral fevers\nThey increase bleeding risk in a disease already prone to haemorrhagic complications\nThey interact with the dengue vaccine\nThey mask the NS1 antigen test result"
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-3",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-3",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nThe clinical feature most useful for distinguishing chikungunya from dengue is:\n\nPresence of fever\nPresence of a rash\nSevere, often disabling joint pain\nVector species"
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-4",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-4",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWhich vector-borne disease in this module is transmitted by Culex mosquitoes with pigs and wading birds as amplifying hosts?\n\nDengue\nChikungunya\nJapanese Encephalitis\nZika"
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-5",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#self-check-question-5",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nMonkey deaths in a forested area are a recognized sentinel event for which disease?\n\nDengue\nZika\nKyasanur Forest Disease\nJapanese Encephalitis"
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#references",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#references",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "References",
+    "text": "References\n\nNational Centre for Vector Borne Diseases Control (NCVBDC), Ministry of Health & Family Welfare, Government of India — guidelines for dengue, chikungunya, JE, and KFD.\nWorld Health Organization. Dengue and Severe Dengue, Chikungunya, Japanese Encephalitis, Zika Virus — fact sheets.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for vector-borne viral fever epidemiology."
+  },
+  {
+    "objectID": "diseases/cd/module10_vector_borne_fevers.html#thank-you",
+    "href": "diseases/cd/module10_vector_borne_fevers.html#thank-you",
+    "title": "Module 10: Vector-Borne Viral Fevers",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Rabies and Zoonoses\n← Previous | Top | Communicable Diseases | Module 10/13 | Next →"
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#home",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#home",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Welcome",
+    "text": "Welcome\nRabies and Other Zoonoses\nLearning Objectives:\n\nExplain why rabies is almost universally fatal once symptomatic\nApply the WHO bite-category system to decide on post-exposure prophylaxis\nDescribe India’s National Rabies Control Programme goal\nIdentify the agent, transmission, and occupational risk for plague, leptospirosis, brucellosis, and yellow fever\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nRabies is the clearest possible illustration of Chapter 6’s prevention framework applied under time pressure — since there is no treatment once symptoms appear, this module is almost entirely about the post-exposure window between bite and disease. The wider zoonoses cluster connects back to One Health (Environment section) and occupational health (Chapter 19)."
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#rabies-why-it-is-almost-always-fatal",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#rabies-why-it-is-almost-always-fatal",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Rabies: Why It Is Almost Always Fatal",
+    "text": "Rabies: Why It Is Almost Always Fatal\n🟢 MUST KNOW\nAgent: Rabies virus (a Lyssavirus). Reservoir/transmission: dog bites cause roughly 95% of human rabies cases in India — the world’s largest burden of dog-mediated human rabies deaths.\nPathogenesis: after a bite, the virus travels along peripheral nerves toward the central nervous system — incubation period therefore varies with the distance of the bite from the brain (a face/hand bite progresses faster than a lower-limb bite).\nOnce symptoms appear, rabies is essentially 100% fatal — there is no treatment for symptomatic disease. This single fact is what makes this module almost entirely about prevention in the window between exposure and symptom onset, not about treating the disease itself."
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#post-exposure-prophylaxis-bite-categories",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#post-exposure-prophylaxis-bite-categories",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Post-Exposure Prophylaxis: Bite Categories",
+    "text": "Post-Exposure Prophylaxis: Bite Categories\n🟢 MUST KNOW\nWHO’s three-category system decides exactly what post-exposure prophylaxis (PEP) an exposure requires:\n\n\n\n\n\n\n\n\nCategory\nExposure type\nManagement\n\n\n\n\nCategory I\nTouching/feeding an animal; licks on intact skin\nNo PEP needed\n\n\nCategory II\nMinor scratches or abrasions without bleeding\nWound care + vaccine, no immunoglobulin\n\n\nCategory III\nBites/scratches breaking skin, licks on broken skin/mucosa\nWound care + vaccine + rabies immunoglobulin (RIG)\n\n\n\nImmediate first step, every category II/III exposure: wash the wound thoroughly with soap and water for a full 15 minutes — this single, free, immediate action meaningfully reduces viral load at the inoculation site before any vaccine is even given."
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#vaccine-and-immunoglobulin",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#vaccine-and-immunoglobulin",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Vaccine and Immunoglobulin",
+    "text": "Vaccine and Immunoglobulin\n🟡 SHOULD KNOW\n\nAnti-rabies vaccine — a multi-dose schedule (e.g. Essen regimen: days 0, 3, 7, 14, 28) given intramuscularly or intradermally, stimulating active immunity\nRabies immunoglobulin (RIG) — provides immediate passive immunity while the vaccine-induced response is still developing; infiltrated around the wound itself wherever anatomically possible, since local viral neutralization at the entry site is the goal\nPre-exposure prophylaxis (PrEP) — a shorter vaccine course recommended for high-risk occupational groups (veterinarians, animal handlers, laboratory workers) before any exposure occurs\n\nExam tip: RIG is given only for Category III exposures precisely because that is where the injury has broken skin/mucosa deeply enough to require passive immunity to bridge the gap before active immunity develops."
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#national-rabies-control-programme",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#national-rabies-control-programme",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "National Rabies Control Programme",
+    "text": "National Rabies Control Programme\n🟡 SHOULD KNOW\nIndia’s rabies control strategy combines human PEP access with animal- side measures, reflecting the One Health approach already introduced in the Environment section:\n\nTarget: eliminate human dog-mediated rabies deaths by 2030, aligned with the global WHO target\nAnimal Birth Control (ABC) and mass dog vaccination — reducing rabies circulation in the dog population directly reduces human exposure risk, addressing the reservoir rather than only the human host\nFree PEP availability at government health facilities, since cost is a recognized barrier to completing the full vaccine schedule"
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#plague-leptospirosis-and-brucellosis",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#plague-leptospirosis-and-brucellosis",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Plague, Leptospirosis, and Brucellosis",
+    "text": "Plague, Leptospirosis, and Brucellosis\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\nDisease\nAgent\nTransmission\nOccupational risk group\n\n\n\n\nPlague\nYersinia pestis\nFlea bites from infected rats (bubonic); airborne (pneumonic)\nRodent-exposed occupations\n\n\nLeptospirosis\nLeptospira spp.\nContact with water/soil contaminated by infected animal urine (especially rats)\nFarmers, sewage workers, flood-exposed populations\n\n\nBrucellosis\nBrucella spp.\nContact with infected livestock, or unpasteurized dairy products\nVeterinarians, farmers, dairy workers\n\n\n\nShared pattern: all three connect an occupational or environmental exposure to an animal reservoir — the same occupational-hazard framework from Chapter 19 applies directly to disease risk here, not only to physical/chemical hazards."
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#yellow-fever",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#yellow-fever",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Yellow Fever",
+    "text": "Yellow Fever\n🟡 SHOULD KNOW\nAgent: a flavivirus, transmitted by Aedes mosquitoes (the same genus as dengue/chikungunya/Zika). Not currently endemic in India, but retains major public health significance:\n\nInternational Health Regulations relevance: proof of yellow fever vaccination is a valid basis for requiring an International Certificate of Vaccination from travellers arriving from endemic countries — a rare example of IHR (Chapter 26) permitting a specific vaccination requirement as a condition of entry\nWhy India cares despite no local transmission: the competent vector (Aedes aegypti) is already present and widespread in India — introduction by a viraemic traveller could theoretically establish local transmission, which is exactly why the entry certificate requirement exists as a preventive measure"
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#self-check-question-1",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#self-check-question-1",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nOnce a person develops symptomatic rabies, the expected outcome is:\n\nFull recovery with antiviral treatment\nDeath — rabies is essentially 100% fatal once symptoms appear\nRecovery with residual paralysis only\nRecovery, but with lifelong immunity to future exposures"
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#self-check-question-2",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#self-check-question-2",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nA patient presents with a dog bite that broke the skin and caused bleeding. Under the WHO category system, this requires:\n\nNo treatment\nWound care and vaccine only\nWound care, vaccine, AND rabies immunoglobulin\nImmunoglobulin alone, without vaccine"
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#self-check-question-3",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#self-check-question-3",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nThe single most important immediate first-aid step after any rabies-risk animal bite is:\n\nApplying a tourniquet\nWashing the wound thoroughly with soap and water for 15 minutes\nSuturing the wound immediately\nWaiting 24 hours before any intervention"
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#self-check-question-4",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#self-check-question-4",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nA farmer develops fever after wading through floodwater contaminated with rat urine. This presentation is most consistent with:\n\nBrucellosis\nLeptospirosis\nYellow fever\nPlague"
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#references",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#references",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "References",
+    "text": "References\n\nNational Centre for Disease Control, Ministry of Health & Family Welfare, Government of India. National Rabies Control Programme and National Guidelines on Rabies Prophylaxis.\nWorld Health Organization. Rabies, Plague, Leptospirosis, Brucellosis, Yellow Fever — fact sheets.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for zoonotic disease epidemiology."
+  },
+  {
+    "objectID": "diseases/cd/module11_rabies_zoonoses.html#thank-you",
+    "href": "diseases/cd/module11_rabies_zoonoses.html#thank-you",
+    "title": "Module 11: Rabies and Other Zoonoses",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Filariasis and Kala-azar\n← Previous | Top | Communicable Diseases | Module 11/13 | Next →"
   }
 ]

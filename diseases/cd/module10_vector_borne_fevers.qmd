@@ -1,0 +1,278 @@
+---
+title: "Module 10: Vector-Borne Viral Fevers"
+subtitle: "Dengue, Chikungunya, Japanese Encephalitis, Zika, and Kyasanur Forest Disease"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module9_leprosy.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 10/13 | [Next →](module11_rabies_zoonoses.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Vector-Borne Viral Fevers
+
+**Learning Objectives:**
+
+- Describe dengue's clinical spectrum, including warning signs
+- Distinguish chikungunya from dengue clinically
+- Identify the vectors and reservoirs of JE, Zika, and KFD
+- Compare the five diseases in this module by vector and key feature
+- Apply integrated vector control principles common to *Aedes*-borne disease
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This module groups five viral fevers sharing India's NVBDC programme
+umbrella with malaria (already covered in Module 1) — the vector
+identification and control principles from that module apply directly
+here, since several of these diseases share the same *Aedes* vector.
+:::
+
+---
+
+## Dengue: Clinical Spectrum {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Agent:** Dengue virus (DENV), 4 serotypes (DENV-1–4) — infection with
+one serotype gives lifelong immunity to that serotype only, and a
+**subsequent infection with a different serotype raises the risk of
+severe disease**.
+
+**Vector:** ***Aedes aegypti*** — a **day-biting** mosquito breeding in
+clean, stagnant water in and around homes (tyres, coolers, flower pots)
+— a sharp contrast to malaria's *Anopheles*, which breeds in dirtier
+water and bites at night.
+
+**Clinical spectrum:**
+
+| Category | Key features |
+|---|---|
+| **Dengue fever** | High fever, severe headache, retro-orbital pain, myalgia ("breakbone fever"), rash |
+| **Dengue Haemorrhagic Fever (DHF)** | Above, plus bleeding manifestations and plasma leakage |
+| **Dengue Shock Syndrome (DSS)** | DHF progressing to circulatory failure — the life-threatening form |
+
+**Warning signs of progression:** abdominal pain, persistent vomiting,
+bleeding, lethargy — prompt hospitalization if any appear.
+
+---
+
+## Dengue: Diagnosis and Management {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Diagnosis:** **NS1 antigen** (positive in the first few days of
+  fever) and **IgM antibody** testing (positive later in illness)
+- **No specific antiviral treatment exists** — management is entirely
+  supportive: fluid management and monitoring for warning signs
+- **Avoid NSAIDs and aspirin** — both increase bleeding risk in a
+  disease already prone to haemorrhagic complications; paracetamol is
+  the safe antipyretic choice
+
+**Exam tip:** the absence of a specific cure is exactly why vector
+control (source reduction of *Aedes* breeding sites) carries so much
+of the prevention burden, mirroring cholera's "no cure, so control the
+exposure" logic from an earlier module.
+
+---
+
+## Chikungunya: Distinguishing from Dengue {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Agent:** Chikungunya virus (CHIKV). **Vector:** the same *Aedes*
+mosquitoes as dengue — the two diseases frequently co-circulate and
+can even co-infect the same patient.
+
+| Feature | Dengue | Chikungunya |
+|---|---|---|
+| **Joint pain** | Present but milder | **Severe, often disabling**, may persist for months |
+| **Haemorrhagic risk** | Significant (DHF/DSS) | Rare |
+| **Rash** | Common | Common |
+| **Chronicity** | Resolves with illness | Arthralgia can become chronic |
+
+**Why the name matters:** "chikungunya" derives from a word meaning
+"that which bends up," describing the stooped posture caused by its
+characteristic severe joint pain — the single most useful clinical
+differentiator from dengue at the bedside.
+
+---
+
+## Japanese Encephalitis, Zika, and KFD {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Japanese Encephalitis (JE)** — a flavivirus transmitted by
+  ***Culex*** mosquitoes (unlike the *Aedes*-borne diseases above);
+  **pigs and wading birds are amplifying hosts**, making JE common in
+  areas with rice-field irrigation and pig-rearing; a **vaccine
+  exists** and is included in India's immunization schedule in endemic
+  districts — the most severe outcome is encephalitis with significant
+  mortality/neurological sequelae in survivors
+- **Zika virus** — *Aedes*-borne; usually mild or asymptomatic in
+  adults, but infection during pregnancy is linked to **congenital
+  microcephaly** — the single fact most often tested about Zika
+- **Kyasanur Forest Disease (KFD)** — transmitted by **tick bites** in
+  forest areas of Karnataka and neighbouring states; **monkey deaths**
+  in an area are a recognized **sentinel event** preceding human
+  outbreaks, since monkeys and humans share exposure to infected ticks
+
+---
+
+## Comparative Summary {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Disease | Vector | Distinctive feature |
+|---|---|---|
+| **Dengue** | *Aedes aegypti* | Warning signs → DHF/DSS progression |
+| **Chikungunya** | *Aedes aegypti* | Severe, disabling arthralgia |
+| **Japanese Encephalitis** | *Culex* | Pig/bird reservoir; vaccine available |
+| **Zika** | *Aedes aegypti* | Congenital microcephaly risk |
+| **Kyasanur Forest Disease** | Ticks | Monkey deaths as a sentinel event |
+
+**Why grouping these together matters:** three of the five
+(dengue, chikungunya, Zika) share the same *Aedes* vector and the same
+source-reduction control strategy — a single well-executed vector
+control programme addresses multiple diseases at once, not just one.
+
+---
+
+## Integrated Vector Control {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Principles shared across all *Aedes*-borne diseases in this module,
+extending the vector-control logic already introduced for malaria:
+
+- **Source reduction** — eliminating breeding sites (emptying/covering
+  water containers, coolers, discarded tyres) is the single most
+  effective *Aedes* control measure, since it breeds in small volumes
+  of clean water around homes
+- **Larvicides and fogging** — chemical control as an adjunct, not a
+  substitute, for source reduction
+- **Community participation** — weekly "dry day" campaigns depend
+  entirely on household-level cooperation, the same community
+  mobilization principle behind Pulse Polio's success
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A patient with dengue fever develops persistent vomiting and
+abdominal pain on day 4 of illness. This should prompt:
+
+- Reassurance, since these are expected symptoms
+- [Prompt hospitalization, as these are warning signs of progression to severe dengue]{.correct data-explanation="Abdominal pain, persistent vomiting, bleeding, and lethargy are recognized warning signs that a dengue patient may be progressing toward DHF/DSS, requiring urgent hospitalization and monitoring."}
+- Aspirin for symptomatic relief
+- Discharge with oral antivirals
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Why should aspirin and NSAIDs be avoided in suspected dengue?
+
+- They are ineffective against viral fevers
+- [They increase bleeding risk in a disease already prone to haemorrhagic complications]{.correct data-explanation="Dengue carries an inherent bleeding risk (DHF), and NSAIDs/aspirin further increase that risk -- paracetamol is the safe antipyretic choice instead."}
+- They interact with the dengue vaccine
+- They mask the NS1 antigen test result
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+The clinical feature most useful for distinguishing chikungunya from
+dengue is:
+
+- Presence of fever
+- Presence of a rash
+- [Severe, often disabling joint pain]{.correct data-explanation="While both cause fever and rash, chikungunya's severe and often prolonged arthralgia -- reflected in the disease's name -- is its key distinguishing feature from dengue."}
+- Vector species
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Which vector-borne disease in this module is transmitted by *Culex*
+mosquitoes with pigs and wading birds as amplifying hosts?
+
+- Dengue
+- Chikungunya
+- [Japanese Encephalitis]{.correct data-explanation="JE is transmitted by Culex mosquitoes, with pigs and wading birds serving as amplifying hosts -- distinct from the Aedes-borne diseases in this module."}
+- Zika
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Monkey deaths in a forested area are a recognized sentinel event for
+which disease?
+
+- Dengue
+- Zika
+- [Kyasanur Forest Disease]{.correct data-explanation="KFD is tick-transmitted in forest areas, and monkey deaths are a recognized sentinel event preceding human outbreaks, since monkeys and humans share exposure to infected ticks."}
+- Japanese Encephalitis
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. National Centre for Vector Borne Diseases Control (NCVBDC),
+   Ministry of Health & Family Welfare, Government of India —
+   guidelines for dengue, chikungunya, JE, and KFD.
+2. World Health Organization. *Dengue and Severe Dengue*,
+   *Chikungunya*, *Japanese Encephalitis*, *Zika Virus* — fact sheets.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for vector-borne viral fever epidemiology.
+
+---
+
+## Thank You!
+
+**Next Module:** Rabies and Zoonoses
+
+[← Previous](module9_leprosy.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 10/13 | [Next →](module11_rabies_zoonoses.html)
