@@ -165,7 +165,7 @@
     "href": "programs/preventive-medicine.html#home",
     "title": "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
     "section": "Welcome",
-    "text": "Welcome\nPreventive Medicine in Obstetrics, Paediatrics and Geriatrics\nLearning Objectives:\n\nDescribe the WHO 2016 antenatal care model and its purpose\nDefine high-risk pregnancy and list its major risk factor categories\nExplain the Under-Five Clinic concept and its symbolic triangle\nDescribe Essential Newborn Care and Kangaroo Mother Care\nApply the levels of prevention to child and elderly preventive care\nDescribe the WHO Decade of Healthy Ageing framework\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter applies the levels-of-prevention framework from Chapter 2 across three specific life stages, rather than introducing new prevention theory.",
+    "text": "Welcome\nPreventive Medicine in Obstetrics, Paediatrics and Geriatrics\nLearning Objectives:\n\nDescribe the WHO 2016 antenatal care model and its purpose\nDefine high-risk pregnancy and list its major risk factor categories\nExplain the Under-Five Clinic concept and its symbolic triangle\nDescribe Essential Newborn Care and Kangaroo Mother Care\nApply the levels of prevention to child and elderly preventive care\nDescribe the WHO Decade of Healthy Ageing framework\nExplain palliative care and why it is not limited to end-of-life care\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter applies the levels-of-prevention framework from Chapter 2 across three specific life stages, rather than introducing new prevention theory.",
     "crumbs": [
       "Contents",
       "Health Programs & Populations",
@@ -369,7 +369,7 @@
     "href": "programs/preventive-medicine.html#references",
     "title": "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
     "section": "References",
-    "text": "References\n\nWorld Health Organization (2016). WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience.\nCleveland Clinic. “High-Risk Pregnancy: Age, Complications & Management.”\nNursing College teaching materials. “Under-Five’s Clinic” — the symbolic triangle model.\nWorld Health Organization (2020). Decade of Healthy Ageing 2021–2030.\nWorld Health Organization. Kangaroo Mother Care: A Practical Guide.",
+    "text": "References\n\nWorld Health Organization (2016). WHO Recommendations on Antenatal Care for a Positive Pregnancy Experience.\nCleveland Clinic. “High-Risk Pregnancy: Age, Complications & Management.”\nNursing College teaching materials. “Under-Five’s Clinic” — the symbolic triangle model.\nWorld Health Organization (2020). Decade of Healthy Ageing 2021–2030.\nWorld Health Organization. Kangaroo Mother Care: A Practical Guide.\nWorld Health Organization. Palliative Care — fact sheet.",
     "crumbs": [
       "Contents",
       "Health Programs & Populations",
@@ -1517,7 +1517,7 @@
     "href": "global/aetcom.html#home",
     "title": "Chapter 27: AETCOM",
     "section": "Welcome",
-    "text": "Welcome\nAETCOM: Attitude, Ethics, and Communication\nLearning Objectives:\n\nExplain why effective communication is a clinical skill, not a soft skill\nApply the SPIKES protocol for breaking bad news\nState and apply the four principles of biomedical ethics\nDescribe the elements of valid informed consent\nTrace the historical abuses that produced modern research ethics\nApply a structured framework to an ethical dilemma\nExplain why error disclosure is an ethical obligation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nAETCOM is a mandatory competency thread in the Indian MBBS curriculum, distinct from disease-specific chapters — it addresses how a doctor practises, not just what a doctor knows. This chapter closes the main curriculum before the closing Health Talks/Community IEC chapter.",
+    "text": "Welcome\nAETCOM: Attitude, Ethics, and Communication\nLearning Objectives:\n\nExplain why effective communication is a clinical skill, not a soft skill\nApply the SPIKES protocol for breaking bad news\nName the key Indian laws governing medical practice and patient rights\nState and apply the four principles of biomedical ethics\nDescribe the elements of valid informed consent\nTrace the historical abuses that produced modern research ethics\nApply a structured framework to an ethical dilemma\nExplain why error disclosure is an ethical obligation\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nAETCOM is a mandatory competency thread in the Indian MBBS curriculum, distinct from disease-specific chapters — it addresses how a doctor practises, not just what a doctor knows. This chapter closes the main curriculum before the closing Health Talks/Community IEC chapter.",
     "crumbs": [
       "Contents",
       "Professionalism & Communication",
@@ -1685,7 +1685,7 @@
     "href": "global/aetcom.html#references",
     "title": "Chapter 27: AETCOM",
     "section": "References",
-    "text": "References\n\nBeauchamp, T.L. and Childress, J.F. Principles of Biomedical Ethics — the four-principles framework.\nThe Nuremberg Code (1947); Declaration of Helsinki (1964, revised).\nThe Belmont Report (1979), US National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research.\nIndian Council of Medical Research (ICMR). National Ethical Guidelines for Biomedical and Health Research Involving Human Participants.\nMedical Council of India / National Medical Commission. AETCOM Competencies for the Indian Medical Graduate.\nBaile, W.F. et al. (2000). “SPIKES — A Six-Step Protocol for Delivering Bad News.” The Oncologist.",
+    "text": "References\n\nBeauchamp, T.L. and Childress, J.F. Principles of Biomedical Ethics — the four-principles framework.\nThe Nuremberg Code (1947); Declaration of Helsinki (1964, revised).\nThe Belmont Report (1979), US National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research.\nIndian Council of Medical Research (ICMR). National Ethical Guidelines for Biomedical and Health Research Involving Human Participants.\nMedical Council of India / National Medical Commission. AETCOM Competencies for the Indian Medical Graduate.\nBaile, W.F. et al. (2000). “SPIKES — A Six-Step Protocol for Delivering Bad News.” The Oncologist.\nGovernment of India. National Medical Commission Act, 2019; Consumer Protection Act; Clinical Establishments Act; Epidemic Diseases Act, 1897; HIV and AIDS (Prevention and Control) Act, 2017; Digital Personal Data Protection Act, 2023.",
     "crumbs": [
       "Contents",
       "Professionalism & Communication",
@@ -4795,7 +4795,7 @@
     "href": "environment/env_health/air_health.html#home",
     "title": "Chapter 2: Air and Health",
     "section": "Welcome",
-    "text": "Welcome\nAir and Health\nLearning Objectives:\n\nDescribe the physical and chemical changes in air in an occupied room\nExplain thermal comfort and how effective temperature is measured\nState ventilation standards (cubic space, air change, floor space)\nDistinguish natural from mechanical ventilation\nDescribe air conditioning’s role in health\nIdentify major outdoor air pollutants and their health effects\nDescribe how ambient air quality is monitored and controlled in India\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis is the second of the Environment section’s sub-chapters, filed after Water and Health (Chapter 1) — one of three chapters (Air/Light/Radiation) named in this section’s Chapter Listing but previously unwritten.",
+    "text": "Welcome\nAir and Health\nLearning Objectives:\n\nDescribe the physical and chemical changes in air in an occupied room\nExplain thermal comfort and how effective temperature is measured\nRecognize the spectrum of heat-related illness and India’s Heat Action Plans\nState ventilation standards (cubic space, air change, floor space)\nDistinguish natural from mechanical ventilation\nDescribe air conditioning’s role in health\nIdentify major outdoor air pollutants and their health effects\nDescribe how ambient air quality is monitored and controlled in India\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis is the second of the Environment section’s sub-chapters, filed after Water and Health (Chapter 1) — one of three chapters (Air/Light/Radiation) named in this section’s Chapter Listing but previously unwritten.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -4951,7 +4951,7 @@
     "href": "environment/env_health/air_health.html#references",
     "title": "Chapter 2: Air and Health",
     "section": "References",
-    "text": "References\n\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for air hygiene, thermal comfort, and ventilation standards.\nHoughton, F.C. and Yaglou, C.P. (1923). Effective Temperature Scale — American Society of Heating and Ventilation Engineers.\nCentral Pollution Control Board, India. National Ambient Air Quality Standards (NAAQS) and National Air Quality Index.",
+    "text": "References\n\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for air hygiene, thermal comfort, and ventilation standards.\nHoughton, F.C. and Yaglou, C.P. (1923). Effective Temperature Scale — American Society of Heating and Ventilation Engineers.\nCentral Pollution Control Board, India. National Ambient Air Quality Standards (NAAQS) and National Air Quality Index.\nNational Programme on Climate Change and Human Health (NPCCHH), Ministry of Health & Family Welfare, Government of India. Heat Action Plans.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -9944,7 +9944,7 @@
     "href": "environment/occupational-health.html#home",
     "title": "Occupational Health",
     "section": "Welcome",
-    "text": "Welcome\nOccupational Health\nLearning Objectives:\n\nState the 1950 ILO/WHO joint definition of occupational health\nClassify occupational hazards into six categories\nDefine pneumoconiosis and name its major forms\nDescribe India’s Employees’ State Insurance (ESI) scheme’s role\nRecognize lead poisoning and the major occupational cancers\nDistinguish human from environmental causes of industrial accidents\nOutline the Factories Act, 1948 alongside the ESI Act\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter connects Chapter 7’s NCD risk-factor framework and Chapter 2’s causation concepts to a specific, identifiable exposure setting: the workplace.",
+    "text": "Welcome\nOccupational Health\nLearning Objectives:\n\nState the 1950 ILO/WHO joint definition of occupational health\nClassify occupational hazards into six categories\nDefine pneumoconiosis and name its major forms\nDescribe India’s Employees’ State Insurance (ESI) scheme’s role\nRecognize lead poisoning and the major occupational cancers\nDistinguish human from environmental causes of industrial accidents\nOutline the Factories Act, 1948 alongside the ESI Act\nApply correct first aid for snakebite envenoming\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter connects Chapter 7’s NCD risk-factor framework and Chapter 2’s causation concepts to a specific, identifiable exposure setting: the workplace.",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -10160,7 +10160,7 @@
     "href": "environment/occupational-health.html#references",
     "title": "Occupational Health",
     "section": "References",
-    "text": "References\n\nInternational Labour Organization / World Health Organization. Joint ILO/WHO Committee on Occupational Health (1950; revised\n\n— definition and objectives.\n\nStatPearls. Pneumoconiosis.\nGovernment of India. Employees’ State Insurance Act, 1948.\nPMC. “Global, regional and national burden of disease attributable to 19 selected occupational risk factors… WHO/ILO Joint Estimates.”\nGovernment of India. The Factories Act, 1948 (as amended).\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for lead poisoning, occupational cancers, and industrial accident epidemiology.",
+    "text": "References\n\nInternational Labour Organization / World Health Organization. Joint ILO/WHO Committee on Occupational Health (1950; revised\n\n— definition and objectives.\n\nStatPearls. Pneumoconiosis.\nGovernment of India. Employees’ State Insurance Act, 1948.\nPMC. “Global, regional and national burden of disease attributable to 19 selected occupational risk factors… WHO/ILO Joint Estimates.”\nGovernment of India. The Factories Act, 1948 (as amended).\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for lead poisoning, occupational cancers, and industrial accident epidemiology.\nNational Centre for Disease Control, Ministry of Health & Family Welfare, Government of India. National Action Plan for Prevention and Control of Snakebite Envenoming (NAPSE).",
     "crumbs": [
       "Contents",
       "Environment, Systems & Emergencies",
@@ -11012,7 +11012,7 @@
     "href": "global/community-health.html#home",
     "title": "Health Care of the Community",
     "section": "Welcome",
-    "text": "Welcome\nHealth Care of the Community\nLearning Objectives:\n\nDistinguish primary, secondary, and tertiary levels of health care (as facility tiers, not levels of prevention)\nDescribe India’s three-tier rural health infrastructure and its population norms\nExplain the referral system linking these tiers\nReconnect ASHA workers and community participation to this structure\nTrace the PHC’s evolution through the Bhore and Mudaliar committees\nDistinguish FRU from Non-FRU Community Health Centres\nDescribe ASHA’s and the Community Health Officer’s roles\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nImportant distinction to flag explicitly: “levels of health care” here are facility/referral tiers, completely different from Chapter 2’s “levels of prevention” (primordial/primary/secondary/tertiary prevention), even though some terms overlap.",
+    "text": "Welcome\nHealth Care of the Community\nLearning Objectives:\n\nDistinguish primary, secondary, and tertiary levels of health care (as facility tiers, not levels of prevention)\nDescribe India’s three-tier rural health infrastructure and its population norms\nExplain the referral system linking these tiers\nReconnect ASHA workers and community participation to this structure\nTrace the PHC’s evolution through the Bhore and Mudaliar committees\nDistinguish FRU from Non-FRU Community Health Centres\nDescribe ASHA’s and the Community Health Officer’s roles\nApply the impairment-disability-handicap sequence and describe CBR’s role\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nImportant distinction to flag explicitly: “levels of health care” here are facility/referral tiers, completely different from Chapter 2’s “levels of prevention” (primordial/primary/secondary/tertiary prevention), even though some terms overlap.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -11228,7 +11228,7 @@
     "href": "global/community-health.html#references",
     "title": "Health Care of the Community",
     "section": "References",
-    "text": "References\n\nPhysiopedia. “Levels of Healthcare.”\nNational Health Mission, Government of India. Rural Health Care System in India — Sub-Centre, PHC, CHC population norms.\nVikaspedia (Government of India). “Rural Health Care System in India.”\nDirectorate General of Health Services, Government of India. Indian Public Health Standards.\nNational Health Systems Resource Centre, Government of India. ASHA Guidelines; Community Health Officer job description under Ayushman Bharat.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for the PHC/CHC evolution and health committees.",
+    "text": "References\n\nPhysiopedia. “Levels of Healthcare.”\nNational Health Mission, Government of India. Rural Health Care System in India — Sub-Centre, PHC, CHC population norms.\nVikaspedia (Government of India). “Rural Health Care System in India.”\nDirectorate General of Health Services, Government of India. Indian Public Health Standards.\nNational Health Systems Resource Centre, Government of India. ASHA Guidelines; Community Health Officer job description under Ayushman Bharat.\nWorld Health Organization. International Classification of Impairments, Disabilities, and Handicaps; Community-Based Rehabilitation Guidelines.\nGovernment of India. Rights of Persons with Disabilities (RPwD) Act, 2016.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for the PHC/CHC evolution and health committees.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -11612,7 +11612,7 @@
     "href": "global/social-sciences.html#home",
     "title": "Medicine and Social Sciences",
     "section": "Welcome",
-    "text": "Welcome\nMedicine and Social Sciences\nLearning Objectives:\n\nExplain Talcott Parsons’s sick role concept, its rights and obligations\nDefine illness behaviour and its five components\nDescribe how culture shapes health-seeking behaviour\nState the WHO Social Determinants of Health framework’s structural vs. intermediary determinants\nIdentify caste, gender, and class as India-specific axes of health inequity\nConnect this chapter’s sociology/anthropology lens to earlier chapters’ health-education and prevention content\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the sociological and anthropological theory underlying why health education (Ch17) and prevention programmes don’t work the same way for every population — behaviour is socially and culturally situated, not just individually rational.",
+    "text": "Welcome\nMedicine and Social Sciences\nLearning Objectives:\n\nExplain Talcott Parsons’s sick role concept, its rights and obligations\nDefine illness behaviour and its five components\nDescribe how culture shapes health-seeking behaviour\nState the WHO Social Determinants of Health framework’s structural vs. intermediary determinants\nIdentify caste, gender, and class as India-specific axes of health inequity\nApply the Kuppuswamy, BG Prasad, and Pareek’s scales to classify socioeconomic status\nConnect this chapter’s sociology/anthropology lens to earlier chapters’ health-education and prevention content\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the sociological and anthropological theory underlying why health education (Ch17) and prevention programmes don’t work the same way for every population — behaviour is socially and culturally situated, not just individually rational.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -11792,7 +11792,7 @@
     "href": "global/social-sciences.html#references",
     "title": "Medicine and Social Sciences",
     "section": "References",
-    "text": "References\n\nWikipedia / EBSCO Research Starters. “Sick role (medical sociology)” — Talcott Parsons’s original framework.\nSpringer, Culture, Medicine, and Psychiatry. “The health seeking process: An approach to the natural history of illness.”\nWorld Health Organization. A Conceptual Framework for Action on the Social Determinants of Health.\nAnthropology Review. “How Concepts of Illness and Health are Culturally Defined.”",
+    "text": "References\n\nWikipedia / EBSCO Research Starters. “Sick role (medical sociology)” — Talcott Parsons’s original framework.\nSpringer, Culture, Medicine, and Psychiatry. “The health seeking process: An approach to the natural history of illness.”\nWorld Health Organization. A Conceptual Framework for Action on the Social Determinants of Health.\nAnthropology Review. “How Concepts of Illness and Health are Culturally Defined.”\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for the Kuppuswamy, BG Prasad, and Pareek’s socioeconomic classification scales.",
     "crumbs": [
       "Contents",
       "Health Information, Education & Global Perspectives",
@@ -13638,5 +13638,163 @@
     "title": "Module 7: Other Significant NCDs",
     "section": "Thank You!",
     "text": "Thank You!\nBack to: Chronic Non-Communicable Diseases\n← Previous | Top | Chronic Non-Communicable Diseases | Module 7/7"
+  },
+  {
+    "objectID": "global/social-sciences.html#measuring-socioeconomic-status-classification-scales",
+    "href": "global/social-sciences.html#measuring-socioeconomic-status-classification-scales",
+    "title": "Medicine and Social Sciences",
+    "section": "Measuring Socioeconomic Status: Classification Scales",
+    "text": "Measuring Socioeconomic Status: Classification Scales\n🟢 MUST KNOW\nThe previous slide names class/economic status as a health-equity axis — in practice, community medicine measures it using standardized composite scales, not income alone:\n\nModified Kuppuswamy Scale — the most widely used urban socioeconomic classification scale in India; scores and sums three components — education and occupation of the head of the family, plus total monthly family income — to place a family into one of five classes (I–V, upper to lower); periodically revised to adjust income cut-offs for inflation\nBG Prasad Classification — designed for both urban and rural populations, and unlike Kuppuswamy, based solely on per capita monthly family income, divided into five classes; income cut-offs are revised regularly against the Consumer Price Index, since a fixed rupee value becomes outdated quickly with inflation\nPareek’s Classification — designed specifically for rural populations, incorporating caste, education, occupation, and land-holding alongside income — reflecting that rural socioeconomic structure isn’t captured by income/education/occupation alone the way Kuppuswamy assumes for urban settings\n\nWhy multiple scales exist rather than one universal scale: urban and rural socioeconomic structures differ enough (land ownership, caste’s role, income sources) that no single scale performs well in both settings — matching a scale to the study population is itself a methodological decision.",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/social-sciences.html#self-check-question-6",
+    "href": "global/social-sciences.html#self-check-question-6",
+    "title": "Medicine and Social Sciences",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nWhich socioeconomic classification scale is based solely on per capita monthly family income, and is used in both urban and rural India?\n\nModified Kuppuswamy Scale\nPareek’s Classification\nBG Prasad Classification\nWHO Social Determinants Framework",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Medicine and Social Sciences"
+    ]
+  },
+  {
+    "objectID": "global/aetcom.html#legal-framework-governing-medical-practice",
+    "href": "global/aetcom.html#legal-framework-governing-medical-practice",
+    "title": "Chapter 27: AETCOM",
+    "section": "Legal Framework Governing Medical Practice",
+    "text": "Legal Framework Governing Medical Practice\n🟡 SHOULD KNOW\nEthical principles (autonomy, non-maleficence) are backed by specific Indian laws that translate them into enforceable obligations — worth knowing by name, distinct from the ethical principles covered earlier in this chapter:\n\nNational Medical Commission (NMC) Act, 2019 — replaced the Medical Council of India, establishing NMC as the statutory body regulating medical education and practice, including professional conduct\nConsumer Protection Act (CPA) — brought medical services under its ambit, meaning a patient can seek compensation for medical negligence through consumer courts; negligence requires proving a duty of care, breach of that duty, and resulting harm\nClinical Establishments Act — mandates registration and minimum standards for hospitals/clinics, extending quality assurance beyond individual practitioner conduct to the facility itself\nEpidemic Diseases Act, 1897 — India’s oldest public health law, giving government the power to take special measures (e.g. restrictions, containment) during an epidemic — invoked repeatedly during COVID-19, directly connecting 19th-century legislation to a 21st-century pandemic\n\nWhy this belongs alongside ethics, not instead of it: law sets the enforceable floor; ethics asks for more than the legal minimum — a technically legal action can still be ethically questionable, which is exactly why this chapter teaches both.",
+    "crumbs": [
+      "Contents",
+      "Professionalism & Communication",
+      "AETCOM: Attitude, Ethics and Communication"
+    ]
+  },
+  {
+    "objectID": "global/aetcom.html#further-health-related-legislation",
+    "href": "global/aetcom.html#further-health-related-legislation",
+    "title": "Chapter 27: AETCOM",
+    "section": "Further Health-Related Legislation",
+    "text": "Further Health-Related Legislation\n🟣 MAY KNOW\n\nMental Healthcare Act, 2017 — already introduced in the Mental Health chapter (Section 115’s decriminalization of attempted suicide); also establishes patients’ right to access mental healthcare and advance directives\nHIV and AIDS (Prevention and Control) Act, 2017 — prohibits discrimination against people living with HIV/AIDS in employment, healthcare, and education, and mandates informed consent for HIV testing — a direct legal backing for the anti-stigma content in the HIV/AIDS module\nDigital Personal Data Protection (DPDP) Act, 2023 — governs how personal data, including health records, must be collected, stored, and protected — an increasingly relevant law as health records digitize (recall ABDM/Ayushman Bharat Digital Mission from the health-planning content)\n\nWhy these are grouped together: each extends a general ethical principle from earlier in this chapter (non-discrimination, privacy) into disease- or context-specific statutory protection.",
+    "crumbs": [
+      "Contents",
+      "Professionalism & Communication",
+      "AETCOM: Attitude, Ethics and Communication"
+    ]
+  },
+  {
+    "objectID": "global/aetcom.html#self-check-question-5",
+    "href": "global/aetcom.html#self-check-question-5",
+    "title": "Chapter 27: AETCOM",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nA patient seeking compensation for medical negligence through a consumer court must establish duty of care, breach of that duty, and:\n\nThe doctor’s personal financial status\nResulting harm caused by the breach\nA prior criminal conviction\nWritten admission of guilt",
+    "crumbs": [
+      "Contents",
+      "Professionalism & Communication",
+      "AETCOM: Attitude, Ethics and Communication"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#snakebite-envenoming",
+    "href": "environment/occupational-health.html#snakebite-envenoming",
+    "title": "Occupational Health",
+    "section": "Snakebite Envenoming",
+    "text": "Snakebite Envenoming\n🟡 SHOULD KNOW\nSnakebite is a genuine occupational hazard for agricultural workers specifically — most bites occur in fields, at night, or during harvesting — and India records the world’s highest number of snakebite deaths.\n\nFirst aid: keep the patient calm and the bitten limb immobilized below heart level; transport to a health facility immediately — traditional practices like tourniquets, cutting, or suction are not recommended and can worsen the outcome\nTreatment: Anti-Snake Venom (ASV) — polyvalent ASV covers India’s “Big Four” venomous species (cobra, common krait, Russell’s viper, saw-scaled viper); dosing does not depend on patient age/weight but on the severity of envenomation\nNational Action Plan for Snakebite Envenoming (NAPSE) — India’s strategy targeting a 50% reduction in snakebite deaths by 2030, through improved rural ASV access, health worker training, and community awareness about avoiding harmful first-aid myths\n\nWhy this belongs alongside occupational hazards: like pesticide exposure and heat stress on the same slide, snakebite risk is a direct consequence of agricultural work environment and timing, not a random event — the same “identifiable, preventable” framing used for injuries in general (NCD Module 6).",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "environment/occupational-health.html#self-check-question-5",
+    "href": "environment/occupational-health.html#self-check-question-5",
+    "title": "Occupational Health",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nCorrect first aid for a snakebite includes immobilizing the bitten limb below heart level and immediate transport to a facility. Which traditional practice should be avoided?\n\nKeeping the patient calm\nApplying a tourniquet or cutting/suctioning the wound\nTransporting the patient to a hospital\nNoting the time of the bite",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Occupational Health"
+    ]
+  },
+  {
+    "objectID": "global/community-health.html#disability-and-community-based-rehabilitation",
+    "href": "global/community-health.html#disability-and-community-based-rehabilitation",
+    "title": "Health Care of the Community",
+    "section": "Disability and Community-Based Rehabilitation",
+    "text": "Disability and Community-Based Rehabilitation\n🟡 SHOULD KNOW\nDisability care doesn’t fit neatly into any single tier above — it depends on community-level delivery, extending this chapter’s tiered-care framework to a population whose needs are ongoing rather than episodic:\n\nImpairment → Disability → Handicap — the classic WHO conceptual sequence: an impairment is a loss of structure/function (e.g. a paralysed limb); a disability is the resulting restriction in performing an activity; a handicap is the social disadvantage that results from the disability in a given environment — the same impairment produces a different handicap depending on the surrounding environment and support available\nCommunity-Based Rehabilitation (CBR) — delivers rehabilitation services through the community itself (family, local health workers) rather than centralizing all disability care in specialized urban institutions — the same primary-care integration logic already applied to leprosy (NLEP) and mental health (DMHP) in this curriculum\nRights of Persons with Disabilities (RPwD) Act, 2016 — India’s legal framework recognizing disability rights, expanding the recognized categories of disability and mandating accessibility\nDistrict Early Intervention Centres (DEICs) — provide early screening and intervention for developmental delays/disabilities in young children, since early intervention meaningfully improves long-term outcomes",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Care of the Community"
+    ]
+  },
+  {
+    "objectID": "global/community-health.html#self-check-question-5",
+    "href": "global/community-health.html#self-check-question-5",
+    "title": "Health Care of the Community",
+    "section": "Self-Check: Question 5",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nThe social disadvantage a person experiences as a result of a disability, which varies depending on the surrounding environment and support available, is termed:\n\nImpairment\nDisability\nHandicap\nRehabilitation",
+    "crumbs": [
+      "Contents",
+      "Health Information, Education & Global Perspectives",
+      "Health Care of the Community"
+    ]
+  },
+  {
+    "objectID": "programs/preventive-medicine.html#palliative-care",
+    "href": "programs/preventive-medicine.html#palliative-care",
+    "title": "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
+    "section": "Palliative Care",
+    "text": "Palliative Care\n🟡 SHOULD KNOW\nWhere the screening priorities above aim to prevent or catch disease early, palliative care addresses the other end of the life-stage continuum — serious, life-limiting illness where cure is no longer the goal.\n\nDefinition: an approach that improves quality of life for patients and families facing life-limiting illness, through prevention and relief of suffering — via early identification, assessment, and treatment of pain and other physical, psychosocial, and spiritual problems\nNot only end-of-life care: palliative care can begin alongside active treatment (e.g. for cancer, Module 4) from the point of diagnosis, not only after curative options are exhausted\nCommunity palliative care — India’s model increasingly delivers palliative care through home-based and community-level services rather than centralizing it in specialist hospices, following the same primary-care integration principle already applied to leprosy, mental health, and disability care in this curriculum\n\nWhy it belongs in this life-stage chapter specifically: it completes the continuum-of-care thread already running through this module — from antenatal care at one end to palliative care at the other, a person-centred health system follows the individual across their entire life course, not just the earlier stages.",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics"
+    ]
+  },
+  {
+    "objectID": "programs/preventive-medicine.html#self-check-question-7",
+    "href": "programs/preventive-medicine.html#self-check-question-7",
+    "title": "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics",
+    "section": "Self-Check: Question 7",
+    "text": "Self-Check: Question 7\n🧡 QUESTION\n\nQuestion 7\nPalliative care is best described as:\n\nCare given only after curative treatment has been stopped\nAn approach improving quality of life for serious illness, which can begin alongside active treatment\nA service available only in specialist hospices\nOnly relevant to elderly patients",
+    "crumbs": [
+      "Contents",
+      "Health Programs & Populations",
+      "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/air_health.html#heat-related-illness",
+    "href": "environment/env_health/air_health.html#heat-related-illness",
+    "title": "Chapter 2: Air and Health",
+    "section": "Heat-Related Illness",
+    "text": "Heat-Related Illness\n🟡 SHOULD KNOW\nWhen the thermal comfort mechanisms above are overwhelmed — high temperature, high humidity limiting evaporative cooling, prolonged exertion or exposure — the result is a spectrum of heat-related illness, not a single condition:\n\nHeat cramps — painful muscle spasms from salt/water loss during exertion in heat; the mildest end of the spectrum\nHeat exhaustion — heavy sweating, weakness, nausea, and dizziness from dehydration and salt depletion; body temperature may be elevated but the person remains alert\nHeat stroke — the life-threatening form: body temperature rises above 40°C with central nervous system dysfunction (confusion, seizures, loss of consciousness) — a medical emergency requiring immediate rapid cooling\n\nPrevention and India’s response: the National Programme on Climate Change and Human Health (NPCCHH) supports state-level Heat Action Plans — early warning systems, public advisories on peak-heat hours, cooling shelters, and health-worker training to recognize and manage heat illness — extending this chapter’s thermal-comfort principles from building design into a population-level, time-bound public health response during heatwaves.",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Air and Health"
+    ]
+  },
+  {
+    "objectID": "environment/env_health/air_health.html#self-check-question-6",
+    "href": "environment/env_health/air_health.html#self-check-question-6",
+    "title": "Chapter 2: Air and Health",
+    "section": "Self-Check: Question 6",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nA person exposed to extreme heat develops confusion and a body temperature above 40°C. This presentation is most consistent with:\n\nHeat cramps\nHeat exhaustion\nHeat stroke\nNormal exertion response",
+    "crumbs": [
+      "Contents",
+      "Environment, Systems & Emergencies",
+      "Environment and Health",
+      "Air and Health"
+    ]
   }
 ]

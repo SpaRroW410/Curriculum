@@ -28,6 +28,7 @@ revealjs-plugins:
 
 - Describe the physical and chemical changes in air in an occupied room
 - Explain thermal comfort and how effective temperature is measured
+- Recognize the spectrum of heat-related illness and India's Heat Action Plans
 - State ventilation standards (cubic space, air change, floor space)
 - Distinguish natural from mechanical ventilation
 - Describe air conditioning's role in health
@@ -84,6 +85,35 @@ air on the body.
 - **Comfort zone** — the range of ET over which most people feel
   comfortable; not universal, since comfort also depends on
   psychological factors, not physical ones alone
+
+---
+
+## Heat-Related Illness {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+When the thermal comfort mechanisms above are overwhelmed — high
+temperature, high humidity limiting evaporative cooling, prolonged
+exertion or exposure — the result is a **spectrum of heat-related
+illness**, not a single condition:
+
+- **Heat cramps** — painful muscle spasms from salt/water loss during
+  exertion in heat; the mildest end of the spectrum
+- **Heat exhaustion** — heavy sweating, weakness, nausea, and dizziness
+  from dehydration and salt depletion; body temperature may be
+  elevated but the person remains alert
+- **Heat stroke** — the **life-threatening** form: body temperature
+  rises above 40°C with **central nervous system dysfunction**
+  (confusion, seizures, loss of consciousness) — a medical emergency
+  requiring immediate rapid cooling
+
+**Prevention and India's response:** the **National Programme on
+Climate Change and Human Health (NPCCHH)** supports state-level **Heat
+Action Plans** — early warning systems, public advisories on peak-heat
+hours, cooling shelters, and health-worker training to recognize and
+manage heat illness — extending this chapter's thermal-comfort
+principles from building design into a population-level, time-bound
+public health response during heatwaves.
 
 ---
 
@@ -275,6 +305,24 @@ The Air Quality Index (AQI) serves which primary purpose?
 
 ---
 
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+A person exposed to extreme heat develops confusion and a body
+temperature above 40°C. This presentation is most consistent with:
+
+- Heat cramps
+- Heat exhaustion
+- [Heat stroke]{.correct data-explanation="Heat stroke is the life-threatening form of heat-related illness, marked by very high body temperature (above 40C) combined with central nervous system dysfunction such as confusion or seizures -- it requires immediate rapid cooling."}
+- Normal exertion response
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. Park, K. *Park's Textbook of Preventive and Social Medicine* —
@@ -284,6 +332,9 @@ The Air Quality Index (AQI) serves which primary purpose?
    American Society of Heating and Ventilation Engineers.
 3. Central Pollution Control Board, India. *National Ambient Air
    Quality Standards (NAAQS)* and *National Air Quality Index*.
+4. National Programme on Climate Change and Human Health (NPCCHH),
+   Ministry of Health & Family Welfare, Government of India. *Heat
+   Action Plans*.
 
 ---
 

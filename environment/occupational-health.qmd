@@ -33,6 +33,7 @@ revealjs-plugins:
 - Recognize lead poisoning and the major occupational cancers
 - Distinguish human from environmental causes of industrial accidents
 - Outline the Factories Act, 1948 alongside the ESI Act
+- Apply correct first aid for snakebite envenoming
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -190,6 +191,36 @@ workers: pesticide exposure, zoonotic disease risk (from livestock
 contact), musculoskeletal strain, heat exposure, and mechanical injury
 from farm equipment — a reminder that "occupational health" is not
 synonymous with "industrial health."
+
+---
+
+## Snakebite Envenoming {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Snakebite is a genuine occupational hazard for agricultural workers
+specifically — most bites occur in fields, at night, or during
+harvesting — and India records the world's highest number of
+snakebite deaths.
+
+- **First aid:** keep the patient calm and the bitten limb
+  **immobilized below heart level**; transport to a health facility
+  **immediately** — traditional practices like tourniquets, cutting,
+  or suction are **not recommended** and can worsen the outcome
+- **Treatment:** **Anti-Snake Venom (ASV)** — polyvalent ASV covers
+  India's "Big Four" venomous species (cobra, common krait, Russell's
+  viper, saw-scaled viper); dosing does not depend on patient
+  age/weight but on the **severity of envenomation**
+- **National Action Plan for Snakebite Envenoming (NAPSE)** — India's
+  strategy targeting a **50% reduction in snakebite deaths by 2030**,
+  through improved rural ASV access, health worker training, and
+  community awareness about avoiding harmful first-aid myths
+
+**Why this belongs alongside occupational hazards:** like pesticide
+exposure and heat stress on the same slide, snakebite risk is a direct
+consequence of agricultural work environment and timing, not a
+random event — the same "identifiable, preventable" framing used for
+injuries in general (NCD Module 6).
 
 ---
 
@@ -360,6 +391,25 @@ of:
 
 ---
 
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Correct first aid for a snakebite includes immobilizing the bitten limb
+below heart level and immediate transport to a facility. Which
+traditional practice should be avoided?
+
+- Keeping the patient calm
+- [Applying a tourniquet or cutting/suctioning the wound]{.correct data-explanation="Tourniquets, cutting, and suction are traditional but harmful practices that are not recommended and can worsen outcomes -- correct first aid is limb immobilization below heart level and rapid transport for ASV."}
+- Transporting the patient to a hospital
+- Noting the time of the bite
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. International Labour Organization / World Health Organization.
@@ -373,6 +423,9 @@ of:
 6. Park, K. *Park's Textbook of Preventive and Social Medicine* —
    standard reference for lead poisoning, occupational cancers, and
    industrial accident epidemiology.
+7. National Centre for Disease Control, Ministry of Health & Family
+   Welfare, Government of India. *National Action Plan for Prevention
+   and Control of Snakebite Envenoming (NAPSE)*.
 
 ---
 

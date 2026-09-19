@@ -33,6 +33,7 @@ revealjs-plugins:
 - Trace the PHC's evolution through the Bhore and Mudaliar committees
 - Distinguish FRU from Non-FRU Community Health Centres
 - Describe ASHA's and the Community Health Officer's roles
+- Apply the impairment-disability-handicap sequence and describe CBR's role
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -290,6 +291,38 @@ is relevant terminology in broader health systems study.
 
 ---
 
+## Disability and Community-Based Rehabilitation {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Disability care doesn't fit neatly into any single tier above — it
+depends on **community-level delivery**, extending this chapter's
+tiered-care framework to a population whose needs are ongoing rather
+than episodic:
+
+- **Impairment → Disability → Handicap** — the classic WHO conceptual
+  sequence: an **impairment** is a loss of structure/function (e.g. a
+  paralysed limb); a **disability** is the resulting restriction in
+  performing an activity; a **handicap** is the social disadvantage
+  that results from the disability in a given environment — the same
+  impairment produces a different handicap depending on the
+  surrounding environment and support available
+- **Community-Based Rehabilitation (CBR)** — delivers rehabilitation
+  services through the community itself (family, local health workers)
+  rather than centralizing all disability care in specialized urban
+  institutions — the same primary-care integration logic already
+  applied to leprosy (NLEP) and mental health (DMHP) in this
+  curriculum
+- **Rights of Persons with Disabilities (RPwD) Act, 2016** — India's
+  legal framework recognizing disability rights, expanding the
+  recognized categories of disability and mandating accessibility
+- **District Early Intervention Centres (DEICs)** — provide early
+  screening and intervention for developmental delays/disabilities in
+  young children, since early intervention meaningfully improves
+  long-term outcomes
+
+---
+
 ## Self-Check: Question 1 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -363,6 +396,25 @@ tertiary facilities, even for manageable conditions, is known as:
 
 ---
 
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+The social disadvantage a person experiences as a result of a
+disability, which varies depending on the surrounding environment and
+support available, is termed:
+
+- Impairment
+- Disability
+- [Handicap]{.correct data-explanation="In the WHO sequence, impairment is the loss of structure/function, disability is the resulting activity restriction, and handicap is the social disadvantage that results -- the same impairment can produce a different handicap depending on the environment."}
+- Rehabilitation
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. Physiopedia. "Levels of Healthcare."
@@ -375,6 +427,11 @@ tertiary facilities, even for manageable conditions, is known as:
 5. National Health Systems Resource Centre, Government of India. *ASHA
    Guidelines*; *Community Health Officer job description under
    Ayushman Bharat*.
+6. World Health Organization. *International Classification of
+   Impairments, Disabilities, and Handicaps*; *Community-Based
+   Rehabilitation Guidelines*.
+7. Government of India. *Rights of Persons with Disabilities (RPwD)
+   Act, 2016*.
 6. Park, K. *Park's Textbook of Preventive and Social Medicine* —
    standard reference for the PHC/CHC evolution and health committees.
 
