@@ -48,6 +48,20 @@ website:
             href: diseases/cd/module5_food_poisoning.qmd
           - text: "Module 6: Hospital-Acquired Infections"
             href: diseases/cd/module6_hospital_acquired_infections.qmd
+          - text: "Module 7: Tuberculosis"
+            href: diseases/cd/module7_tuberculosis.qmd
+          - text: "Module 8: HIV/AIDS, STIs and NACP"
+            href: diseases/cd/module8_hiv_stis.qmd
+          - text: "Module 9: Leprosy"
+            href: diseases/cd/module9_leprosy.qmd
+          - text: "Module 10: Vector-Borne Viral Fevers"
+            href: diseases/cd/module10_vector_borne_fevers.qmd
+          - text: "Module 11: Rabies and Other Zoonoses"
+            href: diseases/cd/module11_rabies_zoonoses.qmd
+          - text: "Module 12: Filariasis and Kala-azar"
+            href: diseases/cd/module12_filaria_kalaazar.qmd
+          - text: "Module 13: Other Vaccine-Preventable Infections"
+            href: diseases/cd/module13_other_infections.qmd
           - text: "Epidemiology of Chronic Non-Communicable Diseases"
             href: diseases/ncd.qmd
           - text: "Selected NCDs: Overview"
@@ -177,6 +191,20 @@ website:
                 file: diseases/cd/module5_food_poisoning.qmd
               - text: "Module 6: Hospital-Acquired Infections"
                 file: diseases/cd/module6_hospital_acquired_infections.qmd
+              - text: "Module 7: Tuberculosis"
+                file: diseases/cd/module7_tuberculosis.qmd
+              - text: "Module 8: HIV/AIDS, STIs and NACP"
+                file: diseases/cd/module8_hiv_stis.qmd
+              - text: "Module 9: Leprosy"
+                file: diseases/cd/module9_leprosy.qmd
+              - text: "Module 10: Vector-Borne Viral Fevers"
+                file: diseases/cd/module10_vector_borne_fevers.qmd
+              - text: "Module 11: Rabies and Other Zoonoses"
+                file: diseases/cd/module11_rabies_zoonoses.qmd
+              - text: "Module 12: Filariasis and Kala-azar"
+                file: diseases/cd/module12_filaria_kalaazar.qmd
+              - text: "Module 13: Other Vaccine-Preventable Infections"
+                file: diseases/cd/module13_other_infections.qmd
           - text: "Epidemiology of Chronic Non-Communicable Diseases"
             file: diseases/ncd.qmd
           - section: "Selected Non-Communicable Diseases"

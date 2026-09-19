@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 1/6 | [Next →](module2_typhoid_cholera.html)"
+    footer: "[Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 1/13 | [Next →](module2_typhoid_cholera.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -296,4 +296,4 @@ consciousness. This finding means the patient:
 
 **Next Module:** Typhoid Fever and Cholera
 
-[Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 1/6 | [Next →](module2_typhoid_cholera.html)
+[Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 1/13 | [Next →](module2_typhoid_cholera.html)

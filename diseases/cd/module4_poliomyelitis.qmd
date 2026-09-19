@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](module3_viral_hepatitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 4/6 | [Next →](module5_food_poisoning.html)"
+    footer: "[← Previous](module3_viral_hepatitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 4/13 | [Next →](module5_food_poisoning.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -269,4 +269,4 @@ polio, is best explained by:
 
 **Next Module:** Food Poisoning and Diarrhoeal Disease
 
-[← Previous](module3_viral_hepatitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 4/6 | [Next →](module5_food_poisoning.html)
+[← Previous](module3_viral_hepatitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 4/13 | [Next →](module5_food_poisoning.html)

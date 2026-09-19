@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](module1_malaria.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 2/6 | [Next →](module3_viral_hepatitis.html)"
+    footer: "[← Previous](module1_malaria.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 2/13 | [Next →](module3_viral_hepatitis.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -280,4 +280,4 @@ and:
 
 **Next Module:** Viral Hepatitis
 
-[← Previous](module1_malaria.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 2/6 | [Next →](module3_viral_hepatitis.html)
+[← Previous](module1_malaria.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 2/13 | [Next →](module3_viral_hepatitis.html)

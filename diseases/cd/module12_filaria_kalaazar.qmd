@@ -1,0 +1,236 @@
+---
+title: "Module 12: Lymphatic Filariasis and Kala-azar"
+subtitle: "Two Vector-Borne Elimination Targets"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module11_rabies_zoonoses.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 12/13 | [Next →](module13_other_infections.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Lymphatic Filariasis and Kala-azar
+
+**Learning Objectives:**
+
+- Describe the agent, vector, and clinical spectrum of lymphatic filariasis
+- Explain nocturnal periodicity and its diagnostic implication
+- Outline Mass Drug Administration and India's ELF programme
+- Describe the agent, vector, and clinical features of kala-azar
+- Outline the National Kala-azar Elimination Programme's target
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Both diseases in this module are the subject of active,
+time-bound Indian elimination programmes — a useful pairing with
+polio (Module 4) and leprosy (Module 9) as examples of the vertical,
+disease-specific elimination-programme model.
+:::
+
+---
+
+## Lymphatic Filariasis: Agent and Pathogenesis {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Agent:** *Wuchereria bancrofti* (the large majority of Indian cases);
+*Brugia malayi* accounts for a small minority. **Vector:** *Culex*
+mosquitoes.
+
+**Pathogenesis:** adult worms lodge in the **lymphatic vessels**,
+causing progressive lymphatic damage and dysfunction — the clinical
+picture is a direct consequence of this lymphatic obstruction, not of
+the microfilariae circulating in blood.
+
+**Nocturnal periodicity:** microfilariae circulate in **peripheral
+blood mainly at night**, synchronized with the night-biting habit of
+the *Culex* vector — which is why **blood samples for diagnosis are
+collected at night**, a rare and distinctive example of a disease's
+biology directly dictating sample-collection timing.
+
+---
+
+## Clinical Spectrum {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Asymptomatic microfilaraemia** — the most common state; the
+  person carries circulating microfilariae without symptoms, but
+  remains a source of transmission to biting mosquitoes
+- **Acute adenolymphangitis (ADL)** — recurrent episodes of fever with
+  painful, inflamed lymph nodes/vessels
+- **Chronic disease** — **lymphoedema and elephantiasis** (massive limb
+  swelling from chronic lymphatic obstruction) and **hydrocele** in
+  men — the disfiguring, disabling manifestations that give the
+  disease its public health significance
+
+**Why this matters for elimination strategy:** because most infected
+people are asymptomatic carriers, case-based treatment alone cannot
+interrupt transmission — this is exactly why **Mass Drug
+Administration** (next slide), not individual treatment, is the
+chosen strategy.
+
+---
+
+## Elimination of Lymphatic Filariasis (ELF) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Mass Drug Administration (MDA)** — annual single-dose
+  co-administration of **DEC (diethylcarbamazine) + Albendazole** to
+  the **entire at-risk population** in endemic districts, regardless of
+  individual infection status — directly addressing the asymptomatic-
+  carrier reservoir described above
+- **Morbidity management and disability prevention (MMDP)** — hygiene-
+  based limb care and hydrocele surgery for those with established
+  chronic disease, since MDA prevents new infection but does not
+  reverse existing lymphoedema
+- **Target:** India's Elimination of Lymphatic Filariasis (ELF)
+  programme aims for elimination as a public health problem, verified
+  by sustained microfilaria rates below threshold after repeated MDA
+  rounds
+
+---
+
+## Kala-azar (Visceral Leishmaniasis) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Agent:** *Leishmania donovani*, a protozoan parasite. **Vector:**
+the **sandfly** (*Phlebotomus* species) — a different vector family
+entirely from the mosquito-borne diseases covered so far in this
+curriculum.
+
+**Geographic distribution:** historically concentrated in **Bihar and
+neighbouring eastern states**, making it one of India's most
+geographically clustered vector-borne diseases.
+
+**Clinical features:** prolonged fever, **hepatosplenomegaly**,
+progressive anaemia, weight loss, and darkening of the skin (the name
+"kala-azar" means "black fever"). **Post-Kala-azar Dermal Leishmaniasis
+(PKDL)** can follow apparent cure, presenting as skin lesions and
+serving as a continuing reservoir for transmission.
+
+---
+
+## Diagnosis, Treatment, and Elimination {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Diagnosis:** the **rK39 rapid diagnostic test** — a simple,
+  field-deployable antibody test that has greatly simplified case
+  detection compared to older invasive splenic/bone-marrow aspirate
+  methods
+- **Treatment:** **single-dose liposomal amphotericin B** is now the
+  preferred regimen — a major improvement over older, longer,
+  more toxic regimens, improving both cure rates and treatment
+  completion
+- **National Kala-azar Elimination Programme target:** fewer than
+  **1 case per 10,000 population** at the block level — the same
+  "elimination as a public health problem" framing (a defined,
+  measurable threshold) already seen for lymphatic filariasis and
+  leprosy, rather than a claim of zero cases
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Blood samples for diagnosing lymphatic filariasis are conventionally
+collected at night because:
+
+- The parasite is only viable in cold blood
+- [Microfilariae show nocturnal periodicity, circulating in peripheral blood mainly at night]{.correct data-explanation="Microfilarial nocturnal periodicity is synchronized with the night-biting Culex vector, which is why diagnostic blood collection is timed to the night."}
+- Daytime samples clot too quickly
+- Patients are only available at night
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Mass Drug Administration for lymphatic filariasis is given to:
+
+- Only patients with confirmed elephantiasis
+- Only patients with a positive blood test
+- [The entire at-risk population in endemic districts, regardless of individual infection status]{.correct data-explanation="Since most infected people are asymptomatic carriers who still transmit the parasite, MDA targets the whole at-risk population rather than relying on case-based treatment alone."}
+- Only pregnant women
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Kala-azar is transmitted by which vector?
+
+- *Culex* mosquito
+- *Aedes* mosquito
+- [Sandfly]{.correct data-explanation="Kala-azar (visceral leishmaniasis) is transmitted by the sandfly (Phlebotomus species) -- a different vector family from the mosquito-borne diseases covered elsewhere in this module."}
+- Tick
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+The National Kala-azar Elimination Programme defines "elimination" as:
+
+- Zero cases nationally
+- [Fewer than 1 case per 10,000 population at the block level]{.correct data-explanation="Like lymphatic filariasis and leprosy elimination targets, kala-azar elimination is defined as a measurable threshold (under 1 case per 10,000 population at block level), not literal zero cases."}
+- A 50% reduction from baseline
+- Zero deaths, regardless of case count
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. National Centre for Vector Borne Diseases Control (NCVBDC),
+   Ministry of Health & Family Welfare, Government of India —
+   *Elimination of Lymphatic Filariasis* and *National Kala-azar
+   Elimination Programme* guidelines.
+2. World Health Organization. *Lymphatic Filariasis* and *Leishmaniasis*
+   — fact sheets.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for filariasis and kala-azar epidemiology.
+
+---
+
+## Thank You!
+
+**Next Module:** Other Vaccine-Preventable and Miscellaneous Infections
+
+[← Previous](module11_rabies_zoonoses.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 12/13 | [Next →](module13_other_infections.html)

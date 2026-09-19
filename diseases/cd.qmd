@@ -16,8 +16,9 @@ editor:
 
 Chapter 6 covers the **general principles** of communicable disease
 epidemiology — the chain of infection, transmission, herd immunity, and
-outbreak investigation. This section applies those principles to six
-specific diseases in depth, each as its own module.
+outbreak investigation. This section applies those principles to
+thirteen specific diseases/disease clusters in depth, each as its own
+module.
 
 - **[Module 1: Malaria](cd/module1_malaria.qmd)** — agent, life cycle,
   clinical types, diagnosis, treatment, and NVBDCP
@@ -32,6 +33,21 @@ specific diseases in depth, each as its own module.
   rehydration therapy, and India's programme
 - **[Module 6: Hospital-Acquired Infections](cd/module6_hospital_acquired_infections.qmd)**
   — source, spread, and prevention of nosocomial infection
+- **[Module 7: Tuberculosis](cd/module7_tuberculosis.qmd)** —
+  epidemiology, diagnosis, DOTS, and India's NTEP
+- **[Module 8: HIV/AIDS, STIs and NACP](cd/module8_hiv_stis.qmd)** —
+  transmission, ART/PMTCT, and India's AIDS control programme
+- **[Module 9: Leprosy](cd/module9_leprosy.qmd)** — classification,
+  multidrug therapy, and NLEP
+- **[Module 10: Vector-Borne Viral Fevers](cd/module10_vector_borne_fevers.qmd)**
+  — dengue, chikungunya, JE, Zika, and Kyasanur Forest Disease
+- **[Module 11: Rabies and Other Zoonoses](cd/module11_rabies_zoonoses.qmd)**
+  — post-exposure prophylaxis, plague, leptospirosis, brucellosis, yellow fever
+- **[Module 12: Lymphatic Filariasis and Kala-azar](cd/module12_filaria_kalaazar.qmd)**
+  — two vector-borne elimination targets
+- **[Module 13: Other Vaccine-Preventable and Miscellaneous
+  Infections](cd/module13_other_infections.qmd)** — measles, diphtheria,
+  pertussis, influenza, tetanus, and neglected infections
 
 Return to [Communicable Diseases](communicable-diseases.qmd) for the
 general epidemiology of communicable disease, or to

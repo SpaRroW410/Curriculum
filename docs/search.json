@@ -6252,7 +6252,7 @@
     "href": "diseases/cd/module5_food_poisoning.html#thank-you",
     "title": "Module 5: Food Poisoning and Diarrhoeal Disease Control",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Module: Hospital-Acquired Infections\n← Previous | Top | Communicable Diseases | Module 5/6 | Next →",
+    "text": "Thank You!\nNext Module: Hospital-Acquired Infections\n← Previous | Top | Communicable Diseases | Module 5/13 | Next →",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6434,7 +6434,7 @@
     "href": "diseases/cd/module3_viral_hepatitis.html#thank-you",
     "title": "Module 3: Viral Hepatitis",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Module: Poliomyelitis\n← Previous | Top | Communicable Diseases | Module 3/6 | Next →",
+    "text": "Thank You!\nNext Module: Poliomyelitis\n← Previous | Top | Communicable Diseases | Module 3/13 | Next →",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6629,7 +6629,7 @@
     "href": "diseases/cd/module1_malaria.html#thank-you",
     "title": "Module 1: Malaria",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Module: Typhoid Fever and Cholera\nTop | Communicable Diseases | Module 1/6 | Next →",
+    "text": "Thank You!\nNext Module: Typhoid Fever and Cholera\nTop | Communicable Diseases | Module 1/13 | Next →",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6663,7 +6663,7 @@
     "href": "diseases/cd.html",
     "title": "Selected Communicable Diseases",
     "section": "",
-    "text": "Selected Communicable Diseases\nChapter 6 covers the general principles of communicable disease epidemiology — the chain of infection, transmission, herd immunity, and outbreak investigation. This section applies those principles to six specific diseases in depth, each as its own module.\n\nModule 1: Malaria — agent, life cycle, clinical types, diagnosis, treatment, and NVBDCP\nModule 2: Typhoid Fever and Cholera — two classic faeco-oral enteric diseases\nModule 3: Viral Hepatitis — hepatitis A through E compared\nModule 4: Poliomyelitis — clinical spectrum, IPV vs. OPV, surveillance, and India’s eradication\nModule 5: Food Poisoning and Diarrhoeal Disease Control — bacterial agents, oral rehydration therapy, and India’s programme\nModule 6: Hospital-Acquired Infections — source, spread, and prevention of nosocomial infection\n\nReturn to Communicable Diseases for the general epidemiology of communicable disease, or to Contents for the full curriculum.",
+    "text": "Selected Communicable Diseases\nChapter 6 covers the general principles of communicable disease epidemiology — the chain of infection, transmission, herd immunity, and outbreak investigation. This section applies those principles to thirteen specific diseases/disease clusters in depth, each as its own module.\n\nModule 1: Malaria — agent, life cycle, clinical types, diagnosis, treatment, and NVBDCP\nModule 2: Typhoid Fever and Cholera — two classic faeco-oral enteric diseases\nModule 3: Viral Hepatitis — hepatitis A through E compared\nModule 4: Poliomyelitis — clinical spectrum, IPV vs. OPV, surveillance, and India’s eradication\nModule 5: Food Poisoning and Diarrhoeal Disease Control — bacterial agents, oral rehydration therapy, and India’s programme\nModule 6: Hospital-Acquired Infections — source, spread, and prevention of nosocomial infection\nModule 7: Tuberculosis — epidemiology, diagnosis, DOTS, and India’s NTEP\nModule 8: HIV/AIDS, STIs and NACP — transmission, ART/PMTCT, and India’s AIDS control programme\nModule 9: Leprosy — classification, multidrug therapy, and NLEP\nModule 10: Vector-Borne Viral Fevers — dengue, chikungunya, JE, Zika, and Kyasanur Forest Disease\nModule 11: Rabies and Other Zoonoses — post-exposure prophylaxis, plague, leptospirosis, brucellosis, yellow fever\nModule 12: Lymphatic Filariasis and Kala-azar — two vector-borne elimination targets\nModule 13: Other Vaccine-Preventable and Miscellaneous Infections — measles, diphtheria, pertussis, influenza, tetanus, and neglected infections\n\nReturn to Communicable Diseases for the general epidemiology of communicable disease, or to Contents for the full curriculum.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -6845,7 +6845,7 @@
     "href": "diseases/cd/module2_typhoid_cholera.html#thank-you",
     "title": "Module 2: Typhoid Fever and Cholera",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Module: Viral Hepatitis\n← Previous | Top | Communicable Diseases | Module 2/6 | Next →",
+    "text": "Thank You!\nNext Module: Viral Hepatitis\n← Previous | Top | Communicable Diseases | Module 2/13 | Next →",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -7027,7 +7027,7 @@
     "href": "diseases/cd/module4_poliomyelitis.html#thank-you",
     "title": "Module 4: Poliomyelitis",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Module: Food Poisoning and Diarrhoeal Disease\n← Previous | Top | Communicable Diseases | Module 4/6 | Next →",
+    "text": "Thank You!\nNext Module: Food Poisoning and Diarrhoeal Disease\n← Previous | Top | Communicable Diseases | Module 4/13 | Next →",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -7196,7 +7196,7 @@
     "href": "diseases/cd/module6_hospital_acquired_infections.html#thank-you",
     "title": "Module 6: Hospital-Acquired Infections",
     "section": "Thank You!",
-    "text": "Thank You!\nBack to: Communicable Diseases\n← Previous | Top | Communicable Diseases | Module 6/6",
+    "text": "Thank You!\nNext Module: Tuberculosis\n← Previous | Top | Communicable Diseases | Module 6/13 | Next →",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -13176,5 +13176,173 @@
     "title": "Module 11: Rabies and Other Zoonoses",
     "section": "Thank You!",
     "text": "Thank You!\nNext Module: Filariasis and Kala-azar\n← Previous | Top | Communicable Diseases | Module 11/13 | Next →"
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#home",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#home",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Welcome",
+    "text": "Welcome\nLymphatic Filariasis and Kala-azar\nLearning Objectives:\n\nDescribe the agent, vector, and clinical spectrum of lymphatic filariasis\nExplain nocturnal periodicity and its diagnostic implication\nOutline Mass Drug Administration and India’s ELF programme\nDescribe the agent, vector, and clinical features of kala-azar\nOutline the National Kala-azar Elimination Programme’s target\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nBoth diseases in this module are the subject of active, time-bound Indian elimination programmes — a useful pairing with polio (Module 4) and leprosy (Module 9) as examples of the vertical, disease-specific elimination-programme model."
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#lymphatic-filariasis-agent-and-pathogenesis",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#lymphatic-filariasis-agent-and-pathogenesis",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Lymphatic Filariasis: Agent and Pathogenesis",
+    "text": "Lymphatic Filariasis: Agent and Pathogenesis\n🟢 MUST KNOW\nAgent: Wuchereria bancrofti (the large majority of Indian cases); Brugia malayi accounts for a small minority. Vector: Culex mosquitoes.\nPathogenesis: adult worms lodge in the lymphatic vessels, causing progressive lymphatic damage and dysfunction — the clinical picture is a direct consequence of this lymphatic obstruction, not of the microfilariae circulating in blood.\nNocturnal periodicity: microfilariae circulate in peripheral blood mainly at night, synchronized with the night-biting habit of the Culex vector — which is why blood samples for diagnosis are collected at night, a rare and distinctive example of a disease’s biology directly dictating sample-collection timing."
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#clinical-spectrum",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#clinical-spectrum",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Clinical Spectrum",
+    "text": "Clinical Spectrum\n🟢 MUST KNOW\n\nAsymptomatic microfilaraemia — the most common state; the person carries circulating microfilariae without symptoms, but remains a source of transmission to biting mosquitoes\nAcute adenolymphangitis (ADL) — recurrent episodes of fever with painful, inflamed lymph nodes/vessels\nChronic disease — lymphoedema and elephantiasis (massive limb swelling from chronic lymphatic obstruction) and hydrocele in men — the disfiguring, disabling manifestations that give the disease its public health significance\n\nWhy this matters for elimination strategy: because most infected people are asymptomatic carriers, case-based treatment alone cannot interrupt transmission — this is exactly why Mass Drug Administration (next slide), not individual treatment, is the chosen strategy."
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#elimination-of-lymphatic-filariasis-elf",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#elimination-of-lymphatic-filariasis-elf",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Elimination of Lymphatic Filariasis (ELF)",
+    "text": "Elimination of Lymphatic Filariasis (ELF)\n🟡 SHOULD KNOW\n\nMass Drug Administration (MDA) — annual single-dose co-administration of DEC (diethylcarbamazine) + Albendazole to the entire at-risk population in endemic districts, regardless of individual infection status — directly addressing the asymptomatic- carrier reservoir described above\nMorbidity management and disability prevention (MMDP) — hygiene- based limb care and hydrocele surgery for those with established chronic disease, since MDA prevents new infection but does not reverse existing lymphoedema\nTarget: India’s Elimination of Lymphatic Filariasis (ELF) programme aims for elimination as a public health problem, verified by sustained microfilaria rates below threshold after repeated MDA rounds"
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#kala-azar-visceral-leishmaniasis",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#kala-azar-visceral-leishmaniasis",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Kala-azar (Visceral Leishmaniasis)",
+    "text": "Kala-azar (Visceral Leishmaniasis)\n🟢 MUST KNOW\nAgent: Leishmania donovani, a protozoan parasite. Vector: the sandfly (Phlebotomus species) — a different vector family entirely from the mosquito-borne diseases covered so far in this curriculum.\nGeographic distribution: historically concentrated in Bihar and neighbouring eastern states, making it one of India’s most geographically clustered vector-borne diseases.\nClinical features: prolonged fever, hepatosplenomegaly, progressive anaemia, weight loss, and darkening of the skin (the name “kala-azar” means “black fever”). Post-Kala-azar Dermal Leishmaniasis (PKDL) can follow apparent cure, presenting as skin lesions and serving as a continuing reservoir for transmission."
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#diagnosis-treatment-and-elimination",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#diagnosis-treatment-and-elimination",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Diagnosis, Treatment, and Elimination",
+    "text": "Diagnosis, Treatment, and Elimination\n🟡 SHOULD KNOW\n\nDiagnosis: the rK39 rapid diagnostic test — a simple, field-deployable antibody test that has greatly simplified case detection compared to older invasive splenic/bone-marrow aspirate methods\nTreatment: single-dose liposomal amphotericin B is now the preferred regimen — a major improvement over older, longer, more toxic regimens, improving both cure rates and treatment completion\nNational Kala-azar Elimination Programme target: fewer than 1 case per 10,000 population at the block level — the same “elimination as a public health problem” framing (a defined, measurable threshold) already seen for lymphatic filariasis and leprosy, rather than a claim of zero cases"
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#self-check-question-1",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#self-check-question-1",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nBlood samples for diagnosing lymphatic filariasis are conventionally collected at night because:\n\nThe parasite is only viable in cold blood\nMicrofilariae show nocturnal periodicity, circulating in peripheral blood mainly at night\nDaytime samples clot too quickly\nPatients are only available at night"
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#self-check-question-2",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#self-check-question-2",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nMass Drug Administration for lymphatic filariasis is given to:\n\nOnly patients with confirmed elephantiasis\nOnly patients with a positive blood test\nThe entire at-risk population in endemic districts, regardless of individual infection status\nOnly pregnant women"
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#self-check-question-3",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#self-check-question-3",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nKala-azar is transmitted by which vector?\n\nCulex mosquito\nAedes mosquito\nSandfly\nTick"
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#self-check-question-4",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#self-check-question-4",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nThe National Kala-azar Elimination Programme defines “elimination” as:\n\nZero cases nationally\nFewer than 1 case per 10,000 population at the block level\nA 50% reduction from baseline\nZero deaths, regardless of case count"
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#references",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#references",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "References",
+    "text": "References\n\nNational Centre for Vector Borne Diseases Control (NCVBDC), Ministry of Health & Family Welfare, Government of India — Elimination of Lymphatic Filariasis and National Kala-azar Elimination Programme guidelines.\nWorld Health Organization. Lymphatic Filariasis and Leishmaniasis — fact sheets.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for filariasis and kala-azar epidemiology."
+  },
+  {
+    "objectID": "diseases/cd/module12_filaria_kalaazar.html#thank-you",
+    "href": "diseases/cd/module12_filaria_kalaazar.html#thank-you",
+    "title": "Module 12: Lymphatic Filariasis and Kala-azar",
+    "section": "Thank You!",
+    "text": "Thank You!\nNext Module: Other Vaccine-Preventable and Miscellaneous Infections\n← Previous | Top | Communicable Diseases | Module 12/13 | Next →"
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#home",
+    "href": "diseases/cd/module13_other_infections.html#home",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Welcome",
+    "text": "Welcome\nOther Vaccine-Preventable and Miscellaneous Infections\nLearning Objectives:\n\nDescribe measles/rubella and India’s MR elimination goal\nIdentify diphtheria, pertussis, and meningococcal meningitis as UIP-preventable diseases\nDistinguish pandemic-potential respiratory viruses (influenza, COVID-19)\nExplain why neonatal tetanus elimination is verified at the district level\nRecognize trachoma, yaws, taeniasis/hydatid disease, and rickettsial disease as still-relevant neglected infections\n\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis closing module of the Selected Communicable Diseases series gathers the remaining NMC-listed infections that don’t individually warrant a full module — most already prevented by the same Universal Immunization Programme schedule introduced in Chapter 14, or controlled by the same water/sanitation and vector principles running throughout this series."
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#measles-rubella-and-mumps",
+    "href": "diseases/cd/module13_other_infections.html#measles-rubella-and-mumps",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Measles, Rubella, and Mumps",
+    "text": "Measles, Rubella, and Mumps\n🟢 MUST KNOW\n\nMeasles — a highly contagious paramyxovirus, spread by respiratory droplets; classic triad of fever, cough/coryza/ conjunctivitis, followed by a characteristic descending rash; complications (pneumonia, encephalitis) drive most measles deaths, especially in malnourished children\nRubella — usually mild in children, but infection during early pregnancy can cause Congenital Rubella Syndrome (CRS) — deafness, cataracts, heart defects — making rubella control a maternal/child health priority, not just a childhood-disease one\nMumps — parotid gland swelling; can rarely cause orchitis, meningitis, or pancreatitis\n\nIndia’s MR elimination goal: the MR vaccine (combined measles-rubella) is included in UIP specifically to interrupt transmission of both viruses together, since a single vaccine addresses two distinct public health problems (acute measles disease burden and CRS prevention) at once."
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#diphtheria-pertussis-and-meningococcal-meningitis",
+    "href": "diseases/cd/module13_other_infections.html#diphtheria-pertussis-and-meningococcal-meningitis",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Diphtheria, Pertussis, and Meningococcal Meningitis",
+    "text": "Diphtheria, Pertussis, and Meningococcal Meningitis\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\n\nDisease\nAgent\nKey feature\n\n\n\n\nDiphtheria\nCorynebacterium diphtheriae\nToxin-mediated; classic pseudomembrane in the throat can cause airway obstruction\n\n\nPertussis (whooping cough)\nBordetella pertussis\nParoxysmal coughing fits with a characteristic “whoop”; most dangerous in young infants\n\n\nMeningococcal meningitis\nNeisseria meningitidis\nCan progress to death within hours; close-contact chemoprophylaxis is used to prevent secondary cases\n\n\n\nShared control strategy: diphtheria and pertussis are both prevented by the pentavalent vaccine already introduced in Chapter 14’s immunization content — their grouping here is a reminder that a single UIP vaccine often prevents multiple diseases at once (DPT covers three).\nARI and SAANS: acute respiratory infections remain a leading cause of under-five mortality — India’s SAANS initiative (Social Awareness and Action to Neutralize Pneumonia Successfully) specifically targets childhood pneumonia reduction, extending the Under-Five Clinic’s curative-care role (Chapter 14) to this single leading cause."
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#influenza-and-covid-19",
+    "href": "diseases/cd/module13_other_infections.html#influenza-and-covid-19",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Influenza and COVID-19",
+    "text": "Influenza and COVID-19\n🟡 SHOULD KNOW\nBoth illustrate pandemic potential in a respiratory virus — the same International Health Regulations and PHEIC framework (Chapter 26) exists largely because of diseases like these:\n\nInfluenza — seasonal strains circulate yearly; avian influenza (e.g. H5N1) and H1N1 (“swine flu”) represent zoonotic spillover and pandemic strains with the potential to spread efficiently between humans, unlike typical seasonal strains\nCOVID-19 / SARS — coronaviruses causing severe acute respiratory syndrome; COVID-19’s 2020 declaration as a PHEIC is the most recent, largest-scale real-world example of the PHEIC mechanism described in Chapter 26, directly connecting that abstract legal framework to a pandemic every reader lived through\n\nWhy these are grouped as a pair: both demonstrate how a novel or zoonotic respiratory virus can escalate from a local cluster to a global health emergency, which is exactly the scenario IHR (2005) and its PHEIC mechanism were designed to manage."
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#neonatal-tetanus-elimination",
+    "href": "diseases/cd/module13_other_infections.html#neonatal-tetanus-elimination",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Neonatal Tetanus Elimination",
+    "text": "Neonatal Tetanus Elimination\n🟢 MUST KNOW\nAgent: Clostridium tetani, a spore-forming bacterium producing a potent neurotoxin; spores enter through wound contamination — classically, unhygienic cutting/care of the umbilical cord in newborns causes neonatal tetanus.\n\nMaternal and Neonatal Tetanus Elimination (MNTE) — prevented by maternal tetanus toxoid vaccination during pregnancy (passive antibody transfer to the newborn) combined with clean delivery and cord-care practices\nIndia was validated as having eliminated maternal and neonatal tetanus as a public health problem — verified using the same “elimination as a public health problem” threshold logic (not literal zero cases) already seen for filariasis, kala-azar, and leprosy\n\nWhy it belongs alongside RCH content: MNTE is as much a maternal/ newborn care success (Chapter 14’s antenatal and essential newborn care content) as it is a vaccine-preventable disease story."
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#neglected-infections-a-reference-table",
+    "href": "diseases/cd/module13_other_infections.html#neglected-infections-a-reference-table",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Neglected Infections: A Reference Table",
+    "text": "Neglected Infections: A Reference Table\n🟡 SHOULD KNOW\nLower-burden today, but still named in India’s communicable disease surveillance and worth recognizing:\n\n\n\n\n\n\n\n\nDisease\nAgent/cause\nKey feature\n\n\n\n\nTrachoma\nChlamydia trachomatis\nChronic conjunctival infection; repeated infection can cause blindness — a preventable cause alongside those in the Blindness module\n\n\nYaws\nTreponema pallidum pertenue\nA skin treponematosis (non-venereal); India was certified yaws-free in 2016\n\n\nTaeniasis / hydatid disease\nTaenia spp. / Echinococcus\nAcquired via undercooked pork/beef (taeniasis) or contact with infected dogs (hydatid) — food/animal-hygiene diseases\n\n\nRickettsial disease (scrub typhus)\nOrientia tsutsugamushi\nTransmitted by chigger mite bites; classic eschar (a black, crusted skin lesion) at the bite site aids diagnosis\n\n\n\nWhy these still matter for an exam, if not for daily practice everywhere: each represents a distinct transmission principle (ocular contact, congenital/direct contact, foodborne parasite, mite-borne rickettsia) worth being able to name even where prevalence is now low."
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#self-check-question-1",
+    "href": "diseases/cd/module13_other_infections.html#self-check-question-1",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Self-Check: Question 1",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nRubella infection is of particular public health concern specifically because:\n\nIt is more contagious than measles\nInfection during early pregnancy can cause Congenital Rubella Syndrome\nIt has no available vaccine\nIt only affects adults"
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#self-check-question-2",
+    "href": "diseases/cd/module13_other_infections.html#self-check-question-2",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Self-Check: Question 2",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nIndia’s SAANS initiative specifically targets:\n\nNeonatal tetanus\nChildhood pneumonia\nMeasles elimination\nRabies control"
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#self-check-question-3",
+    "href": "diseases/cd/module13_other_infections.html#self-check-question-3",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Self-Check: Question 3",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nMaternal and Neonatal Tetanus Elimination (MNTE) is achieved primarily through:\n\nAntibiotic prophylaxis for all newborns\nMaternal tetanus toxoid vaccination combined with clean delivery and cord-care practices\nUniversal newborn surgery\nIsolation of all pregnant women"
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#self-check-question-4",
+    "href": "diseases/cd/module13_other_infections.html#self-check-question-4",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Self-Check: Question 4",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nA classic black, crusted skin lesion (eschar) at a mite-bite site is associated with which disease?\n\nYaws\nTrachoma\nScrub typhus (rickettsial disease)\nTaeniasis"
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#references",
+    "href": "diseases/cd/module13_other_infections.html#references",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "References",
+    "text": "References\n\nGovernment of India, Universal Immunization Programme — MR vaccine, pentavalent vaccine schedule.\nMinistry of Health & Family Welfare, Government of India. SAANS initiative and Maternal and Neonatal Tetanus Elimination validation.\nWorld Health Organization. Measles, Diphtheria, Pertussis, Meningococcal Meningitis, Influenza, Trachoma, Yaws — fact sheets.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for these communicable disease topics."
+  },
+  {
+    "objectID": "diseases/cd/module13_other_infections.html#thank-you",
+    "href": "diseases/cd/module13_other_infections.html#thank-you",
+    "title": "Module 13: Other Vaccine-Preventable and Miscellaneous Infections",
+    "section": "Thank You!",
+    "text": "Thank You!\nBack to: Communicable Diseases\n← Previous | Top | Communicable Diseases | Module 13/13"
   }
 ]

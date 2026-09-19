@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](module4_poliomyelitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 5/6 | [Next →](module6_hospital_acquired_infections.html)"
+    footer: "[← Previous](module4_poliomyelitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 5/13 | [Next →](module6_hospital_acquired_infections.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -279,4 +279,4 @@ treatment plan?
 
 **Next Module:** Hospital-Acquired Infections
 
-[← Previous](module4_poliomyelitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 5/6 | [Next →](module6_hospital_acquired_infections.html)
+[← Previous](module4_poliomyelitis.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 5/13 | [Next →](module6_hospital_acquired_infections.html)
