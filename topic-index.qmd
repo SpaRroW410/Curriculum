@@ -24,6 +24,11 @@ which chapter it lives in. For a chapter-by-chapter view, see
 
 ## A
 
+**ABC-VED Analysis**\
+Inventory-management classification by consumption value (ABC) and
+criticality (VED).\
+[Ch 8 – Inventory Management](diseases/essential-medicines.qmd#inventory-management)
+
 **ASHA (Accredited Social Health Activist)**\
 Selection, roles, and responsibilities.\
 [Ch 25 – ASHA: Roles and Responsibilities](global/community-health.qmd#asha-roles-and-responsibilities)
@@ -54,11 +59,20 @@ India's flagship health assurance scheme and its two pillars.\
 
 ## B
 
+**BG Prasad Classification**\
+Socioeconomic scale based solely on per capita monthly family income.\
+[Ch 23 – Measuring Socioeconomic Status: Classification Scales](global/social-sciences.qmd#measuring-socioeconomic-status-classification-scales)
+
 **Bhore Committee (1946)**\
 [Ch 1 – The Bhore Committee (1946)](foundations/man-and-medicine.qmd#the-bhore-committee-1946)
 
 **Biomedical Waste Management Rules, 2016**\
 [Ch 17 – Biomedical Waste Management Rules, 2016](environment/waste-management.qmd#biomedical-waste-management-rules-2016)
+
+**Blindness**\
+WHO definition, leading causes (cataract), and NPCBVI.\
+[NCD Mod 5 – Defining and Measuring Blindness](diseases/ncd/module5_blindness.qmd#defining-and-measuring-blindness) ·
+[NCD Mod 5 – NPCBVI: India's National Programme](diseases/ncd/module5_blindness.qmd#npcbvi-indias-national-programme)
 
 **Body Mass Index (BMI)**\
 [Ch 9 – Body Mass Index (BMI)](diseases/nutrition.qmd#body-mass-index-bmi)
@@ -70,6 +84,11 @@ India's flagship health assurance scheme and its two pillars.\
 
 ## C
 
+**Cancer Epidemiology**\
+Patterns, levels of prevention, NCRP, and HPV vaccination.\
+[NCD Mod 4 – Patterns and Causes](diseases/ncd/module4_cancer.qmd#patterns-and-causes) ·
+[NCD Mod 4 – National Cancer Registry Programme](diseases/ncd/module4_cancer.qmd#national-cancer-registry-programme)
+
 **Case-Control Study**\
 [Ch 4 – Case-Control Study](foundations/epidemiologic-methods.qmd#case-control-study) ·
 [Ch 4 – Cohort vs. Case-Control](foundations/epidemiologic-methods.qmd#cohort-vs.-case-control) ·
@@ -78,6 +97,13 @@ India's flagship health assurance scheme and its two pillars.\
 
 **Chain of Infection**\
 [Ch 6 – The Chain of Infection](diseases/communicable-diseases.qmd#the-chain-of-infection)
+
+**Chi-Square Test**\
+[Ch 29 – Tests of Significance: Chi-Square Test](foundations/biostatistics.qmd#tests-of-significance-chi-square-test)
+
+**Chikungunya**\
+Distinguished clinically from dengue by severe arthralgia.\
+[CD Mod 10 – Chikungunya: Distinguishing from Dengue](diseases/cd/module10_vector_borne_fevers.qmd#chikungunya-distinguishing-from-dengue)
 
 **Chlorination**\
 [Water Mod 5 – Disinfection Method 2: Chlorination](environment/env_health/water/module5_water_treatment.qmd#disinfection-method-2-chlorination)
@@ -96,9 +122,19 @@ Down's, Klinefelter's, Turner's, XYY.\
 **Community Health Centre (CHC) / First Referral Unit (FRU)**\
 [Ch 25 – Community Health Centre: FRU vs. Non-FRU](global/community-health.qmd#community-health-centre-fru-vs.-non-fru)
 
+**Community-Based Rehabilitation (CBR) / Disability**\
+Impairment-disability-handicap sequence and the RPwD Act.\
+[Ch 25 – Disability and Community-Based Rehabilitation](global/community-health.qmd#disability-and-community-based-rehabilitation)
+
 **Concepts of Health: Four Models**\
 Biomedical, ecological, psychosocial, holistic.\
 [Ch 2 – Concepts of Health: Four Models](foundations/concept-health-disease.qmd#concepts-of-health-four-models)
+
+**Coronary Heart Disease vs. Rheumatic Heart Disease**\
+[NCD Mod 7 – Coronary Heart Disease vs. Rheumatic Heart Disease](diseases/ncd/module7_other_ncds.qmd#coronary-heart-disease-vs.-rheumatic-heart-disease)
+
+**Correlation and Regression**\
+[Ch 29 – Correlation and Regression](foundations/biostatistics.qmd#correlation-and-regression)
 
 **Confounding**\
 [Ch 4 – Confounding](foundations/epidemiologic-methods.qmd#confounding)
@@ -111,6 +147,11 @@ Biomedical, ecological, psychosocial, holistic.\
 [Ch 21 – DALY: Breaking Down the Formula](global/health-information.qmd#daly-breaking-down-the-formula) ·
 [Ch 21 – DALY vs. QALY](global/health-information.qmd#daly-vs.-qaly) ·
 [Ch 7 – Measuring NCD Burden: DALYs](diseases/ncd.qmd#measuring-ncd-burden-dalys)
+
+**Dengue**\
+Clinical spectrum, warning signs, DHF/DSS, and diagnosis.\
+[CD Mod 10 – Dengue: Clinical Spectrum](diseases/cd/module10_vector_borne_fevers.qmd#dengue-clinical-spectrum) ·
+[CD Mod 10 – Dengue: Diagnosis and Management](diseases/cd/module10_vector_borne_fevers.qmd#dengue-diagnosis-and-management)
 
 **Demographic Transition Model**\
 [Ch 13 – The Demographic Transition Model](programs/demography.qmd#the-demographic-transition-model)
@@ -186,11 +227,19 @@ Autonomy, beneficence, non-maleficence, justice.\
 
 ## H
 
+**Haddon Matrix**\
+Host/agent/environment crossed against pre-event/event/post-event.\
+[NCD Mod 6 – The Haddon Matrix](diseases/ncd/module6_injuries.qmd#the-haddon-matrix)
+
 **Health and Wellness Centres (HWC) / Community Health Officer (CHO)**\
 [Ch 25 – Health and Wellness Centres: The Community Health Officer](global/community-health.qmd#health-and-wellness-centres-the-community-health-officer)
 
 **Health Belief Model**\
 [Ch 22 – The Health Belief Model](global/health-education.qmd#the-health-belief-model)
+
+**Heat-Related Illness**\
+Heat cramps, heat exhaustion, heat stroke, and Heat Action Plans.\
+[Air Mod 1 – Heat-Related Illness](environment/env_health/air_health.qmd#heat-related-illness)
 
 **Hepatitis, Viral (A–E)**\
 Comparative transmission, chronicity, and prevention.\
@@ -199,6 +248,14 @@ Comparative transmission, chronicity, and prevention.\
 
 **Herd Immunity**\
 [Ch 6 – Herd Immunity](diseases/communicable-diseases.qmd#herd-immunity)
+
+**HIV/AIDS and NACP**\
+Transmission, ART/PMTCT, and India's National AIDS Control Programme.\
+[CD Mod 8 – Transmission and Natural History](diseases/cd/module8_hiv_stis.qmd#transmission-and-natural-history) ·
+[CD Mod 8 – India's National AIDS Control Programme (NACP)](diseases/cd/module8_hiv_stis.qmd#indias-national-aids-control-programme-nacp)
+
+**HPV Vaccination**\
+[NCD Mod 4 – HPV Vaccination and Cervical Cancer Prevention](diseases/ncd/module4_cancer.qmd#hpv-vaccination-and-cervical-cancer-prevention)
 
 **HMIS (Health Management Information System)**\
 [Ch 21 – Health Management Information System (HMIS)](global/health-information.qmd#health-management-information-system-hmis)
@@ -247,6 +304,10 @@ Mental capacity, disclosure, voluntariness, comprehension.\
 
 ## J
 
+**Japanese Encephalitis (JE)**\
+Culex-borne, pig/bird reservoir; vaccine available.\
+[CD Mod 10 – Japanese Encephalitis, Zika, and KFD](diseases/cd/module10_vector_borne_fevers.qmd#japanese-encephalitis-zika-and-kfd)
+
 **Jal Jeevan Mission**\
 [Water Mod 8 – Jal Jeevan Mission](environment/env_health/water/module8_safe_water_india.qmd#jal-jeevan-mission)
 
@@ -257,12 +318,29 @@ Mental capacity, disclosure, voluntariness, comprehension.\
 
 ## K
 
+**Kala-azar (Visceral Leishmaniasis)**\
+Sandfly-borne, rK39 diagnosis, and the National Elimination Programme.\
+[CD Mod 12 – Kala-azar (Visceral Leishmaniasis)](diseases/cd/module12_filaria_kalaazar.qmd#kala-azar-visceral-leishmaniasis)
+
 **Koch's Postulates**\
 [Ch 2 – Koch's Postulates](foundations/concept-health-disease.qmd#kochs-postulates)
+
+**Kuppuswamy Scale**\
+The most widely used urban socioeconomic classification scale in India.\
+[Ch 23 – Measuring Socioeconomic Status: Classification Scales](global/social-sciences.qmd#measuring-socioeconomic-status-classification-scales)
+
+**Kyasanur Forest Disease (KFD)**\
+Tick-borne; monkey deaths as a sentinel event.\
+[CD Mod 10 – Japanese Encephalitis, Zika, and KFD](diseases/cd/module10_vector_borne_fevers.qmd#japanese-encephalitis-zika-and-kfd)
 
 ---
 
 ## L
+
+**Leprosy**\
+PB/MB classification, multidrug therapy, NLEP, and SPARSH.\
+[CD Mod 9 – Agent, Transmission, and Classification](diseases/cd/module9_leprosy.qmd#agent-transmission-and-classification) ·
+[CD Mod 9 – NLEP and SPARSH](diseases/cd/module9_leprosy.qmd#nlep-and-sparsh)
 
 **Lathyrism**\
 Food-toxin (not deficiency) paralytic disease.\
@@ -287,6 +365,11 @@ several chapters.\
 **Low Birth Weight**\
 [Ch 9 – Low Birth Weight](diseases/nutrition.qmd#low-birth-weight)
 
+**Lymphatic Filariasis**\
+Nocturnal periodicity, Mass Drug Administration, and ELF.\
+[CD Mod 12 – Lymphatic Filariasis: Agent and Pathogenesis](diseases/cd/module12_filaria_kalaazar.qmd#lymphatic-filariasis-agent-and-pathogenesis) ·
+[CD Mod 12 – Elimination of Lymphatic Filariasis (ELF)](diseases/cd/module12_filaria_kalaazar.qmd#elimination-of-lymphatic-filariasis-elf)
+
 ---
 
 ## M
@@ -300,6 +383,21 @@ Life cycle, clinical types, diagnosis, treatment, NVBDCP.\
 [Ch 9 – Malnutrition: The Spectrum](diseases/nutrition.qmd#malnutrition-the-spectrum) ·
 [Ch 9 – Marasmus](diseases/nutrition.qmd#protein-energy-malnutrition-marasmus) ·
 [Ch 9 – Kwashiorkor](diseases/nutrition.qmd#protein-energy-malnutrition-kwashiorkor)
+
+**Mass Drug Administration (MDA)**\
+[CD Mod 12 – Elimination of Lymphatic Filariasis (ELF)](diseases/cd/module12_filaria_kalaazar.qmd#elimination-of-lymphatic-filariasis-elf)
+
+**Measles, Rubella, and Mumps**\
+Congenital Rubella Syndrome and India's MR elimination goal.\
+[CD Mod 13 – Measles, Rubella, and Mumps](diseases/cd/module13_other_infections.qmd#measles-rubella-and-mumps)
+
+**Measures of Central Tendency**\
+Mean, median, and mode.\
+[Ch 29 – Measures of Central Tendency](foundations/biostatistics.qmd#measures-of-central-tendency)
+
+**Measures of Dispersion**\
+Range, standard deviation, variance, coefficient of variation.\
+[Ch 29 – Measures of Dispersion](foundations/biostatistics.qmd#measures-of-dispersion)
 
 **Menstrual Hygiene Management (MHM)**\
 [Ch 28 – Menstrual Hygiene Management: A Worked Case Study](global/health-talks.qmd#menstrual-hygiene-management-a-worked-case-study)
@@ -317,12 +415,23 @@ Life cycle, clinical types, diagnosis, treatment, NVBDCP.\
 Gestational limits, indications, consent.\
 [Ch 13 – The MTP Act: Gestational Limits](programs/demography.qmd#the-mtp-act-gestational-limits)
 
+**Multidrug Therapy (MDT)**\
+Leprosy's PB/MB-specific drug regimens.\
+[CD Mod 9 – Multidrug Therapy (MDT)](diseases/cd/module9_leprosy.qmd#multidrug-therapy-mdt)
+
 **Multifactorial Causation**\
 [Ch 2 – Multifactorial Causation](foundations/concept-health-disease.qmd#multifactorial-causation)
 
 ---
 
 ## N
+
+**NACP (National AIDS Control Programme)**\
+[CD Mod 8 – India's National AIDS Control Programme (NACP)](diseases/cd/module8_hiv_stis.qmd#indias-national-aids-control-programme-nacp)
+
+**National Cancer Registry Programme (NCRP)**\
+PBCR vs. HBCR.\
+[NCD Mod 4 – National Cancer Registry Programme](diseases/ncd/module4_cancer.qmd#national-cancer-registry-programme)
 
 **National Health Mission (NHM)**\
 [Ch 11 – National Health Mission (NHM)](programs/health-programmes.qmd#national-health-mission-nhm)
@@ -333,12 +442,25 @@ Gestational limits, indications, consent.\
 **Natural History of Disease**\
 [Ch 2 – Natural History of Disease](foundations/concept-health-disease.qmd#natural-history-of-disease)
 
+**Neonatal Tetanus Elimination (MNTE)**\
+[CD Mod 13 – Neonatal Tetanus Elimination](diseases/cd/module13_other_infections.qmd#neonatal-tetanus-elimination)
+
 **Noise (Pollution)**\
 Properties, effects, control.\
 [Ch 16 – Noise: Definition and Sources](environment/env_health/radiation_health.qmd#noise-definition-and-sources)
 
+**Normal Distribution**\
+The 68-95-99.7 rule.\
+[Ch 29 – The Normal Distribution](foundations/biostatistics.qmd#the-normal-distribution)
+
 **NP-NCD (National Programme for Prevention and Control of NCDs)**\
 [Ch 7 – India's Response: NP-NCD](diseases/ncd.qmd#indias-response-np-ncd)
+
+**NPCBVI (National Programme for Control of Blindness and Visual Impairment)**\
+[NCD Mod 5 – NPCBVI: India's National Programme](diseases/ncd/module5_blindness.qmd#npcbvi-indias-national-programme)
+
+**NTEP (National TB Elimination Programme)**\
+[CD Mod 7 – NTEP: India's TB Elimination Programme](diseases/cd/module7_tuberculosis.qmd#ntep-indias-tb-elimination-programme)
 
 **Number Needed to Treat**\
 [Ch 4 – Number Needed to Treat](foundations/epidemiologic-methods.qmd#number-needed-to-treat)
@@ -363,6 +485,10 @@ Skin, lung, bladder, leukaemia by exposure.\
 
 ## P
 
+**Palliative Care**\
+Not limited to end-of-life care; community-based delivery.\
+[Ch 14 – Palliative Care](programs/preventive-medicine.qmd#palliative-care)
+
 **PHC (Primary Health Centre)**\
 Evolution (Bhore → Mudaliar → Alma-Ata) and functions.\
 [Ch 25 – Primary Health Centre: Evolution and Functions](global/community-health.qmd#primary-health-centre-evolution-and-functions)
@@ -370,6 +496,10 @@ Evolution (Bhore → Mudaliar → Alma-Ata) and functions.\
 **Poliomyelitis**\
 Clinical spectrum, IPV vs. OPV, AFP surveillance, India's eradication.\
 [CD Mod 4 – Agent, Reservoir, and Transmission](diseases/cd/module4_poliomyelitis.qmd#agent-reservoir-and-transmission)
+
+**Post-Exposure Prophylaxis (Rabies)**\
+WHO bite categories and the role of rabies immunoglobulin.\
+[CD Mod 11 – Post-Exposure Prophylaxis: Bite Categories](diseases/cd/module11_rabies_zoonoses.qmd#post-exposure-prophylaxis-bite-categories)
 
 **POSDCORB**\
 [Ch 24 – POSDCORB: Core Management Functions](global/health-planning.qmd#posdcorb-core-management-functions)
@@ -385,6 +515,11 @@ Clinical spectrum, IPV vs. OPV, AFP surveillance, India's eradication.\
 
 ## R
 
+**Rabies**\
+Post-exposure prophylaxis, RIG, and the National Rabies Control Programme.\
+[CD Mod 11 – Rabies: Why It Is Almost Always Fatal](diseases/cd/module11_rabies_zoonoses.qmd#rabies-why-it-is-almost-always-fatal) ·
+[CD Mod 11 – National Rabies Control Programme](diseases/cd/module11_rabies_zoonoses.qmd#national-rabies-control-programme)
+
 **Radiation, Ionizing and Non-Ionizing**\
 Sources, units, biological effects, protection.\
 [Ch 16 – Ionizing vs. Non-Ionizing Radiation](environment/env_health/radiation_health.qmd#ionizing-vs.-non-ionizing-radiation)
@@ -394,6 +529,10 @@ Sources, units, biological effects, protection.\
 
 **Rational Use of Medicines**\
 [Ch 8 – Rational Use of Medicines](diseases/essential-medicines.qmd#rational-use-of-medicines)
+
+**Road Traffic Injuries**\
+The Golden Hour and major risk factors.\
+[NCD Mod 6 – Road Traffic Injuries](diseases/ncd/module6_injuries.qmd#road-traffic-injuries)
 
 **Rh Incompatibility / Erythroblastosis Foetalis**\
 [Ch 20 – Rh Incompatibility and Erythroblastosis Foetalis](environment/genetics.qmd#rh-incompatibility-and-erythroblastosis-foetalis)
@@ -407,6 +546,14 @@ Sources, units, biological effects, protection.\
 
 ## S
 
+**Sampling Techniques**\
+Probability (simple random, systematic, stratified, cluster) vs. non-probability.\
+[Ch 29 – Sampling Techniques](foundations/biostatistics.qmd#sampling-techniques)
+
+**Scrub Typhus (Rickettsial Disease)**\
+Mite-borne; classic eschar at the bite site.\
+[CD Mod 13 – Neglected Infections: A Reference Table](diseases/cd/module13_other_infections.qmd#neglected-infections-a-reference-table)
+
 **SDGs (Sustainable Development Goals)**\
 [Ch 1 – From Health for All to the SDGs](foundations/man-and-medicine.qmd#from-health-for-all-to-the-sdgs) ·
 [Ch 12 – The Seventeen SDGs (2015–2030)](programs/mdg-sdg.qmd#the-seventeen-sustainable-development-goals-20152030) ·
@@ -419,11 +566,22 @@ Sources, units, biological effects, protection.\
 **Sick Role (Talcott Parsons)**\
 [Ch 23 – The Sick Role (Talcott Parsons)](global/social-sciences.qmd#the-sick-role-talcott-parsons)
 
+**Snakebite Envenoming**\
+First aid, Anti-Snake Venom, and NAPSE.\
+[Ch 19 – Snakebite Envenoming](environment/occupational-health.qmd#snakebite-envenoming)
+
 **Social Gradient of Health**\
 [Ch 1 – The Social Gradient of Health](foundations/man-and-medicine.qmd#the-social-gradient-of-health)
 
+**SPIKES Protocol**\
+Six-step framework for breaking bad news.\
+[Ch 27 – Breaking Bad News: The SPIKES Protocol](global/aetcom.qmd#breaking-bad-news-the-spikes-protocol)
+
 **SSF vs. RSF (Slow Sand vs. Rapid Sand Filtration)**\
 [Water Mod 5 – SSF vs RSF: Detailed Comparison](environment/env_health/water/module5_water_treatment.qmd#ssf-vs-rsf-detailed-comparison)
+
+**Standard Error and Confidence Intervals**\
+[Ch 29 – Standard Error and Confidence Intervals](foundations/biostatistics.qmd#standard-error-and-confidence-intervals)
 
 **Standardization (Direct and Indirect, SMR)**\
 [Ch 4 – Standardization: Direct and Indirect Methods](foundations/epidemiologic-methods.qmd#standardization-direct-and-indirect-methods)
@@ -441,9 +599,17 @@ Sources, units, biological effects, protection.\
 **Surveillance (Water Quality)**\
 [Water Mod 7 – The 11-Point Surveillance Framework](environment/env_health/water/module7_surveillance.qmd#the-11-point-surveillance-framework)
 
+**Syndromic Management (STIs)**\
+Treating by symptom cluster rather than lab confirmation.\
+[CD Mod 8 – Sexually Transmitted Infections: Syndromic Management](diseases/cd/module8_hiv_stis.qmd#sexually-transmitted-infections-syndromic-management)
+
 ---
 
 ## T
+
+**t-test**\
+Paired vs. unpaired; compares means of continuous data.\
+[Ch 29 – Tests of Significance: The t-test](foundations/biostatistics.qmd#tests-of-significance-the-t-test)
 
 **Thalassemia**\
 [Ch 20 – Thalassemia in India](environment/genetics.qmd#thalassemia-in-india)
@@ -455,11 +621,20 @@ Why maternal deaths happen, not just how many.\
 **Three-Tier Rural Health Infrastructure**\
 [Ch 25 – India's Three-Tier Rural Health Infrastructure](global/community-health.qmd#indias-three-tier-rural-health-infrastructure)
 
+**Tobacco Control**\
+NTCP, COTPA, and WHO FCTC.\
+[NCD Mod 7 – Tobacco Control: A Cross-Cutting Intervention](diseases/ncd/module7_other_ncds.qmd#tobacco-control-a-cross-cutting-intervention)
+
 **Total Fertility Rate**\
 [Ch 13 – Total Fertility Rate](programs/demography.qmd#total-fertility-rate)
 
 **Tribal Health / PVTGs**\
 [Ch 15 – Particularly Vulnerable Tribal Groups (PVTGs)](programs/tribal-health.qmd#particularly-vulnerable-tribal-groups-pvtgs)
+
+**Tuberculosis**\
+Primary vs. post-primary TB, diagnosis, DOTS, and NTEP.\
+[CD Mod 7 – Burden and Transmission](diseases/cd/module7_tuberculosis.qmd#burden-and-transmission) ·
+[CD Mod 7 – Treatment: Regimen and DOTS](diseases/cd/module7_tuberculosis.qmd#treatment-regimen-and-dots)
 
 **Typhoid Fever**\
 [CD Mod 2 – Typhoid Fever: Agent and Reservoir](diseases/cd/module2_typhoid_cholera.qmd#typhoid-fever-agent-and-reservoir)
@@ -502,3 +677,11 @@ Live attenuated, killed, toxoid, subunit.\
 
 **Wilson and Jungner Criteria (1968)**\
 [Ch 5 – Wilson and Jungner Criteria (1968)](foundations/screening.qmd#wilson-and-jungner-criteria-1968)
+
+---
+
+## Z
+
+**Zika Virus**\
+Aedes-borne; congenital microcephaly risk.\
+[CD Mod 10 – Japanese Encephalitis, Zika, and KFD](diseases/cd/module10_vector_borne_fevers.qmd#japanese-encephalitis-zika-and-kfd)
