@@ -45,60 +45,76 @@
     <lastmod>2026-09-08T08:05:16.537Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/waste-management.html</loc>
-    <lastmod>2026-09-13T05:27:42.624Z</lastmod>
+    <loc>index.qmd/foundations/biostatistics.html</loc>
+    <lastmod>2026-09-19T17:29:09.160Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/genetics.html</loc>
-    <lastmod>2026-09-13T05:36:23.908Z</lastmod>
+    <loc>index.qmd/environment/occupational-health.html</loc>
+    <lastmod>2026-09-19T17:48:26.184Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/water/module9_quiz.html</loc>
-    <lastmod>2026-09-07T05:31:14.236Z</lastmod>
+    <loc>index.qmd/environment/environment-health.html</loc>
+    <lastmod>2026-09-08T07:51:11.596Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/water/module7_surveillance.html</loc>
+    <loc>index.qmd/environment/env_health/water/module8_safe_water_india.html</loc>
     <lastmod>2026-09-07T05:31:14.235Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/water/module5_water_treatment.html</loc>
+    <loc>index.qmd/environment/env_health/water/module6_pollution_diseases.html</loc>
     <lastmod>2026-09-07T05:31:14.235Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/water/module3_water_quality.html</loc>
-    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+    <loc>index.qmd/environment/env_health/water/module4_water_sources.html</loc>
+    <lastmod>2026-09-07T05:31:14.234Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/radiation_health.html</loc>
-    <lastmod>2026-09-13T05:30:25.844Z</lastmod>
+    <loc>index.qmd/environment/env_health/water.html</loc>
+    <lastmod>2026-08-28T09:27:29.295Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/module1_one_health.html</loc>
-    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+    <loc>index.qmd/environment/env_health/module2_environment_health.html</loc>
+    <lastmod>2026-09-08T07:56:26.744Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/air_health.html</loc>
-    <lastmod>2026-09-19T17:51:01.200Z</lastmod>
+    <loc>index.qmd/environment/env_health/light_health.html</loc>
+    <lastmod>2026-09-13T05:23:51.996Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/nutrition.html</loc>
-    <lastmod>2026-09-19T17:53:02.764Z</lastmod>
+    <loc>index.qmd/environment/disaster-management.html</loc>
+    <lastmod>2026-09-13T05:28:02.228Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/ncd/module3_stroke.html</loc>
-    <lastmod>2026-09-19T17:44:49.836Z</lastmod>
+    <loc>index.qmd/diseases/ncd_modules.html</loc>
+    <lastmod>2026-09-19T17:45:10.512Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/ncd/module1_diabetes.html</loc>
-    <lastmod>2026-09-19T17:44:35.694Z</lastmod>
+    <loc>index.qmd/diseases/ncd/module6_injuries.html</loc>
+    <lastmod>2026-09-19T17:43:33.680Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/mental-health.html</loc>
-    <lastmod>2026-09-08T08:05:16.515Z</lastmod>
+    <loc>index.qmd/diseases/ncd/module4_cancer.html</loc>
+    <lastmod>2026-09-19T17:41:57.748Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/communicable-diseases.html</loc>
-    <lastmod>2026-09-18T11:52:14.086Z</lastmod>
+    <loc>index.qmd/diseases/ncd/module2_hypertension.html</loc>
+    <lastmod>2026-09-19T17:44:35.696Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/ncd.html</loc>
+    <lastmod>2026-09-08T08:05:16.517Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/essential-medicines.html</loc>
+    <lastmod>2026-09-19T17:52:17.188Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/cd/module9_leprosy.html</loc>
+    <lastmod>2026-09-19T17:35:06.272Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/cd/module7_tuberculosis.html</loc>
+    <lastmod>2026-09-19T17:33:39.412Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/diseases/cd/module5_food_poisoning.html</loc>
@@ -113,6 +129,14 @@
     <lastmod>2026-09-19T17:39:50.101Z</lastmod>
   </url>
   <url>
+    <loc>index.qmd/diseases/cd/module12_filaria_kalaazar.html</loc>
+    <lastmod>2026-09-19T17:38:32.760Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/cd/module10_vector_borne_fevers.html</loc>
+    <lastmod>2026-09-19T17:36:34.260Z</lastmod>
+  </url>
+  <url>
     <loc>index.qmd/assets/references.html</loc>
     <lastmod>2026-08-28T09:27:29.052Z</lastmod>
   </url>
@@ -123,6 +147,14 @@
   <url>
     <loc>index.qmd/diseases/cd.html</loc>
     <lastmod>2026-09-19T17:40:33.948Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/cd/module11_rabies_zoonoses.html</loc>
+    <lastmod>2026-09-19T17:37:30.296Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/diseases/cd/module13_other_infections.html</loc>
+    <lastmod>2026-09-19T17:39:30.920Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/diseases/cd/module2_typhoid_cholera.html</loc>
@@ -137,56 +169,72 @@
     <lastmod>2026-09-19T17:40:03.748Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/essential-medicines.html</loc>
-    <lastmod>2026-09-19T17:52:17.188Z</lastmod>
+    <loc>index.qmd/diseases/cd/module8_hiv_stis.html</loc>
+    <lastmod>2026-09-19T17:34:24.780Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/ncd.html</loc>
-    <lastmod>2026-09-08T08:05:16.517Z</lastmod>
+    <loc>index.qmd/diseases/communicable-diseases.html</loc>
+    <lastmod>2026-09-18T11:52:14.086Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/ncd/module2_hypertension.html</loc>
-    <lastmod>2026-09-19T17:44:35.696Z</lastmod>
+    <loc>index.qmd/diseases/mental-health.html</loc>
+    <lastmod>2026-09-08T08:05:16.515Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/diseases/ncd_modules.html</loc>
-    <lastmod>2026-09-19T17:45:10.512Z</lastmod>
+    <loc>index.qmd/diseases/ncd/module1_diabetes.html</loc>
+    <lastmod>2026-09-19T17:44:35.694Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/disaster-management.html</loc>
-    <lastmod>2026-09-13T05:28:02.228Z</lastmod>
+    <loc>index.qmd/diseases/ncd/module3_stroke.html</loc>
+    <lastmod>2026-09-19T17:44:49.836Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/light_health.html</loc>
-    <lastmod>2026-09-13T05:23:51.996Z</lastmod>
+    <loc>index.qmd/diseases/ncd/module5_blindness.html</loc>
+    <lastmod>2026-09-19T17:42:34.024Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/module2_environment_health.html</loc>
-    <lastmod>2026-09-08T07:56:26.744Z</lastmod>
+    <loc>index.qmd/diseases/ncd/module7_other_ncds.html</loc>
+    <lastmod>2026-09-19T17:44:18.548Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/water.html</loc>
-    <lastmod>2026-08-28T09:27:29.295Z</lastmod>
+    <loc>index.qmd/diseases/nutrition.html</loc>
+    <lastmod>2026-09-19T17:53:02.764Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/water/module4_water_sources.html</loc>
-    <lastmod>2026-09-07T05:31:14.234Z</lastmod>
+    <loc>index.qmd/environment/env_health/air_health.html</loc>
+    <lastmod>2026-09-19T17:51:01.200Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/water/module6_pollution_diseases.html</loc>
+    <loc>index.qmd/environment/env_health/module1_one_health.html</loc>
+    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/radiation_health.html</loc>
+    <lastmod>2026-09-13T05:30:25.844Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water/module3_water_quality.html</loc>
+    <lastmod>2026-09-07T05:31:14.233Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/env_health/water/module5_water_treatment.html</loc>
     <lastmod>2026-09-07T05:31:14.235Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/env_health/water/module8_safe_water_india.html</loc>
+    <loc>index.qmd/environment/env_health/water/module7_surveillance.html</loc>
     <lastmod>2026-09-07T05:31:14.235Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/environment-health.html</loc>
-    <lastmod>2026-09-08T07:51:11.596Z</lastmod>
+    <loc>index.qmd/environment/env_health/water/module9_quiz.html</loc>
+    <lastmod>2026-09-07T05:31:14.236Z</lastmod>
   </url>
   <url>
-    <loc>index.qmd/environment/occupational-health.html</loc>
-    <lastmod>2026-09-19T17:48:26.184Z</lastmod>
+    <loc>index.qmd/environment/genetics.html</loc>
+    <lastmod>2026-09-13T05:36:23.908Z</lastmod>
+  </url>
+  <url>
+    <loc>index.qmd/environment/waste-management.html</loc>
+    <lastmod>2026-09-13T05:27:42.624Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/foundations/concept-health-disease.html</loc>
@@ -218,7 +266,7 @@
   </url>
   <url>
     <loc>index.qmd/intro.html</loc>
-    <lastmod>2026-09-08T08:08:49.472Z</lastmod>
+    <lastmod>2026-09-19T17:29:49.992Z</lastmod>
   </url>
   <url>
     <loc>index.qmd/programs/demography.html</loc>
@@ -231,53 +279,5 @@
   <url>
     <loc>index.qmd/programs/tribal-health.html</loc>
     <lastmod>2026-09-13T05:30:05.232Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/foundations/biostatistics.html</loc>
-    <lastmod>2026-09-19T17:29:09.160Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/cd/module7_tuberculosis.html</loc>
-    <lastmod>2026-09-19T17:33:39.412Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/cd/module8_hiv_stis.html</loc>
-    <lastmod>2026-09-19T17:34:24.780Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/cd/module9_leprosy.html</loc>
-    <lastmod>2026-09-19T17:35:06.272Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/cd/module10_vector_borne_fevers.html</loc>
-    <lastmod>2026-09-19T17:36:34.260Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/cd/module11_rabies_zoonoses.html</loc>
-    <lastmod>2026-09-19T17:37:30.296Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/cd/module12_filaria_kalaazar.html</loc>
-    <lastmod>2026-09-19T17:38:32.760Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/cd/module13_other_infections.html</loc>
-    <lastmod>2026-09-19T17:39:30.920Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/ncd/module4_cancer.html</loc>
-    <lastmod>2026-09-19T17:41:57.748Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/ncd/module5_blindness.html</loc>
-    <lastmod>2026-09-19T17:42:34.024Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/ncd/module6_injuries.html</loc>
-    <lastmod>2026-09-19T17:43:33.680Z</lastmod>
-  </url>
-  <url>
-    <loc>index.qmd/diseases/ncd/module7_other_ncds.html</loc>
-    <lastmod>2026-09-19T17:44:18.548Z</lastmod>
   </url>
 </urlset>
