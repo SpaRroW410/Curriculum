@@ -1,0 +1,223 @@
+---
+title: "Module 7: Other Significant NCDs"
+subtitle: "Coronary and Rheumatic Heart Disease, COPD, CKD, Deafness, and Oral Health"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module6_injuries.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 7/7"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Other Significant NCDs
+
+**Learning Objectives:**
+
+- Distinguish coronary heart disease from rheumatic heart disease
+- Describe COPD and chronic kidney disease as major NCD contributors
+- Outline India's deafness and oral health programmes
+- Recognize tobacco control as a cross-cutting NCD intervention
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This closing module of the Selected NCDs series gathers several
+NMC-listed conditions that share risk-factor overlap with diabetes,
+hypertension, and stroke (already covered) without individually
+needing a full module of their own.
+:::
+
+---
+
+## Coronary Heart Disease vs. Rheumatic Heart Disease {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Both affect the heart, but arise through entirely different mechanisms
+— a frequently tested distinction:
+
+| Feature | Coronary Heart Disease (CHD) | Rheumatic Heart Disease (RHD) |
+|---|---|---|
+| **Mechanism** | Atherosclerotic narrowing of coronary arteries | Autoimmune damage to heart valves following **untreated streptococcal throat infection** (rheumatic fever) |
+| **Risk factors** | Hypertension, diabetes, smoking, dyslipidaemia (shared with stroke, Module 3) | Overcrowding, poor access to antibiotic treatment for strep throat |
+| **Population pattern** | Rising with urbanization and NCD risk-factor prevalence | Declining with improved living standards and antibiotic access, but still significant in lower-resource settings |
+
+**Why RHD is particularly a "social" NCD:** unlike CHD's individual
+risk-factor profile, RHD's root cause is a **treatable childhood
+infection** — meaning its persistence reflects healthcare access
+gaps as much as any biological risk factor.
+
+---
+
+## COPD and Chronic Kidney Disease {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Chronic Obstructive Pulmonary Disease (COPD)** — progressive
+  airflow limitation, strongly linked to **tobacco smoking** and, in
+  India specifically, **indoor air pollution from solid-fuel cooking**
+  (a direct link to Chapter 16's household air pollution content) —
+  making COPD risk gendered, since women who cook are disproportionately
+  exposed
+- **Chronic Kidney Disease (CKD)** — progressive, irreversible kidney
+  function decline; **diabetes and hypertension are the leading
+  causes** (recall Modules 1 and 2's complications content), making CKD
+  less a standalone disease than a shared downstream consequence of
+  the NCD risk factors already covered throughout this series
+
+**Why grouping these together matters:** neither disease has a single
+dominant cause the way, say, rheumatic heart disease does — both
+emerge from the same overlapping web of tobacco, air pollution, and
+metabolic risk factors running through this entire module series.
+
+---
+
+## Deafness and Oral Health {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **National Programme for Prevention and Control of Deafness (NPPCD)**
+  — addresses hearing loss through early screening (including newborn
+  hearing screening), treatment of correctable causes (chronic ear
+  infection, wax impaction), and hearing aid provision
+- **National Oral Health Programme (NOHP)** — addresses dental caries
+  and periodontal disease, integrating oral health screening into
+  general primary care rather than treating it as a separate
+  specialty concern
+
+**Shared pattern with the rest of this module:** both conditions are
+common, often under-prioritized relative to their disease burden, and
+addressed through **screening integrated into the general health
+system** — the same primary-care integration principle already seen
+throughout this curriculum (NLEP, DMHP, NPCBVI).
+
+---
+
+## Tobacco Control: A Cross-Cutting Intervention {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Tobacco doesn't belong to just one disease in this module — it is a
+shared risk factor for CHD, COPD, and multiple cancers (Module 4)
+simultaneously, which is why India addresses it through its own
+dedicated legal and programmatic framework:
+
+- **National Tobacco Control Programme (NTCP)** — awareness, cessation
+  services, and enforcement support
+- **COTPA (Cigarettes and Other Tobacco Products Act)** — India's core
+  tobacco-control legislation: bans smoking in public places, prohibits
+  tobacco advertising, mandates pictorial health warnings on packaging
+- **WHO Framework Convention on Tobacco Control (FCTC)** — the
+  international treaty India is party to, providing the global
+  policy architecture (taxation, advertising bans, packaging
+  requirements) that COTPA implements domestically
+
+**Why tobacco control is treated as its own topic, not folded into
+any one disease:** a single successful tobacco-control policy
+simultaneously reduces CHD, COPD, and cancer risk at once — a rare
+example of one intervention addressing three separate disease burdens
+in this curriculum simultaneously.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Rheumatic heart disease results from:
+
+- Atherosclerotic narrowing of coronary arteries
+- [Autoimmune damage to heart valves following untreated streptococcal throat infection]{.correct data-explanation="RHD arises from an autoimmune reaction to rheumatic fever, itself a consequence of untreated strep throat -- a fundamentally different mechanism from coronary heart disease's atherosclerotic process."}
+- Chronic tobacco exposure
+- Diabetic complications
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+In India specifically, which additional exposure (beyond tobacco
+smoking) raises COPD risk, especially among women?
+
+- Excess dietary salt
+- [Indoor air pollution from solid-fuel cooking]{.correct data-explanation="Household air pollution from solid-fuel cooking is a major COPD risk factor in India, disproportionately affecting women who do most of the cooking -- connecting directly to the household air pollution content in the Environment section."}
+- High-altitude living
+- Excess physical activity
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+The two leading causes of chronic kidney disease are:
+
+- Tobacco use and alcohol
+- [Diabetes and hypertension]{.correct data-explanation="Diabetes and hypertension are the leading causes of CKD, making it less a standalone disease than a downstream consequence of the same metabolic risk factors covered in the diabetes and hypertension modules."}
+- Rheumatic fever and COPD
+- Cancer and cataract
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+India's core tobacco-control legislation, banning smoking in public
+places and mandating pictorial warnings, is:
+
+- NTCP
+- WHO FCTC
+- [COTPA (Cigarettes and Other Tobacco Products Act)]{.correct data-explanation="COTPA is India's domestic tobacco-control law implementing bans on public smoking, advertising restrictions, and mandatory pictorial health warnings -- distinct from NTCP (the programme) and WHO FCTC (the international treaty)."}
+- NPPCD
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Ministry of Health & Family Welfare, Government of India. *National
+   Programme for Prevention and Control of Deafness*, *National Oral
+   Health Programme*, and *National Tobacco Control Programme*.
+2. World Health Organization. *Rheumatic Heart Disease*, *Chronic
+   Obstructive Pulmonary Disease*, *Chronic Kidney Disease* — fact
+   sheets; *WHO Framework Convention on Tobacco Control*.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for these NCD topics.
+
+---
+
+## Thank You!
+
+**Back to:** Chronic Non-Communicable Diseases
+
+[← Previous](module6_injuries.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 7/7

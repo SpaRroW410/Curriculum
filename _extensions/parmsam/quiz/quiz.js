@@ -76,7 +76,12 @@ window.RevealQuiz = function () {
       deck.addKeyBinding({ keyCode: settings.checkKeyCode, key: settings.checkKey }, () => {
         let currentSlide = deck.getCurrentSlide();
         let checkBtn = currentSlide.querySelector('.check-button');
-        checkBtn.click();
+        // Single-choice questions no longer render a Check button (they check
+        // immediately on option click), so this shortcut only applies where
+        // one still exists (multi-select questions).
+        if (checkBtn) {
+          checkBtn.click();
+        }
       });
 
       settings.resetKey = options.resetKey ? options.resetKey.toLowerCase() : "r";
@@ -141,80 +146,30 @@ window.RevealQuiz = function () {
             selectedOptions = [];
             isAnswered = false;
             cloneFeedbackElement.textContent = '';
+            if (window.__revealAutosizeRefit) {
+              window.__revealAutosizeRefit();
+            }
           };
-          
-          options.forEach(option => {
-            option.addEventListener('click', function () {
-              if (!isAnswered) {
-                if (isMultipleChoice) {
-                  // Multiple choice: toggle selection
-                  if (this.classList.contains('selected')) {
-                    this.classList.remove('selected');
-                    selectedOptions = selectedOptions.filter(opt => opt !== this);
-                  } else {
-                    this.classList.add('selected');
-                    selectedOptions.push(this);
-                  }
-                } else {
-                  // Single choice: only one selection allowed
-                  options.forEach(opt => opt.classList.remove('selected'));
-                  this.classList.add('selected');
-                  selectedOptions = [this];
-                }
-                checkButton.disabled = selectedOptions.length === 0;
-              }
-            });
-          });
-          if (!settings.disableReset) {
-            cloneResetBtn.addEventListener('click', () => {
-              console.log("clicked reset");
-              cloneCheckBtn.disabled = false;
-              resetQuiz();
-            });
-          }
-          clonePrevBtn.addEventListener('click', () => {
-            console.log("clicked prev slide")
-            deck.prev();
-          });
-          cloneNextBtn.addEventListener('click', () => {
-            console.log("clicked next slide")
-            deck.next();
-          });
-          slide.appendChild(cloneButtonContainer);
-          cloneButtonContainer.appendChild(cloneCheckBtn);
-          cloneButtonContainer.appendChild(cloneResetBtn);
-          cloneButtonContainer.appendChild(clonePrevBtn);
-          cloneButtonContainer.appendChild(cloneNextBtn);
 
-          slide.appendChild(cloneFeedbackElement);
-
-          if (settings.includeScore) {
-            let scoreElement = document.createElement('div');
-            scoreElement.classList.add('score');
-            slide.appendChild(scoreElement);
-            updateScore(deck, scoreElement, correctCount, totalCount);
-          }
-
-          cloneCheckBtn.addEventListener('click', function () {
-            console.log("clicked check")
+          function checkAnswer() {
             if (selectedOptions.length > 0 && !isAnswered) {
               isAnswered = true;
-              
+
               if (isMultipleChoice) {
                 // Multiple choice logic: check if ALL correct answers are selected AND no incorrect answers
-                let correctOptions = Array.from(options).filter(opt => 
+                let correctOptions = Array.from(options).filter(opt =>
                   opt.querySelector('span') && opt.querySelector('span').classList.contains('correct')
                 );
-                
-                let selectedCorrect = selectedOptions.filter(opt => 
+
+                let selectedCorrect = selectedOptions.filter(opt =>
                   opt.querySelector('span') && opt.querySelector('span').classList.contains('correct')
                 );
-                let selectedIncorrect = selectedOptions.filter(opt => 
+                let selectedIncorrect = selectedOptions.filter(opt =>
                   !(opt.querySelector('span') && opt.querySelector('span').classList.contains('correct'))
                 );
-                
+
                 let isFullyCorrect = selectedCorrect.length === correctOptions.length && selectedIncorrect.length === 0;
-                
+
                 // Mark all options as correct or incorrect
                 options.forEach(opt => {
                   if (opt.querySelector('span') && opt.querySelector('span').classList.contains('correct')) {
@@ -223,7 +178,7 @@ window.RevealQuiz = function () {
                     opt.classList.add('incorrect');
                   }
                 });
-                
+
                 if (isFullyCorrect) {
                   cloneFeedbackElement.textContent = settings.defaultCorrect || "Correct! You selected all the right answers.";
                   cloneFeedbackElement.style.color = '#27ae60';
@@ -233,7 +188,7 @@ window.RevealQuiz = function () {
                   cloneFeedbackElement.style.color = '#c0392b';
                 }
               } else {
-                // Single choice logic (original)
+                // Single choice logic
                 let selectedOption = selectedOptions[0];
                 let isCorrect = selectedOption.querySelector('span') && selectedOption.querySelector('span').classList.contains('correct');
                 let hasExplanation = selectedOption.querySelector('span') && selectedOption.querySelector('span').hasAttribute('data-explanation');
@@ -262,7 +217,11 @@ window.RevealQuiz = function () {
                 });
               }
 
-              if (settings.disableOnCheck) {
+              // Single-choice questions auto-check on option click, so they always lock
+              // after answering (Reset is required to try again) regardless of
+              // disableOnCheck -- that setting only still applies to the multi-select
+              // path, which keeps using an explicit Check button click.
+              if (!isMultipleChoice || settings.disableOnCheck) {
                 cloneCheckBtn.disabled = true;
                 cloneResetBtn.disabled = false;
                 cloneNextBtn.disabled = false;
@@ -273,14 +232,84 @@ window.RevealQuiz = function () {
                 options.forEach(opt => opt.disabled = false);
               }
 
-              if(settings.disableReset){
+              if (settings.disableReset) {
                 cloneResetBtn.disabled = true;
               }
-            
-              if (settings.includeScore){
+
+              if (settings.includeScore) {
                 cloneResetBtn.disabled = true;
+              }
+
+              // Feedback/explanation text is inserted after the slide's
+              // initial autosize fit already ran, and can overflow past the
+              // footer -- ask the autosize plugin to re-fit now that the
+              // DOM has settled.
+              if (window.__revealAutosizeRefit) {
+                window.__revealAutosizeRefit();
               }
             }
+          };
+
+          options.forEach(option => {
+            option.addEventListener('click', function () {
+              if (!isAnswered) {
+                if (isMultipleChoice) {
+                  // Multiple choice: toggle selection
+                  if (this.classList.contains('selected')) {
+                    this.classList.remove('selected');
+                    selectedOptions = selectedOptions.filter(opt => opt !== this);
+                  } else {
+                    this.classList.add('selected');
+                    selectedOptions.push(this);
+                  }
+                } else {
+                  // Single choice: only one selection allowed, and checks immediately
+                  options.forEach(opt => opt.classList.remove('selected'));
+                  this.classList.add('selected');
+                  selectedOptions = [this];
+                  checkAnswer();
+                }
+              }
+            });
+          });
+          if (!settings.disableReset) {
+            cloneResetBtn.addEventListener('click', () => {
+              console.log("clicked reset");
+              cloneCheckBtn.disabled = false;
+              resetQuiz();
+            });
+          }
+          clonePrevBtn.addEventListener('click', () => {
+            console.log("clicked prev slide")
+            deck.prev();
+          });
+          cloneNextBtn.addEventListener('click', () => {
+            console.log("clicked next slide")
+            deck.next();
+          });
+          slide.appendChild(cloneButtonContainer);
+          // Single-choice questions check immediately on option click, so the
+          // Check button would be redundant -- only show it for multi-select
+          // questions, which need multiple picks before checking makes sense.
+          if (isMultipleChoice) {
+            cloneButtonContainer.appendChild(cloneCheckBtn);
+          }
+          cloneButtonContainer.appendChild(cloneResetBtn);
+          cloneButtonContainer.appendChild(clonePrevBtn);
+          cloneButtonContainer.appendChild(cloneNextBtn);
+
+          slide.appendChild(cloneFeedbackElement);
+
+          if (settings.includeScore) {
+            let scoreElement = document.createElement('div');
+            scoreElement.classList.add('score');
+            slide.appendChild(scoreElement);
+            updateScore(deck, scoreElement, correctCount, totalCount);
+          }
+
+          cloneCheckBtn.addEventListener('click', function () {
+            console.log("clicked check");
+            checkAnswer();
           });
 
           if (settings.allowNumberKeys) {

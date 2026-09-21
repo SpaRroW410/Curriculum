@@ -1,0 +1,408 @@
+---
+title: "Chapter 29: Basic Biostatistics"
+subtitle: "Data, Central Tendency, Dispersion, and Tests of Significance"
+format:
+  revealjs:
+    theme: serif
+    css: ../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](../global/health-talks.html) | [Top](#home) | [Contents](../intro.html) | Chapter 29/29"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Basic Biostatistics
+
+**Learning Objectives:**
+
+- Distinguish qualitative from quantitative data and choose an
+  appropriate presentation method
+- Calculate and interpret the mean, median, and mode
+- Calculate and interpret the range, standard deviation, and
+  coefficient of variation
+- Describe the properties of the normal distribution
+- Distinguish probability from non-probability sampling techniques
+- Apply the t-test and chi-square test to appropriate data types
+- Distinguish correlation from regression
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This chapter gives the statistical toolkit that Chapter 3's rates and
+ratios, Chapter 4's study designs, and Chapter 5's screening validity
+measures all quietly assume — the numbers behind the numbers. It closes
+the curriculum as its own standalone subject area, since NMC's CBME
+blueprint treats basic biostatistics as a distinct competency domain
+from epidemiology itself.
+:::
+
+---
+
+## Types of Data {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Choosing the right statistical technique starts with knowing what kind
+of data you have:
+
+- **Qualitative (categorical) data** — describes a quality/attribute,
+  not a quantity
+  - **Nominal** — unordered categories (blood group, sex, religion)
+  - **Ordinal** — ordered categories without equal intervals (mild/
+    moderate/severe; socioeconomic class)
+- **Quantitative (numerical) data** — measured on a numeric scale
+  - **Discrete** — whole-number counts only (number of children, number
+    of episodes of diarrhoea)
+  - **Continuous** — any value within a range (height, blood pressure,
+    haemoglobin level)
+
+**Why this distinction matters first:** it determines everything that
+follows — which measure of central tendency is meaningful, which chart
+type applies, and which test of significance is valid for that data
+type.
+
+---
+
+## Presenting Data {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Raw data must be organized before it can be interpreted — the same
+"choosing the right format" logic already introduced for population
+health data (Chapter 21), applied here to any dataset:
+
+- **Tables** — precise values, ordered rows/columns, the basis for
+  every other presentation format
+- **Bar diagram** — compares categories (qualitative or discrete data);
+  bar height/length represents frequency
+- **Pie chart** — shows proportions of a whole
+- **Histogram** — for continuous data grouped into class intervals;
+  unlike a bar diagram, bars touch since the underlying scale is
+  continuous
+- **Line diagram** — shows a trend over time (e.g. monthly disease
+  incidence)
+
+**Exam tip:** a histogram's bars touch; a bar diagram's bars don't —
+this single visual distinction encodes the deeper point that histograms
+represent a continuous scale with no natural gaps between categories.
+
+---
+
+## Measures of Central Tendency {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Three ways to describe a "typical" value in a dataset, each suited to
+different circumstances:
+
+- **Mean** — the arithmetic average (sum of values ÷ number of values);
+  uses every value, but is **pulled toward outliers/skewed data**
+- **Median** — the middle value when data is arranged in order; **not
+  affected by extreme outliers**, making it the better choice for
+  skewed distributions (e.g. income, hospital length of stay)
+- **Mode** — the most frequently occurring value; the only measure of
+  central tendency usable for **nominal (categorical) data**
+
+**Choosing between them:** symmetric, non-skewed continuous data → mean;
+skewed continuous data or data with outliers → median; categorical data
+→ mode.
+
+---
+
+## Measures of Dispersion {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Central tendency alone can be misleading — two datasets can share the
+same mean while looking very different in spread:
+
+- **Range** — highest value minus lowest value; simplest measure, but
+  entirely determined by the two most extreme values
+- **Standard deviation (SD)** — the average distance of each value from
+  the mean; the most widely used measure of spread for data that is
+  roughly normally distributed
+- **Variance** — the square of the SD; used mathematically (e.g. in
+  further statistical tests) more often than reported directly
+- **Coefficient of variation (CV)** — SD expressed as a percentage of
+  the mean (`CV = (SD / Mean) × 100`); allows comparing the relative
+  spread of two datasets measured in **different units** (e.g. comparing
+  variability in height vs. weight)
+
+**Why CV matters specifically:** SD alone can't compare variability
+across different scales — a SD of 5 kg and a SD of 5 cm aren't
+comparable, but their CVs are.
+
+---
+
+## The Normal Distribution {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Many biological measurements (height, blood pressure, haemoglobin)
+approximate a **normal (Gaussian) distribution** — a symmetric,
+bell-shaped curve with defining properties:
+
+- **Mean = median = mode**, all at the centre of the curve
+- Symmetric about the mean — the two tails mirror each other
+- **68–95–99.7 rule:** approximately 68% of values fall within ±1 SD of
+  the mean, 95% within ±2 SD, and 99.7% within ±3 SD
+
+**Why this matters practically:** it's what makes the SD interpretable
+— knowing the mean and SD of a normally distributed variable tells you,
+without seeing the raw data, roughly what range most values fall in,
+and what counts as an unusually extreme value.
+
+---
+
+## Sampling Techniques {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Studying an entire population is rarely feasible — a **sample** is
+selected to represent it, using one of two broad approaches:
+
+- **Probability sampling** (every unit has a known, non-zero chance of
+  selection — allows valid generalization to the population):
+  - **Simple random sampling** — every unit has an equal chance,
+    selected via random numbers
+  - **Systematic sampling** — every *k*th unit selected from a list
+  - **Stratified sampling** — population divided into homogeneous
+    strata (e.g. by age group) first, then randomly sampled within each
+  - **Cluster sampling** — naturally occurring groups (e.g. villages,
+    schools) are randomly selected, and every unit within a chosen
+    cluster is included
+- **Non-probability sampling** (selection not random — convenient but
+  cannot support valid generalization): convenience, purposive, and
+  quota sampling
+
+**Why the distinction matters:** only probability sampling provides a
+statistical basis for generalizing findings from the sample back to
+the population — the entire logic of inferential statistics that
+follows depends on it.
+
+---
+
+## Sample Size {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+An appropriately calculated sample size balances two competing risks:
+too small a sample risks missing a real effect (inadequate statistical
+power); too large wastes time, cost, and participant burden without
+added benefit.
+
+**Key factors that increase the required sample size:**
+
+- Higher desired **confidence level** (e.g. 99% vs. 95%)
+- Smaller **expected effect size** (a subtle difference needs more
+  participants to detect reliably than an obvious one)
+- Greater **variability** in the outcome being measured
+- Higher desired **statistical power** (the ability to detect a true
+  effect if one exists)
+
+**Why this belongs in a curriculum, not just a statistics course:** an
+underpowered study (Chapter 4) can fail to detect a real association
+purely because it enrolled too few participants — not because no
+association exists.
+
+---
+
+## Standard Error and Confidence Intervals {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Standard Error (SE)** — the standard deviation of the *sample mean*
+  itself, estimating how much a sample mean would vary if the study
+  were repeated; `SE = SD / √n` — **SE shrinks as sample size grows**,
+  unlike SD, which describes spread within a single sample and doesn't
+  shrink with larger n
+- **Confidence interval (CI)** — a range, calculated from the sample
+  mean ± a multiple of the SE, that is expected to contain the true
+  population value with a stated level of confidence (typically 95%)
+
+**Why SE matters for tests of significance:** every test on the
+following slides ultimately compares an observed difference to the
+amount of variation expected by chance alone — and that expected
+variation is expressed using the standard error.
+
+---
+
+## Tests of Significance: The t-test {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The **t-test** compares the **means** of continuous data between two
+groups (or a sample mean against a known value), asking: is the
+observed difference larger than what chance alone would produce?
+
+- **Unpaired (independent) t-test** — compares means between two
+  separate, independent groups (e.g. mean blood pressure in a treated
+  vs. untreated group)
+- **Paired t-test** — compares means from the **same** subjects measured
+  twice (e.g. before and after an intervention), accounting for the
+  natural correlation between paired measurements
+
+**p-value:** the probability of observing a difference this large (or
+larger) if there were truly no difference in the population; by
+convention, **p < 0.05** is considered statistically significant — but
+statistical significance is not the same as clinical importance.
+
+---
+
+## Tests of Significance: Chi-Square Test {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The **chi-square (χ²) test** is used for **categorical data**, testing
+whether the observed distribution across categories differs from what
+would be expected by chance — e.g. is disease frequency associated with
+exposure status, when both are categorical (present/absent)?
+
+`χ² = Σ [(Observed − Expected)² / Expected]`
+
+**Why it's the categorical counterpart to the t-test:** the t-test
+needs continuous data with means to compare; chi-square instead compares
+**counts/frequencies** across categories — the correct tool once data
+is nominal or ordinal rather than a measurable numeric scale.
+
+---
+
+## Correlation and Regression {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Correlation** — measures the **strength and direction** of a linear
+  relationship between two continuous variables, expressed as the
+  correlation coefficient (*r*, ranging from −1 to +1); *r* close to 0
+  means little or no linear relationship
+- **Regression** — goes further than correlation by modelling how one
+  variable **predicts or changes with** another, producing an equation
+  that can estimate one variable's value from the other
+
+**Exam tip, revisited from Chapter 4:** correlation and regression both
+describe association, not causation — the same causal-inference caution
+already introduced in the Bradford Hill criteria (Chapter 2) applies
+directly here.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A dataset of hospital length-of-stay (in days) contains a few very
+long outlier admissions. Which measure of central tendency best
+represents the "typical" stay?
+
+- Mean
+- [Median]{.correct data-explanation="The median is not affected by extreme outliers, making it the better choice for skewed data like length-of-stay, where a few very long admissions would pull the mean upward."}
+- Mode
+- Range
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Under the 68-95-99.7 rule for a normally distributed variable,
+approximately what proportion of values fall within ±2 standard
+deviations of the mean?
+
+- 68%
+- [95%]{.correct data-explanation="Approximately 95% of values in a normal distribution fall within plus-or-minus 2 standard deviations of the mean, with 99.7% falling within plus-or-minus 3 SD."}
+- 99.7%
+- 50%
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A researcher randomly selects entire villages for a study, including
+every household within each selected village. This is an example of:
+
+- Simple random sampling
+- Stratified sampling
+- [Cluster sampling]{.correct data-explanation="Cluster sampling randomly selects naturally occurring groups (like villages) and includes every unit within each selected cluster, rather than sampling individuals directly from the whole population."}
+- Convenience sampling
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Comparing mean fasting blood glucose in the same patients before and
+after a 12-week diet intervention calls for which test?
+
+- Unpaired t-test
+- [Paired t-test]{.correct data-explanation="A paired t-test is used when the same subjects are measured twice (before and after), since it accounts for the natural correlation between each person's two measurements."}
+- Chi-square test
+- Correlation coefficient
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Testing whether vaccination status (yes/no) is associated with disease
+occurrence (yes/no) in a group of children calls for which test?
+
+- Paired t-test
+- [Chi-square test]{.correct data-explanation="Chi-square is the appropriate test for categorical data such as vaccination status and disease occurrence, both expressed as counts/frequencies across categories rather than as a continuous measured scale."}
+- Correlation coefficient
+- Standard error calculation
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for biostatistics in community medicine.
+2. World Health Organization. *Basic Statistical Methods for Analysis
+   of Health Data*.
+3. National Medical Commission, India. *Competency-Based Undergraduate
+   Curriculum for the Indian Medical Graduate* — Community Medicine,
+   CM6 (Basic Statistics and its Applications).
+
+---
+
+## Thank You!
+
+**This is the final chapter (29/29) of the curriculum.**
+
+[← Previous](../global/health-talks.html) | [Top](#home) | [Contents](../intro.html) | Chapter 29/29

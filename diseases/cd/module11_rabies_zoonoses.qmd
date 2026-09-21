@@ -1,0 +1,255 @@
+---
+title: "Module 11: Rabies and Other Zoonoses"
+subtitle: "Post-Exposure Prophylaxis and the Wider Zoonotic Disease Cluster"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module10_vector_borne_fevers.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 11/13 | [Next →](module12_filaria_kalaazar.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Rabies and Other Zoonoses
+
+**Learning Objectives:**
+
+- Explain why rabies is almost universally fatal once symptomatic
+- Apply the WHO bite-category system to decide on post-exposure prophylaxis
+- Describe India's National Rabies Control Programme goal
+- Identify the agent, transmission, and occupational risk for plague,
+  leptospirosis, brucellosis, and yellow fever
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Rabies is the clearest possible illustration of Chapter 6's prevention
+framework applied under time pressure — since there is no treatment
+once symptoms appear, this module is almost entirely about the
+post-exposure window between bite and disease. The wider zoonoses
+cluster connects back to One Health (Environment section) and
+occupational health (Chapter 19).
+:::
+
+---
+
+## Rabies: Why It Is Almost Always Fatal {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Agent:** Rabies virus (a *Lyssavirus*). **Reservoir/transmission:**
+**dog bites cause roughly 95% of human rabies cases in India** — the
+world's largest burden of dog-mediated human rabies deaths.
+
+**Pathogenesis:** after a bite, the virus travels **along peripheral
+nerves** toward the central nervous system — incubation period
+therefore varies with the **distance of the bite from the brain**
+(a face/hand bite progresses faster than a lower-limb bite).
+
+**Once symptoms appear, rabies is essentially 100% fatal** — there is
+no treatment for symptomatic disease. This single fact is what makes
+this module almost entirely about **prevention in the window between
+exposure and symptom onset**, not about treating the disease itself.
+
+---
+
+## Post-Exposure Prophylaxis: Bite Categories {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+WHO's three-category system decides exactly what post-exposure
+prophylaxis (PEP) an exposure requires:
+
+| Category | Exposure type | Management |
+|---|---|---|
+| **Category I** | Touching/feeding an animal; licks on intact skin | No PEP needed |
+| **Category II** | Minor scratches or abrasions without bleeding | Wound care + vaccine, **no immunoglobulin** |
+| **Category III** | Bites/scratches breaking skin, licks on broken skin/mucosa | Wound care + vaccine **+ rabies immunoglobulin (RIG)** |
+
+**Immediate first step, every category II/III exposure:** wash the
+wound thoroughly with **soap and water for a full 15 minutes** — this
+single, free, immediate action meaningfully reduces viral load at the
+inoculation site before any vaccine is even given.
+
+---
+
+## Vaccine and Immunoglobulin {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Anti-rabies vaccine** — a multi-dose schedule (e.g. Essen regimen:
+  days 0, 3, 7, 14, 28) given intramuscularly or intradermally,
+  stimulating active immunity
+- **Rabies immunoglobulin (RIG)** — provides immediate passive
+  immunity while the vaccine-induced response is still developing;
+  infiltrated **around the wound itself** wherever anatomically
+  possible, since local viral neutralization at the entry site is the
+  goal
+- **Pre-exposure prophylaxis (PrEP)** — a shorter vaccine course
+  recommended for high-risk occupational groups (veterinarians,
+  animal handlers, laboratory workers) before any exposure occurs
+
+**Exam tip:** RIG is given only for Category III exposures precisely
+because that is where the injury has broken skin/mucosa deeply enough
+to require passive immunity to bridge the gap before active immunity
+develops.
+
+---
+
+## National Rabies Control Programme {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's rabies control strategy combines human PEP access with animal-
+side measures, reflecting the **One Health** approach already
+introduced in the Environment section:
+
+- **Target:** eliminate human dog-mediated rabies deaths by **2030**,
+  aligned with the global WHO target
+- **Animal Birth Control (ABC) and mass dog vaccination** — reducing
+  rabies circulation in the dog population directly reduces human
+  exposure risk, addressing the reservoir rather than only the
+  human host
+- **Free PEP availability** at government health facilities, since
+  cost is a recognized barrier to completing the full vaccine schedule
+
+---
+
+## Plague, Leptospirosis, and Brucellosis {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Disease | Agent | Transmission | Occupational risk group |
+|---|---|---|---|
+| **Plague** | *Yersinia pestis* | Flea bites from infected rats (bubonic); airborne (pneumonic) | Rodent-exposed occupations |
+| **Leptospirosis** | *Leptospira* spp. | Contact with water/soil contaminated by infected animal urine (especially rats) | Farmers, sewage workers, flood-exposed populations |
+| **Brucellosis** | *Brucella* spp. | Contact with infected livestock, or unpasteurized dairy products | Veterinarians, farmers, dairy workers |
+
+**Shared pattern:** all three connect an occupational or environmental
+exposure to an animal reservoir — the same occupational-hazard
+framework from Chapter 19 applies directly to disease risk here, not
+only to physical/chemical hazards.
+
+---
+
+## Yellow Fever {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Agent:** a flavivirus, transmitted by ***Aedes*** mosquitoes (the
+same genus as dengue/chikungunya/Zika). **Not currently endemic in
+India**, but retains major public health significance:
+
+- **International Health Regulations relevance:** proof of yellow
+  fever vaccination is a valid basis for requiring an **International
+  Certificate of Vaccination** from travellers arriving from endemic
+  countries — a rare example of IHR (Chapter 26) permitting a specific
+  vaccination requirement as a condition of entry
+- **Why India cares despite no local transmission:** the competent
+  vector (*Aedes aegypti*) is already present and widespread in India
+  — introduction by a viraemic traveller could theoretically establish
+  local transmission, which is exactly why the entry certificate
+  requirement exists as a preventive measure
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Once a person develops symptomatic rabies, the expected outcome is:
+
+- Full recovery with antiviral treatment
+- [Death — rabies is essentially 100% fatal once symptoms appear]{.correct data-explanation="There is no effective treatment for symptomatic rabies, which is exactly why the entire clinical focus is on post-exposure prophylaxis before symptoms ever begin."}
+- Recovery with residual paralysis only
+- Recovery, but with lifelong immunity to future exposures
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+A patient presents with a dog bite that broke the skin and caused
+bleeding. Under the WHO category system, this requires:
+
+- No treatment
+- Wound care and vaccine only
+- [Wound care, vaccine, AND rabies immunoglobulin]{.correct data-explanation="A bite breaking the skin is a Category III exposure, which requires the full combination of wound care, vaccine, and rabies immunoglobulin (RIG) infiltrated around the wound."}
+- Immunoglobulin alone, without vaccine
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+The single most important immediate first-aid step after any
+rabies-risk animal bite is:
+
+- Applying a tourniquet
+- [Washing the wound thoroughly with soap and water for 15 minutes]{.correct data-explanation="Thorough wound washing with soap and water for a full 15 minutes is the immediate, free, and effective first step that reduces viral load at the inoculation site before any vaccine is given."}
+- Suturing the wound immediately
+- Waiting 24 hours before any intervention
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+A farmer develops fever after wading through floodwater contaminated
+with rat urine. This presentation is most consistent with:
+
+- Brucellosis
+- [Leptospirosis]{.correct data-explanation="Leptospirosis is transmitted through contact with water or soil contaminated by infected animal urine, especially from rats, making floodwater exposure a classic risk scenario."}
+- Yellow fever
+- Plague
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. National Centre for Disease Control, Ministry of Health & Family
+   Welfare, Government of India. *National Rabies Control Programme*
+   and *National Guidelines on Rabies Prophylaxis*.
+2. World Health Organization. *Rabies*, *Plague*, *Leptospirosis*,
+   *Brucellosis*, *Yellow Fever* — fact sheets.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for zoonotic disease epidemiology.
+
+---
+
+## Thank You!
+
+**Next Module:** Filariasis and Kala-azar
+
+[← Previous](module10_vector_borne_fevers.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 11/13 | [Next →](module12_filaria_kalaazar.html)

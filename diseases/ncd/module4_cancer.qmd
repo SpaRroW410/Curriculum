@@ -1,0 +1,218 @@
+---
+title: "Module 4: Cancer Epidemiology and Control"
+subtitle: "Patterns, Screening, NCRP, and HPV Vaccination"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module3_stroke.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 4/7 | [Next →](module5_blindness.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Cancer Epidemiology and Control
+
+**Learning Objectives:**
+
+- Describe common cancer sites and patterns in India
+- Distinguish modifiable from non-modifiable cancer risk factors
+- Apply the levels of prevention to cancer control
+- Describe the role of the National Cancer Registry Programme
+- Explain HPV vaccination's role in cervical cancer prevention
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Cancer is one of the four major NCDs already named in Chapter 7's
+overview; this module gives it the same dedicated treatment already
+given to diabetes, hypertension, and stroke in this series.
+:::
+
+---
+
+## Patterns and Causes {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Cancer site patterns in India differ meaningfully from high-income
+countries, reflecting different exposure patterns:
+
+- **Men:** oral cavity/lung cancers rank highest, strongly linked to
+  **tobacco use** (smoked and smokeless)
+- **Women:** breast cancer has overtaken cervical cancer as the most
+  common site in urban India, while **cervical cancer** remains far
+  more prominent in rural/lower-resource settings — a pattern tracking
+  access to screening and HPV exposure, not biology alone
+- **Modifiable risk factors:** tobacco (the single largest attributable
+  cause worldwide), alcohol, poor diet, physical inactivity, and
+  chronic infections (HPV for cervical cancer, hepatitis B/C for liver
+  cancer — recall the viral hepatitis module)
+- **Non-modifiable factors:** age, genetic predisposition, family
+  history
+
+---
+
+## Levels of Prevention Applied to Cancer {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Chapter 2's prevention framework maps directly onto cancer control:
+
+| Level | Example |
+|---|---|
+| **Primary** | Tobacco control, HPV vaccination, hepatitis B vaccination, dietary modification |
+| **Secondary** | Screening — Pap smear/VIA for cervical cancer, mammography for breast cancer, oral visual examination |
+| **Tertiary** | Treatment (surgery, chemotherapy, radiotherapy), palliative care for advanced disease |
+
+**Why cancer especially rewards a multi-level approach:** unlike an
+acute infection with one clear intervention point, cancer's long
+latency between exposure and disease means primary prevention (removing
+the exposure decades earlier) and secondary prevention (catching it
+early once it starts) both meaningfully change outcomes — neither
+alone is sufficient.
+
+---
+
+## National Cancer Registry Programme {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The **National Cancer Registry Programme (NCRP)**, run by the Indian
+Council of Medical Research (ICMR), is India's system for tracking
+cancer patterns:
+
+- **Population-Based Cancer Registries (PBCR)** — capture all cancer
+  cases in a defined geographic population, enabling true incidence
+  rate calculation
+- **Hospital-Based Cancer Registries (HBCR)** — capture cases seen at
+  a specific hospital, useful for clinical/treatment-pattern data but
+  **cannot** generate population incidence rates (recall the numerator/
+  denominator logic from Chapter 3 — a hospital's catchment population
+  is not well-defined)
+
+**Why this data matters:** cancer control priorities (which cancers to
+screen for, where to focus tobacco control) are set using exactly this
+registry data — without it, prevention efforts would be guesswork.
+
+---
+
+## HPV Vaccination and Cervical Cancer Prevention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Human papillomavirus (HPV)** causes the large majority of cervical
+cancer cases — making cervical cancer one of the few cancers with a
+**primary-prevention vaccine**, not just secondary-prevention screening.
+
+- **HPV vaccine** — most effective when given **before sexual debut**
+  (typically ages 9–14), since it prevents initial infection rather
+  than treating existing infection
+- **Complementary, not competing, with screening:** vaccination
+  prevents infection in the vaccinated cohort, but **cervical cancer
+  screening (Pap smear/VIA) remains necessary** for unvaccinated women
+  and for HPV types not covered by the vaccine
+- India has moved toward including HPV vaccination in its national
+  immunization efforts, extending the same primary-prevention logic
+  already used for hepatitis B (also cancer-preventing, via liver
+  cancer) to a second cancer-causing infection
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+The single largest modifiable risk factor for cancer worldwide is:
+
+- Alcohol use
+- [Tobacco use]{.correct data-explanation="Tobacco use (smoked and smokeless) is the single largest modifiable cancer risk factor globally, linked especially to oral cavity and lung cancers."}
+- Physical inactivity
+- Genetic predisposition
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+A national programme offering Pap smear testing to detect early
+cervical cell changes is an example of which level of prevention?
+
+- Primary prevention
+- [Secondary prevention]{.correct data-explanation="Pap smear screening detects pre-cancerous or early cancerous changes before symptoms develop, which is the definition of secondary prevention -- distinct from HPV vaccination, which is primary prevention."}
+- Tertiary prevention
+- Primordial prevention
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Which type of cancer registry can generate true population-based
+cancer incidence rates?
+
+- Hospital-Based Cancer Registry only
+- [Population-Based Cancer Registry]{.correct data-explanation="A Population-Based Cancer Registry captures all cases in a defined geographic population with a known denominator, enabling true incidence rate calculation -- a Hospital-Based Registry's catchment population is not well-defined, so it cannot."}
+- Both registry types equally
+- Neither registry type
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+HPV vaccination is most effective when given:
+
+- After a woman's first Pap smear
+- After menopause
+- [Before sexual debut, typically ages 9-14]{.correct data-explanation="HPV vaccine prevents initial infection rather than treating existing infection, so it is most effective when given before sexual debut, typically at ages 9-14."}
+- Only to women with a family history of cervical cancer
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. National Centre for Disease Informatics and Research, Indian
+   Council of Medical Research. *National Cancer Registry Programme*.
+2. World Health Organization. *Cancer* and *Human Papillomavirus and
+   Cancer* — fact sheets.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for cancer epidemiology in India.
+
+---
+
+## Thank You!
+
+**Next Module:** Blindness and Visual Impairment
+
+[← Previous](module3_stroke.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 4/7 | [Next →](module5_blindness.html)

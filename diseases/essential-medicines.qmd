@@ -29,6 +29,7 @@ revealjs-plugins:
 - Define essential medicines and state WHO's selection criteria
 - Describe India's National List of Essential Medicines (NLEM)
 - Explain how NPPA and the Drug Price Control Order keep essential medicines affordable
+- Apply ABC-VED analysis and EOQ to pharmacy inventory management
 - State WHO's definition of rational use of medicines and list forms of irrational use
 - Distinguish substandard, falsified, and generic medicines
 - Explain why WHO retired the term "counterfeit medicines"
@@ -200,6 +201,40 @@ issue.
 
 ---
 
+## Inventory Management {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The "reliable supply systems" pillar above is put into practice through
+specific inventory-management techniques — deciding **what** to stock,
+**how much**, and **when to reorder**:
+
+- **ABC-VED analysis** — combines two independent classifications to
+  prioritize inventory control effort:
+  - **ABC** (by consumption value) — A items (high value, ~70% of
+    spend from a small number of items) get the tightest control; C
+    items (low value, many items) get lighter control
+  - **VED** (by criticality) — **Vital** items (must never run out,
+    e.g. life-saving drugs) get priority regardless of cost; **Essential**
+    and **Desirable** items are managed with progressively less urgency
+  - **Combined use:** a low-cost (C) but Vital drug still gets
+    high-priority stock management — cost and criticality are
+    independent axes, and criticality overrides cost when the two
+    disagree
+- **Economic Order Quantity (EOQ)** — the order quantity that
+  minimizes total inventory cost by balancing **ordering costs**
+  (placing frequent small orders is administratively expensive)
+  against **holding costs** (storing large stockpiles ties up money and
+  storage space, and risks expiry)
+
+**Why this matters for essential medicines specifically:** a facility
+that stocks-out of a Vital item has effectively failed at rational use
+and access, however well it selected medicines for its NLEM-based
+formulary in the first place — selection and inventory management are
+both necessary, and neither alone is sufficient.
+
+---
+
 ## The 2017 SSFFC-to-SF Terminology Shift {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
@@ -323,6 +358,24 @@ monitored under which mechanism?
 
 ---
 
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 7
+
+A low-cost drug that is nonetheless life-saving and must never be
+out of stock would be classified, under VED analysis, as:
+
+- Category A
+- Desirable
+- [Vital]{.correct data-explanation="VED classifies by criticality, not cost -- a Vital item must never stock out regardless of its low cost under ABC (consumption-value) classification, since the two axes are independent and criticality overrides cost when they disagree."}
+- Category C
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. World Health Organization. *WHO Model Lists of Essential Medicines*
@@ -337,6 +390,9 @@ monitored under which mechanism?
    framework (selection/use, financing, health systems, regulation).
 6. National Pharmaceutical Pricing Authority, Government of India.
    *Drug Price Control Order, 2013*.
+7. World Health Organization. *Management Sciences for Health, MDS-3:
+   Managing Access to Medicines and Health Technologies* — ABC-VED
+   analysis and EOQ in pharmaceutical inventory management.
 
 ---
 

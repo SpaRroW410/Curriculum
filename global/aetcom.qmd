@@ -28,6 +28,7 @@ revealjs-plugins:
 
 - Explain why effective communication is a clinical skill, not a soft skill
 - Apply the SPIKES protocol for breaking bad news
+- Name the key Indian laws governing medical practice and patient rights
 - State and apply the four principles of biomedical ethics
 - Describe the elements of valid informed consent
 - Trace the historical abuses that produced modern research ethics
@@ -254,6 +255,63 @@ ultimately one continuous obligation, not three separate topics.
 
 ---
 
+## Legal Framework Governing Medical Practice {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Ethical principles (autonomy, non-maleficence) are backed by specific
+Indian laws that translate them into enforceable obligations — worth
+knowing by name, distinct from the ethical *principles* covered earlier
+in this chapter:
+
+- **National Medical Commission (NMC) Act, 2019** — replaced the Medical
+  Council of India, establishing NMC as the statutory body regulating
+  medical education and practice, including professional conduct
+- **Consumer Protection Act (CPA)** — brought medical services under
+  its ambit, meaning a patient can seek compensation for **medical
+  negligence** through consumer courts; negligence requires proving a
+  **duty of care, breach of that duty, and resulting harm**
+- **Clinical Establishments Act** — mandates registration and minimum
+  standards for hospitals/clinics, extending quality assurance beyond
+  individual practitioner conduct to the facility itself
+- **Epidemic Diseases Act, 1897** — India's oldest public health law,
+  giving government the power to take special measures (e.g.
+  restrictions, containment) during an epidemic — invoked repeatedly
+  during COVID-19, directly connecting 19th-century legislation to a
+  21st-century pandemic
+
+**Why this belongs alongside ethics, not instead of it:** law sets the
+enforceable floor; ethics asks for more than the legal minimum — a
+technically legal action can still be ethically questionable, which is
+exactly why this chapter teaches both.
+
+---
+
+## Further Health-Related Legislation {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Mental Healthcare Act, 2017** — already introduced in the Mental
+  Health chapter (Section 115's decriminalization of attempted
+  suicide); also establishes patients' right to access mental
+  healthcare and advance directives
+- **HIV and AIDS (Prevention and Control) Act, 2017** — prohibits
+  discrimination against people living with HIV/AIDS in employment,
+  healthcare, and education, and mandates informed consent for HIV
+  testing — a direct legal backing for the anti-stigma content in the
+  HIV/AIDS module
+- **Digital Personal Data Protection (DPDP) Act, 2023** — governs how
+  personal data, including health records, must be collected, stored,
+  and protected — an increasingly relevant law as health records
+  digitize (recall ABDM/Ayushman Bharat Digital Mission from the
+  health-planning content)
+
+**Why these are grouped together:** each extends a general ethical
+principle from earlier in this chapter (non-discrimination, privacy)
+into disease- or context-specific statutory protection.
+
+---
+
 ## Self-Check: Question 1 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -327,6 +385,24 @@ involves:
 
 ---
 
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+A patient seeking compensation for medical negligence through a
+consumer court must establish duty of care, breach of that duty, and:
+
+- The doctor's personal financial status
+- [Resulting harm caused by the breach]{.correct data-explanation="Medical negligence claims under the Consumer Protection Act require establishing all three elements together -- a duty of care, a breach of that duty, and harm resulting from the breach -- not any one alone."}
+- A prior criminal conviction
+- Written admission of guilt
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. Beauchamp, T.L. and Childress, J.F. *Principles of Biomedical
@@ -341,6 +417,10 @@ involves:
    Competencies for the Indian Medical Graduate*.
 6. Baile, W.F. et al. (2000). "SPIKES — A Six-Step Protocol for
    Delivering Bad News." *The Oncologist*.
+7. Government of India. *National Medical Commission Act, 2019*;
+   *Consumer Protection Act*; *Clinical Establishments Act*;
+   *Epidemic Diseases Act, 1897*; *HIV and AIDS (Prevention and
+   Control) Act, 2017*; *Digital Personal Data Protection Act, 2023*.
 
 ---
 

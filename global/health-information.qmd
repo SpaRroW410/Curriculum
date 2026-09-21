@@ -175,6 +175,58 @@ the same scale as fatal disease.
 
 ---
 
+## DALY: Visualizing the Two Components {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+```{=html}
+<svg viewBox="0 0 720 420" width="100%" height="auto" role="img" aria-labelledby="daly-title daly-desc" style="max-width:640px;display:block;margin:0 auto;font-family:Georgia,serif;">
+<title id="daly-title">DALY = YLL + YLD, illustrative breakdown</title>
+<desc id="daly-desc">Bar chart showing a total DALY bar as a stack of its YLL and YLD components, alongside each component shown separately, using illustrative (not epidemiological) values.</desc>
+<line x1="70" y1="350" x2="670" y2="350" stroke="#333" stroke-width="1.5"/>
+<line x1="70" y1="50" x2="70" y2="350" stroke="#333" stroke-width="1.5"/>
+<line x1="70" y1="275" x2="670" y2="275" stroke="#ddd" stroke-width="1"/>
+<line x1="70" y1="200" x2="670" y2="200" stroke="#ddd" stroke-width="1"/>
+<line x1="70" y1="125" x2="670" y2="125" stroke="#ddd" stroke-width="1"/>
+<text x="62" y="354" text-anchor="end" font-size="12" fill="#333">0</text>
+<text x="62" y="279" text-anchor="end" font-size="12" fill="#333">5</text>
+<text x="62" y="204" text-anchor="end" font-size="12" fill="#333">10</text>
+<text x="62" y="129" text-anchor="end" font-size="12" fill="#333">15</text>
+<text x="62" y="54" text-anchor="end" font-size="12" fill="#333">20</text>
+<text x="18" y="200" text-anchor="middle" font-size="12" fill="#333" transform="rotate(-90 18 200)">Illustrative units</text>
+<g>
+<rect x="90" y="125" width="140" height="225" fill="#3d8b6e"/>
+<rect x="90" y="50" width="140" height="75" fill="#e0912f"/>
+<text x="160" y="115" text-anchor="middle" font-size="13" fill="#222">YLL 15</text>
+<text x="160" y="40" text-anchor="middle" font-size="13" fill="#222">YLD 5</text>
+<text x="160" y="375" text-anchor="middle" font-size="14" fill="#222">Total DALY = 20</text>
+</g>
+<g>
+<rect x="290" y="125" width="140" height="225" fill="#3d8b6e"/>
+<text x="360" y="115" text-anchor="middle" font-size="13" fill="#222">15</text>
+<text x="360" y="375" text-anchor="middle" font-size="14" fill="#222">YLL alone</text>
+</g>
+<g>
+<rect x="490" y="275" width="140" height="75" fill="#e0912f"/>
+<text x="560" y="265" text-anchor="middle" font-size="13" fill="#222">5</text>
+<text x="560" y="375" text-anchor="middle" font-size="14" fill="#222">YLD alone</text>
+</g>
+<g>
+<rect x="500" y="15" width="16" height="16" fill="#3d8b6e"/>
+<text x="522" y="28" font-size="13" fill="#222">YLL (fatal)</text>
+<rect x="610" y="15" width="16" height="16" fill="#e0912f"/>
+<text x="632" y="28" font-size="13" fill="#222">YLD</text>
+</g>
+</svg>
+```
+
+*Illustrative values, not real epidemiological estimates* — the point
+is the decomposition: stacking the YLL and YLD bars produces exactly
+the total DALY bar, since DALY is defined as their sum, not measured
+independently.
+
+---
+
 ## DALY vs. QALY {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**

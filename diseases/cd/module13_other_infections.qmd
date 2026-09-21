@@ -1,0 +1,259 @@
+---
+title: "Module 13: Other Vaccine-Preventable and Miscellaneous Infections"
+subtitle: "Measles, Diphtheria, Pertussis, Influenza, Tetanus, and Neglected Infections"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module12_filaria_kalaazar.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 13/13"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Other Vaccine-Preventable and Miscellaneous Infections
+
+**Learning Objectives:**
+
+- Describe measles/rubella and India's MR elimination goal
+- Identify diphtheria, pertussis, and meningococcal meningitis as
+  UIP-preventable diseases
+- Distinguish pandemic-potential respiratory viruses (influenza, COVID-19)
+- Explain why neonatal tetanus elimination is verified at the district level
+- Recognize trachoma, yaws, taeniasis/hydatid disease, and rickettsial
+  disease as still-relevant neglected infections
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+This closing module of the Selected Communicable Diseases series
+gathers the remaining NMC-listed infections that don't individually
+warrant a full module — most already prevented by the same Universal
+Immunization Programme schedule introduced in Chapter 14, or
+controlled by the same water/sanitation and vector principles running
+throughout this series.
+:::
+
+---
+
+## Measles, Rubella, and Mumps {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Measles** — a highly contagious paramyxovirus, spread by
+  respiratory droplets; classic triad of fever, cough/coryza/
+  conjunctivitis, followed by a characteristic descending rash;
+  complications (pneumonia, encephalitis) drive most measles deaths,
+  especially in malnourished children
+- **Rubella** — usually mild in children, but infection during
+  **early pregnancy** can cause **Congenital Rubella Syndrome** (CRS)
+  — deafness, cataracts, heart defects — making rubella control a
+  maternal/child health priority, not just a childhood-disease one
+- **Mumps** — parotid gland swelling; can rarely cause orchitis,
+  meningitis, or pancreatitis
+
+**India's MR elimination goal:** the **MR vaccine** (combined
+measles-rubella) is included in UIP specifically to interrupt
+transmission of both viruses together, since a single vaccine
+addresses two distinct public health problems (acute measles disease
+burden and CRS prevention) at once.
+
+---
+
+## Diphtheria, Pertussis, and Meningococcal Meningitis {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Disease | Agent | Key feature |
+|---|---|---|
+| **Diphtheria** | *Corynebacterium diphtheriae* | Toxin-mediated; classic pseudomembrane in the throat can cause airway obstruction |
+| **Pertussis (whooping cough)** | *Bordetella pertussis* | Paroxysmal coughing fits with a characteristic "whoop"; most dangerous in young infants |
+| **Meningococcal meningitis** | *Neisseria meningitidis* | Can progress to death within hours; close-contact chemoprophylaxis is used to prevent secondary cases |
+
+**Shared control strategy:** diphtheria and pertussis are both
+prevented by the **pentavalent vaccine** already introduced in Chapter
+14's immunization content — their grouping here is a reminder that a
+single UIP vaccine often prevents multiple diseases at once (DPT
+covers three).
+
+**ARI and SAANS:** acute respiratory infections remain a leading cause
+of under-five mortality — India's **SAANS** initiative (Social
+Awareness and Action to Neutralize Pneumonia Successfully) specifically
+targets childhood pneumonia reduction, extending the Under-Five
+Clinic's curative-care role (Chapter 14) to this single leading cause.
+
+---
+
+## Influenza and COVID-19 {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Both illustrate **pandemic potential** in a respiratory virus — the
+same International Health Regulations and PHEIC framework (Chapter 26)
+exists largely because of diseases like these:
+
+- **Influenza** — seasonal strains circulate yearly; **avian influenza**
+  (e.g. H5N1) and **H1N1 ("swine flu")** represent **zoonotic spillover
+  and pandemic strains** with the potential to spread efficiently
+  between humans, unlike typical seasonal strains
+- **COVID-19 / SARS** — coronaviruses causing severe acute respiratory
+  syndrome; **COVID-19's 2020 declaration as a PHEIC** is the most
+  recent, largest-scale real-world example of the PHEIC mechanism
+  described in Chapter 26, directly connecting that abstract legal
+  framework to a pandemic every reader lived through
+
+**Why these are grouped as a pair:** both demonstrate how a novel or
+zoonotic respiratory virus can escalate from a local cluster to a
+global health emergency, which is exactly the scenario IHR (2005) and
+its PHEIC mechanism were designed to manage.
+
+---
+
+## Neonatal Tetanus Elimination {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Agent:** *Clostridium tetani*, a spore-forming bacterium producing a
+potent neurotoxin; spores enter through **wound contamination** —
+classically, unhygienic cutting/care of the umbilical cord in newborns
+causes **neonatal tetanus**.
+
+- **Maternal and Neonatal Tetanus Elimination (MNTE)** — prevented by
+  **maternal tetanus toxoid vaccination** during pregnancy (passive
+  antibody transfer to the newborn) combined with **clean delivery and
+  cord-care practices**
+- **India was validated as having eliminated maternal and neonatal
+  tetanus** as a public health problem — verified using the same
+  "elimination as a public health problem" threshold logic (not
+  literal zero cases) already seen for filariasis, kala-azar, and
+  leprosy
+
+**Why it belongs alongside RCH content:** MNTE is as much a maternal/
+newborn care success (Chapter 14's antenatal and essential newborn
+care content) as it is a vaccine-preventable disease story.
+
+---
+
+## Neglected Infections: A Reference Table {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Lower-burden today, but still named in India's communicable disease
+surveillance and worth recognizing:
+
+| Disease | Agent/cause | Key feature |
+|---|---|---|
+| **Trachoma** | *Chlamydia trachomatis* | Chronic conjunctival infection; repeated infection can cause blindness — a preventable cause alongside those in the Blindness module |
+| **Yaws** | *Treponema pallidum pertenue* | A skin treponematosis (non-venereal); India was certified **yaws-free** in 2016 |
+| **Taeniasis / hydatid disease** | *Taenia* spp. / *Echinococcus* | Acquired via undercooked pork/beef (taeniasis) or contact with infected dogs (hydatid) — food/animal-hygiene diseases |
+| **Rickettsial disease (scrub typhus)** | *Orientia tsutsugamushi* | Transmitted by chigger mite bites; classic **eschar** (a black, crusted skin lesion) at the bite site aids diagnosis |
+
+**Why these still matter for an exam, if not for daily practice
+everywhere:** each represents a distinct transmission principle (ocular
+contact, congenital/direct contact, foodborne parasite, mite-borne
+rickettsia) worth being able to name even where prevalence is now low.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Rubella infection is of particular public health concern specifically
+because:
+
+- It is more contagious than measles
+- [Infection during early pregnancy can cause Congenital Rubella Syndrome]{.correct data-explanation="While usually mild in children, rubella infection during early pregnancy can cause Congenital Rubella Syndrome (deafness, cataracts, heart defects), making it a maternal/child health priority."}
+- It has no available vaccine
+- It only affects adults
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+India's SAANS initiative specifically targets:
+
+- Neonatal tetanus
+- [Childhood pneumonia]{.correct data-explanation="SAANS (Social Awareness and Action to Neutralize Pneumonia Successfully) targets reducing childhood pneumonia deaths, a leading cause of under-five mortality."}
+- Measles elimination
+- Rabies control
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+Maternal and Neonatal Tetanus Elimination (MNTE) is achieved primarily
+through:
+
+- Antibiotic prophylaxis for all newborns
+- [Maternal tetanus toxoid vaccination combined with clean delivery and cord-care practices]{.correct data-explanation="MNTE relies on maternal vaccination (providing passive antibody transfer to the newborn) plus hygienic delivery and cord care -- India has been validated as having eliminated it as a public health problem using this combined strategy."}
+- Universal newborn surgery
+- Isolation of all pregnant women
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+A classic black, crusted skin lesion (eschar) at a mite-bite site is
+associated with which disease?
+
+- Yaws
+- Trachoma
+- [Scrub typhus (rickettsial disease)]{.correct data-explanation="Scrub typhus, transmitted by chigger mite bites, classically presents with an eschar -- a black, crusted skin lesion at the bite site -- which aids clinical diagnosis."}
+- Taeniasis
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. Government of India, Universal Immunization Programme — MR vaccine,
+   pentavalent vaccine schedule.
+2. Ministry of Health & Family Welfare, Government of India. *SAANS*
+   initiative and *Maternal and Neonatal Tetanus Elimination*
+   validation.
+3. World Health Organization. *Measles*, *Diphtheria*, *Pertussis*,
+   *Meningococcal Meningitis*, *Influenza*, *Trachoma*, *Yaws* — fact
+   sheets.
+4. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for these communicable disease topics.
+
+---
+
+## Thank You!
+
+**Back to:** Communicable Diseases
+
+[← Previous](module12_filaria_kalaazar.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 13/13

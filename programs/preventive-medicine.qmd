@@ -32,6 +32,7 @@ revealjs-plugins:
 - Describe Essential Newborn Care and Kangaroo Mother Care
 - Apply the levels of prevention to child and elderly preventive care
 - Describe the WHO Decade of Healthy Ageing framework
+- Explain palliative care and why it is not limited to end-of-life care
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -196,6 +197,37 @@ targets include:
 
 ---
 
+## Palliative Care {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Where the screening priorities above aim to prevent or catch disease
+early, **palliative care** addresses the other end of the life-stage
+continuum — serious, life-limiting illness where cure is no longer the
+goal.
+
+- **Definition:** an approach that improves quality of life for
+  patients and families facing life-limiting illness, through
+  prevention and relief of suffering — via early identification,
+  assessment, and treatment of pain and other physical, psychosocial,
+  and spiritual problems
+- **Not only end-of-life care:** palliative care can begin **alongside**
+  active treatment (e.g. for cancer, Module 4) from the point of
+  diagnosis, not only after curative options are exhausted
+- **Community palliative care** — India's model increasingly delivers
+  palliative care through **home-based and community-level services**
+  rather than centralizing it in specialist hospices, following the
+  same primary-care integration principle already applied to
+  leprosy, mental health, and disability care in this curriculum
+
+**Why it belongs in this life-stage chapter specifically:** it
+completes the continuum-of-care thread already running through this
+module — from antenatal care at one end to palliative care at the
+other, a person-centred health system follows the individual across
+their **entire** life course, not just the earlier stages.
+
+---
+
 ## Fetal Origins of Adult Disease {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
@@ -327,6 +359,23 @@ newborns?
 
 ---
 
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 7
+
+Palliative care is best described as:
+
+- Care given only after curative treatment has been stopped
+- [An approach improving quality of life for serious illness, which can begin alongside active treatment]{.correct data-explanation="Palliative care addresses pain and physical, psychosocial, and spiritual problems for patients with life-limiting illness, and can start alongside active treatment from the point of diagnosis -- not only once curative options are exhausted."}
+- A service available only in specialist hospices
+- Only relevant to elderly patients
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. World Health Organization (2016). *WHO Recommendations on Antenatal
@@ -338,6 +387,7 @@ newborns?
 4. World Health Organization (2020). *Decade of Healthy Ageing
    2021–2030*.
 5. World Health Organization. *Kangaroo Mother Care: A Practical Guide*.
+6. World Health Organization. *Palliative Care* — fact sheet.
 
 ---
 

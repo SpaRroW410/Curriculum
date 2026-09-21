@@ -17,7 +17,8 @@ editor:
 Chapter 7 covers the **general principles** of NCD epidemiology — shared
 behavioural risk factors, WHO STEPS surveillance, and the population vs.
 high-risk prevention strategies. This section applies those principles
-to three specific diseases in depth, each as its own module.
+to seven specific diseases/disease clusters in depth, each as its own
+module.
 
 - **[Module 1: Diabetes Mellitus](ncd/module1_diabetes.qmd)** — burden,
   risk factors, screening, diagnostic criteria, and management principles
@@ -25,6 +26,15 @@ to three specific diseases in depth, each as its own module.
   "silent killer": burden, classification, and prevention
 - **[Module 3: Stroke](ncd/module3_stroke.qmd)** — epidemiology and the
   three levels of prevention
+- **[Module 4: Cancer Epidemiology and Control](ncd/module4_cancer.qmd)**
+  — patterns, screening, NCRP, and HPV vaccination
+- **[Module 5: Blindness and Visual Impairment](ncd/module5_blindness.qmd)**
+  — magnitude, causes, and NPCBVI
+- **[Module 6: Injuries](ncd/module6_injuries.qmd)** — road traffic
+  accidents, burns, drowning, and the Haddon Matrix
+- **[Module 7: Other Significant NCDs](ncd/module7_other_ncds.qmd)** —
+  coronary/rheumatic heart disease, COPD, CKD, deafness, oral health,
+  and tobacco control
 
 Return to [Chronic Non-Communicable Diseases](ncd.qmd) for the general
 epidemiology of NCDs, or to [Contents](../intro.qmd) for the full

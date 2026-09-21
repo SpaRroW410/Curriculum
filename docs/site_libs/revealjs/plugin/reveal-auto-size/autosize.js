@@ -102,6 +102,13 @@ window.RevealAutoSize = function () {
       deck.on("ready", fitCurrentSlide);
       deck.on("slidechanged", fitCurrentSlide);
       deck.on("resize", fitCurrentSlide);
+
+      // The quiz plugin inserts feedback/explanation text into the current
+      // slide well after the fit passes above have already run (on option
+      // click, not on slidechanged/resize), which can overflow past the
+      // footer. Expose a manual re-fit hook it can call once it has
+      // finished updating the DOM.
+      window.__revealAutosizeRefit = fitCurrentSlide;
     },
   };
 };

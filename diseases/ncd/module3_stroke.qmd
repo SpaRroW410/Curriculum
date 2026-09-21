@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](module2_hypertension.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 3/3"
+    footer: "[← Previous](module2_hypertension.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 3/7 | [Next →](module4_cancer.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -234,6 +234,6 @@ Which statement about stroke screening is correct?
 
 ## Thank You!
 
-**Back to:** Chronic Non-Communicable Diseases
+**Next Module:** Cancer Epidemiology and Control
 
-[← Previous](module2_hypertension.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 3/3
+[← Previous](module2_hypertension.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 3/7 | [Next →](module4_cancer.html)

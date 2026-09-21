@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](aetcom.html) | [Top](#home) | [Contents](../intro.html) | Chapter 28/28 | [Course Contents →](../intro.html)"
+    footer: "[← Previous](aetcom.html) | [Top](#home) | [Contents](../intro.html) | Chapter 28/29 | [Next Chapter →](../foundations/biostatistics.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -224,6 +224,6 @@ requires action at which level(s)?
 
 ## Thank You!
 
-**This is the final chapter (28/28) of the curriculum.**
+**Next Chapter:** Basic Biostatistics
 
-[← Previous](aetcom.html) | [Top](#home) | [Contents](../intro.html) | Chapter 28/28 | [Course Contents →](../intro.html)
+[← Previous](aetcom.html) | [Top](#home) | [Contents](../intro.html) | Chapter 28/29 | [Next Chapter →](../foundations/biostatistics.html)

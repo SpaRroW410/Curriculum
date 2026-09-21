@@ -1,0 +1,177 @@
+---
+title: "Module 5: Blindness and Visual Impairment"
+subtitle: "Magnitude, Causes, and NPCBVI"
+format:
+  revealjs:
+    theme: serif
+    css: ../../assets/slide_deck.css
+    slide-number: true
+    navigation-mode: linear
+    code-copy: true
+    chalkboard: true
+    preview-links: true
+    center: true
+    zoom: true
+    footer: "[← Previous](module4_cancer.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 5/7 | [Next →](module6_injuries.html)"
+execute:
+  enabled: false
+revealjs-plugins:
+  - parmsam/quiz
+  - local/autosize
+---
+
+## Welcome {#home}
+
+### Blindness and Visual Impairment
+
+**Learning Objectives:**
+
+- Define blindness using WHO's visual acuity criteria
+- Identify the leading causes of blindness in India
+- Describe cataract as the single largest treatable cause
+- Outline India's NPCBVI strategy and school eye-screening programmes
+
+🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
+
+::: {.notes}
+Blindness prevention connects back to trachoma (already named in the
+"Other Infections" module as a preventable infectious cause) and to
+diabetes (diabetic retinopathy, Module 1) — this module gives blindness
+its own dedicated epidemiological treatment as its own major NCD-linked
+public health problem.
+:::
+
+---
+
+## Defining and Measuring Blindness {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**WHO definition of blindness:** visual acuity of **less than 3/60** in
+the better eye with best possible correction (i.e. even with glasses,
+unable to see at 3 metres what a person with normal vision sees at 60
+metres).
+
+- **Low vision** — visual acuity between 3/60 and 6/18 in the better
+  eye — impaired but not meeting the blindness threshold
+- India periodically conducts **National Blindness and Visual
+  Impairment Surveys** to track prevalence and the changing distribution
+  of causes over time — the same registry/survey logic already seen for
+  cancer (previous module) applied here
+
+---
+
+## Leading Causes of Blindness in India {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Cataract** — by far the **single largest cause** of blindness in
+  India, and critically, a **treatable/reversible** cause via surgery —
+  making it the top priority target for blindness-control programmes
+- **Refractive error** — uncorrected, a major cause of avoidable visual
+  impairment, especially in children, correctable simply with glasses
+- **Corneal blindness** — from infection, injury, or vitamin A
+  deficiency (recall Chapter 9's nutrition content)
+- **Glaucoma** — progressive optic nerve damage, often asymptomatic
+  until advanced, making screening important since damage already done
+  cannot be reversed
+- **Diabetic retinopathy** — a direct link to Module 1's diabetes
+  complications content; increasingly significant as India's diabetes
+  burden grows
+
+**Exam pattern:** cataract's dominance, combined with its
+treatability, is *why* India's blindness-control strategy centres so
+heavily on cataract surgical coverage.
+
+---
+
+## NPCBVI: India's National Programme {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The **National Programme for Control of Blindness and Visual
+Impairment (NPCBVI)** — renamed and expanded from the original National
+Programme for Control of Blindness to explicitly include visual
+impairment, not only blindness — pursues:
+
+- **Cataract surgical services** — the programme's largest single
+  activity, given cataract's dominant, treatable share of the burden
+- **School eye-screening programmes** — identifying uncorrected
+  refractive error in children early, since undetected poor vision
+  directly affects learning — connecting blindness control to the
+  Under-Five Clinic and school health content (Chapter 14)
+- **Integration with the general health system** — following the same
+  primary-care integration logic already seen for leprosy (NLEP) and
+  mental health (DMHP) — vision screening delivered through existing
+  health infrastructure rather than a separate parallel system
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+WHO defines blindness as visual acuity, with best correction, of:
+
+- Less than 6/18
+- [Less than 3/60]{.correct data-explanation="WHO defines blindness as visual acuity less than 3/60 in the better eye with best possible correction; 3/60 to 6/18 defines low vision instead."}
+- Less than 6/6
+- Any uncorrected refractive error
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+The single largest cause of blindness in India, and a key reason
+India's blindness-control strategy prioritizes it, is:
+
+- Glaucoma
+- Diabetic retinopathy
+- [Cataract]{.correct data-explanation="Cataract is both the largest cause of blindness in India and fully treatable via surgery, which is exactly why cataract surgical coverage is the centrepiece of NPCBVI's strategy."}
+- Corneal blindness
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+School eye-screening programmes under NPCBVI primarily aim to detect:
+
+- Glaucoma
+- [Uncorrected refractive error]{.correct data-explanation="School eye-screening focuses on identifying uncorrected refractive error in children early, since undetected poor vision directly affects a child's learning."}
+- Diabetic retinopathy
+- Corneal ulcers
+:::
+
+---
+
+## References {background-color="#FFF6DA"}
+
+1. National Programme for Control of Blindness and Visual Impairment
+   (NPCBVI), Ministry of Health & Family Welfare, Government of India.
+2. World Health Organization. *Blindness and Vision Impairment* — fact
+   sheet.
+3. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+   standard reference for blindness epidemiology in India.
+
+---
+
+## Thank You!
+
+**Next Module:** Injuries — Road Traffic Accidents, Burns, and Drowning
+
+[← Previous](module4_cancer.html) | [Top](#home) | [Chronic Non-Communicable Diseases](../ncd.html) | Module 5/7 | [Next →](module6_injuries.html)

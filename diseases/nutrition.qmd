@@ -26,6 +26,7 @@ revealjs-plugins:
 
 **Learning Objectives:**
 
+- Classify nutrients into macro- and micronutrient categories
 - Distinguish undernutrition, overnutrition, and the double burden of malnutrition
 - Compare kwashiorkor and marasmus as forms of protein-energy malnutrition
 - Define stunting, wasting, and underweight using WHO Z-score criteria
@@ -42,6 +43,39 @@ nutrition specifically, and gives the anthropometric vocabulary
 (stunting/wasting/underweight) used throughout Indian public-health
 program monitoring.
 :::
+
+---
+
+## Classification of Nutrients {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Before the deficiency states ahead make sense, the nutrients
+themselves need classifying — six categories, split into macro- and
+micronutrients by how much of each the body needs:
+
+- **Macronutrients** (required in large amounts, providing energy):
+  - **Proteins** — tissue building/repair; **complete** (all essential
+    amino acids, animal sources) vs. **incomplete** (plant sources,
+    typically lacking one or more essential amino acids)
+  - **Fats** — the most energy-dense macronutrient; saturated vs.
+    unsaturated fat, essential fatty acids
+  - **Carbohydrates and dietary fibre** — the primary energy source;
+    fibre itself is not absorbed but aids digestion and is linked to
+    lower NCD risk
+- **Micronutrients** (required in small amounts, not for energy):
+  - **Vitamins** — fat-soluble (A, D, E, K — stored in the body,
+    accumulate with excess) vs. water-soluble (B-complex, C — not
+    stored, need regular intake)
+  - **Minerals and trace elements** — iron, iodine, zinc, calcium, and
+    others, each with a specific physiological role and a specific
+    deficiency syndrome (several covered later in this chapter)
+
+**Balanced diet:** intake of all six categories in the proportions and
+amounts (RDA — Recommended Dietary Allowance, or the related EAR —
+Estimated Average Requirement) needed to maintain health and prevent
+deficiency — the reference point every deficiency state in this
+chapter is measured against.
 
 ---
 
@@ -335,6 +369,24 @@ Scheme, is called:
 - [Saksham Anganwadi & Poshan 2.0]{.correct data-explanation="Saksham Anganwadi & Poshan 2.0 (2021-26) is the current integrated umbrella scheme merging ICDS, POSHAN Abhiyaan, and related child/maternal welfare programmes."}
 - Ayushman Bharat
 - National Iron Plus Initiative
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+Which nutrient category is fat-soluble, meaning it is stored in the
+body and can accumulate with excess intake?
+
+- Vitamin B-complex and Vitamin C
+- [Vitamins A, D, E, and K]{.correct data-explanation="Fat-soluble vitamins (A, D, E, K) are stored in body tissue and can accumulate to excess, unlike water-soluble vitamins (B-complex, C), which are not stored and need regular dietary intake."}
+- Dietary fibre
+- Trace minerals
 :::
 
 ---

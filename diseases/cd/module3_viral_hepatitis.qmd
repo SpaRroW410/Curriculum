@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](module2_typhoid_cholera.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 3/6 | [Next →](module4_poliomyelitis.html)"
+    footer: "[← Previous](module2_typhoid_cholera.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 3/13 | [Next →](module4_poliomyelitis.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -274,4 +274,4 @@ phase, before jaundice is even visible?
 
 **Next Module:** Poliomyelitis
 
-[← Previous](module2_typhoid_cholera.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 3/6 | [Next →](module4_poliomyelitis.html)
+[← Previous](module2_typhoid_cholera.html) | [Top](#home) | [Communicable Diseases](../communicable-diseases.html) | Module 3/13 | [Next →](module4_poliomyelitis.html)
