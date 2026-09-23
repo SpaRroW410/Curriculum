@@ -14,6 +14,9 @@ editor:
 
 # Selected Non-Communicable Diseases
 
+**NMC Community Medicine Code:** CM8 (Epidemiology of Non-Communicable
+Diseases)
+
 Chapter 7 covers the **general principles** of NCD epidemiology — shared
 behavioural risk factors, WHO STEPS surveillance, and the population vs.
 high-risk prevention strategies. This section applies those principles

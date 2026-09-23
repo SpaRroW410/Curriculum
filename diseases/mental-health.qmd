@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/28 | [Next Chapter →](../programs/health-programmes.html)"
+    footer: "[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/29 | [Next Chapter →](../programs/health-programmes.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -32,6 +32,8 @@ revealjs-plugins:
 - Trace India's National Mental Health Programme and District Mental Health Programme
 - Describe the Mental Healthcare Act 2017's rights-based approach, including Section 115
 - Explain WHO's mhGAP task-shifting strategy for closing the mental health treatment gap
+
+**NMC Community Medicine Code:** CM15
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -130,6 +132,13 @@ delivered through the **general primary health care system**, at the
 district and primary-health-centre level, rather than requiring
 specialized psychiatric hospitals alone — a direct application of the
 Alma-Ata primary health care principles from Chapter 1.
+
+**Tele-MANAS (Tele Mental Health Assistance and Networking Across
+States)** — launched 2022, a further extension of DMHP's
+"reach beyond specialist hospitals" logic into telemedicine: a
+toll-free, 24/7 helpline (staffed state-wise, with multilingual
+support) offering counselling and referral, reaching people in areas
+still underserved even by DMHP's district-level infrastructure.
 
 ---
 
@@ -338,4 +347,4 @@ through:
 
 **Next Chapter:** Health Programmes in India
 
-[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/28 | [Next Chapter →](../programs/health-programmes.html)
+[← Previous](nutrition.html) | [Top](#home) | [Contents](../intro.html) | Chapter 10/29 | [Next Chapter →](../programs/health-programmes.html)

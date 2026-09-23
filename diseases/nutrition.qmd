@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](essential-medicines.html) | [Top](#home) | [Contents](../intro.html) | Chapter 9/28 | [Next Chapter →](mental-health.html)"
+    footer: "[← Previous](essential-medicines.html) | [Top](#home) | [Contents](../intro.html) | Chapter 9/29 | [Next Chapter →](mental-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -34,6 +34,9 @@ revealjs-plugins:
 - Identify low birth weight and its major risk factors
 - Describe lathyrism as a food-toxin (not deficiency) disease
 - Outline India's flagship nutrition programme structure (ICDS → POSHAN Abhiyaan → Saksham Anganwadi & Poshan 2.0)
+- Describe epidemic dropsy and India's food safety/fortification regulatory framework (FSSAI, FSS Act)
+
+**NMC Community Medicine Code:** CM5
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -216,6 +219,14 @@ essentially the same primary-prevention logic as any other
 diet-attributable disease, just aimed at removing a harmful food rather
 than adding a deficient nutrient.
 
+**Epidemic dropsy** — a second food-toxin disease worth knowing
+alongside lathyrism: caused by **argemone oil** (from *Argemone
+mexicana*, "Mexican prickly poppy") adulterating mustard/edible oil,
+producing widespread **bilateral pitting oedema of the legs**,
+sometimes with glaucoma and cardiac involvement, in outbreak clusters
+linked to a contaminated cooking-oil batch. Control depends on the food
+adulteration/quality-monitoring architecture covered next.
+
 ---
 
 ## India's Nutrition Programme Architecture {background-color="#FFF6DA"}
@@ -236,8 +247,55 @@ three stages:
    Girls, and the National Crèche Scheme into one integrated nutrition
    support programme
 
+**National Nutrition Policy (1993)** — the earlier policy document
+underlying this programme evolution, adopting a **multi-sectoral**
+approach to malnutrition (not health-sector interventions alone),
+addressing direct nutrition interventions alongside food security,
+health care, safe drinking water, and women's development —
+establishing the intersectoral framing every programme listed above
+still follows.
+
 *(Broader health-programme structures and financing are covered in
 [Health Programmes in India](../programs/health-programmes.qmd).)*
+
+---
+
+## Food Hygiene, Fortification, and Regulation {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Beyond nutrient content, the **safety and quality** of the food supply
+itself is a distinct public health concern, regulated through:
+
+- **Milk hygiene** — pasteurization (destroying pathogens without
+  substantially altering nutritive value) and adulteration checks
+  (water, starch, detergent) are the two central quality-control
+  concerns for India's largely informal milk supply chain
+- **Meat hygiene** — ante-mortem and post-mortem inspection at
+  slaughter, safe storage temperature, and control of zoonotic
+  contamination (recall the zoonoses covered in the Communicable
+  Diseases chapters)
+- **Food-borne diseases and intoxicants** — beyond the bacterial food
+  poisoning already covered (Chapter 6's Food Poisoning module),
+  chemical/toxin contamination of food (pesticide residue, heavy
+  metals, mycotoxins like aflatoxin) is a further hygiene concern
+- **Food fortification** — adding micronutrients to a staple food
+  (iodized salt, fortified oil/milk with vitamins A and D, fortified
+  wheat flour/rice with iron and folic acid) to correct a population-
+  level deficiency without requiring individual behaviour change —
+  the same logic as universal salt iodization for IDD control above
+- **Food additives** — substances (preservatives, colours,
+  emulsifiers) permitted only within regulated safety limits
+- **Food adulteration** — deliberate or accidental contamination/
+  substitution that degrades food quality or safety (recall epidemic
+  dropsy above as a severe real-world consequence)
+
+**Regulatory framework:** the **Food Safety and Standards Authority of
+India (FSSAI)**, established under the **Food Safety and Standards
+(FSS) Act, 2006**, consolidated multiple older, fragmented food laws
+into a single regulatory body — setting standards, licensing food
+businesses, and enforcing action against adulteration and
+fortification-labelling violations nationally.
 
 ---
 
@@ -391,6 +449,24 @@ body and can accumulate with excess intake?
 
 ---
 
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 7
+
+Epidemic dropsy, presenting with bilateral leg oedema in outbreak
+clusters, is caused by:
+
+- Aflatoxin contamination of stored grain
+- [Argemone oil adulterating mustard/edible oil]{.correct data-explanation="Epidemic dropsy is caused by argemone oil (from Argemone mexicana) adulterating mustard or other edible oil, producing bilateral pitting leg oedema in outbreak clusters traced to a contaminated oil batch."}
+- Excess consumption of Lathyrus sativus (khesari dal)
+- Iodine deficiency in the diet
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. World Health Organization. *Malnutrition* — fact sheet, and *WHO
@@ -401,6 +477,10 @@ body and can accumulate with excess intake?
    policy brief*.
 4. Press Information Bureau, Government of India. *Mission Saksham
    Anganwadi and Poshan 2.0*.
+5. Food Safety and Standards Authority of India (FSSAI). *About FSSAI*
+   and the *Food Safety and Standards Act, 2006*.
+6. Ministry of Health and Family Welfare, Government of India.
+   *National Nutrition Policy, 1993*.
 5. Ministry of Women and Child Development, Government of India. *ICDS
    Scheme* — programme documentation.
 6. Park, K. *Park's Textbook of Preventive and Social Medicine* —
@@ -412,4 +492,4 @@ body and can accumulate with excess intake?
 
 **Next Chapter:** Mental Health
 
-[← Previous](essential-medicines.html) | [Top](#home) | [Contents](../intro.html) | Chapter 9/28 | [Next Chapter →](mental-health.html)
+[← Previous](essential-medicines.html) | [Top](#home) | [Contents](../intro.html) | Chapter 9/29 | [Next Chapter →](mental-health.html)

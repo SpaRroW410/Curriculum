@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](international-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 27/28 | [Next Chapter →](health-talks.html)"
+    footer: "[← Previous](international-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 27/29 | [Next Chapter →](health-talks.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -34,6 +34,8 @@ revealjs-plugins:
 - Trace the historical abuses that produced modern research ethics
 - Apply a structured framework to an ethical dilemma
 - Explain why error disclosure is an ethical obligation
+
+**NMC Community Medicine Code:** CM20.4
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -305,10 +307,46 @@ exactly why this chapter teaches both.
   and protected — an increasingly relevant law as health records
   digitize (recall ABDM/Ayushman Bharat Digital Mission from the
   health-planning content)
+- **Transplantation of Human Organs and Tissues Act (THOTA), 1994**
+  (amended 2011) — regulates the removal, storage, and transplantation
+  of human organs/tissues; defines **brain death** as legal death for
+  transplantation purposes, and criminalizes commercial dealing in
+  human organs ("organ trafficking")
 
 **Why these are grouped together:** each extends a general ethical
-principle from earlier in this chapter (non-discrimination, privacy)
-into disease- or context-specific statutory protection.
+principle from earlier in this chapter (non-discrimination, privacy,
+prohibition of commodifying the human body) into disease- or
+context-specific statutory protection.
+
+---
+
+## Regulation of Research: Ethics Committees and CTRI {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Research involving human participants — clinical trials, vaccine
+studies, community health surveys — carries its own layer of ethical
+regulation, distinct from clinical-practice ethics covered above:
+
+- **Institutional Ethics Committee (IEC)** — every institution
+  conducting human research must have one; reviews and approves study
+  protocols before enrollment begins, safeguarding participant welfare,
+  informed consent, and confidentiality
+- **ICMR National Ethical Guidelines** — the Indian Council of Medical
+  Research's guidelines for biomedical and health research involving
+  human participants, the reference framework Ethics Committees apply
+- **Clinical Trials Registry – India (CTRI)** — mandatory prospective
+  registration of every clinical trial conducted in India, hosted by
+  the ICMR's National Institute of Medical Statistics; required before
+  a trial can enroll participants, and intended to increase
+  transparency and prevent selective reporting of only favourable
+  results
+
+**Why this belongs in an AETCOM chapter:** informed consent (covered
+earlier in this chapter for clinical care) applies with equal or
+greater force in research, where a participant may gain no direct
+personal benefit — making independent ethics review and public
+registration essential safeguards.
 
 ---
 
@@ -428,4 +466,4 @@ consumer court must establish duty of care, breach of that duty, and:
 
 **Next Chapter:** Health Talks and Community IEC
 
-[← Previous](international-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 27/28 | [Next Chapter →](health-talks.html)
+[← Previous](international-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 27/29 | [Next Chapter →](health-talks.html)

@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/28 | [Next Chapter →](preventive-medicine.html)"
+    footer: "[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/29 | [Next Chapter →](preventive-medicine.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -33,6 +33,8 @@ revealjs-plugins:
 - Trace the history of India's family planning programme, 1952 to present
 - State the goal of India's National Population Policy 2000
 - Apply the MTP Act's gestational-age thresholds and recognized indications
+
+**NMC Community Medicine Code:** CM9/CM10
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -113,6 +115,42 @@ population decline, absent migration.
 
 **Exam tip:** GRR ignores mortality; NRR accounts for it — this is the
 key distinguishing feature between the two.
+
+---
+
+## Sources of Vital Statistics {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Every rate above (CBR, CDR, TFR) depends on reliable underlying data —
+India draws on several distinct, complementary sources rather than one:
+
+- **Census** — a complete, decennial (every 10 years) headcount of the
+  entire population; the only source giving small-area (down to
+  village-level) population denominators
+- **Sample Registration System (SRS)** — a continuous, large-scale
+  dual-record sample survey providing **annual** estimates of birth and
+  death rates between census years, when a full census isn't available
+- **Civil Registration System (CRS)** — the legal, event-based
+  registration of every birth and death as it occurs (distinct from
+  SRS's sample-based estimation); registration is compulsory under the
+  Registration of Births and Deaths Act, 1969, though completeness
+  varies by state
+- **National Family Health Survey (NFHS)** — a periodic, large sample
+  survey (five rounds since 1992–93) providing detailed indicators on
+  fertility, family planning, maternal/child health, and nutrition —
+  richer than SRS's basic rates
+- **National Sample Survey Office (NSSO)** — conducts broader
+  socioeconomic surveys (consumption, employment, health expenditure)
+  supplementing the health-specific sources above
+
+**Sex ratio** — number of females per 1,000 males — is itself one of
+the demographic indicators these sources track over time, alongside the
+rates already covered.
+
+**National Population Policy** context is covered on the next slides;
+these sources are what supply the data such policy targets are measured
+against.
 
 ---
 
@@ -206,6 +244,35 @@ sepsis, infertility).
 **Consent:** an adult woman's own written consent is sufficient; a
 minor or a woman with mental illness requires guardian consent. The Act
 mandates confidentiality of the woman's identity.
+
+---
+
+## The PC-PNDT Act and Mission Parivar Vikas {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Two further legal/programmatic tools shape India's family planning and
+sex-ratio landscape, distinct from the MTP Act above:
+
+- **Pre-Conception and Pre-Natal Diagnostic Techniques (PC-PNDT) Act,
+  1994** — prohibits **sex selection** before or after conception and
+  regulates prenatal diagnostic techniques (e.g. ultrasound) to prevent
+  their misuse for female foeticide; every diagnostic facility using
+  such techniques must be registered, and disclosing the sex of a
+  fetus is a punishable offence. Enacted in direct response to India's
+  declining child sex ratio.
+- **Mission Parivar Vikas** — a targeted family-planning initiative
+  focused on **146 high-fertility districts** across seven states with
+  the highest total fertility rates, aiming to accelerate access to
+  contraceptives and family-planning services precisely where the
+  demographic-transition progress described earlier in this chapter
+  has lagged furthest behind the national average.
+
+**Why these are taught together:** PC-PNDT protects against a
+distortion in family size *composition* (sex-selective practices),
+while Mission Parivar Vikas addresses geographic disparity in family
+size *itself* — both refine the broad national family planning
+programme into more targeted interventions.
 
 ---
 
@@ -362,4 +429,4 @@ permanent method would most likely choose:
 
 **Next Chapter:** Preventive Medicine in Obstetrics, Paediatrics and Geriatrics
 
-[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/28 | [Next Chapter →](preventive-medicine.html)
+[← Previous](mdg-sdg.html) | [Top](#home) | [Contents](../intro.html) | Chapter 13/29 | [Next Chapter →](preventive-medicine.html)

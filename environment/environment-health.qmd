@@ -21,7 +21,9 @@ editor:
     wrap: 72
 ---
 
-# Environmental Health 
+# Environmental Health
+
+**NMC Community Medicine Code:** CM3 (Environmental Health Problems)
 
 This section introduces the **principles of Environmental Health**,
 focusing on how natural and built environments influence human

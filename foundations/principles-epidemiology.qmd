@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/28 | [Next Chapter →](epidemiologic-methods.html)"
+    footer: "[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/29 | [Next Chapter →](epidemiologic-methods.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -34,6 +34,8 @@ revealjs-plugins:
 - Explain why epidemiology needs a fixed operational case definition
 - Outline the broad types of epidemiological study
 - Recognize John Snow's 1854 investigation as a founding case study
+
+**NMC Community Medicine Code:** CM7
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -392,4 +394,4 @@ than only observing existing exposure) is classified as:
 
 **Next Chapter:** Epidemiologic Methods
 
-[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/28 | [Next Chapter →](epidemiologic-methods.html)
+[← Previous](concept-health-disease.html) | [Top](#home) | [Contents](../intro.html) | Chapter 3/29 | [Next Chapter →](epidemiologic-methods.html)

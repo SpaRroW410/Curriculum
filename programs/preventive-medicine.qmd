@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](demography.html) | [Top](#home) | [Contents](../intro.html) | Chapter 14/28 | [Next Chapter →](tribal-health.html)"
+    footer: "[← Previous](demography.html) | [Top](#home) | [Contents](../intro.html) | Chapter 14/29 | [Next Chapter →](tribal-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -30,9 +30,14 @@ revealjs-plugins:
 - Define high-risk pregnancy and list its major risk factor categories
 - Explain the Under-Five Clinic concept and its symbolic triangle
 - Describe Essential Newborn Care and Kangaroo Mother Care
+- Describe IMNCI and name India's major RCH schemes (JSY, JSSK, PMSMA,
+  SUMAN, LaQshya, HBNC, HBYC, RBSK, SAANS, MusQan)
+- Describe the RKSK adolescent health strategy and its priority domains
 - Apply the levels of prevention to child and elderly preventive care
 - Describe the WHO Decade of Healthy Ageing framework
 - Explain palliative care and why it is not limited to end-of-life care
+
+**NMC Community Medicine Code:** CM10/CM12
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -128,6 +133,110 @@ simple bundle, not advanced technology.
 
 ---
 
+## IMNCI: Integrated Management of Neonatal and Childhood Illness {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**IMNCI** is India's adaptation of WHO/UNICEF's IMCI strategy, extended
+to explicitly cover the neonatal period (birth to 2 months) alongside
+early childhood (2 months to 5 years) — recognizing that most child
+deaths result from a **small number of conditions, often overlapping**
+in the same sick child (pneumonia, diarrhoea, malaria, malnutrition,
+measles, and — for neonates — sepsis, birth asphyxia, low birth
+weight).
+
+**Three components:**
+
+1. **Improving case-management skills** of health workers — a
+   standardized clinical algorithm (assess → classify → treat/refer)
+   usable even at the sub-centre level, not requiring a physician
+2. **Improving the health system** — drug supply, referral, supervision
+3. **Improving family and community practices** — care-seeking
+   behaviour, home care, nutrition
+
+**Why "integrated" matters:** a single-disease programme might miss a
+child with pneumonia who is also severely malnourished; IMNCI's
+combined classification catches overlapping danger signs a
+single-condition checklist would miss.
+
+---
+
+## RCH Schemes I: Maternal and Newborn Survival {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Beyond the WHO antenatal model and Essential Newborn Care bundle above,
+India runs a set of **named, scheme-specific interventions** under
+Reproductive and Child Health (RCH) — each targeting a distinct gap
+along the mother-newborn continuum:
+
+| Scheme | Focus |
+|---|---|
+| **Janani Suraksha Yojana (JSY)** | Cash incentive to promote institutional delivery among poor pregnant women |
+| **Janani Shishu Suraksha Karyakram (JSSK)** | Entitles pregnant women and sick newborns to **completely free** delivery (including caesarean) and free transport, drugs, diagnostics, and diet in public facilities — removing out-of-pocket cost as a barrier |
+| **Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)** | Fixed-day (9th of every month), assured, free antenatal check-up for all pregnant women in their 2nd/3rd trimester |
+| **Surakshit Matritva Aashwasan (SUMAN)** | Guarantees zero-expense, dignified, quality care for every pregnant woman, mother, and newborn — including for stillbirths and miscarriages — with an assured grievance-redressal mechanism |
+| **LaQshya (Labour Room Quality Improvement Initiative)** | Improves quality of care **within** labour rooms and maternity operation theatres, to reduce preventable maternal/newborn mortality and improve patient experience |
+
+**Why these are taught as a set:** each closes a different link in the
+same chain — JSY drives facility delivery, JSSK removes cost as a
+barrier once there, PMSMA and SUMAN assure care quality before and
+around delivery, and LaQshya assures quality **inside** the labour
+room itself.
+
+---
+
+## RCH Schemes II: Newborn and Child Survival {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A second set of RCH schemes extends care from delivery into the
+newborn and childhood period:
+
+| Scheme | Focus |
+|---|---|
+| **Home Based Newborn Care (HBNC)** | ASHA-delivered home visits (day 1, 3, 7, 14, 21, 28 for institutional deliveries) to check danger signs, support breastfeeding, and refer sick newborns early |
+| **Home Based Young Child Care (HBYC)** | Extends HBNC's home-visit model from 3 weeks up to 15 months, addressing nutrition, growth monitoring, and development beyond the immediate newborn period |
+| **Rashtriya Bal Swasthya Karyakram (RBSK)** | Child screening for the **"4 Ds"** — Defects at birth, Diseases, Deficiencies, and Developmental delays including disabilities — with free treatment and follow-up |
+| **SAANS (Social Awareness and Action to Neutralize Pneumonia Successfully)** | Targeted programme to reduce **childhood pneumonia deaths**, the leading infectious killer of under-fives, through early care-seeking and case management |
+| **MusQan** | Quality-improvement initiative for **child and adolescent-friendly hospital services**, extending the LaQshya labour-room quality logic to paediatric care areas |
+
+**Exam tip — HBNC vs. HBYC:** both are ASHA home-visit schemes; HBNC
+covers the **newborn** period (first month), HBYC continues visits
+through **early childhood** (up to 15 months) — do not confuse their
+age windows.
+
+---
+
+## Adolescent Health: Rashtriya Kishor Swasthya Karyakram (RKSK) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Adolescence (10–19 years) is a distinct life stage with its own health
+needs, bridging the paediatric and adult continuum-of-care content in
+this chapter — addressed through **RKSK**, India's national adolescent
+health programme, built on six priority domains:
+
+1. **Nutrition** — anaemia, adolescent-specific dietary needs
+2. **Sexual and reproductive health** — including menstrual hygiene
+3. **Non-communicable diseases** — early risk-factor prevention
+4. **Substance misuse**
+5. **Injuries and violence** (including gender-based violence)
+6. **Mental health**
+
+**Delivery platforms:** RKSK works through **Adolescent Friendly
+Health Clinics (AFHCs)** and **Peer Educators** (one boy and one girl
+per village/ward, trained to counsel and refer other adolescents) —
+recognizing that adolescents often avoid conventional health facilities
+and respond better to peer-delivered information.
+
+**Connects to:** school health programmes and the gender/women's
+empowerment content threaded through this chapter's maternal health
+sections, and the substance-misuse domain links forward to the Mental
+Health chapter's coverage of alcoholism and drug dependence.
+
+---
+
 ## Life-Stage Care and Levels of Prevention {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -176,7 +285,11 @@ principles matter most for exams:
 - **Universal Immunization Programme (UIP)** is India's platform
   delivering the national schedule free of cost through the general
   health system — the same primary-care infrastructure discussed in
-  Chapter 11
+  Chapter 11 — strengthened by **Mission Indradhanush** (targeted
+  intensive drives to reach unvaccinated/partially vaccinated children
+  and pregnant women in low-coverage pockets) and **U-WIN** (the
+  digital immunization-tracking platform, extending the Co-WIN model
+  used for COVID-19 vaccination to routine UIP doses)
 
 ---
 
@@ -194,6 +307,15 @@ targets include:
 - **Polypharmacy review** — older adults are disproportionately affected
   by irrational medicine use (Chapter 8), given multiple concurrent
   prescriptions
+
+**National Programme for Health Care of the Elderly (NPHCE)** —
+India's dedicated programme operationalizing the screening priorities
+above: dedicated geriatric OPD/inpatient services at district
+hospitals, Rehabilitation Units at Regional Geriatric Centres, and
+domiciliary (home-based) care for bed-ridden elderly through the
+primary-care infrastructure — extending the Decade of Healthy Ageing's
+"person-centred, integrated care" action area into an actual funded
+national programme.
 
 ---
 
@@ -348,6 +470,25 @@ The WHO Decade of Healthy Ageing (2021-2030) is explicitly aligned with:
 ::: {.quiz-question}
 ### Question 6
 
+Which RCH scheme guarantees pregnant women and sick newborns completely
+free delivery, drugs, diagnostics, transport, and diet in public health
+facilities?
+
+- Janani Suraksha Yojana (JSY)
+- [Janani Shishu Suraksha Karyakram (JSSK)]{.correct data-explanation="JSSK entitles pregnant women and sick newborns to completely free services in public facilities — including free delivery/caesarean, drugs, diagnostics, diet, and transport — removing out-of-pocket cost as a barrier to care. JSY, by contrast, is a cash incentive to promote institutional delivery."}
+- Rashtriya Bal Swasthya Karyakram (RBSK)
+- LaQshya
+:::
+
+---
+
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 7
+
 Kangaroo Mother Care is particularly valuable for which group of
 newborns?
 
@@ -359,12 +500,12 @@ newborns?
 
 ---
 
-## Self-Check: Question 7 {background-color="#FDE8E8"}
+## Self-Check: Question 8 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 7
+### Question 8
 
 Palliative care is best described as:
 
@@ -388,6 +529,14 @@ Palliative care is best described as:
    2021–2030*.
 5. World Health Organization. *Kangaroo Mother Care: A Practical Guide*.
 6. World Health Organization. *Palliative Care* — fact sheet.
+7. Ministry of Health and Family Welfare, Government of India.
+   *Guidelines: Janani Suraksha Yojana, JSSK, PMSMA, SUMAN, LaQshya*.
+8. Ministry of Health and Family Welfare, Government of India.
+   *Operational Guidelines: HBNC, HBYC, RBSK, SAANS*.
+9. Ministry of Health and Family Welfare, Government of India.
+   *Rashtriya Kishor Swasthya Karyakram (RKSK) Strategy Handbook*.
+10. Integrated Management of Neonatal and Childhood Illness (IMNCI)
+    — Facilitator Guide, Government of India.
 
 ---
 
@@ -395,4 +544,4 @@ Palliative care is best described as:
 
 **Next Chapter:** Tribal Health in India
 
-[← Previous](demography.html) | [Top](#home) | [Contents](../intro.html) | Chapter 14/28 | [Next Chapter →](tribal-health.html)
+[← Previous](demography.html) | [Top](#home) | [Contents](../intro.html) | Chapter 14/29 | [Next Chapter →](tribal-health.html)

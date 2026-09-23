@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/28 | [Next Chapter →](health-planning.html)"
+    footer: "[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/29 | [Next Chapter →](health-planning.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -33,6 +33,8 @@ revealjs-plugins:
 - Identify caste, gender, and class as India-specific axes of health inequity
 - Apply the Kuppuswamy, BG Prasad, and Pareek's scales to classify socioeconomic status
 - Connect this chapter's sociology/anthropology lens to earlier chapters' health-education and prevention content
+
+**NMC Community Medicine Code:** CM2
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -193,6 +195,52 @@ and rural socioeconomic structures differ enough (land ownership,
 caste's role, income sources) that no single scale performs well in
 both settings — matching a scale to the study population is itself a
 methodological decision.
+
+---
+
+## Family: Types, Functions, and Social Security {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The **family** is the basic social unit through which most health-seeking
+behaviour, care-giving, and early socialization occurs.
+
+**Types of family:**
+
+- **Nuclear family** — parents and their unmarried children only; the
+  predominant urban Indian family structure today
+- **Joint (extended) family** — multiple generations and/or married
+  siblings sharing a household, resources, and income; historically the
+  norm in rural India, providing built-in social support (childcare,
+  elder care) but also diluting individual decision-making autonomy
+- **Three-generation family** — an intermediate form (grandparents,
+  parents, children) common as joint families fragment
+
+**Functions of the family:** reproduction, physical maintenance
+(food, shelter) of members, socialization of children, social control,
+affection and emotional support, and — most relevant to community
+medicine — the **primary unit of health care**: it is usually the
+family, not the individual, that decides whether and when to seek care.
+
+**Social security measures** protect individuals and families against
+income loss from life's contingencies (old age, disability, death of an
+earning member, unemployment). India's major schemes:
+
+- **Employees' State Insurance (ESI)** — health insurance and cash
+  benefits for organized-sector workers below a wage ceiling
+- **Employees' Provident Fund (EPF)** — compulsory retirement savings
+  scheme for organized-sector employees
+- **Public Distribution System (PDS)** — subsidized foodgrain,
+  addressing food security as a form of social protection
+- **Pradhan Mantri Jan Arogya Yojana (PM-JAY / Ayushman Bharat)** —
+  the largest health-insurance social security net, covering
+  hospitalization for economically vulnerable families (introduced in
+  Chapter 24's health-financing content)
+
+**Why this belongs alongside socioeconomic scales:** family structure
+and access to social security together shape the resources a household
+can mobilize when illness strikes — the same underlying determinant the
+Kuppuswamy/BG Prasad/Pareek scales attempt to measure more formally.
 
 ---
 
@@ -381,4 +429,4 @@ monthly family income, and is used in both urban and rural India?
 
 **Next Chapter:** Health Planning and Management
 
-[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/28 | [Next Chapter →](health-planning.html)
+[← Previous](health-education.html) | [Top](#home) | [Contents](../intro.html) | Chapter 23/29 | [Next Chapter →](health-planning.html)

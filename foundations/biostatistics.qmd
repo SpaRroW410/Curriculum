@@ -36,6 +36,8 @@ revealjs-plugins:
 - Apply the t-test and chi-square test to appropriate data types
 - Distinguish correlation from regression
 
+**NMC Community Medicine Code:** CM6
+
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
 ::: {.notes}
@@ -92,6 +94,10 @@ health data (Chapter 21), applied here to any dataset:
   continuous
 - **Line diagram** — shows a trend over time (e.g. monthly disease
   incidence)
+- **Statistical (spot) map** — shows geographic distribution of a
+  variable across areas/regions (e.g. district-wise disease incidence
+  shaded on a map) — the same logic John Snow applied by hand-plotting
+  cholera deaths around the Broad Street pump (Chapter 3)
 
 **Exam tip:** a histogram's bars touch; a bar diagram's bars don't —
 this single visual distinction encodes the deeper point that histograms

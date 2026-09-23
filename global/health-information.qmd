@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/28 | [Next Chapter →](health-education.html)"
+    footer: "[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/29 | [Next Chapter →](health-education.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -32,6 +32,8 @@ revealjs-plugins:
 - Break down the DALY formula into its YLL and YLD components
 - Distinguish DALYs from QALYs
 - Recognize basic data-presentation formats used in health information systems
+
+**NMC Community Medicine Code:** CM9
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -400,4 +402,4 @@ Crude Birth Rate and Crude Death Rate are called "crude" because they:
 
 **Next Chapter:** Communication for Health Education
 
-[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/28 | [Next Chapter →](health-education.html)
+[← Previous](../environment/genetics.html) | [Top](#home) | [Contents](../intro.html) | Chapter 21/29 | [Next Chapter →](health-education.html)

@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](../diseases/mental-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 11/28 | [Next Chapter →](mdg-sdg.html)"
+    footer: "[← Previous](../diseases/mental-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 11/29 | [Next Chapter →](mdg-sdg.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -324,4 +324,4 @@ expenditure to what share of GDP by 2025?
 
 **Next Chapter:** Millennium Development Goals to Sustainable Development Goals
 
-[← Previous](../diseases/mental-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 11/28 | [Next Chapter →](mdg-sdg.html)
+[← Previous](../diseases/mental-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 11/29 | [Next Chapter →](mdg-sdg.html)

@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/28 | [Next Chapter →](genetics.html)"
+    footer: "[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/29 | [Next Chapter →](genetics.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -34,6 +34,8 @@ revealjs-plugins:
 - Distinguish human from environmental causes of industrial accidents
 - Outline the Factories Act, 1948 alongside the ESI Act
 - Apply correct first aid for snakebite envenoming
+
+**NMC Community Medicine Code:** CM11
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -191,6 +193,22 @@ workers: pesticide exposure, zoonotic disease risk (from livestock
 contact), musculoskeletal strain, heat exposure, and mechanical injury
 from farm equipment — a reminder that "occupational health" is not
 synonymous with "industrial health."
+
+**Hazards of health professionals** — healthcare workers are themselves
+an occupational-health population, not just providers of care to
+others:
+
+- **Needlestick and sharps injuries** — the leading route of
+  occupational exposure to bloodborne pathogens (Hepatitis B, Hepatitis
+  C, HIV) among health workers; prevented by safe-injection practice
+  and safe disposal (recall the biomedical waste segregation covered in
+  the Waste Management chapter)
+- **Biological hazards** — direct exposure to infectious patients
+  (tuberculosis, COVID-19), mitigated by the standard precautions and
+  PPE covered in the Hospital-Acquired Infections module
+- **Musculoskeletal and psychosocial hazards** — patient-handling
+  injuries, shift work, and burnout, increasingly recognized alongside
+  the traditional infectious/chemical hazard focus
 
 ---
 
@@ -433,4 +451,4 @@ traditional practice should be avoided?
 
 **Next Chapter:** Genetics and Health
 
-[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/28 | [Next Chapter →](genetics.html)
+[← Previous](disaster-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 19/29 | [Next Chapter →](genetics.html)

@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](epidemiologic-methods.html) | [Top](#home) | [Contents](../intro.html) | Chapter 5/28 | [Next Chapter →](../diseases/communicable-diseases.html)"
+    footer: "[← Previous](epidemiologic-methods.html) | [Top](#home) | [Contents](../intro.html) | Chapter 5/29 | [Next Chapter →](../diseases/communicable-diseases.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -31,6 +31,8 @@ revealjs-plugins:
 - Calculate and interpret sensitivity, specificity, PPV, and NPV
 - Describe the main types of screening
 - Explain lead time bias, length time bias, and overdiagnosis
+
+**NMC Community Medicine Code:** CM7
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -341,4 +343,4 @@ have caused symptoms or harm in a person's lifetime is called:
 
 **Next Chapter:** Epidemiology of Communicable Diseases
 
-[← Previous](epidemiologic-methods.html) | [Top](#home) | [Contents](../intro.html) | Chapter 5/28 | [Next Chapter →](../diseases/communicable-diseases.html)
+[← Previous](epidemiologic-methods.html) | [Top](#home) | [Contents](../intro.html) | Chapter 5/29 | [Next Chapter →](../diseases/communicable-diseases.html)

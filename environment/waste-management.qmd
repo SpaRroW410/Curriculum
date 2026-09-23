@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](environment-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 17/28 | [Next Chapter →](disaster-management.html)"
+    footer: "[← Previous](environment-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 17/29 | [Next Chapter →](disaster-management.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -31,6 +31,8 @@ revealjs-plugins:
 - State what proportion of hospital waste is hazardous vs. general
 - Compare autoclaving and incineration as treatment methods
 - Identify which waste types must NOT be autoclaved
+
+**NMC Community Medicine Code:** CM14
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -302,4 +304,4 @@ waste must be treated or disposed of within:
 
 **Next Chapter:** Disaster Management
 
-[← Previous](environment-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 17/28 | [Next Chapter →](disaster-management.html)
+[← Previous](environment-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 17/29 | [Next Chapter →](disaster-management.html)

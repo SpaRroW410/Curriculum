@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/28 | [Next Chapter →](demography.html)"
+    footer: "[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/29 | [Next Chapter →](demography.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -31,6 +31,8 @@ revealjs-plugins:
 - Explain why the global development agenda moved from MDGs to SDGs
 - Identify SDGs beyond SDG 3 that directly determine health outcomes
 - Distinguish the scope and design philosophy of the two frameworks
+
+**NMC Community Medicine Code:** CM1/CM17
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -314,4 +316,4 @@ measures covered in the Communicable Diseases chapter?
 
 **Next Chapter:** Demography and Family Planning
 
-[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/28 | [Next Chapter →](demography.html)
+[← Previous](health-programmes.html) | [Top](#home) | [Contents](../intro.html) | Chapter 12/29 | [Next Chapter →](demography.html)

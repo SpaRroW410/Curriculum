@@ -30,6 +30,8 @@ revealjs-plugins:
 - Identify major environmental hazards threatening human health
 - Describe the evolution from environmental sanitation to environmental health
 - Recognize the role of multi-disciplinary approaches in environmental health
+- Describe arthropod vectors, their modes of disease transmission, and general life cycles
+- Classify insecticides and rodenticides by mode of action and chemical group, and explain insecticide resistance
 
 ::: {.notes}
 This module establishes the foundational concepts of environmental health that underpin all subsequent discussions on water, sanitation, and public health interventions.
@@ -382,6 +384,128 @@ water/soil pollution, and creates odour/aesthetic nuisance.
 
 ---
 
+## Medical Entomology: Vectors and Modes of Transmission {.smaller}
+
+### Arthropods of Medical Importance
+
+A **vector** is an arthropod that transmits an infective agent from an
+infected host (or reservoir) to a susceptible host. Two arthropod
+classes account for almost all vector-borne disease of public health
+importance:
+
+- **Insects**: mosquitoes (malaria, dengue, filariasis, JE), houseflies
+  (mechanical carriers of feco-oral pathogens), sandflies (kala-azar),
+  lice (typhus, relapsing fever), fleas (plague), triatomine/reduviid
+  bugs (Chagas disease — not endemic to India but classically taught)
+- **Arachnids**: hard ticks (Kyasanur Forest Disease, tick typhus),
+  mites (scrub typhus via the chigger/larval stage)
+
+**Modes of transmission by a vector:**
+
+| Type | Mechanism | Example |
+|---|---|---|
+| **Mechanical** | Agent carried passively (on legs/body or in gut) with no multiplication or development in the vector | Housefly carrying *Shigella*, *Salmonella* on its body |
+| **Biological — propagative** | Agent multiplies in the vector but does **not** change form | Plague bacillus in the flea |
+| **Biological — cyclodevelopmental** | Agent changes form/develops but does **not** multiply | Microfilaria developing to the infective larval stage in the mosquito; guinea worm larva in *Cyclops* |
+| **Biological — cyclopropagative** | Agent **both** develops and multiplies | Malaria parasite in the female *Anopheles* |
+
+::: {.notes}
+This classification recurs across the Communicable Diseases chapters:
+malaria and filariasis are both mosquito-borne, but the parasite's
+relationship with the vector differs fundamentally, which is why
+malaria control (interrupting a multiplying-and-developing cycle) and
+lymphatic filariasis control (interrupting a developing-only cycle)
+use different surveillance logic.
+:::
+
+---
+
+## Vector Life Cycles and Principles of Control {.smaller}
+
+### General Biology and Control Strategies
+
+**Mosquito life cycle** (complete metamorphosis — four distinct
+stages, three of them aquatic):
+
+**Egg → Larva → Pupa → Adult**, with only the adult stage terrestrial
+and blood-feeding (in females). Genus-level differences examiners
+expect:
+
+| Genus | Egg-laying pattern | Resting position | Breeding habitat |
+|---|---|---|---|
+| *Anopheles* | Single eggs with floats | Adult rests at an angle to the surface | Clean, slow-moving/stagnant water |
+| *Culex* | Eggs laid as a **raft** | Adult rests parallel to the surface | Polluted water, drains |
+| *Aedes* | Single eggs, laid just above the waterline (resist desiccation) | Adult rests parallel to the surface | Small clean-water collections (containers, tyres, coolers) |
+
+**Principles of vector control** (the same framework applies whether
+the target is mosquitoes, flies, or rodents):
+
+1. **Environmental control (source reduction)** — filling, draining,
+   or eliminating breeding sites; the most sustainable measure, since
+   it removes the need for repeated chemical application
+2. **Chemical control** — larvicides (temephos) against immature
+   stages, adulticides/insecticides against the adult
+3. **Biological control** — larvivorous fish (*Gambusia*, *Poecilia*)
+   introduced into breeding-prone water bodies
+4. **Mechanical/personal protection** — bed nets (including
+   long-lasting insecticidal nets, LLINs), screening, repellents,
+   protective clothing
+5. **Genetic control** — sterile insect technique (males sterilized by
+   radiation released to mate unproductively) — used selectively,
+   resource-intensive
+
+::: {.notes}
+Vector control connects directly to the National Vector Borne Disease
+Control Programme content in the Communicable Diseases chapters —
+source reduction and larvivorous fish are emphasized there as the
+sustainable backbone of malaria/dengue control, with indoor residual
+spraying (chemical control) used to supplement rather than replace them.
+:::
+
+---
+
+## Insecticides and Rodenticides: Classification {.smaller}
+
+### By Mode of Entry and Chemical Group
+
+**Classification by mode of entry into the target organism:**
+
+- **Stomach poisons** — must be ingested (e.g., rodenticide baits)
+- **Contact poisons** — absorbed through the cuticle/skin on contact
+  (most insecticides used in vector control)
+- **Fumigants** — act as a toxic gas, entering via the respiratory
+  system
+- **Repellents** — do not kill; deter the arthropod from approaching
+  or biting
+
+**Classification of insecticides by chemical group:**
+
+| Group | Examples | Notes |
+|---|---|---|
+| **Organochlorines** | DDT, BHC/HCH | Highly persistent (environmental accumulation); DDT is restricted to indoor residual spraying only under India's vector-control programme, not for agricultural use |
+| **Organophosphates** | Malathion, fenitrothion | Widely used for indoor residual spraying and fogging; less environmentally persistent than organochlorines but more acutely toxic to humans |
+| **Carbamates** | Propoxur | Similar mode of action to organophosphates (cholinesterase inhibition) |
+| **Pyrethroids** | Deltamethrin, permethrin | Low mammalian toxicity; the insecticide class used to treat long-lasting insecticidal nets (LLINs) |
+
+**Rodenticides** are classified by speed of action:
+
+- **Acute (single-dose)** — e.g., zinc phosphide; fast-acting but
+  carries a bait-shyness risk (surviving rodents avoid the bait)
+- **Chronic (anticoagulant, multi-dose)** — e.g., warfarin; slower
+  acting, avoids bait-shyness since the rodent does not associate a
+  delayed effect with the bait
+
+**Insecticide resistance** — a heritable, selected reduction in an
+insect population's susceptibility to an insecticide over repeated
+exposure, arising through **metabolic resistance** (enhanced enzymatic
+detoxification) or **target-site resistance** (mutation at the
+insecticide's binding site, e.g., knockdown resistance to pyrethroids).
+Resistance is a major operational constraint on vector control
+programmes, driving rotation between insecticide classes and renewed
+emphasis on non-chemical (environmental, biological) methods.
+
+---
+
 ## The Meteorological Environment {.smaller}
 
 ### Climate, Pressure, and Health
@@ -640,6 +764,8 @@ The failure of many WASH programs stems from focusing on only one aspect. Buildi
 
 ✓ Both water quantity and quality are essential for hygiene and disease prevention
 
+✓ Vectors transmit disease mechanically or biologically (propagative, cyclodevelopmental, cyclopropagative); control combines environmental, chemical, biological, and personal-protection measures
+
 **Next Steps:**
 
 Module 3 will dive deep into water quality standards and criteria, covering WHO guidelines, chemical parameters, and health-risk assessment methods.
@@ -704,6 +830,27 @@ A village has 100% toilet coverage but diarrheal disease rates remain high. Poss
 
 ::: {.notes}
 **Explanation:** High diarrheal rates despite toilet coverage suggest behavioral issues (not using toilets), inadequate water supply (toilets unusable), or poor waste management (toilets contaminating environment). Antibiotic availability is irrelevant to prevention—antibiotics treat disease, not prevent transmission. This highlights that infrastructure alone doesn't ensure health outcomes.
+:::
+
+---
+
+### Question 5 {.quiz-question}
+
+The malaria parasite both develops and multiplies inside the female
+*Anopheles* mosquito. This mode of transmission is classified as:
+
+- Mechanical transmission
+- Biological — propagative
+- Biological — cyclodevelopmental
+- [Biological — cyclopropagative]{.correct}
+
+::: {.notes}
+**Explanation:** Cyclopropagative transmission means the agent both
+changes form (develops) and multiplies within the vector — exactly the
+malaria parasite's relationship with *Anopheles*. Propagative means
+multiplication only (e.g., plague bacillus in the flea);
+cyclodevelopmental means development only, without multiplication
+(e.g., microfilaria in the mosquito).
 :::
 
 ---

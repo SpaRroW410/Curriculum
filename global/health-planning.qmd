@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/28 | [Next Chapter →](community-health.html)"
+    footer: "[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/29 | [Next Chapter →](community-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -32,6 +32,8 @@ revealjs-plugins:
 - Trace the role of India's Five-Year Plans in health sector development, and the transition to NITI Aayog
 - List Gulick's seven POSDCORB management functions
 - Apply the planning cycle to a national health programme example
+
+**NMC Community Medicine Code:** CM16
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -147,6 +149,33 @@ health programme or facility:
 "what does managing a health programme actually involve" beyond just
 clinical or technical content — the same operational lens this chapter
 applies to Chapters 11–15's programme content.
+
+---
+
+## PERT and CPM: Scheduling Complex Programmes {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Once a programme moves from POSDCORB's broad functions to actually
+scheduling a multi-step rollout (e.g. building and staffing a new
+health facility), two network-based project-management techniques help
+plan the timeline:
+
+- **PERT (Programme Evaluation and Review Technique)** — used when
+  activity durations are **uncertain**; estimates each activity's time
+  using optimistic, most-likely, and pessimistic estimates, useful for
+  novel programmes without historical timing data
+- **CPM (Critical Path Method)** — used when activity durations are
+  **known/fixed**; identifies the **critical path** — the sequence of
+  dependent activities with the longest total duration, which
+  determines the minimum possible time to complete the whole project,
+  since delaying any activity on it delays the entire programme
+
+**Why this matters operationally:** both techniques identify which
+activities have no slack (must start/finish on schedule) versus which
+have float (can slip without delaying the programme) — turning
+"planning" and "implementation" from the cycle above into an actual,
+manageable schedule.
 
 ---
 
@@ -308,4 +337,4 @@ target health outcome does not improve. This scenario illustrates that:
 
 **Next Chapter:** Health Care of the Community
 
-[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/28 | [Next Chapter →](community-health.html)
+[← Previous](social-sciences.html) | [Top](#home) | [Contents](../intro.html) | Chapter 24/29 | [Next Chapter →](community-health.html)
