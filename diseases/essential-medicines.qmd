@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/28 | [Next Chapter →](nutrition.html)"
+    footer: "[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/29 | [Next Chapter →](nutrition.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -33,6 +33,8 @@ revealjs-plugins:
 - State WHO's definition of rational use of medicines and list forms of irrational use
 - Distinguish substandard, falsified, and generic medicines
 - Explain why WHO retired the term "counterfeit medicines"
+
+**NMC Community Medicine Code:** CM19
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -103,6 +105,14 @@ Listing a medicine as "essential" does not by itself make it affordable
 essential; DPCO/NPPA is the mechanism that actually keeps *those same
 medicines* affordable in the market — selection and price control work
 as a linked pair, not independently.
+
+**Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)** — a
+complementary access route rather than a price-control mechanism:
+dedicated **Janaushadhi Kendras** (generic-medicine stores) sell
+quality generic medicines at 50–90% lower prices than branded
+equivalents, extending affordability beyond what ceiling-price
+regulation alone achieves by directly widening the retail supply of
+low-cost generics.
 
 ---
 
@@ -400,4 +410,4 @@ out of stock would be classified, under VED analysis, as:
 
 **Next Chapter:** Nutrition and Health
 
-[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/28 | [Next Chapter →](nutrition.html)
+[← Previous](ncd.html) | [Top](#home) | [Contents](../intro.html) | Chapter 8/29 | [Next Chapter →](nutrition.html)

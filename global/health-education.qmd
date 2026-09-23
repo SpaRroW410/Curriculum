@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-information.html) | [Top](#home) | [Contents](../intro.html) | Chapter 22/28 | [Next Chapter →](social-sciences.html)"
+    footer: "[← Previous](health-information.html) | [Top](#home) | [Contents](../intro.html) | Chapter 22/29 | [Next Chapter →](social-sciences.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -32,6 +32,8 @@ revealjs-plugins:
 - Compare individual, group, and mass approaches to health education
 - Classify audio, visual, and traditional/folk media used to deliver health messages
 - Explain why one-way information provision is often insufficient for behaviour change
+
+**NMC Community Medicine Code:** CM4
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -104,6 +106,29 @@ action, built on six components:
 addressing more than one of these components at once — e.g. a message
 raising perceived severity without also raising self-efficacy can simply
 produce anxiety without behaviour change.
+
+---
+
+## The GATHER Model for Health Counselling {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Where the Health Belief Model explains *why* someone might act, **GATHER**
+is a practical, step-wise **counselling** framework for a face-to-face
+health education encounter — widely taught for family planning and
+adolescent-health counselling sessions:
+
+- **G**reet the client warmly and respectfully
+- **A**sk about their needs, concerns, and relevant history
+- **T**ell them the information relevant to their situation and options
+- **H**elp them think through and choose the option that suits them
+- **E**xplain how to use/follow the chosen option
+- **R**eturn visit — arrange follow-up
+
+**Why it matters for the individual-approach method below:** GATHER
+operationalizes the "individual approach" to health education named
+below into a specific, examinable sequence, rather than leaving
+one-on-one counselling as an unstructured conversation.
 
 ---
 
@@ -306,4 +331,4 @@ medium are especially valued because they are:
 
 **Next Chapter:** Medicine and Social Sciences
 
-[← Previous](health-information.html) | [Top](#home) | [Contents](../intro.html) | Chapter 22/28 | [Next Chapter →](social-sciences.html)
+[← Previous](health-information.html) | [Top](#home) | [Contents](../intro.html) | Chapter 22/29 | [Next Chapter →](social-sciences.html)

@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/28 | [Next Chapter →](../environment/environment-health.html)"
+    footer: "[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/29 | [Next Chapter →](../environment/environment-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -318,4 +318,4 @@ and is usually asymptomatic but can pass the gene to offspring, has:
 
 **Next Chapter:** Environment and Health
 
-[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/28 | [Next Chapter →](../environment/environment-health.html)
+[← Previous](preventive-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 15/29 | [Next Chapter →](../environment/environment-health.html)

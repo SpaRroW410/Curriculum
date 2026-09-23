@@ -167,6 +167,13 @@ following 2–3 months.
   Programme, targeting the leading viral cause of severe childhood
   diarrhoea
 
+**Intensified Diarrhoea Control Fortnight (IDCF)** — an annual
+campaign (typically during the monsoon/pre-monsoon high-diarrhoea
+season) that intensifies ORS and zinc distribution through ASHAs and
+frontline workers at the household level, concentrating the
+prevention measures above into a focused, high-visibility push rather
+than routine year-round delivery alone.
+
 ---
 
 ## Amoebiasis and Soil-Transmitted Helminths {background-color="#E8E4F3"}
@@ -188,6 +195,12 @@ recognizing alongside bacterial/viral diarrhoea:
   drinking water containing infected copepods; a WHO-targeted eradication
   disease, controlled almost entirely through safe water and case
   containment rather than drugs
+
+**National Deworming Day (NDD)** — a biannual (February and August)
+single-day mass drug administration of albendazole to all children
+aged 1–19 years (through schools and Anganwadi Centres), regardless of
+individual infection status — the population-level delivery mechanism
+for the periodic deworming named above as STH control.
 
 ---
 

@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](principles-epidemiology.html) | [Top](#home) | [Contents](../intro.html) | Chapter 4/28 | [Next Chapter →](screening.html)"
+    footer: "[← Previous](principles-epidemiology.html) | [Top](#home) | [Contents](../intro.html) | Chapter 4/29 | [Next Chapter →](screening.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -35,6 +35,8 @@ revealjs-plugins:
 - Distinguish selection bias, information bias, and confounding
 - Compute crude, specific, and case fatality mortality rates
 - Explain why and how mortality rates are age-standardized
+
+**NMC Community Medicine Code:** CM7
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -481,4 +483,4 @@ data analysis, after the study has been conducted?
 
 **Next Chapter:** Screening for Disease
 
-[← Previous](principles-epidemiology.html) | [Top](#home) | [Contents](../intro.html) | Chapter 4/28 | [Next Chapter →](screening.html)
+[← Previous](principles-epidemiology.html) | [Top](#home) | [Contents](../intro.html) | Chapter 4/29 | [Next Chapter →](screening.html)

@@ -32,6 +32,8 @@ revealjs-plugins:
 - Apply a multi-level approach to reducing health-related stigma
 - Identify red-flag criteria that belong in every health talk's referral guidance
 
+**NMC Community Medicine Code:** CM4
+
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
 ::: {.notes}

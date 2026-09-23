@@ -22,19 +22,19 @@ website:
         menu:
           - text: "Man and Medicine: Towards Health for All"
             href: foundations/man-and-medicine.qmd
-          - text: "Concept of Health and Disease"
+          - text: "Concept of Health and Disease (CM1)"
             href: foundations/concept-health-disease.qmd
-          - text: "Principles of Epidemiology"
+          - text: "Principles of Epidemiology (CM7)"
             href: foundations/principles-epidemiology.qmd
-          - text: "Epidemiologic Methods"
+          - text: "Epidemiologic Methods (CM7)"
             href: foundations/epidemiologic-methods.qmd
-          - text: "Screening for Disease"
+          - text: "Screening for Disease (CM7)"
             href: foundations/screening.qmd
       - text: "CDs and NCDs"
         menu:
-          - text: "Epidemiology of Communicable Diseases"
+          - text: "Epidemiology of Communicable Diseases (CM7–CM8)"
             href: diseases/communicable-diseases.qmd
-          - text: "Selected Diseases: Overview"
+          - text: "Selected Diseases: Overview (CM8)"
             href: diseases/cd.qmd
           - text: "Module 1: Malaria"
             href: diseases/cd/module1_malaria.qmd
@@ -62,9 +62,9 @@ website:
             href: diseases/cd/module12_filaria_kalaazar.qmd
           - text: "Module 13: Other Vaccine-Preventable Infections"
             href: diseases/cd/module13_other_infections.qmd
-          - text: "Epidemiology of Chronic Non-Communicable Diseases"
+          - text: "Epidemiology of Chronic Non-Communicable Diseases (CM8)"
             href: diseases/ncd.qmd
-          - text: "Selected NCDs: Overview"
+          - text: "Selected NCDs: Overview (CM8)"
             href: diseases/ncd_modules.qmd
           - text: "Module 1: Diabetes Mellitus"
             href: diseases/ncd/module1_diabetes.qmd
@@ -80,27 +80,27 @@ website:
             href: diseases/ncd/module6_injuries.qmd
           - text: "Module 7: Other Significant NCDs"
             href: diseases/ncd/module7_other_ncds.qmd
-          - text: "Essential Medicines and Counterfeit Medicines"
+          - text: "Essential Medicines and Counterfeit Medicines (CM19)"
             href: diseases/essential-medicines.qmd
-          - text: "Nutrition and Health"
+          - text: "Nutrition and Health (CM5)"
             href: diseases/nutrition.qmd
-          - text: "Mental Health"
+          - text: "Mental Health (CM15)"
             href: diseases/mental-health.qmd
       - text: "Pragrams & demography"
         menu:
           - text: "Health Programmes in India"
             href: programs/health-programmes.qmd
-          - text: "Millennium Development Goals to Sustainable Development Goals"
+          - text: "Millennium Development Goals to Sustainable Development Goals (CM1/CM17)"
             href: programs/mdg-sdg.qmd
-          - text: "Demography and Family Planning"
+          - text: "Demography and Family Planning (CM9/CM10)"
             href: programs/demography.qmd
-          - text: "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics"
+          - text: "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics (CM10/CM12)"
             href: programs/preventive-medicine.qmd
           - text: "Tribal Health in India"
             href: programs/tribal-health.qmd
       - text: "Environment"
         menu:
-          - text: "Environment and Health"
+          - text: "Environment and Health (CM3)"
             href: environment/environment-health.qmd
           - text: "One Health"
             href: environment/env_health/module1_one_health.qmd
@@ -114,37 +114,37 @@ website:
             href: environment/env_health/light_health.qmd
           - text: "Radiation and Noise"
             href: environment/env_health/radiation_health.qmd
-          - text: "Hospital Waste Management"
+          - text: "Hospital Waste Management (CM14)"
             href: environment/waste-management.qmd
-          - text: "Disaster Management"
+          - text: "Disaster Management (CM13)"
             href: environment/disaster-management.qmd
-          - text: "Occupational Health"
+          - text: "Occupational Health (CM11)"
             href: environment/occupational-health.qmd
-          - text: "Genetics and Health"
+          - text: "Genetics and Health (CM8)"
             href: environment/genetics.qmd
       - text: "Miscellaneous"
         menu:
-          - text: "Health Information and Basic Medical Statistics"
+          - text: "Health Information and Basic Medical Statistics (CM9)"
             href: global/health-information.qmd
-          - text: "Communication for Health Education"
+          - text: "Communication for Health Education (CM4)"
             href: global/health-education.qmd
-          - text: "Medicine and Social Sciences"
+          - text: "Medicine and Social Sciences (CM2)"
             href: global/social-sciences.qmd
-          - text: "Health Planning and Management"
+          - text: "Health Planning and Management (CM16)"
             href: global/health-planning.qmd
-          - text: "Health Care of the Community"
+          - text: "Health Care of the Community (CM17)"
             href: global/community-health.qmd
-          - text: "International Health"
+          - text: "International Health (CM18)"
             href: global/international-health.qmd
       - text: "Professionalism"
         menu:
-          - text: "AETCOM: Attitude, Ethics and Communication"
+          - text: "AETCOM: Attitude, Ethics and Communication (CM20.4)"
             href: global/aetcom.qmd
-          - text: "Health Talks and Community IEC"
+          - text: "Health Talks and Community IEC (CM4)"
             href: global/health-talks.qmd
       - text: "Biostatistics"
         menu:
-          - text: "Basic Biostatistics"
+          - text: "Basic Biostatistics (CM6)"
             href: foundations/biostatistics.qmd
       - text: "Post Graduate"
         menu:
@@ -170,22 +170,22 @@ website:
         contents:
           - text: "Man and Medicine: Towards Health for All"
             file: foundations/man-and-medicine.qmd
-          - text: "Concept of Health and Disease"
+          - text: "Concept of Health and Disease (CM1)"
             file: foundations/concept-health-disease.qmd
-          - text: "Principles of Epidemiology"
+          - text: "Principles of Epidemiology (CM7)"
             file: foundations/principles-epidemiology.qmd
-          - text: "Epidemiologic Methods"
+          - text: "Epidemiologic Methods (CM7)"
             file: foundations/epidemiologic-methods.qmd
-          - text: "Screening for Disease"
+          - text: "Screening for Disease (CM7)"
             file: foundations/screening.qmd
 
       - section: "Communicable & Non-Communicable Diseases"
         contents:
-          - text: "Epidemiology of Communicable Diseases"
+          - text: "Epidemiology of Communicable Diseases (CM7–CM8)"
             file: diseases/communicable-diseases.qmd
           - section: "Selected Communicable Diseases"
             contents:
-              - text: "Overview"
+              - text: "Overview (CM8)"
                 file: diseases/cd.qmd
               - text: "Module 1: Malaria"
                 file: diseases/cd/module1_malaria.qmd
@@ -213,11 +213,11 @@ website:
                 file: diseases/cd/module12_filaria_kalaazar.qmd
               - text: "Module 13: Other Vaccine-Preventable Infections"
                 file: diseases/cd/module13_other_infections.qmd
-          - text: "Epidemiology of Chronic Non-Communicable Diseases"
+          - text: "Epidemiology of Chronic Non-Communicable Diseases (CM8)"
             file: diseases/ncd.qmd
           - section: "Selected Non-Communicable Diseases"
             contents:
-              - text: "Overview"
+              - text: "Overview (CM8)"
                 file: diseases/ncd_modules.qmd
               - text: "Module 1: Diabetes Mellitus"
                 file: diseases/ncd/module1_diabetes.qmd
@@ -233,22 +233,22 @@ website:
                 file: diseases/ncd/module6_injuries.qmd
               - text: "Module 7: Other Significant NCDs"
                 file: diseases/ncd/module7_other_ncds.qmd
-          - text: "Essential Medicines and Counterfeit Medicines"
+          - text: "Essential Medicines and Counterfeit Medicines (CM19)"
             file: diseases/essential-medicines.qmd
-          - text: "Nutrition and Health"
+          - text: "Nutrition and Health (CM5)"
             file: diseases/nutrition.qmd
-          - text: "Mental Health"
+          - text: "Mental Health (CM15)"
             file: diseases/mental-health.qmd
 
       - section: "Health Programs & Populations"
         contents:
           - text: "Health Programmes in India"
             file: programs/health-programmes.qmd
-          - text: "Millennium Development Goals to Sustainable Development Goals"
+          - text: "Millennium Development Goals to Sustainable Development Goals (CM1/CM17)"
             file: programs/mdg-sdg.qmd
-          - text: "Demography and Family Planning"
+          - text: "Demography and Family Planning (CM9/CM10)"
             file: programs/demography.qmd
-          - text: "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics"
+          - text: "Preventive Medicine in Obstetrics, Paediatrics and Geriatrics (CM10/CM12)"
             file: programs/preventive-medicine.qmd
           - text: "Tribal Health in India"
             file: programs/tribal-health.qmd
@@ -257,7 +257,7 @@ website:
         contents:
           - section: "Environment and Health"
             contents:
-              - text: "Overview"
+              - text: "Overview (CM3)"
                 file: environment/environment-health.qmd
               - text: "One Health"
                 file: environment/env_health/module1_one_health.qmd
@@ -287,40 +287,40 @@ website:
                 file: environment/env_health/light_health.qmd
               - text: "Radiation and Noise"
                 file: environment/env_health/radiation_health.qmd
-          - text: "Hospital Waste Management"
+          - text: "Hospital Waste Management (CM14)"
             file: environment/waste-management.qmd
-          - text: "Disaster Management"
+          - text: "Disaster Management (CM13)"
             file: environment/disaster-management.qmd
-          - text: "Occupational Health"
+          - text: "Occupational Health (CM11)"
             file: environment/occupational-health.qmd
-          - text: "Genetics and Health"
+          - text: "Genetics and Health (CM8)"
             file: environment/genetics.qmd
 
       - section: "Health Information, Education & Global Perspectives"
         contents:
-          - text: "Health Information and Basic Medical Statistics"
+          - text: "Health Information and Basic Medical Statistics (CM9)"
             file: global/health-information.qmd
-          - text: "Communication for Health Education"
+          - text: "Communication for Health Education (CM4)"
             file: global/health-education.qmd
-          - text: "Medicine and Social Sciences"
+          - text: "Medicine and Social Sciences (CM2)"
             file: global/social-sciences.qmd
-          - text: "Health Planning and Management"
+          - text: "Health Planning and Management (CM16)"
             file: global/health-planning.qmd
-          - text: "Health Care of the Community"
+          - text: "Health Care of the Community (CM17)"
             file: global/community-health.qmd
-          - text: "International Health"
+          - text: "International Health (CM18)"
             file: global/international-health.qmd
 
       - section: "Professionalism & Communication"
         contents:
-          - text: "AETCOM: Attitude, Ethics and Communication"
+          - text: "AETCOM: Attitude, Ethics and Communication (CM20.4)"
             file: global/aetcom.qmd
-          - text: "Health Talks and Community IEC"
+          - text: "Health Talks and Community IEC (CM4)"
             file: global/health-talks.qmd
 
       - section: "Biostatistics"
         contents:
-          - text: "Basic Biostatistics"
+          - text: "Basic Biostatistics (CM6)"
             file: foundations/biostatistics.qmd
 
 format:

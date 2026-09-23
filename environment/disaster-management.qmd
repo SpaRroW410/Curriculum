@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/28 | [Next Chapter →](occupational-health.html)"
+    footer: "[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/29 | [Next Chapter →](occupational-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -31,6 +31,8 @@ revealjs-plugins:
 - Apply the four-colour mass-casualty triage system
 - Outline India's Disaster Management Act, 2005 and its authority structure
 - Apply the levels-of-prevention framework to disaster mitigation
+
+**NMC Community Medicine Code:** CM13
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -103,6 +105,36 @@ establishing a multi-tiered authority structure:
 
 **National Executive Committee (NEC)** — coordinates the national
 response and prepares the National Plan, working alongside NDMA.
+
+---
+
+## Bioterrorism: A Distinct Man-Made Threat {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Bioterrorism** is the deliberate release of pathogens or toxins to
+cause illness or death, distinguishing it from a naturally occurring
+epidemic (Chapter 6) by **intent** — which changes the public health
+response from disease control alone to a combined public
+health–security response.
+
+- **CDC Category A agents** — the highest-priority biothreat agents:
+  anthrax (*Bacillus anthracis*), smallpox, plague, botulism,
+  tularemia, and viral haemorrhagic fevers — prioritized for
+  preparedness because they combine easy dissemination, high mortality,
+  and potential for public panic
+- **Why smallpox specifically matters here:** its global eradication
+  (Chapter 6) means population immunity has since waned, making a
+  deliberate re-release a recognized bioterrorism concern despite the
+  disease's natural elimination
+- **India's response architecture:** NDMA's guidelines on biological
+  disasters cover early detection (linking to the IDSP/IHIP
+  surveillance system from the Communicable Diseases chapter),
+  quarantine facilities, stockpiling of antibiotics/antitoxins/vaccines,
+  and coordination between health authorities and security agencies —
+  a rare instance in this curriculum of disease surveillance and
+  national security infrastructure operating through the same reporting
+  pathway
 
 ---
 
@@ -297,4 +329,4 @@ injuries requiring immediate intervention is categorized as:
 
 **Next Chapter:** Occupational Health
 
-[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/28 | [Next Chapter →](occupational-health.html)
+[← Previous](waste-management.html) | [Top](#home) | [Contents](../intro.html) | Chapter 18/29 | [Next Chapter →](occupational-health.html)

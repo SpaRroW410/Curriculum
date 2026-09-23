@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](occupational-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 20/28 | [Next Chapter →](../global/health-information.html)"
+    footer: "[← Previous](occupational-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 20/29 | [Next Chapter →](../global/health-information.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -33,6 +33,8 @@ revealjs-plugins:
 - Identify the major chromosomal disorders and their karyotypes
 - Explain Rh incompatibility and how it is prevented
 - Distinguish eugenics from euthenics, and why counseling is non-directive
+
+**NMC Community Medicine Code:** CM8
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -331,4 +333,4 @@ family support, is best described as:
 
 **Next Chapter:** Health Information and Basic Medical Statistics
 
-[← Previous](occupational-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 20/28 | [Next Chapter →](../global/health-information.html)
+[← Previous](occupational-health.html) | [Top](#home) | [Contents](../intro.html) | Chapter 20/29 | [Next Chapter →](../global/health-information.html)

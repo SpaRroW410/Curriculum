@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/28 | [Next Chapter →](principles-epidemiology.html)"
+    footer: "[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/29 | [Next Chapter →](principles-epidemiology.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -36,6 +36,8 @@ revealjs-plugins:
 - Distinguish Koch's postulates from the Bradford Hill criteria of causation
 - Classify indicators of health and describe the PQLI and HDI
 - State who is responsible for realizing the right to health
+
+**NMC Community Medicine Code:** CM1
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -535,4 +537,4 @@ The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
 
 **Next Chapter:** Principles of Epidemiology
 
-[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/28 | [Next Chapter →](principles-epidemiology.html)
+[← Previous](man-and-medicine.html) | [Top](#home) | [Contents](../intro.html) | Chapter 2/29 | [Next Chapter →](principles-epidemiology.html)

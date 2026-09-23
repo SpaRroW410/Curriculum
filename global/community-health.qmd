@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](health-planning.html) | [Top](#home) | [Contents](../intro.html) | Chapter 25/28 | [Next Chapter →](international-health.html)"
+    footer: "[← Previous](health-planning.html) | [Top](#home) | [Contents](../intro.html) | Chapter 25/29 | [Next Chapter →](international-health.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -34,6 +34,8 @@ revealjs-plugins:
 - Distinguish FRU from Non-FRU Community Health Centres
 - Describe ASHA's and the Community Health Officer's roles
 - Apply the impairment-disability-handicap sequence and describe CBR's role
+
+**NMC Community Medicine Code:** CM17
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -136,6 +138,21 @@ collection; health education; national health programme delivery;
 referral services; training of health workers; and basic laboratory
 services.
 
+**Indian Public Health Standards (IPHS)** set the benchmark
+infrastructure, staffing, equipment, and service-delivery norms each
+tier of this Sub-Centre/PHC/CHC structure is expected to meet —
+periodically revised (most recently 2022) so facility norms keep pace
+with changing service expectations, rather than staying fixed at the
+1946 Bhore-era design.
+
+**Community diagnosis** is the PHC-level counterpart of a clinical
+diagnosis: a systematic assessment of a community's health status,
+disease burden, and determinants (using vital statistics, morbidity
+data, and local surveys) to identify priority health problems *before*
+planning an intervention — the same situation-analysis logic from the
+health-planning cycle (Chapter 24), applied at the level of a single
+PHC's catchment population rather than a national programme.
+
 ---
 
 ## Community Health Centre: FRU vs. Non-FRU {background-color="#E3F2E1"}
@@ -211,7 +228,10 @@ habitation in tribal/hilly/desert areas).
 Chapter 11 named Health and Wellness Centres as Ayushman Bharat's first
 pillar; the **Community Health Officer (CHO)** is the role created to
 staff it — a new mid-level provider cadre (2018), not simply an
-upgraded ANM.
+upgraded ANM. In 2023, Health and Wellness Centres were renamed
+**Ayushman Arogya Mandir** — the same facility and CHO-led model, under
+a new name intended to build public recognition of Ayushman Bharat as a
+unified brand.
 
 - **Position:** team leader of the primary care team at a Sub-Centre-
   level HWC — first point of contact, reducing patient load on PHCs
@@ -441,4 +461,4 @@ support available, is termed:
 
 **Next Chapter:** International Health
 
-[← Previous](health-planning.html) | [Top](#home) | [Contents](../intro.html) | Chapter 25/28 | [Next Chapter →](international-health.html)
+[← Previous](health-planning.html) | [Top](#home) | [Contents](../intro.html) | Chapter 25/29 | [Next Chapter →](international-health.html)

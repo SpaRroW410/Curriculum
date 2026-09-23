@@ -47,6 +47,22 @@ throughout this series.
 
 ---
 
+## Chickenpox (Varicella) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Taught alongside smallpox eradication (Chapter 6) precisely because
+learners commonly confuse the two: **chickenpox** (varicella-zoster
+virus) causes a far milder, self-limiting illness — crops of itchy
+vesicles at **different stages** on the same body area at once
+(unlike smallpox's uniform, synchronous lesions) — spread by
+respiratory droplets and direct vesicle contact. A live attenuated
+varicella vaccine exists but sits outside India's Universal
+Immunization Programme (available privately). Reactivation of latent
+virus later in life causes **herpes zoster (shingles)**.
+
+---
+
 ## Measles, Rubella, and Mumps {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -158,6 +174,9 @@ surveillance and worth recognizing:
 | **Yaws** | *Treponema pallidum pertenue* | A skin treponematosis (non-venereal); India was certified **yaws-free** in 2016 |
 | **Taeniasis / hydatid disease** | *Taenia* spp. / *Echinococcus* | Acquired via undercooked pork/beef (taeniasis) or contact with infected dogs (hydatid) — food/animal-hygiene diseases |
 | **Rickettsial disease (scrub typhus)** | *Orientia tsutsugamushi* | Transmitted by chigger mite bites; classic **eschar** (a black, crusted skin lesion) at the bite site aids diagnosis |
+| **Human salmonellosis** | *Salmonella* spp. (non-typhoidal) | Foodborne gastroenteritis from contaminated poultry/eggs/meat — distinct from **typhoid fever**, which is caused specifically by *Salmonella* Typhi and covered in the Typhoid/Cholera module |
+| **Leptospirosis** | *Leptospira* spp. | Acquired via contact with water/soil contaminated by infected animal (especially rat) urine — an occupational/flood-associated zoonosis |
+| **Brucellosis** | *Brucella* spp. | Acquired via contact with infected livestock or unpasteurized dairy — an occupational hazard for farmers, veterinarians, and abattoir workers |
 
 **Why these still matter for an exam, if not for daily practice
 everywhere:** each represents a distinct transmission principle (ocular

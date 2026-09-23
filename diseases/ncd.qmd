@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/28 | [Next Chapter →](essential-medicines.html)"
+    footer: "[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/29 | [Next Chapter →](essential-medicines.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -33,6 +33,8 @@ revealjs-plugins:
 - Outline India's National Programme for Prevention and Control of NCDs
 - Describe the WHO STEPS surveillance approach
 - Explain Rose's population strategy vs. high-risk strategy
+
+**NMC Community Medicine Code:** CM8
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -360,4 +362,4 @@ to be experiencing:
 
 **Next Chapter:** Essential Medicines and Counterfeit Medicines
 
-[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/28 | [Next Chapter →](essential-medicines.html)
+[← Previous](communicable-diseases.html) | [Top](#home) | [Contents](../intro.html) | Chapter 7/29 | [Next Chapter →](essential-medicines.html)

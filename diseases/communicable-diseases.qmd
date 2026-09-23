@@ -12,7 +12,7 @@ format:
     preview-links: true
     center: true
     zoom: true
-    footer: "[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/28 | [Next Chapter →](ncd.html)"
+    footer: "[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/29 | [Next Chapter →](ncd.html)"
 execute:
   enabled: false
 revealjs-plugins:
@@ -36,6 +36,8 @@ revealjs-plugins:
 - Compare live, killed, toxoid, and subunit vaccines
 - Apply the levels of prevention to communicable disease control
 - Outline the standard steps of an outbreak investigation
+
+**NMC Community Medicine Code:** CM7–CM8
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
@@ -345,6 +347,36 @@ investigation formally concludes.)*
 
 ---
 
+## Disinfection and Disease Surveillance in India {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Disinfection** — destroying pathogenic microorganisms on inanimate
+objects/surfaces (distinct from sterilization, which destroys *all*
+microorganisms including spores) — is a practical control measure
+applied at several links of the chain of infection above:
+
+- **Concurrent disinfection** — carried out immediately, throughout the
+  course of illness, on infectious discharges/materials as they occur
+  (e.g. disinfecting a patient's excreta daily during a diarrheal illness)
+- **Terminal disinfection** — carried out once, after the patient is no
+  longer a source of infection (recovery, transfer, or death) — cleaning
+  the sickroom and its contents
+- **Physical methods** — heat (boiling, autoclaving), sunlight, filtration
+- **Chemical methods** — chlorine compounds, phenolics, alcohols —
+  selected by target organism, material compatibility, and cost
+
+**Disease surveillance infrastructure in India:** outbreak
+investigation (the 10 steps above) depends on a functioning reporting
+system feeding it real-time data. India's current platform is the
+**Integrated Health Information Platform (IHIP)**, run under the
+**Integrated Disease Surveillance Programme (IDSP)** — a web-enabled,
+near-real-time disease surveillance system that replaced the older
+paper-based IDSP reporting formats, enabling faster outbreak detection
+and the case-based data needed to trigger the investigation steps above.
+
+---
+
 ## Explore: Selected Diseases in Depth {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
@@ -525,4 +557,4 @@ eradication to date. Which factor was essential to its success?
 
 **Next Chapter:** Epidemiology of Chronic Non-Communicable Diseases
 
-[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/28 | [Next Chapter →](ncd.html)
+[← Previous](../foundations/screening.html) | [Top](#home) | [Contents](../intro.html) | Chapter 6/29 | [Next Chapter →](ncd.html)
