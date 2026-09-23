@@ -1,0 +1,217 @@
+---
+title: "Concept of Health and Disease: Question Bank"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    page-layout: full
+---
+
+# Question Bank: Concept of Health and Disease
+
+*A written companion to [Concept of Health and Disease](concept-health-disease.qmd) — long
+essay, short essay, short-note, reasoning-type, and case-scenario questions for written practice,
+plus MCQs (Single Best Answer, Multiple Correct Answer, and Assertion–Reason) with an answer
+key for self-testing.*
+
+*This is a growing resource — more chapters will be added here as they're covered.*
+
+------------------------------------------------------------------------
+
+## Chapter 3: Concept of Health
+
+### Long Essay Questions (10–12 marks)
+
+1. How will you compare the health situation in two communities? What are the other uses of
+   "indicators of health"?
+2. You are the in-charge of a primary health center. How will you make a community diagnosis
+   of the health situation in order to formulate intervention measures?
+
+### Short Essays (5–8 marks)
+
+1. Define health. Describe the various concepts of health and discuss the modern concept of
+   health in detail.
+2. Dimensions of health.
+3. Healthcare delivery indicators.
+4. Determinants of health.
+
+### Short Answers/Notes (3–5 marks)
+
+1. Sullivan's Index.
+2. What is physical quality of life index (PQLI)?
+3. What is human development index?
+
+### Reasoning Type Questions (2 marks)
+
+1. Iceberg phenomenon is considered an important concept in preventive medicine. Justify.
+2. Explain why health is considered a dynamic concept rather than a static one.
+
+### Case Scenario Based Questions/Problem-Solving Exercises (8–10 marks)
+
+**Case Scenario 1.** A 35-year-old woman living in an urban slum has no diagnosed medical
+illness. However, she reports constant stress due to job insecurity, lack of social support, poor
+housing conditions, and frequent anxiety. She rarely participates in community activities and
+feels dissatisfied with her life despite being physically active.
+
+**Questions:**
+
+a. According to the WHO definition, which dimensions of health are affected in this woman?
+b. Why cannot this individual be considered "healthy" despite the absence of physical disease?
+c. Which concept or model of health best explains this situation?
+d. Mention two social determinants contributing to her health status.
+e. What community-level intervention can help improve her overall health?
+
+### Multiple Choice Questions (1 mark)
+
+#### A. Single Best Answer (SBA)
+
+1. A 42-year-old man with no symptoms is found to have raised fasting blood sugar during a
+   screening camp. He does not yet have complications. This stage of disease best represents:
+   a. Clinical disease
+   b. Subclinical disease
+   c. Disability
+   d. Rehabilitation phase
+
+2. A person with hearing loss is unable to communicate effectively but can still perform most
+   daily activities. This condition is best termed as:
+   a. Disease
+   b. Impairment
+   c. Disability
+   d. Handicap
+
+3. During a community survey, a large number of individuals are found to have hypertension,
+   most of whom were previously unaware of their condition. This situation best illustrates:
+   a. Spectrum of disease
+   b. Natural history of disease
+   c. Iceberg phenomenon
+   d. Levels of prevention
+
+4. Improvement in housing, sanitation, and education primarily influences health through:
+   a. Secondary prevention
+   b. Medical care alone
+   c. Modification of social determinants
+   d. Rehabilitation
+
+5. Two communities have the same crude death rate, but Community A has a much higher infant
+   mortality rate than Community B. This indicates that Community A most likely has:
+   a. Better health services
+   b. Younger population structure
+   c. Poor maternal and child health services
+   d. Higher life expectancy
+
+6. A country shows improvement in literacy rate, life expectancy, and per capita income over a
+   decade. This improvement is best reflected by an increase in:
+   a. Crude birth rate
+   b. Physical Quality of Life Index
+   c. Human Development Index
+   d. Case fatality rate
+
+7. According to the WHO definition, health primarily emphasizes:
+   a. Absence of disease
+   b. Physical fitness
+   c. Complete physical, mental, and social well-being
+   d. Normal laboratory values
+
+8. The dimension of health concerned with self-esteem and emotional stability is:
+   a. Physical
+   b. Social
+   c. Mental
+   d. Spiritual
+
+9. The concept of positive health mainly refers to:
+   a. Absence of symptoms
+   b. Ability to perform daily activities
+   c. Optimal functioning of the individual
+   d. Lack of disability
+
+10. The concept of "health as a resource for everyday life" is emphasized in:
+    a. WHO definition of health (1948)
+    b. Biomedical concept
+    c. Ottawa Charter for Health Promotion
+    d. Natural history of disease
+
+11. Which indicator best reflects the overall development and quality of life of a population?
+    a. Infant mortality rate
+    b. Crude death rate
+    c. Human Development Index
+    d. Life expectancy at birth alone
+
+12. The social dimension of health primarily includes:
+    a. Absence of communicable diseases
+    b. Emotional stability
+    c. Ability to interact effectively with society
+    d. Physical fitness
+
+13. Which of the following is NOT included in healthcare delivery indicators?
+    a. Doctor–population ratio
+    b. Nurse–population ratio
+    c. Bed–population ratio
+    d. Per capita income
+
+14. "Health is a dynamic state influenced by interaction between man and environment" best
+    describes which concept of health?
+    a. Biomedical concept
+    b. Ecological concept
+    c. Spiritual concept
+    d. Clinical concept
+
+#### B. Multiple Correct Answer (MCA)
+
+15. Which of the following are included under the dimensions of health?
+    a. Physical health
+    b. Social health
+    c. Economic health
+    d. Mental health
+
+16. Determinants of health include:
+    a. Genetic factors
+    b. Lifestyle
+    c. Healthcare services
+    d. Climate only
+
+17. Indicators of health are useful for:
+    a. Evaluating health services
+    b. Diagnosing individual patients
+    c. Measuring health status of a community
+    d. Comparing health between populations
+
+18. Components of quality-of-life indicators include:
+    a. Blood pressure levels
+    b. Literacy rate
+    c. Per capita income
+    d. Life expectancy
+
+#### C. Assertion–Reason (A-R) MCQs
+
+19. **Assertion (A):** The iceberg phenomenon explains the hidden burden of disease in a
+    community.
+    **Reason (R):** Most cases of disease in the community remain undiagnosed and unreported.
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is not the correct explanation of A
+    c. A is true, but R is false
+    d. A is false, but R is true
+
+20. **Assertion (A):** Infant mortality rate is considered a sensitive indicator of community
+    health.
+    **Reason (R):** It reflects socioeconomic conditions, maternal health, and healthcare services.
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is not the correct explanation of A
+    c. A is true, but R is false
+    d. A is false, but R is true
+
+21. **Assertion (A):** Physical Quality of Life Index (PQLI) does not include income as a
+    component.
+    **Reason (R):** PQLI focuses on social and health outcomes rather than economic output.
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is not the correct explanation of A
+    c. A is true, but R is false
+    d. A is false, but R is true
+
+### Answers
+
+1. b 2. b 3. c 4. c 5. c 6. c 7. c 8. c 9. c 10. c 11. c 12. c 13. d 14. b 15. a, b, d 16. a–c
+17. a, c, d 18. b–d 19. a 20. a 21. a
+
+------------------------------------------------------------------------
+
+*More chapters will be added to this question bank as they're covered.*

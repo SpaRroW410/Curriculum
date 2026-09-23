@@ -577,6 +577,40 @@ The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
 
 ---
 
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 8
+
+A person with hearing loss is unable to communicate effectively but can still perform most daily activities. This condition is best termed as:
+
+- Disease
+- [Impairment]{.correct data-explanation="A loss or abnormality of structure/function (like hearing loss) that doesn't fully prevent daily activities is an impairment; disability describes a resulting restriction in performing tasks, and handicap describes the social disadvantage that follows."}
+- Disability
+- Handicap
+:::
+
+---
+
+## Self-Check: Question 9 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 9
+
+The concept of positive health mainly refers to:
+
+- Absence of symptoms
+- Ability to perform daily activities
+- [Optimal functioning of the individual]{.correct data-explanation="Positive health goes beyond just being symptom-free or functional — it means optimal physical, mental, and social functioning, with reserve capacity to cope with stress."}
+- Lack of disability
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. Koch, R. (1884). *Die Aetiologie der Tuberkulose*. Postulates as later
@@ -597,6 +631,11 @@ The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
    Organization* (1946/1948).
 8. United Nations Development Programme. *Human Development Report* —
    HDI methodology.
+
+**Want to practice?** See the companion [Concept of Health and Disease
+Question Bank](concept-health-disease-question-bank.qmd) for long
+essay, short essay, reasoning-type, case-scenario, and MCQ questions
+with an answer key.
 
 ---
 

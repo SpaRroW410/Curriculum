@@ -231,6 +231,7 @@ The history of medicine and public health is conventionally divided into five er
   - **Paracelsus** — championed evidence over superstition
   - **Vesalius** — systematic human dissection (*Fabrica*)
   - **William Harvey** — circulation of blood; **Leeuwenhoek** (1679) — the microscope
+  - **James Lind** (1747) — his citrus-fruit trial against scurvy is widely regarded as the **first scientifically conducted clinical trial** in medical history
   - **Edward Jenner** (1796) — smallpox vaccination
   - **Samuel Hahnemann** (1796) — founded **homeopathy** on "like cures like"
   - **John Graunt** (1662) — numerical analysis of mortality, founder of biostatistics
@@ -555,6 +556,7 @@ In 1998, WHO adopted 10 concrete global targets to pursue Health for All in the 
 - Convinced local authorities to remove the pump handle, ending the outbreak — decades before germ theory explained *why* it worked
 - Showed that disease could be tracked and controlled through **systematic observation and mapping**, not just laboratory science
 - Widely regarded as the founding figure of modern epidemiology and disease mapping
+- **Lesser-known fact:** by profession he was also a pioneering **anesthesiologist**, who administered chloroform to Queen Victoria during childbirth
 :::
 :::::
 
@@ -804,6 +806,57 @@ A patient develops liver toxicity after taking an unlabeled herbal preparation o
 - Absence of preventive potential
 - [Issues of standardization and safety]{.correct data-explanation="Inconsistent labeling, dosage, and quality control are among AYUSH's most cited real-world limitations — natural origin does not guarantee safety."}
 - Ineffectiveness in chronic diseases
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 13
+
+Which of the following was the first ever scientifically conducted clinical trial in medical history?
+
+- [Trial of citrus fruits by Lind for preventing scurvy]{.correct data-explanation="James Lind's 1747 citrus-fruit trial against scurvy is widely regarded as the first controlled clinical trial in medical history."}
+- Experiment on variolation by Jenner
+- Trial of streptomycin for tuberculosis
+- Trial of the BCG vaccine
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 14
+
+Who is given the title "Founder of Biostatistics"?
+
+- Hippocrates
+- Paracelsus
+- [Graunt]{.correct data-explanation="John Graunt (1662) pioneered numerical analysis of mortality data and is regarded as the founder of biostatistics."}
+- Farr
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 15
+
+In India, "Doctors' Day" is celebrated to commemorate the memory of:
+
+- Dr Sushila Nayyar
+- [Dr B C Roy]{.correct data-explanation="1 July, Dr Bidhan Chandra Roy's birthday, is celebrated nationally as Doctors' Day."}
+- Sir Joseph Bhore
+- Dr A L Mudaliar
 :::
 
 ------------------------------------------------------------------------
