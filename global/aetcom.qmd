@@ -257,35 +257,92 @@ ultimately one continuous obligation, not three separate topics.
 
 ---
 
-## Legal Framework Governing Medical Practice {background-color="#FFF6DA"}
+## Lecture 1: Clinical Establishments Act and THOTA {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 4** · **CM20.4.L1**
+
+*Clinical Establishments Act and the Transplantation of Human Organs
+Act*
+
+---
+
+## Clinical Establishments Act and THOTA {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-Ethical principles (autonomy, non-maleficence) are backed by specific
-Indian laws that translate them into enforceable obligations — worth
-knowing by name, distinct from the ethical *principles* covered earlier
-in this chapter:
-
-- **National Medical Commission (NMC) Act, 2019** — replaced the Medical
-  Council of India, establishing NMC as the statutory body regulating
-  medical education and practice, including professional conduct
-- **Consumer Protection Act (CPA)** — brought medical services under
-  its ambit, meaning a patient can seek compensation for **medical
-  negligence** through consumer courts; negligence requires proving a
-  **duty of care, breach of that duty, and resulting harm**
 - **Clinical Establishments Act** — mandates registration and minimum
   standards for hospitals/clinics, extending quality assurance beyond
   individual practitioner conduct to the facility itself
-- **Epidemic Diseases Act, 1897** — India's oldest public health law,
-  giving government the power to take special measures (e.g.
-  restrictions, containment) during an epidemic — invoked repeatedly
-  during COVID-19, directly connecting 19th-century legislation to a
-  21st-century pandemic
+- **Transplantation of Human Organs and Tissues Act (THOTA), 1994**
+  (amended 2011) — regulates the removal, storage, and transplantation
+  of human organs/tissues; defines **brain death** as legal death for
+  transplantation purposes, and criminalizes commercial dealing in
+  human organs ("organ trafficking")
+
+**Why these are grouped together:** both regulate the *institutions and
+procedures* of medical practice — facility standards and organ
+transplantation — rather than an individual doctor's conduct.
+
+---
+
+## Lecture 2: Consumer Protection Act and Medical Negligence {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 4** · **CM20.4.L2**
+
+*Consumer Protection Act and medical negligence*
+
+---
+
+## Consumer Protection Act and Medical Negligence {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Consumer Protection Act (CPA)** — brought medical services under its
+ambit, meaning a patient can seek compensation for **medical
+negligence** through consumer courts; negligence requires proving a
+**duty of care, breach of that duty, and resulting harm**.
 
 **Why this belongs alongside ethics, not instead of it:** law sets the
 enforceable floor; ethics asks for more than the legal minimum — a
 technically legal action can still be ethically questionable, which is
 exactly why this chapter teaches both.
+
+---
+
+## Lecture 3: NMC Act, Epidemic Diseases Act, and RPwD Act {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 4** · **CM20.4.L3**
+
+*NMC Act, Epidemic Diseases Act and the Rights of Persons with
+Disabilities Act*
+
+---
+
+## NMC Act, Epidemic Diseases Act, and RPwD Act {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **National Medical Commission (NMC) Act, 2019** — replaced the Medical
+  Council of India, establishing NMC as the statutory body regulating
+  medical education and practice, including professional conduct
+- **Epidemic Diseases Act, 1897** — India's oldest public health law,
+  giving government the power to take special measures (e.g.
+  restrictions, containment) during an epidemic — invoked repeatedly
+  during COVID-19, directly connecting 19th-century legislation to a
+  21st-century pandemic
+- **Rights of Persons with Disabilities (RPwD) Act, 2016** — covered in
+  full in [Chapter 25](../global/community-health.qmd)'s disability and
+  community-based rehabilitation content; grouped with the other laws
+  here only by lecture, not by subject
+
+---
+
+## Lecture 4: Other Health Legislation {background-color="#E6EEF5"}
+
+📚 **Lecture 4 of 4** · **CM20.4.L4**
+
+*Other health legislation - MHCA, HIV/AIDS Act and DPDP Act
+(overview)*
 
 ---
 
@@ -307,16 +364,20 @@ exactly why this chapter teaches both.
   and protected — an increasingly relevant law as health records
   digitize (recall ABDM/Ayushman Bharat Digital Mission from the
   health-planning content)
-- **Transplantation of Human Organs and Tissues Act (THOTA), 1994**
-  (amended 2011) — regulates the removal, storage, and transplantation
-  of human organs/tissues; defines **brain death** as legal death for
-  transplantation purposes, and criminalizes commercial dealing in
-  human organs ("organ trafficking")
 
 **Why these are grouped together:** each extends a general ethical
 principle from earlier in this chapter (non-discrimination, privacy,
 prohibition of commodifying the human body) into disease- or
 context-specific statutory protection.
+
+---
+
+## Lecture: Research Ethics {background-color="#E6EEF5"}
+
+📚 **Misc Topic** · **Misc.L1**
+
+*Research ethics - ICMR National Ethical Guidelines 2017, informed
+consent and ethics committees*
 
 ---
 

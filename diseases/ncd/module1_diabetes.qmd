@@ -47,6 +47,14 @@ principles.
 
 ---
 
+## Lecture 5: Diabetes Epidemiology and Natural History {background-color="#E6EEF5"}
+
+📚 **Lecture 5 of 16** · **CM8-NCD.L5**
+
+*Diabetes mellitus I - epidemiology and natural history*
+
+---
+
 ## Definition, Types, and Burden {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -102,6 +110,14 @@ prevention content applies principally to type 2.
 presentation includes polyuria, polydipsia, recurrent genital
 infections, and generalized pruritus — only about 1 in 5 people can
 recognize their own symptoms.
+
+---
+
+## Lecture 6: Diabetes Screening, Prevention, and Obesity {background-color="#E6EEF5"}
+
+📚 **Lecture 6 of 16** · **CM8-NCD.L6**
+
+*Diabetes mellitus II - screening and prevention; obesity*
 
 ---
 

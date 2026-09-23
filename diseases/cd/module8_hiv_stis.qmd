@@ -44,6 +44,14 @@ addresses both together.
 
 ---
 
+## Lecture 27: HIV/AIDS and NACP {background-color="#E6EEF5"}
+
+📚 **Lecture 27 of 28** · **CM8-CD.L27**
+
+*HIV / AIDS and the National AIDS Control Programme*
+
+---
+
 ## Transmission and Natural History {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -130,6 +138,15 @@ shifting emphasis over time:
   vs. population strategy, Chapter 7)
 - **Integrated Counselling and Testing Centres (ICTC)** — provide free,
   confidential HIV counselling and testing nationwide
+
+---
+
+## Lecture 26 (continued): Sexually Transmitted Infections {background-color="#E6EEF5"}
+
+📚 **Lecture 26 of 28** · **CM8-CD.L26**
+
+*Sexually transmitted infections (tetanus/trachoma/yaws covered in
+[Module 13](module13_other_infections.html))*
 
 ---
 

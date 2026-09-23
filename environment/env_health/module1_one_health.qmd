@@ -40,6 +40,18 @@ This module introduces the foundational One Health concept, critical for underst
 
 ---
 
+## Lecture: One Health, IHR 2005, and Pandemic Preparedness {background-color="#E6EEF5"}
+
+📚 **CM20.1-20.3, Lecture 3 of 3** · **CM20.2**
+
+*One Health, IHR 2005 and pandemic preparedness*
+
+*(IHR 2005 itself — WHO's binding framework and the PHEIC declaration
+mechanism — is covered in full in [Chapter 26](../../global/international-health.html)'s
+"International Health Regulations" section.)*
+
+---
+
 ## What is One Health?
 
 :::: {.columns}

@@ -47,6 +47,14 @@ exposure setting: the workplace.
 
 ---
 
+## Lecture 1: Health of the Worker {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 5** · **CM11.L1**
+
+*Health of the worker; classification of occupational hazards*
+
+---
+
 ## The ILO/WHO Joint Definition {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -90,6 +98,14 @@ Six recognized categories of workplace hazard:
 
 ---
 
+## Lecture 2: Pneumoconioses {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 5** · **CM11.L2**
+
+*Pneumoconioses*
+
+---
+
 ## Pneumoconiosis {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -115,24 +131,12 @@ an occupational-exposure timescale of years to decades.
 
 ---
 
-## Employees' State Insurance (ESI) Scheme {background-color="#E3F2E1"}
+## Lecture 3: Lead Poisoning, Cancers, and Agricultural Hazards {background-color="#E6EEF5"}
 
-🟢 **MUST KNOW**
+📚 **Lecture 3 of 5** · **CM11.L3**
 
-Workers registered under the **Employees' State Insurance Act, 1948**
-receive medical treatment through **ESI hospitals**, providing a social
-insurance mechanism specifically for organized-sector workers, including
-coverage for occupational disease and injury.
-
-**State-level policy example:** Haryana's pneumoconiosis rehabilitation
-policy provides financial aid and pension support to affected workers —
-illustrating how national ESI coverage is complemented by state-specific
-disease-focused schemes for occupational conditions.
-
-**ESI's seven benefit categories:** medical, sickness, maternity,
-disablement, dependants', funeral expenses, and rehabilitation — funded
-by employer (3.25% of wages) and employee (0.75% of wages) contributions
-plus central/state grants.
+*Lead poisoning, occupational cancers and dermatoses; agricultural
+hazards*
 
 ---
 
@@ -179,6 +183,15 @@ surveillance for early detection in exposed workers.
 
 ---
 
+## Lecture 4: Prevention, Ergonomics, and Health-Professional Hazards {background-color="#E6EEF5"}
+
+📚 **Lecture 4 of 5** · **CM11.L4**
+
+*Prevention - medical and engineering measures; ergonomics; hazards
+of health professionals*
+
+---
+
 ## Occupational Dermatitis and Agricultural Hazards {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
@@ -209,6 +222,15 @@ others:
 - **Musculoskeletal and psychosocial hazards** — patient-handling
   injuries, shift work, and burnout, increasingly recognized alongside
   the traditional infectious/chemical hazard focus
+
+---
+
+## Lecture: Snakebite Envenoming {background-color="#E6EEF5"}
+
+📚 **Misc Topic** · **Misc.L1**
+
+*Snakebite envenoming - epidemiology, first aid, anti-snake venom and
+the national action plan*
 
 ---
 
@@ -257,6 +279,35 @@ culture.
 guarding, adequate lighting/ventilation) and human-factor measures
 (training, enforced safety protocols, adequate rest periods to reduce
 fatigue-related error).
+
+---
+
+## Lecture 5: ESI Act and Occupational Health Legislation {background-color="#E6EEF5"}
+
+📚 **Lecture 5 of 5** · **CM11.L5**
+
+*ESI Act and occupational health legislation in India*
+
+---
+
+## Employees' State Insurance (ESI) Scheme {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Workers registered under the **Employees' State Insurance Act, 1948**
+receive medical treatment through **ESI hospitals**, providing a social
+insurance mechanism specifically for organized-sector workers, including
+coverage for occupational disease and injury.
+
+**State-level policy example:** Haryana's pneumoconiosis rehabilitation
+policy provides financial aid and pension support to affected workers —
+illustrating how national ESI coverage is complemented by state-specific
+disease-focused schemes for occupational conditions.
+
+**ESI's seven benefit categories:** medical, sickness, maternity,
+disablement, dependants', funeral expenses, and rehabilitation — funded
+by employer (3.25% of wages) and employee (0.75% of wages) contributions
+plus central/state grants.
 
 ---
 

@@ -45,6 +45,15 @@ fails, connecting back to nearly every earlier chapter's programmes.
 
 ---
 
+## Lecture 1: Communication and Health Education {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 2** · **CM4.L1**
+
+*Communication process, types and barriers; health education -
+approaches, models and principles*
+
+---
+
 ## The Basic Communication Process {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -63,6 +72,15 @@ Every act of health communication involves the same core elements:
 
 **Key principle:** communication is a **cycle**, not a one-shot
 transmission — feedback is what makes it two-way.
+
+---
+
+## Lecture 2: Methods, IEC/BCC, and Counselling {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 2** · **CM4.L2**
+
+*Methods and organisation of health education, IEC and BCC,
+counselling (GATHER), evaluation*
 
 ---
 

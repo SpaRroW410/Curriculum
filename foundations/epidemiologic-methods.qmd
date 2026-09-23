@@ -66,26 +66,11 @@ attributable risk — are calculated directly from these four cell counts
 
 ---
 
-## Cohort Study {background-color="#E3F2E1"}
+## Lecture 6: Case-Control Study {background-color="#E6EEF5"}
 
-🟢 **MUST KNOW**
+📚 **Lecture 6 of 15** · **CM7.L6**
 
-**Design:** starts with a disease-free population, divides it by
-**exposure status**, and follows both groups forward in time to compare
-who develops disease.
-
-- **Prospective cohort** — exposure and outcome measured going forward
-  from now
-- **Retrospective cohort** — exposure already recorded in the past;
-  outcome is determined by looking forward from that point
-
-**Direct measure obtained:** incidence in both groups →
-**Relative Risk (RR)**
-
-`RR = [a / (a+b)] / [c / (c+d)]`
-
-RR > 1 suggests increased risk with exposure; RR = 1 suggests no
-association; RR < 1 suggests a protective effect.
+*Case-control study*
 
 ---
 
@@ -147,6 +132,37 @@ for everyone.
 
 ---
 
+## Lecture 7: Cohort Study {background-color="#E6EEF5"}
+
+📚 **Lecture 7 of 15** · **CM7.L7**
+
+*Cohort study*
+
+---
+
+## Cohort Study {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Design:** starts with a disease-free population, divides it by
+**exposure status**, and follows both groups forward in time to compare
+who develops disease.
+
+- **Prospective cohort** — exposure and outcome measured going forward
+  from now
+- **Retrospective cohort** — exposure already recorded in the past;
+  outcome is determined by looking forward from that point
+
+**Direct measure obtained:** incidence in both groups →
+**Relative Risk (RR)**
+
+`RR = [a / (a+b)] / [c / (c+d)]`
+
+RR > 1 suggests increased risk with exposure; RR = 1 suggests no
+association; RR < 1 suggests a protective effect.
+
+---
+
 ## Cohort vs. Case-Control {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -182,6 +198,14 @@ AR/AR% tells you the *public health impact* of removing the exposure.
 
 ---
 
+## Lecture 8: Experimental Studies {background-color="#E6EEF5"}
+
+📚 **Lecture 8 of 15** · **CM7.L8**
+
+*Experimental studies - randomised controlled trial and its types*
+
+---
+
 ## Randomized Controlled Trial (RCT) {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -213,6 +237,14 @@ follows both forward to compare outcomes.
   smoking rates to national lung cancer rates); fast and cheap, but
   vulnerable to the **ecological fallacy** — a group-level association
   doesn't guarantee the same association holds for individuals
+
+---
+
+## Lecture 9: Association, Causation, and Bias {background-color="#E6EEF5"}
+
+📚 **Lecture 9 of 15** · **CM7.L9**
+
+*Association, causation and bias in epidemiological studies*
 
 ---
 

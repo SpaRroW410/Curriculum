@@ -46,6 +46,15 @@ determinant of health-system performance.
 
 ---
 
+## Lecture 1: Essential Medicines Concept and NLEM {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 3** · **CM19.L1**
+
+*Essential medicines - concept, NLEM and the role of essential
+medicines in primary health care*
+
+---
+
 ## What Are Essential Medicines? {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -80,6 +89,15 @@ Organisation (CDSCO)** — India's National Regulatory Authority.
 - Purpose: ensure **accessibility of affordable, quality medicines** at
   every level of healthcare, and to guide public procurement and price
   control
+
+---
+
+## Lecture 2: Counterfeit Medicines and PMBJP {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 3** · **CM19.L2**
+
+*Counterfeit medicines and their prevention; Pradhan Mantri Bhartiya
+Janaushadhi Pariyojana*
 
 ---
 
@@ -208,6 +226,15 @@ Beyond the essential-medicines list itself, actual access depends on:
 These four pillars are the standard WHO framework for describing access
 to essential medicines as a health-system, not just a pharmacological,
 issue.
+
+---
+
+## Lecture 3: Inventory Management {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 3** · **CM19.L3**
+
+*Inventory management and calculation of medicine requirement at
+primary health care level*
 
 ---
 

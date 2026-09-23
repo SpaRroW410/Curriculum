@@ -85,6 +85,17 @@ Water quantity is as important as water quality because:
 
 ---
 
+## Lecture 3: Water Quality Standards and Surveillance {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 11** · **CM3.L3**
+
+*Water III: water quality standards, surveillance, hardness, water
+conservation and rainwater harvesting (surveillance covered in full in
+[Module 7](../water/module7_surveillance.html); sources/rainwater
+harvesting in [Module 4](../water/module4_water_sources.html))*
+
+---
+
 ## WHO Guidelines for Drinking Water Quality
 
 ### Overview and Evolution

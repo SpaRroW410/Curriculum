@@ -49,6 +49,15 @@ prevention maps onto that process.
 
 ---
 
+## Lecture 1: Concept of Health {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 3** · **CM1.L1**
+
+*Concept of health: definitions, dimensions, spectrum, well-being and
+quality-of-life indices (PQLI, HDI)*
+
+---
+
 ## Concepts of Health: Four Models {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -65,6 +74,15 @@ teaching groups the thinking *behind* that definition into four models:
 
 **Exam tip:** the biomedical model is the oldest and narrowest; the
 holistic model is the broadest and is what the WHO definition operationalizes.
+
+---
+
+## Lecture 2: Concept of Disease and Prevention {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 3** · **CM1.L2**
+
+*Concept of disease and causation, natural history of disease, levels
+of prevention, modes of intervention*
 
 ---
 
@@ -282,6 +300,15 @@ development — it is an input to it. Health services are one subsystem
 within the broader socio-economic system, and human health and
 well-being are treated as an ultimate goal of development, not a
 byproduct.
+
+---
+
+## Lecture 3: Indicators of Health {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 3** · **CM1.L3**
+
+*Indicators of health; demographic profile of India and its impact;
+MDG to SDG*
 
 ---
 

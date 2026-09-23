@@ -49,6 +49,41 @@ prevention theory.
 
 ---
 
+## Lecture 1: RMCH Status and MCH Problems {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 10** · **CM10-RMCH.L1**
+
+*Current status of reproductive, maternal, newborn and child health;
+MCH problems*
+
+---
+
+## Current Status of RMCH in India {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Mothers and children under 5 make up roughly **a third of India's
+population**, yet carry a disproportionate share of preventable
+mortality and morbidity — the core rationale for treating RMCH as its
+own dedicated priority area rather than folding it into general
+medicine.
+
+**Major MCH problems India still faces:** persistent maternal and
+neonatal mortality gaps between states, adolescent/early pregnancy,
+low institutional-delivery uptake in some regions, undernutrition
+compounding obstetric risk, and gaps in postnatal/newborn follow-up —
+each addressed by a specific scheme covered later in this chapter.
+
+---
+
+## Lecture 2: Antenatal Care and High-Risk Approach {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 10** · **CM10-RMCH.L2**
+
+*Antenatal care and the high-risk approach*
+
+---
+
 ## Antenatal Care: The WHO 2016 Model {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -88,6 +123,57 @@ severe.
 
 ---
 
+## Lecture 3: Intranatal and Postnatal Care {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 10** · **CM10-RMCH.L3**
+
+*Intranatal and postnatal care; local customs and practices*
+
+---
+
+## Intranatal and Postnatal Care {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Intranatal care** — skilled attendance at every delivery (the
+  single biggest lever against intrapartum stillbirth and maternal
+  death), partograph-based labour monitoring, and readiness for
+  obstetric emergencies
+- **Postnatal care** — the mother's own recovery period (distinct from
+  the essential *newborn* care bundle below): monitoring for
+  postpartum haemorrhage and sepsis, breastfeeding support, and
+  postpartum family-planning counselling
+- **Local customs and practices** — many regions practice traditions
+  around delivery, diet, and the postpartum period (e.g. delayed
+  bathing, specific postpartum diets, seclusion periods); some support
+  maternal recovery, while others (e.g. discarding colostrum, delaying
+  breastfeeding initiation) actively work against the essential newborn
+  care principles below — a reminder that RMCH programmes must engage
+  with, not simply override, community practice
+
+---
+
+## Lecture 4: MCH Indicators {background-color="#E6EEF5"}
+
+📚 **Lecture 4 of 10** · **CM10-RMCH.L4**
+
+*MCH indicators - MMR, IMR, perinatal and child mortality*
+
+---
+
+## MCH Indicators: MMR, IMR, and Perinatal Mortality {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The Maternal Mortality Ratio, Infant Mortality Rate, and perinatal/
+neonatal mortality measures — the key indicators used to track RMCH
+programme impact — are defined and calculated in full in
+[Chapter 21](../global/health-information.qmd)'s "Infant and Maternal
+Mortality Indicators" section, alongside child mortality (Under-5
+Mortality Rate).
+
+---
+
 ## The Under-Five Clinic {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -104,6 +190,14 @@ five.
 - **Right side** — immunization
 - **Central inner triangle** — family planning
 - **Border line** — health education for the mother
+
+---
+
+## Lecture 5: Newborn Care and Low Birth Weight {background-color="#E6EEF5"}
+
+📚 **Lecture 5 of 10** · **CM10-RMCH.L5**
+
+*Newborn care and low birth weight*
 
 ---
 
@@ -130,6 +224,49 @@ chapter.
 preventive bridge connecting the WHO 8-contact antenatal model to the
 Under-Five Clinic — most neonatal deaths are preventable with this
 simple bundle, not advanced technology.
+
+---
+
+## Lecture 6: Infant and Young Child Feeding {background-color="#E6EEF5"}
+
+📚 **Lecture 6 of 10** · **CM10-RMCH.L6**
+
+*Infant and young child feeding; growth and development, growth
+charts*
+
+---
+
+## Infant and Young Child Feeding (IYCF) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+WHO/UNICEF's IYCF recommendations, timed to the highest-risk window in
+child nutrition:
+
+- **Exclusive breastfeeding for the first 6 months** — no other food or
+  fluid, not even water; provides complete nutrition and passive
+  immunity
+- **Early initiation** — within 1 hour of birth (recall Essential
+  Newborn Care above), maximizing colostrum benefit
+- **Complementary feeding from 6 months** — timely introduction of
+  age-appropriate solid/semi-solid food *alongside* continued
+  breastfeeding, not as a replacement — starting too early or too late
+  both carry risk
+- **Continued breastfeeding to 2 years or beyond**, alongside a
+  progressively varied complementary diet
+
+**Growth and development monitoring:** plotting weight/height against
+standard growth charts is covered in full in [Chapter 9](../diseases/nutrition.qmd)'s
+"Growth Monitoring" section — the same surveillance tool used to catch
+faltering growth from poor IYCF practice early.
+
+---
+
+## Lecture 7: IMNCI and Child Health Problems {background-color="#E6EEF5"}
+
+📚 **Lecture 7 of 10** · **CM10-RMCH.L7**
+
+*IMNCI and common child health problems*
 
 ---
 
@@ -161,6 +298,14 @@ single-condition checklist would miss.
 
 ---
 
+## Lecture 8: RCH Schemes I {background-color="#E6EEF5"}
+
+📚 **Lecture 8 of 10** · **CM10-RMCH.L8**
+
+*RCH schemes I - JSY, JSSK, PMSMA, SUMAN and LaQshya*
+
+---
+
 ## RCH Schemes I: Maternal and Newborn Survival {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -186,6 +331,14 @@ room itself.
 
 ---
 
+## Lecture 9: RCH Schemes II {background-color="#E6EEF5"}
+
+📚 **Lecture 9 of 10** · **CM10-RMCH.L9**
+
+*RCH schemes II - HBNC, HBYC, RBSK, SAANS and MusQan*
+
+---
+
 ## RCH Schemes II: Newborn and Child Survival {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -205,6 +358,15 @@ newborn and childhood period:
 covers the **newborn** period (first month), HBYC continues visits
 through **early childhood** (up to 15 months) — do not confuse their
 age windows.
+
+---
+
+## Lecture 10: Adolescent Health (RKSK) {background-color="#E6EEF5"}
+
+📚 **Lecture 10 of 10** · **CM10-RMCH.L10**
+
+*Adolescent health (RKSK) and school health; gender issues and women
+empowerment*
 
 ---
 
@@ -252,6 +414,38 @@ stages in this chapter:
 
 ---
 
+## Lecture 1: Geriatric Services Concept {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 3** · **CM12.L1**
+
+*Concept of geriatric services; health problems of the aged
+population*
+
+---
+
+## Geriatric Services: Concept and Health Problems of Ageing {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Geriatric services** address the health needs specific to older
+adults — distinct from general adult medicine because ageing brings a
+characteristic cluster of problems:
+
+- **Physical** — reduced mobility, sensory decline (vision/hearing),
+  multimorbidity (several chronic conditions coexisting), and
+  polypharmacy risk (Chapter 8)
+- **Cognitive** — dementia and age-related cognitive decline
+- **Psychosocial** — isolation, loss of income/independence,
+  bereavement, elder abuse and neglect
+
+**Why geriatric services are organized separately:** the same disease
+(e.g. hypertension) behaves and is managed differently in an older
+adult with multiple comorbidities than in a younger, otherwise healthy
+patient — geriatric care is built around managing this complexity as
+a whole, not disease-by-disease.
+
+---
+
 ## The WHO Decade of Healthy Ageing (2021–2030) {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -268,6 +462,15 @@ action areas:
 
 Explicitly aligned with the 2030 Sustainable Development Agenda's
 principle of "leaving no one behind" (Chapter 12).
+
+---
+
+## Lecture 10: UIP, Mission Indradhanush, U-WIN, and Cold Chain {background-color="#E6EEF5"}
+
+📚 **Lecture 10 of 28** · **CM8-CD.L10**
+
+*Universal Immunization Programme, Mission Indradhanush, U-WIN and
+cold chain*
 
 ---
 
@@ -290,6 +493,23 @@ principles matter most for exams:
   and pregnant women in low-coverage pockets) and **U-WIN** (the
   digital immunization-tracking platform, extending the Co-WIN model
   used for COVID-19 vaccination to routine UIP doses)
+
+---
+
+## Lecture 2: Prevention of Health Problems of Ageing {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 3** · **CM12.L2**
+
+*Prevention of health problems of the aged population*
+
+---
+
+## Lecture 3: NPHCE and National Policies {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 3** · **CM12.L3**
+
+*National Programme for Health Care of the Elderly and national
+policies*
 
 ---
 
@@ -316,6 +536,14 @@ domiciliary (home-based) care for bed-ridden elderly through the
 primary-care infrastructure — extending the Decade of Healthy Ageing's
 "person-centred, integrated care" action area into an actual funded
 national programme.
+
+---
+
+## Lecture: Palliative Care {background-color="#E6EEF5"}
+
+📚 **Misc Topic** · **Misc.L1**
+
+*Palliative care - principles and community-based palliative care*
 
 ---
 

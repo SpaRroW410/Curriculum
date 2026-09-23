@@ -42,6 +42,15 @@ needing a full module of their own.
 
 ---
 
+## Lecture 2 & 4: Coronary Heart Disease and RHD {background-color="#E6EEF5"}
+
+📚 **Lectures 2 & 4 of 16** · **CM8-NCD.L2 / L4**
+
+*L2: Coronary heart disease · L4 (continued): Stroke and rheumatic
+heart disease — RHD covered here alongside CHD*
+
+---
+
 ## Coronary Heart Disease vs. Rheumatic Heart Disease {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -59,6 +68,14 @@ Both affect the heart, but arise through entirely different mechanisms
 risk-factor profile, RHD's root cause is a **treatable childhood
 infection** — meaning its persistence reflects healthcare access
 gaps as much as any biological risk factor.
+
+---
+
+## Lecture 13: COPD and Chronic Kidney Disease {background-color="#E6EEF5"}
+
+📚 **Lecture 13 of 16** · **CM8-NCD.L13**
+
+*Chronic obstructive pulmonary disease and chronic kidney disease*
 
 ---
 
@@ -85,6 +102,14 @@ metabolic risk factors running through this entire module series.
 
 ---
 
+## Lecture 14: Deafness and Oral Health {background-color="#E6EEF5"}
+
+📚 **Lecture 14 of 16** · **CM8-NCD.L14**
+
+*Deafness (NPPCD) and oral health (NOHP)*
+
+---
+
 ## Deafness and Oral Health {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -103,6 +128,41 @@ common, often under-prioritized relative to their disease burden, and
 addressed through **screening integrated into the general health
 system** — the same primary-care integration principle already seen
 throughout this curriculum (NLEP, DMHP, NPCBVI).
+
+---
+
+## Lecture 1: Tobacco Epidemiology and Cessation {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 2** · **CM8-Tobacco.L1**
+
+*Tobacco - epidemiology, health effects and cessation*
+
+---
+
+## Tobacco: Epidemiology, Health Effects, and Cessation {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Epidemiology:** India has among the world's highest numbers of
+  tobacco users, consuming it in both **smoked** (cigarettes, bidis)
+  and **smokeless** (gutkha, khaini, paan masala) forms — smokeless use
+  is disproportionately common in India compared to global patterns
+- **Health effects:** tobacco is a shared risk factor across this
+  module's diseases — CHD and stroke (vascular damage), COPD (airway
+  damage), and multiple cancers, especially oral cancer from smokeless
+  forms
+- **Cessation:** brief clinician advice ("ask, advise") measurably
+  increases quit rates; **nicotine replacement therapy** and
+  **quitlines/tobacco cessation clinics** (run under NTCP, covered
+  next) provide structured support beyond willpower alone
+
+---
+
+## Lecture 2: Tobacco Control Policy {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 2** · **CM8-Tobacco.L2**
+
+*Tobacco control - NTCP, COTPA 2003, PECA 2019 and WHO FCTC*
 
 ---
 

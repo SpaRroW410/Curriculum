@@ -45,6 +45,14 @@ modules.
 
 ---
 
+## Lecture 17: Malaria Epidemiology and Life Cycle {background-color="#E6EEF5"}
+
+📚 **Lecture 17 of 28** · **CM8-CD.L17**
+
+*Malaria I - epidemiology and life cycle*
+
+---
+
 ## Agent, Reservoir, and Vector {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -182,6 +190,15 @@ Used to measure transmission intensity and evaluate control programmes:
   transmission; considered interrupted if zero for 3 consecutive years
 - **Entomological indices** — vector density, human blood index,
   sporozoite rate (vector-side transmission risk)
+
+---
+
+## Lecture 18: NVBDCP and Malaria Elimination {background-color="#E6EEF5"}
+
+📚 **Lecture 18 of 28** · **CM8-CD.L18**
+
+*Malaria II - NCVBDC and the national framework for malaria
+elimination*
 
 ---
 

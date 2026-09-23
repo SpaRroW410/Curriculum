@@ -43,6 +43,14 @@ public health problem.
 
 ---
 
+## Lecture 9: Blindness Magnitude and Causes {background-color="#E6EEF5"}
+
+📚 **Lecture 9 of 16** · **CM8-NCD.L9**
+
+*Blindness I - magnitude, causes and epidemiological determinants*
+
+---
+
 ## Defining and Measuring Blindness {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -82,6 +90,14 @@ metres).
 **Exam pattern:** cataract's dominance, combined with its
 treatability, is *why* India's blindness-control strategy centres so
 heavily on cataract surgical coverage.
+
+---
+
+## Lecture 10: NPCBVI and Prevention of Blindness {background-color="#E6EEF5"}
+
+📚 **Lecture 10 of 16** · **CM8-NCD.L10**
+
+*Blindness II - NPCBVI and prevention of blindness*
 
 ---
 

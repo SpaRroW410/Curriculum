@@ -42,6 +42,14 @@ given to diabetes, hypertension, and stroke in this series.
 
 ---
 
+## Lecture 7: Cancer Patterns and Causes {background-color="#E6EEF5"}
+
+📚 **Lecture 7 of 16** · **CM8-NCD.L7**
+
+*Cancer I - patterns and causes*
+
+---
+
 ## Patterns and Causes {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -82,6 +90,14 @@ latency between exposure and disease means primary prevention (removing
 the exposure decades earlier) and secondary prevention (catching it
 early once it starts) both meaningfully change outcomes — neither
 alone is sufficient.
+
+---
+
+## Lecture 8: Cancer Screening, Control, NCRP, and HPV {background-color="#E6EEF5"}
+
+📚 **Lecture 8 of 16** · **CM8-NCD.L8**
+
+*Cancer II - screening and control, NCRP and HPV vaccination*
 
 ---
 

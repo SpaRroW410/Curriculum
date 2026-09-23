@@ -49,6 +49,55 @@ program monitoring.
 
 ---
 
+## Lecture 1: Classification of Foods and Proteins {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 14** · **CM5.L1**
+
+*Classification of foods; proteins - sources, quality and requirement*
+
+---
+
+## Lecture 2: Fats, Fatty Acids, and Carbohydrates {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 14** · **CM5.L2**
+
+*Fats, essential fatty acids, carbohydrates and dietary fibre*
+
+---
+
+## Lecture 3: Vitamins I {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 14** · **CM5.L3**
+
+*Vitamins I - fat-soluble vitamins*
+
+---
+
+## Lecture 4: Vitamins II {background-color="#E6EEF5"}
+
+📚 **Lecture 4 of 14** · **CM5.L4**
+
+*Vitamins II - water-soluble vitamins*
+
+---
+
+## Lecture 5: Minerals and Trace Elements {background-color="#E6EEF5"}
+
+📚 **Lecture 5 of 14** · **CM5.L5**
+
+*Minerals and trace elements*
+
+---
+
+## Lecture 6: Nutritive Value and Balanced Diet {background-color="#E6EEF5"}
+
+📚 **Lecture 6 of 14** · **CM5.L6**
+
+*Nutritive value of principal foods, requirements (RDA / EAR) and
+balanced diet*
+
+---
+
 ## Classification of Nutrients {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -79,6 +128,14 @@ amounts (RDA — Recommended Dietary Allowance, or the related EAR —
 Estimated Average Requirement) needed to maintain health and prevent
 deficiency — the reference point every deficiency state in this
 chapter is measured against.
+
+---
+
+## Lecture 7: PEM and Low Birth Weight {background-color="#E6EEF5"}
+
+📚 **Lecture 7 of 14** · **CM5.L7**
+
+*Protein-energy malnutrition (SAM and MAM) and low birth weight*
 
 ---
 
@@ -169,6 +226,22 @@ either stunting, wasting, or both — it doesn't tell you which.
 
 ---
 
+## Lecture 8: Nutritional Anaemia and IDD {background-color="#E6EEF5"}
+
+📚 **Lecture 8 of 14** · **CM5.L8**
+
+*Nutritional anaemia and iodine deficiency disorders*
+
+---
+
+## Lecture 9: Vitamin A Deficiency, Fluorosis, Lathyrism {background-color="#E6EEF5"}
+
+📚 **Lecture 9 of 14** · **CM5.L9**
+
+*Vitamin A deficiency, fluorosis, lathyrism and epidemic dropsy*
+
+---
+
 ## Major Micronutrient Deficiencies {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -229,34 +302,80 @@ adulteration/quality-monitoring architecture covered next.
 
 ---
 
-## India's Nutrition Programme Architecture {background-color="#FFF6DA"}
+## Lecture 10: Obesity and NCD Risk {background-color="#E6EEF5"}
+
+📚 **Lecture 10 of 14** · **CM5.L10**
+
+*Obesity and nutritional factors in non-communicable diseases*
+
+---
+
+## Undernutrition's Long-Term Link to NCDs {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+WHO notes that undernutrition early in life — including **in utero** —
+may predispose a person to overweight and non-communicable diseases like
+diabetes and heart disease later in life (the "fetal origins" or
+Barker hypothesis). This is part of why the double burden of malnutrition
+is described as occurring across an individual's life course, not only
+across a population at one point in time.
+
+---
+
+## Body Mass Index (BMI) {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+For adults, nutritional status is commonly screened using **Body Mass
+Index (BMI) = weight (kg) / height² (m²)**, with WHO cutoffs of
+underweight (<18.5), normal (18.5–24.9), overweight (25–29.9), and obese
+(≥30) — though these cutoffs are population-level screening tools, not a
+substitute for individual clinical assessment.
+
+---
+
+## Lecture 11: Nutritional Assessment and Surveillance {background-color="#E6EEF5"}
+
+📚 **Lecture 11 of 14** · **CM5.L11**
+
+*Assessment of nutritional status; nutritional surveillance and
+rehabilitation*
+
+---
+
+## Growth Monitoring {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-India's flagship child/maternal nutrition support has evolved through
-three stages:
+Regular **growth monitoring** — plotting a child's weight and height
+against standard growth charts over time — is a core Anganwadi/primary
+care activity, because:
 
-1. **ICDS (1975)** — Integrated Child Development Services, India's
-   original flagship programme for children 0–6 years and pregnant/
-   lactating mothers, delivered through Anganwadi Centres
-2. **POSHAN Abhiyaan (2018)** — India's National Nutrition Mission;
-   universalized and better-integrated ICDS with other nutrition schemes,
-   aiming for measurable reductions in stunting, wasting, and anaemia
-3. **Saksham Anganwadi & Poshan 2.0 (2021–26)** — the current umbrella
-   scheme, merging ICDS, POSHAN Abhiyaan, the Scheme for Adolescent
-   Girls, and the National Crèche Scheme into one integrated nutrition
-   support programme
+- It detects **faltering growth early**, before overt clinical
+  malnutrition develops
+- It is a **surveillance tool**, not just an individual diagnostic one —
+  aggregated data guide district- and state-level nutrition programming
+- It links directly to the iceberg phenomenon (Chapter 2): most
+  undernutrition in a community is sub-clinical unless actively measured
 
-**National Nutrition Policy (1993)** — the earlier policy document
-underlying this programme evolution, adopting a **multi-sectoral**
-approach to malnutrition (not health-sector interventions alone),
-addressing direct nutrition interventions alongside food security,
-health care, safe drinking water, and women's development —
-establishing the intersectoral framing every programme listed above
-still follows.
+---
 
-*(Broader health-programme structures and financing are covered in
-[Health Programmes in India](../programs/health-programmes.qmd).)*
+## Lecture 12: Food Hygiene {background-color="#E6EEF5"}
+
+📚 **Lecture 12 of 14** · **CM5.L12**
+
+*Food hygiene - milk and meat hygiene; food-borne diseases and
+intoxicants*
+
+---
+
+## Lecture 13: Fortification, Additives, and Adulteration {background-color="#E6EEF5"}
+
+📚 **Lecture 13 of 14** · **CM5.L13**
+
+*Food fortification, additives and adulteration; FSSAI and the FSS
+Act*
 
 ---
 
@@ -299,45 +418,42 @@ fortification-labelling violations nationally.
 
 ---
 
-## Growth Monitoring {background-color="#FFF6DA"}
+## Lecture 14: National Nutrition Policy and Programmes {background-color="#E6EEF5"}
+
+📚 **Lecture 14 of 14** · **CM5.L14**
+
+*National Nutrition Policy and national nutrition programmes*
+
+---
+
+## India's Nutrition Programme Architecture {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-Regular **growth monitoring** — plotting a child's weight and height
-against standard growth charts over time — is a core Anganwadi/primary
-care activity, because:
+India's flagship child/maternal nutrition support has evolved through
+three stages:
 
-- It detects **faltering growth early**, before overt clinical
-  malnutrition develops
-- It is a **surveillance tool**, not just an individual diagnostic one —
-  aggregated data guide district- and state-level nutrition programming
-- It links directly to the iceberg phenomenon (Chapter 2): most
-  undernutrition in a community is sub-clinical unless actively measured
+1. **ICDS (1975)** — Integrated Child Development Services, India's
+   original flagship programme for children 0–6 years and pregnant/
+   lactating mothers, delivered through Anganwadi Centres
+2. **POSHAN Abhiyaan (2018)** — India's National Nutrition Mission;
+   universalized and better-integrated ICDS with other nutrition schemes,
+   aiming for measurable reductions in stunting, wasting, and anaemia
+3. **Saksham Anganwadi & Poshan 2.0 (2021–26)** — the current umbrella
+   scheme, merging ICDS, POSHAN Abhiyaan, the Scheme for Adolescent
+   Girls, and the National Crèche Scheme into one integrated nutrition
+   support programme
 
----
+**National Nutrition Policy (1993)** — the earlier policy document
+underlying this programme evolution, adopting a **multi-sectoral**
+approach to malnutrition (not health-sector interventions alone),
+addressing direct nutrition interventions alongside food security,
+health care, safe drinking water, and women's development —
+establishing the intersectoral framing every programme listed above
+still follows.
 
-## Undernutrition's Long-Term Link to NCDs {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-WHO notes that undernutrition early in life — including **in utero** —
-may predispose a person to overweight and non-communicable diseases like
-diabetes and heart disease later in life (the "fetal origins" or
-Barker hypothesis). This is part of why the double burden of malnutrition
-is described as occurring across an individual's life course, not only
-across a population at one point in time.
-
----
-
-## Body Mass Index (BMI) {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-For adults, nutritional status is commonly screened using **Body Mass
-Index (BMI) = weight (kg) / height² (m²)**, with WHO cutoffs of
-underweight (<18.5), normal (18.5–24.9), overweight (25–29.9), and obese
-(≥30) — though these cutoffs are population-level screening tools, not a
-substitute for individual clinical assessment.
+*(Broader health-programme structures and financing are covered in
+[Health Programmes in India](../programs/health-programmes.qmd).)*
 
 ---
 

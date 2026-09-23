@@ -32,6 +32,8 @@ revealjs-plugins:
 - Trace the role of India's Five-Year Plans in health sector development, and the transition to NITI Aayog
 - List Gulick's seven POSDCORB management functions
 - Apply the planning cycle to a national health programme example
+- Describe India's health financing mix and the AB PM-JAY scheme
+- Name India's major health management information platforms (HMIS, RCH Portal, Ni-kshay, IHIP, ABDM)
 
 **NMC Community Medicine Code:** CM16
 
@@ -42,6 +44,14 @@ This chapter is the operational/administrative counterpart to earlier
 programme-content chapters (11-15) — it explains how such programmes are
 planned and managed, not what they contain.
 :::
+
+---
+
+## Lecture 1: Health Planning Concept and Cycle {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 7** · **CM16.L1**
+
+*Health planning - concept and the planning cycle*
 
 ---
 
@@ -89,25 +99,6 @@ problems get a population-wide response at all.
 
 ---
 
-## India's Five-Year Plans and Health {background-color="#E3F2E1"}
-
-🟢 **MUST KNOW**
-
-India ran **twelve Five-Year Plans (1951–2017)**, formulated by the
-**Planning Commission** (established 1950, chaired by the Prime
-Minister), each setting specific economic and social development
-targets — including health-sector allocations for infrastructure,
-disease control, and human resources.
-
-- **1969** — the **Gadgil formula** introduced transparent, criteria-
-  based resource allocation to states
-- **2015** — the Planning Commission was replaced by **NITI Aayog**
-  (National Institution for Transforming India), which since the 12th
-  Plan's completion (2017) has taken over health-sector planning and
-  programming with a more **flexible, non-five-year framework**
-
----
-
 ## Monitoring vs. Evaluation {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -126,6 +117,29 @@ different questions and happen on different timescales:
 checkpoint (activities completed on schedule) and still fail evaluation
 (no measurable health outcome improved) — process fidelity is not the
 same as impact.
+
+---
+
+## Applying the Cycle: A Worked Example {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Consider NSCAEM (Chapter 15): **situation analysis** established the
+disproportionate tribal-population sickle cell burden; **priority
+setting** targeted it specifically because of its concentrated, genetic,
+identifiable nature; **implementation** rolled out mass screening;
+**monitoring** tracks screening numbers against the 7-crore target; final
+**evaluation** will assess progress toward the 2047 elimination goal.
+Every named national programme in this curriculum has moved through
+these same planning-cycle stages, whether or not it's stated explicitly.
+
+---
+
+## Lecture 2: Management Methods and Behavioural Sciences {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 7** · **CM16.L2**
+
+*Management methods based on behavioural sciences*
 
 ---
 
@@ -149,6 +163,27 @@ health programme or facility:
 "what does managing a health programme actually involve" beyond just
 clinical or technical content — the same operational lens this chapter
 applies to Chapters 11–15's programme content.
+
+---
+
+## Management Span of Control {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Gulick and Urwick, alongside POSDCORB, also argued for a limited
+**"span of control"** — recommending roughly 3–6 subordinates per
+manager for effective coordination — a principle still referenced in
+designing supervisory structures for large-scale health programmes with
+many frontline workers (e.g. ASHA supervision structures under NHM).
+
+---
+
+## Lecture 3: PERT, CPM, and Cost Analysis {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 7** · **CM16.L3**
+
+*Quantitative management techniques - PERT / CPM, cost analyses,
+systems analysis*
 
 ---
 
@@ -177,20 +212,107 @@ have float (can slip without delaying the programme) — turning
 "planning" and "implementation" from the cycle above into an actual,
 manageable schedule.
 
+**Cost and systems analysis:** alongside PERT/CPM, planners use
+**cost-effectiveness/cost-benefit analysis** (health gain per rupee
+spent — the same logic behind the priority-setting criteria above) and
+**systems analysis** (modelling a programme as interacting inputs,
+processes, and outputs to find bottlenecks before they occur).
+
 ---
 
-## Applying the Cycle: A Worked Example {background-color="#FFF6DA"}
+## Lecture 4: Health Committees in India {background-color="#E6EEF5"}
+
+📚 **Lecture 4 of 7** · **CM16.L4**
+
+*Health committees in India*
+
+---
+
+## Health Committees in India {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-Consider NSCAEM (Chapter 15): **situation analysis** established the
-disproportionate tribal-population sickle cell burden; **priority
-setting** targeted it specifically because of its concentrated, genetic,
-identifiable nature; **implementation** rolled out mass screening;
-**monitoring** tracks screening numbers against the 7-crore target; final
-**evaluation** will assess progress toward the 2047 elimination goal.
-Every named national programme in this curriculum has moved through
-these same planning-cycle stages, whether or not it's stated explicitly.
+India's health-planning architecture rests on a sequence of landmark
+committee reports — covered in full, with each committee's specific
+recommendations, in [Chapter 25](../global/community-health.qmd)'s
+"Landmark Health Committees" section (Bhore, Mudaliar, and the
+Alma-Ata/National Health Policy sequence that reframed the PHC around
+primary health care).
+
+---
+
+## Lecture 5: Five-Year Plans, NITI Aayog, and NHP 2017 {background-color="#E6EEF5"}
+
+📚 **Lecture 5 of 7** · **CM16.L5**
+
+*Five-year plans, NITI Aayog and the National Health Policy 2017*
+
+---
+
+## India's Five-Year Plans and Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+India ran **twelve Five-Year Plans (1951–2017)**, formulated by the
+**Planning Commission** (established 1950, chaired by the Prime
+Minister), each setting specific economic and social development
+targets — including health-sector allocations for infrastructure,
+disease control, and human resources.
+
+- **1969** — the **Gadgil formula** introduced transparent, criteria-
+  based resource allocation to states
+- **2015** — the Planning Commission was replaced by **NITI Aayog**
+  (National Institution for Transforming India), which since the 12th
+  Plan's completion (2017) has taken over health-sector planning and
+  programming with a more **flexible, non-five-year framework**
+
+---
+
+## From Five-Year Plans to Flexible Governance {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The shift from fixed Five-Year Plans to NITI Aayog's more continuous,
+flexible planning approach reflects a broader governance trend also seen
+in global health policy — the same broad movement from the MDGs' fixed,
+time-bound targets to the SDGs' more integrated, continuously monitored
+agenda (Chapter 12).
+
+---
+
+## Lecture 6: Health Economics, Financing, and AB PM-JAY {background-color="#E6EEF5"}
+
+📚 **Lecture 6 of 7** · **CM16.L6**
+
+*Health economics and health financing; AB PM-JAY*
+
+---
+
+## Health Economics and Financing {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Health economics** applies economic principles (scarcity, opportunity
+cost, cost-effectiveness) to health-sector decisions — the discipline
+underlying the priority-setting criteria covered earlier in this
+chapter.
+
+**India's health financing mix:**
+
+- **Out-of-pocket expenditure (OOPE)** — historically the dominant
+  source of health spending in India, a major driver of
+  catastrophic health expenditure and impoverishment
+- **General taxation** — funds the public health system (Sub-Centres
+  through tertiary hospitals) and centrally sponsored schemes
+- **Social/health insurance** — organized-sector schemes (ESI, Chapter
+  19) plus publicly funded insurance for the wider population
+
+**Ayushman Bharat Pradhan Mantri Jan Arogya Yojana (AB PM-JAY)** —
+the world's largest publicly funded health insurance scheme, providing
+health cover of ₹5 lakh per family per year for secondary and tertiary
+hospitalization to India's poorest and most vulnerable ~40% of
+families — the second pillar of Ayushman Bharat, alongside the Health
+and Wellness Centres/Ayushman Arogya Mandir pillar (Chapter 25).
 
 ---
 
@@ -208,27 +330,44 @@ elsewhere.
 
 ---
 
-## From Five-Year Plans to Flexible Governance {background-color="#E8E4F3"}
+## Lecture 7: Health Management Information Systems {background-color="#E6EEF5"}
 
-🟣 **MAY KNOW**
+📚 **Lecture 7 of 7** · **CM16.L7**
 
-The shift from fixed Five-Year Plans to NITI Aayog's more continuous,
-flexible planning approach reflects a broader governance trend also seen
-in global health policy — the same broad movement from the MDGs' fixed,
-time-bound targets to the SDGs' more integrated, continuously monitored
-agenda (Chapter 12).
+*Health management information systems - HMIS, RCH portal, Nikshay,
+IHIP and ABDM*
 
 ---
 
-## Management Span of Control {background-color="#E8E4F3"}
+## Health Management Information Systems {background-color="#FFF6DA"}
 
-🟣 **MAY KNOW**
+🟡 **SHOULD KNOW**
 
-Gulick and Urwick, alongside POSDCORB, also argued for a limited
-**"span of control"** — recommending roughly 3–6 subordinates per
-manager for effective coordination — a principle still referenced in
-designing supervisory structures for large-scale health programmes with
-many frontline workers (e.g. ASHA supervision structures under NHM).
+The "health information systems" building block above is delivered
+in practice through several named digital platforms, each serving a
+different data need:
+
+- **HMIS (Health Management Information System)** — the umbrella
+  facility-level reporting portal capturing service-delivery data
+  (OPD/IPD numbers, programme indicators) from Sub-Centres upward,
+  feeding district- and state-level planning
+- **RCH Portal** — tracks reproductive and child health service
+  delivery (antenatal registrations, institutional deliveries,
+  immunization) at the individual beneficiary level
+- **Ni-kshay** — the case-based digital surveillance and treatment-
+  tracking platform for tuberculosis under NTEP (Chapter 6)
+- **IHIP (Integrated Health Information Platform)** — the disease
+  surveillance platform covered in Chapter 6's outbreak-investigation
+  content, feeding near-real-time outbreak data
+- **ABDM (Ayushman Bharat Digital Mission)** — issues every citizen a
+  unique digital health ID and interoperable health records, the
+  broader digital-health architecture these programme-specific
+  platforms increasingly plug into
+
+**Why these are taught as a set:** each solves a different piece of
+the same underlying problem — a functioning health system needs
+facility-level, programme-specific, and patient-level data flowing
+upward simultaneously, not just one of the three.
 
 ---
 
@@ -319,6 +458,24 @@ target health outcome does not improve. This scenario illustrates that:
 
 ---
 
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+Which platform is specifically the case-based surveillance and
+treatment-tracking system for tuberculosis under NTEP?
+
+- HMIS
+- RCH Portal
+- [Ni-kshay]{.correct data-explanation="Ni-kshay is the case-based digital surveillance and treatment-tracking platform specifically for tuberculosis under NTEP, distinct from HMIS (general facility-level reporting) and the RCH Portal (reproductive and child health service tracking)."}
+- ABDM
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. World Health Organization. *National Health Planning Tools* —
@@ -330,6 +487,11 @@ target health outcome does not improve. This scenario illustrates that:
 4. World Health Organization. *Everybody's Business: Strengthening
    Health Systems to Improve Health Outcomes* — the six health system
    building blocks.
+5. National Health Authority, Government of India. *Ayushman Bharat
+   PM-JAY: Scheme Guidelines*.
+6. Ministry of Health and Family Welfare, Government of India.
+   *Health Management Information System (HMIS)*, *Ni-kshay*, and
+   *Ayushman Bharat Digital Mission (ABDM)* portals.
 
 ---
 
