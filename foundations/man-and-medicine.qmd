@@ -40,7 +40,7 @@ revealjs-plugins:
 This chapter opens the Foundations section. It sets up vocabulary and frameworks — the definition of health, its determinants, and Primary Health Care — that every later chapter in this series assumes.
 :::
 
-# Richest of Rich countries cannot afford to keep on building hospitals ignoring the factors leading to increase in diseases and early deaths.
+## Richest of Rich countries cannot afford to keep on building hospitals ignoring the factors leading to increase in diseases and early deaths.
 
 ------------------------------------------------------------------------
 
@@ -135,13 +135,72 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 
 ------------------------------------------------------------------------
 
+## Community Diagnosis {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Aspect | Clinical Diagnosis | Community Diagnosis |
+|--------|---------------------|----------------------|
+| Made by | Doctor | Epidemiologist |
+| Concerned with | Individual | Defined population |
+| Scope | Only sick | Both sick and healthy |
+| Purpose | Decide treatment | Plan prevention and promotion |
+| Follow-up | Case | Program |
+
+**Stages:** Data collection and analysis → Interpretation → Dissemination → Action
+
+**Relevance:** Identifies community health problems, sets priorities, and guides interventions.
+
+------------------------------------------------------------------------
+
+## Community vs Hospital Medicine {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Aspect | Community Medicine | Hospital Medicine |
+|--------|---------------------|---------------------|
+| Service area | Defined population | Ill-defined catchment |
+| Approach | Active outreach | Passive, patient-driven |
+| Focus | Prevention and promotion | Curative care |
+| Coordination | Intersectoral | Limited |
+| Cost-benefit | High (population impact) | Individual outcome |
+
+**Principle:** Prevention is safer, cheaper, and easier than cure.
+
+------------------------------------------------------------------------
+
+## Social Anatomy, Physiology, Pathology, and Therapy {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+| Concept | Analogy | Example |
+|---------|---------|---------|
+| Social Anatomy | Structure of society | Social stratification, institutions |
+| Social Physiology | Functions of society | Education, communication |
+| Social Pathology | Abnormalities | Crime, poverty, delinquency |
+| Social Therapy | Treatment | Legislation, reform, welfare services |
+
+------------------------------------------------------------------------
+
+## Historical Milestones in Public Health {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **2000 BC:** Evidence of sanitation and drainage systems
+- **1500 BC:** Leviticus — isolation and hygiene rules
+- **460–370 BC:** Hippocrates — rational medicine
+- **Medieval era:** Church-linked public baths and water systems
+- **Modern era:** Organized public-health legislation and programs
+
+------------------------------------------------------------------------
+
 ## Essential Public health services {background-color="#E8E4F3"}
 
 🟢 **MUST KNOW**
 
 ::::: columns
 ::: {.column width="70%"}
-![EPHS)](../images/man-and-medicine/ephs.png){.slide-img height="550px"}
+![Essential Public Health Services wheel](../images/man-and-medicine/ephs.png){.slide-img height="420px"}
 :::
 
 ::: {.column width="30%"}
@@ -482,6 +541,23 @@ Under the Sustainable Development Goals, health is primarily consolidated under 
 - [SDG 3 (Good Health and Well-being)]{.correct data-explanation="SDG 3 is dedicated to health and well-being, including Universal Health Coverage as an explicit target."}
 - SDG 6 (Clean Water and Sanitation)
 - SDG 13 (Climate Action)
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Application {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Application
+
+Which of the following best describes Community Medicine?
+
+- Focuses only on hospital-based curative care
+- [Integrates preventive, promotive, curative, and rehabilitative care]{.correct data-explanation="Community Medicine applies all aspects of health care — preventive, promotive, curative, and rehabilitative — at the population level through organized efforts."}
+- Deals only with sanitation and hygiene
+- Concerned solely with family-level care
 :::
 
 ------------------------------------------------------------------------
