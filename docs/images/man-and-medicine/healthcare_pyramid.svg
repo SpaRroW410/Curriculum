@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="360" viewBox="0 0 560 360" role="img" aria-labelledby="title desc">
+  <title id="title">The three-tier health-care pyramid</title>
+  <desc id="desc">A pyramid of three levels of health-care: a wide primary level at the base (health centres and subcenters, most patients), a narrower secondary level in the middle (district hospitals, community health centres), and a narrow tertiary level at the top (medical colleges, superspecialty centres).</desc>
+
+  <polygon points="220,20 340,20 400,120 160,120" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="280" y="60" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Tertiary</text>
+  <text x="280" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">Medical colleges,</text>
+  <text x="280" y="96" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">superspecialty centres</text>
+
+  <polygon points="160,130 400,130 470,235 90,235" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="280" y="170" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Secondary</text>
+  <text x="280" y="192" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">District hospitals,</text>
+  <text x="280" y="208" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">community health centres</text>
+
+  <polygon points="90,245 470,245 540,345 20,345" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="280" y="285" text-anchor="middle" font-family="Georgia, serif" font-size="17" font-weight="bold" fill="#2c3e50">Primary</text>
+  <text x="280" y="308" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Sub-centres, PHCs — first contact,</text>
+  <text x="280" y="325" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">handles the vast majority of patients</text>
+</svg>

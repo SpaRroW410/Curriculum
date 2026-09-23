@@ -74,7 +74,7 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 
 🟢 **MUST KNOW**
 
-> “Public health is the science and art of preventing disease, prolonging life, and promoting health through organized community efforts.” — Winslow, 1920
+> "The science and art of preventing disease, prolonging life, and promoting physical health and efficiency **through organized community efforts** for the sanitation of the environment, the control of community infections, the education of the individual in principles of personal hygiene, the organization of medical and nursing services for early diagnosis and preventive treatment of disease, and the development of social machinery which will ensure every individual a standard of living adequate for the maintenance of health." — **C.E.A. Winslow, 1920**
 
 **Functions:**
 - Health promotion through education  
@@ -153,6 +153,24 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 
 ------------------------------------------------------------------------
 
+## Community Diagnosis: Steps and Parameters {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**How a community diagnosis is made** (same logic as diagnosing a
+patient — history, examination, tests — applied to a population):
+
+1. Collect socio-demographic data (age, sex, education, occupation, income)
+2. Collect environmental data (housing, water, sanitation)
+3. Identify mortality/morbidity causes and risk factors
+4. Distinguish **professionally identified needs** from **felt needs**
+5. Write the findings as a short "community diagnosis" statement, then plan **community treatment**
+
+**Parameters used to assess a health service** for that community:
+*Relevance, Adequacy, Accessibility, Availability, Affordability, Completeness.*
+
+------------------------------------------------------------------------
+
 ## Community vs Hospital Medicine {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -182,15 +200,105 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 
 ------------------------------------------------------------------------
 
-## Historical Milestones in Public Health {background-color="#E8E4F3"}
+## Five Eras of Medical History {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The history of medicine and public health is conventionally divided into five eras:
+
+![Five eras of medical and public health history](../images/man-and-medicine/history_eras.svg){.slide-img .nostretch width="780px"}
+
+------------------------------------------------------------------------
+
+## Ancient Era: Indian and World Medicine {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Indus Valley (3000–1500 BC):** well-planned townships with house drains, public drains, and water-storage tanks — public health thinking existed before it was named
+- **Ayurveda:** laid down in the *Atharvaveda*; health = balance of three *doshas* — **Vata** (air), **Pitta** (bile), **Kapha** (phlegm). Key sages: **Atreya** (teacher, 8th–9th c. BCE), **Sushruta** (surgery, *Sushruta Samhita*), **Charaka** (*Charaka Samhita*, medicine and drugs)
+- **Greek medicine — Hippocrates** (c. 460–370 BCE), the father of medicine: the Hippocratic Oath; four humors (blood, phlegm, black bile, yellow bile); *On Airs, Waters and Places* — arguably the first work of epidemiology
+- **Egyptian:** Imhotep; medical knowledge recorded in *Papyrus* texts (surgery; drugs and pharmacopeia)
+- **Roman:** public baths, drainage against malaria, the first census; **Galen** (129–200 AD), leading anatomist, whose theories held sway for ~1500 years
+
+------------------------------------------------------------------------
+
+## Middle Ages and the Renaissance {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
 
-- **2000 BC:** Evidence of sanitation and drainage systems
-- **1500 BC:** Leviticus — isolation and hygiene rules
-- **460–370 BC:** Hippocrates — rational medicine
-- **Medieval era:** Church-linked public baths and water systems
-- **Modern era:** Organized public-health legislation and programs
+- **Middle Ages (500–1500 AD)** — the "Dark Ages": wars, famine, and epidemics (the Black Death); little progress in medicine, *except* the rise of the **Arabic/Unani-Tibb system**, blending Greco-Roman ideas — **Avicenna** (*Cannons of Avicenna*) and **Rhazes** (measles) are its most famous physicians
+- **Renaissance (1500–1800 AD):**
+  - **Paracelsus** — championed evidence over superstition
+  - **Vesalius** — systematic human dissection (*Fabrica*)
+  - **William Harvey** — circulation of blood; **Leeuwenhoek** (1679) — the microscope
+  - **Edward Jenner** (1796) — smallpox vaccination
+  - **Samuel Hahnemann** (1796) — founded **homeopathy** on "like cures like"
+  - **John Graunt** (1662) — numerical analysis of mortality, founder of biostatistics
+
+------------------------------------------------------------------------
+
+## Era of Modern Scientific Discoveries (1800–1950) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Germ theory and its consequences:** Koch (TB, cholera, anthrax bacilli), Lister (antisepsis), Pasteur (anti-rabies), Hansen (leprosy bacillus) — followed by X-rays (Roentgen, 1897), BCG vaccine (1920), penicillin (Fleming, 1940), streptomycin (1949).
+
+**In India:** the Indian Medical Services; malaria's mode of transmission discovered by **Ronald Ross** (Nobel Prize); the **Bhore Committee** (1946, covered in detail later in this deck); **Dr. Sushila Nayyar** and **Dr. Bidhan Chandra Roy** as pioneers of modern Indian health-care (also covered later).
+
+**In the world:** Edwin Chadwick's UK sanitary report (1842) → first British Public Health Act (1848); Lemuel Shattuck's US public-health reforms; **John Snow's** cholera investigation (covered in detail later in this deck); William Farr (epidemiological surveillance); William Budd (typhoid, water contamination).
+
+------------------------------------------------------------------------
+
+## Indigenous Systems of Medicine: AYUSH {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Alongside allopathy, India officially recognizes five indigenous systems of medicine, brought under one umbrella by the **Ministry of AYUSH** (established 2014):
+
+![The five systems under AYUSH](../images/man-and-medicine/ayush_umbrella.svg){.slide-img .nostretch width="420px"}
+
+------------------------------------------------------------------------
+
+## Ayurveda, Yoga, and Naturopathy {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Ayurveda** — laid down in the *Atharvaveda*; health depends on the balance of three *doshas*: **Vata** (air), **Pitta** (bile), **Kapha** (phlegm/mucus); foundational texts include the *Charaka Samhita* and *Sushruta Samhita*
+- **Yoga** — a physical, mental, and spiritual discipline used for health promotion, stress management, and disease prevention
+- **Naturopathy** — a drug-free system based on the body's own capacity to heal, using diet, water, and lifestyle measures
+
+------------------------------------------------------------------------
+
+## Unani and Siddha {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Unani (Unani-Tibb)** — a Greco-Arabic system that reached India via the medieval Arabic system of medicine; based on a humoral theory similar to ancient Greek medicine; its classical authorities include **Avicenna** and **Rhazes**
+- **Siddha** — one of the oldest systems of medicine, rooted in Tamil Nadu and associated with the *Siddhars*; shares conceptual ground with Ayurveda but has its own distinct pharmacopeia and texts
+
+------------------------------------------------------------------------
+
+## Homeopathy {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- Founded by **Samuel Hahnemann** in **1796**, in Germany
+- Core doctrine: *"like cures like"* — a substance that causes symptoms in a healthy person can, in a highly diluted form, treat similar symptoms in a sick person
+- Widely practiced in India as one of the recognized AYUSH systems
+
+------------------------------------------------------------------------
+
+## AYUSH in Public Health: Role and Limitations {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Where AYUSH fits well:** wellness and preventive health services, lifestyle counseling, and supportive/complementary care in select chronic conditions — **not** as a substitute for intensive care, surgery, or emergency resuscitation.
+
+**Key limitations:**
+- Standardization and quality control of herbal/traditional preparations
+- Safety and drug-interaction data are often incomplete
+- Evidence base is uneven across the different systems
+- "Natural" does **not** automatically mean "safe" — natural substances can still be toxic or interact with other medicines
 
 ------------------------------------------------------------------------
 
@@ -297,6 +405,16 @@ This is the Blum / Lalonde-style "health field concept," standard across Indian 
 
 ------------------------------------------------------------------------
 
+## Determinants of Health: A Wider View {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The four-domain model on the previous slide is the core teaching; textbooks also break determinants into a wider set of interacting domains:
+
+![Core determinants of health](../images/man-and-medicine/determinants_grid.svg){.slide-img .nostretch width="480px"}
+
+------------------------------------------------------------------------
+
 ## Primary Health Care: Alma-Ata, 1978 {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -309,6 +427,16 @@ At Alma-Ata (in present-day Kazakhstan), 134 WHO member states and 67 organisati
 
 ------------------------------------------------------------------------
 
+## Levels of Healthcare: Primary, Secondary, Tertiary {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Health-care is delivered through a graded, three-tier system — most needs are met at the base, with progressively fewer patients needing the more specialized tiers above:
+
+![The three-tier health-care pyramid](../images/man-and-medicine/healthcare_pyramid.svg){.slide-img .nostretch width="440px"}
+
+------------------------------------------------------------------------
+
 ## Principles of Primary Health Care {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -317,6 +445,18 @@ At Alma-Ata (in present-day Kazakhstan), 134 WHO member states and 67 organisati
 - **Community participation** — individuals and communities help plan and run their own care, not just receive it
 - **Intersectoral coordination** — health links to agriculture, education, housing, water supply, and rural development
 - **Appropriate technology** — methods that are scientifically valid, affordable, and acceptable to the community, not merely the most advanced available
+
+------------------------------------------------------------------------
+
+## Equality, Equity, and Justice {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+These three terms are often confused, but public health cares most about **equity**:
+
+![Equality, equity, and justice illustrated as a race](../images/man-and-medicine/equity_race.svg){.slide-img .nostretch width="600px"}
+
+**Example:** Ayushman Bharat gives free secondary/tertiary care specifically to the poorest households — the whole population has access to care, but the most disadvantaged get an extra opportunity. That is equity, not mere equality.
 
 ------------------------------------------------------------------------
 
@@ -353,6 +493,17 @@ Many of these ideas — the PHC network, integration of services — are still t
 
 ------------------------------------------------------------------------
 
+## Pioneers of Modern Indian Public Health {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Alongside Sir Joseph Bhore, two other figures shaped modern Indian health-care:
+
+- **Dr. Sushila Nayyar** — founded a small dispensary at Sewagram (Wardha) in 1944 that grew into the Mahatma Gandhi Institute of Medical Sciences, known for its focus on holistic rural health-care; later became India's second Union Health Minister
+- **Dr. Bidhan Chandra Roy** — first doctor to become Chief Minister of an Indian state (West Bengal); his birthday, 1 July, is celebrated nationally as **"Doctors' Day"**
+
+------------------------------------------------------------------------
+
 ## From Health for All to the SDGs {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -366,6 +517,19 @@ Many of these ideas — the PHC network, integration of services — are still t
 
 ------------------------------------------------------------------------
 
+## Health for All: The 21st-Century Targets {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+In 1998, WHO adopted 10 concrete global targets to pursue Health for All in the new century. A few of the most exam-relevant:
+
+- **Survival:** maternal mortality <100/100,000 live births; under-5 mortality <45/1000 live births; life expectancy >70 years
+- **Reversal of five major pandemics:** TB, HIV/AIDS, malaria, tobacco-related disease, violence/trauma
+- **Eradication/elimination of specific diseases:** measles and lymphatic filariasis (eradication); leprosy and trachoma (elimination)
+- **Improved access** to water, sanitation, food, and shelter
+
+------------------------------------------------------------------------
+
 ## India's National Health Policy Milestones {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -373,16 +537,6 @@ Many of these ideas — the PHC network, integration of services — are still t
 - **NHP 1983** — first National Health Policy; reaffirmed Health for All through a PHC-centred approach
 - **NHP 2002** — revised targets in light of slower-than-planned progress; emphasized decentralization and public–private partnership
 - **NHP 2017** — shifted emphasis toward Universal Health Coverage, preventive and promotive care, and raising public health spending as a share of GDP
-
-------------------------------------------------------------------------
-
-## A Longer View of Medicine {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-- **Hippocrates** (Ancient Greece, c. 460–370 BCE) — separated medicine from religion and superstition; the source of the Hippocratic Oath's ethical tradition
-- **Sushruta** (Ancient India) — author of the *Sushruta Samhita*, an early foundational text of surgery and Ayurvedic medicine
-- Public-health thinking is not a modern invention: sanitation and water-management systems appear in ancient urban civilisations (e.g. the Indus Valley), long before "public health" was named as a field
 
 ------------------------------------------------------------------------
 
@@ -403,6 +557,30 @@ Many of these ideas — the PHC network, integration of services — are still t
 - Widely regarded as the founding figure of modern epidemiology and disease mapping
 :::
 :::::
+
+------------------------------------------------------------------------
+
+## Contemporary Era: 1950 to the Present {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **1949–1950:** the Framingham cohort study (heart disease risk factors); Doll and Hill's case-control studies (smoking and lung cancer) — landmark study designs
+- **1978:** the **Alma-Ata Declaration** (covered in detail later in this deck)
+- **1980:** smallpox declared eradicated worldwide — the first disease ever eradicated
+- Continuing challenges: **HIV/AIDS** emerged soon after; recurring outbreaks (SARS, H1N1, Nipah); **COVID-19** (2019–) — the largest global public-health event of this era
+- **In India:** community development programme (1952); world's first national family planning programme (1953); last case of smallpox (1975) and of wild polio (2011); National Rural Health Mission (2005); Ayushman Bharat (2018)
+
+------------------------------------------------------------------------
+
+## Public Health Success and Failure Stories {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+**Successes** — smallpox and polio eradication, leprosy control, and HIV/AIDS control all shared the same ingredients: strong political will, effective surveillance, community education, an effective intervention (vaccine/drug), and international cooperation.
+
+**A cautionary failure — malaria:** incidence fell from 75 million cases/year (1947) to just 0.1 million (1965) — then resurged to over 6 million/year by 1976. Why: surveillance was relaxed once cases looked "eradicated," over-reliance on a single tool (DDT spraying), and low investment once the disease seemed under control.
+
+**Lesson:** a falling case count is a reason to sustain surveillance, not relax it.
 
 ------------------------------------------------------------------------
 
@@ -545,6 +723,91 @@ Under the Sustainable Development Goals, health is primarily consolidated under 
 
 ------------------------------------------------------------------------
 
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 8
+
+Community medicine primarily differs from clinical medicine in that it focuses on:
+
+- Individual patient care
+- Hospital-based management
+- [Health of populations]{.correct data-explanation="Clinical medicine focuses on the individual patient; community medicine's unit of concern is the population."}
+- Curative services only
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 9 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 9
+
+Which of the following best reflects the scope of community medicine?
+
+- Diagnosis and treatment
+- Rehabilitation only
+- [Prevention, promotion, and protection of health]{.correct data-explanation="Community medicine's scope spans prevention, promotion, and protection of health at the population level — not just diagnosis, treatment, or rehabilitation alone."}
+- Emergency care
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 10 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 10
+
+The traditional concept of "Tridosha" — Vata, Pitta, and Kapha — is associated with which system of medicine?
+
+- Unani
+- Siddha
+- [Ayurveda]{.correct data-explanation="Tridosha (Vata, Pitta, Kapha) is the foundational concept of Ayurveda, laid down in the Atharvaveda."}
+- Homeopathy
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 11 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 11
+
+"Like cures like" is the fundamental principle of:
+
+- Unani
+- Yoga
+- Siddha
+- [Homeopathy]{.correct data-explanation="Homeopathy, founded by Samuel Hahnemann in 1796, is built on the doctrine that a substance causing symptoms in a healthy person can treat similar symptoms in a diluted form."}
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 12
+
+A patient develops liver toxicity after taking an unlabeled herbal preparation of unclear dosage. This best illustrates which limitation of AYUSH systems?
+
+- Lack of trained practitioners
+- Absence of preventive potential
+- [Issues of standardization and safety]{.correct data-explanation="Inconsistent labeling, dosage, and quality control are among AYUSH's most cited real-world limitations — natural origin does not guarantee safety."}
+- Ineffectiveness in chronic diseases
+:::
+
+------------------------------------------------------------------------
+
 ## Self-Check: Application {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -571,6 +834,11 @@ Which of the following best describes Community Medicine?
 5.  Lalonde, M. *A New Perspective on the Health of Canadians*. Government of Canada, 1974.
 6.  Marmot, M. & WHO Commission on Social Determinants of Health. *Closing the Gap in a Generation*, 2008.
 7.  Ministry of Health & Family Welfare, Government of India. *National Health Policy* 1983, 2002, 2017.
+8.  Bhalwar, R. (Ed.) *Text Book of Community Medicine*. Chapters: "Historical Concepts in Community Medicine" and "General Concepts in Health, Community Medicine and Public Health."
+9.  Indian Association of Preventive and Social Medicine (IAPSM), Core Committee. *Community Medicine: An Introduction*.
+10. Ministry of AYUSH, Government of India. *About the Ministry* — Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy.
+
+**Want to practice?** See the companion [Man and Medicine Question Bank](man-and-medicine-question-bank.qmd) for short-answer, MCQ, and assertion–reason questions with an answer key.
 
 ------------------------------------------------------------------------
 

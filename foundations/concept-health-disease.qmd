@@ -67,7 +67,7 @@ teaching groups the thinking *behind* that definition into four models:
 
 | Model | Core idea |
 |---|---|
-| **Biomedical** | Health = absence of disease; rooted in germ theory. Criticized for ignoring social, environmental, and psychological determinants — it cannot explain malnutrition, chronic disease, drug abuse, or pollution as "health" problems |
+| **Biomedical** | Health = absence of disease; rooted in germ theory. Criticized for ignoring social, environmental, and psychological determinants |
 | **Ecological** | Health = a dynamic equilibrium between humans and their environment; disease = a maladjustment to that environment ("imperfect man" meets "imperfect environment") |
 | **Psychosocial** | Health is shaped by social, psychological, cultural, economic, and political factors, not biology alone |
 | **Holistic** | A synthesis of all three — every sector (agriculture, education, housing, industry) affects health; this is the thinking underlying the WHO's 1948 definition |
@@ -303,6 +303,23 @@ byproduct.
 
 ---
 
+## Determinants of Health: A Wider View {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Political determinants** — resource allocation, manpower policy,
+  and how accessible health services are made to different segments of
+  society are all shaped by a country's political system; WHO's target
+  is ≥5% of GNP spent on health (India currently spends about 2%)
+- **"Relativeness" of health:** health is not one fixed ideal state —
+  it is relative to community, race, and genetic make-up. Example: the
+  average height of Gurkhas from Nepal (~162 cm) is far below that of
+  Scottish highlanders (~180 cm), yet both populations are equally
+  healthy and physically fit for their own build — a reminder not to
+  mistake population variation for disease
+
+---
+
 ## Lecture 3: Indicators of Health {background-color="#E6EEF5"}
 
 📚 **Lecture 3 of 3** · **CM1.L3**
@@ -388,6 +405,29 @@ single number:
 Both consolidate outcome measures rather than inputs, and both allow
 country-to-country comparison over time — HDI is the more widely cited
 today (UNDP's Human Development Report).
+
+**Related indices:** the **Human Poverty Index (HPI)**, **Gender-related
+Development Index (GDI)**, and **Gender Empowerment Measure (GEM)**
+extend the same idea to deprivation and gender-specific development —
+all complementary to, not replacements for, PQLI/HDI.
+
+---
+
+## Positive Health and Wellness {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Positive health** is more than "not sick" — Hippocrates linked it
+  to genetics, diet, and exercise; it predicts longer life, lower
+  health spending, and better prognosis during illness
+- **Wellness** — a state of good health actively pursued through
+  healthy-lifestyle choices — is commonly described across **six
+  dimensions**: physical, emotional, intellectual, social, occupational,
+  and spiritual
+- **Well-being** has two components: a **subjective** one (quality of
+  life — how happy a person feels about their life) and an **objective**
+  one (standard/level of living — income, housing, sanitation,
+  education, and health-care access)
 
 ---
 

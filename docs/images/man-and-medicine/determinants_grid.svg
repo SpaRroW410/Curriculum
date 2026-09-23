@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="500" viewBox="0 0 720 500" role="img" aria-labelledby="title desc">
+  <title id="title">Core determinants of health</title>
+  <desc id="desc">A grid of eight domains surrounding a central hub labeled Core Determinants of Health: biology and genetics, health services, personal behaviour, physical environment, social environment, education, income and occupation, and culture and beliefs.</desc>
+
+  <!-- connecting lines from hub to each cell -->
+  <line x1="360" y1="250" x2="120" y2="70" stroke="#bbb" stroke-width="1.5"/>
+  <line x1="360" y1="250" x2="360" y2="70" stroke="#bbb" stroke-width="1.5"/>
+  <line x1="360" y1="250" x2="600" y2="70" stroke="#bbb" stroke-width="1.5"/>
+  <line x1="360" y1="250" x2="120" y2="250" stroke="#bbb" stroke-width="1.5"/>
+  <line x1="360" y1="250" x2="600" y2="250" stroke="#bbb" stroke-width="1.5"/>
+  <line x1="360" y1="250" x2="120" y2="430" stroke="#bbb" stroke-width="1.5"/>
+  <line x1="360" y1="250" x2="360" y2="430" stroke="#bbb" stroke-width="1.5"/>
+  <line x1="360" y1="250" x2="600" y2="430" stroke="#bbb" stroke-width="1.5"/>
+
+  <!-- 8 satellite cells -->
+  <g font-family="Georgia, serif">
+    <rect x="20" y="25" width="200" height="90" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+    <text x="120" y="65" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Biology &amp;</text>
+    <text x="120" y="85" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Genetics</text>
+
+    <rect x="260" y="25" width="200" height="90" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+    <text x="360" y="65" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Health</text>
+    <text x="360" y="85" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Services</text>
+
+    <rect x="500" y="25" width="200" height="90" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+    <text x="600" y="65" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Personal</text>
+    <text x="600" y="85" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Behaviour</text>
+
+    <rect x="20" y="205" width="200" height="90" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+    <text x="120" y="245" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Physical</text>
+    <text x="120" y="265" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Environment</text>
+
+    <rect x="500" y="205" width="200" height="90" rx="8" fill="#D6EAF8" stroke="#2c3e50" stroke-width="1.5"/>
+    <text x="600" y="245" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Social</text>
+    <text x="600" y="265" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Environment</text>
+
+    <rect x="20" y="385" width="200" height="90" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+    <text x="120" y="435" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Education</text>
+
+    <rect x="260" y="385" width="200" height="90" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+    <text x="360" y="425" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Income &amp;</text>
+    <text x="360" y="445" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Occupation</text>
+
+    <rect x="500" y="385" width="200" height="90" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+    <text x="600" y="425" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Culture &amp;</text>
+    <text x="600" y="445" text-anchor="middle" font-size="15" font-weight="bold" fill="#2c3e50">Beliefs</text>
+  </g>
+
+  <!-- central hub -->
+  <circle cx="360" cy="250" r="75" fill="#007ACC"/>
+  <text x="360" y="243" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#fff">Core</text>
+  <text x="360" y="261" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#fff">Determinants</text>
+  <text x="360" y="279" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#fff">of Health</text>
+</svg>

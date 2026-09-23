@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-labelledby="title desc">
+  <title id="title">Equality, equity, and justice illustrated as a 100-metre race</title>
+  <desc id="desc">Three rows illustrating equality, equity, and justice using a race between boys and girls with different physical capability. Equality: both start at the same line, girls disadvantaged. Equity: girls start ahead to offset the disadvantage. Justice: separate races are run for each group.</desc>
+
+  <!-- Row 1: Equality -->
+  <text x="20" y="30" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Equality</text>
+  <line x1="150" y1="20" x2="150" y2="60" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="650" y1="20" x2="650" y2="60" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="140" y="25" width="20" height="14" fill="#007ACC"/>
+  <text x="150" y="55" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#333">Boys</text>
+  <rect x="140" y="40" width="20" height="14" fill="#e05a7a"/>
+  <text x="655" y="35" font-family="Georgia, serif" font-size="11" fill="#333">Finish</text>
+  <line x1="150" y1="33" x2="620" y2="33" stroke="#bbb" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="150" y1="47" x2="620" y2="47" stroke="#bbb" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="400" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Same start line for everyone — girls run the full distance at a physical disadvantage</text>
+
+  <!-- Row 2: Equity -->
+  <text x="20" y="140" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Equity</text>
+  <line x1="150" y1="130" x2="150" y2="170" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="220" y1="130" x2="220" y2="170" stroke="#e05a7a" stroke-width="2" stroke-dasharray="3 3"/>
+  <line x1="650" y1="130" x2="650" y2="170" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="140" y="135" width="20" height="14" fill="#007ACC"/>
+  <text x="150" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#333">Boys</text>
+  <rect x="210" y="150" width="20" height="14" fill="#e05a7a"/>
+  <text x="220" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#333">Girls</text>
+  <line x1="150" y1="143" x2="620" y2="143" stroke="#bbb" stroke-width="1" stroke-dasharray="4 3"/>
+  <line x1="220" y1="157" x2="620" y2="157" stroke="#bbb" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="400" y="185" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Girls start ahead — an extra opportunity that offsets the disadvantage</text>
+
+  <!-- Row 3: Justice -->
+  <text x="20" y="250" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Justice</text>
+  <line x1="150" y1="225" x2="150" y2="255" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="650" y1="225" x2="650" y2="255" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="140" y="230" width="20" height="14" fill="#007ACC"/>
+  <line x1="150" y1="237" x2="620" y2="237" stroke="#bbb" stroke-width="1" stroke-dasharray="4 3"/>
+
+  <line x1="150" y1="260" x2="150" y2="290" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="650" y1="260" x2="650" y2="290" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="140" y="268" width="20" height="14" fill="#e05a7a"/>
+  <line x1="150" y1="275" x2="620" y2="275" stroke="#bbb" stroke-width="1" stroke-dasharray="4 3"/>
+  <text x="400" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Two separate races, one for each group — everybody wins on their own terms</text>
+
+  <text x="400" y="345" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#007ACC">In public health, "equity" is what matters most</text>
+</svg>

@@ -1,0 +1,213 @@
+---
+title: "Man and Medicine: Question Bank"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    page-layout: full
+---
+
+# Question Bank: Man and Medicine
+
+*A written companion to [Man and Medicine](man-and-medicine.qmd) — short essay/short answer
+questions for written practice, and MCQs (Single Best Answer, Multiple Correct Answer, and
+Assertion–Reason) with an answer key for self-testing.*
+
+*This is a growing resource — more chapters will be added here as they're covered.*
+
+------------------------------------------------------------------------
+
+## Chapter 1: Introduction to Community Medicine
+
+### Short Essay/Short Answer Questions (5–8 marks)
+
+1. Enumerate the objectives of community medicine.
+2. Why is community medicine considered essential for undergraduate medical training?
+3. Scope of community medicine.
+4. Role of community medicine in national health development.
+5. What do you mean by "de-professionalization of medicine"?
+6. What is the contribution to medical sciences by: (a) Robert Koch, (b) John Snow, (c) James Lind?
+
+### Multiple Choice Questions (1 mark)
+
+#### A. Single Best Answer (SBA)
+
+1. Community medicine primarily differs from clinical medicine in that it focuses on:
+   a. Individual patient care
+   b. Hospital-based management
+   c. Health of populations
+   d. Curative services only
+
+2. The term "Community Medicine" emphasizes:
+   a. Treatment of community-acquired infections
+   b. Preventive, promotive, and social aspects of health
+   c. Medical care in rural areas only
+   d. Primary care practice
+
+3. A district health officer plans a program to reduce the burden of hypertension by promoting
+   healthy diet, physical activity, tobacco cessation, and community awareness rather than
+   focusing only on treatment of diagnosed patients. This approach best reflects the principles of:
+   a. Clinical medicine
+   b. Curative medicine
+   c. Community medicine
+   d. Hospital-based care
+
+4. During a village survey, medical students collect data on sanitation, drinking water, housing
+   conditions, and socioeconomic status to assess disease patterns in the community. This activity
+   highlights which core focus of community medicine?
+   a. Individual patient diagnosis
+   b. Hospital management of diseases
+   c. Population-based approach to health
+   d. Emergency medical services
+
+5. A medical college introduces field visits, family adoption programs, and community surveys as
+   part of undergraduate teaching. The primary purpose of including these activities is to:
+   a. Improve clinical diagnostic skills
+   b. Train students in laboratory techniques
+   c. Sensitize students to community health needs
+   d. Reduce hospital workload
+
+6. A public health program focuses on improving nutrition, sanitation, education, and employment
+   opportunities to achieve better health outcomes. This program reflects which broader role of
+   community medicine?
+   a. Disease treatment only
+   b. National health development
+   c. Emergency medical response
+   d. Hospital administration
+
+7. Which of the following best reflects the scope of community medicine?
+   a. Diagnosis and treatment
+   b. Rehabilitation only
+   c. Prevention, promotion, and protection of health
+   d. Emergency care
+
+#### B. Multiple Correct Answer (MCMA)
+
+8. Functions of community medicine include:
+   a. Disease prevention
+   b. Health promotion
+   c. Social rehabilitation
+   d. Individual surgical care
+
+9. Community medicine integrates knowledge from:
+   a. Epidemiology
+   b. Biostatistics
+   c. Sociology
+   d. Pathology only
+
+#### C. Assertion–Reason (A-R)
+
+10. **Assertion:** Community medicine is considered a bridge between medicine and social sciences.
+    **Reason:** It addresses social determinants affecting health and disease.
+    a. Both A and R are true and R explains A
+    b. Both A and R are true, but R does not explain A
+    c. A is true, R is false
+    d. A is false, R is true
+
+### Answers
+
+1. c 2. b 3. c 4. c 5. c 6. b 7. c 8. a–c 9. a–c 10. b
+
+------------------------------------------------------------------------
+
+## Chapter 2: Indigenous System of Medicine in India
+
+### Short Essay/Short Answer Questions (5–8 marks)
+
+1. List the basic principles of Ayurveda (only headings/broad points).
+2. Mention two principles, each of Unani and Homoeopathy.
+3. Write short points on the role of Yoga in health promotion.
+4. AYUSH in India: Public health relevance and integration (brief).
+5. Limitations/precautions in AYUSH use (standardization, safety, interactions, evidence).
+
+### Multiple Choice Questions (1 mark)
+
+#### A. Single Best Answer (SBA)
+
+1. Which system is traditionally associated with the concept of "Tridosha" (Vata, Pitta, Kapha)?
+   a. Unani
+   b. Siddha
+   c. Ayurveda
+   d. Homoeopathy
+
+2. "Like cures like" is the fundamental principle of:
+   a. Unani
+   b. Yoga
+   c. Siddha
+   d. Homoeopathy
+
+3. A patient with chronic low back pain attends a wellness center where yoga-based exercises,
+   lifestyle modification, and stress management are advised along with standard medical care.
+   This approach represents:
+   a. Replacement of modern medicine
+   b. Exclusive alternative therapy
+   c. Complementary integration of AYUSH
+   d. Emergency medical management
+
+4. A primary health center offers Ayurveda-based dietary counseling and yoga sessions for patients
+   with obesity and diabetes, while continuing standard allopathic treatment. This model best
+   demonstrates:
+   a. Parallel medical systems without interaction
+   b. Evidence-based integration of AYUSH in public health
+   c. Substitution of modern medicine
+   d. Curative care only
+
+5. In public health integration, AYUSH is most appropriately used for:
+   a. Replacement of allopathic emergency care
+   b. Complementary and supportive care where evidence and safety permit
+   c. Exclusive management of outbreaks
+   d. Surgical management of trauma
+
+6. A patient develops liver toxicity after consuming an herbal preparation without standard
+   labeling or dosage information. This situation highlights which limitation of AYUSH systems?
+   a. Lack of trained practitioners
+   b. Absence of preventive potential
+   c. Issues of standardization and safety
+   d. Ineffectiveness in chronic diseases
+
+7. A district health authority plans to use AYUSH practitioners mainly for health promotion,
+   lifestyle counseling, and preventive care rather than acute emergencies. This decision is based
+   on the understanding that AYUSH systems are best suited for:
+   a. Trauma and surgical care
+   b. Intensive care management
+   c. Wellness and preventive health services
+   d. Outbreak control
+
+#### B. Multiple Correct Answer (MCMA)
+
+8. Potential public health contributions of AYUSH (when integrated appropriately) include:
+   a. Health promotion and lifestyle modification
+   b. Preventive counseling and wellness services
+   c. Supportive care in chronic conditions (selected)
+   d. Substitution for intensive care and emergency resuscitation
+
+#### C. Assertion–Reason (A-R)
+
+9. **Assertion:** AYUSH integration in the health system can improve access to wellness and
+   preventive services.
+   **Reason:** AYUSH systems have structured approaches for lifestyle-based health promotion.
+   a. Both A and R are true and R explains A
+   b. Both A and R are true, but R does not explain A
+   c. A is true, R is false
+   d. A is false, R is true
+
+10. **Assertion:** AYUSH drugs are always safe because they are natural.
+    **Reason:** Natural origin guarantees absence of adverse effects and interactions.
+    a. Both A and R are true and R explains A
+    b. Both A and R are true, but R does not explain A
+    c. A is true, R is false
+    d. A is false, R is true
+
+### Answers
+
+1. c 2. d 3. c 4. b 5. b 6. c 7. c 8. a–c 9. a 10. c
+
+::: {.callout-note}
+The source scan's printed answer key for this chapter was mostly cut off in the photographed
+page. These answers are filled in from standard subject knowledge rather than read directly off
+the page — cross-check against your own copy of the source if you have it.
+:::
+
+------------------------------------------------------------------------
+
+*More chapters will be added to this question bank as they're covered.*

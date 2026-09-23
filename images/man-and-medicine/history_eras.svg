@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="title desc">
+  <title id="title">Five eras of medical and public health history</title>
+  <desc id="desc">A horizontal timeline of five eras: Ancient era 3000 BCE to 500 AD, Middle Ages 500 to 1500 AD, Renaissance era 1500 to 1800 AD, Era of modern scientific discoveries 1800 to 1950, and Era of modern medicine and public health 1950 onward.</desc>
+  <defs>
+    <marker id="arrowhead" markerWidth="10" markerHeight="8" refX="8" refY="4" orient="auto">
+      <polygon points="0 0, 10 4, 0 8" fill="#888"/>
+    </marker>
+  </defs>
+  <line x1="15" y1="115" x2="985" y2="115" stroke="#888" stroke-width="3" marker-end="url(#arrowhead)"/>
+
+  <!-- Era 1 -->
+  <rect x="10" y="55" width="170" height="60" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="95" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">Ancient Era</text>
+  <text x="95" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">3000 BCE&#8211;500 AD</text>
+
+  <!-- Era 2 -->
+  <rect x="212" y="55" width="170" height="60" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="297" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">Middle Ages</text>
+  <text x="297" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">500&#8211;1500 AD</text>
+
+  <!-- Era 3 -->
+  <rect x="414" y="55" width="170" height="60" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="499" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">Renaissance</text>
+  <text x="499" y="100" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">1500&#8211;1800 AD</text>
+
+  <!-- Era 4 -->
+  <rect x="616" y="55" width="185" height="60" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="708" y="75" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Modern Scientific</text>
+  <text x="708" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Discoveries</text>
+  <text x="708" y="109" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">1800&#8211;1950</text>
+
+  <!-- Era 5 -->
+  <rect x="820" y="55" width="170" height="60" rx="8" fill="#D6EAF8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="905" y="75" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Contemporary</text>
+  <text x="905" y="92" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Era</text>
+  <text x="905" y="109" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">1950&#8211;present</text>
+
+  <!-- bottom labels -->
+  <text x="95" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Indus Valley, Vedic,</text>
+  <text x="95" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Greek, Egyptian, Roman</text>
+
+  <text x="297" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Dark Ages;</text>
+  <text x="297" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">rise of Unani-Tibb</text>
+
+  <text x="499" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Anatomy, microscope,</text>
+  <text x="499" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">vaccination, homeopathy</text>
+
+  <text x="708" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Germ theory, Bhore</text>
+  <text x="708" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Committee, John Snow</text>
+
+  <text x="905" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Alma-Ata, eradication,</text>
+  <text x="905" y="165" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#555">Ayushman Bharat</text>
+</svg>
