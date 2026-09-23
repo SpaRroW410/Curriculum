@@ -96,6 +96,9 @@
   height: auto;
   margin: 0 auto 1em auto;
   display: block;
+  max-height: 85vh;
+  width: auto;
+  object-fit: contain;
 }
 
 .slide-heading {
