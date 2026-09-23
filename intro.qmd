@@ -22,8 +22,8 @@ Index](topic-index.qmd).\
 ---
 
 ## A. Foundations of Health & Epidemiology
-- [Chapter 1: Man and Medicine](foundations/man-and-medicine.qmd)
-- [Chapter 2: Concept of Health and Disease (CM1)](foundations/concept-health-disease.qmd)
+- [Chapter 1: Man and Medicine](foundations/man-and-medicine.qmd) · [Question Bank](foundations/man-and-medicine-question-bank.qmd)
+- [Chapter 2: Concept of Health and Disease (CM1)](foundations/concept-health-disease.qmd) · [Question Bank](foundations/concept-health-disease-question-bank.qmd)
 - [Chapter 3: Principles of Epidemiology (CM7)](foundations/principles-epidemiology.qmd)  
 - [Chapter 4: Epidemiologic Methods (CM7)](foundations/epidemiologic-methods.qmd)  
 - [Chapter 5: Screening for Disease (CM7)](foundations/screening.qmd)  

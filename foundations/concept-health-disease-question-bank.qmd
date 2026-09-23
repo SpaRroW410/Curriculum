@@ -1,0 +1,221 @@
+---
+title: "Concept of Health and Disease — Question Bank"
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+# Concept of Health and Disease: Question Bank
+
+A written companion to [Chapter 2: Concept of Health and
+Disease](concept-health-disease.qmd) for practice. Long essay, short
+essay, short-answer, reasoning-type, and case-scenario questions are
+for written practice — a model-answer key with key points is given at
+the end (not full essays). MCQs are followed by a lettered answer key;
+try them before checking.
+
+The interactive, auto-checked versions of these MCQs are also
+available as Self-Check slides within the chapter deck itself.
+
+------------------------------------------------------------------------
+
+## Chapter 3: Concept of Health
+
+### Long Essay
+
+1. Define health and discuss the different models/concepts of health — biomedical, ecological, psychosocial, and holistic.
+2. Discuss the concept of positive health and describe the various indicators used to measure the health status of a community.
+
+### Short Essay
+
+3. Describe the dimensions of health.
+4. Discuss the spectrum of health and the iceberg phenomenon of disease.
+5. Describe the determinants of health, including political determinants.
+6. Discuss PQLI and HDI as composite indices of development and health.
+
+### Short Answers / Notes
+
+7. Write short notes on: (a) Impairment, disability, and handicap (b) Well-being vs wellness (c) Relativeness of health.
+
+### Reasoning Type
+
+8. Why is health considered a multidimensional and dynamic concept rather than a static, purely biomedical one?
+9. Why are objective indicators of health alone considered insufficient to capture the true health status of a population?
+
+### Case Scenario
+
+10. A 45-year-old man from a low-income household reports feeling constantly fatigued, though clinical investigations show no diagnosable disease. He has been unable to work regularly and feels socially isolated.
+    a. Is this individual "healthy" by the biomedical model? Justify.
+    b. How would the WHO's definition of health assess this individual?
+    c. Which dimension(s) of health are primarily affected?
+    d. Where would you place this individual on the health–disease spectrum?
+    e. Suggest measures, drawing on the determinants of health, that could improve this individual's health status.
+
+### Multiple Choice Questions
+
+**A. Single Best Answer (SBA)**
+
+1. A person with hearing loss is unable to communicate effectively but can still perform most daily activities. This condition is best termed as:
+
+   a. Disease
+   b. Impairment
+   c. Disability
+   d. Handicap
+
+2. The concept of positive health mainly refers to:
+
+   a. Absence of symptoms
+   b. Ability to perform daily activities
+   c. Optimal functioning of the individual
+   d. Lack of disability
+
+3. A patient has early-stage hypertension detectable only through blood pressure measurement, with no symptoms and normal daily functioning. This best illustrates:
+
+   a. Clinical disease
+   b. Subclinical disease
+   c. Disability
+   d. Handicap
+
+4. In a community screening programme, for every one clinically diagnosed case of diabetes identified, several undiagnosed and pre-diabetic cases are found in the population. This phenomenon is best described as:
+
+   a. Natural history of disease
+   b. Levels of prevention
+   c. The iceberg phenomenon
+   d. Sufficient-component cause model
+
+5. A government scheme that improves housing quality, sanitation access, and school enrolment in a slum community is primarily working through:
+
+   a. Curative health services
+   b. Biomedical intervention
+   c. Modification of social determinants of health
+   d. Genetic screening
+
+6. A district has an Infant Mortality Rate far higher than its Crude Death Rate would suggest. This pattern most strongly points to:
+
+   a. An ageing population
+   b. High literacy rates
+   c. Poor maternal and child health services
+   d. Good sanitation coverage
+
+7. A composite index that combines life expectancy, education (literacy/schooling), and per-capita income to measure a country's overall development is the:
+
+   a. PQLI
+   b. DALY
+   c. Human Development Index (HDI)
+   d. Crude Death Rate
+
+8. The WHO's definition of health primarily emphasizes:
+
+   a. Absence of disease alone
+   b. Access to health-care services
+   c. A positive, holistic state of complete well-being
+   d. Genetic normalcy
+
+9. The statement "Health is a resource for everyday life, not the objective of living" comes from the:
+
+   a. WHO Constitution (1948)
+   b. Alma-Ata Declaration (1978)
+   c. Ottawa Charter for Health Promotion (1986)
+   d. Bangkok Charter (2005)
+
+10. Which single composite indicator is most widely used to reflect a population's overall quality of life?
+
+    a. Crude Birth Rate
+    b. Literacy Rate alone
+    c. Human Development Index
+    d. Bed-occupancy rate
+
+11. The ability to form and maintain harmonious relationships with others in society reflects which dimension of health?
+
+    a. Physical dimension
+    b. Mental dimension
+    c. Social dimension
+    d. Spiritual dimension
+
+12. Which of the following is **NOT** typically used as a health-care delivery/utilization indicator?
+
+    a. Doctor–population ratio
+    b. Bed–population ratio
+    c. Hospital utilization rate
+    d. Per-capita income
+
+13. The concept of health that views disease as resulting from an imbalance between man, agent, and environment is termed the:
+
+    a. Biomedical model
+    b. Ecological model
+    c. Psychosocial model
+    d. Holistic model
+
+**B. Multiple Correct Answer (MCMA) — select all that apply**
+
+14. Which of the following are recognized dimensions of health?
+
+    a. Physical
+    b. Mental
+    c. Political
+    d. Social
+
+15. Which of the following are recognized determinants of health?
+
+    a. Heredity / biology
+    b. Environment
+    c. Lifestyle / behaviour
+    d. Astrological sign
+
+16. Indicators of health are useful for:
+
+    a. Assessing the health status of a community
+    b. Diagnosing an individual patient's illness
+    c. Comparing health status across regions/countries
+    d. Monitoring and evaluating health programmes
+
+17. Which of the following are commonly considered components of "quality of life"?
+
+    a. Gross national product alone
+    b. Physical and psychological well-being
+    c. Level of independence and social relationships
+    d. Environment and personal beliefs
+
+**C. Assertion–Reason (A-R)**
+
+18. **Assertion (A):** The iceberg phenomenon shows that the visible/diagnosed cases of a disease in a community are only a small fraction of its true burden. **Reason (R):** Many cases of disease exist in subclinical, undiagnosed, or presymptomatic stages that never come to medical attention.
+
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is not the correct explanation of A
+    c. A is true, R is false
+    d. A is false, R is true
+
+19. **Assertion (A):** Infant Mortality Rate (IMR) is considered one of the most sensitive indicators of a community's health status. **Reason (R):** IMR reflects the combined effects of maternal health, nutrition, sanitation, and access to health services on the most vulnerable age group.
+
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is not the correct explanation of A
+    c. A is true, R is false
+    d. A is false, R is true
+
+20. **Assertion (A):** The Physical Quality of Life Index (PQLI) does not include per-capita income as one of its components. **Reason (R):** PQLI is composed of infant mortality rate, life expectancy at age one, and literacy rate.
+
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is not the correct explanation of A
+    c. A is true, R is false
+    d. A is false, R is true
+
+### Answers
+
+**Long Essay / Short Essay / Short Answers / Reasoning — key points:**
+
+1. Health = a state of complete physical, mental, and social well-being, not merely the absence of disease (WHO, 1948). Models: biomedical (health = absence of disease, body as machine — narrow, ignores social/psychological factors), ecological (health = balance between man, agent, and environment), psychosocial (health shaped by psychological and social factors, not biology alone), holistic (integrates all of the above — physical, mental, social, and sometimes spiritual — as one interdependent whole; the model favoured today).
+2. Positive health = optimal functioning with reserve capacity to cope with stress, not just symptom-freedom. Indicators: mortality indicators (IMR, MMR, life expectancy), morbidity indicators (incidence/prevalence), disability rates, nutritional indicators, health-care delivery indicators, indicators of social/mental health, and composite indices (PQLI, HDI, DALY, QALY).
+3. Dimensions: physical, mental, social, and (per some frameworks) spiritual, emotional, vocational, and philosophical.
+4. Health–disease spectrum: a continuum from positive health through subclinical disease to overt disease and death, rather than a strict healthy/sick binary. Iceberg phenomenon: visible, diagnosed cases are only a small fraction of the true disease burden — most cases (subclinical, undiagnosed) lie hidden "below the waterline."
+5. Determinants: biological/heredity, environment (physical, social, economic), lifestyle/behaviour, and health services — plus political determinants (policy choices, resource allocation, governance) increasingly recognized as shaping all the others.
+6. PQLI (Physical Quality of Life Index) = composite of infant mortality rate, life expectancy at age one, and literacy rate (excludes income). HDI (Human Development Index) = composite of life expectancy, education, and per-capita income — both used to compare development/health status across populations, though neither alone fully captures well-being.
+7. (a) Impairment = loss/abnormality of structure or function; Disability = resulting restriction in performing an activity; Handicap = social disadvantage that follows. (b) Well-being = the subjective/objective state of doing well overall; Wellness = an active, ongoing pursuit of optimal health through deliberate choices. (c) Relativeness of health = what counts as "healthy" varies by population/context (e.g., height/build norms differ between populations without either being "unhealthy").
+8. Health is multidimensional/dynamic because it results from the continuous interplay of biological, psychological, social, and environmental factors that change over time — a purely biomedical, static view (disease present/absent) cannot capture gradations of well-being, risk, or the influence of non-biological determinants.
+9. Objective indicators (mortality/morbidity rates) miss subjective well-being, quality of life, and functional/social dimensions of health; a population can show good objective indicators while individuals still report poor perceived health, or vice versa — hence the need for both objective and subjective/composite measures.
+10. (a) No diagnosable disease means he would be classified "healthy" under the narrow biomedical model, which only looks for pathology. (b) The WHO definition would NOT classify him as healthy, since his social (isolation) and functional (unable to work) well-being are clearly impaired. (c) Primarily the social and mental/psychological dimensions, with physical (fatigue) also implicated. (d) He would sit toward the subclinical/at-risk end of the health–disease spectrum, short of overt disease. (e) Address social determinants (income support, employment/livelihood interventions), improve access to health services (screening for occult illness, mental-health support), and strengthen social support networks.
+
+**MCQs:** 1-b, 2-c, 3-b, 4-c, 5-c, 6-c, 7-c, 8-c\
+9-c, 10-c, 11-c, 12-d, 13-b, 14-abd, 15-abc, 16-acd\
+17-bcd, 18-a, 19-a, 20-a
+
