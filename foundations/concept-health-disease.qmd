@@ -454,6 +454,44 @@ Responsibility for realizing that right is shared across four levels:
 
 ---
 
+## Practice Questions: Descriptive {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+**Long Essay**
+
+1. Define health and discuss the different models/concepts of health — biomedical, ecological, psychosocial, and holistic.
+2. Discuss the concept of positive health and describe the various indicators used to measure the health status of a community.
+
+**Short Essay**
+
+3. Describe the dimensions of health.
+4. Discuss the spectrum of health and the iceberg phenomenon of disease.
+5. Describe the determinants of health, including political determinants.
+6. Discuss PQLI and HDI as composite indices of development and health.
+
+**Short Answers / Notes**
+
+7. Write short notes on: (a) Impairment, disability, and handicap (b) Well-being vs wellness (c) Relativeness of health.
+
+## Practice Questions: Descriptive (contd.) {background-color="#FFF6DA"}
+
+**Reasoning Type**
+
+8. Why is health considered a multidimensional and dynamic concept rather than a static, purely biomedical one?
+9. Why are objective indicators of health alone considered insufficient to capture the true health status of a population?
+
+**Case Scenario**
+
+10. A 45-year-old man from a low-income household reports feeling constantly fatigued, though clinical investigations show no diagnosable disease. He has been unable to work regularly and feels socially isolated.
+    a. Is this individual "healthy" by the biomedical model? Justify.
+    b. How would the WHO's definition of health assess this individual?
+    c. Which dimension(s) of health are primarily affected?
+    d. Where would you place this individual on the health–disease spectrum?
+    e. Suggest measures, drawing on the determinants of health, that could improve this individual's health status.
+
+------------------------------------------------------------------------
+
 ## Self-Check: Question 1 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -611,6 +649,318 @@ The concept of positive health mainly refers to:
 
 ---
 
+## Self-Check: Question 10 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 10
+
+A patient has early-stage hypertension detectable only through blood pressure measurement, with no symptoms and normal daily functioning. This best illustrates:
+
+- Clinical disease
+- [Subclinical disease]{.correct data-explanation="A subclinical disease is present and measurable (e.g., raised BP) but produces no symptoms and no disruption of normal functioning."}
+- Disability
+- Handicap
+:::
+
+---
+
+## Self-Check: Question 11 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 11
+
+In a community screening programme, for every one clinically diagnosed case of diabetes identified, several undiagnosed and pre-diabetic cases are found in the population. This phenomenon is best described as:
+
+- Natural history of disease
+- Levels of prevention
+- [The iceberg phenomenon]{.correct data-explanation="The iceberg phenomenon describes how visible, diagnosed cases represent only the 'tip,' while a much larger burden of subclinical/undiagnosed disease lies hidden beneath."}
+- Sufficient-component cause model
+:::
+
+---
+
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 12
+
+A government scheme that improves housing quality, sanitation access, and school enrolment in a slum community is primarily working through:
+
+- Curative health services
+- Biomedical intervention
+- [Modification of social determinants of health]{.correct data-explanation="Housing, sanitation, and education are classic social determinants of health; improving them is action on determinants, not clinical/curative care."}
+- Genetic screening
+:::
+
+---
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 13
+
+A district has an Infant Mortality Rate far higher than its Crude Death Rate would suggest. This pattern most strongly points to:
+
+- An ageing population
+- High literacy rates
+- [Poor maternal and child health services]{.correct data-explanation="A disproportionately high IMR relative to overall mortality points to gaps in maternal and child health care — antenatal care, safe delivery, and infant care."}
+- Good sanitation coverage
+:::
+
+---
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 14
+
+A composite index that combines life expectancy, education (literacy/schooling), and per-capita income to measure a country's overall development is the:
+
+- PQLI
+- DALY
+- [Human Development Index (HDI)]{.correct}
+- Crude Death Rate
+:::
+
+---
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 15
+
+The WHO's definition of health primarily emphasizes:
+
+- Absence of disease alone
+- Access to health-care services
+- [A positive, holistic state of complete well-being]{.correct}
+- Genetic normalcy
+:::
+
+---
+
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 16
+
+The statement "Health is a resource for everyday life, not the objective of living" comes from the:
+
+- WHO Constitution (1948)
+- Alma-Ata Declaration (1978)
+- [Ottawa Charter for Health Promotion (1986)]{.correct}
+- Bangkok Charter (2005)
+:::
+
+---
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 17
+
+Which single composite indicator is most widely used to reflect a population's overall quality of life?
+
+- Crude Birth Rate
+- Literacy Rate alone
+- [Human Development Index]{.correct}
+- Bed-occupancy rate
+:::
+
+---
+
+## Self-Check: Question 18 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 18
+
+The ability to form and maintain harmonious relationships with others in society reflects which dimension of health?
+
+- Physical dimension
+- Mental dimension
+- [Social dimension]{.correct}
+- Spiritual dimension
+:::
+
+---
+
+## Self-Check: Question 19 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 19
+
+Which of the following is **NOT** typically used as a health-care delivery/utilization indicator?
+
+- Doctor–population ratio
+- Bed–population ratio
+- Hospital utilization rate
+- [Per-capita income]{.correct data-explanation="Per-capita income is an economic indicator, not a health-care delivery/utilization indicator."}
+:::
+
+---
+
+## Self-Check: Question 20 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 20
+
+The concept of health that views disease as resulting from an imbalance between man, agent, and environment is termed the:
+
+- Biomedical model
+- [Ecological model]{.correct}
+- Psychosocial model
+- Holistic model
+:::
+
+---
+
+## Self-Check: Question 21 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 21
+
+Which of the following are recognized dimensions of health?
+
+- [Physical]{.correct}
+- [Mental]{.correct}
+- Political
+- [Social]{.correct}
+:::
+
+---
+
+## Self-Check: Question 22 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 22
+
+Which of the following are recognized determinants of health?
+
+- [Heredity / biology]{.correct}
+- [Environment]{.correct}
+- [Lifestyle / behaviour]{.correct}
+- Astrological sign
+:::
+
+---
+
+## Self-Check: Question 23 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 23
+
+Indicators of health are useful for:
+
+- [Assessing the health status of a community]{.correct}
+- Diagnosing an individual patient's illness
+- [Comparing health status across regions/countries]{.correct}
+- [Monitoring and evaluating health programmes]{.correct}
+:::
+
+---
+
+## Self-Check: Question 24 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 24
+
+Which of the following are commonly considered components of "quality of life"?
+
+- Gross national product alone
+- [Physical and psychological well-being]{.correct}
+- [Level of independence and social relationships]{.correct}
+- [Environment and personal beliefs]{.correct}
+:::
+
+---
+
+## Self-Check: Question 25 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 25
+
+**Assertion (A):** The iceberg phenomenon shows that the visible/diagnosed cases of a disease in a community are only a small fraction of its true burden.
+
+**Reason (R):** Many cases of disease exist in subclinical, undiagnosed, or presymptomatic stages that never come to medical attention.
+
+- [Both A and R are true, and R is the correct explanation of A]{.correct}
+- Both A and R are true, but R is not the correct explanation of A
+- A is true, R is false
+- A is false, R is true
+:::
+
+---
+
+## Self-Check: Question 26 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 26
+
+**Assertion (A):** Infant Mortality Rate (IMR) is considered one of the most sensitive indicators of a community's health status.
+
+**Reason (R):** IMR reflects the combined effects of maternal health, nutrition, sanitation, and access to health services on the most vulnerable age group.
+
+- [Both A and R are true, and R is the correct explanation of A]{.correct}
+- Both A and R are true, but R is not the correct explanation of A
+- A is true, R is false
+- A is false, R is true
+:::
+
+---
+
+## Self-Check: Question 27 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 27
+
+**Assertion (A):** The Physical Quality of Life Index (PQLI) does not include per-capita income as one of its components.
+
+**Reason (R):** PQLI is composed of infant mortality rate, life expectancy at age one, and literacy rate.
+
+- [Both A and R are true, and R is the correct explanation of A]{.correct}
+- Both A and R are true, but R is not the correct explanation of A
+- A is true, R is false
+- A is false, R is true
+:::
+
+---
+
 ## References {background-color="#FFF6DA"}
 
 1. Koch, R. (1884). *Die Aetiologie der Tuberkulose*. Postulates as later
@@ -632,10 +982,6 @@ The concept of positive health mainly refers to:
 8. United Nations Development Programme. *Human Development Report* —
    HDI methodology.
 
-**Want to practice?** See the companion [Concept of Health and Disease
-Question Bank](concept-health-disease-question-bank.qmd) for long
-essay, short essay, reasoning-type, case-scenario, and MCQ questions
-with an answer key.
 
 ---
 

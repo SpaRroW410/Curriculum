@@ -606,6 +606,26 @@ Health outcomes follow a **gradient** across socioeconomic position, not just a 
 
 ------------------------------------------------------------------------
 
+## Practice Questions: Descriptive {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+**Chapter 1 — Introduction to Community Medicine**
+
+1. Define Community Medicine. Discuss its scope and how it differs from clinical/hospital medicine.
+2. Differentiate between Hygiene, Preventive Medicine, Social Medicine, and Community Medicine.
+3. Describe the steps involved in community diagnosis, along with the parameters used to assess a health programme.
+4. Discuss the WHO's definition of public health and its core functions.
+5. Write short notes on: (a) Social anatomy, physiology, pathology, and therapy of a community (b) Community Medicine vs Family Medicine.
+
+**Chapter 2 — Indigenous Systems of Medicine (AYUSH)**
+
+6. Describe the AYUSH systems of medicine in India and discuss their role and limitations in public health.
+7. Write short notes on: (a) Tridosha theory of Ayurveda (b) The fundamental principle of Homeopathy (c) Unani and Siddha systems of medicine.
+8. Discuss how AYUSH systems can be integrated into primary health care, with examples.
+
+------------------------------------------------------------------------
+
 ## Self-Check: Question 1 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -861,6 +881,947 @@ In India, "Doctors' Day" is celebrated to commemorate the memory of:
 
 ------------------------------------------------------------------------
 
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 16
+
+The term "Community Medicine" places its central emphasis on:
+
+- Diagnosis and treatment of individual patients
+- [The community/population as the unit of care, not the individual]{.correct data-explanation="Community Medicine shifts the unit of concern from the individual patient to the community/population as a whole."}
+- Advanced laboratory investigations
+- Hospital bed-occupancy management
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 17
+
+A district health officer, on noticing a cluster of diarrhoeal cases in a village, organizes house-to-house surveys, tests drinking-water sources, and conducts health education sessions. This set of activities best illustrates:
+
+- Clinical case management
+- [Applied community medicine practice in the field]{.correct data-explanation="Investigating a cluster at the population level with surveys, environmental testing, and health education is community medicine practice in action."}
+- Hospital infection control
+- Individual patient counselling
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 18 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 18
+
+Before planning any intervention, medical students conduct a village health survey to identify the prevailing health problems and locally available resources. This activity is an example of:
+
+- A clinical audit
+- [Community diagnosis]{.correct data-explanation="Community diagnosis is precisely this: an organized survey of a community to identify its health problems and available resources before planning action."}
+- A case-control study
+- A hospital needs-assessment
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 19 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 19
+
+The primary purpose of field visits during the Community Medicine posting is to:
+
+- Fulfil attendance requirements only
+- [Study health problems and services in their real community setting]{.correct data-explanation="Field visits let students see community health problems, determinants, and services first-hand, beyond what is taught in the classroom."}
+- Practice surgical procedures
+- Conduct hospital ward rounds
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 20 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 20
+
+Community Medicine contributes most directly to national health development by:
+
+- Running private specialty clinics
+- [Planning, implementing, and evaluating public health programmes]{.correct data-explanation="Community Medicine specialists are centrally involved in designing, delivering, and evaluating the public health programmes that drive national health development."}
+- Publishing case reports only
+- Training only surgical residents
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 21 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 21
+
+Which of the following are recognized functions of Community Medicine?
+
+- [Prevention and control of disease in populations]{.correct}
+- Marketing pharmaceutical products
+- [Promotion of health through education and intersectoral action]{.correct}
+- Maximizing hospital revenue
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 22 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 22
+
+Community Medicine integrates knowledge and methods from which of the following disciplines?
+
+- [Epidemiology and biostatistics]{.correct}
+- [Social and behavioural sciences]{.correct}
+- Corporate financial accounting
+- Automotive engineering
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 23 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 23
+
+**Assertion (A):** Community Medicine serves as a bridge between clinical medicine and the social sciences.
+
+**Reason (R):** The WHO was founded in 1948 with its headquarters in Geneva.
+
+- A is true, R is false
+- A is false, R is true
+- [Both A and R are true, but R is NOT the correct explanation of A]{.correct data-explanation="Both statements are independently true, but the founding date and location of WHO has nothing to do with explaining why Community Medicine bridges clinical medicine and social sciences."}
+- Both A and R are false
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 24 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 24
+
+A corporate wellness programme uses regular yoga and meditation sessions to reduce employee stress and improve mental well-being. This approach is best classified under which AYUSH system?
+
+- Unani
+- Siddha
+- [Yoga and Naturopathy]{.correct data-explanation="Structured yoga/meditation-based wellness and stress-reduction programmes fall under the Yoga and Naturopathy component of AYUSH."}
+- Homeopathy
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 25 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 25
+
+A rural primary health centre incorporates Ayurvedic physicians to manage chronic, non-emergency conditions alongside allopathic care. This reflects which model of health-care delivery?
+
+- Exclusive allopathic model
+- [An integrative AYUSH–allopathy model at the primary care level]{.correct data-explanation="Co-locating AYUSH practitioners with allopathic care at PHCs is India's integrative model, formally supported under the National AYUSH Mission."}
+- Tertiary referral model
+- Purely preventive model with no curative component
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 26 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 26
+
+AYUSH systems of medicine are, in general, most appropriately used for:
+
+- Emergency trauma surgery
+- Acute, life-threatening infections requiring intensive care
+- [Chronic conditions, wellness promotion, and preventive care]{.correct data-explanation="AYUSH systems are best suited to chronic disease management, promotive/preventive care, and wellness — not emergency or critical care."}
+- Organ transplantation
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 27 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 27
+
+Which of the following best describes the primary public-health role of AYUSH systems today?
+
+- Replacing allopathic emergency medicine entirely
+- [Complementing allopathy through wellness, prevention, and chronic-care support]{.correct data-explanation="AYUSH's recognized public-health role is complementary — supporting wellness, prevention, and chronic-disease care alongside, not instead of, allopathic medicine."}
+- Providing the sole basis for national immunization programmes
+- Serving only as a historical/cultural reference with no active clinical role
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 28 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 28
+
+Which of the following are potential public-health contributions of AYUSH systems?
+
+- [Low-cost, accessible chronic-disease and wellness care]{.correct}
+- [Promotion of healthy lifestyle practices — yoga, diet, daily regimen]{.correct}
+- Definitive management of major trauma
+- Replacement of vaccination programmes
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 29 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 29
+
+**Assertion (A):** Integrating AYUSH practitioners into the primary health-care workforce can improve access to care in underserved areas.
+
+**Reason (R):** India has a large trained AYUSH workforce that can be deployed to supplement allopathic human resources for health.
+
+- [Both A and R are true, and R is the correct explanation of A]{.correct data-explanation="India's large AYUSH workforce genuinely can be — and has been — deployed to extend primary care reach, directly explaining the assertion."}
+- Both A and R are true, but R is not the correct explanation of A
+- A is true, R is false
+- A is false, R is true
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 30 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 30
+
+**Assertion (A):** All AYUSH medicines are inherently safe because they are derived from natural sources.
+
+**Reason (R):** Herbal and natural products can still cause toxicity, especially with poor standardization, incorrect dosage, or drug interactions.
+
+- Both A and R are true, and R is the correct explanation of A
+- Both A and R are true, but R is not the correct explanation of A
+- A is true, R is false
+- [A is false, R is true]{.correct data-explanation="It is false that natural origin guarantees safety — herbal/natural products can cause toxicity, especially without standardization; R correctly states this concern."}
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 31 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 31
+
+The period from approximately 3000 BCE to 500 AD in the history of medicine is generally referred to as the:
+
+- Middle Ages
+- Renaissance
+- [Ancient Era]{.correct}
+- Contemporary Era
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 32 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 32
+
+According to Ayurveda, the body's functioning is governed by how many fundamental "doshas" (humors)?
+
+- Two
+- [Three — Vata, Pitta, and Kapha (Tridosha)]{.correct}
+- Four
+- Five
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 33 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 33
+
+Which is the correct chronological sequence of the ancient Indian medical sages?
+
+- Charaka, Sushruta, Atreya
+- Sushruta, Charaka, Atreya
+- Charaka, Atreya, Sushruta
+- [Atreya, Sushruta, Charaka]{.correct}
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 34 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 34
+
+The "Father of Medicine," Hippocrates, belonged to which ancient civilization?
+
+- Egyptian
+- Roman
+- [Greek]{.correct}
+- Mesopotamian
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 35 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 35
+
+The classical text *On Airs, Waters, and Places* — one of the earliest works linking environment to disease — was written by:
+
+- [Hippocrates]{.correct}
+- Galen
+- Charaka
+- Avicenna
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 36 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 36
+
+During the Dark Ages in Europe, medical knowledge was chiefly preserved and advanced by which system of medicine?
+
+- Greek
+- Roman
+- Egyptian
+- [Arabic (Unani-Tibb)]{.correct}
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 37 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 37
+
+The *Canon of Medicine* (Al-Qanun fi al-Tibb), a foundational text of which system of medicine, was authored by Avicenna (Ibn Sina)?
+
+- [Unani-Tibb]{.correct}
+- Ayurveda
+- Siddha
+- Homeopathy
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 38 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 38
+
+Edwin Chadwick, whose 1842 report on sanitary conditions catalyzed the modern public-health movement, worked in which country?
+
+- France
+- USA
+- [United Kingdom]{.correct}
+- Germany
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 39 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 39
+
+Besides his epidemiological work on cholera, John Snow was, by profession, a pioneering:
+
+- Surgeon
+- Microbiologist
+- Sanitary engineer
+- [Anaesthesiologist]{.correct data-explanation="John Snow was also a pioneering anaesthesiologist, who administered chloroform to Queen Victoria during childbirth."}
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 40 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 40
+
+In British India, the Registration of Births and Deaths Act was enacted in the year:
+
+- 1858
+- [1881]{.correct}
+- 1901
+- 1919
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 41 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 41
+
+The transfer of sanitary/public-health functions to Indian provincial control was recommended under the:
+
+- Bhore Committee
+- Government of India Act, 1935
+- [Montague–Chelmsford Reforms (1919)]{.correct}
+- Mudaliar Committee
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 42 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 42
+
+Which committee is regarded as having laid, as early as 1946, the blueprint that would later be echoed internationally by the Alma-Ata Declaration's emphasis on comprehensive, accessible primary care?
+
+- [The Bhore Committee]{.correct}
+- The Mudaliar Committee
+- The Kartar Singh Committee
+- The Shrivastava Committee
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 43 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 43
+
+Dr Sushila Nayyar is remembered in Indian public health history as:
+
+- India's first woman Union Health Minister
+- A physician closely associated with Mahatma Gandhi
+- A key figure in India's TB-control efforts
+- [All of the above]{.correct}
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 44 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 44
+
+The world was officially declared free of smallpox by the WHO in the year:
+
+- 1975
+- 1977
+- [1980]{.correct}
+- 1985
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 45 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 45
+
+India's National Family Planning Programme — among the earliest government-run programmes of its kind in the world — was launched in:
+
+- 1947
+- 1951
+- [1952]{.correct}
+- 1961
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 46 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 46
+
+India's first National Health Policy was formulated in the year:
+
+- 1978
+- [1983]{.correct}
+- 1990
+- 2000
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 47 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 47
+
+India recorded its last case of wild poliovirus in January of which year?
+
+- [2011]{.correct}
+- 2012
+- 2014
+- 2009
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 48 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 48
+
+NITI Aayog, established in 2015, replaced which earlier body?
+
+- National Development Council
+- Finance Commission
+- Bhore Committee
+- [The Planning Commission]{.correct}
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 49 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 49
+
+The Ayushman Bharat–PM-JAY scheme, launched in 2018, aims to provide health cover to approximately how many beneficiaries?
+
+- 10 crore
+- 25 crore
+- [50 crore]{.correct}
+- 100 crore
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 50 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 50
+
+The WHO declared COVID-19 a Public Health Emergency of International Concern (PHEIC) on:
+
+- 31 December 2019
+- [30 January 2020]{.correct}
+- 11 March 2020
+- 1 January 2021
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 51 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 51
+
+Which of the following is **NOT** a valid point of difference between curative and preventive medicine?
+
+- Curative medicine treats existing disease; preventive medicine averts future disease
+- [Both curative and preventive medicine are entirely unconcerned with the community]{.correct data-explanation="This statement is false — preventive medicine (and increasingly curative practice) is very much concerned with the community; it is the invalid claim among the options."}
+- Curative medicine is individual-oriented; preventive medicine is population-oriented
+- Curative medicine acts after disease onset; preventive medicine acts before onset
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 52 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 52
+
+The physical, mental, and social aspects within the WHO's definition of health are collectively referred to as its:
+
+- Determinants
+- Indicators
+- [Dimensions (subdomains) of health]{.correct}
+- Indices
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 53 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 53
+
+Many scholars argue that the original WHO definition of health omits a dimension that has since been widely proposed as a fourth component. Which dimension is this?
+
+- Physical
+- Mental
+- Social
+- [Spiritual]{.correct data-explanation="The original WHO definition names only physical, mental, and social well-being; a spiritual dimension has since been widely proposed as a fourth component, though not formally adopted into the Constitution."}
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 54 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 54
+
+The most widely cited standard definition of Public Health was given by:
+
+- [C.E.A. Winslow]{.correct}
+- Hippocrates
+- John Snow
+- Edwin Chadwick
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 55 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 55
+
+The Declaration of Alma-Ata, which established Primary Health Care as the key strategy for Health for All, was adopted in:
+
+- 1946
+- 1974
+- [1978]{.correct}
+- 1990
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 56 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 56
+
+Among the WHO's 21st-century Health-for-All targets, the target for maternal mortality was to reduce it to:
+
+- [Less than 1 per 1,000 live births]{.correct}
+- Less than 10 per 1,000 live births
+- Less than 50 per 1,000 live births
+- Zero, with no numerical target
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 57 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 57
+
+Which of the following is commonly used as an indicator of health equity within a population?
+
+- Gross Domestic Product
+- [Prevalence of childhood stunting]{.correct}
+- Number of hospital beds
+- Literacy rate of health workers
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 58 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 58
+
+The deployment of trained Village Health Guides (VHGs) drawn from within the community is best regarded as an example of which pillar of Primary Health Care?
+
+- [Community participation]{.correct}
+- Appropriate technology
+- Intersectoral coordination
+- Equitable distribution
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 59 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 59
+
+India's health-care delivery system is organized into how many graded tiers/levels?
+
+- Two
+- [Three — Primary, Secondary, and Tertiary]{.correct}
+- Four
+- Five
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 60 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 60
+
+Which of the following is **NOT** a characteristic of Primary Health Care as defined at Alma-Ata?
+
+- Universal accessibility
+- Community participation
+- [Priority given to state-of-the-art tertiary hospitals]{.correct data-explanation="PHC explicitly emphasizes essential, accessible, affordable care — not priority to high-tech tertiary hospitals; this is the characteristic that does NOT belong."}
+- Use of appropriate, affordable technology
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 61 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 61
+
+The Millennium Development Goals (MDGs) set targets to be achieved by the year:
+
+- 2010
+- [2015]{.correct}
+- 2020
+- 2030
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 62 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 62
+
+Of the various strategies proposed to achieve "Health for All," which was identified as the single most essential?
+
+- Vertical disease-control programmes
+- Hospital expansion
+- [Primary Health Care]{.correct}
+- Medical research funding
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 63 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 63
+
+The Millennium Development Goals were laid down by:
+
+- [The United Nations Organization]{.correct}
+- The World Health Organization
+- The World Bank
+- UNICEF
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 64 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 64
+
+The Integrated Child Development Services (ICDS) scheme, which combines health, nutrition, and early-education inputs across ministries, exemplifies which principle?
+
+- [Intersectoral coordination]{.correct}
+- Appropriate technology
+- Equitable distribution
+- Community participation
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 65 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 65
+
+Community participation, intersectoral coordination, appropriate technology, and equitable distribution are together known as the four pillars of:
+
+- The Bhore Committee report
+- [Primary Health Care]{.correct}
+- The National Health Policy
+- The Sustainable Development Goals
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 66 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 66
+
+World Health Day 2018 was observed with the theme/focus of:
+
+- Malaria elimination
+- [Universal Health Coverage]{.correct}
+- Mental health
+- Climate change and health
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 67 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 67
+
+The discipline of "Social Medicine" is chiefly associated with the pioneering work of:
+
+- [Alfred Grotjahn]{.correct}
+- John Snow
+- Edwin Chadwick
+- C.E.A. Winslow
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 68 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 68
+
+A health-care system in which the government funds and provides medical care to all citizens free at the point of use is best described as:
+
+- Community medicine
+- Private insurance-based medicine
+- [Socialized (state) medicine]{.correct}
+- Family medicine
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 69 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 69
+
+"Appropriate treatment of common diseases and injuries" is one of the:
+
+- Determinants of health
+- [Essential elements/components of Primary Health Care]{.correct}
+- SDG targets
+- Functions of the Bhore Committee
+:::
+
+------------------------------------------------------------------------
+
+## Self-Check: Question 70 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 70
+
+The original Alma-Ata Declaration set the target of "Health for All" to be achieved by the year:
+
+- 1990
+- 1995
+- [2000]{.correct}
+- 2010
+:::
+
+------------------------------------------------------------------------
+
 ## Self-Check: Application {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -891,7 +1852,6 @@ Which of the following best describes Community Medicine?
 9.  Indian Association of Preventive and Social Medicine (IAPSM), Core Committee. *Community Medicine: An Introduction*.
 10. Ministry of AYUSH, Government of India. *About the Ministry* — Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy.
 
-**Want to practice?** See the companion [Man and Medicine Question Bank](man-and-medicine-question-bank.qmd) for short-answer, MCQ, and assertion–reason questions with an answer key.
 
 ------------------------------------------------------------------------
 
