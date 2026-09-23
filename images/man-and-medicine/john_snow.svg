@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="400" viewBox="0 0 320 400" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder portrait: John Snow</title>
+  <desc id="desc">Temporary placeholder graphic standing in for a real photograph of John Snow. Replace this file with an actual portrait, keeping the same filename, to update the slide automatically.</desc>
+  <rect x="4" y="4" width="312" height="392" rx="12" fill="#f8f9fa" stroke="#bbb" stroke-width="2" stroke-dasharray="8 6"/>
+  <circle cx="160" cy="150" r="60" fill="#dfe3e8"/>
+  <path d="M80 320 C80 240 240 240 240 320 L240 360 L80 360 Z" fill="#dfe3e8"/>
+  <text x="160" y="230" text-anchor="middle" font-family="Georgia, serif" font-size="18" fill="#888">Photo placeholder</text>
+  <text x="160" y="252" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#aaa">John Snow (1813–1858)</text>
+  <text x="160" y="388" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#aaa">Replace images/man-and-medicine/john_snow.svg</text>
+</svg>
