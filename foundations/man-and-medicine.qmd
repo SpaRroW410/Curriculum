@@ -22,8 +22,6 @@ revealjs-plugins:
 
 ## Welcome {#home}
 
-### Man and Medicine: Towards Health for All
-
 **Learning Objectives:**
 
 - Community medicine, Preventive medicine, social medicine and family medicine
@@ -48,10 +46,11 @@ This chapter opens the Foundations section. It sets up vocabulary and frameworks
 
 🟢 **MUST KNOW**
 
-Community Medicine broadens the scope of medicine from the **individual** to the **community**.  
-It integrates **preventive, promotive, curative, and rehabilitative** services through organized efforts.
+- Community Medicine broadens the scope of medicine from the **individual** to the **community**.
 
-**Core idea:** Health is achieved not only by treating disease but by improving living conditions, sanitation, nutrition, and education.
+- It integrates **preventive, promotive, curative, and rehabilitative** services through organized efforts.
+
+> **Core idea:** Health is achieved not only by treating disease but by improving living conditions, sanitation, nutrition, and education.
 
 ------------------------------------------------------------------------
 
@@ -60,7 +59,7 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 🟡 **SHOULD KNOW**
 
 | Field | Focus | Example |
-|-------|--------|----------|
+|---------------------|-----------------------|----------------------------|
 | **Hygiene** | Personal and environmental cleanliness | Hand‑washing, safe water |
 | **Preventive Medicine** | Preventing disease before it occurs | Immunization, screening |
 | **Social Medicine** | Studying social causes of disease | Poverty, housing, education |
@@ -76,11 +75,10 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 
 > "The science and art of preventing disease, prolonging life, and promoting physical health and efficiency **through organized community efforts** for the sanitation of the environment, the control of community infections, the education of the individual in principles of personal hygiene, the organization of medical and nursing services for early diagnosis and preventive treatment of disease, and the development of social machinery which will ensure every individual a standard of living adequate for the maintenance of health." — **C.E.A. Winslow, 1920**
 
-**Functions:**
-- Health promotion through education  
-- Disease prevention via immunization  
-- Health restoration through medical care  
-- Rehabilitation of the handicapped  
+**Functions:** - Health promotion through education\
+- Disease prevention via immunization\
+- Health restoration through medical care\
+- Rehabilitation of the handicapped
 
 **Aim:** Create conditions for good health — aligning with WHO’s 1948 definition.
 
@@ -91,7 +89,7 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 🟢 **MUST KNOW**
 
 | Aspect | **Community Medicine** | **Family Medicine** | **Preventive Medicine** | **Social Medicine** |
-|--------|------------------------|---------------------|-------------------------|---------------------|
+|---------------|---------------|---------------|---------------|---------------|
 | **Unit of focus** | Community/population | Family & individual across lifespan | Individual risk factors | Society & social determinants |
 | **Scope** | Epidemiology, health programs, PHC, public health | Continuity of care, holistic family-centered practice | Immunization, screening, prophylaxis | Links health with social, economic, cultural context |
 | **Approach** | Population-based interventions | Person-centered, longitudinal care | Disease prevention before onset | Understanding social causes of disease |
@@ -103,15 +101,14 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 
 🟡 **SHOULD KNOW**
 
-- **Preventive Medicine**  
-  - Focuses on *stopping disease before it occurs*.  
-  - Tools: vaccination, screening, prophylactic drugs, health education.  
-  - Example: Polio immunization campaign.  
-
-- **Social Medicine**  
-  - Recognizes that *disease has social roots* (poverty, housing, education, occupation).  
-  - Tools: policy advocacy, social reforms, addressing inequities.  
-  - Example: Improving living conditions to reduce tuberculosis incidence.  
+- **Preventive Medicine**
+  - Focuses on *stopping disease before it occurs*.\
+  - Tools: vaccination, screening, prophylactic drugs, health education.\
+  - Example: Polio immunization campaign.
+- **Social Medicine**
+  - Recognizes that *disease has social roots* (poverty, housing, education, occupation).\
+  - Tools: policy advocacy, social reforms, addressing inequities.\
+  - Example: Improving living conditions to reduce tuberculosis incidence.
 
 **Key difference:** Preventive medicine acts at the *individual level* to stop disease; social medicine acts at the *societal level* to address causes behind causes.
 
@@ -121,15 +118,14 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 
 🟡 **SHOULD KNOW**
 
-- **Community Medicine**  
-  - Concerned with the health of populations.  
-  - Uses epidemiology, biostatistics, and health programs.  
-  - Example: Designing a malaria control program for a district.  
-
-- **Family Medicine**  
-  - Concerned with the health of individuals *within the family unit*.  
-  - Provides continuous, comprehensive, and holistic care.  
-  - Example: Managing hypertension, diabetes, and mental health in one family across generations.  
+- **Community Medicine**
+  - Concerned with the health of populations.\
+  - Uses epidemiology, biostatistics, and health programs.\
+  - Example: Designing a malaria control program for a district.
+- **Family Medicine**
+  - Concerned with the health of individuals *within the family unit*.\
+  - Provides continuous, comprehensive, and holistic care.\
+  - Example: Managing hypertension, diabetes, and mental health in one family across generations.
 
 **Key difference:** Community medicine is *population-focused*, family medicine is *person-focused but within family context*.
 
@@ -139,13 +135,13 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 
 🟡 **SHOULD KNOW**
 
-| Aspect | Clinical Diagnosis | Community Diagnosis |
-|--------|---------------------|----------------------|
-| Made by | Doctor | Epidemiologist |
-| Concerned with | Individual | Defined population |
-| Scope | Only sick | Both sick and healthy |
-| Purpose | Decide treatment | Plan prevention and promotion |
-| Follow-up | Case | Program |
+| Aspect         | Clinical Diagnosis | Community Diagnosis           |
+|----------------|--------------------|-------------------------------|
+| Made by        | Doctor             | Epidemiologist                |
+| Concerned with | Individual         | Defined population            |
+| Scope          | Only sick          | Both sick and healthy         |
+| Purpose        | Decide treatment   | Plan prevention and promotion |
+| Follow-up      | Case               | Program                       |
 
 **Stages:** Data collection and analysis → Interpretation → Dissemination → Action
 
@@ -157,17 +153,15 @@ It integrates **preventive, promotive, curative, and rehabilitative** services t
 
 🟡 **SHOULD KNOW**
 
-**How a community diagnosis is made** (same logic as diagnosing a
-patient — history, examination, tests — applied to a population):
+**How a community diagnosis is made** (same logic as diagnosing a patient — history, examination, tests — applied to a population):
 
-1. Collect socio-demographic data (age, sex, education, occupation, income)
-2. Collect environmental data (housing, water, sanitation)
-3. Identify mortality/morbidity causes and risk factors
-4. Distinguish **professionally identified needs** from **felt needs**
-5. Write the findings as a short "community diagnosis" statement, then plan **community treatment**
+1.  Collect socio-demographic data (age, sex, education, occupation, income)
+2.  Collect environmental data (housing, water, sanitation)
+3.  Identify mortality/morbidity causes and risk factors
+4.  Distinguish **professionally identified needs** from **felt needs**
+5.  Write the findings as a short "community diagnosis" statement, then plan **community treatment**
 
-**Parameters used to assess a health service** for that community:
-*Relevance, Adequacy, Accessibility, Availability, Affordability, Completeness.*
+**Parameters used to assess a health service** for that community: *Relevance, Adequacy, Accessibility, Availability, Affordability, Completeness.*
 
 ------------------------------------------------------------------------
 
@@ -175,13 +169,13 @@ patient — history, examination, tests — applied to a population):
 
 🟡 **SHOULD KNOW**
 
-| Aspect | Community Medicine | Hospital Medicine |
-|--------|---------------------|---------------------|
-| Service area | Defined population | Ill-defined catchment |
-| Approach | Active outreach | Passive, patient-driven |
-| Focus | Prevention and promotion | Curative care |
-| Coordination | Intersectoral | Limited |
-| Cost-benefit | High (population impact) | Individual outcome |
+| Aspect       | Community Medicine       | Hospital Medicine       |
+|--------------|--------------------------|-------------------------|
+| Service area | Defined population       | Ill-defined catchment   |
+| Approach     | Active outreach          | Passive, patient-driven |
+| Focus        | Prevention and promotion | Curative care           |
+| Coordination | Intersectoral            | Limited                 |
+| Cost-benefit | High (population impact) | Individual outcome      |
 
 **Principle:** Prevention is safer, cheaper, and easier than cure.
 
@@ -192,7 +186,7 @@ patient — history, examination, tests — applied to a population):
 🟣 **MAY KNOW**
 
 | Concept | Analogy | Example |
-|---------|---------|---------|
+|------------------------|------------------------|------------------------|
 | Social Anatomy | Structure of society | Social stratification, institutions |
 | Social Physiology | Functions of society | Education, communication |
 | Social Pathology | Abnormalities | Crime, poverty, delinquency |
@@ -218,7 +212,7 @@ The history of medicine and public health is conventionally divided into five er
 - **Ayurveda:** laid down in the *Atharvaveda*; health = balance of three *doshas* — **Vata** (air), **Pitta** (bile), **Kapha** (phlegm). Key sages: **Atreya** (teacher, 8th–9th c. BCE), **Sushruta** (surgery, *Sushruta Samhita*), **Charaka** (*Charaka Samhita*, medicine and drugs)
 - **Greek medicine — Hippocrates** (c. 460–370 BCE), the father of medicine: the Hippocratic Oath; four humors (blood, phlegm, black bile, yellow bile); *On Airs, Waters and Places* — arguably the first work of epidemiology
 - **Egyptian:** Imhotep; medical knowledge recorded in *Papyrus* texts (surgery; drugs and pharmacopeia)
-- **Roman:** public baths, drainage against malaria, the first census; **Galen** (129–200 AD), leading anatomist, whose theories held sway for ~1500 years
+- **Roman:** public baths, drainage against malaria, the first census; **Galen** (129–200 AD), leading anatomist, whose theories held sway for \~1500 years
 
 ------------------------------------------------------------------------
 
@@ -295,11 +289,7 @@ Alongside allopathy, India officially recognizes five indigenous systems of medi
 
 **Where AYUSH fits well:** wellness and preventive health services, lifestyle counseling, and supportive/complementary care in select chronic conditions — **not** as a substitute for intensive care, surgery, or emergency resuscitation.
 
-**Key limitations:**
-- Standardization and quality control of herbal/traditional preparations
-- Safety and drug-interaction data are often incomplete
-- Evidence base is uneven across the different systems
-- "Natural" does **not** automatically mean "safe" — natural substances can still be toxic or interact with other medicines
+**Key limitations:** - Standardization and quality control of herbal/traditional preparations - Safety and drug-interaction data are often incomplete - Evidence base is uneven across the different systems - "Natural" does **not** automatically mean "safe" — natural substances can still be toxic or interact with other medicines
 
 ------------------------------------------------------------------------
 
@@ -313,21 +303,20 @@ Alongside allopathy, India officially recognizes five indigenous systems of medi
 :::
 
 ::: {.column width="30%"}
-1. Monitor health  
-2. Diagnose and investigate  
-3. Inform, educate, empower  
-4. Mobilize community partnerships  
-5. Develop policies  
-6. Enforce laws  
-7. Link to/provide care  
-8. Assure competent workforce  
-9. Evaluate  
+1.  Monitor health\
+2.  Diagnose and investigate\
+3.  Inform, educate, empower\
+4.  Mobilize community partnerships\
+5.  Develop policies\
+6.  Enforce laws\
+7.  Link to/provide care\
+8.  Assure competent workforce\
+9.  Evaluate\
 10. Research for new insights
 :::
 :::::
 
 ------------------------------------------------------------------------
-
 
 ## What Is Health? {background-color="#E3F2E1"}
 
@@ -378,7 +367,7 @@ A person can be free of diagnosable disease and still not be "healthy" by this d
 
 Health is not a fixed state but a **continuum**, moving in both directions:
 
-`Death → Chronic illness → Disability → Mild sickness → No obvious illness → Positive health`
+![](../images/man-and-medicine/heealth_dis_iceberg.png){.slide-img .nostretch width="600px"}
 
 - **Positive health** is more than "not sick" — it implies resilience and a reserve capacity to cope with physical, biological, and social stress
 - Any individual can move along this spectrum over time; public health aims to shift populations **toward** the positive-health end, not just treat people once they've crossed into illness
@@ -524,7 +513,7 @@ Alongside Sir Joseph Bhore, two other figures shaped modern Indian health-care:
 
 In 1998, WHO adopted 10 concrete global targets to pursue Health for All in the new century. A few of the most exam-relevant:
 
-- **Survival:** maternal mortality <100/100,000 live births; under-5 mortality <45/1000 live births; life expectancy >70 years
+- **Survival:** maternal mortality \<100/100,000 live births; under-5 mortality \<45/1000 live births; life expectancy \>70 years
 - **Reversal of five major pandemics:** TB, HIV/AIDS, malaria, tobacco-related disease, violence/trauma
 - **Eradication/elimination of specific diseases:** measles and lymphatic filariasis (eradication); leprosy and trachoma (elimination)
 - **Improved access** to water, sanitation, food, and shelter
@@ -547,7 +536,7 @@ In 1998, WHO adopted 10 concrete global targets to pursue Health for All in the 
 
 ::::: columns
 ::: {.column width="30%"}
-![John Snow (1813–1858)](../images/man-and-medicine/john_snow.svg){.slide-img .nostretch width="180px"}
+![John Snow (1813–1858)](../images/man-and-medicine/john-Snow.jpg){.slide-img .nostretch width="180px"}
 :::
 
 ::: {.column width="70%"}
@@ -608,21 +597,7 @@ Health outcomes follow a **gradient** across socioeconomic position, not just a 
 
 ## Practice Questions: Descriptive {background-color="#FFF6DA"}
 
-**For written practice — work through these on paper; no auto-check for this slide.**
-
-**Chapter 1 — Introduction to Community Medicine**
-
-1. Define Community Medicine. Discuss its scope and how it differs from clinical/hospital medicine.
-2. Differentiate between Hygiene, Preventive Medicine, Social Medicine, and Community Medicine.
-3. Describe the steps involved in community diagnosis, along with the parameters used to assess a health programme.
-4. Discuss the WHO's definition of public health and its core functions.
-5. Write short notes on: (a) Social anatomy, physiology, pathology, and therapy of a community (b) Community Medicine vs Family Medicine.
-
-**Chapter 2 — Indigenous Systems of Medicine (AYUSH)**
-
-6. Describe the AYUSH systems of medicine in India and discuss their role and limitations in public health.
-7. Write short notes on: (a) Tridosha theory of Ayurveda (b) The fundamental principle of Homeopathy (c) Unani and Siddha systems of medicine.
-8. Discuss how AYUSH systems can be integrated into primary health care, with examples.
+**For written practice — work through these on paper.** 1. Define Community Medicine. Discuss its scope and how it differs from clinical/hospital medicine. 2. Differentiate between Hygiene, Preventive Medicine, Social Medicine, and Community Medicine. 3. Describe the steps involved in community diagnosis, along with the parameters used to assess a health programme. 4. Discuss the WHO's definition of public health and its core functions. 5. Write short notes on: (a) Social anatomy, physiology, pathology, and therapy of a community (b) Community Medicine vs Family Medicine. 6. Describe the AYUSH systems of medicine in India and discuss their role and limitations in public health. 7. Write short notes on: (a) Tridosha theory of Ayurveda (b) The fundamental principle of Homeopathy (c) Unani and Siddha systems of medicine. 8. Discuss how AYUSH systems can be integrated into primary health care, with examples.
 
 ------------------------------------------------------------------------
 

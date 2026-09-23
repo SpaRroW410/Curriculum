@@ -1,0 +1,551 @@
+---
+title: "Man and Medicine — Question Bank"
+format:
+  html:
+    toc: true
+    page-layout: full
+---
+
+# Man and Medicine: Question Bank
+
+A written companion to [Chapter 1: Man and
+Medicine](man-and-medicine.qmd) for practice. Short essay/short answer
+questions are for written practice — a model-answer key with key
+points is given at the end of each chapter's section (not full
+essays). MCQs are followed by a lettered answer key; try them before
+checking.
+
+The interactive, auto-checked versions of these MCQs are also
+available as Self-Check slides within the chapter deck itself.
+
+------------------------------------------------------------------------
+
+## Chapter 1: Introduction to Community Medicine
+
+### Short Essay / Short Answer Questions
+
+1. Define Community Medicine. Discuss its scope and how it differs from clinical/hospital medicine.
+2. Differentiate between Hygiene, Preventive Medicine, Social Medicine, and Community Medicine.
+3. Describe the steps involved in community diagnosis, along with the parameters used to assess a health programme.
+4. Discuss the WHO's definition of public health and its core functions.
+5. Write short notes on: (a) Social anatomy, physiology, pathology, and therapy of a community (b) Community Medicine vs Family Medicine.
+
+### Multiple Choice Questions
+
+**A. Single Best Answer (SBA)**
+
+1. Community medicine primarily differs from clinical medicine in that it focuses on:
+
+   a. Individual patient care
+   b. Hospital-based management
+   c. Health of populations
+   d. Curative services only
+
+2. Which of the following best reflects the scope of community medicine?
+
+   a. Diagnosis and treatment
+   b. Rehabilitation only
+   c. Prevention, promotion, and protection of health
+   d. Emergency care
+
+3. The term "Community Medicine" places its central emphasis on:
+
+   a. Diagnosis and treatment of individual patients
+   b. The community/population as the unit of care, not the individual
+   c. Advanced laboratory investigations
+   d. Hospital bed-occupancy management
+
+4. A district health officer, on noticing a cluster of diarrhoeal cases in a village, organizes house-to-house surveys, tests drinking-water sources, and conducts health education sessions. This set of activities best illustrates:
+
+   a. Clinical case management
+   b. Applied community medicine practice in the field
+   c. Hospital infection control
+   d. Individual patient counselling
+
+5. Before planning any intervention, medical students conduct a village health survey to identify the prevailing health problems and locally available resources. This activity is an example of:
+
+   a. A clinical audit
+   b. Community diagnosis
+   c. A case-control study
+   d. A hospital needs-assessment
+
+6. The primary purpose of field visits during the Community Medicine posting is to:
+
+   a. Fulfil attendance requirements only
+   b. Study health problems and services in their real community setting
+   c. Practice surgical procedures
+   d. Conduct hospital ward rounds
+
+7. Community Medicine contributes most directly to national health development by:
+
+   a. Running private specialty clinics
+   b. Planning, implementing, and evaluating public health programmes
+   c. Publishing case reports only
+   d. Training only surgical residents
+
+**B. Multiple Correct Answer (MCMA) — select all that apply**
+
+8. Which of the following are recognized functions of Community Medicine?
+
+   a. Prevention and control of disease in populations
+   b. Marketing pharmaceutical products
+   c. Promotion of health through education and intersectoral action
+   d. Maximizing hospital revenue
+
+9. Community Medicine integrates knowledge and methods from which of the following disciplines?
+
+   a. Epidemiology and biostatistics
+   b. Social and behavioural sciences
+   c. Corporate financial accounting
+   d. Automotive engineering
+
+**C. Assertion–Reason (A-R)**
+
+10. **Assertion (A):** Community Medicine serves as a bridge between clinical medicine and the social sciences. **Reason (R):** The WHO was founded in 1948 with its headquarters in Geneva.
+
+    a. A is true, R is false
+    b. A is false, R is true
+    c. Both A and R are true, but R is NOT the correct explanation of A
+    d. Both A and R are false
+
+### Answers
+
+**Short Essay / Short Answer — key points:**
+
+1. Community Medicine = the branch of medicine concerned with the health of populations rather than individuals; integrates preventive, promotive, curative, and rehabilitative care; scope spans community diagnosis, epidemiology, health administration, and public health programmes; differs from clinical/hospital medicine chiefly in its unit of concern (community vs individual patient).
+2. Hygiene = personal cleanliness practices; Preventive Medicine = averting disease in individuals/high-risk groups; Social Medicine = studying disease in its social context; Community Medicine = the broadest, population-level integration of all of the above with health administration.
+3. Community diagnosis steps: (i) define the community, (ii) collect data on health status and determinants, (iii) analyze and identify problems, (iv) prioritize problems, (v) plan action. Assessment parameters: relevance, adequacy, accessibility, availability, affordability, completeness.
+4. WHO's public health definition (Winslow, 1920): the science and art of preventing disease, prolonging life, and promoting health through organized community effort. Core functions: assessment, policy development, and assurance (and their component activities — surveillance, health promotion, regulation, service provision, workforce development, etc.).
+5. (a) Social anatomy/physiology/pathology/therapy — treating the community as an organism whose structure, functioning, ill-health, and treatment can each be studied, analogous to an individual patient. (b) Community Medicine works at the population level through organized public programmes; Family Medicine delivers comprehensive, continuous, individual/family-level primary care.
+
+**MCQs:** 1-c, 2-c, 3-b, 4-b, 5-b, 6-b, 7-b, 8-ac\
+9-ab, 10-c
+
+------------------------------------------------------------------------
+
+## Chapter 2: Indigenous System of Medicine in India (AYUSH)
+
+### Short Essay / Short Answer Questions
+
+1. Describe the AYUSH systems of medicine in India and discuss their role and limitations in public health.
+2. Write short notes on: (a) Tridosha theory of Ayurveda (b) The fundamental principle of Homeopathy (c) Unani and Siddha systems of medicine.
+3. Discuss how AYUSH systems can be integrated into primary health care, with examples.
+
+### Multiple Choice Questions
+
+**A. Single Best Answer (SBA)**
+
+1. The traditional concept of "Tridosha" — Vata, Pitta, and Kapha — is associated with which system of medicine?
+
+   a. Unani
+   b. Siddha
+   c. Ayurveda
+   d. Homeopathy
+
+2. "Like cures like" is the fundamental principle of:
+
+   a. Unani
+   b. Yoga
+   c. Siddha
+   d. Homeopathy
+
+3. A patient develops liver toxicity after taking an unlabeled herbal preparation of unclear dosage. This best illustrates which limitation of AYUSH systems?
+
+   a. Lack of trained practitioners
+   b. Absence of preventive potential
+   c. Issues of standardization and safety
+   d. Ineffectiveness in chronic diseases
+
+4. A corporate wellness programme uses regular yoga and meditation sessions to reduce employee stress and improve mental well-being. This approach is best classified under which AYUSH system?
+
+   a. Unani
+   b. Siddha
+   c. Yoga and Naturopathy
+   d. Homeopathy
+
+5. A rural primary health centre incorporates Ayurvedic physicians to manage chronic, non-emergency conditions alongside allopathic care. This reflects which model of health-care delivery?
+
+   a. Exclusive allopathic model
+   b. An integrative AYUSH–allopathy model at the primary care level
+   c. Tertiary referral model
+   d. Purely preventive model with no curative component
+
+6. AYUSH systems of medicine are, in general, most appropriately used for:
+
+   a. Emergency trauma surgery
+   b. Acute, life-threatening infections requiring intensive care
+   c. Chronic conditions, wellness promotion, and preventive care
+   d. Organ transplantation
+
+7. Which of the following best describes the primary public-health role of AYUSH systems today?
+
+   a. Replacing allopathic emergency medicine entirely
+   b. Complementing allopathy through wellness, prevention, and chronic-care support
+   c. Providing the sole basis for national immunization programmes
+   d. Serving only as a historical/cultural reference with no active clinical role
+
+**B. Multiple Correct Answer (MCMA) — select all that apply**
+
+8. Which of the following are potential public-health contributions of AYUSH systems?
+
+   a. Low-cost, accessible chronic-disease and wellness care
+   b. Promotion of healthy lifestyle practices — yoga, diet, daily regimen
+   c. Definitive management of major trauma
+   d. Replacement of vaccination programmes
+
+**C. Assertion–Reason (A-R)**
+
+9. **Assertion (A):** Integrating AYUSH practitioners into the primary health-care workforce can improve access to care in underserved areas. **Reason (R):** India has a large trained AYUSH workforce that can be deployed to supplement allopathic human resources for health.
+
+   a. Both A and R are true, and R is the correct explanation of A
+   b. Both A and R are true, but R is not the correct explanation of A
+   c. A is true, R is false
+   d. A is false, R is true
+
+10. **Assertion (A):** All AYUSH medicines are inherently safe because they are derived from natural sources. **Reason (R):** Herbal and natural products can still cause toxicity, especially with poor standardization, incorrect dosage, or drug interactions.
+
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is not the correct explanation of A
+    c. A is true, R is false
+    d. A is false, R is true
+
+### Answers
+
+**Short Essay / Short Answer — key points:**
+
+1. AYUSH = Ayurveda, Yoga & Naturopathy, Unani, Siddha, Homeopathy, under the Ministry of AYUSH (2014). Role: low-cost, accessible wellness, prevention, and chronic-disease care, often integrated at the primary-care level. Limitations: variable standardization, safety/quality-control concerns, limited robust evidence base for many indications, unsuited to emergencies/surgical/critical care.
+2. (a) Tridosha — Vata, Pitta, Kapha — the three fundamental humors of Ayurveda whose balance determines health, laid down in the Atharvaveda. (b) Homeopathy's principle: "like cures like" (Samuel Hahnemann, 1796) — a substance causing symptoms in a healthy person treats similar symptoms when highly diluted. (c) Unani — Greco-Arabic system (Avicenna's *Canon of Medicine*) based on four humors; Siddha — Tamil-origin system based on the five-element (Panchabhoota) theory.
+3. Integration examples: co-locating AYUSH practitioners at PHCs/sub-centres for chronic disease and wellness care; yoga/naturopathy in NCD prevention programmes; AYUSH workforce deployed to extend primary-care reach in underserved areas — all under the National AYUSH Mission.
+
+**MCQs:** 1-c, 2-d, 3-c, 4-c, 5-b, 6-c, 7-b, 8-ab\
+9-a, 10-d
+
+------------------------------------------------------------------------
+
+## Review Exercise: Historical Concepts in Community Medicine
+
+### Multiple Choice Questions
+
+**Single Best Answer (SBA)**
+
+1. Which of the following was the first ever scientifically conducted clinical trial in medical history?
+
+   a. Trial of citrus fruits by Lind for preventing scurvy
+   b. Experiment on variolation by Jenner
+   c. Trial of streptomycin for tuberculosis
+   d. Trial of the BCG vaccine
+
+2. Who is given the title "Founder of Biostatistics"?
+
+   a. Hippocrates
+   b. Paracelsus
+   c. Graunt
+   d. Farr
+
+3. In India, "Doctors' Day" is celebrated to commemorate the memory of:
+
+   a. Dr Sushila Nayyar
+   b. Dr B C Roy
+   c. Sir Joseph Bhore
+   d. Dr A L Mudaliar
+
+4. The period from approximately 3000 BCE to 500 AD in the history of medicine is generally referred to as the:
+
+   a. Middle Ages
+   b. Renaissance
+   c. Ancient Era
+   d. Contemporary Era
+
+5. According to Ayurveda, the body's functioning is governed by how many fundamental "doshas" (humors)?
+
+   a. Two
+   b. Three — Vata, Pitta, and Kapha (Tridosha)
+   c. Four
+   d. Five
+
+6. Which is the correct chronological sequence of the ancient Indian medical sages?
+
+   a. Charaka, Sushruta, Atreya
+   b. Sushruta, Charaka, Atreya
+   c. Charaka, Atreya, Sushruta
+   d. Atreya, Sushruta, Charaka
+
+7. The "Father of Medicine," Hippocrates, belonged to which ancient civilization?
+
+   a. Egyptian
+   b. Roman
+   c. Greek
+   d. Mesopotamian
+
+8. The classical text *On Airs, Waters, and Places* — one of the earliest works linking environment to disease — was written by:
+
+   a. Hippocrates
+   b. Galen
+   c. Charaka
+   d. Avicenna
+
+9. During the Dark Ages in Europe, medical knowledge was chiefly preserved and advanced by which system of medicine?
+
+   a. Greek
+   b. Roman
+   c. Egyptian
+   d. Arabic (Unani-Tibb)
+
+10. The *Canon of Medicine* (Al-Qanun fi al-Tibb), a foundational text of which system of medicine, was authored by Avicenna (Ibn Sina)?
+
+    a. Unani-Tibb
+    b. Ayurveda
+    c. Siddha
+    d. Homeopathy
+
+11. Edwin Chadwick, whose 1842 report on sanitary conditions catalyzed the modern public-health movement, worked in which country?
+
+    a. France
+    b. USA
+    c. United Kingdom
+    d. Germany
+
+12. Besides his epidemiological work on cholera, John Snow was, by profession, a pioneering:
+
+    a. Surgeon
+    b. Microbiologist
+    c. Sanitary engineer
+    d. Anaesthesiologist
+
+13. In British India, the Registration of Births and Deaths Act was enacted in the year:
+
+    a. 1858
+    b. 1881
+    c. 1901
+    d. 1919
+
+14. The transfer of sanitary/public-health functions to Indian provincial control was recommended under the:
+
+    a. Bhore Committee
+    b. Government of India Act, 1935
+    c. Montague–Chelmsford Reforms (1919)
+    d. Mudaliar Committee
+
+15. Which committee is regarded as having laid, as early as 1946, the blueprint that would later be echoed internationally by the Alma-Ata Declaration's emphasis on comprehensive, accessible primary care?
+
+    a. The Bhore Committee
+    b. The Mudaliar Committee
+    c. The Kartar Singh Committee
+    d. The Shrivastava Committee
+
+16. Dr Sushila Nayyar is remembered in Indian public health history as:
+
+    a. India's first woman Union Health Minister
+    b. A physician closely associated with Mahatma Gandhi
+    c. A key figure in India's TB-control efforts
+    d. All of the above
+
+17. The world was officially declared free of smallpox by the WHO in the year:
+
+    a. 1975
+    b. 1977
+    c. 1980
+    d. 1985
+
+18. India's National Family Planning Programme — among the earliest government-run programmes of its kind in the world — was launched in:
+
+    a. 1947
+    b. 1951
+    c. 1952
+    d. 1961
+
+19. India's first National Health Policy was formulated in the year:
+
+    a. 1978
+    b. 1983
+    c. 1990
+    d. 2000
+
+20. India recorded its last case of wild poliovirus in January of which year?
+
+    a. 2011
+    b. 2012
+    c. 2014
+    d. 2009
+
+21. NITI Aayog, established in 2015, replaced which earlier body?
+
+    a. National Development Council
+    b. Finance Commission
+    c. Bhore Committee
+    d. The Planning Commission
+
+22. The Ayushman Bharat–PM-JAY scheme, launched in 2018, aims to provide health cover to approximately how many beneficiaries?
+
+    a. 10 crore
+    b. 25 crore
+    c. 50 crore
+    d. 100 crore
+
+23. The WHO declared COVID-19 a Public Health Emergency of International Concern (PHEIC) on:
+
+    a. 31 December 2019
+    b. 30 January 2020
+    c. 11 March 2020
+    d. 1 January 2021
+
+### Answers
+
+**MCQs:** 1-a, 2-c, 3-b, 4-c, 5-b, 6-d, 7-c, 8-a\
+9-d, 10-a, 11-c, 12-d, 13-b, 14-c, 15-a, 16-d\
+17-c, 18-c, 19-b, 20-a, 21-d, 22-c, 23-b
+
+------------------------------------------------------------------------
+
+## Review Exercise: General Concepts in Health, Community Medicine and Public Health
+
+### Multiple Choice Questions
+
+**Single Best Answer (SBA)**
+
+1. Which of the following is **NOT** a valid point of difference between curative and preventive medicine?
+
+   a. Curative medicine treats existing disease; preventive medicine averts future disease
+   b. Both curative and preventive medicine are entirely unconcerned with the community
+   c. Curative medicine is individual-oriented; preventive medicine is population-oriented
+   d. Curative medicine acts after disease onset; preventive medicine acts before onset
+
+2. The physical, mental, and social aspects within the WHO's definition of health are collectively referred to as its:
+
+   a. Determinants
+   b. Indicators
+   c. Dimensions (subdomains) of health
+   d. Indices
+
+3. Many scholars argue that the original WHO definition of health omits a dimension that has since been widely proposed as a fourth component. Which dimension is this?
+
+   a. Physical
+   b. Mental
+   c. Social
+   d. Spiritual
+
+4. The most widely cited standard definition of Public Health was given by:
+
+   a. C.E.A. Winslow
+   b. Hippocrates
+   c. John Snow
+   d. Edwin Chadwick
+
+5. The Declaration of Alma-Ata, which established Primary Health Care as the key strategy for Health for All, was adopted in:
+
+   a. 1946
+   b. 1974
+   c. 1978
+   d. 1990
+
+6. Among the WHO's 21st-century Health-for-All targets, the target for maternal mortality was to reduce it to:
+
+   a. Less than 1 per 1,000 live births
+   b. Less than 10 per 1,000 live births
+   c. Less than 50 per 1,000 live births
+   d. Zero, with no numerical target
+
+7. Which of the following is commonly used as an indicator of health equity within a population?
+
+   a. Gross Domestic Product
+   b. Prevalence of childhood stunting
+   c. Number of hospital beds
+   d. Literacy rate of health workers
+
+8. The deployment of trained Village Health Guides (VHGs) drawn from within the community is best regarded as an example of which pillar of Primary Health Care?
+
+   a. Community participation
+   b. Appropriate technology
+   c. Intersectoral coordination
+   d. Equitable distribution
+
+9. India's health-care delivery system is organized into how many graded tiers/levels?
+
+   a. Two
+   b. Three — Primary, Secondary, and Tertiary
+   c. Four
+   d. Five
+
+10. Which of the following is **NOT** a characteristic of Primary Health Care as defined at Alma-Ata?
+
+    a. Universal accessibility
+    b. Community participation
+    c. Priority given to state-of-the-art tertiary hospitals
+    d. Use of appropriate, affordable technology
+
+11. The Millennium Development Goals (MDGs) set targets to be achieved by the year:
+
+    a. 2010
+    b. 2015
+    c. 2020
+    d. 2030
+
+12. Of the various strategies proposed to achieve "Health for All," which was identified as the single most essential?
+
+    a. Vertical disease-control programmes
+    b. Hospital expansion
+    c. Primary Health Care
+    d. Medical research funding
+
+13. The Millennium Development Goals were laid down by:
+
+    a. The United Nations Organization
+    b. The World Health Organization
+    c. The World Bank
+    d. UNICEF
+
+14. The Integrated Child Development Services (ICDS) scheme, which combines health, nutrition, and early-education inputs across ministries, exemplifies which principle?
+
+    a. Intersectoral coordination
+    b. Appropriate technology
+    c. Equitable distribution
+    d. Community participation
+
+15. Community participation, intersectoral coordination, appropriate technology, and equitable distribution are together known as the four pillars of:
+
+    a. The Bhore Committee report
+    b. Primary Health Care
+    c. The National Health Policy
+    d. The Sustainable Development Goals
+
+16. World Health Day 2018 was observed with the theme/focus of:
+
+    a. Malaria elimination
+    b. Universal Health Coverage
+    c. Mental health
+    d. Climate change and health
+
+17. The discipline of "Social Medicine" is chiefly associated with the pioneering work of:
+
+    a. Alfred Grotjahn
+    b. John Snow
+    c. Edwin Chadwick
+    d. C.E.A. Winslow
+
+18. A health-care system in which the government funds and provides medical care to all citizens free at the point of use is best described as:
+
+    a. Community medicine
+    b. Private insurance-based medicine
+    c. Socialized (state) medicine
+    d. Family medicine
+
+19. "Appropriate treatment of common diseases and injuries" is one of the:
+
+    a. Determinants of health
+    b. Essential elements/components of Primary Health Care
+    c. SDG targets
+    d. Functions of the Bhore Committee
+
+20. The original Alma-Ata Declaration set the target of "Health for All" to be achieved by the year:
+
+    a. 1990
+    b. 1995
+    c. 2000
+    d. 2010
+
+### Answers
+
+**MCQs:** 1-b, 2-c, 3-d, 4-a, 5-c, 6-a, 7-b, 8-a\
+9-b, 10-c, 11-b, 12-c, 13-a, 14-a, 15-b, 16-b\
+17-a, 18-c, 19-b, 20-c
+
