@@ -14779,7 +14779,7 @@
     "href": "foundations/man-and-medicine.html#home",
     "title": "Man and Medicine",
     "section": "Welcome",
-    "text": "Welcome\nMan and Medicine: Towards Health for All\nLearning Objectives:\n\nDefine health and describe its dimensions and the health–disease spectrum\nExplain the major determinants of health using an accepted health-field model\nState the Alma-Ata Declaration’s definition of Primary Health Care and its goal\nTrace the evolution of medicine from curative to community medicine\nDescribe the Bhore Committee’s role in shaping India’s health system\nLocate “Health for All” within the later MDG → SDG trajectory\n\nHow to read this deck: each slide is tagged and color-coded — 🟢 MUST KNOW (core, exam-critical), 🟡 SHOULD KNOW (important context), 🟣 MAY KNOW (enrichment), and 🧡 QUESTION (self-check).\n\nThis chapter opens the Foundations section. It sets up vocabulary and frameworks — the definition of health, its determinants, and Primary Health Care — that every later chapter in this series assumes.",
+    "text": "Welcome\nMan and Medicine: Towards Health for All\nLearning Objectives:\n\nCommunity medicine, Preventive medicine, social medicine and family medicine\nDefine health and describe its dimensions and the health–disease spectrum\nExplain the major determinants of health using an accepted health-field model\nState the Alma-Ata Declaration’s definition of Primary Health Care and its goal\nTrace the evolution of medicine from curative to community medicine\nDescribe the Bhore Committee’s role in shaping India’s health system\nLocate “Health for All” within the later MDG → SDG trajectory\n\nHow to read this deck: each slide is tagged and color-coded — 🟢 MUST KNOW (core, exam-critical), 🟡 SHOULD KNOW (important context), 🟣 MAY KNOW (enrichment), and 🧡 QUESTION (self-check).\n\nThis chapter opens the Foundations section. It sets up vocabulary and frameworks — the definition of health, its determinants, and Primary Health Care — that every later chapter in this series assumes.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -14863,7 +14863,7 @@
     "href": "foundations/man-and-medicine.html#evolution-of-medicine",
     "title": "Man and Medicine",
     "section": "Evolution of Medicine",
-    "text": "Evolution of Medicine\n🟡 SHOULD KNOW\nMedicine’s scope has widened in stages:\n\nCurative medicine — treating disease in the individual patient\nPreventive medicine — stopping disease before it starts (e.g. immunization, screening)\nSocial medicine — recognizing that disease has social causes and consequences, not only biological ones\nCommunity medicine / Public health — shifting the unit of concern from the individual patient to the community as a whole\n\nEach stage didn’t replace the one before it — modern health systems practice all four simultaneously, for different needs.",
+    "text": "Evolution of Medicine\n🟡 SHOULD KNOW\nMedicine’s scope has widened in stages:\n\nCurative medicine — treating disease in the individual patient\nPreventive medicine — stopping disease before it starts (e.g. immunization, screening)\nSocial medicine — recognizing that disease has social causes and consequences, not only biological ones\nCommunity medicine / Public health — shifting the unit of concern from the individual patient to the community as a whole\n\nEach stage didn’t replace the one before it — modern health systems practice all four simultaneously, for different needs.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -17140,6 +17140,90 @@
     "title": "Man and Medicine",
     "section": "John Snow: Father of Epidemiology",
     "text": "John Snow: Father of Epidemiology\n🟣 MAY KNOW\n\n\n\n\n\nJohn Snow (1813–1858)\n\n\n\n\nEnglish physician who traced London’s 1854 cholera outbreak in Soho to a single contaminated water source\nPlotted cases on a spot map centred on the Broad Street pump, showing deaths clustering around it\nConvinced local authorities to remove the pump handle, ending the outbreak — decades before germ theory explained why it worked\nShowed that disease could be tracked and controlled through systematic observation and mapping, not just laboratory science\nWidely regarded as the founding figure of modern epidemiology and disease mapping",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Man and Medicine: Towards Health for All"
+    ]
+  },
+  {
+    "objectID": "foundations/man-and-medicine.html#difference-between-community-medicine-family-medicine-preventive-medicine-and-social-medicine",
+    "href": "foundations/man-and-medicine.html#difference-between-community-medicine-family-medicine-preventive-medicine-and-social-medicine",
+    "title": "Man and Medicine",
+    "section": "Difference Between Community Medicine, Family Medicine, Preventive Medicine, and Social Medicine",
+    "text": "Difference Between Community Medicine, Family Medicine, Preventive Medicine, and Social Medicine\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\n\nAspect\nCommunity Medicine\nFamily Medicine\nPreventive Medicine\nSocial Medicine\n\n\n\n\nUnit of focus\nCommunity/population\nFamily & individual across lifespan\nIndividual risk factors\nSociety & social determinants\n\n\nScope\nEpidemiology, health programs, PHC, public health\nContinuity of care, holistic family-centered practice\nImmunization, screening, prophylaxis\nLinks health with social, economic, cultural context\n\n\nApproach\nPopulation-based interventions\nPerson-centered, longitudinal care\nDisease prevention before onset\nUnderstanding social causes of disease\n\n\nExamples\nNational immunization program, sanitation drives\nManaging diabetes in a family context\nVaccination, health check-ups\nStudying impact of poverty on TB outcomes",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Man and Medicine: Towards Health for All"
+    ]
+  },
+  {
+    "objectID": "foundations/man-and-medicine.html#preventive-vs-social-medicine",
+    "href": "foundations/man-and-medicine.html#preventive-vs-social-medicine",
+    "title": "Man and Medicine",
+    "section": "Preventive vs Social Medicine",
+    "text": "Preventive vs Social Medicine\n🟡 SHOULD KNOW\n\nPreventive Medicine\n\nFocuses on stopping disease before it occurs.\n\nTools: vaccination, screening, prophylactic drugs, health education.\n\nExample: Polio immunization campaign.\n\nSocial Medicine\n\nRecognizes that disease has social roots (poverty, housing, education, occupation).\n\nTools: policy advocacy, social reforms, addressing inequities.\n\nExample: Improving living conditions to reduce tuberculosis incidence.\n\n\nKey difference: Preventive medicine acts at the individual level to stop disease; social medicine acts at the societal level to address causes behind causes.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Man and Medicine: Towards Health for All"
+    ]
+  },
+  {
+    "objectID": "foundations/man-and-medicine.html#community-medicine-vs-family-medicine",
+    "href": "foundations/man-and-medicine.html#community-medicine-vs-family-medicine",
+    "title": "Man and Medicine",
+    "section": "Community Medicine vs Family Medicine",
+    "text": "Community Medicine vs Family Medicine\n🟡 SHOULD KNOW\n\nCommunity Medicine\n\nConcerned with the health of populations.\n\nUses epidemiology, biostatistics, and health programs.\n\nExample: Designing a malaria control program for a district.\n\nFamily Medicine\n\nConcerned with the health of individuals within the family unit.\n\nProvides continuous, comprehensive, and holistic care.\n\nExample: Managing hypertension, diabetes, and mental health in one family across generations.\n\n\nKey difference: Community medicine is population-focused, family medicine is person-focused but within family context.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Man and Medicine: Towards Health for All"
+    ]
+  },
+  {
+    "objectID": "foundations/man-and-medicine.html#evolution-and-scope-of-community-medicine",
+    "href": "foundations/man-and-medicine.html#evolution-and-scope-of-community-medicine",
+    "title": "Man and Medicine",
+    "section": "Evolution and Scope of Community Medicine",
+    "text": "Evolution and Scope of Community Medicine\n🟢 MUST KNOW\nCommunity Medicine broadens the scope of medicine from the individual to the community.\nIt integrates preventive, promotive, curative, and rehabilitative services through organized efforts.\nCore idea: Health is achieved not only by treating disease but by improving living conditions, sanitation, nutrition, and education.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Man and Medicine: Towards Health for All"
+    ]
+  },
+  {
+    "objectID": "foundations/man-and-medicine.html#hygiene-preventive-and-social-medicine",
+    "href": "foundations/man-and-medicine.html#hygiene-preventive-and-social-medicine",
+    "title": "Man and Medicine",
+    "section": "Hygiene, Preventive, and Social Medicine",
+    "text": "Hygiene, Preventive, and Social Medicine\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\n\nField\nFocus\nExample\n\n\n\n\nHygiene\nPersonal and environmental cleanliness\nHand‑washing, safe water\n\n\nPreventive Medicine\nPreventing disease before it occurs\nImmunization, screening\n\n\nSocial Medicine\nStudying social causes of disease\nPoverty, housing, education\n\n\nCommunity Medicine\nApplying all these at population level\nNational health programs\n\n\n\nKey link: Preventive medicine acts at the individual level; social medicine acts at the societal level; community medicine integrates both.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Man and Medicine: Towards Health for All"
+    ]
+  },
+  {
+    "objectID": "foundations/man-and-medicine.html#public-health-definition-and-functions",
+    "href": "foundations/man-and-medicine.html#public-health-definition-and-functions",
+    "title": "Man and Medicine",
+    "section": "Public Health: Definition and Functions",
+    "text": "Public Health: Definition and Functions\n🟢 MUST KNOW\n\n“Public health is the science and art of preventing disease, prolonging life, and promoting health through organized community efforts.” — Winslow, 1920\n\nFunctions: - Health promotion through education\n- Disease prevention via immunization\n- Health restoration through medical care\n- Rehabilitation of the handicapped\nAim: Create conditions for good health — aligning with WHO’s 1948 definition.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Man and Medicine: Towards Health for All"
+    ]
+  },
+  {
+    "objectID": "foundations/man-and-medicine.html#essential-public-health-services",
+    "href": "foundations/man-and-medicine.html#essential-public-health-services",
+    "title": "Man and Medicine",
+    "section": "Essential Public health services",
+    "text": "Essential Public health services\n🟢 MUST KNOW\n\n\n\n\n\nEPHS)\n\n\n\n\nMonitor health\n\nDiagnose and investigate\n\nInform, educate, empower\n\nMobilize community partnerships\n\nDevelop policies\n\nEnforce laws\n\nLink to/provide care\n\nAssure competent workforce\n\nEvaluate\n\nResearch for new insights",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
