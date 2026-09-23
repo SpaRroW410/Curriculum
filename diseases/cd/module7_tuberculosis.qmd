@@ -45,6 +45,14 @@ programme.
 
 ---
 
+## Lecture 8: TB Epidemiology, Case Finding, and Diagnosis {background-color="#E6EEF5"}
+
+📚 **Lecture 8 of 28** · **CM8-CD.L8**
+
+*Tuberculosis I - epidemiology, case finding and diagnosis*
+
+---
+
 ## Burden and Transmission {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -106,6 +114,14 @@ pleura, spine, meninges), especially in HIV-positive individuals.
 - **Culture** — the diagnostic **gold standard**, but slow (weeks),
   used mainly to confirm drug resistance
 - **Chest X-ray** — supportive, not diagnostic alone
+
+---
+
+## Lecture 9: NTEP, Treatment Regimens, TPT, and TB Mukt Bharat {background-color="#E6EEF5"}
+
+📚 **Lecture 9 of 28** · **CM8-CD.L9**
+
+*Tuberculosis II - NTEP, treatment regimens, TPT and TB Mukt Bharat*
 
 ---
 

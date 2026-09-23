@@ -47,6 +47,15 @@ culturally situated, not just individually rational.
 
 ---
 
+## Lecture 1: Social & Behavioural Sciences {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 3** · **CM2.L1**
+
+*Social and behavioural sciences; family - types, functions and role
+in health and disease*
+
+---
+
 ## The Sick Role (Talcott Parsons) {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -70,6 +79,15 @@ obligations:
 **Why it matters:** it frames illness as a **social role**, not just a
 biological state — connecting directly back to Chapter 2's distinction
 between disease, illness, and sickness.
+
+---
+
+## Lecture 2: Socio-Cultural Assessment and Barriers {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 3** · **CM2.L2**
+
+*Socio-cultural assessment, socio-economic status scales, barriers to
+health and health-seeking behaviour*
 
 ---
 
@@ -198,7 +216,7 @@ methodological decision.
 
 ---
 
-## Family: Types, Functions, and Social Security {background-color="#FFF6DA"}
+## Family: Types and Functions {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
@@ -222,9 +240,24 @@ affection and emotional support, and — most relevant to community
 medicine — the **primary unit of health care**: it is usually the
 family, not the individual, that decides whether and when to seek care.
 
+---
+
+## Lecture 3: Poverty and Social Security {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 3** · **CM2.L3**
+
+*Poverty and social security measures in relation to health*
+
+---
+
+## Poverty and Social Security Measures {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
 **Social security measures** protect individuals and families against
 income loss from life's contingencies (old age, disability, death of an
-earning member, unemployment). India's major schemes:
+earning member, unemployment) — a structural response to the poverty
+and social-stratification barriers already covered above.
 
 - **Employees' State Insurance (ESI)** — health insurance and cash
   benefits for organized-sector workers below a wage ceiling

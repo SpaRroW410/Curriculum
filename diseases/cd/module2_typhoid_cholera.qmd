@@ -43,6 +43,15 @@ introduced in Chapter 6 — this module focuses on what's specific to each.
 
 ---
 
+## Lecture 14: Typhoid Fever and Food Poisoning {background-color="#E6EEF5"}
+
+📚 **Lecture 14 of 28** · **CM8-CD.L14**
+
+*Typhoid fever and food poisoning (food poisoning covered in
+[Module 5](module5_food_poisoning.html))*
+
+---
+
 ## Typhoid Fever: Agent and Reservoir {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -122,6 +131,15 @@ protection but both reduce incidence and severity.
   **prevention** (safe water, sanitation, vaccination) over reliance on
   treatment — the same stewardship logic already introduced for
   hospital-acquired infections
+
+---
+
+## Lecture 13: Acute Diarrhoeal Diseases, Cholera, and IDCF {background-color="#E6EEF5"}
+
+📚 **Lecture 13 of 28** · **CM8-CD.L13**
+
+*Acute diarrhoeal diseases and cholera; IDCF (IDCF covered in
+[Module 5](module5_food_poisoning.html))*
 
 ---
 

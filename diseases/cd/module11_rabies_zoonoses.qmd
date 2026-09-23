@@ -45,6 +45,15 @@ occupational health (Chapter 19).
 
 ---
 
+## Lecture 21: Rabies and the National Action Plan {background-color="#E6EEF5"}
+
+📚 **Lecture 21 of 28** · **CM8-CD.L21**
+
+*Rabies and the national action plan for dog-mediated rabies
+elimination*
+
+---
+
 ## Rabies: Why It Is Almost Always Fatal {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -124,6 +133,16 @@ introduced in the Environment section:
   human host
 - **Free PEP availability** at government health facilities, since
   cost is a recognized barrier to completing the full vaccine schedule
+
+---
+
+## Lecture 22: Yellow Fever, Plague, Leptospirosis, Brucellosis {background-color="#E6EEF5"}
+
+📚 **Lecture 22 of 28** · **CM8-CD.L22**
+
+*Yellow fever, plague, leptospirosis, brucellosis and human
+salmonellosis (salmonellosis covered in
+[Module 13](module13_other_infections.html))*
 
 ---
 

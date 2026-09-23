@@ -48,6 +48,15 @@ prevention), even though some terms overlap.
 
 ---
 
+## Lecture 1: Levels of Health Care and PHC Principles {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 4** · **CM17.L1**
+
+*Levels of health care; primary health care - components and
+principles*
+
+---
+
 ## Levels of Health Care: Not Levels of Prevention {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -81,6 +90,82 @@ capabilities of secondary or tertiary facilities.
 system prevents both under-treatment (a serious case stuck at a facility
 that can't manage it) and system overload (routine cases flooding
 scarce tertiary capacity that should be reserved for complex cases).
+
+---
+
+## Lecture 2: Community Diagnosis, Health for All, MDG and SDG {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 4** · **CM17.L2**
+
+*Community diagnosis; Health for All, MDG and SDG*
+
+---
+
+## Community Diagnosis {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Community diagnosis** is the PHC-level counterpart of a clinical
+diagnosis: a systematic assessment of a community's health status,
+disease burden, and determinants (using vital statistics, morbidity
+data, and local surveys) to identify priority health problems *before*
+planning an intervention — the same situation-analysis logic from the
+health-planning cycle (Chapter 24), applied at the level of a single
+PHC's catchment population rather than a national programme.
+
+**Health for All, MDG, and SDG:** the "Health for All by 2000"
+declaration (Alma-Ata, 1978), the Millennium Development Goals
+(2000–2015), and the Sustainable Development Goals (2016–2030) are
+covered in full in [Chapter 12](../programs/mdg-sdg.qmd) — the
+same global goal-setting framework that gives community diagnosis its
+population-health targets to work toward.
+
+---
+
+## Lecture 3: Health Care Delivery in India {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 4** · **CM17.L3**
+
+*Health care delivery in India - centre, state and district level*
+
+---
+
+## Health Care Delivery: Centre, State, and District {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Beyond the Sub-Centre/PHC/CHC facility tiers below, health care in
+India is also **administered** through three governmental levels — a
+distinct hierarchy from the facility tiers, since health is
+constitutionally a **State subject** (with some concurrent central
+involvement):
+
+- **Central level** — the **Ministry of Health & Family Welfare
+  (MoHFW)** sets national policy, funds and monitors national health
+  programmes, and coordinates with States rather than directly running
+  facilities
+- **State level** — the **State Directorate of Health Services**
+  implements central programmes within the state, manages state-cadre
+  health personnel, and adapts national policy to state-specific needs
+- **District level** — the **District Health Society**, chaired by the
+  district Chief Medical Officer (CMO), plans and coordinates health
+  service delivery across the district's own Sub-Centres, PHCs, and
+  CHCs — the operational unit where NHM's decentralized, district-level
+  planning and funding model (Chapter 24) is actually executed
+
+**Why this three-level split matters:** it explains why health
+outcomes vary so much between Indian states even under the same
+central scheme — implementation authority and capacity sit mostly at
+the state and district level, not the centre.
+
+---
+
+## Lecture 4: Rural Health Infrastructure {background-color="#E6EEF5"}
+
+📚 **Lecture 4 of 4** · **CM17.L4**
+
+*Rural health - village to community health centre, Ayushman Arogya
+Mandir, IPHS, NHM, health insurance; tribal health*
 
 ---
 
@@ -144,14 +229,6 @@ tier of this Sub-Centre/PHC/CHC structure is expected to meet —
 periodically revised (most recently 2022) so facility norms keep pace
 with changing service expectations, rather than staying fixed at the
 1946 Bhore-era design.
-
-**Community diagnosis** is the PHC-level counterpart of a clinical
-diagnosis: a systematic assessment of a community's health status,
-disease burden, and determinants (using vital statistics, morbidity
-data, and local surveys) to identify priority health problems *before*
-planning an intervention — the same situation-analysis logic from the
-health-planning cycle (Chapter 24), applied at the level of a single
-PHC's catchment population rather than a national programme.
 
 ---
 
@@ -308,6 +385,15 @@ cancer treatment), usually only available at a small number of
 specialized national or international centres. It doesn't have a
 formal, separate tier in India's public rural health infrastructure, but
 is relevant terminology in broader health systems study.
+
+---
+
+## Lecture: Disability and Rehabilitation {background-color="#E6EEF5"}
+
+📚 **Misc Topic** · **Misc.L1**
+
+*Disability and rehabilitation - impairment, disability and handicap;
+community-based rehabilitation; RPwD Act 2016*
 
 ---
 

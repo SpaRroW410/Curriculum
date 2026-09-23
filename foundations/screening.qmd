@@ -44,6 +44,14 @@ problem of evaluating a screening test and a screening program.
 
 ---
 
+## Lecture 14: Screening Concept, Uses, and Criteria {background-color="#E6EEF5"}
+
+📚 **Lecture 14 of 15** · **CM7.L14**
+
+*Screening I - concept, uses and criteria*
+
+---
+
 ## What Is Screening? {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -98,6 +106,14 @@ diagnosis:
 
 All four validity measures on the next slides come directly from this
 table.
+
+---
+
+## Lecture 15: Sensitivity, Specificity, and Predictive Values {background-color="#E6EEF5"}
+
+📚 **Lecture 15 of 15** · **CM7.L15**
+
+*Screening II - sensitivity, specificity and predictive values*
 
 ---
 

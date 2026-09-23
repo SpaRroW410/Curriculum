@@ -46,6 +46,14 @@ and causation frameworks from the Foundations section.
 
 ---
 
+## Lecture 1: NCD Burden and NP-NCD {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 16** · **CM8-NCD.L1**
+
+*Non-communicable disease burden, common risk factors and NP-NCD*
+
+---
+
 ## What Is a Non-Communicable Disease? {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**

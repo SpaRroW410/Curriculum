@@ -44,6 +44,14 @@ new context: mitigation and preparedness act before a disaster's
 
 ---
 
+## Lecture 1: Disaster Management Concept and Cycle {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 2** · **CM13.L1**
+
+*Disaster management - concept and disaster management cycle*
+
+---
+
 ## Classifying Disasters {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -84,6 +92,15 @@ A continuous, four-phase cycle — each phase informs the next:
 preparedness are essentially **primary prevention** applied to disasters;
 response is analogous to acute case management; recovery parallels
 **tertiary prevention** (limiting long-term disability/impact).
+
+---
+
+## Lecture 2: Man-Made Disasters, NDMA, and Bioterrorism {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 2** · **CM13.L2**
+
+*Man-made disasters, National Disaster Management Authority and
+bioterrorism*
 
 ---
 

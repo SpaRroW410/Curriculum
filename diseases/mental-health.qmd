@@ -46,6 +46,14 @@ right, not an afterthought to physical disease.
 
 ---
 
+## Lecture 1: Mental Health Concept and Warning Signals {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 4** · **CM15.L1**
+
+*Mental health - concept and warning signals of mental ill health*
+
+---
+
 ## What Is Mental Health? {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -80,6 +88,14 @@ diagnosable mental disorder never receive any formal treatment.
 
 ---
 
+## Lecture 2: Types and Causes of Mental Illness {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 4** · **CM15.L2**
+
+*Types and causes of mental illness; preventive aspects*
+
+---
+
 ## Levels of Prevention Applied to Mental Health {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -98,6 +114,14 @@ general preventive medicine (nutrition, antenatal care, occupational
 safety) — mental health primary prevention is rarely "mental-health
 specific" at the intervention level, even though the *outcome* it
 protects is specifically psychiatric.
+
+---
+
+## Lecture 3: NMHP, DMHP, Tele-MANAS, and MHCA {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 4** · **CM15.L3**
+
+*NMHP, DMHP, Tele-MANAS and the Mental Healthcare Act 2017*
 
 ---
 
@@ -161,6 +185,45 @@ India's Mental Healthcare Act (2017) shifted the legal framework toward a
 **Effect of Section 115:** it doesn't formally repeal the underlying
 IPC provision, but makes prosecution for a suicide attempt practically
 impossible, reframing it as a health issue rather than a crime.
+
+---
+
+## Lecture 4: Alcoholism and Drug Dependence {background-color="#E6EEF5"}
+
+📚 **Lecture 4 of 4** · **CM15.L4**
+
+*Alcoholism and drug dependence*
+
+---
+
+## Alcoholism and Drug Dependence {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Substance use disorders sit on a **spectrum**, not a single fixed
+state:
+
+- **Use → Harmful use → Dependence** — dependence is marked by
+  **tolerance** (needing more for the same effect), **withdrawal**
+  symptoms on stopping, and compulsive use despite known harm
+- **CAGE questionnaire** — a simple 4-item screening tool for
+  problem drinking (**C**ut down, **A**nnoyed by criticism, **G**uilty
+  about drinking, **E**ye-opener drink) — 2 or more "yes" answers
+  suggests a likely alcohol use disorder
+- **Drug dependence** — opioids, cannabis, and other psychoactive
+  substances follow the same use→dependence spectrum as alcohol;
+  India's **National Drug Dependence Treatment Programme (NDDTP)**
+  provides de-addiction and rehabilitation services
+- **Legal framework:** the **Narcotic Drugs and Psychotropic
+  Substances (NDPS) Act, 1985** regulates and penalizes
+  non-medical drug production, possession, and trafficking in India
+
+**Levels of prevention applied here:** primary (life-skills education,
+restricting availability), secondary (CAGE-style screening for early
+identification), tertiary (de-addiction centres, relapse-prevention
+counselling) — the same three-tier framework from Chapter 2 (and this
+chapter's own levels-of-prevention section above), applied specifically
+to substance use.
 
 ---
 

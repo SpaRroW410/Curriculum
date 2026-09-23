@@ -46,6 +46,15 @@ family planning policy.
 
 ---
 
+## Lecture 1: Demography and the Demographic Cycle {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 3** · **CM9.L1**
+
+*Demography and demographic cycle; world and India trends;
+population explosion*
+
+---
+
 ## The Demographic Transition Model {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -66,6 +75,14 @@ in **four stages**:
 describe a Stage 5, where birth rate falls *below* death rate, causing
 population decline — not part of the classical four-stage model but
 increasingly relevant.
+
+---
+
+## Lecture 2: Demographic Indicators and Fertility Statistics {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 3** · **CM9.L2**
+
+*Demographic indicators, sex ratio and fertility-related statistics*
 
 ---
 
@@ -118,6 +135,15 @@ key distinguishing feature between the two.
 
 ---
 
+## Lecture 3: Sources of Vital Statistics and NPP {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 3** · **CM9.L3**
+
+*Sources of vital statistics (Census, SRS, CRS, NFHS, NSSO);
+National Population Policy*
+
+---
+
 ## Sources of Vital Statistics {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -148,9 +174,32 @@ India draws on several distinct, complementary sources rather than one:
 the demographic indicators these sources track over time, alongside the
 rates already covered.
 
-**National Population Policy** context is covered on the next slides;
-these sources are what supply the data such policy targets are measured
-against.
+---
+
+## National Population Policy 2000 {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's **National Population Policy (NPP) 2000** set its goals around:
+
+- Addressing **unmet need for contraception**
+- Providing free and compulsory school education up to age 14
+- Reducing infant and maternal mortality
+- Achieving **population stabilization by 2045**
+
+NPP 2000 implementation was later integrated with the **National Rural
+Health Mission** (launched 2005) as the operational vehicle for delivering
+its goals, connecting demography policy directly to the health-systems
+architecture from Chapter 11.
+
+---
+
+## Lecture 1: Family Planning Concepts {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 5** · **CM10-FP.L1**
+
+*Family planning - concepts, eligible couples, couple protection
+rate; methods of population control*
 
 ---
 
@@ -169,6 +218,22 @@ requirements of the national economy."
   Emergency period, the new government's population policy explicitly
   **ruled out compulsion**, making the programme purely **voluntary** —
   a landmark and lasting policy shift
+
+---
+
+## Lecture 2: Spacing Methods I {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 5** · **CM10-FP.L2**
+
+*Spacing methods I - barrier methods and intrauterine devices*
+
+---
+
+## Lecture 3: Spacing Methods II {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 5** · **CM10-FP.L3**
+
+*Spacing methods II - hormonal and emergency contraception*
 
 ---
 
@@ -203,21 +268,11 @@ planning described on the next slide.
 
 ---
 
-## National Population Policy 2000 {background-color="#FFF6DA"}
+## Lecture 4: Terminal Methods, MTP, and PC-PNDT Acts {background-color="#E6EEF5"}
 
-🟡 **SHOULD KNOW**
+📚 **Lecture 4 of 5** · **CM10-FP.L4**
 
-India's **National Population Policy (NPP) 2000** set its goals around:
-
-- Addressing **unmet need for contraception**
-- Providing free and compulsory school education up to age 14
-- Reducing infant and maternal mortality
-- Achieving **population stabilization by 2045**
-
-NPP 2000 implementation was later integrated with the **National Rural
-Health Mission** (launched 2005) as the operational vehicle for delivering
-its goals, connecting demography policy directly to the health-systems
-architecture from Chapter 11.
+*Terminal and post-conceptional methods; MTP and PC-PNDT Acts*
 
 ---
 
@@ -247,32 +302,47 @@ mandates confidentiality of the woman's identity.
 
 ---
 
-## The PC-PNDT Act and Mission Parivar Vikas {background-color="#FFF6DA"}
+## The PC-PNDT Act {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-Two further legal/programmatic tools shape India's family planning and
-sex-ratio landscape, distinct from the MTP Act above:
+**Pre-Conception and Pre-Natal Diagnostic Techniques (PC-PNDT) Act,
+1994** — prohibits **sex selection** before or after conception and
+regulates prenatal diagnostic techniques (e.g. ultrasound) to prevent
+their misuse for female foeticide; every diagnostic facility using
+such techniques must be registered, and disclosing the sex of a
+fetus is a punishable offence. Enacted in direct response to India's
+declining child sex ratio.
 
-- **Pre-Conception and Pre-Natal Diagnostic Techniques (PC-PNDT) Act,
-  1994** — prohibits **sex selection** before or after conception and
-  regulates prenatal diagnostic techniques (e.g. ultrasound) to prevent
-  their misuse for female foeticide; every diagnostic facility using
-  such techniques must be registered, and disclosing the sex of a
-  fetus is a punishable offence. Enacted in direct response to India's
-  declining child sex ratio.
-- **Mission Parivar Vikas** — a targeted family-planning initiative
-  focused on **146 high-fertility districts** across seven states with
-  the highest total fertility rates, aiming to accelerate access to
-  contraceptives and family-planning services precisely where the
-  demographic-transition progress described earlier in this chapter
-  has lagged furthest behind the national average.
+---
 
-**Why these are taught together:** PC-PNDT protects against a
-distortion in family size *composition* (sex-selective practices),
-while Mission Parivar Vikas addresses geographic disparity in family
-size *itself* — both refine the broad national family planning
-programme into more targeted interventions.
+## Lecture 5: National Family Welfare Programme {background-color="#E6EEF5"}
+
+📚 **Lecture 5 of 5** · **CM10-FP.L5**
+
+*National Family Welfare Programme and Mission Parivar Vikas*
+
+---
+
+## National Family Welfare Programme and Mission Parivar Vikas {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Mission Parivar Vikas** — a targeted family-planning initiative
+focused on **146 high-fertility districts** across seven states with
+the highest total fertility rates, aiming to accelerate access to
+contraceptives and family-planning services precisely where the
+demographic-transition progress described earlier in this chapter
+has lagged furthest behind the national average — the current
+operational phase of India's broader **National Family Welfare
+Programme** (the renamed continuation of the family planning
+programme whose 1952 origins opened this section).
+
+**Why PC-PNDT and Mission Parivar Vikas are taught close together:**
+PC-PNDT protects against a distortion in family size *composition*
+(sex-selective practices), while Mission Parivar Vikas addresses
+geographic disparity in family size *itself* — both refine the broad
+national family planning programme into more targeted interventions.
 
 ---
 

@@ -47,6 +47,14 @@ and that Chapter 5 (Screening) will use to evaluate tests.
 
 ---
 
+## Lecture 1: Definition, Aims, and Uses {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 15** · **CM7.L1**
+
+*Epidemiology - definition, aims, epidemiological approach and uses*
+
+---
+
 ## What Is Epidemiology? {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -79,6 +87,14 @@ Three ideas packed into this definition:
 
 ---
 
+## Lecture 2: Rates, Ratios, and Mortality {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 15** · **CM7.L2**
+
+*Rates, ratios and proportions; measurement of mortality*
+
+---
+
 ## Ratio, Proportion, and Rate {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -94,6 +110,14 @@ These three terms are frequently confused but are mathematically distinct:
 **Example:** "3 males per 2 females" is a *ratio*; "60% of the class is
 male" is a *proportion*; "12 new cases per 1,000 population per year" is
 a *rate*.
+
+---
+
+## Lecture 3: Measurement of Morbidity {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 15** · **CM7.L3**
+
+*Measurement of morbidity - incidence and prevalence*
 
 ---
 
@@ -147,6 +171,50 @@ whole exposure episode rather than per year. **Secondary attack rate** —
 new cases among *contacts* of a primary case, within the incubation
 period — is covered with outbreak measures in Communicable Diseases
 (Chapter 6).
+
+---
+
+## Lecture 4: Standardisation and Data Sources {background-color="#E6EEF5"}
+
+📚 **Lecture 4 of 15** · **CM7.L4**
+
+*Standardisation of rates; sources of epidemiological data*
+
+---
+
+## Standardisation of Rates {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Crude rates (Chapter 3) can't be compared fairly between populations
+with different age structures — **standardisation** adjusts for this,
+using either the **direct method** (applying each population's actual
+rates to one shared "standard" population) or the **indirect method**
+(applying a standard population's rates to the study population, when
+age-specific rates for the study group aren't available — the basis
+of the **Standardized Mortality Ratio**). Covered with full worked
+examples in [Chapter 4](../foundations/epidemiologic-methods.qmd)'s
+"Standardization: Direct and Indirect Methods" section.
+
+**Sources of epidemiological data:**
+
+- **Routine sources** — civil registration (births/deaths), hospital
+  records, disease notification/surveillance systems (IDSP/IHIP,
+  Chapter 6)
+- **Periodic sources** — the Census, large sample surveys (NFHS, SRS —
+  Chapter 13)
+- **Ad hoc sources** — purpose-designed epidemiological studies (case-
+  control, cohort — covered next) run specifically to answer one
+  research question, when routine/periodic sources don't already
+  contain the needed data
+
+---
+
+## Lecture 5: Descriptive Epidemiology {background-color="#E6EEF5"}
+
+📚 **Lecture 5 of 15** · **CM7.L5**
+
+*Descriptive epidemiology - time, place and person*
 
 ---
 

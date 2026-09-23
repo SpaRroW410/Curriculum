@@ -47,6 +47,14 @@ throughout this series.
 
 ---
 
+## Lecture 1 (continued): Chickenpox {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 28** · **CM8-CD.L1**
+
+*Smallpox eradication (covered in [Chapter 6](../communicable-diseases.html)); chickenpox*
+
+---
+
 ## Chickenpox (Varicella) {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -60,6 +68,14 @@ respiratory droplets and direct vesicle contact. A live attenuated
 varicella vaccine exists but sits outside India's Universal
 Immunization Programme (available privately). Reactivation of latent
 virus later in life causes **herpes zoster (shingles)**.
+
+---
+
+## Lectures 2 & 3: Measles, Rubella, and Mumps {background-color="#E6EEF5"}
+
+📚 **Lectures 2 & 3 of 28** · **CM8-CD.L2 / L3**
+
+*L2: Measles and measles-rubella elimination · L3: Rubella and mumps*
 
 ---
 
@@ -87,6 +103,15 @@ burden and CRS prevention) at once.
 
 ---
 
+## Lectures 5 & 6: Diphtheria, Pertussis, and Meningitis {background-color="#E6EEF5"}
+
+📚 **Lectures 5 & 6 of 28** · **CM8-CD.L5 / L6**
+
+*L5: Diphtheria and pertussis · L6: Meningococcal meningitis; acute
+respiratory infection and SAANS*
+
+---
+
 ## Diphtheria, Pertussis, and Meningococcal Meningitis {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -108,6 +133,15 @@ of under-five mortality — India's **SAANS** initiative (Social
 Awareness and Action to Neutralize Pneumonia Successfully) specifically
 targets childhood pneumonia reduction, extending the Under-Five
 Clinic's curative-care role (Chapter 14) to this single leading cause.
+
+---
+
+## Lectures 4 & 7: Influenza and COVID-19 {background-color="#E6EEF5"}
+
+📚 **Lectures 4 & 7 of 28** · **CM8-CD.L4 / L7**
+
+*L4: Influenza, including avian influenza and pandemic potential ·
+L7: COVID-19 and SARS*
 
 ---
 
@@ -136,6 +170,16 @@ its PHEIC mechanism were designed to manage.
 
 ---
 
+## Lecture 26: Tetanus, Trachoma, Yaws, and STIs {background-color="#E6EEF5"}
+
+📚 **Lecture 26 of 28** · **CM8-CD.L26**
+
+*Tetanus, trachoma, yaws and sexually transmitted infections (STIs
+covered in [Module 8](module8_hiv_stis.html); trachoma/yaws in the
+reference table below)*
+
+---
+
 ## Neonatal Tetanus Elimination {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -158,6 +202,16 @@ causes **neonatal tetanus**.
 **Why it belongs alongside RCH content:** MNTE is as much a maternal/
 newborn care success (Chapter 14's antenatal and essential newborn
 care content) as it is a vaccine-preventable disease story.
+
+---
+
+## Lectures 22 & 23: Zoonoses and Neglected Infections {background-color="#E6EEF5"}
+
+📚 **Lectures 22 & 23 of 28** · **CM8-CD.L22 / L23**
+
+*L22 (continued): human salmonellosis (yellow fever/plague/lepto/
+brucellosis in [Module 11](module11_rabies_zoonoses.html)) · L23:
+Rickettsial diseases (scrub typhus), taeniasis and hydatid disease*
 
 ---
 

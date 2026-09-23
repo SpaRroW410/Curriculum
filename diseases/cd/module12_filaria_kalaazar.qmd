@@ -43,6 +43,14 @@ disease-specific elimination-programme model.
 
 ---
 
+## Lecture 19: Lymphatic Filariasis and Elimination {background-color="#E6EEF5"}
+
+📚 **Lecture 19 of 28** · **CM8-CD.L19**
+
+*Lymphatic filariasis and its elimination (MDA / IDA)*
+
+---
+
 ## Lymphatic Filariasis: Agent and Pathogenesis {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -103,6 +111,15 @@ chosen strategy.
   programme aims for elimination as a public health problem, verified
   by sustained microfilaria rates below threshold after repeated MDA
   rounds
+
+---
+
+## Lecture 20 (continued): Kala-azar {background-color="#E6EEF5"}
+
+📚 **Lecture 20 of 28** · **CM8-CD.L20**
+
+*Kala-azar (JE/Zika/KFD covered in
+[Module 10](module10_vector_borne_fevers.html))*
 
 ---
 

@@ -43,6 +43,14 @@ module pairs the clinical/programmatic detail with that context.
 
 ---
 
+## Lecture 24: Leprosy Epidemiology and Classification {background-color="#E6EEF5"}
+
+📚 **Lecture 24 of 28** · **CM8-CD.L24**
+
+*Leprosy I - epidemiology and classification*
+
+---
+
 ## Agent, Transmission, and Classification {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -107,6 +115,14 @@ deformity if not caught early:
 damage that has already occurred by the time it's visible — this is
 why active case-finding (next slide) aims to catch cases at Grade 0/1,
 before irreversible damage sets in.
+
+---
+
+## Lecture 25: NLEP and SPARSH {background-color="#E6EEF5"}
+
+📚 **Lecture 25 of 28** · **CM8-CD.L25**
+
+*Leprosy II - NLEP and the SPARSH campaign*
 
 ---
 

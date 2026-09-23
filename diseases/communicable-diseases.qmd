@@ -49,6 +49,15 @@ Diseases section of the curriculum.
 
 ---
 
+## Lecture 10: Infectious Disease Dynamics and Transmission {background-color="#E6EEF5"}
+
+📚 **Lecture 10 of 15** · **CM7.L10**
+
+*Infectious disease epidemiology - dynamics and modes of
+transmission*
+
+---
+
 ## The Chain of Infection {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -232,6 +241,14 @@ control:
 
 ---
 
+## Lecture 11: Immunity and Immunising Agents {background-color="#E6EEF5"}
+
+📚 **Lecture 11 of 15** · **CM7.L11**
+
+*Immunity and immunising agents*
+
+---
+
 ## Types of Vaccines {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -250,6 +267,14 @@ administration:
 **Exam tip:** live vaccines are generally contraindicated in pregnancy
 and immunocompromised individuals, since the attenuated organism can
 still replicate.
+
+---
+
+## Lecture 12: Disease Prevention, Control, and Disinfection {background-color="#E6EEF5"}
+
+📚 **Lecture 12 of 15** · **CM7.L12**
+
+*Disease prevention and control; disinfection*
 
 ---
 
@@ -321,6 +346,14 @@ primary case:
 Related concept — **incubation period**: the time between exposure to an
 infectious agent and the first appearance of symptoms; it determines how
 long quarantine should last.
+
+---
+
+## Lecture 13: Epidemic Investigation and Surveillance {background-color="#E6EEF5"}
+
+📚 **Lecture 13 of 15** · **CM7.L13**
+
+*Investigation of an epidemic; surveillance (IDSR / IHIP)*
 
 ---
 
@@ -396,6 +429,14 @@ Or browse the [module hub](cd.html) for an overview of all six.
 
 ---
 
+## Lecture: Emerging Infections and AMR {background-color="#E6EEF5"}
+
+📚 **CM20.1-20.3, Lecture 1 of 3** · **CM20.2**
+
+*Emerging and re-emerging infections; antimicrobial resistance*
+
+---
+
 ## Emerging and Re-emerging Infections {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
@@ -409,6 +450,54 @@ Or browse the [module hub](cd.html) for an overview of all six.
 Both categories are driven by similar factors: urbanization, travel,
 climate change, land-use change, and breakdowns in public health
 infrastructure.
+
+**Antimicrobial resistance (AMR)** is itself both a driver of
+re-emergence (drug-resistant TB, gonorrhoea) and a public health
+threat in its own right — covered in depth, including the One
+Health framing of AMR spread through water and livestock, in the
+[One Health module](../environment/env_health/module1_one_health.html).
+
+---
+
+## Lecture: Recent Public Health Events {background-color="#E6EEF5"}
+
+📚 **CM20.1-20.3, Lecture 2 of 3** · **CM20.1/CM20.3**
+
+*Important public health events of the last five years; issues
+during outbreaks*
+
+---
+
+## Recent Public Health Events {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Beyond COVID-19 (covered in the CD modules), recent public health
+events worth being able to discuss:
+
+- **Mpox (monkeypox)** — declared a Public Health Emergency of
+  International Concern (PHEIC) in 2022 and again in 2024, illustrating
+  the PHEIC mechanism (Chapter 26) in real time
+- **Nipah virus outbreaks** (Kerala, recurring since 2018) — a
+  bat-borne zoonosis with high case-fatality, testing India's rapid
+  outbreak-response systems
+- **Zika virus** — periodic clusters in India, relevant to the vector-
+  borne disease content in this module
+
+**Common issues during outbreaks:** delayed reporting, public
+misinformation, supply-chain strain on PPE/vaccines/diagnostics, and
+balancing containment measures against economic/social disruption —
+the same operational challenges the 10-step outbreak investigation
+above is designed to manage systematically rather than reactively.
+
+---
+
+## Lecture 1: Smallpox Eradication {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 28** · **CM8-CD.L1**
+
+*Smallpox eradication; chickenpox (chickenpox covered in
+[Module 13](cd/module13_other_infections.html))*
 
 ---
 

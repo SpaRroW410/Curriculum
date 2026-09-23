@@ -294,6 +294,50 @@ The sanitary revolution (clean water, sewage systems) in Europe and North Americ
 
 ---
 
+## Lecture 6: Meteorological Environment {background-color="#E6EEF5"}
+
+📚 **Lecture 6 of 11** · **CM3.L6**
+
+*Meteorological environment; climate change and health*
+
+---
+
+## The Meteorological Environment {.smaller}
+
+### Climate, Pressure, and Health
+
+Beyond water, air quality, and sanitation, the broader **meteorological
+environment** — atmospheric pressure, temperature, humidity, rainfall,
+wind — also affects health.
+
+**Atmospheric pressure:** averages 760 mm Hg at sea level ("one
+atmosphere"), falling with altitude and rising with depth (by one
+atmosphere per ~33 feet below sea level).
+
+- **High altitude:** **Acute Mountain Sickness** (headache, insomnia,
+  breathlessness, nausea — transient and common) can progress to **High
+  Altitude Pulmonary Oedema** (cough, confusion, coma — rare below
+  12,000 ft, does not respond to antibiotics)
+- **Low altitude / increased pressure (diving, caissons):** excess
+  dissolved nitrogen causes narcosis; rapid ascent releases dissolved
+  gas from blood, causing **air embolism** (decompression/Caisson
+  disease)
+
+**Air temperature** varies with latitude, altitude, wind direction, and
+proximity to the sea — the same physical factors that, together with
+humidity and air movement, determine the "cooling power" covered in
+Chapter 2 (Air and Health).
+
+---
+
+## Lecture 7: Housing Standards {background-color="#E6EEF5"}
+
+📚 **Lecture 7 of 11** · **CM3.L7**
+
+*Standards of housing and the effect of housing on health*
+
+---
+
 ## Healthful Housing {.smaller}
 
 ### Standards, Overcrowding, and Health Effects
@@ -330,6 +374,48 @@ Ministry of Works and Housing in 1952.
 
 ---
 
+## Lecture 8: Solid Waste Disposal {background-color="#E6EEF5"}
+
+📚 **Lecture 8 of 11** · **CM3.L8**
+
+*Solid waste - sources, storage, collection and methods of disposal*
+
+---
+
+## Solid Waste Disposal {.smaller}
+
+### Municipal Refuse: Sources, Storage, and Methods
+
+Distinct from the biomedical/hospital waste covered in Chapter 17 —
+this is **municipal solid waste**: garbage, rubbish, demolition debris,
+sewage sludge, and other discarded material from streets, markets,
+stables, industry, and homes.
+
+**Why unmanaged waste is a health hazard:** favours fly breeding,
+attracts rodents, can carry pathogens back to food via flies/dust, risks
+water/soil pollution, and creates odour/aesthetic nuisance.
+
+**Principal disposal methods:**
+
+- **Dumping** — cheap but condemned by a WHO Expert Committee (1967) as
+  "a most insanitary method that creates public health hazards" —
+  exposes refuse to flies/rodents, pollutes water via drainage, and
+  should be phased out
+- **Controlled tipping (sanitary landfill)** — the improved alternative:
+  refuse compacted and covered with soil in layers
+- **Incineration, composting, manure pits, burial** — chosen based on
+  local cost, land availability, and labour
+
+---
+
+## Lecture 9: Excreta Disposal and Sewage Treatment {background-color="#E6EEF5"}
+
+📚 **Lecture 9 of 11** · **CM3.L9**
+
+*Excreta disposal and sewage treatment*
+
+---
+
 ## Excreta Disposal and Sewerage {.smaller}
 
 ### From Service Latrines to Water-Carriage Systems
@@ -358,29 +444,12 @@ final disposal (sea/river outfall, sewage farming, oxidation ponds).
 
 ---
 
-## Solid Waste Disposal {.smaller}
+## Lecture 10: Medical Entomology {background-color="#E6EEF5"}
 
-### Municipal Refuse: Sources, Storage, and Methods
+📚 **Lecture 10 of 11** · **CM3.L10**
 
-Distinct from the biomedical/hospital waste covered in Chapter 17 —
-this is **municipal solid waste**: garbage, rubbish, demolition debris,
-sewage sludge, and other discarded material from streets, markets,
-stables, industry, and homes.
-
-**Why unmanaged waste is a health hazard:** favours fly breeding,
-attracts rodents, can carry pathogens back to food via flies/dust, risks
-water/soil pollution, and creates odour/aesthetic nuisance.
-
-**Principal disposal methods:**
-
-- **Dumping** — cheap but condemned by a WHO Expert Committee (1967) as
-  "a most insanitary method that creates public health hazards" —
-  exposes refuse to flies/rodents, pollutes water via drainage, and
-  should be phased out
-- **Controlled tipping (sanitary landfill)** — the improved alternative:
-  refuse compacted and covered with soil in layers
-- **Incineration, composting, manure pits, burial** — chosen based on
-  local cost, land availability, and labour
+*Medical entomology: vectors of public health importance, life
+cycles and principles of control*
 
 ---
 
@@ -464,6 +533,15 @@ spraying (chemical control) used to supplement rather than replace them.
 
 ---
 
+## Lecture 11: Insecticides and Rodenticides {background-color="#E6EEF5"}
+
+📚 **Lecture 11 of 11** · **CM3.L11**
+
+*Insecticides and rodenticides - mode of action and application
+cycle*
+
+---
+
 ## Insecticides and Rodenticides: Classification {.smaller}
 
 ### By Mode of Entry and Chemical Group
@@ -503,34 +581,6 @@ insecticide's binding site, e.g., knockdown resistance to pyrethroids).
 Resistance is a major operational constraint on vector control
 programmes, driving rotation between insecticide classes and renewed
 emphasis on non-chemical (environmental, biological) methods.
-
----
-
-## The Meteorological Environment {.smaller}
-
-### Climate, Pressure, and Health
-
-Beyond water, air quality, and sanitation, the broader **meteorological
-environment** — atmospheric pressure, temperature, humidity, rainfall,
-wind — also affects health.
-
-**Atmospheric pressure:** averages 760 mm Hg at sea level ("one
-atmosphere"), falling with altitude and rising with depth (by one
-atmosphere per ~33 feet below sea level).
-
-- **High altitude:** **Acute Mountain Sickness** (headache, insomnia,
-  breathlessness, nausea — transient and common) can progress to **High
-  Altitude Pulmonary Oedema** (cough, confusion, coma — rare below
-  12,000 ft, does not respond to antibiotics)
-- **Low altitude / increased pressure (diving, caissons):** excess
-  dissolved nitrogen causes narcosis; rapid ascent releases dissolved
-  gas from blood, causing **air embolism** (decompression/Caisson
-  disease)
-
-**Air temperature** varies with latitude, altitude, wind direction, and
-proximity to the sea — the same physical factors that, together with
-humidity and air movement, determine the "cooling power" covered in
-Chapter 2 (Air and Health).
 
 ---
 

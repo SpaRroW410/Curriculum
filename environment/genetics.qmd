@@ -47,6 +47,14 @@ curriculum's final six chapters.
 
 ---
 
+## Lecture 15: Genetics and Health {background-color="#E6EEF5"}
+
+📚 **Lecture 15 of 16** · **CM8-NCD.L15**
+
+*Genetics and health - classification and preventive measures*
+
+---
+
 ## Modes of Inheritance {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -104,6 +112,16 @@ counseling contributes to **reducing the genetic burden of disease in
 the community over time** — a population-level goal, not just an
 individual clinical service, consistent with community medicine's
 broader shift in unit of concern (Chapter 6) from patient to population.
+
+---
+
+## Lecture 16: Sickle Cell, Thalassaemia, and NSCAEM {background-color="#E6EEF5"}
+
+📚 **Lecture 16 of 16** · **CM8-NCD.L16**
+
+*Sickle cell disease, thalassaemia and the National Sickle Cell
+Anaemia Elimination Mission (sickle cell/NSCAEM covered in full in
+[Chapter 15](../programs/tribal-health.html))*
 
 ---
 

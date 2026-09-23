@@ -51,6 +51,22 @@ from epidemiology itself.
 
 ---
 
+## Lecture 1: Introduction to Biostatistics {background-color="#E6EEF5"}
+
+📚 **Lecture 1 of 8** · **CM6.L1**
+
+*Introduction to biostatistics; formulating a research question*
+
+---
+
+## Lecture 2: Data Collection and Classification {background-color="#E6EEF5"}
+
+📚 **Lecture 2 of 8** · **CM6.L2**
+
+*Data - collection, classification and tabulation*
+
+---
+
 ## Types of Data {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -73,6 +89,14 @@ of data you have:
 follows — which measure of central tendency is meaningful, which chart
 type applies, and which test of significance is valid for that data
 type.
+
+---
+
+## Lecture 3: Charts, Diagrams, and Statistical Maps {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 8** · **CM6.L3**
+
+*Charts and diagrams; statistical maps*
 
 ---
 
@@ -105,6 +129,14 @@ represent a continuous scale with no natural gaps between categories.
 
 ---
 
+## Lecture 4: Measures of Central Tendency {background-color="#E6EEF5"}
+
+📚 **Lecture 4 of 8** · **CM6.L4**
+
+*Measures of central tendency*
+
+---
+
 ## Measures of Central Tendency {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -123,6 +155,14 @@ different circumstances:
 **Choosing between them:** symmetric, non-skewed continuous data → mean;
 skewed continuous data or data with outliers → median; categorical data
 → mode.
+
+---
+
+## Lecture 5: Dispersion and Normal Distribution {background-color="#E6EEF5"}
+
+📚 **Lecture 5 of 8** · **CM6.L5**
+
+*Measures of dispersion; normal distribution*
 
 ---
 
@@ -168,6 +208,14 @@ bell-shaped curve with defining properties:
 — knowing the mean and SD of a normally distributed variable tells you,
 without seeing the raw data, roughly what range most values fall in,
 and what counts as an unusually extreme value.
+
+---
+
+## Lecture 6: Sampling Techniques and Sample Size {background-color="#E6EEF5"}
+
+📚 **Lecture 6 of 8** · **CM6.L6**
+
+*Sampling techniques and basic concepts of sample size*
 
 ---
 
@@ -224,6 +272,14 @@ association exists.
 
 ---
 
+## Lecture 7: Tests of Significance I {background-color="#E6EEF5"}
+
+📚 **Lecture 7 of 8** · **CM6.L7**
+
+*Tests of significance I - standard error, z test and t test*
+
+---
+
 ## Standard Error and Confidence Intervals {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -263,6 +319,15 @@ observed difference larger than what chance alone would produce?
 larger) if there were truly no difference in the population; by
 convention, **p < 0.05** is considered statistically significant — but
 statistical significance is not the same as clinical importance.
+
+---
+
+## Lecture 8: Tests of Significance II {background-color="#E6EEF5"}
+
+📚 **Lecture 8 of 8** · **CM6.L8**
+
+*Tests of significance II - chi-square test, correlation and
+regression*
 
 ---
 

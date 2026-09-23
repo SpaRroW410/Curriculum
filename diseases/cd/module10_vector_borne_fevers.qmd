@@ -43,6 +43,14 @@ here, since several of these diseases share the same *Aedes* vector.
 
 ---
 
+## Lecture 16: Dengue and Chikungunya {background-color="#E6EEF5"}
+
+📚 **Lecture 16 of 28** · **CM8-CD.L16**
+
+*Dengue and chikungunya*
+
+---
+
 ## Dengue: Clinical Spectrum {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -108,6 +116,16 @@ can even co-infect the same patient.
 "that which bends up," describing the stooped posture caused by its
 characteristic severe joint pain — the single most useful clinical
 differentiator from dengue at the bedside.
+
+---
+
+## Lecture 20: JE, Zika, and KFD {background-color="#E6EEF5"}
+
+📚 **Lecture 20 of 28** · **CM8-CD.L20**
+
+*Japanese encephalitis, Zika virus disease, Kyasanur forest disease
+and kala-azar (kala-azar covered in
+[Module 12](module12_filaria_kalaazar.html))*
 
 ---
 
