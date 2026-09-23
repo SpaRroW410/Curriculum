@@ -271,6 +271,31 @@ slide only places it on the timeline.)*
 
 ---
 
+## John Snow: Father of Epidemiology {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+:::: {.columns}
+::: {.column width="30%"}
+![John Snow (1813–1858)](../images/man-and-medicine/john_snow.svg){.slide-img .nostretch width="180px"}
+:::
+
+::: {.column width="70%"}
+- English physician who traced London's 1854 cholera outbreak in Soho to
+  a single contaminated water source
+- Plotted cases on a **spot map** centred on the **Broad Street pump**,
+  showing deaths clustering around it
+- Convinced local authorities to remove the pump handle, ending the
+  outbreak — decades before germ theory explained *why* it worked
+- Showed that disease could be tracked and controlled through
+  **systematic observation and mapping**, not just laboratory science
+- Widely regarded as the founding figure of modern epidemiology and
+  disease mapping
+:::
+::::
+
+---
+
 ## The Social Gradient of Health {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
