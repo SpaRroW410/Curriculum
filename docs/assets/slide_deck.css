@@ -260,7 +260,15 @@
   border: 2px solid #ddd;
   border-radius: 5px;
   cursor: pointer;
-  transition: all 0.2s;
+  /* Scoped to color/background only -- "all" here previously also
+     animated font-size/padding/margin, which fights the autosize plugin:
+     it measures scrollHeight right after setting an em-based font-size on
+     the slide, but with `all` these options would visually keep resizing
+     for 0.2s afterward, so the measurement (and thus the fit decision)
+     went stale before the animation finished, producing intermittent
+     quiz text overflow past the footer -- most noticeable when
+     revisiting an already-answered question. */
+  transition: background-color 0.2s, border-color 0.2s;
   opacity: 1; /* Force visibility by default */
   color: #222;
 }

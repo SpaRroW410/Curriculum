@@ -99,16 +99,36 @@ window.RevealAutoSize = function () {
         }
       }
 
-      deck.on("ready", fitCurrentSlide);
-      deck.on("slidechanged", fitCurrentSlide);
-      deck.on("resize", fitCurrentSlide);
+      // Safety net: verify once more shortly after every fit, in case
+      // something outside our control (a web font swapping in, a CSS
+      // transition on some slide element that keeps animating after our
+      // synchronous measurement -- see .quiz-question li in
+      // slide_deck.css, whose `transition: all` used to race exactly this
+      // measurement and cause intermittent quiz text overflow) still
+      // nudges the content size after our pass above. Idempotent and
+      // cheap if nothing changed.
+      var verifyTimer = null;
+      function fitCurrentSlideAndVerify() {
+        fitCurrentSlide();
+        if (verifyTimer) {
+          clearTimeout(verifyTimer);
+        }
+        verifyTimer = setTimeout(function () {
+          verifyTimer = null;
+          fitCurrentSlide();
+        }, 300);
+      }
+
+      deck.on("ready", fitCurrentSlideAndVerify);
+      deck.on("slidechanged", fitCurrentSlideAndVerify);
+      deck.on("resize", fitCurrentSlideAndVerify);
 
       // The quiz plugin inserts feedback/explanation text into the current
       // slide well after the fit passes above have already run (on option
       // click, not on slidechanged/resize), which can overflow past the
       // footer. Expose a manual re-fit hook it can call once it has
       // finished updating the DOM.
-      window.__revealAutosizeRefit = fitCurrentSlide;
+      window.__revealAutosizeRefit = fitCurrentSlideAndVerify;
     },
   };
 };
