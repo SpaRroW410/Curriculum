@@ -53,8 +53,10 @@ prevention maps onto that process.
 
 📚 **Lecture 1 of 3** · **CM1.L1**
 
-*Concept of health: definitions, dimensions, spectrum, well-being and
-quality-of-life indices (PQLI, HDI)*
+*Naming and scope of community/preventive/social medicine; concept,
+definitions, and dimensions of health; well-being and quality-of-life
+indices (PQLI, HDI); determinants of health; right to health and
+responsibility for health; India's health status*
 
 ---
 
@@ -132,22 +134,22 @@ Each stage didn't replace the one before it — modern health systems practice a
 
 🟢 **MUST KNOW**
 
-Chapter 1 gave the WHO's definition of health. Community medicine
-teaching groups the thinking *behind* that definition into four models:
+The concept of health evolved from a narrow, disease-focused view
+toward an ever-broader one — each model added a layer the earlier
+model could not explain:
 
 | Model | Core idea |
 |---|---|
-| **Biomedical** | Health = absence of disease; rooted in germ theory. Criticized for ignoring social, environmental, and psychological determinants |
-| **Ecological** | Health = a dynamic equilibrium between humans and their environment; disease = a maladjustment to that environment ("imperfect man" meets "imperfect environment") |
+| **Biomedical** | Health = absence of disease; rooted in 19th-century germ theory. Oldest, narrowest — ignores social/environmental/psychological factors |
+| **Ecological** | Health = a dynamic equilibrium between humans and environment; disease = a maladjustment ("imperfect man" meets "imperfect environment") |
 | **Psychosocial** | Health is shaped by social, psychological, cultural, economic, and political factors, not biology alone |
-| **Holistic** | A synthesis of all three — every sector (agriculture, education, housing, industry) affects health; this is the thinking underlying the WHO's 1948 definition |
+| **Holistic** | A synthesis of all three — every sector affects health; the broadest model, underlying the WHO's 1948 definition |
 
-**Exam tip:** the biomedical model is the oldest and narrowest; the
-holistic model is the broadest and is what the WHO definition operationalizes.
+**Exam tip:** biomedical → ecological → psychosocial → holistic is both the historical order and the order of increasing breadth.
 
 ---
 
-## What Is Health? {background-color="#E3F2E1"}
+## WHO's Definition and the Operational Definition of Health {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
 
@@ -159,6 +161,18 @@ This definition has never been formally amended. Two things make it radical for 
 
 - It rejects the purely **biomedical** view (health = absence of disease)
 - It names **three dimensions at once** — physical, mental, social — as jointly necessary
+
+**The "new philosophy" of health:** later thinking reframed health
+from a *state* to be achieved into a **resource for living** — the
+Ottawa Charter (1986) put it directly: *"health is a resource for
+everyday life, not the objective of living."*
+
+**An operational definition** (for measurement and health-system
+planning, since "complete well-being" cannot itself be measured):
+health = the ability of an individual to function normally in the
+roles and tasks for which they have been socialized, assessed through
+**measurable indicators** — mortality, morbidity, disability, and
+functional-capacity data — rather than through the ideal state itself.
 
 ::: notes
 Drafted at the International Health Conference, New York, 1946; the WHO Constitution entered into force on 7 April 1948 (now marked annually as World Health Day).
@@ -172,65 +186,705 @@ Drafted at the International Health Conference, New York, 1946; the WHO Constitu
 
 ::::: columns
 ::: {.column width="50%"}
-**Commonly taught dimensions:**
+**Core dimensions:**
 
 - **Physical** — normal structure and function of the body
 - **Mental** — a state of balance with oneself and one's environment
 - **Social** — harmony with the social fabric: family, community, work
 - **Spiritual** — a sense of purpose, values, or belief
 - **Emotional** — the ability to recognize and appropriately express feelings
+- **Vocational** — satisfaction and productive engagement in one's work or occupation
 :::
 
 ::: {.column width="50%"}
-**Why this matters:**
+**Extended taxonomy (textbooks add):**
 
-A person can be free of diagnosable disease and still not be "healthy" by this definition — e.g. someone who is physically fit but socially isolated or under chronic mental distress.
+- **Philosophical** — a consistent personal philosophy of life
+- **Cultural** — practices and beliefs shaped by one's culture
+- **Socio-economic** — income, occupation, and social standing
+- **Environmental** — the quality of the physical surroundings
+- **Educational** — access to and benefit from education
+- **Nutritional** — adequacy of diet and nutritional status
+- **Curative** — availability of treatment when illness occurs
+- **Preventive** — protection against disease before it occurs
 :::
 :::::
 
----
-
-## The Health–Disease Spectrum {background-color="#E3F2E1"}
-
-🟢 **MUST KNOW**
-
-Health is not a fixed state but a **continuum**, moving in both directions:
-
-`Death → Chronic illness → Disability → Mild sickness → No obvious illness → Positive health`
-
-- **Positive health** is more than "not sick" — it implies resilience and a reserve capacity to cope with physical, biological, and social stress
-- Any individual can move along this spectrum over time; public health aims to shift populations **toward** the positive-health end, not just treat people once they've crossed into illness
+**Why this matters:** a person can be free of diagnosable disease and
+still not be "healthy" by this definition — e.g. someone who is
+physically fit but socially isolated or under chronic mental distress.
 
 ---
 
-## Determinants of Health {background-color="#E3F2E1"}
+## The Spectrum of Health {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
 
-A widely used health-field model groups the determinants of health into four domains:
+Health is not a fixed state but a **continuum**, moving in both directions between death and positive health:
 
-| Domain | Examples |
-|------------------------------------|------------------------------------|
-| **Environment** | safe water, sanitation, housing, air quality, occupational hazards |
-| **Heredity / Biology** | genetic makeup, age, sex, inherited susceptibility to disease |
-| **Lifestyle / Behaviour** | diet, physical activity, tobacco/alcohol use, personal hygiene |
-| **Health services** | access, affordability, and quality of preventive and curative care |
+![The spectrum of health](../images/concept-health-disease/spectrum_of_health.svg){.slide-img .nostretch width="230px"}
 
-**Key implication:** health care services are only *one* of four determinants — and historically not the largest one. Improving population health depends at least as much on environment, behaviour, and social conditions as on hospitals and doctors.
+**Positive health** implies resilience and reserve capacity to cope with stress; public health aims to shift populations **toward** it, not just treat people once they've crossed into illness.
+
+---
+
+## Determinants of Health: The Full Picture {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The classic Blum/Lalonde model names four domains; Indian teaching extends this to eight:
+
+![The determinants of health](../images/concept-health-disease/determinants_wheel.svg){.slide-img .nostretch width="360px"}
+
+**Key implication:** health-care services are only *one* of eight determinants, and historically not the largest.
 
 ::: notes
-This is the Blum / Lalonde-style "health field concept," standard across Indian community-medicine teaching. Different sources add socio-economic and political factors as a fifth domain — mention this as a natural extension in discussion, not a contradiction.
+This is the Blum/Lalonde-style "health field concept," standard across Indian community-medicine teaching, extended with ageing and gender as further recognized determinants (see next slide for the political/developmental dimension).
 :::
 
 ---
 
-## Determinants of Health: A Wider View {background-color="#E8E4F3"}
+## Determinants of Health: Political, Developmental, and Ecological Dimensions {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Political determinants** — resource allocation, manpower policy,
+  and how accessible health services are made to different segments of
+  society are all shaped by a country's political system; WHO's target
+  is ≥5% of GNP spent on health (India currently spends about 2%)
+- **Health and development** — health is not merely an *outcome* of
+  development, it is an *input* to it. Health services are one
+  subsystem within the broader socio-economic system, and human health
+  and well-being are treated as an ultimate goal of development, not a
+  byproduct
+- **Ecology of health** — the ecological model (Four Models slide)
+  frames health as a dynamic balance between man, agent, and
+  environment; a change in any one element (a new pathogen, a polluted
+  water source, a crowded settlement) can tip that balance toward
+  disease
+
+---
+
+## Positive Health and the Relative Concept of Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Positive health** is more than "not sick" — Hippocrates linked it
+  to genetics, diet, and exercise; it predicts longer life, lower
+  health spending, and better prognosis during illness
+- **Wellness** — a state of good health actively pursued through
+  healthy-lifestyle choices — is commonly described across **six
+  dimensions**: physical, emotional, intellectual, social, occupational,
+  and spiritual
+- **Well-being** has two components: a **subjective** one (quality of
+  life — how happy a person feels about their life) and an **objective**
+  one (standard/level of living — income, housing, sanitation,
+  education, and health-care access)
+- **"Relativeness" of health:** health is not one fixed ideal state —
+  it is relative to community, race, and genetic make-up. Example: the
+  average height of Gurkhas from Nepal (~162 cm) is far below that of
+  Scottish highlanders (~180 cm), yet both populations are equally
+  healthy and physically fit for their own build — a reminder not to
+  mistake population variation for disease
+
+---
+
+## Concept of Well-Being: Standard of Living, Level of Living, and Quality of Life {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Three related but distinct terms describe how "doing well" is measured:
+
+| Term | What it measures | Nature |
+|---|---|---|
+| **Standard of living** | The material comfort and wealth a population could or should have — income, possessions, affordability | Normative / aspirational benchmark |
+| **Level of living** | The conditions people actually experience: food, housing, health, education, leisure, social security | Descriptive, measured (e.g. UN's Level-of-Living Index, 9 components) |
+| **Quality of life** | A broader, more subjective measure of life satisfaction and well-being — physical, psychological, and social | Holistic and subjective (WHOQOL) |
+
+**Well-being** itself has two components: a **subjective** one (how
+happy a person feels about their life — quality of life) and an
+**objective** one (standard/level of living — income, housing,
+sanitation, education, and health-care access).
+
+---
+
+## PQLI and HDI: Composition and Formula {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
 
-The four-domain model on the previous slide is the core teaching; textbooks also break determinants into a wider set of interacting domains:
+Two composite indices built to summarize development/well-being in a
+single number:
 
-![Core determinants of health](../images/man-and-medicine/determinants_grid.svg){.slide-img .nostretch width="480px"}
+| Index | Components | Scale |
+|---|---|---|
+| **Physical Quality of Life Index (PQLI)** | Infant mortality + life expectancy at age 1 + literacy, equally weighted | 0 (worst) – 100 (best) |
+| **Human Development Index (HDI)** | Life expectancy at birth + education (mean/expected years of schooling) + GNI per capita (PPP US\$) | 0 – 1 |
+
+Both consolidate outcome measures rather than inputs, and both allow
+country-to-country comparison over time — HDI is the more widely cited
+today (UNDP's Human Development Report).
+
+**Related indices:** the **Human Poverty Index (HPI)**, **Gender-related
+Development Index (GDI)**, and **Gender Empowerment Measure (GEM)**
+extend the same idea to deprivation and gender-specific development —
+all complementary to, not replacements for, PQLI/HDI.
+
+---
+
+## PQLI/HDI Worked Example and India's Current Standing {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+**How HDI is calculated:** HDI is the **geometric mean** of three
+normalized sub-indices, each scaled 0–1 using (actual − minimum) /
+(maximum − minimum):
+
+- **Life Expectancy Index** — from life expectancy at birth
+- **Education Index** — mean years of schooling + expected years of schooling
+- **Income Index** — log of GNI per capita (PPP US\$)
+
+**India's current standing** (UNDP *Human Development Report*, 2025
+edition, using 2023 data):
+
+- **HDI value: 0.685** — up from 0.676 the previous year
+- **Global rank: 130 of 193** countries — improved from rank 133
+- **Category:** Medium Human Development, approaching the High
+  Human Development threshold (HDI ≥ 0.700)
+- **Life expectancy at birth: 72.0 years** — highest ever recorded for India
+- Inequality reduces India's HDI by about **30.7%** when adjusted (the Inequality-adjusted HDI, IHDI)
+
+*Figures retrieved via web search this session; check the latest UNDP report for current numbers.*
+
+---
+
+## Right to Health and Responsibility for Health {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The WHO Constitution was the first instrument to formally recognize
+health as a right: *"the enjoyment of the highest attainable standard of
+health is one of the fundamental rights of every human being, without
+distinction of race, religion, political belief, economic or social
+condition."*
+
+Responsibility for realizing that right is shared across four levels:
+
+- **Individual** — self-care: the health decisions and habits a person
+  controls directly
+- **Community** — participates through manpower/resources, through
+  planning–management–evaluation, and simply by using health services
+- **State** — in India, health is constitutionally a state subject; the Constitution's **Part IV (Directive Principles of State Policy)**, **Article 47**, directs the State to regard "the raising of the level of nutrition and the standard of living of its people and the improvement of public health" as among its primary duties — not legally enforceable in court, but fundamental in governance
+- **International** — cooperation between governments and bodies inside
+  and outside the UN system (e.g. exchange of experts, drugs and
+  supplies, cross-border communicable disease control)
+
+---
+
+## Health Status of India: The NITI Aayog View {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+NITI Aayog's **SDG India Index** tracks the country's progress against
+all 17 Sustainable Development Goals using over 100 national indicators:
+
+- **Overall SDG India Index score (2023–24): 71 / 100** — up from 66
+  in 2020–21 and 57 in the baseline year 2018, moving India toward
+  "Front-Runner" status
+- **SDG 3 (Good Health and Well-being) goal score: 77 / 100** — driven
+  by gains in immunization coverage, institutional deliveries, and
+  rising life expectancy
+
+**Scoring bands:** Aspirant (0–49) · Performer (50–64) ·
+Front-Runner (65–99) · Achiever (100)
+
+*Figures retrieved via web search during this session; check the
+latest NITI Aayog SDG India Index report for the current edition.*
+
+---
+
+## Developed vs Developing Countries: Contrasting Health Profiles {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Feature | Developed countries | Developing countries (e.g. India) |
+|---|---|---|
+| **Disease burden** | Dominated by non-communicable diseases (NCDs) — cardiovascular disease, cancer, diabetes | **Double burden**: persisting communicable diseases alongside a fast-rising NCD burden |
+| **Population structure** | Ageing population; low birth rates | Younger population; birth rate declining but still comparatively high |
+| **Health expenditure** | High, often >8–10% of GDP | Lower, India currently spends approximately 2% of GDP on health |
+| **Maternal and child health** | Low maternal/infant mortality | Higher, though rapidly improving (India's IMR has fallen from 129 in 1971 to 25 in 2023) |
+| **Health infrastructure** | Dense, well-staffed, tertiary-care-heavy | Uneven, concentrated in urban centres, primary-care gaps in rural areas |
+
+Community Medicine in India must address *both* ends of this table at
+once — a double burden of disease layered onto resource constraints.
+
+---
+
+## The Urban–Rural Health Divide {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's health indicators consistently show a gap between urban and
+rural populations. India's **Infant Mortality Rate (IMR), 2023 SRS**:
+
+| Area | IMR (per 1,000 live births) |
+|---|---|
+| **National** | 25 |
+| **Rural** | 28 |
+| **Urban** | 18 |
+
+**Why the gap persists:** lower density and reach of health facilities
+in rural areas, longer travel times to care, lower health-worker
+density, poorer sanitation and water-supply infrastructure in some
+regions, and lower health literacy/awareness — all are determinants
+of health (previous slides) operating unevenly across the urban-rural
+divide.
+
+*Figures from the Sample Registration System (SRS) Statistical Report
+2023, retrieved via web search during this session.*
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 1
+
+According to the WHO Constitution, health is a state of complete physical, mental, and social well-being and:
+
+- A state achieved only after recovering from an illness
+- [Not merely the absence of disease or infirmity]{.correct data-explanation="This is the exact WHO Constitution (1948) wording — health is defined positively, not just as the absence of disease."}
+- The same as having access to good hospitals
+- A purely subjective, unmeasurable feeling
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 2
+
+In the health-field / determinants-of-health model used in this chapter, which of the following is **one of the four** domains?
+
+- Political ideology
+- [Heredity / biology]{.correct data-explanation="The four domains are environment, heredity/biology, lifestyle, and health services."}
+- Climate change policy
+- International trade
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 3
+
+Which stage in the evolution of medicine shifts the unit of concern from the individual patient to the community as a whole?
+
+- Curative medicine
+- Preventive medicine
+- Social medicine
+- [Community medicine / Public health]{.correct data-explanation="Community medicine explicitly treats the community, not the individual patient, as the unit of concern."}
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 4
+
+Community medicine primarily differs from clinical medicine in that it focuses on:
+
+- Individual patient care
+- Hospital-based management
+- [Health of populations]{.correct data-explanation="Clinical medicine focuses on the individual patient; community medicine's unit of concern is the population."}
+- Curative services only
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 5
+
+Which of the following best reflects the scope of community medicine?
+
+- Diagnosis and treatment
+- Rehabilitation only
+- [Prevention, promotion, and protection of health]{.correct data-explanation="Community medicine's scope spans prevention, promotion, and protection of health at the population level — not just diagnosis, treatment, or rehabilitation alone."}
+- Emergency care
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 6
+
+The term "Community Medicine" places its central emphasis on:
+
+- Diagnosis and treatment of individual patients
+- [The community/population as the unit of care, not the individual]{.correct data-explanation="Community Medicine shifts the unit of concern from the individual patient to the community/population as a whole."}
+- Advanced laboratory investigations
+- Hospital bed-occupancy management
+:::
+
+---
+
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 7
+
+A district health officer, on noticing a cluster of diarrhoeal cases in a village, organizes house-to-house surveys, tests drinking-water sources, and conducts health education sessions. This set of activities best illustrates:
+
+- Clinical case management
+- [Applied community medicine practice in the field]{.correct data-explanation="Investigating a cluster at the population level with surveys, environmental testing, and health education is community medicine practice in action."}
+- Hospital infection control
+- Individual patient counselling
+:::
+
+---
+
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 8
+
+The primary purpose of field visits during the Community Medicine posting is to:
+
+- Fulfil attendance requirements only
+- [Study health problems and services in their real community setting]{.correct data-explanation="Field visits let students see community health problems, determinants, and services first-hand, beyond what is taught in the classroom."}
+- Practice surgical procedures
+- Conduct hospital ward rounds
+:::
+
+---
+
+## Self-Check: Question 9 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 9
+
+Community Medicine contributes most directly to national health development by:
+
+- Running private specialty clinics
+- [Planning, implementing, and evaluating public health programmes]{.correct data-explanation="Community Medicine specialists are centrally involved in designing, delivering, and evaluating the public health programmes that drive national health development."}
+- Publishing case reports only
+- Training only surgical residents
+:::
+
+---
+
+## Self-Check: Question 10 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 10
+
+Which of the following are recognized functions of Community Medicine?
+
+- [Prevention and control of disease in populations]{.correct}
+- Marketing pharmaceutical products
+- [Promotion of health through education and intersectoral action]{.correct}
+- Maximizing hospital revenue
+:::
+
+---
+
+## Self-Check: Question 11 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 11
+
+Community Medicine integrates knowledge and methods from which of the following disciplines?
+
+- [Epidemiology and biostatistics]{.correct}
+- [Social and behavioural sciences]{.correct}
+- Corporate financial accounting
+- Automotive engineering
+:::
+
+---
+
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 12
+
+**Assertion (A):** Community Medicine serves as a bridge between clinical medicine and the social sciences.
+
+**Reason (R):** The WHO was founded in 1948 with its headquarters in Geneva.
+
+- A is true, R is false
+- A is false, R is true
+- [Both A and R are true, but R is NOT the correct explanation of A]{.correct data-explanation="Both statements are independently true, but the founding date and location of WHO has nothing to do with explaining why Community Medicine bridges clinical medicine and social sciences."}
+- Both A and R are false
+:::
+
+---
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 13
+
+Which of the following is **NOT** a valid point of difference between curative and preventive medicine?
+
+- Curative medicine treats existing disease; preventive medicine averts future disease
+- [Both curative and preventive medicine are entirely unconcerned with the community]{.correct data-explanation="This statement is false — preventive medicine (and increasingly curative practice) is very much concerned with the community; it is the invalid claim among the options."}
+- Curative medicine is individual-oriented; preventive medicine is population-oriented
+- Curative medicine acts after disease onset; preventive medicine acts before onset
+:::
+
+---
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 14
+
+The physical, mental, and social aspects within the WHO's definition of health are collectively referred to as its:
+
+- Determinants
+- Indicators
+- [Dimensions (subdomains) of health]{.correct}
+- Indices
+:::
+
+---
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 15
+
+Many scholars argue that the original WHO definition of health omits a dimension that has since been widely proposed as a fourth component. Which dimension is this?
+
+- Physical
+- Mental
+- Social
+- [Spiritual]{.correct data-explanation="The original WHO definition names only physical, mental, and social well-being; a spiritual dimension has since been widely proposed as a fourth component, though not formally adopted into the Constitution."}
+:::
+
+---
+
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 16
+
+The most widely cited standard definition of Public Health was given by:
+
+- [C.E.A. Winslow]{.correct}
+- Hippocrates
+- John Snow
+- Edwin Chadwick
+:::
+
+---
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 17
+
+The discipline of "Social Medicine" is chiefly associated with the pioneering work of:
+
+- [Alfred Grotjahn]{.correct}
+- John Snow
+- Edwin Chadwick
+- C.E.A. Winslow
+:::
+
+---
+
+## Self-Check: Question 18 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 18
+
+A health-care system in which the government funds and provides medical care to all citizens free at the point of use is best described as:
+
+- Community medicine
+- Private insurance-based medicine
+- [Socialized (state) medicine]{.correct}
+- Family medicine
+:::
+
+---
+
+## Self-Check: Question 19 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 19
+
+Which of the following best describes Community Medicine?
+
+- Focuses only on hospital-based curative care
+- [Integrates preventive, promotive, curative, and rehabilitative care]{.correct data-explanation="Community Medicine applies all aspects of health care — preventive, promotive, curative, and rehabilitative — at the population level through organized efforts."}
+- Deals only with sanitation and hygiene
+- Concerned solely with family-level care
+:::
+
+---
+
+## Self-Check: Question 20 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 20
+
+Which of the following belong to the **extended taxonomy** of health dimensions (beyond the six core dimensions)?
+
+- [Philosophical]{.correct}
+- Physical
+- [Cultural]{.correct}
+- Mental
+:::
+
+---
+
+## Self-Check: Question 21 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 21
+
+The "level of living" index, as distinct from "standard of living," measures:
+
+- Aspirational material wealth a population could have
+- [The actual living conditions people experience — food, housing, health, education]{.correct data-explanation="Level of living is descriptive, measuring real conditions people experience (e.g. the UN's Level-of-Living Index), unlike standard of living, which is a normative/aspirational benchmark."}
+- Subjective life satisfaction alone
+- GDP per capita alone
+:::
+
+---
+
+## Self-Check: Question 22 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 22
+
+According to the most recent UNDP Human Development Report, India's HDI places it in which category?
+
+- Low Human Development
+- [Medium Human Development, approaching the High-HD threshold]{.correct data-explanation="India's HDI value of 0.685 (2023 data) places it in the Medium Human Development category, just below the High threshold of 0.700."}
+- High Human Development
+- Very High Human Development
+:::
+
+---
+
+## Self-Check: Question 23 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 23
+
+On the spectrum of health, which point sits immediately before "Positive Health"?
+
+- Freedom from Sickness
+- [Better Health]{.correct data-explanation="The spectrum runs Death → Severe Sickness → Mild Sickness → Unrecognized Sickness → Freedom from Sickness → Better Health → Positive Health."}
+- Unrecognized Sickness
+- Mild Sickness
+:::
+
+---
+
+## Self-Check: Question 24 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 24
+
+India's overall SDG India Index score for 2023–24, as reported by NITI Aayog, was approximately:
+
+- 57
+- 66
+- [71]{.correct data-explanation="NITI Aayog's SDG India Index 2023–24 reported an overall score of 71, up from 66 in 2020–21 and 57 in the 2018 baseline."}
+- 85
+:::
+
+---
+
+## Self-Check: Question 25 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 25
+
+The extended determinants-of-health wheel used in this lecture adds which two domains to the classic four (environment, heredity/biology, lifestyle, health services)?
+
+- Religion and language
+- [Ageing and gender]{.correct data-explanation="Indian community-medicine teaching commonly extends the classic four-domain model with ageing and gender as further recognized determinants."}
+- Climate and geography
+- Technology and industry
+:::
+
+---
+
+## Self-Check: Question 26 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 26
+
+Which article of the Indian Constitution, under the Directive Principles of State Policy (Part IV), directs the State to regard the improvement of public health as among its primary duties?
+
+- Article 21
+- Article 32
+- [Article 47]{.correct data-explanation="Article 47 (Part IV, Directive Principles of State Policy) directs the State to raise nutrition levels, the standard of living, and improve public health, though it is not legally enforceable in court."}
+- Article 14
+:::
 
 ---
 
@@ -432,48 +1086,6 @@ sufficient or direct cause.
 Public health prevention strategy focuses on **modifiable** risk factors,
 since non-modifiable ones can only inform risk stratification, not
 intervention.
-
----
-
-## Determinants of Health Revisited {background-color="#FFF6DA"}
-
-🟡 **SHOULD KNOW**
-
-Chapter 1's four-domain model (environment, biology, lifestyle, health
-services) is the core teaching, but two further determinants are
-commonly added:
-
-- **Aging of the population** — more than two-thirds of people aged 60+
-  now live in developing countries; population aging raises the burden
-  of chronic disease and disability and needs dedicated health-system
-  attention
-- **Gender** — recognized as a distinct determinant since the 1993 Global
-  Commission on Women's Health, whose agenda spanned nutrition,
-  reproductive health, violence, aging, lifestyle, and occupational
-  exposure
-
-**Health and development:** health is not merely an *outcome* of
-development — it is an input to it. Health services are one subsystem
-within the broader socio-economic system, and human health and
-well-being are treated as an ultimate goal of development, not a
-byproduct.
-
----
-
-## Determinants of Health: A Wider View {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-- **Political determinants** — resource allocation, manpower policy,
-  and how accessible health services are made to different segments of
-  society are all shaped by a country's political system; WHO's target
-  is ≥5% of GNP spent on health (India currently spends about 2%)
-- **"Relativeness" of health:** health is not one fixed ideal state —
-  it is relative to community, race, and genetic make-up. Example: the
-  average height of Gurkhas from Nepal (~162 cm) is far below that of
-  Scottish highlanders (~180 cm), yet both populations are equally
-  healthy and physically fit for their own build — a reminder not to
-  mistake population variation for disease
 
 ---
 
@@ -679,70 +1291,6 @@ each worsening the other — for example, the interaction between
 undernutrition, poor sanitation, and infectious disease in the same
 vulnerable communities. It extends the web-of-causation idea from a
 single disease to interacting epidemics.
-
----
-
-## PQLI and HDI {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-Two composite indices built to summarize development/well-being in a
-single number:
-
-| Index | Components | Scale |
-|---|---|---|
-| **Physical Quality of Life Index (PQLI)** | Infant mortality + life expectancy at age 1 + literacy, equally weighted | 0 (worst) – 100 (best) |
-| **Human Development Index (HDI)** | Life expectancy at birth + education (mean/expected years of schooling) + GNI per capita (PPP US\$) | 0 – 1 |
-
-Both consolidate outcome measures rather than inputs, and both allow
-country-to-country comparison over time — HDI is the more widely cited
-today (UNDP's Human Development Report).
-
-**Related indices:** the **Human Poverty Index (HPI)**, **Gender-related
-Development Index (GDI)**, and **Gender Empowerment Measure (GEM)**
-extend the same idea to deprivation and gender-specific development —
-all complementary to, not replacements for, PQLI/HDI.
-
----
-
-## Positive Health and Wellness {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-- **Positive health** is more than "not sick" — Hippocrates linked it
-  to genetics, diet, and exercise; it predicts longer life, lower
-  health spending, and better prognosis during illness
-- **Wellness** — a state of good health actively pursued through
-  healthy-lifestyle choices — is commonly described across **six
-  dimensions**: physical, emotional, intellectual, social, occupational,
-  and spiritual
-- **Well-being** has two components: a **subjective** one (quality of
-  life — how happy a person feels about their life) and an **objective**
-  one (standard/level of living — income, housing, sanitation,
-  education, and health-care access)
-
----
-
-## Right to Health and Responsibility for Health {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-The WHO Constitution was the first instrument to formally recognize
-health as a right: *"the enjoyment of the highest attainable standard of
-health is one of the fundamental rights of every human being, without
-distinction of race, religion, political belief, economic or social
-condition."*
-
-Responsibility for realizing that right is shared across four levels:
-
-- **Individual** — self-care: the health decisions and habits a person
-  controls directly
-- **Community** — participates through manpower/resources, through
-  planning–management–evaluation, and simply by using health services
-- **State** — in India, health is constitutionally a state subject
-- **International** — cooperation between governments and bodies inside
-  and outside the UN system (e.g. exchange of experts, drugs and
-  supplies, cross-border communicable disease control)
 
 ---
 

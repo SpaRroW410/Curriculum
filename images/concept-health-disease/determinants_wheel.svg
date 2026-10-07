@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="700" viewBox="0 0 700 700" role="img" aria-labelledby="title desc">
+  <title id="title">The determinants of health, shown as a wheel around a central hub</title>
+  <desc id="desc">A hub-and-spoke diagram with "Health" at the centre and eight surrounding determinants: Biological, Behavioural and socio-cultural, Environment, Socio-economic, Health services, Ageing, Gender, and Other factors, each connected to the centre by a spoke.</desc>
+
+  <!-- spokes -->
+  <line x1="350" y1="350" x2="350" y2="170" stroke="#999" stroke-width="2"/>
+  <line x1="350" y1="350" x2="477" y2="223" stroke="#999" stroke-width="2"/>
+  <line x1="350" y1="350" x2="530" y2="350" stroke="#999" stroke-width="2"/>
+  <line x1="350" y1="350" x2="477" y2="477" stroke="#999" stroke-width="2"/>
+  <line x1="350" y1="350" x2="350" y2="530" stroke="#999" stroke-width="2"/>
+  <line x1="350" y1="350" x2="223" y2="477" stroke="#999" stroke-width="2"/>
+  <line x1="350" y1="350" x2="170" y2="350" stroke="#999" stroke-width="2"/>
+  <line x1="350" y1="350" x2="223" y2="223" stroke="#999" stroke-width="2"/>
+
+  <!-- hub -->
+  <circle cx="350" cy="350" r="90" fill="#2c3e50"/>
+  <text x="350" y="358" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#ffffff">HEALTH</text>
+
+  <!-- 0: Biological (top) -->
+  <rect x="280" y="66" width="140" height="48" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="350" y="95" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Biological</text>
+
+  <!-- 1: Behavioural & Socio-cultural (upper right) -->
+  <rect x="459" y="138" width="150" height="56" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="534" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Behavioural &amp;</text>
+  <text x="534" y="179" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Socio-cultural</text>
+
+  <!-- 2: Environment (right) -->
+  <rect x="540" y="326" width="140" height="48" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="610" y="355" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Environment</text>
+
+  <!-- 3: Socio-economic (lower right) -->
+  <rect x="459" y="510" width="150" height="48" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="534" y="539" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">Socio-economic</text>
+
+  <!-- 4: Health Services (bottom) -->
+  <rect x="270" y="586" width="160" height="48" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="350" y="615" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">Health Services</text>
+
+  <!-- 5: Ageing (lower left) -->
+  <rect x="96" y="510" width="140" height="48" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="166" y="539" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Ageing</text>
+
+  <!-- 6: Gender (left) -->
+  <rect x="20" y="326" width="140" height="48" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="90" y="355" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Gender</text>
+
+  <!-- 7: Other (upper left) -->
+  <rect x="96" y="142" width="140" height="48" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="166" y="171" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Other</text>
+</svg>
