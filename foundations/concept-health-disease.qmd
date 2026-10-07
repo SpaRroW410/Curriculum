@@ -1,6 +1,6 @@
 ---
 title: "Concept of Health and Disease"
-subtitle: "The Natural History of Disease and Levels of Prevention"
+subtitle: "Health, Disease, and the Indicators and Systems That Measure and Deliver It"
 format:
   revealjs:
     theme: serif
@@ -26,25 +26,32 @@ revealjs-plugins:
 
 **Learning Objectives:**
 
-- Compare the biomedical, ecological, psychosocial, and holistic models
-  of health
-- Define disease and distinguish it from illness and sickness
-- Describe the epidemiological triad of agent, host, and environment
-- Explain the natural history of disease and its phases
-- Describe the iceberg phenomenon of disease
-- Apply the levels of prevention — primordial, primary, secondary, tertiary
-- Distinguish Koch's postulates from the Bradford Hill criteria of causation
-- Classify indicators of health and describe the PQLI and HDI
-- State who is responsible for realizing the right to health
+- **Lecture 1 — Concept of Health:** models and definitions of health,
+  dimensions and the spectrum of health, well-being and quality-of-life
+  indices (PQLI, HDI), determinants of health, right to health, and
+  India's health status
+- **Lecture 2 — Concept of Disease and Prevention:** disease vs
+  illness vs sickness, causation models, natural history of disease,
+  levels and modes of prevention, concept of control, changing
+  patterns of disease
+- **Lecture 3 — Indicators of Health:** the full taxonomy of health
+  indicators, health service philosophy and delivery, health promotion,
+  and disease classification (ICD-11, ICF)
+
+Each lecture's divider slide carries its own detailed scope — use them to navigate.
 
 **NMC Community Medicine Code:** CM1
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
 ::: {.notes}
-This chapter builds directly on Chapter 1's determinants-of-health
-framework: here we formalize how disease actually develops and how
-prevention maps onto that process.
+This chapter now carries the full "concept of health" and "population
+medicine" material that used to sit in Chapter 1 (Man and Medicine),
+alongside its original disease/prevention/indicators content — Chapter
+1 is now focused on the history and identity of medicine as a
+discipline. This is a large, three-lecture chapter; use the Lecture
+dividers to navigate and pace a single sitting per lecture if teaching
+it across multiple sessions.
 :::
 
 ---
@@ -53,8 +60,80 @@ prevention maps onto that process.
 
 📚 **Lecture 1 of 3** · **CM1.L1**
 
-*Concept of health: definitions, dimensions, spectrum, well-being and
-quality-of-life indices (PQLI, HDI)*
+*Naming and scope of community/preventive/social medicine; concept,
+definitions, and dimensions of health; well-being and quality-of-life
+indices (PQLI, HDI); determinants of health; right to health and
+responsibility for health; India's health status*
+
+---
+
+## Evolution and Scope of Community Medicine {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Community Medicine broadens the scope of medicine from the **individual** to the **community**.  
+It integrates **preventive, promotive, curative, and rehabilitative** services through organized efforts.
+
+**Core idea:** Health is achieved not only by treating disease but by improving living conditions, sanitation, nutrition, and education.
+
+---
+
+## Hygiene, Preventive, and Social Medicine {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Field | Focus | Example |
+|-------|--------|----------|
+| **Hygiene** | Personal and environmental cleanliness | Hand‑washing, safe water |
+| **Preventive Medicine** | Preventing disease before it occurs | Immunization, screening |
+| **Social Medicine** | Studying social causes of disease | Poverty, housing, education |
+| **Community Medicine** | Applying all these at population level | National health programs |
+
+**Key link:** Preventive medicine acts at the *individual level*; social medicine acts at the *societal level*; community medicine integrates both.
+
+---
+
+## Public Health: Definition and Functions {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+> "The science and art of preventing disease, prolonging life, and promoting physical health and efficiency **through organized community efforts** for the sanitation of the environment, the control of community infections, the education of the individual in principles of personal hygiene, the organization of medical and nursing services for early diagnosis and preventive treatment of disease, and the development of social machinery which will ensure every individual a standard of living adequate for the maintenance of health." — **C.E.A. Winslow, 1920**
+
+**Functions:**
+- Health promotion through education  
+- Disease prevention via immunization  
+- Health restoration through medical care  
+- Rehabilitation of the handicapped  
+
+**Aim:** Create conditions for good health — aligning with WHO’s 1948 definition.
+
+---
+
+## Difference Between Community Medicine, Family Medicine, Preventive Medicine, and Social Medicine {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Aspect | **Community Medicine** | **Family Medicine** | **Preventive Medicine** | **Social Medicine** |
+|--------|------------------------|---------------------|-------------------------|---------------------|
+| **Unit of focus** | Community/population | Family & individual across lifespan | Individual risk factors | Society & social determinants |
+| **Scope** | Epidemiology, health programs, PHC, public health | Continuity of care, holistic family-centered practice | Immunization, screening, prophylaxis | Links health with social, economic, cultural context |
+| **Approach** | Population-based interventions | Person-centered, longitudinal care | Disease prevention before onset | Understanding social causes of disease |
+| **Examples** | National immunization program, sanitation drives | Managing diabetes in a family context | Vaccination, health check-ups | Studying impact of poverty on TB outcomes |
+
+---
+
+## Evolution of Medicine {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Medicine's scope has widened in stages:
+
+1.  **Curative medicine** — treating disease in the individual patient
+2.  **Preventive medicine** — stopping disease before it starts (e.g. immunization, screening)
+3.  **Social medicine** — recognizing that disease has social causes and consequences, not only biological ones
+4.  **Community medicine / Public health** — shifting the unit of concern from the individual patient to the **community** as a whole
+
+Each stage didn't replace the one before it — modern health systems practice all four simultaneously, for different needs.
 
 ---
 
@@ -62,18 +141,1001 @@ quality-of-life indices (PQLI, HDI)*
 
 🟢 **MUST KNOW**
 
-Chapter 1 gave the WHO's definition of health. Community medicine
-teaching groups the thinking *behind* that definition into four models:
+The concept of health evolved from a narrow, disease-focused view
+toward an ever-broader one — each model added a layer the earlier
+model could not explain:
 
 | Model | Core idea |
 |---|---|
-| **Biomedical** | Health = absence of disease; rooted in germ theory. Criticized for ignoring social, environmental, and psychological determinants |
-| **Ecological** | Health = a dynamic equilibrium between humans and their environment; disease = a maladjustment to that environment ("imperfect man" meets "imperfect environment") |
+| **Biomedical** | Health = absence of disease; rooted in 19th-century germ theory. Oldest, narrowest — ignores social/environmental/psychological factors |
+| **Ecological** | Health = a dynamic equilibrium between humans and environment; disease = a maladjustment ("imperfect man" meets "imperfect environment") |
 | **Psychosocial** | Health is shaped by social, psychological, cultural, economic, and political factors, not biology alone |
-| **Holistic** | A synthesis of all three — every sector (agriculture, education, housing, industry) affects health; this is the thinking underlying the WHO's 1948 definition |
+| **Holistic** | A synthesis of all three — every sector affects health; the broadest model, underlying the WHO's 1948 definition |
 
-**Exam tip:** the biomedical model is the oldest and narrowest; the
-holistic model is the broadest and is what the WHO definition operationalizes.
+**Exam tip:** biomedical → ecological → psychosocial → holistic is both the historical order and the order of increasing breadth.
+
+---
+
+## WHO's Definition and the Operational Definition of Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**WHO Constitution (1948):**
+
+> "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity."
+
+This definition has never been formally amended. Two things make it radical for its time:
+
+- It rejects the purely **biomedical** view (health = absence of disease)
+- It names **three dimensions at once** — physical, mental, social — as jointly necessary
+
+**The "new philosophy" of health:** later thinking reframed health
+from a *state* to be achieved into a **resource for living** — the
+Ottawa Charter (1986) put it directly: *"health is a resource for
+everyday life, not the objective of living."*
+
+**An operational definition** (for measurement and health-system
+planning, since "complete well-being" cannot itself be measured):
+health = the ability of an individual to function normally in the
+roles and tasks for which they have been socialized, assessed through
+**measurable indicators** — mortality, morbidity, disability, and
+functional-capacity data — rather than through the ideal state itself.
+
+::: notes
+Drafted at the International Health Conference, New York, 1946; the WHO Constitution entered into force on 7 April 1948 (now marked annually as World Health Day).
+:::
+
+---
+
+## Dimensions of Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+::::: columns
+::: {.column width="50%"}
+**Core dimensions:**
+
+- **Physical** — normal structure and function of the body
+- **Mental** — a state of balance with oneself and one's environment
+- **Social** — harmony with the social fabric: family, community, work
+- **Spiritual** — a sense of purpose, values, or belief
+- **Emotional** — the ability to recognize and appropriately express feelings
+- **Vocational** — satisfaction and productive engagement in one's work or occupation
+:::
+
+::: {.column width="50%"}
+**Extended taxonomy (textbooks add):**
+
+- **Philosophical** — a consistent personal philosophy of life
+- **Cultural** — practices and beliefs shaped by one's culture
+- **Socio-economic** — income, occupation, and social standing
+- **Environmental** — the quality of the physical surroundings
+- **Educational** — access to and benefit from education
+- **Nutritional** — adequacy of diet and nutritional status
+- **Curative** — availability of treatment when illness occurs
+- **Preventive** — protection against disease before it occurs
+:::
+:::::
+
+**Why this matters:** a person can be free of diagnosable disease and
+still not be "healthy" by this definition — e.g. someone who is
+physically fit but socially isolated or under chronic mental distress.
+
+---
+
+## The Spectrum of Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Health is not a fixed state but a **continuum**, moving in both directions between death and positive health:
+
+![The spectrum of health](../images/concept-health-disease/spectrum_of_health.svg){.slide-img .nostretch width="230px"}
+
+**Positive health** implies resilience and reserve capacity to cope with stress; public health aims to shift populations **toward** it, not just treat people once they've crossed into illness.
+
+---
+
+## Determinants of Health: The Full Picture {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The classic Blum/Lalonde model names four domains; Indian teaching extends this to eight:
+
+![The determinants of health](../images/concept-health-disease/determinants_wheel.svg){.slide-img .nostretch width="360px"}
+
+**Key implication:** health-care services are only *one* of eight determinants, and historically not the largest.
+
+::: notes
+This is the Blum/Lalonde-style "health field concept," standard across Indian community-medicine teaching, extended with ageing and gender as further recognized determinants (see next slide for the political/developmental dimension).
+:::
+
+---
+
+## Determinants of Health: Political, Developmental, and Ecological Dimensions {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Political determinants** — resource allocation, manpower policy,
+  and how accessible health services are made to different segments of
+  society are all shaped by a country's political system; WHO's target
+  is ≥5% of GNP spent on health (India currently spends about 2%)
+- **Health and development** — health is not merely an *outcome* of
+  development, it is an *input* to it. Health services are one
+  subsystem within the broader socio-economic system, and human health
+  and well-being are treated as an ultimate goal of development, not a
+  byproduct
+- **Ecology of health** — the ecological model (Four Models slide)
+  frames health as a dynamic balance between man, agent, and
+  environment; a change in any one element (a new pathogen, a polluted
+  water source, a crowded settlement) can tip that balance toward
+  disease
+
+---
+
+## Positive Health and the Relative Concept of Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Positive health** is more than "not sick" — Hippocrates linked it
+  to genetics, diet, and exercise; it predicts longer life, lower
+  health spending, and better prognosis during illness
+- **Wellness** — a state of good health actively pursued through
+  healthy-lifestyle choices — is commonly described across **six
+  dimensions**: physical, emotional, intellectual, social, occupational,
+  and spiritual
+- **Well-being** has two components: a **subjective** one (quality of
+  life — how happy a person feels about their life) and an **objective**
+  one (standard/level of living — income, housing, sanitation,
+  education, and health-care access)
+- **"Relativeness" of health:** health is not one fixed ideal state —
+  it is relative to community, race, and genetic make-up. Example: the
+  average height of Gurkhas from Nepal (~162 cm) is far below that of
+  Scottish highlanders (~180 cm), yet both populations are equally
+  healthy and physically fit for their own build — a reminder not to
+  mistake population variation for disease
+
+---
+
+## Concept of Well-Being: Standard of Living, Level of Living, and Quality of Life {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Three related but distinct terms describe how "doing well" is measured:
+
+| Term | What it measures | Nature |
+|---|---|---|
+| **Standard of living** | The material comfort and wealth a population could or should have — income, possessions, affordability | Normative / aspirational benchmark |
+| **Level of living** | The conditions people actually experience: food, housing, health, education, leisure, social security | Descriptive, measured (e.g. UN's Level-of-Living Index, 9 components) |
+| **Quality of life** | A broader, more subjective measure of life satisfaction and well-being — physical, psychological, and social | Holistic and subjective (WHOQOL) |
+
+**Well-being** itself has two components: a **subjective** one (how
+happy a person feels about their life — quality of life) and an
+**objective** one (standard/level of living — income, housing,
+sanitation, education, and health-care access).
+
+---
+
+## PQLI and HDI: Composition and Formula {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Two composite indices built to summarize development/well-being in a
+single number:
+
+| Index | Components | Scale |
+|---|---|---|
+| **Physical Quality of Life Index (PQLI)** | Infant mortality + life expectancy at age 1 + literacy, equally weighted | 0 (worst) – 100 (best) |
+| **Human Development Index (HDI)** | Life expectancy at birth + education (mean/expected years of schooling) + GNI per capita (PPP US\$) | 0 – 1 |
+
+Both consolidate outcome measures rather than inputs, and both allow
+country-to-country comparison over time — HDI is the more widely cited
+today (UNDP's Human Development Report).
+
+**Related indices:** the **Human Poverty Index (HPI)**, **Gender-related
+Development Index (GDI)**, and **Gender Empowerment Measure (GEM)**
+extend the same idea to deprivation and gender-specific development —
+all complementary to, not replacements for, PQLI/HDI.
+
+---
+
+## PQLI/HDI Worked Example and India's Current Standing {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+**How HDI is calculated:** HDI is the **geometric mean** of three
+normalized sub-indices, each scaled 0–1 using (actual − minimum) /
+(maximum − minimum):
+
+- **Life Expectancy Index** — from life expectancy at birth
+- **Education Index** — mean years of schooling + expected years of schooling
+- **Income Index** — log of GNI per capita (PPP US\$)
+
+**India's current standing** (UNDP *Human Development Report*, 2025
+edition, using 2023 data):
+
+- **HDI value: 0.685** — up from 0.676 the previous year
+- **Global rank: 130 of 193** countries — improved from rank 133
+- **Category:** Medium Human Development, approaching the High
+  Human Development threshold (HDI ≥ 0.700)
+- **Life expectancy at birth: 72.0 years** — highest ever recorded for India
+- Inequality reduces India's HDI by about **30.7%** when adjusted (the Inequality-adjusted HDI, IHDI)
+
+*Figures retrieved via web search this session; check the latest UNDP report for current numbers.*
+
+---
+
+## Right to Health and Responsibility for Health {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The WHO Constitution was the first instrument to formally recognize
+health as a right: *"the enjoyment of the highest attainable standard of
+health is one of the fundamental rights of every human being, without
+distinction of race, religion, political belief, economic or social
+condition."*
+
+Responsibility for realizing that right is shared across four levels:
+
+- **Individual** — self-care: the health decisions and habits a person
+  controls directly
+- **Community** — participates through manpower/resources, through
+  planning–management–evaluation, and simply by using health services
+- **State** — in India, health is constitutionally a state subject; the Constitution's **Part IV (Directive Principles of State Policy)**, **Article 47**, directs the State to regard "the raising of the level of nutrition and the standard of living of its people and the improvement of public health" as among its primary duties — not legally enforceable in court, but fundamental in governance
+- **International** — cooperation between governments and bodies inside
+  and outside the UN system (e.g. exchange of experts, drugs and
+  supplies, cross-border communicable disease control)
+
+---
+
+## Health Status of India: The NITI Aayog View {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+NITI Aayog's **SDG India Index** tracks the country's progress against
+all 17 Sustainable Development Goals using over 100 national indicators:
+
+- **Overall SDG India Index score (2023–24): 71 / 100** — up from 66
+  in 2020–21 and 57 in the baseline year 2018, moving India toward
+  "Front-Runner" status
+- **SDG 3 (Good Health and Well-being) goal score: 77 / 100** — driven
+  by gains in immunization coverage, institutional deliveries, and
+  rising life expectancy
+
+**Scoring bands:** Aspirant (0–49) · Performer (50–64) ·
+Front-Runner (65–99) · Achiever (100)
+
+*Figures retrieved via web search during this session; check the
+latest NITI Aayog SDG India Index report for the current edition.*
+
+---
+
+## Developed vs Developing Countries: Contrasting Health Profiles {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Feature | Developed countries | Developing countries (e.g. India) |
+|---|---|---|
+| **Disease burden** | Dominated by non-communicable diseases (NCDs) — cardiovascular disease, cancer, diabetes | **Double burden**: persisting communicable diseases alongside a fast-rising NCD burden |
+| **Population structure** | Ageing population; low birth rates | Younger population; birth rate declining but still comparatively high |
+| **Health expenditure** | High, often >8–10% of GDP | Lower, India currently spends approximately 2% of GDP on health |
+| **Maternal and child health** | Low maternal/infant mortality | Higher, though rapidly improving (India's IMR has fallen from 129 in 1971 to 25 in 2023) |
+| **Health infrastructure** | Dense, well-staffed, tertiary-care-heavy | Uneven, concentrated in urban centres, primary-care gaps in rural areas |
+
+Community Medicine in India must address *both* ends of this table at
+once — a double burden of disease layered onto resource constraints.
+
+---
+
+## The Urban–Rural Health Divide {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+India's health indicators consistently show a gap between urban and
+rural populations. India's **Infant Mortality Rate (IMR), 2023 SRS**:
+
+| Area | IMR (per 1,000 live births) |
+|---|---|
+| **National** | 25 |
+| **Rural** | 28 |
+| **Urban** | 18 |
+
+**Why the gap persists:** lower density and reach of health facilities
+in rural areas, longer travel times to care, lower health-worker
+density, poorer sanitation and water-supply infrastructure in some
+regions, and lower health literacy/awareness — all are determinants
+of health (previous slides) operating unevenly across the urban-rural
+divide.
+
+*Figures from the Sample Registration System (SRS) Statistical Report
+2023, retrieved via web search during this session.*
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 1
+
+According to the WHO Constitution, health is a state of complete physical, mental, and social well-being and:
+
+- A state achieved only after recovering from an illness
+- [Not merely the absence of disease or infirmity]{.correct data-explanation="This is the exact WHO Constitution (1948) wording — health is defined positively, not just as the absence of disease."}
+- The same as having access to good hospitals
+- A purely subjective, unmeasurable feeling
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 2
+
+In the health-field / determinants-of-health model used in this chapter, which of the following is **one of the four** domains?
+
+- Political ideology
+- [Heredity / biology]{.correct data-explanation="The four domains are environment, heredity/biology, lifestyle, and health services."}
+- Climate change policy
+- International trade
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 3
+
+Which stage in the evolution of medicine shifts the unit of concern from the individual patient to the community as a whole?
+
+- Curative medicine
+- Preventive medicine
+- Social medicine
+- [Community medicine / Public health]{.correct data-explanation="Community medicine explicitly treats the community, not the individual patient, as the unit of concern."}
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 4
+
+Community medicine primarily differs from clinical medicine in that it focuses on:
+
+- Individual patient care
+- Hospital-based management
+- [Health of populations]{.correct data-explanation="Clinical medicine focuses on the individual patient; community medicine's unit of concern is the population."}
+- Curative services only
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 5
+
+Which of the following best reflects the scope of community medicine?
+
+- Diagnosis and treatment
+- Rehabilitation only
+- [Prevention, promotion, and protection of health]{.correct data-explanation="Community medicine's scope spans prevention, promotion, and protection of health at the population level — not just diagnosis, treatment, or rehabilitation alone."}
+- Emergency care
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 6
+
+The term "Community Medicine" places its central emphasis on:
+
+- Diagnosis and treatment of individual patients
+- [The community/population as the unit of care, not the individual]{.correct data-explanation="Community Medicine shifts the unit of concern from the individual patient to the community/population as a whole."}
+- Advanced laboratory investigations
+- Hospital bed-occupancy management
+:::
+
+---
+
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 7
+
+A district health officer, on noticing a cluster of diarrhoeal cases in a village, organizes house-to-house surveys, tests drinking-water sources, and conducts health education sessions. This set of activities best illustrates:
+
+- Clinical case management
+- [Applied community medicine practice in the field]{.correct data-explanation="Investigating a cluster at the population level with surveys, environmental testing, and health education is community medicine practice in action."}
+- Hospital infection control
+- Individual patient counselling
+:::
+
+---
+
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 8
+
+The primary purpose of field visits during the Community Medicine posting is to:
+
+- Fulfil attendance requirements only
+- [Study health problems and services in their real community setting]{.correct data-explanation="Field visits let students see community health problems, determinants, and services first-hand, beyond what is taught in the classroom."}
+- Practice surgical procedures
+- Conduct hospital ward rounds
+:::
+
+---
+
+## Self-Check: Question 9 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 9
+
+Community Medicine contributes most directly to national health development by:
+
+- Running private specialty clinics
+- [Planning, implementing, and evaluating public health programmes]{.correct data-explanation="Community Medicine specialists are centrally involved in designing, delivering, and evaluating the public health programmes that drive national health development."}
+- Publishing case reports only
+- Training only surgical residents
+:::
+
+---
+
+## Self-Check: Question 10 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 10
+
+Which of the following are recognized functions of Community Medicine?
+
+- [Prevention and control of disease in populations]{.correct}
+- Marketing pharmaceutical products
+- [Promotion of health through education and intersectoral action]{.correct}
+- Maximizing hospital revenue
+:::
+
+---
+
+## Self-Check: Question 11 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 11
+
+Community Medicine integrates knowledge and methods from which of the following disciplines?
+
+- [Epidemiology and biostatistics]{.correct}
+- [Social and behavioural sciences]{.correct}
+- Corporate financial accounting
+- Automotive engineering
+:::
+
+---
+
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 12
+
+**Assertion (A):** Community Medicine serves as a bridge between clinical medicine and the social sciences.
+
+**Reason (R):** The WHO was founded in 1948 with its headquarters in Geneva.
+
+- A is true, R is false
+- A is false, R is true
+- [Both A and R are true, but R is NOT the correct explanation of A]{.correct data-explanation="Both statements are independently true, but the founding date and location of WHO has nothing to do with explaining why Community Medicine bridges clinical medicine and social sciences."}
+- Both A and R are false
+:::
+
+---
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 13
+
+Which of the following is **NOT** a valid point of difference between curative and preventive medicine?
+
+- Curative medicine treats existing disease; preventive medicine averts future disease
+- [Both curative and preventive medicine are entirely unconcerned with the community]{.correct data-explanation="This statement is false — preventive medicine (and increasingly curative practice) is very much concerned with the community; it is the invalid claim among the options."}
+- Curative medicine is individual-oriented; preventive medicine is population-oriented
+- Curative medicine acts after disease onset; preventive medicine acts before onset
+:::
+
+---
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 14
+
+The physical, mental, and social aspects within the WHO's definition of health are collectively referred to as its:
+
+- Determinants
+- Indicators
+- [Dimensions (subdomains) of health]{.correct}
+- Indices
+:::
+
+---
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 15
+
+Many scholars argue that the original WHO definition of health omits a dimension that has since been widely proposed as a fourth component. Which dimension is this?
+
+- Physical
+- Mental
+- Social
+- [Spiritual]{.correct data-explanation="The original WHO definition names only physical, mental, and social well-being; a spiritual dimension has since been widely proposed as a fourth component, though not formally adopted into the Constitution."}
+:::
+
+---
+
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 16
+
+The most widely cited standard definition of Public Health was given by:
+
+- [C.E.A. Winslow]{.correct}
+- Hippocrates
+- John Snow
+- Edwin Chadwick
+:::
+
+---
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 17
+
+The discipline of "Social Medicine" is chiefly associated with the pioneering work of:
+
+- [Alfred Grotjahn]{.correct}
+- John Snow
+- Edwin Chadwick
+- C.E.A. Winslow
+:::
+
+---
+
+## Self-Check: Question 18 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 18
+
+A health-care system in which the government funds and provides medical care to all citizens free at the point of use is best described as:
+
+- Community medicine
+- Private insurance-based medicine
+- [Socialized (state) medicine]{.correct}
+- Family medicine
+:::
+
+---
+
+## Self-Check: Question 19 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 19
+
+Which of the following best describes Community Medicine?
+
+- Focuses only on hospital-based curative care
+- [Integrates preventive, promotive, curative, and rehabilitative care]{.correct data-explanation="Community Medicine applies all aspects of health care — preventive, promotive, curative, and rehabilitative — at the population level through organized efforts."}
+- Deals only with sanitation and hygiene
+- Concerned solely with family-level care
+:::
+
+---
+
+## Self-Check: Question 20 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 20
+
+Which of the following belong to the **extended taxonomy** of health dimensions (beyond the six core dimensions)?
+
+- [Philosophical]{.correct}
+- Physical
+- [Cultural]{.correct}
+- Mental
+:::
+
+---
+
+## Self-Check: Question 21 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 21
+
+The "level of living" index, as distinct from "standard of living," measures:
+
+- Aspirational material wealth a population could have
+- [The actual living conditions people experience — food, housing, health, education]{.correct data-explanation="Level of living is descriptive, measuring real conditions people experience (e.g. the UN's Level-of-Living Index), unlike standard of living, which is a normative/aspirational benchmark."}
+- Subjective life satisfaction alone
+- GDP per capita alone
+:::
+
+---
+
+## Self-Check: Question 22 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 22
+
+According to the most recent UNDP Human Development Report, India's HDI places it in which category?
+
+- Low Human Development
+- [Medium Human Development, approaching the High-HD threshold]{.correct data-explanation="India's HDI value of 0.685 (2023 data) places it in the Medium Human Development category, just below the High threshold of 0.700."}
+- High Human Development
+- Very High Human Development
+:::
+
+---
+
+## Self-Check: Question 23 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 23
+
+On the spectrum of health, which point sits immediately before "Positive Health"?
+
+- Freedom from Sickness
+- [Better Health]{.correct data-explanation="The spectrum runs Death → Severe Sickness → Mild Sickness → Unrecognized Sickness → Freedom from Sickness → Better Health → Positive Health."}
+- Unrecognized Sickness
+- Mild Sickness
+:::
+
+---
+
+## Self-Check: Question 24 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 24
+
+India's overall SDG India Index score for 2023–24, as reported by NITI Aayog, was approximately:
+
+- 57
+- 66
+- [71]{.correct data-explanation="NITI Aayog's SDG India Index 2023–24 reported an overall score of 71, up from 66 in 2020–21 and 57 in the 2018 baseline."}
+- 85
+:::
+
+---
+
+## Self-Check: Question 25 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 25
+
+The extended determinants-of-health wheel used in this lecture adds which two domains to the classic four (environment, heredity/biology, lifestyle, health services)?
+
+- Religion and language
+- [Ageing and gender]{.correct data-explanation="Indian community-medicine teaching commonly extends the classic four-domain model with ageing and gender as further recognized determinants."}
+- Climate and geography
+- Technology and industry
+:::
+
+---
+
+## Self-Check: Question 26 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 26
+
+Which article of the Indian Constitution, under the Directive Principles of State Policy (Part IV), directs the State to regard the improvement of public health as among its primary duties?
+
+- Article 21
+- Article 32
+- [Article 47]{.correct data-explanation="Article 47 (Part IV, Directive Principles of State Policy) directs the State to raise nutrition levels, the standard of living, and improve public health, though it is not legally enforceable in court."}
+- Article 14
+:::
+
+---
+
+## Self-Check: Question 27 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 27
+
+The concept of health that views disease as resulting from an imbalance between man, agent, and environment is termed the:
+
+- Biomedical model
+- [Ecological model]{.correct}
+- Psychosocial model
+- Holistic model
+:::
+
+---
+
+## Self-Check: Question 28 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 28
+
+The concept of positive health mainly refers to:
+
+- Absence of symptoms
+- Ability to perform daily activities
+- [Optimal functioning of the individual]{.correct data-explanation="Positive health goes beyond just being symptom-free or functional — it means optimal physical, mental, and social functioning, with reserve capacity to cope with stress."}
+- Lack of disability
+:::
+
+---
+
+## Self-Check: Question 29 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 29
+
+A government scheme that improves housing quality, sanitation access, and school enrolment in a slum community is primarily working through:
+
+- Curative health services
+- Biomedical intervention
+- [Modification of social determinants of health]{.correct data-explanation="Housing, sanitation, and education are classic social determinants of health; improving them is action on determinants, not clinical/curative care."}
+- Genetic screening
+:::
+
+---
+
+## Self-Check: Question 30 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 30
+
+A composite index that combines life expectancy, education (literacy/schooling), and per-capita income to measure a country's overall development is the:
+
+- PQLI
+- DALY
+- [Human Development Index (HDI)]{.correct}
+- Crude Death Rate
+:::
+
+---
+
+## Self-Check: Question 31 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 31
+
+The WHO's definition of health primarily emphasizes:
+
+- Absence of disease alone
+- Access to health-care services
+- [A positive, holistic state of complete well-being]{.correct}
+- Genetic normalcy
+:::
+
+---
+
+## Self-Check: Question 32 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 32
+
+The statement "Health is a resource for everyday life, not the objective of living" comes from the:
+
+- WHO Constitution (1948)
+- Alma-Ata Declaration (1978)
+- [Ottawa Charter for Health Promotion (1986)]{.correct}
+- Bangkok Charter (2005)
+:::
+
+---
+
+## Self-Check: Question 33 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 33
+
+Which single composite indicator is most widely used to reflect a population's overall quality of life?
+
+- Crude Birth Rate
+- Literacy Rate alone
+- [Human Development Index]{.correct}
+- Bed-occupancy rate
+:::
+
+---
+
+## Self-Check: Question 34 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 34
+
+The ability to form and maintain harmonious relationships with others in society reflects which dimension of health?
+
+- Physical dimension
+- Mental dimension
+- [Social dimension]{.correct}
+- Spiritual dimension
+:::
+
+---
+
+## Self-Check: Question 35 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 35
+
+Which of the following are recognized dimensions of health?
+
+- [Physical]{.correct}
+- [Mental]{.correct}
+- Political
+- [Social]{.correct}
+:::
+
+---
+
+## Self-Check: Question 36 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 36
+
+Which of the following are recognized determinants of health?
+
+- [Heredity / biology]{.correct}
+- [Environment]{.correct}
+- [Lifestyle / behaviour]{.correct}
+- Astrological sign
+:::
+
+---
+
+## Self-Check: Question 37 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 37
+
+Which of the following are commonly considered components of "quality of life"?
+
+- Gross national product alone
+- [Physical and psychological well-being]{.correct}
+- [Level of independence and social relationships]{.correct}
+- [Environment and personal beliefs]{.correct}
+:::
+
+---
+
+## Self-Check: Question 38 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 38
+
+**Assertion (A):** The Physical Quality of Life Index (PQLI) does not include per-capita income as one of its components.
+
+**Reason (R):** PQLI is composed of infant mortality rate, life expectancy at age one, and literacy rate.
+
+- [Both A and R are true, and R is the correct explanation of A]{.correct}
+- Both A and R are true, but R is not the correct explanation of A
+- A is true, R is false
+- A is false, R is true
+:::
+
+---
+
+## Practice Questions: Descriptive (Lecture 1) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+**Long Essay**
+
+1. Define health and discuss the different models/concepts of health — biomedical, ecological, psychosocial, and holistic.
+2. Discuss the concept of positive health and describe the various indicators used to measure the health status of a community.
+
+**Short Essay**
+
+3. Describe the dimensions of health.
+4. Discuss the spectrum of health and the iceberg phenomenon of disease.
+5. Describe the determinants of health, including political determinants.
+6. Discuss PQLI and HDI as composite indices of development and health.
+
+**Short Answers / Notes**
+
+7. Write short notes on: (a) Impairment, disability, and handicap (b) Well-being vs wellness (c) Relativeness of health.
+
+## Practice Questions: Descriptive (Lecture 1, contd.) {background-color="#FFF6DA"}
+
+**Reasoning Type**
+
+8. Why is health considered a multidimensional and dynamic concept rather than a static, purely biomedical one?
+9. Why are objective indicators of health alone considered insufficient to capture the true health status of a population?
+
+**Case Scenario**
+
+10. A 45-year-old man from a low-income household reports feeling constantly fatigued, though clinical investigations show no diagnosable disease. He has been unable to work regularly and feels socially isolated.
+    a. Is this individual "healthy" by the biomedical model? Justify.
+    b. How would the WHO's definition of health assess this individual?
+    c. Which dimension(s) of health are primarily affected?
+    d. Where would you place this individual on the health–disease spectrum?
+    e. Suggest measures, drawing on the determinants of health, that could improve this individual's health status.
 
 ---
 
@@ -81,8 +1143,9 @@ holistic model is the broadest and is what the WHO definition operationalizes.
 
 📚 **Lecture 2 of 3** · **CM1.L2**
 
-*Concept of disease and causation, natural history of disease, levels
-of prevention, modes of intervention*
+*Concept of disease (impairment, disability, handicap), causation
+models, natural history of disease, levels and modes of prevention,
+concept of control, changing pattern of disease*
 
 ---
 
@@ -103,6 +1166,23 @@ things in community medicine:
 **Why the distinction matters:** a person can have disease without
 illness (asymptomatic infection), or feel ill without demonstrable disease
 — both are relevant to how and when a health system responds.
+
+---
+
+## Concept of Disease: Impairment, Disability, and Handicap {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Beyond disease/illness/sickness, the WHO's classical taxonomy traces
+the *consequences* of disease through three further stages:
+
+| Term | Definition | Example (after polio) |
+|---|---|---|
+| **Impairment** | Any loss or abnormality of psychological, physiological, or anatomical structure or function | Weakness of the leg muscles |
+| **Disability** | Any restriction or lack of ability to perform an activity in the manner considered normal | Difficulty walking |
+| **Handicap** | The social disadvantage that results, limiting or preventing fulfilment of a normal role | Unable to continue work as a manual labourer |
+
+**Key point:** not every impairment causes a disability, and not every disability causes a handicap — the final stage depends heavily on social and environmental context, not biology alone.
 
 ---
 
@@ -199,6 +1279,40 @@ but before disease develops.
 
 ---
 
+## Levels of Prevention by Unit of Application: Individual, Family, Community, System {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The same levels of prevention (primordial, primary, secondary,
+tertiary) can be applied at different units of organization:
+
+| Unit | Example activity |
+|---|---|
+| **Individual** | Personal health education; vaccination of a person; individual risk counselling |
+| **Family** | Genetic counselling; family planning services; home-based care of a disabled member |
+| **Community** | Community-wide screening programmes; sanitation and water-supply projects; health education campaigns |
+| **System** | Health policy and legislation; regulation of food/drug safety; national insurance and financing schemes |
+
+Prevention planning works best when interventions are coordinated across all four units, not applied at only one.
+
+---
+
+## Modes of Intervention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Five modes of intervention operationalize the levels of prevention:
+
+| Mode | What it involves | Maps to |
+|---|---|---|
+| **Health promotion** | Health education, environmental modification, nutritional intervention, lifestyle change | Primordial / Primary prevention |
+| **Specific protection** | Immunization, use of specific nutrients, protection against occupational hazards | Primary prevention |
+| **Early diagnosis and treatment** | Screening, case-finding, prompt treatment to halt progression | Secondary prevention |
+| **Disability limitation** | Adequate treatment to arrest disease and prevent further complications | Secondary / Tertiary prevention |
+| **Rehabilitation** | Restoring the individual to maximum functional capacity, physically, socially, and economically | Tertiary prevention |
+
+---
+
 ## Multifactorial Causation {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -212,6 +1326,46 @@ environmental, social), rather than one agent producing one disease.
 causation (one specific agent → one specific disease) is closer to a
 single-cause model — which is exactly what Koch's postulates were built
 to test.
+
+---
+
+## Sufficient-Component Cause Model {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Rothman's "causal pie" model refines the web-of-causation idea: a disease
+occurs only when a **sufficient cause** — a full "pie" made of several
+**component causes** — is complete. The same disease can have multiple
+different sufficient causes (multiple different pies), each built from
+different combinations of components. Removing just *one* component
+(a "necessary cause," if it appears in every pie) can prevent the disease
+even without knowing every other component.
+
+---
+
+## Syndemics: A Modern Extension {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+A **syndemic** is the concept that two or more diseases (or a disease and
+a social condition) cluster together and interact within a population,
+each worsening the other — for example, the interaction between
+undernutrition, poor sanitation, and infectious disease in the same
+vulnerable communities. It extends the web-of-causation idea from a
+single disease to interacting epidemics.
+
+---
+
+## From Miasma to Germ Theory {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Miasma theory** (dominant until the 19th century) — believed disease
+  spread through "bad air" from decomposing matter; still drove
+  genuinely useful sanitation reforms
+- **Germ theory** (Pasteur, Koch, late 19th century) — established that
+  specific microorganisms cause specific diseases, replacing miasma
+  theory and giving rise to modern microbiology and Koch's postulates
 
 ---
 
@@ -278,219 +1432,55 @@ intervention.
 
 ---
 
-## Determinants of Health Revisited {background-color="#FFF6DA"}
-
-🟡 **SHOULD KNOW**
-
-Chapter 1's four-domain model (environment, biology, lifestyle, health
-services) is the core teaching, but two further determinants are
-commonly added:
-
-- **Aging of the population** — more than two-thirds of people aged 60+
-  now live in developing countries; population aging raises the burden
-  of chronic disease and disability and needs dedicated health-system
-  attention
-- **Gender** — recognized as a distinct determinant since the 1993 Global
-  Commission on Women's Health, whose agenda spanned nutrition,
-  reproductive health, violence, aging, lifestyle, and occupational
-  exposure
-
-**Health and development:** health is not merely an *outcome* of
-development — it is an input to it. Health services are one subsystem
-within the broader socio-economic system, and human health and
-well-being are treated as an ultimate goal of development, not a
-byproduct.
-
----
-
-## Determinants of Health: A Wider View {background-color="#E8E4F3"}
+## Concept of Control: Control, Elimination, and Eradication {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
 
-- **Political determinants** — resource allocation, manpower policy,
-  and how accessible health services are made to different segments of
-  society are all shaped by a country's political system; WHO's target
-  is ≥5% of GNP spent on health (India currently spends about 2%)
-- **"Relativeness" of health:** health is not one fixed ideal state —
-  it is relative to community, race, and genetic make-up. Example: the
-  average height of Gurkhas from Nepal (~162 cm) is far below that of
-  Scottish highlanders (~180 cm), yet both populations are equally
-  healthy and physically fit for their own build — a reminder not to
-  mistake population variation for disease
+| Term | Definition |
+|---|---|
+| **Control** | Reduction of disease incidence, prevalence, morbidity, or mortality to a locally acceptable level through deliberate effort — continued intervention is still required |
+| **Elimination** | Reduction to zero of the incidence of a disease in a defined geographic area — continued intervention is still required (e.g. maternal and neonatal tetanus elimination) |
+| **Eradication** | Permanent reduction to zero of the worldwide incidence of infection — intervention measures are no longer needed (e.g. smallpox) |
+
+**Key distinction:** all three reduce disease toward zero, but only eradication means intervention can stop entirely — control and elimination both require it to continue.
 
 ---
 
-## Lecture 3: Indicators of Health {background-color="#E6EEF5"}
-
-📚 **Lecture 3 of 3** · **CM1.L3**
-
-*Indicators of health; demographic profile of India and its impact;
-MDG to SDG*
-
----
-
-## Indicators of Health: A Classification {background-color="#FFF6DA"}
-
-🟡 **SHOULD KNOW**
-
-The WHO defines a health indicator as a variable that helps measure
-changes which cannot be measured directly. No single indicator captures
-"health" — a full profile draws on several categories:
-
-Mortality · Morbidity · Disability · Nutritional status · Health-care
-delivery · Utilization · Social/mental health · Environmental ·
-Socio-economic · Health policy · Quality of life · Social indicators
-
-**A good indicator should be:** Valid · Reliable · Sensitive · Specific ·
-Feasible · Relevant.
-
-DALY, QALY, and the mortality/morbidity indicators used in Indian health
-surveillance are covered in depth in Health Information and Basic
-Medical Statistics (Chapter 21).
-
----
-
-## Sufficient-Component Cause Model {background-color="#E8E4F3"}
+## Monitoring, Surveillance, and Evaluation of Control {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
 
-Rothman's "causal pie" model refines the web-of-causation idea: a disease
-occurs only when a **sufficient cause** — a full "pie" made of several
-**component causes** — is complete. The same disease can have multiple
-different sufficient causes (multiple different pies), each built from
-different combinations of components. Removing just *one* component
-(a "necessary cause," if it appears in every pie) can prevent the disease
-even without knowing every other component.
+| Term | Definition |
+|---|---|
+| **Monitoring** | Continuous measurement of disease occurrence or programme performance |
+| **Surveillance** | Ongoing, systematic collection, analysis, and interpretation of health data essential to planning, implementation, and evaluation of public health practice |
+| **Sentinel surveillance** | Surveillance based on a selected sample of reporting sites (sentinel sites/physicians) rather than the whole population — used when complete coverage isn't feasible |
+| **Evaluation of control** | Comparing the outcomes achieved against pre-set objectives, to judge a programme's effectiveness |
 
 ---
 
-## From Miasma to Germ Theory {background-color="#E8E4F3"}
+## Changing Pattern of Disease: Epidemiological Transition and the Double/Triple Burden {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
 
-- **Miasma theory** (dominant until the 19th century) — believed disease
-  spread through "bad air" from decomposing matter; still drove
-  genuinely useful sanitation reforms
-- **Germ theory** (Pasteur, Koch, late 19th century) — established that
-  specific microorganisms cause specific diseases, replacing miasma
-  theory and giving rise to modern microbiology and Koch's postulates
+**Epidemiological transition:** as a population develops
+economically, its pattern of disease and death shifts from being
+dominated by infection and malnutrition toward chronic,
+degenerative, and man-made diseases — classically described in
+stages (Age of Pestilence and Famine → Age of Receding Pandemics →
+Age of Degenerative and Man-made Diseases).
+
+- **Double burden of disease:** a population experiencing *both* a
+  continuing high communicable-disease burden *and* a fast-rising
+  non-communicable-disease burden at the same time — the pattern
+  India and many developing countries face today (see Lecture 1's
+  developed-vs-developing comparison)
+- **Triple burden:** the double burden plus a third component —
+  most often emerging and re-emerging infections (e.g. COVID-19,
+  drug-resistant TB, dengue resurgence); some texts instead name
+  injuries/accidents as the third component
 
 ---
-
-## Syndemics: A Modern Extension {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-A **syndemic** is the concept that two or more diseases (or a disease and
-a social condition) cluster together and interact within a population,
-each worsening the other — for example, the interaction between
-undernutrition, poor sanitation, and infectious disease in the same
-vulnerable communities. It extends the web-of-causation idea from a
-single disease to interacting epidemics.
-
----
-
-## PQLI and HDI {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-Two composite indices built to summarize development/well-being in a
-single number:
-
-| Index | Components | Scale |
-|---|---|---|
-| **Physical Quality of Life Index (PQLI)** | Infant mortality + life expectancy at age 1 + literacy, equally weighted | 0 (worst) – 100 (best) |
-| **Human Development Index (HDI)** | Life expectancy at birth + education (mean/expected years of schooling) + GNI per capita (PPP US\$) | 0 – 1 |
-
-Both consolidate outcome measures rather than inputs, and both allow
-country-to-country comparison over time — HDI is the more widely cited
-today (UNDP's Human Development Report).
-
-**Related indices:** the **Human Poverty Index (HPI)**, **Gender-related
-Development Index (GDI)**, and **Gender Empowerment Measure (GEM)**
-extend the same idea to deprivation and gender-specific development —
-all complementary to, not replacements for, PQLI/HDI.
-
----
-
-## Positive Health and Wellness {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-- **Positive health** is more than "not sick" — Hippocrates linked it
-  to genetics, diet, and exercise; it predicts longer life, lower
-  health spending, and better prognosis during illness
-- **Wellness** — a state of good health actively pursued through
-  healthy-lifestyle choices — is commonly described across **six
-  dimensions**: physical, emotional, intellectual, social, occupational,
-  and spiritual
-- **Well-being** has two components: a **subjective** one (quality of
-  life — how happy a person feels about their life) and an **objective**
-  one (standard/level of living — income, housing, sanitation,
-  education, and health-care access)
-
----
-
-## Right to Health and Responsibility for Health {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-The WHO Constitution was the first instrument to formally recognize
-health as a right: *"the enjoyment of the highest attainable standard of
-health is one of the fundamental rights of every human being, without
-distinction of race, religion, political belief, economic or social
-condition."*
-
-Responsibility for realizing that right is shared across four levels:
-
-- **Individual** — self-care: the health decisions and habits a person
-  controls directly
-- **Community** — participates through manpower/resources, through
-  planning–management–evaluation, and simply by using health services
-- **State** — in India, health is constitutionally a state subject
-- **International** — cooperation between governments and bodies inside
-  and outside the UN system (e.g. exchange of experts, drugs and
-  supplies, cross-border communicable disease control)
-
----
-
-## Practice Questions: Descriptive {background-color="#FFF6DA"}
-
-**For written practice — work through these on paper; no auto-check for this slide.**
-
-**Long Essay**
-
-1. Define health and discuss the different models/concepts of health — biomedical, ecological, psychosocial, and holistic.
-2. Discuss the concept of positive health and describe the various indicators used to measure the health status of a community.
-
-**Short Essay**
-
-3. Describe the dimensions of health.
-4. Discuss the spectrum of health and the iceberg phenomenon of disease.
-5. Describe the determinants of health, including political determinants.
-6. Discuss PQLI and HDI as composite indices of development and health.
-
-**Short Answers / Notes**
-
-7. Write short notes on: (a) Impairment, disability, and handicap (b) Well-being vs wellness (c) Relativeness of health.
-
-## Practice Questions: Descriptive (contd.) {background-color="#FFF6DA"}
-
-**Reasoning Type**
-
-8. Why is health considered a multidimensional and dynamic concept rather than a static, purely biomedical one?
-9. Why are objective indicators of health alone considered insufficient to capture the true health status of a population?
-
-**Case Scenario**
-
-10. A 45-year-old man from a low-income household reports feeling constantly fatigued, though clinical investigations show no diagnosable disease. He has been unable to work regularly and feels socially isolated.
-    a. Is this individual "healthy" by the biomedical model? Justify.
-    b. How would the WHO's definition of health assess this individual?
-    c. Which dimension(s) of health are primarily affected?
-    d. Where would you place this individual on the health–disease spectrum?
-    e. Suggest measures, drawing on the determinants of health, that could improve this individual's health status.
-
-------------------------------------------------------------------------
 
 ## Self-Check: Question 1 {background-color="#FDE8E8"}
 
@@ -639,12 +1629,12 @@ A person with hearing loss is unable to communicate effectively but can still pe
 ::: {.quiz-question}
 ### Question 9
 
-The concept of positive health mainly refers to:
+A patient has early-stage hypertension detectable only through blood pressure measurement, with no symptoms and normal daily functioning. This best illustrates:
 
-- Absence of symptoms
-- Ability to perform daily activities
-- [Optimal functioning of the individual]{.correct data-explanation="Positive health goes beyond just being symptom-free or functional — it means optimal physical, mental, and social functioning, with reserve capacity to cope with stress."}
-- Lack of disability
+- Clinical disease
+- [Subclinical disease]{.correct data-explanation="A subclinical disease is present and measurable (e.g., raised BP) but produces no symptoms and no disruption of normal functioning."}
+- Disability
+- Handicap
 :::
 
 ---
@@ -656,23 +1646,6 @@ The concept of positive health mainly refers to:
 ::: {.quiz-question}
 ### Question 10
 
-A patient has early-stage hypertension detectable only through blood pressure measurement, with no symptoms and normal daily functioning. This best illustrates:
-
-- Clinical disease
-- [Subclinical disease]{.correct data-explanation="A subclinical disease is present and measurable (e.g., raised BP) but produces no symptoms and no disruption of normal functioning."}
-- Disability
-- Handicap
-:::
-
----
-
-## Self-Check: Question 11 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 11
-
 In a community screening programme, for every one clinically diagnosed case of diabetes identified, several undiagnosed and pre-diabetic cases are found in the population. This phenomenon is best described as:
 
 - Natural history of disease
@@ -683,233 +1656,12 @@ In a community screening programme, for every one clinically diagnosed case of d
 
 ---
 
-## Self-Check: Question 12 {background-color="#FDE8E8"}
+## Self-Check: Question 11 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 12
-
-A government scheme that improves housing quality, sanitation access, and school enrolment in a slum community is primarily working through:
-
-- Curative health services
-- Biomedical intervention
-- [Modification of social determinants of health]{.correct data-explanation="Housing, sanitation, and education are classic social determinants of health; improving them is action on determinants, not clinical/curative care."}
-- Genetic screening
-:::
-
----
-
-## Self-Check: Question 13 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 13
-
-A district has an Infant Mortality Rate far higher than its Crude Death Rate would suggest. This pattern most strongly points to:
-
-- An ageing population
-- High literacy rates
-- [Poor maternal and child health services]{.correct data-explanation="A disproportionately high IMR relative to overall mortality points to gaps in maternal and child health care — antenatal care, safe delivery, and infant care."}
-- Good sanitation coverage
-:::
-
----
-
-## Self-Check: Question 14 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 14
-
-A composite index that combines life expectancy, education (literacy/schooling), and per-capita income to measure a country's overall development is the:
-
-- PQLI
-- DALY
-- [Human Development Index (HDI)]{.correct}
-- Crude Death Rate
-:::
-
----
-
-## Self-Check: Question 15 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 15
-
-The WHO's definition of health primarily emphasizes:
-
-- Absence of disease alone
-- Access to health-care services
-- [A positive, holistic state of complete well-being]{.correct}
-- Genetic normalcy
-:::
-
----
-
-## Self-Check: Question 16 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 16
-
-The statement "Health is a resource for everyday life, not the objective of living" comes from the:
-
-- WHO Constitution (1948)
-- Alma-Ata Declaration (1978)
-- [Ottawa Charter for Health Promotion (1986)]{.correct}
-- Bangkok Charter (2005)
-:::
-
----
-
-## Self-Check: Question 17 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 17
-
-Which single composite indicator is most widely used to reflect a population's overall quality of life?
-
-- Crude Birth Rate
-- Literacy Rate alone
-- [Human Development Index]{.correct}
-- Bed-occupancy rate
-:::
-
----
-
-## Self-Check: Question 18 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 18
-
-The ability to form and maintain harmonious relationships with others in society reflects which dimension of health?
-
-- Physical dimension
-- Mental dimension
-- [Social dimension]{.correct}
-- Spiritual dimension
-:::
-
----
-
-## Self-Check: Question 19 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 19
-
-Which of the following is **NOT** typically used as a health-care delivery/utilization indicator?
-
-- Doctor–population ratio
-- Bed–population ratio
-- Hospital utilization rate
-- [Per-capita income]{.correct data-explanation="Per-capita income is an economic indicator, not a health-care delivery/utilization indicator."}
-:::
-
----
-
-## Self-Check: Question 20 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 20
-
-The concept of health that views disease as resulting from an imbalance between man, agent, and environment is termed the:
-
-- Biomedical model
-- [Ecological model]{.correct}
-- Psychosocial model
-- Holistic model
-:::
-
----
-
-## Self-Check: Question 21 {background-color="#FDE8E8"}
-
-🧡 **QUESTION (select ALL that apply)**
-
-::: {.quiz-question .quiz-multiple}
-### Question 21
-
-Which of the following are recognized dimensions of health?
-
-- [Physical]{.correct}
-- [Mental]{.correct}
-- Political
-- [Social]{.correct}
-:::
-
----
-
-## Self-Check: Question 22 {background-color="#FDE8E8"}
-
-🧡 **QUESTION (select ALL that apply)**
-
-::: {.quiz-question .quiz-multiple}
-### Question 22
-
-Which of the following are recognized determinants of health?
-
-- [Heredity / biology]{.correct}
-- [Environment]{.correct}
-- [Lifestyle / behaviour]{.correct}
-- Astrological sign
-:::
-
----
-
-## Self-Check: Question 23 {background-color="#FDE8E8"}
-
-🧡 **QUESTION (select ALL that apply)**
-
-::: {.quiz-question .quiz-multiple}
-### Question 23
-
-Indicators of health are useful for:
-
-- [Assessing the health status of a community]{.correct}
-- Diagnosing an individual patient's illness
-- [Comparing health status across regions/countries]{.correct}
-- [Monitoring and evaluating health programmes]{.correct}
-:::
-
----
-
-## Self-Check: Question 24 {background-color="#FDE8E8"}
-
-🧡 **QUESTION (select ALL that apply)**
-
-::: {.quiz-question .quiz-multiple}
-### Question 24
-
-Which of the following are commonly considered components of "quality of life"?
-
-- Gross national product alone
-- [Physical and psychological well-being]{.correct}
-- [Level of independence and social relationships]{.correct}
-- [Environment and personal beliefs]{.correct}
-:::
-
----
-
-## Self-Check: Question 25 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 25
+### Question 11
 
 **Assertion (A):** The iceberg phenomenon shows that the visible/diagnosed cases of a disease in a community are only a small fraction of its true burden.
 
@@ -923,12 +1675,800 @@ Which of the following are commonly considered components of "quality of life"?
 
 ---
 
-## Self-Check: Question 26 {background-color="#FDE8E8"}
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 12
+
+Leg-muscle weakness following polio, with no effect yet on the person's daily activities, is an example of:
+
+- [Impairment]{.correct data-explanation="Impairment is a loss or abnormality of structure/function itself; it becomes a disability only if it restricts the ability to perform an activity, and a handicap only if it causes social disadvantage."}
+- Disability
+- Handicap
+- Disease
+:::
+
+---
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 13
+
+Genetic counselling offered to a couple before conception is an example of prevention applied at which unit?
+
+- Individual
+- [Family]{.correct data-explanation="Genetic counselling addresses risk within a couple/family unit, distinct from individual-level, community-level, or system-level prevention activities."}
+- Community
+- System
+:::
+
+---
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 14
+
+Screening, case-finding, and prompt treatment to halt disease progression is the mode of intervention known as:
+
+- Health promotion
+- Specific protection
+- [Early diagnosis and treatment]{.correct}
+- Rehabilitation
+:::
+
+---
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 15
+
+The permanent, worldwide reduction of a disease's incidence to zero, such that intervention measures are no longer needed, is termed:
+
+- Control
+- Elimination
+- [Eradication]{.correct data-explanation="Eradication specifically means the worldwide incidence is reduced to zero and intervention measures can stop entirely — as achieved for smallpox. Control and elimination both still require continued intervention."}
+- Surveillance
+:::
+
+---
+
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 16
+
+Surveillance based on a selected sample of reporting sites, rather than the whole population, is called:
+
+- Monitoring
+- [Sentinel surveillance]{.correct}
+- Evaluation of control
+- Eradication
+:::
+
+---
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 17
+
+India's simultaneous experience of a continuing communicable-disease burden alongside a fast-rising non-communicable-disease burden is termed:
+
+- Epidemiological transition
+- [Double burden of disease]{.correct}
+- Triple burden
+- Syndemic
+:::
+
+---
+
+## Practice Questions: Descriptive (Lecture 2) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+1. Differentiate between disease, illness, and sickness, and explain the impairment-disability-handicap taxonomy with an example.
+2. Describe the natural history of disease and the iceberg phenomenon, using a disease of your choice as an example.
+3. Discuss the levels of prevention and the corresponding modes of intervention, applied across the individual, family, community, and system units.
+4. Differentiate between disease control, elimination, and eradication, giving one example of each.
+5. Discuss the epidemiological transition and the double/triple burden of disease in the Indian context.
+
+---
+
+## Lecture 3: Indicators of Health {background-color="#E6EEF5"}
+
+📚 **Lecture 3 of 3** · **CM1.L3**
+
+*Indicators of health — mortality, morbidity, disability, and more;
+the WHO's 100 core health indicators; health service philosophy;
+community diagnosis and health-care delivery; primary health care and
+health promotion; disease classification*
+
+---
+
+## Indicators of Health: A Classification {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The WHO defines a health indicator as a variable that helps measure
+changes which cannot be measured directly. No single indicator captures
+"health" — a full profile draws on several categories, covered across
+the next few slides:
+
+Mortality · Morbidity · Disability · Nutritional status · Health-care
+delivery · Utilization · Social/mental health · Environmental ·
+Socio-economic · Health policy · Quality of life · SDG indicators
+
+**A good indicator should be:**
+
+| Characteristic | Meaning |
+|---|---|
+| **Valid** | Actually measures what it claims to measure |
+| **Reliable** | Gives consistent results on repeated measurement |
+| **Sensitive** | Detects real changes when they occur |
+| **Specific** | Reflects changes only in the condition it targets |
+| **Feasible** | Can realistically be collected given resources |
+| **Relevant** | Has clear bearing on health policy or action |
+
+---
+
+## Mortality and Morbidity Indicators {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Type | Examples |
+|---|---|
+| **Mortality indicators** | Crude Death Rate (CDR), Infant Mortality Rate (IMR), Maternal Mortality Ratio (MMR), Under-5 Mortality Rate, Life Expectancy at Birth |
+| **Morbidity indicators** | Incidence and prevalence rates, notification rates of specific diseases, case-fatality rate, disease-specific attack rates |
+
+Mortality indicators remain the most widely available and comparable
+health indicators across countries; morbidity indicators are harder to
+collect completely but capture non-fatal disease burden that mortality
+data misses entirely.
+
+---
+
+## Disability Indicators: HALE, QALY, DALY {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Composite indicators that combine mortality *and* non-fatal health
+loss into a single number:
+
+| Indicator | What it captures |
+|---|---|
+| **HALE** (Health-Adjusted Life Expectancy) | Expected years of life lived in full health, discounting years lived with disability |
+| **QALY** (Quality-Adjusted Life Year) | A year of life weighted by the quality of health during it — used mainly in cost-effectiveness analysis |
+| **DALY** (Disability-Adjusted Life Year) | Years of healthy life lost — years lost to premature death (YLL) + years lived with disability (YLD) |
+
+Full methodology and worked calculations for DALY/QALY/HALE are
+covered in depth in **Health Information and Basic Medical Statistics
+(Chapter 21)** — this slide gives the definitional overview needed
+here.
+
+---
+
+## Nutritional, Health-Care Delivery, and Utilization Indicators {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Category | Examples |
+|---|---|
+| **Nutritional indicators** | Prevalence of low birth weight, stunting/wasting/underweight in children, Body Mass Index distribution, prevalence of anaemia |
+| **Health-care delivery indicators** | Doctor–population ratio, bed–population ratio, nurse–population ratio, number of health facilities per population |
+| **Utilization indicators** | Hospital bed-occupancy rate, average length of stay, outpatient attendance rate, immunization coverage rate |
+
+Delivery indicators measure what *exists*; utilization indicators measure what is actually *used* — a well-resourced system with poor utilization still produces poor outcomes.
+
+---
+
+## Social, Mental Health, Environmental, and Socio-Economic Indicators {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Category | Examples |
+|---|---|
+| **Social indicators** | Literacy rate, dependency ratio, family size, housing quality |
+| **Mental health indicators** | Suicide rate, prevalence of common mental disorders, psychiatric-bed availability |
+| **Environmental indicators** | Access to safe drinking water, sanitation coverage, air-quality index |
+| **Socio-economic indicators** | Per-capita income, unemployment rate, Gini coefficient of inequality |
+
+Each category captures a *determinant* of health (Lecture 1) being
+tracked as an *indicator* of health status — the two lists overlap by design.
+
+---
+
+## Health Policy and Quality-of-Life Indicators {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Health policy indicators** — proportion of GDP/GNP spent on health, proportion of health budget allocated to primary care, existence and implementation status of a national health policy
+- **Quality-of-life indicators** — composite measures such as **PQLI** and **HDI** (see Lecture 1 for full composition, formula, and India's current standing) — not re-derived here, only cross-referenced
+
+These sit at the "softer," more holistic end of the indicator spectrum — harder to measure precisely, but closer to what communities actually experience as health.
+
+---
+
+## SDG Indicators and India's Health Status {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **SDG indicators** — each of the 17 Sustainable Development Goals carries specific, globally agreed indicators; SDG 3 (Good Health and Well-being) alone has indicators spanning maternal/child mortality, communicable and non-communicable disease, universal health coverage, and health-system capacity
+- **India's current health status**, via NITI Aayog's SDG India Index, **and** the urban-rural divide in key indicators (e.g. infant mortality) are covered in full in **Lecture 1** — cross-referenced here rather than repeated
+
+Indicators only matter when tracked against a target and a timeline — the SDGs supply both.
+
+---
+
+## WHO's Global Reference List of 100 Core Health Indicators (2018) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+WHO's 2018 Global Reference List organizes exactly 100 indicators
+(plus health-related SDG indicators) into **four domains**, further
+split into eight subdomains:
+
+| Domain | Example subdomains / indicators |
+|---|---|
+| **Health status** | Mortality, morbidity — e.g. maternal mortality ratio, under-5 mortality rate |
+| **Risk factors** | Communicable and non-communicable disease risk factors — e.g. tobacco use, child immunization status |
+| **Service coverage** | Reproductive/maternal/newborn/child health, injuries and violence — e.g. skilled birth attendance, family-planning coverage |
+| **Health systems** | Health workforce, financing, infrastructure — e.g. health-worker density, health expenditure as % of GDP |
+
+**Why it exists:** to reduce duplicate reporting burden on countries by giving one standard, globally comparable indicator set that also now aligns with the health-related SDG indicators.
+
+*Structure confirmed via web search during this session (WHO/HIS/IER/GPM/2018.1); this slide summarizes the framework, not the full 100-indicator list.*
+
+---
+
+## Health Service Philosophy {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Seven principles that define what makes a health service genuinely useful to the population it serves:
+
+| Principle | Meaning |
+|---|---|
+| **Appropriate** | Matched to the actual health needs and local context |
+| **Comprehensive** | Covers promotive, preventive, curative, and rehabilitative care together |
+| **Adequate** | Sufficient in quantity and quality to meet demand |
+| **Available** | Present where and when it is needed |
+| **Accessible** | Reachable physically, socially, and in terms of information |
+| **Affordable** | Within the financial means of the population served |
+| **Feasible** | Realistically deliverable with existing resources and systems |
+
+---
+
+## Community Diagnosis {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Aspect | Clinical Diagnosis | Community Diagnosis |
+|--------|---------------------|----------------------|
+| Made by | Doctor | Epidemiologist |
+| Concerned with | Individual | Defined population |
+| Scope | Only sick | Both sick and healthy |
+| Purpose | Decide treatment | Plan prevention and promotion |
+| Follow-up | Case | Program |
+
+**Stages:** Data collection and analysis → Interpretation → Dissemination → Action
+
+**Relevance:** Identifies community health problems, sets priorities, and guides interventions.
+
+---
+
+## Community Diagnosis: Steps and Parameters {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**How a community diagnosis is made** (same logic as diagnosing a
+patient — history, examination, tests — applied to a population):
+
+1. Collect socio-demographic data (age, sex, education, occupation, income)
+2. Collect environmental data (housing, water, sanitation)
+3. Identify mortality/morbidity causes and risk factors
+4. Distinguish **professionally identified needs** from **felt needs**
+5. Write the findings as a short "community diagnosis" statement, then plan **community treatment**
+
+**Parameters used to assess a health service** for that community:
+*Relevance, Adequacy, Accessibility, Availability, Affordability, Completeness.*
+
+---
+
+## Community vs Hospital Medicine {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Aspect | Community Medicine | Hospital Medicine |
+|--------|---------------------|---------------------|
+| Service area | Defined population | Ill-defined catchment |
+| Approach | Active outreach | Passive, patient-driven |
+| Focus | Prevention and promotion | Curative care |
+| Coordination | Intersectoral | Limited |
+| Cost-benefit | High (population impact) | Individual outcome |
+
+**Principle:** Prevention is safer, cheaper, and easier than cure.
+
+---
+
+## Social Anatomy, Physiology, Pathology, and Therapy {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+| Concept | Analogy | Example |
+|---------|---------|---------|
+| Social Anatomy | Structure of society | Social stratification, institutions |
+| Social Physiology | Functions of society | Education, communication |
+| Social Pathology | Abnormalities | Crime, poverty, delinquency |
+| Social Therapy | Treatment | Legislation, reform, welfare services |
+
+---
+
+## Essential Public health services {background-color="#E8E4F3"}
+
+🟢 **MUST KNOW**
+
+::::: columns
+::: {.column width="70%"}
+![Essential Public Health Services wheel](../images/concept-health-disease/ephs.png){.slide-img height="420px"}
+:::
+
+::: {.column width="30%"}
+1. Monitor health  
+2. Diagnose and investigate  
+3. Inform, educate, empower  
+4. Mobilize community partnerships  
+5. Develop policies  
+6. Enforce laws  
+7. Link to/provide care  
+8. Assure competent workforce  
+9. Evaluate  
+10. Research for new insights
+:::
+:::::
+
+---
+
+## Primary Health Care: Alma-Ata, 1978 {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+At Alma-Ata (in present-day Kazakhstan), 134 WHO member states and 67 organisations adopted a declaration defining Primary Health Care (PHC):
+
+> "Essential health care based on practical, scientifically sound and socially acceptable methods and technology, made universally accessible to individuals and families... through their full participation and at a cost the community and country can afford... the first level of contact of individuals, the family and community with the national health system."
+
+**The goal it set:** *"Health for All by the year 2000"* — a level of health that would let all people lead a socially and economically productive life, with PHC declared the key strategy to reach it.
+
+---
+
+## Levels of Healthcare: Primary, Secondary, Tertiary {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Health-care is delivered through a graded, three-tier system — most needs are met at the base, with progressively fewer patients needing the more specialized tiers above:
+
+![The three-tier health-care pyramid](../images/concept-health-disease/healthcare_pyramid.svg){.slide-img .nostretch width="440px"}
+
+---
+
+## Principles of Primary Health Care {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Equitable distribution** — care reaches rural and underserved populations, not just cities
+- **Community participation** — individuals and communities help plan and run their own care, not just receive it
+- **Intersectoral coordination** — health links to agriculture, education, housing, water supply, and rural development
+- **Appropriate technology** — methods that are scientifically valid, affordable, and acceptable to the community, not merely the most advanced available
+
+---
+
+## Equality, Equity, and Justice {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+These three terms are often confused, but public health cares most about **equity**:
+
+![Equality, equity, and justice illustrated as a race](../images/concept-health-disease/equity_race.svg){.slide-img .nostretch width="600px"}
+
+**Example:** Ayushman Bharat gives free secondary/tertiary care specifically to the poorest households — the whole population has access to care, but the most disadvantaged get an extra opportunity. That is equity, not mere equality.
+
+---
+
+## The Health Team and "Health for All" {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **The health team** — modern health care is delivered not by doctors alone but by a coordinated team: physicians, nurses, pharmacists, allied health professionals, community health workers (ASHAs, ANMs in India), and health administrators, each contributing a distinct, complementary role
+- **"Health for All"** — the Alma-Ata goal (Lecture 3) depends on this team being present at every tier of the health-care pyramid (Lecture 3's levels-of-care slide), not concentrated only at the tertiary level — primary-care-level health workers are what make population-wide coverage possible
+
+---
+
+## Health Promotion: The Ottawa Charter's Five Action Areas {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The 1986 Ottawa Charter for Health Promotion defined health promotion as "the process of enabling people to increase control over, and to improve, their health" — operationalized through five action areas:
+
+![The Ottawa Charter's five action areas](../images/concept-health-disease/ottawa_charter.svg){.slide-img .nostretch width="320px"}
+
+Three underlying strategies run through all five: **enable, mediate, advocate.**
+
+---
+
+## The Jakarta Declaration (1997) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The Fourth International Conference on Health Promotion (Jakarta, 1997) — the first held in a developing country — set five priorities for carrying health promotion into the 21st century:
+
+1. Promote social responsibility for health
+2. Increase investment for health development
+3. Consolidate and expand partnerships for health
+4. Increase community capacity and empower the individual
+5. Secure an infrastructure for health promotion
+
+**Key shift from Ottawa to Jakarta:** Jakarta explicitly widened the lens beyond the health sector, calling for coordinated action across *all* social sectors — government, private sector, and civil society alike.
+
+---
+
+## Health Policy vs Health Law {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+| | Health Policy | Health Law |
+|---|---|---|
+| **Nature** | A statement of intent/direction — goals, priorities, strategies | A binding legal rule, enforceable by the state |
+| **Example** | National Health Policy (1983, 2002, 2017) | The Clinical Establishments Act; the Food Safety and Standards Act |
+| **Flexibility** | Can be revised administratively as priorities shift | Requires formal legislative amendment to change |
+| **Enforceability** | Guides action but is not directly justiciable | Directly enforceable in court |
+
+Policy sets the direction; law provides the binding mechanism to achieve it — most health systems need both.
+
+---
+
+## Operational Research and Health Services Research {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Operational research** — applied research conducted *within* an ongoing programme to solve a specific implementation problem (e.g. why immunization drop-out is high in a district) and improve that programme's performance in real time, rather than to generate generalizable new knowledge
+- **Health services research** — a broader field studying how health-care systems are organized, financed, and delivered, and how these factors affect access, cost, quality, and outcomes — informs policy rather than a single programme's day-to-day operation
+
+**Key distinction:** operational research is narrow and action-oriented (fix *this* programme); health services research is broad and system-oriented (understand *the* system).
+
+---
+
+## Disease Classification: ICD-11 Structure and Worked Examples {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The WHO's **International Classification of Diseases, 11th Revision (ICD-11)**, in effect since January 2022, has a structure quite different from ICD-10:
+
+- **Foundation Component** — a single, large multidimensional knowledge base containing all diseases, disorders, injuries, and related entities
+- **Linearizations** — purpose-specific subsets drawn from the Foundation (e.g. for mortality reporting, morbidity reporting) arranged as a conventional tabular list
+- **Extension codes** — over 14,000 modifier codes capturing severity, temporality, and other detail
+- **Cluster coding (post-coordination)** — combining a stem code with one or more extension codes to build a precise diagnostic entity, instead of needing one fixed code for every possible combination
+
+**Worked example:** `5A21` *Hypoglycaemia in the context of diabetes mellitus* → `5A21.0` *...without coma* (a stem code refined by its own subcategory) can be further clustered with extension codes for severity or laterality where relevant; `8C03.0` codes *Diabetic polyneuropathy* as a related complication.
+
+---
+
+## ICF: The International Classification of Functioning, Disability and Health {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Where ICD-11 classifies *diseases*, the **ICF** classifies **functioning** — a complementary, not competing, framework:
+
+- Covers **body functions and structures**, **activities** (task execution by an individual), and **participation** (involvement in life situations) — directly building on the impairment/disability/handicap taxonomy from Lecture 2
+- Explicitly includes **environmental and personal contextual factors** — recognizing that the same impairment can produce very different levels of disability depending on context (a wheelchair user faces a very different "disability" in a building with ramps versus one with only stairs)
+- Used alongside ICD-11 for a complete health picture: ICD-11 answers "what disease/disorder does this person have?"; ICF answers "how does it affect what this person can actually do and participate in?"
+
+---
+
+## Practice Questions: Descriptive (Lecture 3) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+1. Classify the indicators of health used to assess a community's health status, with examples of each category.
+2. Discuss DALY, QALY, and HALE as composite indicators of health status.
+3. Describe the structure of the WHO's Global Reference List of 100 Core Health Indicators.
+4. Discuss the principles of health service philosophy and their relevance to primary health care delivery.
+5. Describe the Ottawa Charter's five action areas and the Jakarta Declaration's priorities for health promotion.
+6. Differentiate between ICD-11 and ICF as classification systems, with an example of each.
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 1
+
+The Alma-Ata Declaration (1978) set which goal?
+
+- Eradication of all communicable disease by 1990
+- [Health for All by the year 2000, through Primary Health Care]{.correct data-explanation="Alma-Ata declared PHC the key strategy to achieve a level of health permitting all people a socially and economically productive life, by the year 2000."}
+- Universal vaccination coverage by 1985
+- A single global health insurance scheme
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 2
+
+Which principle of Primary Health Care specifically refers to health linking with sectors like agriculture, education, and water supply?
+
+- Appropriate technology
+- Equitable distribution
+- [Intersectoral coordination]{.correct data-explanation="Intersectoral coordination is the PHC principle recognizing that health outcomes depend on sectors beyond healthcare itself."}
+- Community participation
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 3
+
+Before planning any intervention, medical students conduct a village health survey to identify the prevailing health problems and locally available resources. This activity is an example of:
+
+- A clinical audit
+- [Community diagnosis]{.correct data-explanation="Community diagnosis is precisely this: an organized survey of a community to identify its health problems and available resources before planning action."}
+- A case-control study
+- A hospital needs-assessment
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 4
+
+The Declaration of Alma-Ata, which established Primary Health Care as the key strategy for Health for All, was adopted in:
+
+- 1946
+- 1974
+- [1978]{.correct}
+- 1990
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 5
+
+Which of the following is commonly used as an indicator of health equity within a population?
+
+- Gross Domestic Product
+- [Prevalence of childhood stunting]{.correct}
+- Number of hospital beds
+- Literacy rate of health workers
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 6
+
+The deployment of trained Village Health Guides (VHGs) drawn from within the community is best regarded as an example of which pillar of Primary Health Care?
+
+- [Community participation]{.correct}
+- Appropriate technology
+- Intersectoral coordination
+- Equitable distribution
+:::
+
+---
+
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 7
+
+India's health-care delivery system is organized into how many graded tiers/levels?
+
+- Two
+- [Three — Primary, Secondary, and Tertiary]{.correct}
+- Four
+- Five
+:::
+
+---
+
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 8
+
+Which of the following is **NOT** a characteristic of Primary Health Care as defined at Alma-Ata?
+
+- Universal accessibility
+- Community participation
+- [Priority given to state-of-the-art tertiary hospitals]{.correct data-explanation="PHC explicitly emphasizes essential, accessible, affordable care — not priority to high-tech tertiary hospitals; this is the characteristic that does NOT belong."}
+- Use of appropriate, affordable technology
+:::
+
+---
+
+## Self-Check: Question 9 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 9
+
+Of the various strategies proposed to achieve "Health for All," which was identified as the single most essential?
+
+- Vertical disease-control programmes
+- Hospital expansion
+- [Primary Health Care]{.correct}
+- Medical research funding
+:::
+
+---
+
+## Self-Check: Question 10 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 10
+
+The Integrated Child Development Services (ICDS) scheme, which combines health, nutrition, and early-education inputs across ministries, exemplifies which principle?
+
+- [Intersectoral coordination]{.correct}
+- Appropriate technology
+- Equitable distribution
+- Community participation
+:::
+
+---
+
+## Self-Check: Question 11 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 11
+
+Community participation, intersectoral coordination, appropriate technology, and equitable distribution are together known as the four pillars of:
+
+- The Bhore Committee report
+- [Primary Health Care]{.correct}
+- The National Health Policy
+- The Sustainable Development Goals
+:::
+
+---
+
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 12
+
+"Appropriate treatment of common diseases and injuries" is one of the:
+
+- Determinants of health
+- [Essential elements/components of Primary Health Care]{.correct}
+- SDG targets
+- Functions of the Bhore Committee
+:::
+
+---
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 13
+
+The original Alma-Ata Declaration set the target of "Health for All" to be achieved by the year:
+
+- 1990
+- 1995
+- [2000]{.correct}
+- 2010
+:::
+
+---
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 26
+### Question 14
+
+A district has an Infant Mortality Rate far higher than its Crude Death Rate would suggest. This pattern most strongly points to:
+
+- An ageing population
+- High literacy rates
+- [Poor maternal and child health services]{.correct data-explanation="A disproportionately high IMR relative to overall mortality points to gaps in maternal and child health care — antenatal care, safe delivery, and infant care."}
+- Good sanitation coverage
+:::
+
+---
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 15
+
+Which of the following is **NOT** typically used as a health-care delivery/utilization indicator?
+
+- Doctor–population ratio
+- Bed–population ratio
+- Hospital utilization rate
+- [Per-capita income]{.correct data-explanation="Per-capita income is an economic indicator, not a health-care delivery/utilization indicator."}
+:::
+
+---
+
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 16
+
+Indicators of health are useful for:
+
+- [Assessing the health status of a community]{.correct}
+- Diagnosing an individual patient's illness
+- [Comparing health status across regions/countries]{.correct}
+- [Monitoring and evaluating health programmes]{.correct}
+:::
+
+---
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 17
 
 **Assertion (A):** Infant Mortality Rate (IMR) is considered one of the most sensitive indicators of a community's health status.
 
@@ -942,45 +2482,219 @@ Which of the following are commonly considered components of "quality of life"?
 
 ---
 
-## Self-Check: Question 27 {background-color="#FDE8E8"}
+## Self-Check: Question 18 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
-::: {.quiz-question}
-### Question 27
+::: quiz-question
+### Question 18
 
-**Assertion (A):** The Physical Quality of Life Index (PQLI) does not include per-capita income as one of its components.
+A health service that is physically present but unaffordable to most of the population it serves fails which principle of health service philosophy?
 
-**Reason (R):** PQLI is composed of infant mortality rate, life expectancy at age one, and literacy rate.
+- Available
+- [Affordable]{.correct}
+- Appropriate
+- Feasible
+:::
 
-- [Both A and R are true, and R is the correct explanation of A]{.correct}
-- Both A and R are true, but R is not the correct explanation of A
-- A is true, R is false
-- A is false, R is true
+---
+
+## Self-Check: Question 19 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 19
+
+Which cadre of community-level health worker in India is most directly responsible for linking the community to the formal health system at the village level?
+
+- [ASHA (Accredited Social Health Activist)]{.correct}
+- A specialist physician
+- A hospital administrator
+- A pharmacist
+:::
+
+---
+
+## Self-Check: Question 20 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 20
+
+The three underlying strategies that run through all five of the Ottawa Charter's action areas are:
+
+- [Enable, mediate, advocate]{.correct}
+- Plan, implement, evaluate
+- Promote, prevent, treat
+- Fund, train, regulate
+:::
+
+---
+
+## Self-Check: Question 21 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 21
+
+The Jakarta Declaration (1997) was notable as the first international health promotion conference held in:
+
+- Europe
+- [A developing country]{.correct data-explanation="Jakarta, Indonesia hosted the Fourth International Conference on Health Promotion in 1997 — the first held in a developing country."}
+- North America
+- Australia
+:::
+
+---
+
+## Self-Check: Question 22 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 22
+
+Which of the following is directly enforceable in a court of law?
+
+- National Health Policy 2017
+- [The Food Safety and Standards Act]{.correct data-explanation="Unlike a policy statement, an Act of law is legally binding and directly enforceable in court."}
+- WHO guidelines
+- A government white paper
+:::
+
+---
+
+## Self-Check: Question 23 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 23
+
+Research conducted within an ongoing immunization programme, specifically to find out why drop-out rates are high in one district, is best described as:
+
+- Health services research
+- [Operational research]{.correct data-explanation="Operational research is narrow and action-oriented — it solves a specific implementation problem within an ongoing programme, unlike the broader, system-level focus of health services research."}
+- Basic biomedical research
+- Epidemiological surveillance
+:::
+
+---
+
+## Self-Check: Question 24 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 24
+
+Combining a stem code with one or more extension codes to build a precise diagnostic entity in ICD-11 is called:
+
+- Linearization
+- [Cluster coding (post-coordination)]{.correct}
+- Foundation mapping
+- Sentinel coding
+:::
+
+---
+
+## Self-Check: Question 25 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 25
+
+Unlike ICD-11, which classifies diseases, the ICF primarily classifies:
+
+- Drug interactions
+- [Functioning, disability, and health]{.correct}
+- Hospital administration
+- Health insurance claims
+:::
+
+---
+
+## Self-Check: Question 26 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 26
+
+WHO's 2018 Global Reference List organizes its 100 core health indicators into which four domains?
+
+- Input, process, output, impact
+- [Health status, risk factors, service coverage, health systems]{.correct}
+- Mortality, morbidity, disability, nutrition
+- National, state, district, community
 :::
 
 ---
 
 ## References {background-color="#FFF6DA"}
 
-1. Koch, R. (1884). *Die Aetiologie der Tuberkulose*. Postulates as later
+1. World Health Organization. *Constitution of the World Health
+   Organization* (1946/1948).
+2. World Health Organization / UNICEF. *Declaration of Alma-Ata*,
+   International Conference on Primary Health Care, Alma-Ata, USSR,
+   6–12 September 1978.
+3. World Health Organization. *Ottawa Charter for Health Promotion*,
+   First International Conference on Health Promotion, Ottawa, 1986.
+4. World Health Organization. *Jakarta Declaration on Leading Health
+   Promotion into the 21st Century*, Fourth International Conference
+   on Health Promotion, Jakarta, 1997.
+5. Blum, H.L. *Planning for Health: Development and Application of
+   Social Change Theory*. Human Sciences Press, 1974.
+6. Lalonde, M. *A New Perspective on the Health of Canadians*.
+   Government of Canada, 1974.
+7. Koch, R. (1884). *Die Aetiologie der Tuberkulose*. Postulates as later
    formalized by Koch and Loeffler.
-2. Hill, A.B. (1965). "The Environment and Disease: Association or
+8. Hill, A.B. (1965). "The Environment and Disease: Association or
    Causation?" *Proceedings of the Royal Society of Medicine*, 58(5),
    295–300.
-3. Rothman, K.J. (1976). "Causes." *American Journal of Epidemiology*,
+9. Rothman, K.J. (1976). "Causes." *American Journal of Epidemiology*,
    104(6), 587–592.
-4. World Health Organization. *Prevention concepts and levels of
-   prevention* — standard public health teaching reference.
-5. Singh, A., et al. Syndemic theory in public health — as applied to
-   co-occurring disease and social conditions.
-6. Park, K. *Park's Textbook of Preventive and Social Medicine* —
-   standard reference for concepts of health, determinants, indicators
-   of health, PQLI, and right to health.
-7. World Health Organization. *Constitution of the World Health
-   Organization* (1946/1948).
-8. United Nations Development Programme. *Human Development Report* —
-   HDI methodology.
+10. World Health Organization. *Prevention concepts and levels of
+    prevention* — standard public health teaching reference.
+11. Singh, A., et al. Syndemic theory in public health — as applied to
+    co-occurring disease and social conditions.
+
+---
+
+## References (contd.) {background-color="#FFF6DA"}
+
+*Items 13–15 below cite figures retrieved via web search during this
+session — check the latest edition of each source for current numbers.*
+
+12. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+    standard reference for concepts of health, determinants, indicators
+    of health, PQLI, and right to health.
+13. United Nations Development Programme. *Human Development Report
+    2025* (data year 2023) — HDI methodology, India's current value/rank.
+14. NITI Aayog, Government of India. *SDG India Index 2023–24* —
+    overall and goal-wise scores.
+15. Government of India. Sample Registration System (SRS) *Statistical
+    Report 2023* — infant mortality rate, national/rural/urban.
+16. Constitution of India, Part IV (Directive Principles of State
+    Policy), Article 47.
+
+---
+
+## References (contd. 2) {background-color="#FFF6DA"}
+
+17. World Health Organization. *2018 Global Reference List of 100 Core
+    Health Indicators (plus health-related SDGs)*. WHO/HIS/IER/GPM/2018.1.
+18. World Health Organization. *International Classification of
+    Diseases, 11th Revision (ICD-11)*, in effect since January 2022.
+19. World Health Organization. *International Classification of
+    Functioning, Disability and Health (ICF)*.
+20. Bhalwar, R. (Ed.) *Text Book of Community Medicine*.
+21. Indian Association of Preventive and Social Medicine (IAPSM), Core
+    Committee. *Community Medicine: An Introduction*.
 
 **Want to practice?** See the companion [Concept of Health and Disease
 Question Bank](concept-health-disease-question-bank.qmd) for long

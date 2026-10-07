@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="520" viewBox="0 0 420 520" role="img" aria-labelledby="title desc">
+  <title id="title">The spectrum of health, from death to positive health</title>
+  <desc id="desc">A vertical continuum with seven points, from Death at the bottom through Severe Sickness, Mild Sickness, Unrecognized Sickness, Freedom from Sickness, and Better Health, up to Positive Health at the top. Colour shifts from red at the bottom to green at the top, showing health as a moving continuum rather than a fixed state.</desc>
+
+  <defs>
+    <marker id="arrowhead-up" markerWidth="12" markerHeight="12" refX="6" refY="2" orient="auto">
+      <path d="M0,10 L6,0 L12,10 Z" fill="#2c3e50"/>
+    </marker>
+  </defs>
+
+  <line x1="60" y1="495" x2="60" y2="25" stroke="#2c3e50" stroke-width="3" marker-end="url(#arrowhead-up)"/>
+
+  <!-- 7 points, bottom to top -->
+  <!-- Death -->
+  <circle cx="60" cy="470" r="7" fill="#c0392b"/>
+  <rect x="80" y="450" width="300" height="40" rx="6" fill="#FDE8E8" stroke="#c0392b" stroke-width="1"/>
+  <text x="230" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#962d22">Death</text>
+
+  <!-- Severe Sickness -->
+  <circle cx="60" cy="405" r="7" fill="#c0392b"/>
+  <rect x="80" y="385" width="300" height="40" rx="6" fill="#FDE8E8" stroke="#c0392b" stroke-width="1"/>
+  <text x="230" y="410" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#962d22">Severe Sickness</text>
+
+  <!-- Mild Sickness -->
+  <circle cx="60" cy="340" r="7" fill="#d9822b"/>
+  <rect x="80" y="320" width="300" height="40" rx="6" fill="#FDF0DC" stroke="#d9822b" stroke-width="1"/>
+  <text x="230" y="345" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#8a5418">Mild Sickness</text>
+
+  <!-- Unrecognized Sickness -->
+  <circle cx="60" cy="275" r="7" fill="#d9822b"/>
+  <rect x="80" y="255" width="300" height="40" rx="6" fill="#FFF6DA" stroke="#d9822b" stroke-width="1"/>
+  <text x="230" y="280" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#8a5418">Unrecognized Sickness</text>
+
+  <!-- Freedom from Sickness -->
+  <circle cx="60" cy="210" r="7" fill="#6a9b4f"/>
+  <rect x="80" y="190" width="300" height="40" rx="6" fill="#EFF6EA" stroke="#6a9b4f" stroke-width="1"/>
+  <text x="230" y="215" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#3f5e2e">Freedom from Sickness</text>
+
+  <!-- Better Health -->
+  <circle cx="60" cy="145" r="7" fill="#4a8c3a"/>
+  <rect x="80" y="125" width="300" height="40" rx="6" fill="#E3F2E1" stroke="#4a8c3a" stroke-width="1"/>
+  <text x="230" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2d5a20">Better Health</text>
+
+  <!-- Positive Health -->
+  <circle cx="60" cy="70" r="8" fill="#2d5a20"/>
+  <rect x="80" y="48" width="300" height="44" rx="6" fill="#E3F2E1" stroke="#2d5a20" stroke-width="2"/>
+  <text x="230" y="76" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="bold" fill="#1e3d15">Positive Health</text>
+
+  <text x="230" y="515" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#555">A continuum, not a fixed state — movement is possible in both directions</text>
+</svg>
