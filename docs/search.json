@@ -14587,7 +14587,7 @@
     "href": "foundations/concept-health-disease.html#lecture-3-indicators-of-health",
     "title": "Concept of Health and Disease",
     "section": "Lecture 3: Indicators of Health",
-    "text": "Lecture 3: Indicators of Health\n📚 Lecture 3 of 3 · CM1.L3\nIndicators of health; demographic profile of India and its impact; MDG to SDG",
+    "text": "Lecture 3: Indicators of Health\n📚 Lecture 3 of 3 · CM1.L3\nIndicators of health — mortality, morbidity, disability, and more; the WHO’s 100 core health indicators; health service philosophy; community diagnosis and health-care delivery; primary health care and health promotion; disease classification",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -14599,7 +14599,7 @@
     "href": "foundations/concept-health-disease.html#indicators-of-health-a-classification",
     "title": "Concept of Health and Disease",
     "section": "Indicators of Health: A Classification",
-    "text": "Indicators of Health: A Classification\n🟡 SHOULD KNOW\nThe WHO defines a health indicator as a variable that helps measure changes which cannot be measured directly. No single indicator captures “health” — a full profile draws on several categories:\nMortality · Morbidity · Disability · Nutritional status · Health-care delivery · Utilization · Social/mental health · Environmental · Socio-economic · Health policy · Quality of life · Social indicators\nA good indicator should be: Valid · Reliable · Sensitive · Specific · Feasible · Relevant.\nDALY, QALY, and the mortality/morbidity indicators used in Indian health surveillance are covered in depth in Health Information and Basic Medical Statistics (Chapter 21).",
+    "text": "Indicators of Health: A Classification\n🟡 SHOULD KNOW\nThe WHO defines a health indicator as a variable that helps measure changes which cannot be measured directly. No single indicator captures “health” — a full profile draws on several categories, covered across the next few slides:\nMortality · Morbidity · Disability · Nutritional status · Health-care delivery · Utilization · Social/mental health · Environmental · Socio-economic · Health policy · Quality of life · SDG indicators\nA good indicator should be:\n\n\n\nCharacteristic\nMeaning\n\n\n\n\nValid\nActually measures what it claims to measure\n\n\nReliable\nGives consistent results on repeated measurement\n\n\nSensitive\nDetects real changes when they occur\n\n\nSpecific\nReflects changes only in the condition it targets\n\n\nFeasible\nCan realistically be collected given resources\n\n\nRelevant\nHas clear bearing on health policy or action",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -19562,6 +19562,90 @@
     "title": "Concept of Health and Disease",
     "section": "Monitoring, Surveillance, and Evaluation of Control",
     "text": "Monitoring, Surveillance, and Evaluation of Control\n🟣 MAY KNOW\n\n\n\n\n\n\n\nTerm\nDefinition\n\n\n\n\nMonitoring\nContinuous measurement of disease occurrence or programme performance\n\n\nSurveillance\nOngoing, systematic collection, analysis, and interpretation of health data essential to planning, implementation, and evaluation of public health practice\n\n\nSentinel surveillance\nSurveillance based on a selected sample of reporting sites (sentinel sites/physicians) rather than the whole population — used when complete coverage isn’t feasible\n\n\nEvaluation of control\nComparing the outcomes achieved against pre-set objectives, to judge a programme’s effectiveness",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease (CM1)"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#mortality-and-morbidity-indicators",
+    "href": "foundations/concept-health-disease.html#mortality-and-morbidity-indicators",
+    "title": "Concept of Health and Disease",
+    "section": "Mortality and Morbidity Indicators",
+    "text": "Mortality and Morbidity Indicators\n🟢 MUST KNOW\n\n\n\n\n\n\n\nType\nExamples\n\n\n\n\nMortality indicators\nCrude Death Rate (CDR), Infant Mortality Rate (IMR), Maternal Mortality Ratio (MMR), Under-5 Mortality Rate, Life Expectancy at Birth\n\n\nMorbidity indicators\nIncidence and prevalence rates, notification rates of specific diseases, case-fatality rate, disease-specific attack rates\n\n\n\nMortality indicators remain the most widely available and comparable health indicators across countries; morbidity indicators are harder to collect completely but capture non-fatal disease burden that mortality data misses entirely.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease (CM1)"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#disability-indicators-hale-qaly-daly",
+    "href": "foundations/concept-health-disease.html#disability-indicators-hale-qaly-daly",
+    "title": "Concept of Health and Disease",
+    "section": "Disability Indicators: HALE, QALY, DALY",
+    "text": "Disability Indicators: HALE, QALY, DALY\n🟢 MUST KNOW\nComposite indicators that combine mortality and non-fatal health loss into a single number:\n\n\n\n\n\n\n\nIndicator\nWhat it captures\n\n\n\n\nHALE (Health-Adjusted Life Expectancy)\nExpected years of life lived in full health, discounting years lived with disability\n\n\nQALY (Quality-Adjusted Life Year)\nA year of life weighted by the quality of health during it — used mainly in cost-effectiveness analysis\n\n\nDALY (Disability-Adjusted Life Year)\nYears of healthy life lost — years lost to premature death (YLL) + years lived with disability (YLD)\n\n\n\nFull methodology and worked calculations for DALY/QALY/HALE are covered in depth in Health Information and Basic Medical Statistics (Chapter 21) — this slide gives the definitional overview needed here.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease (CM1)"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#nutritional-health-care-delivery-and-utilization-indicators",
+    "href": "foundations/concept-health-disease.html#nutritional-health-care-delivery-and-utilization-indicators",
+    "title": "Concept of Health and Disease",
+    "section": "Nutritional, Health-Care Delivery, and Utilization Indicators",
+    "text": "Nutritional, Health-Care Delivery, and Utilization Indicators\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\nCategory\nExamples\n\n\n\n\nNutritional indicators\nPrevalence of low birth weight, stunting/wasting/underweight in children, Body Mass Index distribution, prevalence of anaemia\n\n\nHealth-care delivery indicators\nDoctor–population ratio, bed–population ratio, nurse–population ratio, number of health facilities per population\n\n\nUtilization indicators\nHospital bed-occupancy rate, average length of stay, outpatient attendance rate, immunization coverage rate\n\n\n\nDelivery indicators measure what exists; utilization indicators measure what is actually used — a well-resourced system with poor utilization still produces poor outcomes.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease (CM1)"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#social-mental-health-environmental-and-socio-economic-indicators",
+    "href": "foundations/concept-health-disease.html#social-mental-health-environmental-and-socio-economic-indicators",
+    "title": "Concept of Health and Disease",
+    "section": "Social, Mental Health, Environmental, and Socio-Economic Indicators",
+    "text": "Social, Mental Health, Environmental, and Socio-Economic Indicators\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\nCategory\nExamples\n\n\n\n\nSocial indicators\nLiteracy rate, dependency ratio, family size, housing quality\n\n\nMental health indicators\nSuicide rate, prevalence of common mental disorders, psychiatric-bed availability\n\n\nEnvironmental indicators\nAccess to safe drinking water, sanitation coverage, air-quality index\n\n\nSocio-economic indicators\nPer-capita income, unemployment rate, Gini coefficient of inequality\n\n\n\nEach category captures a determinant of health (Lecture 1) being tracked as an indicator of health status — the two lists overlap by design.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease (CM1)"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#health-policy-and-quality-of-life-indicators",
+    "href": "foundations/concept-health-disease.html#health-policy-and-quality-of-life-indicators",
+    "title": "Concept of Health and Disease",
+    "section": "Health Policy and Quality-of-Life Indicators",
+    "text": "Health Policy and Quality-of-Life Indicators\n🟣 MAY KNOW\n\nHealth policy indicators — proportion of GDP/GNP spent on health, proportion of health budget allocated to primary care, existence and implementation status of a national health policy\nQuality-of-life indicators — composite measures such as PQLI and HDI (see Lecture 1 for full composition, formula, and India’s current standing) — not re-derived here, only cross-referenced\n\nThese sit at the “softer,” more holistic end of the indicator spectrum — harder to measure precisely, but closer to what communities actually experience as health.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease (CM1)"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#sdg-indicators-and-indias-health-status",
+    "href": "foundations/concept-health-disease.html#sdg-indicators-and-indias-health-status",
+    "title": "Concept of Health and Disease",
+    "section": "SDG Indicators and India’s Health Status",
+    "text": "SDG Indicators and India’s Health Status\n🟣 MAY KNOW\n\nSDG indicators — each of the 17 Sustainable Development Goals carries specific, globally agreed indicators; SDG 3 (Good Health and Well-being) alone has indicators spanning maternal/child mortality, communicable and non-communicable disease, universal health coverage, and health-system capacity\nIndia’s current health status, via NITI Aayog’s SDG India Index, and the urban-rural divide in key indicators (e.g. infant mortality) are covered in full in Lecture 1 — cross-referenced here rather than repeated\n\nIndicators only matter when tracked against a target and a timeline — the SDGs supply both.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Concept of Health and Disease (CM1)"
+    ]
+  },
+  {
+    "objectID": "foundations/concept-health-disease.html#whos-global-reference-list-of-100-core-health-indicators-2018",
+    "href": "foundations/concept-health-disease.html#whos-global-reference-list-of-100-core-health-indicators-2018",
+    "title": "Concept of Health and Disease",
+    "section": "WHO’s Global Reference List of 100 Core Health Indicators (2018)",
+    "text": "WHO’s Global Reference List of 100 Core Health Indicators (2018)\n🟡 SHOULD KNOW\nWHO’s 2018 Global Reference List organizes exactly 100 indicators (plus health-related SDG indicators) into four domains, further split into eight subdomains:\n\n\n\n\n\n\n\nDomain\nExample subdomains / indicators\n\n\n\n\nHealth status\nMortality, morbidity — e.g. maternal mortality ratio, under-5 mortality rate\n\n\nRisk factors\nCommunicable and non-communicable disease risk factors — e.g. tobacco use, child immunization status\n\n\nService coverage\nReproductive/maternal/newborn/child health, injuries and violence — e.g. skilled birth attendance, family-planning coverage\n\n\nHealth systems\nHealth workforce, financing, infrastructure — e.g. health-worker density, health expenditure as % of GDP\n\n\n\nWhy it exists: to reduce duplicate reporting burden on countries by giving one standard, globally comparable indicator set that also now aligns with the health-related SDG indicators.\nStructure confirmed via web search during this session (WHO/HIS/IER/GPM/2018.1); this slide summarizes the framework, not the full 100-indicator list.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
