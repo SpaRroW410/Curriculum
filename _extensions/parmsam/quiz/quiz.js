@@ -153,9 +153,10 @@ window.RevealQuiz = function () {
 
           function checkAnswer() {
             if (selectedOptions.length > 0 && !isAnswered) {
-              isAnswered = true;
 
               if (isMultipleChoice) {
+                isAnswered = true;
+
                 // Multiple choice logic: check if ALL correct answers are selected AND no incorrect answers
                 let correctOptions = Array.from(options).filter(opt =>
                   opt.querySelector('span') && opt.querySelector('span').classList.contains('correct')
@@ -187,8 +188,35 @@ window.RevealQuiz = function () {
                   cloneFeedbackElement.textContent = settings.defaultIncorrect || "Incorrect! You need to select ALL correct answers and NO incorrect ones.";
                   cloneFeedbackElement.style.color = '#c0392b';
                 }
+
+                if (settings.includeScore) {
+                  deck.getSlides().forEach(slide => {
+                    let scoreElement = slide.querySelector('.score');
+                    if (scoreElement) {
+                      updateScore(deck, scoreElement, correctCount, totalCount);
+                    }
+                  });
+                }
+
+                // disableOnCheck applies only to this multi-select path, which
+                // keeps using an explicit Check button click.
+                if (settings.disableOnCheck) {
+                  cloneCheckBtn.disabled = true;
+                  cloneResetBtn.disabled = false;
+                  cloneNextBtn.disabled = false;
+                  options.forEach(opt => opt.disabled = true);
+                } else {
+                  isAnswered = false;
+                  cloneCheckBtn.disabled = false;
+                  options.forEach(opt => opt.disabled = false);
+                }
               } else {
-                // Single choice logic
+                // Single choice logic: auto-checks on every click. A WRONG
+                // pick is marked incorrect and shows feedback, but does NOT
+                // lock the question -- every other option stays clickable so
+                // the learner can keep trying. Only a CORRECT pick sets
+                // isAnswered and locks the question (Reset is then needed to
+                // try again).
                 let selectedOption = selectedOptions[0];
                 let isCorrect = selectedOption.querySelector('span') && selectedOption.querySelector('span').classList.contains('correct');
                 let hasExplanation = selectedOption.querySelector('span') && selectedOption.querySelector('span').hasAttribute('data-explanation');
@@ -197,6 +225,7 @@ window.RevealQuiz = function () {
                   explanation = selectedOption.querySelector('span').getAttribute('data-explanation');
                 }
                 if (isCorrect) {
+                  isAnswered = true;
                   selectedOption.classList.add('correct');
                   cloneFeedbackElement.textContent = explanation || settings.defaultCorrect;
                   cloneFeedbackElement.style.color = '#27ae60';
@@ -206,30 +235,15 @@ window.RevealQuiz = function () {
                   cloneFeedbackElement.textContent = explanation || settings.defaultIncorrect;
                   cloneFeedbackElement.style.color = '#c0392b';
                 }
-              }
 
-              if (settings.includeScore) {
-                deck.getSlides().forEach(slide => {
-                  let scoreElement = slide.querySelector('.score');
-                  if (scoreElement) {
-                    updateScore(deck, scoreElement, correctCount, totalCount);
-                  }
-                });
-              }
-
-              // Single-choice questions auto-check on option click, so they always lock
-              // after answering (Reset is required to try again) regardless of
-              // disableOnCheck -- that setting only still applies to the multi-select
-              // path, which keeps using an explicit Check button click.
-              if (!isMultipleChoice || settings.disableOnCheck) {
-                cloneCheckBtn.disabled = true;
-                cloneResetBtn.disabled = false;
-                cloneNextBtn.disabled = false;
-                options.forEach(opt => opt.disabled = true);
-              } else {
-                isAnswered = false;
-                cloneCheckBtn.disabled = false;
-                options.forEach(opt => opt.disabled = false);
+                if (settings.includeScore) {
+                  deck.getSlides().forEach(slide => {
+                    let scoreElement = slide.querySelector('.score');
+                    if (scoreElement) {
+                      updateScore(deck, scoreElement, correctCount, totalCount);
+                    }
+                  });
+                }
               }
 
               if (settings.disableReset) {
