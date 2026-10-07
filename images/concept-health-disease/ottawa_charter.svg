@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="640" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">The Ottawa Charter's five priority action areas for health promotion</title>
+  <desc id="desc">A wheel diagram with "Health Promotion" at the centre and five surrounding action areas from the 1986 Ottawa Charter: Build Healthy Public Policy, Create Supportive Environments, Strengthen Community Action, Develop Personal Skills, and Reorient Health Services.</desc>
+
+  <!-- spokes -->
+  <line x1="320" y1="320" x2="320" y2="170" stroke="#999" stroke-width="2"/>
+  <line x1="320" y1="320" x2="463" y2="274" stroke="#999" stroke-width="2"/>
+  <line x1="320" y1="320" x2="408" y2="441" stroke="#999" stroke-width="2"/>
+  <line x1="320" y1="320" x2="232" y2="441" stroke="#999" stroke-width="2"/>
+  <line x1="320" y1="320" x2="177" y2="274" stroke="#999" stroke-width="2"/>
+
+  <!-- hub -->
+  <circle cx="320" cy="320" r="85" fill="#2c3e50"/>
+  <text x="320" y="315" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="bold" fill="#ffffff">HEALTH</text>
+  <text x="320" y="337" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="bold" fill="#ffffff">PROMOTION</text>
+
+  <!-- 0: Build Healthy Public Policy (top) -->
+  <rect x="230" y="52" width="180" height="56" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="320" y="75" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Build Healthy</text>
+  <text x="320" y="94" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Public Policy</text>
+
+  <!-- 1: Create Supportive Environments (upper right) -->
+  <rect x="458" y="218" width="180" height="56" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="548" y="241" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Create Supportive</text>
+  <text x="548" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Environments</text>
+
+  <!-- 2: Strengthen Community Action (lower right) -->
+  <rect x="371" y="486" width="180" height="56" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="461" y="509" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Strengthen</text>
+  <text x="461" y="528" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Community Action</text>
+
+  <!-- 3: Develop Personal Skills (lower left) -->
+  <rect x="89" y="486" width="180" height="56" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="179" y="509" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Develop</text>
+  <text x="179" y="528" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Personal Skills</text>
+
+  <!-- 4: Reorient Health Services (upper left) -->
+  <rect x="4" y="218" width="180" height="56" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="94" y="241" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Reorient Health</text>
+  <text x="94" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Services</text>
+</svg>
