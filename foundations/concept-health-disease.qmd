@@ -888,12 +888,30 @@ Which article of the Indian Constitution, under the Directive Principles of Stat
 
 ---
 
+## Self-Check: Question 27 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 27
+
+The concept of health that views disease as resulting from an imbalance between man, agent, and environment is termed the:
+
+- Biomedical model
+- [Ecological model]{.correct}
+- Psychosocial model
+- Holistic model
+:::
+
+---
+
 ## Lecture 2: Concept of Disease and Prevention {background-color="#E6EEF5"}
 
 📚 **Lecture 2 of 3** · **CM1.L2**
 
-*Concept of disease and causation, natural history of disease, levels
-of prevention, modes of intervention*
+*Concept of disease (impairment, disability, handicap), causation
+models, natural history of disease, levels and modes of prevention,
+concept of control, changing pattern of disease*
 
 ---
 
@@ -914,6 +932,23 @@ things in community medicine:
 **Why the distinction matters:** a person can have disease without
 illness (asymptomatic infection), or feel ill without demonstrable disease
 — both are relevant to how and when a health system responds.
+
+---
+
+## Concept of Disease: Impairment, Disability, and Handicap {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Beyond disease/illness/sickness, the WHO's classical taxonomy traces
+the *consequences* of disease through three further stages:
+
+| Term | Definition | Example (after polio) |
+|---|---|---|
+| **Impairment** | Any loss or abnormality of psychological, physiological, or anatomical structure or function | Weakness of the leg muscles |
+| **Disability** | Any restriction or lack of ability to perform an activity in the manner considered normal | Difficulty walking |
+| **Handicap** | The social disadvantage that results, limiting or preventing fulfilment of a normal role | Unable to continue work as a manual labourer |
+
+**Key point:** not every impairment causes a disability, and not every disability causes a handicap — the final stage depends heavily on social and environmental context, not biology alone.
 
 ---
 
@@ -1010,6 +1045,40 @@ but before disease develops.
 
 ---
 
+## Levels of Prevention by Unit of Application: Individual, Family, Community, System {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+The same levels of prevention (primordial, primary, secondary,
+tertiary) can be applied at different units of organization:
+
+| Unit | Example activity |
+|---|---|
+| **Individual** | Personal health education; vaccination of a person; individual risk counselling |
+| **Family** | Genetic counselling; family planning services; home-based care of a disabled member |
+| **Community** | Community-wide screening programmes; sanitation and water-supply projects; health education campaigns |
+| **System** | Health policy and legislation; regulation of food/drug safety; national insurance and financing schemes |
+
+Prevention planning works best when interventions are coordinated across all four units, not applied at only one.
+
+---
+
+## Modes of Intervention {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Five modes of intervention operationalize the levels of prevention:
+
+| Mode | What it involves | Maps to |
+|---|---|---|
+| **Health promotion** | Health education, environmental modification, nutritional intervention, lifestyle change | Primordial / Primary prevention |
+| **Specific protection** | Immunization, use of specific nutrients, protection against occupational hazards | Primary prevention |
+| **Early diagnosis and treatment** | Screening, case-finding, prompt treatment to halt progression | Secondary prevention |
+| **Disability limitation** | Adequate treatment to arrest disease and prevent further complications | Secondary / Tertiary prevention |
+| **Rehabilitation** | Restoring the individual to maximum functional capacity, physically, socially, and economically | Tertiary prevention |
+
+---
+
 ## Multifactorial Causation {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -1023,6 +1092,46 @@ environmental, social), rather than one agent producing one disease.
 causation (one specific agent → one specific disease) is closer to a
 single-cause model — which is exactly what Koch's postulates were built
 to test.
+
+---
+
+## Sufficient-Component Cause Model {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+Rothman's "causal pie" model refines the web-of-causation idea: a disease
+occurs only when a **sufficient cause** — a full "pie" made of several
+**component causes** — is complete. The same disease can have multiple
+different sufficient causes (multiple different pies), each built from
+different combinations of components. Removing just *one* component
+(a "necessary cause," if it appears in every pie) can prevent the disease
+even without knowing every other component.
+
+---
+
+## Syndemics: A Modern Extension {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+A **syndemic** is the concept that two or more diseases (or a disease and
+a social condition) cluster together and interact within a population,
+each worsening the other — for example, the interaction between
+undernutrition, poor sanitation, and infectious disease in the same
+vulnerable communities. It extends the web-of-causation idea from a
+single disease to interacting epidemics.
+
+---
+
+## From Miasma to Germ Theory {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Miasma theory** (dominant until the 19th century) — believed disease
+  spread through "bad air" from decomposing matter; still drove
+  genuinely useful sanitation reforms
+- **Germ theory** (Pasteur, Koch, late 19th century) — established that
+  specific microorganisms cause specific diseases, replacing miasma
+  theory and giving rise to modern microbiology and Koch's postulates
 
 ---
 
@@ -1086,6 +1195,351 @@ sufficient or direct cause.
 Public health prevention strategy focuses on **modifiable** risk factors,
 since non-modifiable ones can only inform risk stratification, not
 intervention.
+
+---
+
+## Concept of Control: Control, Elimination, and Eradication {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+| Term | Definition |
+|---|---|
+| **Control** | Reduction of disease incidence, prevalence, morbidity, or mortality to a locally acceptable level through deliberate effort — continued intervention is still required |
+| **Elimination** | Reduction to zero of the incidence of a disease in a defined geographic area — continued intervention is still required (e.g. maternal and neonatal tetanus elimination) |
+| **Eradication** | Permanent reduction to zero of the worldwide incidence of infection — intervention measures are no longer needed (e.g. smallpox) |
+
+**Key distinction:** all three reduce disease toward zero, but only eradication means intervention can stop entirely — control and elimination both require it to continue.
+
+---
+
+## Monitoring, Surveillance, and Evaluation of Control {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+| Term | Definition |
+|---|---|
+| **Monitoring** | Continuous measurement of disease occurrence or programme performance |
+| **Surveillance** | Ongoing, systematic collection, analysis, and interpretation of health data essential to planning, implementation, and evaluation of public health practice |
+| **Sentinel surveillance** | Surveillance based on a selected sample of reporting sites (sentinel sites/physicians) rather than the whole population — used when complete coverage isn't feasible |
+| **Evaluation of control** | Comparing the outcomes achieved against pre-set objectives, to judge a programme's effectiveness |
+
+---
+
+## Changing Pattern of Disease: Epidemiological Transition and the Double/Triple Burden {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+**Epidemiological transition:** as a population develops
+economically, its pattern of disease and death shifts from being
+dominated by infection and malnutrition toward chronic,
+degenerative, and man-made diseases — classically described in
+stages (Age of Pestilence and Famine → Age of Receding Pandemics →
+Age of Degenerative and Man-made Diseases).
+
+- **Double burden of disease:** a population experiencing *both* a
+  continuing high communicable-disease burden *and* a fast-rising
+  non-communicable-disease burden at the same time — the pattern
+  India and many developing countries face today (see Lecture 1's
+  developed-vs-developing comparison)
+- **Triple burden:** the double burden plus a third component —
+  most often emerging and re-emerging infections (e.g. COVID-19,
+  drug-resistant TB, dengue resurgence); some texts instead name
+  injuries/accidents as the third component
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+A person feels unwell and is fatigued, but no clinical or laboratory
+abnormality can be found. This best describes:
+
+- Disease
+- [Illness]{.correct data-explanation="Illness is the subjective, self-perceived experience of feeling unwell, independent of a demonstrable clinical abnormality."}
+- Sickness
+- Syndemic
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Which of the following is NOT part of the epidemiological triad?
+
+- Agent
+- Host
+- Environment
+- [Outcome]{.correct data-explanation="The epidemiological triad is Agent, Host, and Environment. Outcome is a result of their interaction, not a member of the triad."}
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+An anti-smoking campaign aimed at children who have never smoked, to
+prevent the smoking habit from ever starting, is an example of:
+
+- Primary prevention
+- [Primordial prevention]{.correct data-explanation="Primordial prevention targets the emergence of the risk factor itself (smoking initiation), before any exposure exists — distinct from primary prevention, which acts once exposure/risk is already present."}
+- Secondary prevention
+- Tertiary prevention
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+Physiotherapy and rehabilitation after a stroke, to limit disability, is
+an example of:
+
+- Primary prevention
+- Secondary prevention
+- [Tertiary prevention]{.correct data-explanation="Tertiary prevention aims to limit disability and rehabilitate once disease/damage has already occurred."}
+- Primordial prevention
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+Which criterion is considered the one truly essential Bradford Hill
+criterion for causation?
+
+- Analogy
+- Specificity
+- [Temporality]{.correct data-explanation="Temporality — the cause must precede the effect — is the only Bradford Hill criterion considered an absolute requirement; the others strengthen, but don't by themselves prove, causation."}
+- Coherence
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+Koch's postulates are best suited to establishing causation for:
+
+- Chronic non-communicable diseases with multiple risk factors
+- [A specific microorganism causing a specific infectious disease]{.correct data-explanation="Koch's postulates were designed to prove that one specific microorganism causes one specific infectious disease — a single-cause model, unlike multifactorial NCDs."}
+- Social determinants of health
+- Environmental exposures with no identifiable single agent
+:::
+
+---
+
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 7
+
+The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
+
+- All disease cases in a community, visible and hidden
+- [Only the clinically diagnosed, reported cases]{.correct data-explanation="The visible tip represents diagnosed and reported cases; the much larger hidden portion below the surface represents sub-clinical and undiagnosed cases."}
+- Only fatal cases
+- Cases prevented by primordial prevention
+:::
+
+---
+
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 8
+
+A person with hearing loss is unable to communicate effectively but can still perform most daily activities. This condition is best termed as:
+
+- Disease
+- [Impairment]{.correct data-explanation="A loss or abnormality of structure/function (like hearing loss) that doesn't fully prevent daily activities is an impairment; disability describes a resulting restriction in performing tasks, and handicap describes the social disadvantage that follows."}
+- Disability
+- Handicap
+:::
+
+---
+
+## Self-Check: Question 9 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 9
+
+A patient has early-stage hypertension detectable only through blood pressure measurement, with no symptoms and normal daily functioning. This best illustrates:
+
+- Clinical disease
+- [Subclinical disease]{.correct data-explanation="A subclinical disease is present and measurable (e.g., raised BP) but produces no symptoms and no disruption of normal functioning."}
+- Disability
+- Handicap
+:::
+
+---
+
+## Self-Check: Question 10 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 10
+
+In a community screening programme, for every one clinically diagnosed case of diabetes identified, several undiagnosed and pre-diabetic cases are found in the population. This phenomenon is best described as:
+
+- Natural history of disease
+- Levels of prevention
+- [The iceberg phenomenon]{.correct data-explanation="The iceberg phenomenon describes how visible, diagnosed cases represent only the 'tip,' while a much larger burden of subclinical/undiagnosed disease lies hidden beneath."}
+- Sufficient-component cause model
+:::
+
+---
+
+## Self-Check: Question 11 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 11
+
+**Assertion (A):** The iceberg phenomenon shows that the visible/diagnosed cases of a disease in a community are only a small fraction of its true burden.
+
+**Reason (R):** Many cases of disease exist in subclinical, undiagnosed, or presymptomatic stages that never come to medical attention.
+
+- [Both A and R are true, and R is the correct explanation of A]{.correct}
+- Both A and R are true, but R is not the correct explanation of A
+- A is true, R is false
+- A is false, R is true
+:::
+
+---
+
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 12
+
+Leg-muscle weakness following polio, with no effect yet on the person's daily activities, is an example of:
+
+- [Impairment]{.correct data-explanation="Impairment is a loss or abnormality of structure/function itself; it becomes a disability only if it restricts the ability to perform an activity, and a handicap only if it causes social disadvantage."}
+- Disability
+- Handicap
+- Disease
+:::
+
+---
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 13
+
+Genetic counselling offered to a couple before conception is an example of prevention applied at which unit?
+
+- Individual
+- [Family]{.correct data-explanation="Genetic counselling addresses risk within a couple/family unit, distinct from individual-level, community-level, or system-level prevention activities."}
+- Community
+- System
+:::
+
+---
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 14
+
+Screening, case-finding, and prompt treatment to halt disease progression is the mode of intervention known as:
+
+- Health promotion
+- Specific protection
+- [Early diagnosis and treatment]{.correct}
+- Rehabilitation
+:::
+
+---
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 15
+
+The permanent, worldwide reduction of a disease's incidence to zero, such that intervention measures are no longer needed, is termed:
+
+- Control
+- Elimination
+- [Eradication]{.correct data-explanation="Eradication specifically means the worldwide incidence is reduced to zero and intervention measures can stop entirely — as achieved for smallpox. Control and elimination both still require continued intervention."}
+- Surveillance
+:::
+
+---
+
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 16
+
+Surveillance based on a selected sample of reporting sites, rather than the whole population, is called:
+
+- Monitoring
+- [Sentinel surveillance]{.correct}
+- Evaluation of control
+- Eradication
+:::
+
+---
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: quiz-question
+### Question 17
+
+India's simultaneous experience of a continuing communicable-disease burden alongside a fast-rising non-communicable-disease burden is termed:
+
+- Epidemiological transition
+- [Double burden of disease]{.correct}
+- Triple burden
+- Syndemic
+:::
 
 ---
 
@@ -1254,46 +1708,6 @@ Medical Statistics (Chapter 21).
 
 ---
 
-## Sufficient-Component Cause Model {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-Rothman's "causal pie" model refines the web-of-causation idea: a disease
-occurs only when a **sufficient cause** — a full "pie" made of several
-**component causes** — is complete. The same disease can have multiple
-different sufficient causes (multiple different pies), each built from
-different combinations of components. Removing just *one* component
-(a "necessary cause," if it appears in every pie) can prevent the disease
-even without knowing every other component.
-
----
-
-## From Miasma to Germ Theory {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-- **Miasma theory** (dominant until the 19th century) — believed disease
-  spread through "bad air" from decomposing matter; still drove
-  genuinely useful sanitation reforms
-- **Germ theory** (Pasteur, Koch, late 19th century) — established that
-  specific microorganisms cause specific diseases, replacing miasma
-  theory and giving rise to modern microbiology and Koch's postulates
-
----
-
-## Syndemics: A Modern Extension {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-A **syndemic** is the concept that two or more diseases (or a disease and
-a social condition) cluster together and interact within a population,
-each worsening the other — for example, the interaction between
-undernutrition, poor sanitation, and infectious disease in the same
-vulnerable communities. It extends the web-of-causation idea from a
-single disease to interacting epidemics.
-
----
-
 ## Practice Questions: Descriptive {background-color="#FFF6DA"}
 
 **For written practice — work through these on paper; no auto-check for this slide.**
@@ -1339,13 +1753,12 @@ single disease to interacting epidemics.
 ::: {.quiz-question}
 ### Question 1
 
-A person feels unwell and is fatigued, but no clinical or laboratory
-abnormality can be found. This best describes:
+The concept of positive health mainly refers to:
 
-- Disease
-- [Illness]{.correct data-explanation="Illness is the subjective, self-perceived experience of feeling unwell, independent of a demonstrable clinical abnormality."}
-- Sickness
-- Syndemic
+- Absence of symptoms
+- Ability to perform daily activities
+- [Optimal functioning of the individual]{.correct data-explanation="Positive health goes beyond just being symptom-free or functional — it means optimal physical, mental, and social functioning, with reserve capacity to cope with stress."}
+- Lack of disability
 :::
 
 ---
@@ -1357,12 +1770,12 @@ abnormality can be found. This best describes:
 ::: {.quiz-question}
 ### Question 2
 
-Which of the following is NOT part of the epidemiological triad?
+A government scheme that improves housing quality, sanitation access, and school enrolment in a slum community is primarily working through:
 
-- Agent
-- Host
-- Environment
-- [Outcome]{.correct data-explanation="The epidemiological triad is Agent, Host, and Environment. Outcome is a result of their interaction, not a member of the triad."}
+- Curative health services
+- Biomedical intervention
+- [Modification of social determinants of health]{.correct data-explanation="Housing, sanitation, and education are classic social determinants of health; improving them is action on determinants, not clinical/curative care."}
+- Genetic screening
 :::
 
 ---
@@ -1374,13 +1787,12 @@ Which of the following is NOT part of the epidemiological triad?
 ::: {.quiz-question}
 ### Question 3
 
-An anti-smoking campaign aimed at children who have never smoked, to
-prevent the smoking habit from ever starting, is an example of:
+A district has an Infant Mortality Rate far higher than its Crude Death Rate would suggest. This pattern most strongly points to:
 
-- Primary prevention
-- [Primordial prevention]{.correct data-explanation="Primordial prevention targets the emergence of the risk factor itself (smoking initiation), before any exposure exists — distinct from primary prevention, which acts once exposure/risk is already present."}
-- Secondary prevention
-- Tertiary prevention
+- An ageing population
+- High literacy rates
+- [Poor maternal and child health services]{.correct data-explanation="A disproportionately high IMR relative to overall mortality points to gaps in maternal and child health care — antenatal care, safe delivery, and infant care."}
+- Good sanitation coverage
 :::
 
 ---
@@ -1392,13 +1804,12 @@ prevent the smoking habit from ever starting, is an example of:
 ::: {.quiz-question}
 ### Question 4
 
-Physiotherapy and rehabilitation after a stroke, to limit disability, is
-an example of:
+A composite index that combines life expectancy, education (literacy/schooling), and per-capita income to measure a country's overall development is the:
 
-- Primary prevention
-- Secondary prevention
-- [Tertiary prevention]{.correct data-explanation="Tertiary prevention aims to limit disability and rehabilitate once disease/damage has already occurred."}
-- Primordial prevention
+- PQLI
+- DALY
+- [Human Development Index (HDI)]{.correct}
+- Crude Death Rate
 :::
 
 ---
@@ -1410,13 +1821,12 @@ an example of:
 ::: {.quiz-question}
 ### Question 5
 
-Which criterion is considered the one truly essential Bradford Hill
-criterion for causation?
+The WHO's definition of health primarily emphasizes:
 
-- Analogy
-- Specificity
-- [Temporality]{.correct data-explanation="Temporality — the cause must precede the effect — is the only Bradford Hill criterion considered an absolute requirement; the others strengthen, but don't by themselves prove, causation."}
-- Coherence
+- Absence of disease alone
+- Access to health-care services
+- [A positive, holistic state of complete well-being]{.correct}
+- Genetic normalcy
 :::
 
 ---
@@ -1428,12 +1838,12 @@ criterion for causation?
 ::: {.quiz-question}
 ### Question 6
 
-Koch's postulates are best suited to establishing causation for:
+The statement "Health is a resource for everyday life, not the objective of living" comes from the:
 
-- Chronic non-communicable diseases with multiple risk factors
-- [A specific microorganism causing a specific infectious disease]{.correct data-explanation="Koch's postulates were designed to prove that one specific microorganism causes one specific infectious disease — a single-cause model, unlike multifactorial NCDs."}
-- Social determinants of health
-- Environmental exposures with no identifiable single agent
+- WHO Constitution (1948)
+- Alma-Ata Declaration (1978)
+- [Ottawa Charter for Health Promotion (1986)]{.correct}
+- Bangkok Charter (2005)
 :::
 
 ---
@@ -1445,12 +1855,12 @@ Koch's postulates are best suited to establishing causation for:
 ::: {.quiz-question}
 ### Question 7
 
-The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
+Which single composite indicator is most widely used to reflect a population's overall quality of life?
 
-- All disease cases in a community, visible and hidden
-- [Only the clinically diagnosed, reported cases]{.correct data-explanation="The visible tip represents diagnosed and reported cases; the much larger hidden portion below the surface represents sub-clinical and undiagnosed cases."}
-- Only fatal cases
-- Cases prevented by primordial prevention
+- Crude Birth Rate
+- Literacy Rate alone
+- [Human Development Index]{.correct}
+- Bed-occupancy rate
 :::
 
 ---
@@ -1462,12 +1872,12 @@ The "tip of the iceberg" in the iceberg phenomenon of disease refers to:
 ::: {.quiz-question}
 ### Question 8
 
-A person with hearing loss is unable to communicate effectively but can still perform most daily activities. This condition is best termed as:
+The ability to form and maintain harmonious relationships with others in society reflects which dimension of health?
 
-- Disease
-- [Impairment]{.correct data-explanation="A loss or abnormality of structure/function (like hearing loss) that doesn't fully prevent daily activities is an impairment; disability describes a resulting restriction in performing tasks, and handicap describes the social disadvantage that follows."}
-- Disability
-- Handicap
+- Physical dimension
+- Mental dimension
+- [Social dimension]{.correct}
+- Spiritual dimension
 :::
 
 ---
@@ -1479,176 +1889,6 @@ A person with hearing loss is unable to communicate effectively but can still pe
 ::: {.quiz-question}
 ### Question 9
 
-The concept of positive health mainly refers to:
-
-- Absence of symptoms
-- Ability to perform daily activities
-- [Optimal functioning of the individual]{.correct data-explanation="Positive health goes beyond just being symptom-free or functional — it means optimal physical, mental, and social functioning, with reserve capacity to cope with stress."}
-- Lack of disability
-:::
-
----
-
-## Self-Check: Question 10 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 10
-
-A patient has early-stage hypertension detectable only through blood pressure measurement, with no symptoms and normal daily functioning. This best illustrates:
-
-- Clinical disease
-- [Subclinical disease]{.correct data-explanation="A subclinical disease is present and measurable (e.g., raised BP) but produces no symptoms and no disruption of normal functioning."}
-- Disability
-- Handicap
-:::
-
----
-
-## Self-Check: Question 11 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 11
-
-In a community screening programme, for every one clinically diagnosed case of diabetes identified, several undiagnosed and pre-diabetic cases are found in the population. This phenomenon is best described as:
-
-- Natural history of disease
-- Levels of prevention
-- [The iceberg phenomenon]{.correct data-explanation="The iceberg phenomenon describes how visible, diagnosed cases represent only the 'tip,' while a much larger burden of subclinical/undiagnosed disease lies hidden beneath."}
-- Sufficient-component cause model
-:::
-
----
-
-## Self-Check: Question 12 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 12
-
-A government scheme that improves housing quality, sanitation access, and school enrolment in a slum community is primarily working through:
-
-- Curative health services
-- Biomedical intervention
-- [Modification of social determinants of health]{.correct data-explanation="Housing, sanitation, and education are classic social determinants of health; improving them is action on determinants, not clinical/curative care."}
-- Genetic screening
-:::
-
----
-
-## Self-Check: Question 13 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 13
-
-A district has an Infant Mortality Rate far higher than its Crude Death Rate would suggest. This pattern most strongly points to:
-
-- An ageing population
-- High literacy rates
-- [Poor maternal and child health services]{.correct data-explanation="A disproportionately high IMR relative to overall mortality points to gaps in maternal and child health care — antenatal care, safe delivery, and infant care."}
-- Good sanitation coverage
-:::
-
----
-
-## Self-Check: Question 14 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 14
-
-A composite index that combines life expectancy, education (literacy/schooling), and per-capita income to measure a country's overall development is the:
-
-- PQLI
-- DALY
-- [Human Development Index (HDI)]{.correct}
-- Crude Death Rate
-:::
-
----
-
-## Self-Check: Question 15 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 15
-
-The WHO's definition of health primarily emphasizes:
-
-- Absence of disease alone
-- Access to health-care services
-- [A positive, holistic state of complete well-being]{.correct}
-- Genetic normalcy
-:::
-
----
-
-## Self-Check: Question 16 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 16
-
-The statement "Health is a resource for everyday life, not the objective of living" comes from the:
-
-- WHO Constitution (1948)
-- Alma-Ata Declaration (1978)
-- [Ottawa Charter for Health Promotion (1986)]{.correct}
-- Bangkok Charter (2005)
-:::
-
----
-
-## Self-Check: Question 17 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 17
-
-Which single composite indicator is most widely used to reflect a population's overall quality of life?
-
-- Crude Birth Rate
-- Literacy Rate alone
-- [Human Development Index]{.correct}
-- Bed-occupancy rate
-:::
-
----
-
-## Self-Check: Question 18 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 18
-
-The ability to form and maintain harmonious relationships with others in society reflects which dimension of health?
-
-- Physical dimension
-- Mental dimension
-- [Social dimension]{.correct}
-- Spiritual dimension
-:::
-
----
-
-## Self-Check: Question 19 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 19
-
 Which of the following is **NOT** typically used as a health-care delivery/utilization indicator?
 
 - Doctor–population ratio
@@ -1659,29 +1899,12 @@ Which of the following is **NOT** typically used as a health-care delivery/utili
 
 ---
 
-## Self-Check: Question 20 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 20
-
-The concept of health that views disease as resulting from an imbalance between man, agent, and environment is termed the:
-
-- Biomedical model
-- [Ecological model]{.correct}
-- Psychosocial model
-- Holistic model
-:::
-
----
-
-## Self-Check: Question 21 {background-color="#FDE8E8"}
+## Self-Check: Question 10 {background-color="#FDE8E8"}
 
 🧡 **QUESTION (select ALL that apply)**
 
 ::: {.quiz-question .quiz-multiple}
-### Question 21
+### Question 10
 
 Which of the following are recognized dimensions of health?
 
@@ -1693,12 +1916,12 @@ Which of the following are recognized dimensions of health?
 
 ---
 
-## Self-Check: Question 22 {background-color="#FDE8E8"}
+## Self-Check: Question 11 {background-color="#FDE8E8"}
 
 🧡 **QUESTION (select ALL that apply)**
 
 ::: {.quiz-question .quiz-multiple}
-### Question 22
+### Question 11
 
 Which of the following are recognized determinants of health?
 
@@ -1710,12 +1933,12 @@ Which of the following are recognized determinants of health?
 
 ---
 
-## Self-Check: Question 23 {background-color="#FDE8E8"}
+## Self-Check: Question 12 {background-color="#FDE8E8"}
 
 🧡 **QUESTION (select ALL that apply)**
 
 ::: {.quiz-question .quiz-multiple}
-### Question 23
+### Question 12
 
 Indicators of health are useful for:
 
@@ -1727,12 +1950,12 @@ Indicators of health are useful for:
 
 ---
 
-## Self-Check: Question 24 {background-color="#FDE8E8"}
+## Self-Check: Question 13 {background-color="#FDE8E8"}
 
 🧡 **QUESTION (select ALL that apply)**
 
 ::: {.quiz-question .quiz-multiple}
-### Question 24
+### Question 13
 
 Which of the following are commonly considered components of "quality of life"?
 
@@ -1744,31 +1967,12 @@ Which of the following are commonly considered components of "quality of life"?
 
 ---
 
-## Self-Check: Question 25 {background-color="#FDE8E8"}
+## Self-Check: Question 14 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 25
-
-**Assertion (A):** The iceberg phenomenon shows that the visible/diagnosed cases of a disease in a community are only a small fraction of its true burden.
-
-**Reason (R):** Many cases of disease exist in subclinical, undiagnosed, or presymptomatic stages that never come to medical attention.
-
-- [Both A and R are true, and R is the correct explanation of A]{.correct}
-- Both A and R are true, but R is not the correct explanation of A
-- A is true, R is false
-- A is false, R is true
-:::
-
----
-
-## Self-Check: Question 26 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 26
+### Question 14
 
 **Assertion (A):** Infant Mortality Rate (IMR) is considered one of the most sensitive indicators of a community's health status.
 
@@ -1782,12 +1986,12 @@ Which of the following are commonly considered components of "quality of life"?
 
 ---
 
-## Self-Check: Question 27 {background-color="#FDE8E8"}
+## Self-Check: Question 15 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 27
+### Question 15
 
 **Assertion (A):** The Physical Quality of Life Index (PQLI) does not include per-capita income as one of its components.
 
