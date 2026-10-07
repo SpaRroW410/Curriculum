@@ -1,6 +1,6 @@
 ---
 title: "Concept of Health and Disease"
-subtitle: "The Natural History of Disease and Levels of Prevention"
+subtitle: "Health, Disease, and the Indicators and Systems That Measure and Deliver It"
 format:
   revealjs:
     theme: serif
@@ -26,25 +26,32 @@ revealjs-plugins:
 
 **Learning Objectives:**
 
-- Compare the biomedical, ecological, psychosocial, and holistic models
-  of health
-- Define disease and distinguish it from illness and sickness
-- Describe the epidemiological triad of agent, host, and environment
-- Explain the natural history of disease and its phases
-- Describe the iceberg phenomenon of disease
-- Apply the levels of prevention — primordial, primary, secondary, tertiary
-- Distinguish Koch's postulates from the Bradford Hill criteria of causation
-- Classify indicators of health and describe the PQLI and HDI
-- State who is responsible for realizing the right to health
+- **Lecture 1 — Concept of Health:** models and definitions of health,
+  dimensions and the spectrum of health, well-being and quality-of-life
+  indices (PQLI, HDI), determinants of health, right to health, and
+  India's health status
+- **Lecture 2 — Concept of Disease and Prevention:** disease vs
+  illness vs sickness, causation models, natural history of disease,
+  levels and modes of prevention, concept of control, changing
+  patterns of disease
+- **Lecture 3 — Indicators of Health:** the full taxonomy of health
+  indicators, health service philosophy and delivery, health promotion,
+  and disease classification (ICD-11, ICF)
+
+Each lecture's divider slide carries its own detailed scope — use them to navigate.
 
 **NMC Community Medicine Code:** CM1
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
 ::: {.notes}
-This chapter builds directly on Chapter 1's determinants-of-health
-framework: here we formalize how disease actually develops and how
-prevention maps onto that process.
+This chapter now carries the full "concept of health" and "population
+medicine" material that used to sit in Chapter 1 (Man and Medicine),
+alongside its original disease/prevention/indicators content — Chapter
+1 is now focused on the history and identity of medicine as a
+discipline. This is a large, three-lecture chapter; use the Lecture
+dividers to navigate and pace a single sitting per lecture if teaching
+it across multiple sessions.
 :::
 
 ---
@@ -905,6 +912,233 @@ The concept of health that views disease as resulting from an imbalance between 
 
 ---
 
+## Self-Check: Question 28 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 28
+
+The concept of positive health mainly refers to:
+
+- Absence of symptoms
+- Ability to perform daily activities
+- [Optimal functioning of the individual]{.correct data-explanation="Positive health goes beyond just being symptom-free or functional — it means optimal physical, mental, and social functioning, with reserve capacity to cope with stress."}
+- Lack of disability
+:::
+
+---
+
+## Self-Check: Question 29 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 29
+
+A government scheme that improves housing quality, sanitation access, and school enrolment in a slum community is primarily working through:
+
+- Curative health services
+- Biomedical intervention
+- [Modification of social determinants of health]{.correct data-explanation="Housing, sanitation, and education are classic social determinants of health; improving them is action on determinants, not clinical/curative care."}
+- Genetic screening
+:::
+
+---
+
+## Self-Check: Question 30 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 30
+
+A composite index that combines life expectancy, education (literacy/schooling), and per-capita income to measure a country's overall development is the:
+
+- PQLI
+- DALY
+- [Human Development Index (HDI)]{.correct}
+- Crude Death Rate
+:::
+
+---
+
+## Self-Check: Question 31 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 31
+
+The WHO's definition of health primarily emphasizes:
+
+- Absence of disease alone
+- Access to health-care services
+- [A positive, holistic state of complete well-being]{.correct}
+- Genetic normalcy
+:::
+
+---
+
+## Self-Check: Question 32 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 32
+
+The statement "Health is a resource for everyday life, not the objective of living" comes from the:
+
+- WHO Constitution (1948)
+- Alma-Ata Declaration (1978)
+- [Ottawa Charter for Health Promotion (1986)]{.correct}
+- Bangkok Charter (2005)
+:::
+
+---
+
+## Self-Check: Question 33 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 33
+
+Which single composite indicator is most widely used to reflect a population's overall quality of life?
+
+- Crude Birth Rate
+- Literacy Rate alone
+- [Human Development Index]{.correct}
+- Bed-occupancy rate
+:::
+
+---
+
+## Self-Check: Question 34 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 34
+
+The ability to form and maintain harmonious relationships with others in society reflects which dimension of health?
+
+- Physical dimension
+- Mental dimension
+- [Social dimension]{.correct}
+- Spiritual dimension
+:::
+
+---
+
+## Self-Check: Question 35 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 35
+
+Which of the following are recognized dimensions of health?
+
+- [Physical]{.correct}
+- [Mental]{.correct}
+- Political
+- [Social]{.correct}
+:::
+
+---
+
+## Self-Check: Question 36 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 36
+
+Which of the following are recognized determinants of health?
+
+- [Heredity / biology]{.correct}
+- [Environment]{.correct}
+- [Lifestyle / behaviour]{.correct}
+- Astrological sign
+:::
+
+---
+
+## Self-Check: Question 37 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 37
+
+Which of the following are commonly considered components of "quality of life"?
+
+- Gross national product alone
+- [Physical and psychological well-being]{.correct}
+- [Level of independence and social relationships]{.correct}
+- [Environment and personal beliefs]{.correct}
+:::
+
+---
+
+## Self-Check: Question 38 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 38
+
+**Assertion (A):** The Physical Quality of Life Index (PQLI) does not include per-capita income as one of its components.
+
+**Reason (R):** PQLI is composed of infant mortality rate, life expectancy at age one, and literacy rate.
+
+- [Both A and R are true, and R is the correct explanation of A]{.correct}
+- Both A and R are true, but R is not the correct explanation of A
+- A is true, R is false
+- A is false, R is true
+:::
+
+---
+
+## Practice Questions: Descriptive (Lecture 1) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+**Long Essay**
+
+1. Define health and discuss the different models/concepts of health — biomedical, ecological, psychosocial, and holistic.
+2. Discuss the concept of positive health and describe the various indicators used to measure the health status of a community.
+
+**Short Essay**
+
+3. Describe the dimensions of health.
+4. Discuss the spectrum of health and the iceberg phenomenon of disease.
+5. Describe the determinants of health, including political determinants.
+6. Discuss PQLI and HDI as composite indices of development and health.
+
+**Short Answers / Notes**
+
+7. Write short notes on: (a) Impairment, disability, and handicap (b) Well-being vs wellness (c) Relativeness of health.
+
+## Practice Questions: Descriptive (Lecture 1, contd.) {background-color="#FFF6DA"}
+
+**Reasoning Type**
+
+8. Why is health considered a multidimensional and dynamic concept rather than a static, purely biomedical one?
+9. Why are objective indicators of health alone considered insufficient to capture the true health status of a population?
+
+**Case Scenario**
+
+10. A 45-year-old man from a low-income household reports feeling constantly fatigued, though clinical investigations show no diagnosable disease. He has been unable to work regularly and feels socially isolated.
+    a. Is this individual "healthy" by the biomedical model? Justify.
+    b. How would the WHO's definition of health assess this individual?
+    c. Which dimension(s) of health are primarily affected?
+    d. Where would you place this individual on the health–disease spectrum?
+    e. Suggest measures, drawing on the determinants of health, that could improve this individual's health status.
+
+---
+
 ## Lecture 2: Concept of Disease and Prevention {background-color="#E6EEF5"}
 
 📚 **Lecture 2 of 3** · **CM1.L2**
@@ -1543,6 +1777,18 @@ India's simultaneous experience of a continuing communicable-disease burden alon
 
 ---
 
+## Practice Questions: Descriptive (Lecture 2) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+1. Differentiate between disease, illness, and sickness, and explain the impairment-disability-handicap taxonomy with an example.
+2. Describe the natural history of disease and the iceberg phenomenon, using a disease of your choice as an example.
+3. Discuss the levels of prevention and the corresponding modes of intervention, applied across the individual, family, community, and system units.
+4. Differentiate between disease control, elimination, and eradication, giving one example of each.
+5. Discuss the epidemiological transition and the double/triple burden of disease in the Indian context.
+
+---
+
 ## Lecture 3: Indicators of Health {background-color="#E6EEF5"}
 
 📚 **Lecture 3 of 3** · **CM1.L3**
@@ -1932,230 +2178,16 @@ Where ICD-11 classifies *diseases*, the **ICF** classifies **functioning** — a
 
 ---
 
-## Practice Questions: Descriptive {background-color="#FFF6DA"}
+## Practice Questions: Descriptive (Lecture 3) {background-color="#FFF6DA"}
 
 **For written practice — work through these on paper; no auto-check for this slide.**
 
-**Long Essay**
-
-1. Define health and discuss the different models/concepts of health — biomedical, ecological, psychosocial, and holistic.
-2. Discuss the concept of positive health and describe the various indicators used to measure the health status of a community.
-
-**Short Essay**
-
-3. Describe the dimensions of health.
-4. Discuss the spectrum of health and the iceberg phenomenon of disease.
-5. Describe the determinants of health, including political determinants.
-6. Discuss PQLI and HDI as composite indices of development and health.
-
-**Short Answers / Notes**
-
-7. Write short notes on: (a) Impairment, disability, and handicap (b) Well-being vs wellness (c) Relativeness of health.
-
-## Practice Questions: Descriptive (contd.) {background-color="#FFF6DA"}
-
-**Reasoning Type**
-
-8. Why is health considered a multidimensional and dynamic concept rather than a static, purely biomedical one?
-9. Why are objective indicators of health alone considered insufficient to capture the true health status of a population?
-
-**Case Scenario**
-
-10. A 45-year-old man from a low-income household reports feeling constantly fatigued, though clinical investigations show no diagnosable disease. He has been unable to work regularly and feels socially isolated.
-    a. Is this individual "healthy" by the biomedical model? Justify.
-    b. How would the WHO's definition of health assess this individual?
-    c. Which dimension(s) of health are primarily affected?
-    d. Where would you place this individual on the health–disease spectrum?
-    e. Suggest measures, drawing on the determinants of health, that could improve this individual's health status.
-
-------------------------------------------------------------------------
-
-## Self-Check: Question 1 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 1
-
-The concept of positive health mainly refers to:
-
-- Absence of symptoms
-- Ability to perform daily activities
-- [Optimal functioning of the individual]{.correct data-explanation="Positive health goes beyond just being symptom-free or functional — it means optimal physical, mental, and social functioning, with reserve capacity to cope with stress."}
-- Lack of disability
-:::
-
----
-
-## Self-Check: Question 2 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 2
-
-A government scheme that improves housing quality, sanitation access, and school enrolment in a slum community is primarily working through:
-
-- Curative health services
-- Biomedical intervention
-- [Modification of social determinants of health]{.correct data-explanation="Housing, sanitation, and education are classic social determinants of health; improving them is action on determinants, not clinical/curative care."}
-- Genetic screening
-:::
-
----
-
-## Self-Check: Question 3 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 3
-
-A composite index that combines life expectancy, education (literacy/schooling), and per-capita income to measure a country's overall development is the:
-
-- PQLI
-- DALY
-- [Human Development Index (HDI)]{.correct}
-- Crude Death Rate
-:::
-
----
-
-## Self-Check: Question 4 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 4
-
-The WHO's definition of health primarily emphasizes:
-
-- Absence of disease alone
-- Access to health-care services
-- [A positive, holistic state of complete well-being]{.correct}
-- Genetic normalcy
-:::
-
----
-
-## Self-Check: Question 5 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 5
-
-The statement "Health is a resource for everyday life, not the objective of living" comes from the:
-
-- WHO Constitution (1948)
-- Alma-Ata Declaration (1978)
-- [Ottawa Charter for Health Promotion (1986)]{.correct}
-- Bangkok Charter (2005)
-:::
-
----
-
-## Self-Check: Question 6 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 6
-
-Which single composite indicator is most widely used to reflect a population's overall quality of life?
-
-- Crude Birth Rate
-- Literacy Rate alone
-- [Human Development Index]{.correct}
-- Bed-occupancy rate
-:::
-
----
-
-## Self-Check: Question 7 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 7
-
-The ability to form and maintain harmonious relationships with others in society reflects which dimension of health?
-
-- Physical dimension
-- Mental dimension
-- [Social dimension]{.correct}
-- Spiritual dimension
-:::
-
----
-
-## Self-Check: Question 8 {background-color="#FDE8E8"}
-
-🧡 **QUESTION (select ALL that apply)**
-
-::: {.quiz-question .quiz-multiple}
-### Question 8
-
-Which of the following are recognized dimensions of health?
-
-- [Physical]{.correct}
-- [Mental]{.correct}
-- Political
-- [Social]{.correct}
-:::
-
----
-
-## Self-Check: Question 9 {background-color="#FDE8E8"}
-
-🧡 **QUESTION (select ALL that apply)**
-
-::: {.quiz-question .quiz-multiple}
-### Question 9
-
-Which of the following are recognized determinants of health?
-
-- [Heredity / biology]{.correct}
-- [Environment]{.correct}
-- [Lifestyle / behaviour]{.correct}
-- Astrological sign
-:::
-
----
-
-## Self-Check: Question 10 {background-color="#FDE8E8"}
-
-🧡 **QUESTION (select ALL that apply)**
-
-::: {.quiz-question .quiz-multiple}
-### Question 10
-
-Which of the following are commonly considered components of "quality of life"?
-
-- Gross national product alone
-- [Physical and psychological well-being]{.correct}
-- [Level of independence and social relationships]{.correct}
-- [Environment and personal beliefs]{.correct}
-:::
-
----
-
-## Self-Check: Question 11 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 11
-
-**Assertion (A):** The Physical Quality of Life Index (PQLI) does not include per-capita income as one of its components.
-
-**Reason (R):** PQLI is composed of infant mortality rate, life expectancy at age one, and literacy rate.
-
-- [Both A and R are true, and R is the correct explanation of A]{.correct}
-- Both A and R are true, but R is not the correct explanation of A
-- A is true, R is false
-- A is false, R is true
-:::
+1. Classify the indicators of health used to assess a community's health status, with examples of each category.
+2. Discuss DALY, QALY, and HALE as composite indicators of health status.
+3. Describe the structure of the WHO's Global Reference List of 100 Core Health Indicators.
+4. Discuss the principles of health service philosophy and their relevance to primary health care delivery.
+5. Describe the Ottawa Charter's five action areas and the Jakarta Declaration's priorities for health promotion.
+6. Differentiate between ICD-11 and ICF as classification systems, with an example of each.
 
 ---
 
@@ -2605,24 +2637,64 @@ WHO's 2018 Global Reference List organizes its 100 core health indicators into w
 
 ## References {background-color="#FFF6DA"}
 
-1. Koch, R. (1884). *Die Aetiologie der Tuberkulose*. Postulates as later
+1. World Health Organization. *Constitution of the World Health
+   Organization* (1946/1948).
+2. World Health Organization / UNICEF. *Declaration of Alma-Ata*,
+   International Conference on Primary Health Care, Alma-Ata, USSR,
+   6–12 September 1978.
+3. World Health Organization. *Ottawa Charter for Health Promotion*,
+   First International Conference on Health Promotion, Ottawa, 1986.
+4. World Health Organization. *Jakarta Declaration on Leading Health
+   Promotion into the 21st Century*, Fourth International Conference
+   on Health Promotion, Jakarta, 1997.
+5. Blum, H.L. *Planning for Health: Development and Application of
+   Social Change Theory*. Human Sciences Press, 1974.
+6. Lalonde, M. *A New Perspective on the Health of Canadians*.
+   Government of Canada, 1974.
+7. Koch, R. (1884). *Die Aetiologie der Tuberkulose*. Postulates as later
    formalized by Koch and Loeffler.
-2. Hill, A.B. (1965). "The Environment and Disease: Association or
+8. Hill, A.B. (1965). "The Environment and Disease: Association or
    Causation?" *Proceedings of the Royal Society of Medicine*, 58(5),
    295–300.
-3. Rothman, K.J. (1976). "Causes." *American Journal of Epidemiology*,
+9. Rothman, K.J. (1976). "Causes." *American Journal of Epidemiology*,
    104(6), 587–592.
-4. World Health Organization. *Prevention concepts and levels of
-   prevention* — standard public health teaching reference.
-5. Singh, A., et al. Syndemic theory in public health — as applied to
-   co-occurring disease and social conditions.
-6. Park, K. *Park's Textbook of Preventive and Social Medicine* —
-   standard reference for concepts of health, determinants, indicators
-   of health, PQLI, and right to health.
-7. World Health Organization. *Constitution of the World Health
-   Organization* (1946/1948).
-8. United Nations Development Programme. *Human Development Report* —
-   HDI methodology.
+10. World Health Organization. *Prevention concepts and levels of
+    prevention* — standard public health teaching reference.
+11. Singh, A., et al. Syndemic theory in public health — as applied to
+    co-occurring disease and social conditions.
+
+---
+
+## References (contd.) {background-color="#FFF6DA"}
+
+*Items 13–15 below cite figures retrieved via web search during this
+session — check the latest edition of each source for current numbers.*
+
+12. Park, K. *Park's Textbook of Preventive and Social Medicine* —
+    standard reference for concepts of health, determinants, indicators
+    of health, PQLI, and right to health.
+13. United Nations Development Programme. *Human Development Report
+    2025* (data year 2023) — HDI methodology, India's current value/rank.
+14. NITI Aayog, Government of India. *SDG India Index 2023–24* —
+    overall and goal-wise scores.
+15. Government of India. Sample Registration System (SRS) *Statistical
+    Report 2023* — infant mortality rate, national/rural/urban.
+16. Constitution of India, Part IV (Directive Principles of State
+    Policy), Article 47.
+
+---
+
+## References (contd. 2) {background-color="#FFF6DA"}
+
+17. World Health Organization. *2018 Global Reference List of 100 Core
+    Health Indicators (plus health-related SDGs)*. WHO/HIS/IER/GPM/2018.1.
+18. World Health Organization. *International Classification of
+    Diseases, 11th Revision (ICD-11)*, in effect since January 2022.
+19. World Health Organization. *International Classification of
+    Functioning, Disability and Health (ICF)*.
+20. Bhalwar, R. (Ed.) *Text Book of Community Medicine*.
+21. Indian Association of Preventive and Social Medicine (IAPSM), Core
+    Committee. *Community Medicine: An Introduction*.
 
 **Want to practice?** See the companion [Concept of Health and Disease
 Question Bank](concept-health-disease-question-bank.qmd) for long

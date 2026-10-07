@@ -157,7 +157,7 @@ Clinical spectrum, warning signs, DHF/DSS, and diagnosis.\
 [Ch 13 – The Demographic Transition Model](programs/demography.qmd#the-demographic-transition-model)
 
 **Determinants of Health**\
-[Ch 2 – Determinants of Health](foundations/concept-health-disease.qmd#determinants-of-health) ·
+[Ch 2 – Determinants of Health: The Full Picture](foundations/concept-health-disease.qmd#determinants-of-health-the-full-picture) ·
 [Ch 23 – WHO Social Determinants of Health Framework](global/social-sciences.qmd#who-social-determinants-of-health-framework)
 
 **Diabetes Mellitus**\
