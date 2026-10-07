@@ -38,8 +38,8 @@ Selection, roles, and responsibilities.\
 
 **Alma-Ata Declaration / Primary Health Care (PHC)**\
 The 1978 declaration and its principles.\
-[Ch 1 – Primary Health Care: Alma-Ata, 1978](foundations/man-and-medicine.qmd#primary-health-care-alma-ata-1978) ·
-[Ch 1 – Principles of Primary Health Care](foundations/man-and-medicine.qmd#principles-of-primary-health-care)
+[Ch 2 – Primary Health Care: Alma-Ata, 1978](foundations/concept-health-disease.qmd#primary-health-care-alma-ata-1978) ·
+[Ch 2 – Principles of Primary Health Care](foundations/concept-health-disease.qmd#principles-of-primary-health-care)
 
 **Arsenic Contamination**\
 Guideline derivation and a real-world mitigation case study.\
@@ -157,7 +157,7 @@ Clinical spectrum, warning signs, DHF/DSS, and diagnosis.\
 [Ch 13 – The Demographic Transition Model](programs/demography.qmd#the-demographic-transition-model)
 
 **Determinants of Health**\
-[Ch 1 – Determinants of Health](foundations/man-and-medicine.qmd#determinants-of-health) ·
+[Ch 2 – Determinants of Health](foundations/concept-health-disease.qmd#determinants-of-health) ·
 [Ch 23 – WHO Social Determinants of Health Framework](global/social-sciences.qmd#who-social-determinants-of-health-framework)
 
 **Diabetes Mellitus**\

@@ -58,6 +58,76 @@ quality-of-life indices (PQLI, HDI)*
 
 ---
 
+## Evolution and Scope of Community Medicine {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Community Medicine broadens the scope of medicine from the **individual** to the **community**.  
+It integrates **preventive, promotive, curative, and rehabilitative** services through organized efforts.
+
+**Core idea:** Health is achieved not only by treating disease but by improving living conditions, sanitation, nutrition, and education.
+
+---
+
+## Hygiene, Preventive, and Social Medicine {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Field | Focus | Example |
+|-------|--------|----------|
+| **Hygiene** | Personal and environmental cleanliness | Hand‑washing, safe water |
+| **Preventive Medicine** | Preventing disease before it occurs | Immunization, screening |
+| **Social Medicine** | Studying social causes of disease | Poverty, housing, education |
+| **Community Medicine** | Applying all these at population level | National health programs |
+
+**Key link:** Preventive medicine acts at the *individual level*; social medicine acts at the *societal level*; community medicine integrates both.
+
+---
+
+## Public Health: Definition and Functions {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+> "The science and art of preventing disease, prolonging life, and promoting physical health and efficiency **through organized community efforts** for the sanitation of the environment, the control of community infections, the education of the individual in principles of personal hygiene, the organization of medical and nursing services for early diagnosis and preventive treatment of disease, and the development of social machinery which will ensure every individual a standard of living adequate for the maintenance of health." — **C.E.A. Winslow, 1920**
+
+**Functions:**
+- Health promotion through education  
+- Disease prevention via immunization  
+- Health restoration through medical care  
+- Rehabilitation of the handicapped  
+
+**Aim:** Create conditions for good health — aligning with WHO’s 1948 definition.
+
+---
+
+## Difference Between Community Medicine, Family Medicine, Preventive Medicine, and Social Medicine {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Aspect | **Community Medicine** | **Family Medicine** | **Preventive Medicine** | **Social Medicine** |
+|--------|------------------------|---------------------|-------------------------|---------------------|
+| **Unit of focus** | Community/population | Family & individual across lifespan | Individual risk factors | Society & social determinants |
+| **Scope** | Epidemiology, health programs, PHC, public health | Continuity of care, holistic family-centered practice | Immunization, screening, prophylaxis | Links health with social, economic, cultural context |
+| **Approach** | Population-based interventions | Person-centered, longitudinal care | Disease prevention before onset | Understanding social causes of disease |
+| **Examples** | National immunization program, sanitation drives | Managing diabetes in a family context | Vaccination, health check-ups | Studying impact of poverty on TB outcomes |
+
+---
+
+## Evolution of Medicine {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+Medicine's scope has widened in stages:
+
+1.  **Curative medicine** — treating disease in the individual patient
+2.  **Preventive medicine** — stopping disease before it starts (e.g. immunization, screening)
+3.  **Social medicine** — recognizing that disease has social causes and consequences, not only biological ones
+4.  **Community medicine / Public health** — shifting the unit of concern from the individual patient to the **community** as a whole
+
+Each stage didn't replace the one before it — modern health systems practice all four simultaneously, for different needs.
+
+---
+
 ## Concepts of Health: Four Models {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -74,6 +144,93 @@ teaching groups the thinking *behind* that definition into four models:
 
 **Exam tip:** the biomedical model is the oldest and narrowest; the
 holistic model is the broadest and is what the WHO definition operationalizes.
+
+---
+
+## What Is Health? {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**WHO Constitution (1948):**
+
+> "Health is a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity."
+
+This definition has never been formally amended. Two things make it radical for its time:
+
+- It rejects the purely **biomedical** view (health = absence of disease)
+- It names **three dimensions at once** — physical, mental, social — as jointly necessary
+
+::: notes
+Drafted at the International Health Conference, New York, 1946; the WHO Constitution entered into force on 7 April 1948 (now marked annually as World Health Day).
+:::
+
+---
+
+## Dimensions of Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+::::: columns
+::: {.column width="50%"}
+**Commonly taught dimensions:**
+
+- **Physical** — normal structure and function of the body
+- **Mental** — a state of balance with oneself and one's environment
+- **Social** — harmony with the social fabric: family, community, work
+- **Spiritual** — a sense of purpose, values, or belief
+- **Emotional** — the ability to recognize and appropriately express feelings
+:::
+
+::: {.column width="50%"}
+**Why this matters:**
+
+A person can be free of diagnosable disease and still not be "healthy" by this definition — e.g. someone who is physically fit but socially isolated or under chronic mental distress.
+:::
+:::::
+
+---
+
+## The Health–Disease Spectrum {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Health is not a fixed state but a **continuum**, moving in both directions:
+
+`Death → Chronic illness → Disability → Mild sickness → No obvious illness → Positive health`
+
+- **Positive health** is more than "not sick" — it implies resilience and a reserve capacity to cope with physical, biological, and social stress
+- Any individual can move along this spectrum over time; public health aims to shift populations **toward** the positive-health end, not just treat people once they've crossed into illness
+
+---
+
+## Determinants of Health {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A widely used health-field model groups the determinants of health into four domains:
+
+| Domain | Examples |
+|------------------------------------|------------------------------------|
+| **Environment** | safe water, sanitation, housing, air quality, occupational hazards |
+| **Heredity / Biology** | genetic makeup, age, sex, inherited susceptibility to disease |
+| **Lifestyle / Behaviour** | diet, physical activity, tobacco/alcohol use, personal hygiene |
+| **Health services** | access, affordability, and quality of preventive and curative care |
+
+**Key implication:** health care services are only *one* of four determinants — and historically not the largest one. Improving population health depends at least as much on environment, behaviour, and social conditions as on hospitals and doctors.
+
+::: notes
+This is the Blum / Lalonde-style "health field concept," standard across Indian community-medicine teaching. Different sources add socio-economic and political factors as a fifth domain — mention this as a natural extension in discussion, not a contradiction.
+:::
+
+---
+
+## Determinants of Health: A Wider View {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+The four-domain model on the previous slide is the core teaching; textbooks also break determinants into a wider set of interacting domains:
+
+![Core determinants of health](../images/man-and-medicine/determinants_grid.svg){.slide-img .nostretch width="480px"}
 
 ---
 
@@ -326,6 +483,141 @@ byproduct.
 
 *Indicators of health; demographic profile of India and its impact;
 MDG to SDG*
+
+---
+
+## Community Diagnosis {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Aspect | Clinical Diagnosis | Community Diagnosis |
+|--------|---------------------|----------------------|
+| Made by | Doctor | Epidemiologist |
+| Concerned with | Individual | Defined population |
+| Scope | Only sick | Both sick and healthy |
+| Purpose | Decide treatment | Plan prevention and promotion |
+| Follow-up | Case | Program |
+
+**Stages:** Data collection and analysis → Interpretation → Dissemination → Action
+
+**Relevance:** Identifies community health problems, sets priorities, and guides interventions.
+
+---
+
+## Community Diagnosis: Steps and Parameters {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**How a community diagnosis is made** (same logic as diagnosing a
+patient — history, examination, tests — applied to a population):
+
+1. Collect socio-demographic data (age, sex, education, occupation, income)
+2. Collect environmental data (housing, water, sanitation)
+3. Identify mortality/morbidity causes and risk factors
+4. Distinguish **professionally identified needs** from **felt needs**
+5. Write the findings as a short "community diagnosis" statement, then plan **community treatment**
+
+**Parameters used to assess a health service** for that community:
+*Relevance, Adequacy, Accessibility, Availability, Affordability, Completeness.*
+
+---
+
+## Community vs Hospital Medicine {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Aspect | Community Medicine | Hospital Medicine |
+|--------|---------------------|---------------------|
+| Service area | Defined population | Ill-defined catchment |
+| Approach | Active outreach | Passive, patient-driven |
+| Focus | Prevention and promotion | Curative care |
+| Coordination | Intersectoral | Limited |
+| Cost-benefit | High (population impact) | Individual outcome |
+
+**Principle:** Prevention is safer, cheaper, and easier than cure.
+
+---
+
+## Social Anatomy, Physiology, Pathology, and Therapy {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+| Concept | Analogy | Example |
+|---------|---------|---------|
+| Social Anatomy | Structure of society | Social stratification, institutions |
+| Social Physiology | Functions of society | Education, communication |
+| Social Pathology | Abnormalities | Crime, poverty, delinquency |
+| Social Therapy | Treatment | Legislation, reform, welfare services |
+
+---
+
+## Essential Public health services {background-color="#E8E4F3"}
+
+🟢 **MUST KNOW**
+
+::::: columns
+::: {.column width="70%"}
+![Essential Public Health Services wheel](../images/man-and-medicine/ephs.png){.slide-img height="420px"}
+:::
+
+::: {.column width="30%"}
+1. Monitor health  
+2. Diagnose and investigate  
+3. Inform, educate, empower  
+4. Mobilize community partnerships  
+5. Develop policies  
+6. Enforce laws  
+7. Link to/provide care  
+8. Assure competent workforce  
+9. Evaluate  
+10. Research for new insights
+:::
+:::::
+
+---
+
+## Primary Health Care: Alma-Ata, 1978 {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+At Alma-Ata (in present-day Kazakhstan), 134 WHO member states and 67 organisations adopted a declaration defining Primary Health Care (PHC):
+
+> "Essential health care based on practical, scientifically sound and socially acceptable methods and technology, made universally accessible to individuals and families... through their full participation and at a cost the community and country can afford... the first level of contact of individuals, the family and community with the national health system."
+
+**The goal it set:** *"Health for All by the year 2000"* — a level of health that would let all people lead a socially and economically productive life, with PHC declared the key strategy to reach it.
+
+---
+
+## Levels of Healthcare: Primary, Secondary, Tertiary {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Health-care is delivered through a graded, three-tier system — most needs are met at the base, with progressively fewer patients needing the more specialized tiers above:
+
+![The three-tier health-care pyramid](../images/man-and-medicine/healthcare_pyramid.svg){.slide-img .nostretch width="440px"}
+
+---
+
+## Principles of Primary Health Care {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Equitable distribution** — care reaches rural and underserved populations, not just cities
+- **Community participation** — individuals and communities help plan and run their own care, not just receive it
+- **Intersectoral coordination** — health links to agriculture, education, housing, water supply, and rural development
+- **Appropriate technology** — methods that are scientifically valid, affordable, and acceptable to the community, not merely the most advanced available
+
+---
+
+## Equality, Equity, and Justice {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+These three terms are often confused, but public health cares most about **equity**:
+
+![Equality, equity, and justice illustrated as a race](../images/man-and-medicine/equity_race.svg){.slide-img .nostretch width="600px"}
+
+**Example:** Ayushman Bharat gives free secondary/tertiary care specifically to the poorest households — the whole population has access to care, but the most disadvantaged get an extra opportunity. That is equity, not mere equality.
 
 ---
 
