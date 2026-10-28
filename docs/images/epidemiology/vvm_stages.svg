@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="365" viewBox="0 0 1000 365" role="img" aria-labelledby="title desc">
+  <title id="title">Vaccine vial monitor stages</title>
+  <desc id="desc">Four VVM stages: inner square lighter than the circle at stages 1 and 2 (use), matching at stage 3 and darker at stage 4 (discard).</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <circle cx="125" cy="140" r="90" fill="#555555" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="80" y="95" width="90" height="90" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <text x="125" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Stage 1</text>
+  <text x="125" y="305" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#27ae60">use</text>
+  <circle cx="375" cy="140" r="90" fill="#555555" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="330" y="95" width="90" height="90" fill="#d5d5d5" stroke="#2c3e50" stroke-width="2"/>
+  <text x="375" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Stage 2</text>
+  <text x="375" y="305" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#27ae60">use</text>
+  <circle cx="625" cy="140" r="90" fill="#555555" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="580" y="95" width="90" height="90" fill="#555555" stroke="#2c3e50" stroke-width="2"/>
+  <text x="625" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Stage 3</text>
+  <text x="625" y="305" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#c0392b">DISCARD</text>
+  <circle cx="875" cy="140" r="90" fill="#555555" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="830" y="95" width="90" height="90" fill="#222222" stroke="#2c3e50" stroke-width="2"/>
+  <text x="875" y="270" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Stage 4</text>
+  <text x="875" y="305" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#c0392b">DISCARD</text>
+  <text x="500" y="350" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#333">Inner square lighter than outer circle = usable</text>
+</svg>

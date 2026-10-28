@@ -237,6 +237,14 @@ A diagnosed case is usually isolated. An unrecognized chronic carrier keeps tran
 
 ---
 
+## Incubation, Generation Time, Serial Interval {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+![Timeline of incubation period, generation time and serial interval](../images/epidemiology/incubation_timeline.svg){.slide-img .nostretch width="920px"}
+
+---
+
 ## Secondary Attack Rate {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -247,6 +255,29 @@ A diagnosed case is usually isolated. An unrecognized chronic carrier keeps tran
 
 - **Exclude** the primary case and contacts who are immune (by immunization or past attack) from the denominator
 - **Worked example:** a household of 6 has 1 primary measles case and 1 immune member, leaving 4 susceptibles. 2 develop measles within one incubation period, so SAR = 2/4 = **50%**.
+
+
+---
+
+## Case Scenario: Measles in a Household {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+A child with measles lives in a household of **7**. The father had measles in childhood. A younger sibling has had **2 doses of MR vaccine**. Of the other 4 members, **one falls ill 2 days later** and **two more fall ill 10–12 days later**.
+
+1. Who are the susceptible contacts?
+2. How do you treat the person who fell ill after 2 days?
+3. Calculate the secondary attack rate.
+
+---
+
+## Case Scenario: Measles in a Household, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- Exclude the primary case, the immune father and the vaccinated sibling, leaving **4 susceptible contacts**
+- Onset after 2 days is **shorter than the minimum incubation period**, so this is a **co-primary case** infected from the same source. Exclude them from both numerator and denominator, leaving **3** susceptibles.
+- **SAR** = 2 ÷ 3 × 100 ≈ **67%**
 
 ---
 
@@ -405,7 +436,7 @@ If a disease has a basic reproduction number (R₀) of less than 1 in a populati
 
 🟢 **MUST KNOW**
 
-![Types of immunity](../images/epidemiology/immunity_types.svg){.slide-img .nostretch width="880px"}
+![Types of immunity](../images/epidemiology/immunity_types.svg){.slide-img .nostretch width="920px"}
 
 ---
 
@@ -440,6 +471,14 @@ If a disease has a basic reproduction number (R₀) of less than 1 in a populati
 
 - It depends on clinical and subclinical infections, immunization coverage, and the herd structure (density, mixing)
 - It does **not** protect against tetanus, which has no person-to-person spread
+
+---
+
+## Herd Immunity: How It Works {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![Low vs high immunization coverage](../images/epidemiology/herd_immunity.svg){.slide-img .nostretch width="920px"}
 
 ---
 
@@ -488,6 +527,47 @@ Antisera carry a risk of **serum sickness and anaphylaxis**. Give a test dose an
 
 - WHO causes: vaccine product-related, quality defect-related, **immunization error-related**, **immunization anxiety-related**, and **coincidental**
 - Serious AEFIs (death, hospitalization, disability, clusters) must be reported and investigated
+
+---
+
+## The Cold Chain {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+![Cold chain from manufacturer to session site](../images/epidemiology/cold_chain.svg){.slide-img .nostretch width="920px"}
+
+---
+
+## Vaccine Vial Monitor {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+![Four stages of the vaccine vial monitor](../images/epidemiology/vvm_stages.svg){.slide-img .nostretch width="920px"}
+
+Check the VVM before **every** use. The **shake test** detects freezing damage, which the VVM does not show.
+
+---
+
+## Case Scenario: Dog Bite and a Vaccine Carrier {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+A 25-year-old unimmunized man has **deep bites with bleeding on the hand** from a stray dog (category III). At the PHC, the nurse finds that the inner square of the anti-rabies vaccine VVM **matches the outer circle**.
+
+1. What immunization does he need, and what kind of immunity does each component give?
+2. Why give both?
+3. Can the vial be used?
+
+---
+
+## Case Scenario: Dog Bite and a Vaccine Carrier, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **Wound wash** with soap and running water for 15 minutes. **Rabies immunoglobulin** infiltrated into the wounds gives **artificial passive** immunity. **Anti-rabies vaccine** (e.g. IM on days 0, 3, 7, 14, 28, or the intradermal schedule) gives **artificial active** immunity. Add tetanus prophylaxis.
+- RIG protects **immediately**, during the 1–2 weeks before vaccine-induced antibody appears. The vaccine gives **lasting** protection. This is **combined passive–active immunization**.
+- **No.** A VVM at **stage 3** (square matches circle) means too much heat exposure: **discard** it and use a vial at stage 1 or 2.
+
 
 ---
 
@@ -640,7 +720,7 @@ Which of the following are recognized causes in the WHO classification of advers
 
 🟢 **MUST KNOW**
 
-![Three groups of control measures](../images/epidemiology/control_framework.svg){.slide-img .nostretch width="900px"}
+![Three groups of control measures](../images/epidemiology/control_framework.svg){.slide-img .nostretch width="920px"}
 
 ---
 
@@ -713,6 +793,30 @@ Both are control measures on different links of the chain. Isolation removes an 
 | **Chemical: others** | Phenol and cresol (lysol), alcohols (70%), formaldehyde (fumigation), glutaraldehyde, quaternary ammonium compounds, iodophors | Excreta, skin, rooms, endoscopes |
 
 **Choosing an agent:** consider the target organism, the material, organic load, contact time, toxicity and cost. Biomedical waste is managed under the BMW Management Rules, 2016.
+
+---
+
+## Case Scenario: A Cholera Case at Home {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+A confirmed cholera case is being treated at home in a village with a shared well. The family of 6 lives in two rooms.
+
+1. What concurrent disinfection is needed?
+2. What is done when the patient recovers?
+3. How will you manage the contacts and the well?
+
+---
+
+## Case Scenario: A Cholera Case at Home, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **Concurrent:** disinfect stools and vomit with bleaching powder or hypochlorite before disposal in a latrine. Soak soiled linen in hypochlorite solution or boil it. Wash hands with soap.
+- **Terminal:** clean the room, floor and furniture with hypochlorite solution, and wash or sun-dry the bedding
+- **Contacts:** surveillance for **5 days** (the maximum incubation), with **selective chemoprophylaxis** for household contacts (e.g. single-dose doxycycline for adults). Mass chemoprophylaxis is *not* recommended.
+- **Well:** chlorinate it and test residual chlorine. **Notify** through IDSP, give ORS and health education.
+
 
 ---
 
@@ -862,6 +966,33 @@ In practice the steps overlap. Control measures often start before the investiga
 9. **Further investigation of the population at risk**: e.g. serological surveys
 10. **Writing the report**: with control measures and recommendations
 
+
+---
+
+## Case Scenario: Typhoid in One Locality {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+A health officer sees that reported **typhoid** cases in a town have **doubled** this month compared with the same month last year. **Most cases cluster in one locality.**
+
+1. What epidemiological phenomenon is suggested?
+2. Which measure of frequency is being compared?
+3. What is the first step of investigation?
+4. Name two possible sources of infection.
+5. How does epidemiology help plan control?
+
+---
+
+## Case Scenario: Typhoid in One Locality, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- An **epidemic (outbreak)**: cases clearly in excess of the expected level. The clustering suggests a **common source**.
+- **Incidence** (new cases, i.e. an attack rate), compared with the same period in previous years (ideally 3)
+- **Verify the diagnosis** (blood culture), then **confirm the existence of the epidemic**
+- A **contaminated water supply** (a leaking pipe with sewage cross-connection), or **food from a common vendor or a carrier food handler**
+- Time-place-person analysis (spot map, epidemic curve) pinpoints the source, which is then targeted: chlorination and pipe repair, food hygiene, treating cases and carriers, typhoid conjugate vaccine for high-risk groups, health education and continued surveillance.
+
 ---
 
 ## The Epidemiological Case Sheet {background-color="#FFF6DA"}
@@ -910,6 +1041,14 @@ Aggregating case sheets gives the time-place-person description from which hypot
 - **IDSR (Integrated Disease Surveillance and Response)** is the WHO strategy (first adopted in the African Region) linking surveillance to **response** at every level. India's IDSP/IHIP follows the same "surveillance for response" principle.
 
 *IHIP launch dates differ between sources: soft launch 2018, nationwide April 2021. Retrieved 28 Oct 2026.*
+
+---
+
+## IDSP Reporting Flow {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![S, P and L forms flow through IHIP to district, state and central units](../images/epidemiology/idsp_flow.svg){.slide-img .nostretch width="920px"}
 
 ---
 

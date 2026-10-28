@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.10.18">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.6.42">
 
   <title>Social and Public health – Epidemiologic Methods</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -16,16 +16,10 @@
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
-    /* Default styles provided by pandoc.
-    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-    */
+    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: 1.5em;}
-    div.column{flex: auto;}
-    @media screen {
-    div.columns{gap: min(4vw, 1.5em);}
-    div.column{overflow-x: auto;}
-    }
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -34,7 +28,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-cc987b028043672fb83204947dec60a2.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-537e9f2e16ab801d2a09dfd4977a5ecc.css">
   <link rel="stylesheet" href="../assets/slide_deck.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -210,11 +204,11 @@
 <p>🟢 <strong>MUST KNOW</strong></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/epidemiology/case_control_design.svg" class="slide-img" width="720"></p>
+<p><img data-src="../images/epidemiology/case_control_design.svg" class="slide-img" width="840"></p>
 <figcaption>Case-control design</figcaption>
 </figure>
 </div>
-<p>It proceeds from <strong>effect to cause</strong> (retrospective). Exposure is always measured <em>after</em> the disease has occurred. It is also called a <strong>“trohoc” study</strong> (“cohort” spelt backwards).</p>
+<p><code>OR = ad / bc</code>. It proceeds from <strong>effect to cause</strong> (retrospective). Exposure is always measured <em>after</em> the disease has occurred. It is also called a <strong>“trohoc” study</strong> (“cohort” spelt backwards).</p>
 </section>
 <section id="basic-steps-of-a-case-control-study" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Basic Steps of a Case-Control Study</h2>
@@ -231,6 +225,25 @@
 </ol>
 <p><code>OR = (a × d) ÷ (b × c)</code></p>
 <p><strong>Rare-disease assumption:</strong> when the disease is uncommon, OR ≈ RR.</p>
+</section>
+<section id="case-scenario-planning-a-breast-cancer-study" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Planning a Breast Cancer Study</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>You plan a case-control study to test whether women with a <strong>family history of breast cancer</strong> have a higher risk of breast cancer.</p>
+<ol type="1">
+<li>How will you select the cases and the controls? Can controls come from the same family?</li>
+<li>How will you measure family history, and what information biases may occur?</li>
+<li>How will you measure association, test significance, and deal with confounders?</li>
+</ol>
+</section>
+<section id="case-scenario-planning-a-breast-cancer-study-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Planning a Breast Cancer Study, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li><strong>Cases:</strong> newly diagnosed, from a cancer hospital or registry. <strong>Controls:</strong> women from the same catchment population, matched on age, age at first pregnancy, parity and breastfeeding. <strong>Not</strong> relatives: that would over-match on the exposure itself.</li>
+<li>Measure family history by <strong>structured interview</strong> of cases and controls. <strong>Recall bias</strong> (cases remember family cancers better) and <strong>observer bias</strong> are possible. Blind the interviewer to case status.</li>
+<li>Use the <strong>odds ratio</strong> with a 95% CI and the <strong>chi-square test</strong>. Control confounders by <strong>matching</strong> at design, and <strong>Mantel–Haenszel</strong> stratified analysis or <strong>logistic regression</strong> at analysis.</li>
+</ul>
 </section>
 <section id="matching-in-case-control-studies" class="slide level2 center" data-background-color="#FFF6DA">
 <h2>Matching in Case-Control Studies</h2>
@@ -276,6 +289,27 @@
 <li>Exposure in cases = 80% and in controls = 40%</li>
 <li><code>OR = (80 × 60) ÷ (40 × 20) = 6.0</code></li>
 <li><strong>Interpretation:</strong> cases had <strong>six times</strong> the odds of having chewed tobacco compared with controls. Oral cancer is rare, so tobacco chewers have roughly six times the risk.</li>
+</ul>
+</section>
+<section id="case-scenario-helmets-and-fatal-head-injury" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Helmets and Fatal Head Injury</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>Among two-wheeler accident victims, <strong>87</strong> had fatal and <strong>113</strong> non-fatal head injuries. Of the fatal cases, <strong>55</strong> had not worn a helmet; of the non-fatal, <strong>45</strong> had not.</p>
+<ol type="1">
+<li>Build the 2 × 2 table (cases = fatal injury, exposure = no helmet).</li>
+<li>Calculate the odds ratio and the etiological fraction.</li>
+<li>Interpret the result.</li>
+</ol>
+</section>
+<section id="case-scenario-helmets-and-fatal-head-injury-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Helmets and Fatal Head Injury, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li>a = 55, b = 45, c = 32, d = 68</li>
+<li><strong>OR</strong> = (55 × 68) ÷ (45 × 32) = 3,740 ÷ 1,440 ≈ <strong>2.6</strong></li>
+<li><strong>EF</strong> = (OR − 1) ÷ OR ≈ <strong>61%</strong></li>
+<li>Riders without helmets had about <strong>2.6 times the odds</strong> of a fatal head injury. About 61% of fatal head injuries among non-users could be prevented by helmet use.</li>
+<li><em>(The textbook prints OR 1.22 and EF 18%, which is an arithmetic error.)</em></li>
 </ul>
 </section>
 <section id="bias-in-case-control-studies" class="slide level2 center" data-background-color="#FFF6DA">
@@ -711,7 +745,7 @@
 <p>🟢 <strong>MUST KNOW</strong></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/epidemiology/cohort_design.svg" class="slide-img" width="720"></p>
+<p><img data-src="../images/epidemiology/cohort_design.svg" class="slide-img" width="860"></p>
 <figcaption>Cohort design</figcaption>
 </figure>
 </div>
@@ -819,6 +853,26 @@
 <li><strong>RR</strong> = Iₑ ÷ I₀ = 28 ÷ 4 = <strong>7</strong>: smokers have 7 times the risk</li>
 <li><strong>AR</strong> = Iₑ − I₀ = <strong>24 per 1000</strong>: the excess risk due to smoking</li>
 <li><strong>AR%</strong> = (Iₑ − I₀) ÷ Iₑ × 100 = <strong>86%</strong> of smokers’ lung cancer is preventable by not smoking</li>
+</ul>
+</section>
+<section id="case-scenario-tobacco-use-in-pregnancy" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Tobacco Use in Pregnancy</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>300 antenatal women were examined: <strong>100 tobacco users</strong> and <strong>200 non-users</strong>. All were followed until delivery. Low birth weight occurred in <strong>20 users</strong> and <strong>20 non-users</strong>.</p>
+<ol type="1">
+<li>What type of comparison cohort is this?</li>
+<li>Calculate the RR, AR and AR%.</li>
+<li>Interpret the results.</li>
+</ol>
+</section>
+<section id="case-scenario-tobacco-use-in-pregnancy-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Tobacco Use in Pregnancy, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li>An <strong>internal (inbuilt) comparison group</strong>: both groups come from the same examined population</li>
+<li>Iₑ = 20 ÷ 100 = <strong>20%</strong>; I₀ = 20 ÷ 200 = <strong>10%</strong></li>
+<li><strong>RR</strong> = 2. <strong>AR</strong> = 10 per 100 births. <strong>AR%</strong> = (20 − 10) ÷ 20 = <strong>50%</strong></li>
+<li>Tobacco users have <strong>twice the risk</strong> of an LBW baby. Half of the LBW among users is attributable to tobacco and preventable by quitting.</li>
 </ul>
 </section>
 <section id="attributable-risk" class="slide level2 center" data-background-color="#E3F2E1">
@@ -1400,7 +1454,7 @@
 <p>🟡 <strong>SHOULD KNOW</strong></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/epidemiology/crossover_design.svg" class="slide-img" width="860"></p>
+<p><img data-src="../images/epidemiology/crossover_design.svg" class="slide-img" width="820"></p>
 <figcaption>Crossover design</figcaption>
 </figure>
 </div>
@@ -1463,6 +1517,25 @@
 <p><strong>Number Needed to Treat (NNT)</strong> = 1 ÷ absolute risk difference</p>
 <p><em>Drug X vs ramipril:</em> hypertension was controlled in 91% vs 67%. The difference is 0.24, so NNT = 1 ÷ 0.24 ≈ <strong>4</strong>. Treating 4 patients with drug X gives one extra controlled patient compared with ramipril.</p>
 <p>The lower the NNT, the more effective the intervention. The equivalent for harm is the <strong>NNH</strong> (number needed to harm).</p>
+</section>
+<section id="case-scenario-two-ways-to-do-a-bypass" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Two Ways to Do a Bypass</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>Survival on the 10th post-operative day was <strong>45 of 50</strong> after CABG on cardiopulmonary bypass and <strong>32 of 40</strong> after off-pump (beating-heart) CABG.</p>
+<ol type="1">
+<li>Calculate the ratio of survival (efficacy, Iₑ ÷ I₀).</li>
+<li>Calculate the NNT and explain it.</li>
+<li>Can we conclude that on-pump surgery is better? What design would you want?</li>
+</ol>
+</section>
+<section id="case-scenario-two-ways-to-do-a-bypass-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Two Ways to Do a Bypass, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li>Iₑ = 45 ÷ 50 = 0.90; I₀ = 32 ÷ 40 = 0.80; ratio = 0.90 ÷ 0.80 = <strong>1.13</strong></li>
+<li><strong>AR</strong> = 0.10, so <strong>NNT</strong> = 1 ÷ 0.10 = <strong>10</strong>. Treat 10 patients on-pump instead of off-pump for <strong>one extra survivor</strong> at day 10.</li>
+<li><strong>Not yet.</strong> If patients were not randomized, sicker patients may have gone to one technique (selection bias, confounding). A <strong>randomized controlled trial</strong> with blinded outcome assessment is needed.</li>
+</ul>
 </section>
 <section id="number-needed-to-treat" class="slide level2 center" data-background-color="#E8E4F3">
 <h2>Number Needed to Treat</h2>
@@ -1840,7 +1913,7 @@
 <p>🟢 <strong>MUST KNOW</strong></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/epidemiology/causal_evaluation.svg" class="slide-img" width="720"></p>
+<p><img data-src="../images/epidemiology/causal_evaluation.svg" class="slide-img" width="920"></p>
 <figcaption>Evaluating an association for causation</figcaption>
 </figure>
 </div>
@@ -1944,6 +2017,35 @@
 </tr>
 </tbody>
 </table>
+</section>
+<section id="confounding-a-picture" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Confounding: A Picture</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/confounding_triangle.svg" class="slide-img" width="920"></p>
+<figcaption>Smoking confounds the coffee and pancreatic cancer association</figcaption>
+</figure>
+</div>
+</section>
+<section id="case-scenario-coffee-and-pancreatic-cancer" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Coffee and Pancreatic Cancer</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>A case-control study finds that patients with pancreatic cancer drank more coffee than controls (<strong>crude OR 2.5</strong>).</p>
+<ol type="1">
+<li>Which third factor could explain this association?</li>
+<li>How would you check for it?</li>
+<li>How could it be controlled at the design and analysis stages?</li>
+</ol>
+</section>
+<section id="case-scenario-coffee-and-pancreatic-cancer-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Coffee and Pancreatic Cancer, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li><strong>Smoking:</strong> smokers drink more coffee, and smoking independently causes pancreatic cancer. It is a <strong>confounder</strong>.</li>
+<li><strong>Stratify</strong> by smoking. If the OR is close to 1 among smokers and among non-smokers, the crude association was confounding.</li>
+<li><strong>Design:</strong> restriction (non-smokers only), matching on smoking. <strong>Analysis:</strong> Mantel–Haenszel stratification, logistic regression.</li>
+</ul>
 </section>
 <section id="validity-reliability-and-variation" class="slide level2 center" data-background-color="#FFF6DA">
 <h2>Validity, Reliability, and Variation</h2>
@@ -2623,7 +2725,7 @@
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -2650,173 +2752,190 @@
       });
     </script>
     <script id="quarto-html-after-body" type="application/javascript">
-      window.document.addEventListener("DOMContentLoaded", function (event) {
-        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
-        tabsets.forEach(function(tabset) {
-          const tabby = new Tabby('#' + tabset.id);
-        });
-        const isCodeAnnotation = (el) => {
-          for (const clz of el.classList) {
-            if (clz.startsWith('code-annotation-')) {                     
-              return true;
-            }
-          }
-          return false;
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
         }
-        const onCopySuccess = function(e) {
-          // button target
-          const button = e.trigger;
-          // don't keep focus
-          button.blur();
-          // flash "checked"
-          button.classList.add('code-copy-button-checked');
-          var currentTitle = button.getAttribute("title");
-          button.setAttribute("title", "Copied!");
-          let tooltip;
-          if (window.bootstrap) {
-            button.setAttribute("data-bs-toggle", "tooltip");
-            button.setAttribute("data-bs-placement", "left");
-            button.setAttribute("data-bs-title", "Copied!");
-            tooltip = new bootstrap.Tooltip(button, 
-              { trigger: "manual", 
-                customClass: "code-copy-button-tooltip",
-                offset: [0, -8]});
-            tooltip.show();    
-          }
-          setTimeout(function() {
-            if (tooltip) {
-              tooltip.hide();
-              button.removeAttribute("data-bs-title");
-              button.removeAttribute("data-bs-toggle");
-              button.removeAttribute("data-bs-placement");
-            }
-            button.setAttribute("title", currentTitle);
-            button.classList.remove('code-copy-button-checked');
-          }, 1000);
-          // clear code selection
-          e.clearSelection();
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
         }
-        const getTextToCopy = function(trigger) {
-          const outerScaffold = trigger.parentElement.cloneNode(true);
-          const codeEl = outerScaffold.querySelector('code');
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
+      });
+      const isCodeAnnotation = (el) => {
+        for (const clz of el.classList) {
+          if (clz.startsWith('code-annotation-')) {                     
+            return true;
+          }
+        }
+        return false;
+      }
+      const onCopySuccess = function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
           for (const childEl of codeEl.children) {
             if (isCodeAnnotation(childEl)) {
               childEl.remove();
             }
           }
           return codeEl.innerText;
-        }
-        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-          text: getTextToCopy
-        });
-        clipboard.on('success', onCopySuccess);
-        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-            text: getTextToCopy,
-            container: window.document.getElementById('quarto-embedded-source-code-modal')
-          });
-          clipboardModal.on('success', onCopySuccess);
-        }
-          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-          var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp("index\.qmd");
-          var isInternal = (href) => {
-              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-          }
-          // Inspect non-navigation links and adorn them if external
-         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-          for (var i=0; i<links.length; i++) {
-            const link = links[i];
-            if (!isInternal(link.href)) {
-              // undo the damage that might have been done by quarto-nav.js in the case of
-              // links that we want to consider external
-              if (link.dataset.originalHref !== undefined) {
-                link.href = link.dataset.originalHref;
-              }
-            }
-          }
-        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-          const config = {
-            allowHTML: true,
-            maxWidth: 500,
-            delay: 100,
-            arrow: false,
-            appendTo: function(el) {
-                return el.closest('section.slide') || el.parentElement;
-            },
-            interactive: true,
-            interactiveBorder: 10,
-            theme: 'light-border',
-            placement: 'bottom-start',
-          };
-          if (contentFn) {
-            config.content = contentFn;
-          }
-          if (onTriggerFn) {
-            config.onTrigger = onTriggerFn;
-          }
-          if (onUntriggerFn) {
-            config.onUntrigger = onUntriggerFn;
-          }
-            config['offset'] = [0,0];
-            config['maxWidth'] = 700;
-          window.tippy(el, config); 
-        }
-        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-        for (var i=0; i<noterefs.length; i++) {
-          const ref = noterefs[i];
-          tippyHover(ref, function() {
-            // use id or data attribute instead here
-            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-            try { href = new URL(href).hash; } catch {}
-            const id = href.replace(/^#\/?/, "");
-            const note = window.document.getElementById(id);
-            if (note) {
-              return note.innerHTML;
-            } else {
-              return "";
-            }
-          });
-        }
-        const findCites = (el) => {
-          const parentEl = el.parentElement;
-          if (parentEl) {
-            const cites = parentEl.dataset.cites;
-            if (cites) {
-              return {
-                el,
-                cites: cites.split(' ')
-              };
-            } else {
-              return findCites(el.parentElement)
-            }
-          } else {
-            return undefined;
-          }
-        };
-        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-        for (var i=0; i<bibliorefs.length; i++) {
-          const ref = bibliorefs[i];
-          const citeInfo = findCites(ref);
-          if (citeInfo) {
-            tippyHover(citeInfo.el, function() {
-              var popup = window.document.createElement('div');
-              citeInfo.cites.forEach(function(cite) {
-                var citeDiv = window.document.createElement('div');
-                citeDiv.classList.add('hanging-indent');
-                citeDiv.classList.add('csl-entry');
-                var biblioDiv = window.document.getElementById('ref-' + cite);
-                if (biblioDiv) {
-                  citeDiv.innerHTML = biblioDiv.innerHTML;
-                }
-                popup.appendChild(citeDiv);
-              });
-              return popup.innerHTML;
-            });
-          }
-        }
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
-      </script>
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("index\.qmd");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+        const config = {
+          allowHTML: true,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start',
+        };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+    });
+    </script>
     
 
 </body></html>

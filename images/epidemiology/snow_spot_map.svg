@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc">
+  <title id="title">Snow's spot map of the 1854 Broad Street cholera outbreak (schematic)</title>
+  <desc id="desc">A street grid in Soho with square marks for cholera deaths clustering around the Broad Street pump, and few deaths near another pump.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="0" y="0" width="1000" height="470" fill="#f7f4ec"/>
+  <rect x="0" y="90" width="1000" height="26" fill="#d9d2c3"/>
+  <rect x="0" y="230" width="1000" height="26" fill="#d9d2c3"/>
+  <rect x="0" y="370" width="1000" height="26" fill="#d9d2c3"/>
+  <rect x="150" y="0" width="26" height="470" fill="#d9d2c3"/>
+  <rect x="420" y="0" width="26" height="470" fill="#d9d2c3"/>
+  <rect x="690" y="0" width="26" height="470" fill="#d9d2c3"/>
+  <rect x="900" y="0" width="26" height="470" fill="#d9d2c3"/>
+  <rect x="180" y="229" width="200" height="34" fill="#ffffff" stroke="#2c3e50" rx="4"/>
+  <text x="280" y="254" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">BROAD STREET</text>
+  <text x="80" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#2c3e50">Oxford St</text>
+  <text x="780" y="388" text-anchor="middle" font-family="Georgia, serif" font-size="20" fill="#2c3e50">Golden Sq</text>
+  <rect x="525" y="205" width="9" height="9" fill="#2c3e50"/>
+  <rect x="606" y="246" width="9" height="9" fill="#2c3e50"/>
+  <rect x="661" y="256" width="9" height="9" fill="#2c3e50"/>
+  <rect x="517" y="224" width="9" height="9" fill="#2c3e50"/>
+  <rect x="670" y="267" width="9" height="9" fill="#2c3e50"/>
+  <rect x="573" y="238" width="9" height="9" fill="#2c3e50"/>
+  <rect x="703" y="336" width="9" height="9" fill="#2c3e50"/>
+  <rect x="564" y="305" width="9" height="9" fill="#2c3e50"/>
+  <rect x="346" y="150" width="9" height="9" fill="#2c3e50"/>
+  <rect x="360" y="325" width="9" height="9" fill="#2c3e50"/>
+  <rect x="571" y="202" width="9" height="9" fill="#2c3e50"/>
+  <rect x="543" y="229" width="9" height="9" fill="#2c3e50"/>
+  <rect x="530" y="252" width="9" height="9" fill="#2c3e50"/>
+  <rect x="566" y="191" width="9" height="9" fill="#2c3e50"/>
+  <rect x="497" y="184" width="9" height="9" fill="#2c3e50"/>
+  <rect x="434" y="307" width="9" height="9" fill="#2c3e50"/>
+  <rect x="588" y="237" width="9" height="9" fill="#2c3e50"/>
+  <rect x="549" y="235" width="9" height="9" fill="#2c3e50"/>
+  <rect x="522" y="264" width="9" height="9" fill="#2c3e50"/>
+  <rect x="436" y="178" width="9" height="9" fill="#2c3e50"/>
+  <rect x="575" y="151" width="9" height="9" fill="#2c3e50"/>
+  <rect x="535" y="203" width="9" height="9" fill="#2c3e50"/>
+  <rect x="539" y="224" width="9" height="9" fill="#2c3e50"/>
+  <rect x="559" y="224" width="9" height="9" fill="#2c3e50"/>
+  <rect x="625" y="277" width="9" height="9" fill="#2c3e50"/>
+  <rect x="658" y="339" width="9" height="9" fill="#2c3e50"/>
+  <rect x="435" y="230" width="9" height="9" fill="#2c3e50"/>
+  <rect x="563" y="89" width="9" height="9" fill="#2c3e50"/>
+  <rect x="502" y="210" width="9" height="9" fill="#2c3e50"/>
+  <rect x="517" y="170" width="9" height="9" fill="#2c3e50"/>
+  <rect x="478" y="193" width="9" height="9" fill="#2c3e50"/>
+  <rect x="611" y="208" width="9" height="9" fill="#2c3e50"/>
+  <rect x="725" y="277" width="9" height="9" fill="#2c3e50"/>
+  <rect x="535" y="203" width="9" height="9" fill="#2c3e50"/>
+  <rect x="655" y="63" width="9" height="9" fill="#2c3e50"/>
+  <rect x="473" y="459" width="9" height="9" fill="#2c3e50"/>
+  <rect x="692" y="240" width="9" height="9" fill="#2c3e50"/>
+  <rect x="419" y="247" width="9" height="9" fill="#2c3e50"/>
+  <rect x="575" y="233" width="9" height="9" fill="#2c3e50"/>
+  <rect x="552" y="184" width="9" height="9" fill="#2c3e50"/>
+  <rect x="492" y="256" width="9" height="9" fill="#2c3e50"/>
+  <rect x="595" y="187" width="9" height="9" fill="#2c3e50"/>
+  <rect x="424" y="197" width="9" height="9" fill="#2c3e50"/>
+  <rect x="597" y="191" width="9" height="9" fill="#2c3e50"/>
+  <rect x="525" y="304" width="9" height="9" fill="#2c3e50"/>
+  <rect x="337" y="312" width="9" height="9" fill="#2c3e50"/>
+  <rect x="713" y="192" width="9" height="9" fill="#2c3e50"/>
+  <rect x="670" y="349" width="9" height="9" fill="#2c3e50"/>
+  <rect x="550" y="256" width="9" height="9" fill="#2c3e50"/>
+  <rect x="459" y="231" width="9" height="9" fill="#2c3e50"/>
+  <rect x="633" y="227" width="9" height="9" fill="#2c3e50"/>
+  <rect x="497" y="244" width="9" height="9" fill="#2c3e50"/>
+  <rect x="657" y="201" width="9" height="9" fill="#2c3e50"/>
+  <rect x="499" y="141" width="9" height="9" fill="#2c3e50"/>
+  <rect x="463" y="108" width="9" height="9" fill="#2c3e50"/>
+  <rect x="562" y="229" width="9" height="9" fill="#2c3e50"/>
+  <rect x="628" y="270" width="9" height="9" fill="#2c3e50"/>
+  <rect x="489" y="180" width="9" height="9" fill="#2c3e50"/>
+  <rect x="557" y="257" width="9" height="9" fill="#2c3e50"/>
+  <rect x="555" y="237" width="9" height="9" fill="#2c3e50"/>
+  <rect x="568" y="225" width="9" height="9" fill="#2c3e50"/>
+  <rect x="566" y="246" width="9" height="9" fill="#2c3e50"/>
+  <rect x="645" y="237" width="9" height="9" fill="#2c3e50"/>
+  <rect x="598" y="187" width="9" height="9" fill="#2c3e50"/>
+  <rect x="544" y="266" width="9" height="9" fill="#2c3e50"/>
+  <rect x="517" y="254" width="9" height="9" fill="#2c3e50"/>
+  <rect x="571" y="199" width="9" height="9" fill="#2c3e50"/>
+  <rect x="596" y="223" width="9" height="9" fill="#2c3e50"/>
+  <rect x="673" y="280" width="9" height="9" fill="#2c3e50"/>
+  <rect x="571" y="239" width="9" height="9" fill="#2c3e50"/>
+  <rect x="572" y="189" width="9" height="9" fill="#2c3e50"/>
+  <rect x="591" y="278" width="9" height="9" fill="#2c3e50"/>
+  <rect x="227" y="184" width="9" height="9" fill="#2c3e50"/>
+  <rect x="574" y="252" width="9" height="9" fill="#2c3e50"/>
+  <rect x="515" y="221" width="9" height="9" fill="#2c3e50"/>
+  <rect x="553" y="224" width="9" height="9" fill="#2c3e50"/>
+  <rect x="536" y="321" width="9" height="9" fill="#2c3e50"/>
+  <rect x="441" y="307" width="9" height="9" fill="#2c3e50"/>
+  <rect x="434" y="208" width="9" height="9" fill="#2c3e50"/>
+  <rect x="581" y="86" width="9" height="9" fill="#2c3e50"/>
+  <rect x="562" y="195" width="9" height="9" fill="#2c3e50"/>
+  <rect x="628" y="219" width="9" height="9" fill="#2c3e50"/>
+  <rect x="533" y="88" width="9" height="9" fill="#2c3e50"/>
+  <rect x="531" y="238" width="9" height="9" fill="#2c3e50"/>
+  <rect x="701" y="246" width="9" height="9" fill="#2c3e50"/>
+  <rect x="539" y="301" width="9" height="9" fill="#2c3e50"/>
+  <rect x="538" y="212" width="9" height="9" fill="#2c3e50"/>
+  <rect x="674" y="187" width="9" height="9" fill="#2c3e50"/>
+  <rect x="584" y="223" width="9" height="9" fill="#2c3e50"/>
+  <rect x="567" y="310" width="9" height="9" fill="#2c3e50"/>
+  <circle cx="545" cy="233" r="16" fill="#c0392b" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="590" y="140" width="110" height="36" fill="#ffffff" stroke="#c0392b" stroke-width="2" rx="4"/>
+  <text x="645" y="166" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#c0392b">PUMP</text>
+  <line x1="600" y1="176" x2="557" y2="221" stroke="#c0392b" stroke-width="2" marker-end="url(#arr)"/>
+  <circle cx="905" cy="50" r="12" fill="#2980b9" stroke="#2c3e50" stroke-width="2"/>
+  <text x="860" y="57" text-anchor="end" font-family="Georgia, serif" font-size="20" fill="#333">other pump</text>
+  <rect x="10" y="415" width="330" height="44" fill="#ffffff" stroke="#2c3e50" rx="6"/>
+  <rect x="24" y="431" width="12" height="12" fill="#2c3e50"/>
+  <text x="48" y="444" text-anchor="start" font-family="Georgia, serif" font-size="20" fill="#333">= cholera deaths (schematic)</text>
+</svg>

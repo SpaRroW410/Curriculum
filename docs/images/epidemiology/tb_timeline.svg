@@ -1,59 +1,58 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="860" height="460" viewBox="0 0 860 460" role="img" aria-labelledby="title desc">
-  <title id="title">Occurrence of tuberculosis in 100 HIV-positive subjects, January 2000 to January 2003</title>
-  <desc id="desc">Twenty horizontal dashed lines, each one TB episode from onset to recovery, against vertical lines marking January 2000, 2001, 2002 and 2003. Five episodes are ongoing in January 2000; five new episodes begin in each of 2000, 2001 and 2002; five episodes are ongoing in January 2002.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="466" viewBox="0 0 1000 466" role="img" aria-labelledby="title desc">
+  <title id="title">TB in 100 HIV-positive subjects, January 2000 to January 2003</title>
+  <desc id="desc">Twenty dashed lines, each one TB episode, against January 2000, 2001, 2002 and 2003. Five are ongoing in January 2000, five begin in each of 2000, 2001 and 2002, and five are ongoing in January 2002.</desc>
   <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
-  <line x1="170.0" y1="50" x2="170.0" y2="406" stroke="#2c3e50" stroke-width="2"/>
-  <text x="170.0" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#2c3e50">January</text>
-  <text x="170.0" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#2c3e50">2000</text>
-  <line x1="370.0" y1="50" x2="370.0" y2="406" stroke="#2c3e50" stroke-width="2"/>
-  <text x="370.0" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#2c3e50">January</text>
-  <text x="370.0" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#2c3e50">2001</text>
-  <line x1="570.0" y1="50" x2="570.0" y2="406" stroke="#2c3e50" stroke-width="2"/>
-  <text x="570.0" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#2c3e50">January</text>
-  <text x="570.0" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#2c3e50">2002</text>
-  <line x1="770.0" y1="50" x2="770.0" y2="406" stroke="#2c3e50" stroke-width="2"/>
-  <text x="770.0" y="26" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#2c3e50">January</text>
-  <text x="770.0" y="42" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-weight="bold" fill="#2c3e50">2003</text>
-  <line x1="90.0" y1="63" x2="90.0" y2="73" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="90.0" y1="68" x2="250.0" y2="68" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="210.0" y1="80" x2="210.0" y2="90" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="210.0" y1="85" x2="310.0" y2="85" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="390.0" y1="97" x2="390.0" y2="107" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="390.0" y1="102" x2="490.0" y2="102" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="590.0" y1="114" x2="590.0" y2="124" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="590.0" y1="119" x2="690.0" y2="119" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="110.0" y1="131" x2="110.0" y2="141" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="110.0" y1="136" x2="350.0" y2="136" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="250.0" y1="148" x2="250.0" y2="158" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="250.0" y1="153" x2="430.0" y2="153" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="430.0" y1="165" x2="430.0" y2="175" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="430.0" y1="170" x2="630.0" y2="170" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="630.0" y1="182" x2="630.0" y2="192" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="630.0" y1="187" x2="810.0" y2="187" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="100.0" y1="199" x2="100.0" y2="209" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="100.0" y1="204" x2="670.0" y2="204" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="290.0" y1="216" x2="290.0" y2="226" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="290.0" y1="221" x2="650.0" y2="221" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="470.0" y1="233" x2="470.0" y2="243" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="470.0" y1="238" x2="690.0" y2="238" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="670.0" y1="250" x2="670.0" y2="260" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="670.0" y1="255" x2="750.0" y2="255" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="130.0" y1="267" x2="130.0" y2="277" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="130.0" y1="272" x2="230.0" y2="272" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="330.0" y1="284" x2="330.0" y2="294" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="330.0" y1="289" x2="410.0" y2="289" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="510.0" y1="301" x2="510.0" y2="311" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="510.0" y1="306" x2="610.0" y2="306" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="710.0" y1="318" x2="710.0" y2="328" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="710.0" y1="323" x2="820.0" y2="323" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="120.0" y1="335" x2="120.0" y2="345" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="120.0" y1="340" x2="290.0" y2="340" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="230.0" y1="352" x2="230.0" y2="362" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="230.0" y1="357" x2="350.0" y2="357" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="410.0" y1="369" x2="410.0" y2="379" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="410.0" y1="374" x2="530.0" y2="374" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <line x1="610.0" y1="386" x2="610.0" y2="396" stroke="#2c3e50" stroke-width="2"/>
-  <line x1="610.0" y1="391" x2="730.0" y2="391" stroke="#2c3e50" stroke-width="1.8" stroke-dasharray="5,3"/>
-  <text x="430" y="430" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#333">⊢--- one TB episode, from onset to recovery · 100 HIV-positive subjects · the other 80 never develop TB</text>
-  <text x="430" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="12" font-style="italic" fill="#333">Stable population: no deaths from other causes, no migration, everyone examined each January</text>
+  <line x1="182.5" y1="66" x2="182.5" y2="422" stroke="#2c3e50" stroke-width="3"/>
+  <text x="182.5" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Jan</text>
+  <text x="182.5" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">2000</text>
+  <line x1="427.5" y1="66" x2="427.5" y2="422" stroke="#2c3e50" stroke-width="3"/>
+  <text x="427.5" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Jan</text>
+  <text x="427.5" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">2001</text>
+  <line x1="672.5" y1="66" x2="672.5" y2="422" stroke="#2c3e50" stroke-width="3"/>
+  <text x="672.5" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Jan</text>
+  <text x="672.5" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">2002</text>
+  <line x1="917.5" y1="66" x2="917.5" y2="422" stroke="#2c3e50" stroke-width="3"/>
+  <text x="917.5" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Jan</text>
+  <text x="917.5" y="56" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">2003</text>
+  <line x1="84.5" y1="76" x2="84.5" y2="88" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="84.5" y1="82" x2="280.5" y2="82" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="231.5" y1="93" x2="231.5" y2="105" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="231.5" y1="99" x2="354.0" y2="99" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="452.0" y1="110" x2="452.0" y2="122" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="452.0" y1="116" x2="574.5" y2="116" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="697.0" y1="127" x2="697.0" y2="139" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="697.0" y1="133" x2="819.5" y2="133" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="109.0" y1="144" x2="109.0" y2="156" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="109.0" y1="150" x2="403.0" y2="150" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="280.5" y1="161" x2="280.5" y2="173" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="280.5" y1="167" x2="501.0" y2="167" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="501.0" y1="178" x2="501.0" y2="190" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="501.0" y1="184" x2="746.0" y2="184" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="746.0" y1="195" x2="746.0" y2="207" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="746.0" y1="201" x2="966.5" y2="201" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="96.8" y1="212" x2="96.8" y2="224" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="96.8" y1="218" x2="795.0" y2="218" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="329.5" y1="229" x2="329.5" y2="241" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="329.5" y1="235" x2="770.5" y2="235" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="550.0" y1="246" x2="550.0" y2="258" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="550.0" y1="252" x2="819.5" y2="252" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="795.0" y1="263" x2="795.0" y2="275" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="795.0" y1="269" x2="893.0" y2="269" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="133.5" y1="280" x2="133.5" y2="292" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="133.5" y1="286" x2="256.0" y2="286" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="378.5" y1="297" x2="378.5" y2="309" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="378.5" y1="303" x2="476.5" y2="303" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="599.0" y1="314" x2="599.0" y2="326" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="599.0" y1="320" x2="721.5" y2="320" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="844.0" y1="331" x2="844.0" y2="343" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="844.0" y1="337" x2="978.8" y2="337" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="121.2" y1="348" x2="121.2" y2="360" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="121.2" y1="354" x2="329.5" y2="354" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="256.0" y1="365" x2="256.0" y2="377" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="256.0" y1="371" x2="403.0" y2="371" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="476.5" y1="382" x2="476.5" y2="394" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="476.5" y1="388" x2="623.5" y2="388" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <line x1="721.5" y1="399" x2="721.5" y2="411" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="721.5" y1="405" x2="868.5" y2="405" stroke="#2c3e50" stroke-width="2.6" stroke-dasharray="7,4"/>
+  <text x="500" y="454" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#333">Each dashed line = one TB episode (onset → recovery). 80 subjects never get TB.</text>
 </svg>

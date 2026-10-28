@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-labelledby="title desc">
+  <title id="title">Confounding: coffee, smoking and pancreatic cancer</title>
+  <desc id="desc">Smoking is linked to coffee drinking and independently causes pancreatic cancer, producing an apparent association between coffee and pancreatic cancer.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="370" y="10" width="260" height="80" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="500.0" y="42.9" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Smoking</text>
+  <text x="500.0" y="75.3" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">(confounder)</text>
+  <rect x="10" y="260" width="280" height="80" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="150.0" y="292.9" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Coffee</text>
+  <text x="150.0" y="325.4" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">(exposure)</text>
+  <rect x="710" y="260" width="280" height="80" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="850.0" y="292.9" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Pancreatic cancer</text>
+  <text x="850.0" y="325.4" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">(outcome)</text>
+  <line x1="400" y1="90" x2="200" y2="258" stroke="#2c3e50" stroke-width="3" marker-end="url(#arr)"/>
+  <line x1="600" y1="90" x2="800" y2="258" stroke="#2c3e50" stroke-width="3" marker-end="url(#arr)"/>
+  <line x1="292" y1="300" x2="706" y2="300" stroke="#2c3e50" stroke-width="3" marker-end="url(#arr)" stroke-dasharray="10,6"/>
+  <text x="240" y="160" text-anchor="end" font-family="Georgia, serif" font-size="22" fill="#333">smokers drink</text>
+  <text x="240" y="188" text-anchor="end" font-family="Georgia, serif" font-size="22" fill="#333">more coffee</text>
+  <text x="760" y="160" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">smoking causes</text>
+  <text x="760" y="188" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">pancreatic cancer</text>
+  <text x="500" y="290" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#333">apparent association</text>
+  <text x="500" y="385" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Remove smoking (stratify or adjust) and the coffee association disappears</text>
+</svg>

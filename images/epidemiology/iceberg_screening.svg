@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc">
+  <title id="title">The iceberg of disease and screening</title>
+  <desc id="desc">Only the tip of the iceberg, clinical cases, is seen by doctors; the submerged part holds undiagnosed, subclinical and latent cases, carriers and pre-symptomatic cases, which screening aims to find.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="0" y="0" width="1000" height="470" fill="#ffffff"/>
+  <rect x="0" y="140" width="1000" height="330" fill="#d6eaf8"/>
+  <line x1="0" y1="140" x2="1000" y2="140" stroke="#2980b9" stroke-width="3"/>
+  <polygon points="430,40 500,20 560,60 600,140 380,140" fill="#ffffff" stroke="#2c3e50" stroke-width="2.5"/>
+  <polygon points="380,140 600,140 690,300 600,450 380,450 290,300" fill="#aed6f1" stroke="#2c3e50" stroke-width="2.5"/>
+  <text x="720" y="60" text-anchor="start" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Clinical cases</text>
+  <text x="720" y="90" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">(seen by doctors)</text>
+  <text x="940" y="132" text-anchor="end" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#333">waterline</text>
+  <text x="720" y="200" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">Undiagnosed cases</text>
+  <text x="720" y="250" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">Subclinical, latent cases</text>
+  <text x="720" y="300" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">Carriers</text>
+  <text x="720" y="350" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">Pre-symptomatic cases</text>
+  <text x="170" y="260" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#c0392b">SCREENING</text>
+  <text x="170" y="290" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">targets the</text>
+  <text x="170" y="318" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">submerged part</text>
+  <line x1="250" y1="300" x2="330" y2="300" stroke="#c0392b" stroke-width="3" marker-end="url(#arr)"/>
+</svg>

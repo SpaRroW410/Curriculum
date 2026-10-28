@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-labelledby="title desc">
+  <title id="title">Propagated (person-to-person) epidemic</title>
+  <desc id="desc">Measles in a school: small first generation, then larger second and third generations about one incubation period (10 to 14 days) apart.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <line x1="70" y1="340" x2="930" y2="340" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="70" y1="340" x2="70" y2="90" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="71.0" y="325.0" width="20.1" height="15.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="313.6" y="310.0" width="20.1" height="30.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="335.6" y="280.0" width="20.1" height="60.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="357.7" y="325.0" width="20.1" height="15.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="556.1" y="295.0" width="20.1" height="45.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="578.2" y="220.0" width="20.1" height="120.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="600.2" y="175.0" width="20.1" height="165.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="622.3" y="280.0" width="20.1" height="60.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="644.3" y="325.0" width="20.1" height="15.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="798.7" y="310.0" width="20.1" height="30.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="820.7" y="205.0" width="20.1" height="135.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="842.8" y="100.0" width="20.1" height="240.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="864.8" y="160.0" width="20.1" height="180.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="886.9" y="265.0" width="20.1" height="75.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="908.9" y="325.0" width="20.1" height="15.0" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.2"/>
+  <text x="500" y="385" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Days since the first case</text>
+  <text x="30" y="200" transform="rotate(-90 30 200)" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Number of cases</text>
+  <text x="130" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">index</text>
+  <text x="330" y="220" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">2nd gen</text>
+  <text x="575" y="150" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">3rd gen</text>
+  <text x="830" y="70" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">4th gen</text>
+</svg>

@@ -93,7 +93,32 @@ The International Epidemiological Association lists three aims:
 
 Two core activities: **asking questions** (*what is the event? how much? where? when? who? why?*) and **making comparisons** (between groups, places and times).
 
-![The epidemiological approach](../images/epidemiology/epidemiological_approach.svg){.slide-img .nostretch width="860px"}
+![The epidemiological approach](../images/epidemiology/epidemiological_approach.svg){.slide-img .nostretch width="920px"}
+
+
+---
+
+## Case Scenario: Diarrhoea in Ward 7 {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+A medical officer notices **18 cases of acute watery diarrhoea in 5 days** from Ward 7 (population 6,000). The ward usually reports 1–2 cases a week. Most cases live near two public taps.
+
+1. Apply the epidemiological approach: what would you count, and what would you compare?
+2. Which rate would you calculate?
+3. What hypothesis would you form, and how would you test it?
+
+---
+
+## Case Scenario: Diarrhoea in Ward 7, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **Count** cases using a fixed case definition (e.g. ≥3 watery stools in 24 h since a set date), by date of onset, address, age and sex.
+- **Rate:** attack rate = 18 ÷ 6,000 = **3 per 1,000 in 5 days**, compared with the usual expected level. That is clearly in excess, so it is an outbreak.
+- **Compare** attack rates among households using the two taps vs other water sources.
+- **Hypothesis:** contaminated water from the taps. **Test** it by comparing attack rates in tap users vs non-users, plus water testing (residual chlorine, coliforms).
+- **Intervene:** chlorinate or close the taps, give ORS, educate, keep up surveillance. Then **evaluate**: do new cases stop?
 
 ---
 
@@ -117,9 +142,17 @@ Both rely on clinical skills: an epidemiologist still needs them to apply a case
 
 🟡 **SHOULD KNOW**
 
-![Uses of epidemiology, grouped into four domains (after Fig 9.1 of the faculty text)](../images/epidemiology/uses_of_epidemiology.svg){.slide-img .nostretch width="800px"}
+![Uses of epidemiology (1), after Fig 9.1 of the faculty text](../images/epidemiology/uses_of_epidemiology.svg){.slide-img .nostretch width="920px"}
 
 **Morris's seven uses (Park):** historical study · community diagnosis · planning and evaluation · individual risks and chances · completing the clinical picture · identification of syndromes · searching for causes.
+
+---
+
+## Uses of Epidemiology (contd.) {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+![Uses of epidemiology (2)](../images/epidemiology/uses_of_epidemiology_2.svg){.slide-img .nostretch width="920px"}
 
 ---
 
@@ -144,11 +177,18 @@ Both rely on clinical skills: an epidemiologist still needs them to apply a case
 
 🟣 **MAY KNOW**
 
+:::: {.columns}
+::: {.column width="28%"}
+![John Snow (1813–1858)](../images/man-and-medicine/John-Snow.jpg){.slide-img .nostretch width="230px"}
+:::
+::: {.column width="72%"}
 In 1854, a severe cholera outbreak in London's Soho district killed over
 600 people in about ten days. **John Snow** rejected the then-dominant
 miasma ("bad air") theory. He mapped cholera deaths by address and traced
 them to a single water pump on Broad Street. Local authorities removed the
 pump handle, and the outbreak subsided.
+:::
+::::
 
 Snow also compared death rates among households supplied by two water
 companies (the "Grand Experiment"): the Southwark & Vauxhall company drew
@@ -157,6 +197,16 @@ sewage-polluted Thames water and the Lambeth company drew cleaner water.
 **Why it matters:** this is the founding case study of modern
 epidemiology. It used descriptive and comparative data to identify a cause
 and act, *before* germ theory existed.
+
+---
+
+## Snow's Spot Map {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+![Snow's spot map of cholera deaths around the Broad Street pump (schematic)](../images/epidemiology/snow_spot_map.svg){.slide-img .nostretch width="860px"}
+
+A **spot map** shows the *place* distribution of cases: deaths cluster around one pump.
 
 ---
 
@@ -519,6 +569,31 @@ A town has a mid-year population of **50,000**. In one year:
 | CFR (cholera) | 6 ÷ 120 × 100 | **5%** |
 | PMR (TB) | 40 ÷ 400 × 100 | **10% of deaths** |
 
+
+---
+
+## Case Scenario: Dengue in a District {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+A district (mid-year population **2,00,000**) recorded **1,400 deaths** last year. The district hospital admitted **400 dengue cases**, of whom **8 died**. Two more dengue deaths occurred at home (**10 dengue deaths** in all).
+
+1. Calculate the crude death rate.
+2. Calculate the case fatality rate of dengue among admitted cases.
+3. Calculate the proportional mortality rate for dengue.
+4. Which measure tells you how severe dengue is? Does a PMR tell you the risk of dying of dengue?
+
+---
+
+## Case Scenario: Dengue in a District, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **CDR** = 1,400 ÷ 2,00,000 × 1,000 = **7 per 1,000** population
+- **CFR** = 8 ÷ 400 × 100 = **2%** of admitted cases died
+- **PMR** = 10 ÷ 1,400 × 100 ≈ **0.7%** of all deaths were due to dengue
+- **CFR** measures severity (killing power). **PMR** is only a share of deaths: it would rise if other deaths fell, even with unchanged dengue risk.
+
 ---
 
 ## India's Mortality Snapshot {background-color="#FFF6DA"}
@@ -726,19 +801,21 @@ Prevalence is a **proportion**, not a rate. It measures the **burden** of diseas
 
 🟢 **MUST KNOW**
 
-:::: {.columns}
-::: {.column width="55%"}
-![Prevalence pool](../images/epidemiology/prevalence_pool.svg){.slide-img .nostretch width="460px"}
-:::
-::: {.column width="45%"}
-`P = I × D` (steady state)
+![Prevalence pool: incidence flows in, recovery and death flow out](../images/epidemiology/prevalence_pool.svg){.slide-img .nostretch width="820px"}
+
+---
+
+## What P = I × D Means {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+`Prevalence ≈ Incidence × mean Duration` (steady state)
 
 - Long duration with low incidence gives **high** prevalence (diabetes, leprosy before MDT)
 - High incidence with short duration gives **low** prevalence (common cold)
 - Better treatment that cures fast **lowers** prevalence
-- Treatment that prolongs life without cure **raises** it
-:::
-::::
+- Treatment that prolongs life without cure **raises** it (e.g. ART for HIV)
+- Prevention that reduces new cases lowers prevalence only slowly, as old cases persist
 
 ---
 
@@ -754,6 +831,29 @@ Prevalence is a **proportion**, not a rate. It measures the **burden** of diseas
 | Best for **etiology/causation**: exposure must precede onset | Best for **planning** services, beds, drugs, manpower |
 | Evaluates **primary prevention** | Estimates chronic disease load; affected by duration and survival |
 | Suited to acute disease | Suited to chronic disease |
+
+
+---
+
+## Case Scenario: Hypertension in Students {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+BP screening of **1,000** male university students in January 2016 found **50** hypertensive. The remaining **950** normotensives were followed for 3 years, and **19** developed hypertension by January 2019.
+
+1. What is the prevalence of hypertension in January 2016?
+2. What is the incidence of hypertension over the follow-up?
+3. Which measure would you use to plan a student BP clinic, and which to study whether salt intake causes hypertension?
+
+---
+
+## Case Scenario: Hypertension in Students, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **Point prevalence** = 50 ÷ 1,000 = **5%** (January 2016)
+- **Cumulative incidence** = 19 ÷ 950 = **2% over 3 years**. Always state the period. The denominator excludes the 50 already hypertensive.
+- **Prevalence** plans services (the load of existing cases). **Incidence** studies causation, because exposure can be shown to precede new cases.
 
 ---
 
@@ -791,7 +891,7 @@ It is expressed as a percentage over the whole exposure episode, not per year.
 
 Use this figure for the TB questions in the Self-Check below.
 
-![TB episodes in 100 HIV-positive subjects, 2000–2003](../images/epidemiology/tb_timeline.svg){.slide-img .nostretch width="740px"}
+![TB episodes in 100 HIV-positive subjects, 2000–2003](../images/epidemiology/tb_timeline.svg){.slide-img .nostretch width="860px"}
 
 ---
 
@@ -1214,6 +1314,29 @@ Mine workers: 27 deaths observed in one year. Age-specific death rates of the na
 
 The workers die at **1.5 times** the rate expected for their age structure, which points to an occupational hazard.
 
+
+---
+
+## Case Scenario: Two Districts, Two Death Rates {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+District A has a crude death rate of **12 per 1,000**, District B **7 per 1,000**. In A, **18%** of the population is aged 60 or over; in B, **6%**. A health secretary concludes that A's health services are worse.
+
+1. Is the conclusion valid? Why?
+2. How would you compare the two districts fairly?
+3. Which method would you use if District A reports only its total deaths?
+
+---
+
+## Case Scenario: Two Districts, Two Death Rates, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **Not valid yet.** A has many more elderly people, so its crude rate is inflated by **age (confounding)**, not necessarily by worse services.
+- **Direct standardization:** apply each district's age-specific death rates to one standard population and compare the age-adjusted rates.
+- **Indirect standardization:** apply standard age-specific rates to A's age structure to get expected deaths, then **SMR = observed ÷ expected**.
+
 ---
 
 ## Sources of Epidemiological Data (1) {background-color="#E3F2E1"}
@@ -1259,6 +1382,31 @@ The workers die at **1.5 times** the rate expected for their age structure, whic
 **Common errors:** writing the mode of death ("cardiac arrest", "respiratory failure") as a cause, wrong sequence, more than one cause per line, abbreviations, missing intervals, vague terms ("old age").
 
 **Verbal autopsy:** a structured interview of relatives or caregivers about signs and symptoms before death, coded by physicians or software. It is used where deaths occur without medical attention, as in the SRS Million Death Study.
+
+---
+
+## Case Scenario: Completing a Death Certificate {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+A 54-year-old man with **type 2 diabetes** developed an **acute STEMI** on 22 May. On 24 May he developed **atrial fibrillation**, followed by an **embolism of the right middle cerebral artery**. He was ventilated and given vasopressors, but died on 27 May at 4 p.m.
+
+1. Write Part I (the causal sequence) with intervals.
+2. What goes in Part II?
+3. What is the underlying cause of death? Which terms must NOT be written?
+
+---
+
+## Case Scenario: Completing a Death Certificate, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **Part I (a)** Cerebral infarction due to embolism of the right MCA (about 3 days)
+- **(b)** due to atrial fibrillation (about 3 days)
+- **(c)** due to acute ST-elevation myocardial infarction (5 days)
+- **Part II:** Type 2 diabetes mellitus (years). It contributed but is not in the direct chain.
+- **Underlying cause** = **acute STEMI**, on the lowest line of Part I. Do **not** write *cardiac arrest*, *respiratory failure* or *ventilator support*. These are modes of death or treatments, not causes.
+
 
 ---
 
@@ -1726,16 +1874,93 @@ Secular trends help doctors and planners judge whether a problem is growing, and
 
 ---
 
+## Time Trends at a Glance {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![Secular, seasonal and cyclic trends (schematic)](../images/epidemiology/time_trends.svg){.slide-img .nostretch width="920px"}
+
+---
+
+## Epidemic, Endemic, Sporadic, Exotic {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Epidemic**: cases clearly in excess of normal expectancy for that place and season
+- **Endemic**: constant presence of a disease at its usual level in an area
+- **Sporadic**: scattered, irregular cases with no apparent link (e.g. tetanus)
+- **Exotic**: a disease imported into a country where it does not otherwise occur (e.g. yellow fever if introduced into India)
+
+**Types of epidemics:**
+
+1. **Common-source**: single exposure (point source), or continuous / repeated exposure
+2. **Propagated**: person to person, via vector, or animal
+3. **Slow (modern) epidemics**: a gradual rise over years (IHD, diabetes, lung cancer)
+
+The **epidemic curve** (cases by date of onset) shows which type you face.
+
+---
+
 ## Epidemics and the Epidemic Curve {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
 
-![Epidemic curve types](../images/epidemiology/epidemic_curves.svg){.slide-img .nostretch width="900px"}
+![Three classic epidemic curves](../images/epidemiology/epidemic_curves.svg){.slide-img .nostretch width="920px"}
 
-- **Epidemic**: cases clearly in excess of normal expectancy
-- **Endemic**: constant presence of a disease at its usual level in an area
-- **Sporadic**: scattered, irregular cases with no apparent link (e.g. tetanus)
-- **Exotic**: a disease imported into a country where it does not otherwise occur (e.g. yellow fever if introduced into India)
+---
+
+## Common-Source, Single Exposure (Point Source) {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![Point-source epidemic after a wedding meal](../images/epidemiology/epidemic_point_source.svg){.slide-img .nostretch width="920px"}
+
+One exposure at one time (a contaminated meal): explosive rise and fall within **one incubation period**. Examples: food poisoning, Bhopal gas (1984).
+
+
+---
+
+## Case Scenario: The Wedding Dinner {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+**150 guests** ate a wedding dinner at 7 p.m. Between 9 p.m. and 1 a.m., **62 guests** developed vomiting and abdominal cramps without fever. All of them had eaten the custard.
+
+1. What type of epidemic is this, and what would the epidemic curve look like?
+2. What is the likely agent?
+3. Calculate the attack rate.
+4. How would you confirm the source?
+
+---
+
+## Case Scenario: The Wedding Dinner, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **Common-source, single-exposure (point-source)** epidemic: one sharp peak, with all cases within one incubation period
+- An incubation of **2–6 hours** with vomiting and no fever suggests **preformed toxin**: *S. aureus* enterotoxin (or *B. cereus*)
+- **Attack rate** = 62 ÷ 150 × 100 ≈ **41%**
+- **Food-specific attack rates** (ate vs did not eat each dish): the custard will show the largest difference. Test leftover food and examine food handlers for skin lesions or nasal carriage.
+
+---
+
+## Common-Source, Continuous or Repeated Exposure {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![Continuous common-source epidemic with an abrupt fall after source removal](../images/epidemiology/epidemic_continuous.svg){.slide-img .nostretch width="920px"}
+
+Exposure goes on (a contaminated well or pipeline): cases keep coming, then **stop abruptly** when the source is removed. Example: Broad Street (1854), water-borne hepatitis E.
+
+---
+
+## Propagated Epidemic {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![Propagated epidemic with successive generations](../images/epidemiology/epidemic_propagated.svg){.slide-img .nostretch width="920px"}
+
+Person-to-person spread (measles, hepatitis A, influenza): **successive waves one incubation period apart**, with a gradual rise and a long tail. It stops when susceptibles run out or are protected.
 
 ---
 
@@ -1748,6 +1973,29 @@ Secular trends help doctors and planners judge whether a problem is growing, and
 - **Rural–urban differences**: in population density, sanitation, lifestyle and access to care.
 - **Local distributions**: spot maps, as in Snow's cholera map.
 - **Migration studies**: compare migrants with their home and host populations. Japanese migrants to the USA: stomach cancer **fell** and colon cancer **rose** toward host levels within a generation, so environmental factors outweigh genes.
+
+
+---
+
+## Case Scenario: Japanese Migrants and Heart Disease {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+IHD is low in Japan and high in the USA. Japanese people who migrated to the USA developed high IHD rates after about 25 years, close to those of native Americans.
+
+1. What type of study is this?
+2. What does it suggest about the causes of IHD?
+3. Which other study design helps separate genes from environment?
+
+---
+
+## Case Scenario: Japanese Migrants and Heart Disease, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- A **migrant study**, a type of descriptive or ecological study
+- Genes did not change but risk did, so **environmental and lifestyle** factors (diet, activity) dominate
+- **Twin studies:** compare concordance in monozygotic and dizygotic twins
 
 ---
 
@@ -1825,9 +2073,9 @@ A **variable** is a characteristic that differs between subjects (age, sex, BP).
 
 🟢 **MUST KNOW**
 
-![Classification of epidemiological study designs](../images/epidemiology/study_designs.svg){.slide-img .nostretch width="780px"}
+![Classification of epidemiological study designs](../images/epidemiology/study_designs.svg){.slide-img .nostretch width="820px"}
 
-A **2 × 2 table** (exposure × outcome) can only be built when groups are **compared**, so it belongs to analytical and experimental studies, never purely descriptive ones.
+A **2 × 2 table** needs a comparison group: analytical and experimental studies only.
 
 ---
 

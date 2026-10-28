@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="345" viewBox="0 0 1000 345" role="img" aria-labelledby="title desc">
+  <title id="title">Lead time</title>
+  <desc id="desc">A timeline from biological onset to screen detection, then symptomatic clinical diagnosis, then death; the interval between screen detection and usual diagnosis is the lead time.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <line x1="40" y1="160" x2="960" y2="160" stroke="#2c3e50" stroke-width="4" marker-end="url(#arr)"/>
+  <circle cx="90" cy="160" r="12" fill="#2c3e50"/>
+  <text x="90" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Biological</text>
+  <text x="90" y="134" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">onset</text>
+  <circle cx="330" cy="160" r="12" fill="#2c3e50"/>
+  <text x="330" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Screen</text>
+  <text x="330" y="134" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">detection</text>
+  <circle cx="650" cy="160" r="12" fill="#2c3e50"/>
+  <text x="650" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Symptoms:</text>
+  <text x="650" y="134" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">usual diagnosis</text>
+  <circle cx="900" cy="160" r="12" fill="#2c3e50"/>
+  <text x="900" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Death</text>
+  <line x1="330" y1="220" x2="650" y2="220" stroke="#c0392b" stroke-width="3"/>
+  <line x1="330" y1="208" x2="330" y2="232" stroke="#c0392b" stroke-width="3"/>
+  <line x1="650" y1="208" x2="650" y2="232" stroke="#c0392b" stroke-width="3"/>
+  <text x="490" y="258" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#c0392b">LEAD TIME</text>
+  <text x="490" y="300" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#333">"Survival" from screen detection looks longer,</text>
+  <text x="490" y="328" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#333">even if death comes at the same time</text>
+</svg>

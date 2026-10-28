@@ -87,6 +87,14 @@ false, R is true.
 6. Define epidemiology.
 7. Uses of epidemiology.
 
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+8. *Diarrhoea in Ward 7.* A medical officer notices 18 cases of acute watery diarrhoea in 5 days from Ward 7 (population 6,000). The ward usually reports 1–2 cases a week. Most cases live near two public taps.
+
+   a. Apply the epidemiological approach: what would you count, and what would you compare?
+   b. Which rate would you calculate?
+   c. What hypothesis would you form, and how would you test it?
+
 ### Multiple Choice Questions
 
 **A. Single Best Answer (SBA)**
@@ -194,6 +202,16 @@ false, R is true.
 **MCQs:** 1-b, 2-d, 3-c, 4-a, 5-a, 6-c, 7-c, 8-b\
 9-d, 10-a, 11-b, 12-c, 13-b, 14-b
 
+**Case scenario model answers:**
+
+*Diarrhoea in Ward 7*
+
+- **Count** cases using a fixed case definition (e.g. ≥3 watery stools in 24 h since a set date), by date of onset, address, age and sex.
+- **Rate:** attack rate = 18 ÷ 6,000 = **3 per 1,000 in 5 days**, compared with the usual expected level. That is clearly in excess, so it is an outbreak.
+- **Compare** attack rates among households using the two taps vs other water sources.
+- **Hypothesis:** contaminated water from the taps. **Test** it by comparing attack rates in tap users vs non-users, plus water testing (residual chlorine, coliforms).
+- **Intervene:** chlorinate or close the taps, give ORS, educate, keep up surveillance. Then **evaluate**: do new cases stop?
+
 ------------------------------------------------------------------------
 
 ## Lecture 2: Rates, Ratios and Proportions; Measurement of Mortality
@@ -214,6 +232,15 @@ false, R is true.
 5. Crude death rate.
 6. Case fatality rate.
 7. Survival rate.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+8. *Dengue in a District.* A district (mid-year population 2,00,000) recorded 1,400 deaths last year. The district hospital admitted 400 dengue cases, of whom 8 died. Two more dengue deaths occurred at home (10 dengue deaths in all).
+
+   a. Calculate the crude death rate.
+   b. Calculate the case fatality rate of dengue among admitted cases.
+   c. Calculate the proportional mortality rate for dengue.
+   d. Which measure tells you how severe dengue is? Does a PMR tell you the risk of dying of dengue?
 
 ### Multiple Choice Questions
 
@@ -276,6 +303,15 @@ false, R is true.
 
 **MCQs:** 1-c, 2-b, 3-b, 4-a, 5-c, 6-bcd, 7-c
 
+**Case scenario model answers:**
+
+*Dengue in a District*
+
+- **CDR** = 1,400 ÷ 2,00,000 × 1,000 = **7 per 1,000** population
+- **CFR** = 8 ÷ 400 × 100 = **2%** of admitted cases died
+- **PMR** = 10 ÷ 1,400 × 100 ≈ **0.7%** of all deaths were due to dengue
+- **CFR** measures severity (killing power). **PMR** is only a share of deaths: it would rise if other deaths fell, even with unchanged dengue risk.
+
 ------------------------------------------------------------------------
 
 ## Lecture 3: Measurement of Morbidity: Incidence and Prevalence
@@ -303,6 +339,14 @@ false, R is true.
 
 7. Incidence and prevalence.
 8. Define point prevalence.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+9. *Hypertension in Students.* BP screening of 1,000 male university students in January 2016 found 50 hypertensive. The remaining 950 normotensives were followed for 3 years, and 19 developed hypertension by January 2019.
+
+   a. What is the prevalence of hypertension in January 2016?
+   b. What is the incidence of hypertension over the follow-up?
+   c. Which measure would you use to plan a student BP clinic, and which to study whether salt intake causes hypertension?
 
 ### Multiple Choice Questions
 
@@ -457,6 +501,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 9-c, 10-d, 11-b, 12-b, 13-c, 14-a, 15-a, 16-d\
 17-b, 18-c, 19-c
 
+**Case scenario model answers:**
+
+*Hypertension in Students*
+
+- **Point prevalence** = 50 ÷ 1,000 = **5%** (January 2016)
+- **Cumulative incidence** = 19 ÷ 950 = **2% over 3 years**. Always state the period. The denominator excludes the 50 already hypertensive.
+- **Prevalence** plans services (the load of existing cases). **Incidence** studies causation, because exposure can be shown to precede new cases.
+
 ------------------------------------------------------------------------
 
 ## Lecture 4: Standardisation of Rates; Sources of Epidemiological Data
@@ -486,6 +538,19 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 **University Examination Questions**
 
 7. Health intelligence.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+8. *Two Districts, Two Death Rates.* District A has a crude death rate of 12 per 1,000, District B 7 per 1,000. In A, 18% of the population is aged 60 or over; in B, 6%. A health secretary concludes that A's health services are worse.
+
+   a. Is the conclusion valid? Why?
+   b. How would you compare the two districts fairly?
+   c. Which method would you use if District A reports only its total deaths?
+9. *Completing a Death Certificate.* A 54-year-old man with type 2 diabetes developed an acute STEMI on 22 May. On 24 May he developed atrial fibrillation, followed by an embolism of the right middle cerebral artery. He was ventilated and given vasopressors, but died on 27 May at 4 p.m.
+
+   a. Write Part I (the causal sequence) with intervals.
+   b. What goes in Part II?
+   c. What is the underlying cause of death? Which terms must NOT be written?
 
 ### Multiple Choice Questions
 
@@ -660,6 +725,22 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 9-a, 10-b, 11-a, 12-b, 13-c, 14-d, 15-a, 16-c\
 17-b, 18-d, 19-c, 20-c, 21-d, 22-b, 23-a
 
+**Case scenario model answers:**
+
+*Two Districts, Two Death Rates*
+
+- **Not valid yet.** A has many more elderly people, so its crude rate is inflated by **age (confounding)**, not necessarily by worse services.
+- **Direct standardization:** apply each district's age-specific death rates to one standard population and compare the age-adjusted rates.
+- **Indirect standardization:** apply standard age-specific rates to A's age structure to get expected deaths, then **SMR = observed ÷ expected**.
+
+*Completing a Death Certificate*
+
+- **Part I (a)** Cerebral infarction due to embolism of the right MCA (about 3 days)
+- **(b)** due to atrial fibrillation (about 3 days)
+- **(c)** due to acute ST-elevation myocardial infarction (5 days)
+- **Part II:** Type 2 diabetes mellitus (years). It contributed but is not in the direct chain.
+- **Underlying cause** = **acute STEMI**, on the lowest line of Part I. Do **not** write *cardiac arrest*, *respiratory failure* or *ventilator support*. These are modes of death or treatments, not causes.
+
 ------------------------------------------------------------------------
 
 ## Lecture 5: Descriptive Epidemiology: Time, Place and Person
@@ -692,6 +773,20 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 11. Define an epidemic. Enumerate the various types of epidemics with examples.
 12. Common-source epidemics.
 13. Epidemic curve.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+14. *The Wedding Dinner.* 150 guests ate a wedding dinner at 7 p.m. Between 9 p.m. and 1 a.m., 62 guests developed vomiting and abdominal cramps without fever. All of them had eaten the custard.
+
+    a. What type of epidemic is this, and what would the epidemic curve look like?
+    b. What is the likely agent?
+    c. Calculate the attack rate.
+    d. How would you confirm the source?
+15. *Japanese Migrants and Heart Disease.* IHD is low in Japan and high in the USA. Japanese people who migrated to the USA developed high IHD rates after about 25 years, close to those of native Americans.
+
+    a. What type of study is this?
+    b. What does it suggest about the causes of IHD?
+    c. Which other study design helps separate genes from environment?
 
 ### Multiple Choice Questions
 
@@ -1044,6 +1139,21 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 33-d, 34-c, 35-b, 36-b, 37-b, 38-c, 39-a, 40-b\
 41-b, 42-b, 43-b, 44-c, 45-c, 46-b, 47-c, 48-acd
 
+**Case scenario model answers:**
+
+*The Wedding Dinner*
+
+- **Common-source, single-exposure (point-source)** epidemic: one sharp peak, with all cases within one incubation period
+- An incubation of **2–6 hours** with vomiting and no fever suggests **preformed toxin**: *S. aureus* enterotoxin (or *B. cereus*)
+- **Attack rate** = 62 ÷ 150 × 100 ≈ **41%**
+- **Food-specific attack rates** (ate vs did not eat each dish): the custard will show the largest difference. Test leftover food and examine food handlers for skin lesions or nasal carriage.
+
+*Japanese Migrants and Heart Disease*
+
+- A **migrant study**, a type of descriptive or ecological study
+- Genes did not change but risk did, so **environmental and lifestyle** factors (diet, activity) dominate
+- **Twin studies:** compare concordance in monozygotic and dizygotic twins
+
 ------------------------------------------------------------------------
 
 ## Lecture 6: Case-Control Study
@@ -1092,6 +1202,19 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 11. Classify epidemiological studies. Write the steps for conducting a case-control study.
 12. Odds ratio.
 13. Bias in case-control studies.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+14. *Planning a Breast Cancer Study.* You plan a case-control study to test whether women with a family history of breast cancer have a higher risk of breast cancer.
+
+    a. How will you select the cases and the controls? Can controls come from the same family?
+    b. How will you measure family history, and what information biases may occur?
+    c. How will you measure association, test significance, and deal with confounders?
+15. *Helmets and Fatal Head Injury.* Among two-wheeler accident victims, 87 had fatal and 113 non-fatal head injuries. Of the fatal cases, 55 had not worn a helmet; of the non-fatal, 45 had not.
+
+    a. Build the 2 × 2 table (cases = fatal injury, exposure = no helmet).
+    b. Calculate the odds ratio and the etiological fraction.
+    c. Interpret the result.
 
 ### Multiple Choice Questions
 
@@ -1252,6 +1375,22 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 9-b, 10-d, 11-b, 12-d, 13-b, 14-b, 15-a, 16-c\
 17-b, 18-c, 19-c, 20-c, 21-d
 
+**Case scenario model answers:**
+
+*Planning a Breast Cancer Study*
+
+- **Cases:** newly diagnosed, from a cancer hospital or registry. **Controls:** women from the same catchment population, matched on age, age at first pregnancy, parity and breastfeeding. **Not** relatives: that would over-match on the exposure itself.
+- Measure family history by **structured interview** of cases and controls. **Recall bias** (cases remember family cancers better) and **observer bias** are possible. Blind the interviewer to case status.
+- Use the **odds ratio** with a 95% CI and the **chi-square test**. Control confounders by **matching** at design, and **Mantel–Haenszel** stratified analysis or **logistic regression** at analysis.
+
+*Helmets and Fatal Head Injury*
+
+- a = 55, b = 45, c = 32, d = 68
+- **OR** = (55 × 68) ÷ (45 × 32) = 3,740 ÷ 1,440 ≈ **2.6**
+- **EF** = (OR − 1) ÷ OR ≈ **61%**
+- Riders without helmets had about **2.6 times the odds** of a fatal head injury. About 61% of fatal head injuries among non-users could be prevented by helmet use.
+- *(The textbook prints OR 1.22 and EF 18%, which is an arithmetic error.)*
+
 ------------------------------------------------------------------------
 
 ## Lecture 7: Cohort Study
@@ -1286,6 +1425,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 **University Examination Questions**
 
 9. Mention two advantages of a cohort study.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+10. *Tobacco Use in Pregnancy.* 300 antenatal women were examined: 100 tobacco users and 200 non-users. All were followed until delivery. Low birth weight occurred in 20 users and 20 non-users.
+
+    a. What type of comparison cohort is this?
+    b. Calculate the RR, AR and AR%.
+    c. Interpret the results.
 
 ### Multiple Choice Questions
 
@@ -1467,6 +1614,15 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 9-a, 10-d, 11-a, 12-c, 13-a, 14-c, 15-b, 16-b\
 17-a, 18-c, 19-a, 20-a, 21-b, 22-a, 23-a, 24-a
 
+**Case scenario model answers:**
+
+*Tobacco Use in Pregnancy*
+
+- An **internal (inbuilt) comparison group**: both groups come from the same examined population
+- Iₑ = 20 ÷ 100 = **20%**; I₀ = 20 ÷ 200 = **10%**
+- **RR** = 2. **AR** = 10 per 100 births. **AR%** = (20 − 10) ÷ 20 = **50%**
+- Tobacco users have **twice the risk** of an LBW baby. Half of the LBW among users is attributable to tobacco and preventable by quitting.
+
 ------------------------------------------------------------------------
 
 ## Lecture 8: Experimental Studies: RCT and Its Types
@@ -1495,6 +1651,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 7. Basic steps in conducting a randomized controlled trial.
 8. Blinding in randomized controlled trials.
 9. Phases of clinical trials.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+10. *Two Ways to Do a Bypass.* Survival on the 10th post-operative day was 45 of 50 after CABG on cardiopulmonary bypass and 32 of 40 after off-pump (beating-heart) CABG.
+
+    a. Calculate the ratio of survival (efficacy, Iₑ ÷ I₀).
+    b. Calculate the NNT and explain it.
+    c. Can we conclude that on-pump surgery is better? What design would you want?
 
 ### Multiple Choice Questions
 
@@ -1669,6 +1833,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 9-c, 10-a, 11-c, 12-a, 13-d, 14-d, 15-b, 16-c\
 17-c, 18-c, 19-d, 20-c, 21-b, 22-c, 23-a
 
+**Case scenario model answers:**
+
+*Two Ways to Do a Bypass*
+
+- Iₑ = 45 ÷ 50 = 0.90; I₀ = 32 ÷ 40 = 0.80; ratio = 0.90 ÷ 0.80 = **1.13**
+- **AR** = 0.10, so **NNT** = 1 ÷ 0.10 = **10**. Treat 10 patients on-pump instead of off-pump for **one extra survivor** at day 10.
+- **Not yet.** If patients were not randomized, sicker patients may have gone to one technique (selection bias, confounding). A **randomized controlled trial** with blinded outcome assessment is needed.
+
 ------------------------------------------------------------------------
 
 ## Lecture 9: Association, Causation and Bias
@@ -1698,6 +1870,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 9. What is bias?
 10. Confounding factors in epidemiological studies (research).
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+11. *Coffee and Pancreatic Cancer.* A case-control study finds that patients with pancreatic cancer drank more coffee than controls (crude OR 2.5).
+
+    a. Which third factor could explain this association?
+    b. How would you check for it?
+    c. How could it be controlled at the design and analysis stages?
 
 ### Multiple Choice Questions
 
@@ -1881,6 +2061,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 9-c, 10-a, 11-d, 12-b, 13-c, 14-b, 15-b, 16-a\
 17-a, 18-d, 19-c, 20-c, 21-a, 22-b, 23-abd, 24-c
 
+**Case scenario model answers:**
+
+*Coffee and Pancreatic Cancer*
+
+- **Smoking:** smokers drink more coffee, and smoking independently causes pancreatic cancer. It is a **confounder**.
+- **Stratify** by smoking. If the OR is close to 1 among smokers and among non-smokers, the crude association was confounding.
+- **Design:** restriction (non-smokers only), matching on smoking. **Analysis:** Mantel–Haenszel stratification, logistic regression.
+
 ------------------------------------------------------------------------
 
 ## Lecture 10: Infectious Disease Epidemiology: Dynamics and Modes of Transmission
@@ -1905,6 +2093,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 7. Epidemiological triad.
 8. Define “agent” in disease causation. Explain the different types of agents.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+9. *Measles in a Household.* A child with measles lives in a household of 7. The father had measles in childhood. A younger sibling has had 2 doses of MR vaccine. Of the other 4 members, one falls ill 2 days later and two more fall ill 10–12 days later.
+
+   a. Who are the susceptible contacts?
+   b. How do you treat the person who fell ill after 2 days?
+   c. Calculate the secondary attack rate.
 
 ### Multiple Choice Questions
 
@@ -1956,6 +2152,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 **MCQs:** 1-c, 2-c, 3-b, 4-c, 5-c, 6-c
 
+**Case scenario model answers:**
+
+*Measles in a Household*
+
+- Exclude the primary case, the immune father and the vaccinated sibling, leaving **4 susceptible contacts**
+- Onset after 2 days is **shorter than the minimum incubation period**, so this is a **co-primary case** infected from the same source. Exclude them from both numerator and denominator, leaving **3** susceptibles.
+- **SAR** = 2 ÷ 3 × 100 ≈ **67%**
+
 ------------------------------------------------------------------------
 
 ## Lecture 11: Immunity and Immunising Agents
@@ -1975,6 +2179,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 4. Cold chain.
 5. Adverse events following immunization (AEFI).
 6. Live vs killed vaccines.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+7. *Dog Bite and a Vaccine Carrier.* A 25-year-old unimmunized man has deep bites with bleeding on the hand from a stray dog (category III). At the PHC, the nurse finds that the inner square of the anti-rabies vaccine VVM matches the outer circle.
+
+   a. What immunization does he need, and what kind of immunity does each component give?
+   b. Why give both?
+   c. Can the vial be used?
 
 ### Multiple Choice Questions
 
@@ -2035,6 +2247,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 **MCQs:** 1-c, 2-b, 3-d, 4-c, 5-b, 6-b, 7-abcd
 
+**Case scenario model answers:**
+
+*Dog Bite and a Vaccine Carrier*
+
+- **Wound wash** with soap and running water for 15 minutes. **Rabies immunoglobulin** infiltrated into the wounds gives **artificial passive** immunity. **Anti-rabies vaccine** (e.g. IM on days 0, 3, 7, 14, 28, or the intradermal schedule) gives **artificial active** immunity. Add tetanus prophylaxis.
+- RIG protects **immediately**, during the 1–2 weeks before vaccine-induced antibody appears. The vaccine gives **lasting** protection. This is **combined passive–active immunization**.
+- **No.** A VVM at **stage 3** (square matches circle) means too much heat exposure: **discard** it and use a vial at stage 1 or 2.
+
 ------------------------------------------------------------------------
 
 ## Lecture 12: Disease Prevention and Control; Disinfection
@@ -2053,6 +2273,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 3. Isolation vs quarantine.
 4. Concurrent and terminal disinfection.
 5. Chemoprophylaxis.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+6. *A Cholera Case at Home.* A confirmed cholera case is being treated at home in a village with a shared well. The family of 6 lives in two rooms.
+
+   a. What concurrent disinfection is needed?
+   b. What is done when the patient recovers?
+   c. How will you manage the contacts and the well?
 
 ### Multiple Choice Questions
 
@@ -2097,6 +2325,15 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 **MCQs:** 1-b, 2-b, 3-c, 4-c, 5-a
 
+**Case scenario model answers:**
+
+*A Cholera Case at Home*
+
+- **Concurrent:** disinfect stools and vomit with bleaching powder or hypochlorite before disposal in a latrine. Soak soiled linen in hypochlorite solution or boil it. Wash hands with soap.
+- **Terminal:** clean the room, floor and furniture with hypochlorite solution, and wash or sun-dry the bedding
+- **Contacts:** surveillance for **5 days** (the maximum incubation), with **selective chemoprophylaxis** for household contacts (e.g. single-dose doxycycline for adults). Mass chemoprophylaxis is *not* recommended.
+- **Well:** chlorinate it and test residual chlorine. **Notify** through IDSP, give ORS and health education.
+
 ------------------------------------------------------------------------
 
 ## Lecture 13: Investigation of an Epidemic; Surveillance (IDSR/IHIP)
@@ -2129,6 +2366,16 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 6. Enumerate the different types of epidemics. Write down the steps in the investigation of an epidemic.
 7. Monitoring and surveillance.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+8. *Typhoid in One Locality.* A health officer sees that reported typhoid cases in a town have doubled this month compared with the same month last year. Most cases cluster in one locality.
+
+   a. What epidemiological phenomenon is suggested?
+   b. Which measure of frequency is being compared?
+   c. What is the first step of investigation?
+   d. Name two possible sources of infection.
+   e. How does epidemiology help plan control?
 
 ### Multiple Choice Questions
 
@@ -2308,6 +2555,16 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 9-a, 10-d, 11-a, 12-c, 13-a, 14-c, 15-c, 16-c\
 17-a, 18-d, 19-d, 20-a, 21-d, 22-b, 23-d, 24-b
 
+**Case scenario model answers:**
+
+*Typhoid in One Locality*
+
+- An **epidemic (outbreak)**: cases clearly in excess of the expected level. The clustering suggests a **common source**.
+- **Incidence** (new cases, i.e. an attack rate), compared with the same period in previous years (ideally 3)
+- **Verify the diagnosis** (blood culture), then **confirm the existence of the epidemic**
+- A **contaminated water supply** (a leaking pipe with sewage cross-connection), or **food from a common vendor or a carrier food handler**
+- Time-place-person analysis (spot map, epidemic curve) pinpoints the source, which is then targeted: chlorination and pipe repair, food hygiene, treating cases and carriers, typhoid conjugate vaccine for high-risk groups, health education and continued surveillance.
+
 ------------------------------------------------------------------------
 
 ## Lecture 14: Screening I: Concept, Uses and Criteria
@@ -2333,6 +2590,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 7. Definition of screening.
 8. Criteria for a screening test.
 9. Types of screening.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+10. *An Oral Cancer Screening Camp.* A district plans a camp to screen adults in a tobacco-chewing community for oral cancer by oral visual examination by trained health workers.
+
+    a. Does oral cancer meet the Wilson–Jungner criteria?
+    b. Is the test suitable?
+    c. What type of screening is this, and what must be arranged before starting?
 
 ### Multiple Choice Questions
 
@@ -2398,6 +2663,15 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 **MCQs:** 1-b, 2-b, 3-c, 4-a, 5-b, 6-c, 7-b, 8-b
 
+**Case scenario model answers:**
+
+*An Oral Cancer Screening Camp*
+
+- **Yes, largely.** It is an **important problem** in India, with a recognizable **early stage** (leukoplakia, erythroplakia, early ulcers), **accepted treatment** and a known **natural history**
+- **Oral visual examination** is simple, cheap, painless and **acceptable**. Its validity is moderate, so positives need **biopsy**.
+- **High-risk (selective) screening**, which raises yield and PPV. It also fits India's population-based NCD screening for people aged 30 and over.
+- Arrange **referral, biopsy and treatment facilities**, an agreed **policy on whom to treat**, and a **continuing** programme rather than a one-off camp
+
 ------------------------------------------------------------------------
 
 ## Lecture 15: Screening II: Sensitivity, Specificity and Predictive Values
@@ -2429,6 +2703,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 7. Sensitivity and specificity.
 8. Define the positive predictive value of a screening test.
 9. Lead time.
+
+**In-Lecture Case Scenarios (model answers below the MCQ key)**
+
+10. *One HIV Test, Two Populations.* A single HIV ELISA has sensitivity 99.5% and specificity 99.8%. It is used in voluntary blood donors (illustrative prevalence 0.1%) and in female sex workers (illustrative prevalence 2%). Take 1,00,000 people in each group.
+
+    a. Calculate the PPV in each group.
+    b. Why do they differ?
+    c. What should follow a positive result?
 
 ### Multiple Choice Questions
 
@@ -2558,3 +2840,12 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 **MCQs:** 1-c, 2-b, 3-b, 4-a, 5-a, 6-b, 7-b, 8-c\
 9-a, 10-b, 11-c, 12-a, 13-a, 14-a, 15-a, 16-c\
 17-b
+
+**Case scenario model answers:**
+
+*One HIV Test, Two Populations*
+
+- **Blood donors:** 100 infected → TP 99.5. FP = 0.2% of 99,900 ≈ 200. **PPV ≈ 99.5 ÷ 299.5 ≈ 33%**
+- **Female sex workers:** 2,000 infected → TP 1,990. FP = 0.2% of 98,000 = 196. **PPV ≈ 1,990 ÷ 2,186 ≈ 91%**
+- Same test, but a different **prevalence**. When the disease is rare, false positives outnumber true positives.
+- A positive screen needs **confirmatory testing** (series testing: three tests or strategies) before diagnosis or disclosure

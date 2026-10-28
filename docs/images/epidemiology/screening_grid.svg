@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="435" viewBox="0 0 1000 435" role="img" aria-labelledby="title desc">
+  <title id="title">Screening results in 100 people</title>
+  <desc id="desc">One hundred people at 10 percent prevalence: 8 true positives, 2 false negatives, 9 false positives and 81 true negatives; positive predictive value 8 of 17, about 47 percent.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <circle cx="40" cy="40" r="18" fill="#c0392b" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="86" cy="40" r="18" fill="#c0392b" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="132" cy="40" r="18" fill="#c0392b" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="178" cy="40" r="18" fill="#c0392b" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="224" cy="40" r="18" fill="#c0392b" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="270" cy="40" r="18" fill="#c0392b" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="316" cy="40" r="18" fill="#c0392b" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="362" cy="40" r="18" fill="#c0392b" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="408" cy="40" r="18" fill="#f5b7b1" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="454" cy="40" r="18" fill="#f5b7b1" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="500" cy="40" r="18" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="546" cy="40" r="18" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="592" cy="40" r="18" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="638" cy="40" r="18" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="684" cy="40" r="18" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="730" cy="40" r="18" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="776" cy="40" r="18" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="822" cy="40" r="18" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="868" cy="40" r="18" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="914" cy="40" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="40" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="86" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="132" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="178" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="224" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="270" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="316" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="362" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="408" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="454" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="500" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="546" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="592" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="638" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="684" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="730" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="776" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="822" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="868" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="914" cy="92" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="40" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="86" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="132" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="178" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="224" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="270" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="316" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="362" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="408" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="454" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="500" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="546" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="592" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="638" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="684" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="730" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="776" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="822" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="868" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="914" cy="144" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="40" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="86" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="132" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="178" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="224" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="270" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="316" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="362" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="408" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="454" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="500" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="546" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="592" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="638" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="684" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="730" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="776" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="822" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="868" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="914" cy="196" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="40" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="86" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="132" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="178" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="224" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="270" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="316" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="362" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="408" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="454" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="500" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="546" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="592" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="638" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="684" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="730" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="776" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="822" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="868" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="914" cy="248" r="18" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <circle cx="40" cy="320" r="16" fill="#c0392b" stroke="#2c3e50" stroke-width="1.6"/>
+  <text x="68" y="328" text-anchor="start" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">TP 8</text>
+  <circle cx="280" cy="320" r="16" fill="#f5b7b1" stroke="#2c3e50" stroke-width="1.6"/>
+  <text x="308" y="328" text-anchor="start" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">FN 2</text>
+  <circle cx="520" cy="320" r="16" fill="#f39c12" stroke="#2c3e50" stroke-width="1.6"/>
+  <text x="548" y="328" text-anchor="start" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">FP 9</text>
+  <circle cx="760" cy="320" r="16" fill="#ffffff" stroke="#2c3e50" stroke-width="1.6"/>
+  <text x="788" y="328" text-anchor="start" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">TN 81</text>
+  <text x="500" y="385" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">PPV = TP ÷ all positives = 8 ÷ 17 ≈ 47%</text>
+  <text x="500" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#333">Most positives are false when prevalence is only 10%</text>
+</svg>

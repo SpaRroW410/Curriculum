@@ -63,6 +63,14 @@ Applies the incidence/prevalence and 2×2-table thinking from Chapters
 
 ---
 
+## Screening and the Iceberg of Disease {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![Screening targets the submerged part of the iceberg of disease](../images/epidemiology/iceberg_screening.svg){.slide-img .nostretch width="920px"}
+
+---
+
 ## Screening vs Diagnostic Test {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -132,6 +140,30 @@ WHO's classic principles for deciding whether a condition suits a screening prog
 | **Validity (accuracy)** | Distinguishes the diseased from the non-diseased: **sensitivity and specificity** |
 | **Yield** | The amount of previously unrecognized disease detected and brought to treatment. It rises with prevalence and with high-risk screening. |
 | **Simplicity, safety, rapidity, cost** | Suitable for large numbers, by paramedical workers |
+
+
+---
+
+## Case Scenario: An Oral Cancer Screening Camp {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+A district plans a camp to screen adults in a **tobacco-chewing community** for oral cancer by **oral visual examination** by trained health workers.
+
+1. Does oral cancer meet the Wilson–Jungner criteria?
+2. Is the test suitable?
+3. What type of screening is this, and what must be arranged before starting?
+
+---
+
+## Case Scenario: An Oral Cancer Screening Camp, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **Yes, largely.** It is an **important problem** in India, with a recognizable **early stage** (leukoplakia, erythroplakia, early ulcers), **accepted treatment** and a known **natural history**
+- **Oral visual examination** is simple, cheap, painless and **acceptable**. Its validity is moderate, so positives need **biopsy**.
+- **High-risk (selective) screening**, which raises yield and PPV. It also fits India's population-based NCD screening for people aged 30 and over.
+- Arrange **referral, biopsy and treatment facilities**, an agreed **policy on whom to treat**, and a **continuing** programme rather than a one-off camp
 
 ---
 
@@ -386,6 +418,14 @@ A test is applied to 1000 people, 100 of whom have the disease (prevalence 10%):
 
 ---
 
+## Seeing PPV: 100 People Screened {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![100 people screened: 8 TP, 2 FN, 9 FP, 81 TN](../images/epidemiology/screening_grid.svg){.slide-img .nostretch width="920px"}
+
+---
+
 ## How Prevalence Changes PPV {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -400,6 +440,30 @@ The same test (sensitivity 80%, specificity 90%) is applied to 10,000 people:
 
 - In a low-prevalence population, most positives are **false positives**. Poor specificity then floods services with unnecessary confirmatory tests.
 - This is why **high-risk (selective) screening** gives a higher PPV and yield than mass screening
+
+
+---
+
+## Case Scenario: One HIV Test, Two Populations {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO**
+
+A single HIV ELISA has **sensitivity 99.5%** and **specificity 99.8%**. It is used in voluntary blood donors (illustrative prevalence **0.1%**) and in female sex workers (illustrative prevalence **2%**). Take 1,00,000 people in each group.
+
+1. Calculate the PPV in each group.
+2. Why do they differ?
+3. What should follow a positive result?
+
+---
+
+## Case Scenario: One HIV Test, Two Populations, Discussion {background-color="#FDE8E8"}
+
+🧡 **CASE SCENARIO: DISCUSSION**
+
+- **Blood donors:** 100 infected → TP 99.5. FP = 0.2% of 99,900 ≈ 200. **PPV ≈ 99.5 ÷ 299.5 ≈ 33%**
+- **Female sex workers:** 2,000 infected → TP 1,990. FP = 0.2% of 98,000 = 196. **PPV ≈ 1,990 ÷ 2,186 ≈ 91%**
+- Same test, but a different **prevalence**. When the disease is rare, false positives outnumber true positives.
+- A positive screen needs **confirmatory testing** (series testing: three tests or strategies) before diagnosis or disclosure
 
 ---
 
@@ -431,6 +495,14 @@ The same test (sensitivity 80%, specificity 90%) is applied to 10,000 people:
 An LR+ above 10 strongly rules disease in, and an LR− below 0.1 strongly rules it out. **Youden index** = sensitivity + specificity − 1.
 
 **Use the test to fit the setting:** a COVID rapid antigen test (high specificity, moderate sensitivity) suits diagnosis in *symptomatic* people, where prevalence and PPV are high.
+
+---
+
+## Lead Time {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+![Lead time: from screen detection to usual clinical diagnosis](../images/epidemiology/lead_time.svg){.slide-img .nostretch width="920px"}
 
 ---
 

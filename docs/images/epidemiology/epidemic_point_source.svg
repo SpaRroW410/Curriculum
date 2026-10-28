@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="400" viewBox="0 0 1000 400" role="img" aria-labelledby="title desc">
+  <title id="title">Common-source, single-exposure (point-source) epidemic</title>
+  <desc id="desc">Cases by hour after a wedding meal contaminated with staphylococcal toxin: a sharp rise from 1 hour, peak at 3 to 4 hours, all cases within 1 to 6 hours.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <line x1="70" y1="340" x2="930" y2="340" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="70" y1="340" x2="70" y2="90" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="214.3" y="318.2" width="69.7" height="21.8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="286.0" y="241.8" width="69.7" height="98.2" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="357.7" y="143.6" width="69.7" height="196.4" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="429.3" y="100.0" width="69.7" height="240.0" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="501.0" y="176.4" width="69.7" height="163.6" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="572.7" y="252.7" width="69.7" height="87.3" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="644.3" y="296.4" width="69.7" height="43.6" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.2"/>
+  <rect x="716.0" y="329.1" width="69.7" height="10.9" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.2"/>
+  <text x="500" y="385" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Hours after the wedding meal (7 pm)</text>
+  <text x="30" y="200" transform="rotate(-90 30 200)" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Number of cases</text>
+  <text x="108" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">meal</text>
+  <text x="720" y="40" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">all cases within one</text>
+  <text x="720" y="68" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">incubation period (1–6 h)</text>
+  <line x1="108" y1="52" x2="108" y2="330" stroke="#2c3e50" stroke-width="3" marker-end="url(#arr)"/>
+</svg>

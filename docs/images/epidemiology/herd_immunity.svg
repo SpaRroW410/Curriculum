@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="445" viewBox="0 0 1000 445" role="img" aria-labelledby="title desc">
+  <title id="title">Herd immunity</title>
+  <desc id="desc">Two grids of people: with low immunization coverage infection spreads from one case to many susceptibles; with high coverage immune people block the chain and susceptibles are protected.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <text x="230" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Low coverage: chain spreads</text>
+  <circle cx="40" cy="80" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="104" cy="80" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="168" cy="80" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="232" cy="80" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="296" cy="80" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="360" cy="80" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="424" cy="80" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="40" cy="144" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="104" cy="144" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="168" cy="144" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="232" cy="144" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="296" cy="144" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="360" cy="144" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="424" cy="144" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="40" cy="208" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="104" cy="208" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="168" cy="208" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="232" cy="208" r="22" fill="#c0392b" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="296" cy="208" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="360" cy="208" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="424" cy="208" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="40" cy="272" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="104" cy="272" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="168" cy="272" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="232" cy="272" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="296" cy="272" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="360" cy="272" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="424" cy="272" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="40" cy="336" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="104" cy="336" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="168" cy="336" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="232" cy="336" r="22" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="296" cy="336" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="360" cy="336" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="424" cy="336" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <text x="740" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">High coverage: chain blocked</text>
+  <circle cx="550" cy="80" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="614" cy="80" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="678" cy="80" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="742" cy="80" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="806" cy="80" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="870" cy="80" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="934" cy="80" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="550" cy="144" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="614" cy="144" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="678" cy="144" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="742" cy="144" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="806" cy="144" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="870" cy="144" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="934" cy="144" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="550" cy="208" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="614" cy="208" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="678" cy="208" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="742" cy="208" r="22" fill="#c0392b" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="806" cy="208" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="870" cy="208" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="934" cy="208" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="550" cy="272" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="614" cy="272" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="678" cy="272" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="742" cy="272" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="806" cy="272" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="870" cy="272" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="934" cy="272" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="550" cy="336" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="614" cy="336" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="678" cy="336" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="742" cy="336" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="806" cy="336" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="870" cy="336" r="22" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="934" cy="336" r="22" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <circle cx="60" cy="420" r="14" fill="#c0392b" stroke="#2c3e50" stroke-width="2"/>
+  <text x="84" y="428" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">infected</text>
+  <circle cx="260" cy="420" r="14" fill="#f5b7b1" stroke="#2c3e50" stroke-width="2"/>
+  <text x="284" y="428" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">newly infected</text>
+  <circle cx="520" cy="420" r="14" fill="#27ae60" stroke="#2c3e50" stroke-width="2"/>
+  <text x="544" y="428" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">immune</text>
+  <circle cx="700" cy="420" r="14" fill="#ffffff" stroke="#2c3e50" stroke-width="2"/>
+  <text x="724" y="428" text-anchor="start" font-family="Georgia, serif" font-size="22" fill="#333">susceptible</text>
+</svg>
