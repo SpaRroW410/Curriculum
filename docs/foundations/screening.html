@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.10.18">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.6.42">
 
   <title>Social and Public health – Screening for Disease</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -16,16 +16,10 @@
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
-    /* Default styles provided by pandoc.
-    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-    */
+    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: 1.5em;}
-    div.column{flex: auto;}
-    @media screen {
-    div.columns{gap: min(4vw, 1.5em);}
-    div.column{overflow-x: auto;}
-    }
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -34,7 +28,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-cc987b028043672fb83204947dec60a2.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-537e9f2e16ab801d2a09dfd4977a5ecc.css">
   <link rel="stylesheet" href="../assets/slide_deck.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -137,7 +131,7 @@
 
 <section id="title-slide" class="quarto-title-block center">
   <h1 class="title">Screening for Disease</h1>
-  <p class="subtitle">Test Validity, Program Criteria, and the Biases of Early Detection</p>
+  <p class="subtitle">Concept, Uses and Criteria; Sensitivity, Specificity, and Predictive Values</p>
 
 <div class="quarto-title-authors">
 </div>
@@ -146,18 +140,18 @@
 <section id="home" class="slide level2 center">
 <h2>Welcome</h2>
 <h3 id="screening-for-disease">Screening for Disease</h3>
-<p><strong>Learning Objectives:</strong></p>
+<p><strong>Learning Objectives (CM7 Lectures 14–15):</strong></p>
 <ul>
-<li>Define screening and distinguish it from diagnosis</li>
-<li>State the Wilson and Jungner criteria for a screening program</li>
-<li>Calculate and interpret sensitivity, specificity, PPV, and NPV</li>
-<li>Describe the main types of screening</li>
-<li>Explain lead time bias, length time bias, and overdiagnosis</li>
+<li>Define screening, distinguish it from diagnosis, and state its uses and types</li>
+<li>State the criteria for screening: the disease (Wilson and Jungner) and the test</li>
+<li>Calculate and interpret sensitivity, specificity, PPV, NPV and the false-positive and false-negative rates</li>
+<li>Explain how prevalence affects predictive values, and the effect of series vs parallel testing</li>
+<li>Explain lead time bias, length time bias and overdiagnosis</li>
 </ul>
-<p><strong>NMC Community Medicine Code:</strong> CM7</p>
+<p><strong>NMC Community Medicine Code:</strong> CM7.6</p>
 <p>🟢 <strong>MUST KNOW</strong> · 🟡 <strong>SHOULD KNOW</strong> · 🟣 <strong>MAY KNOW</strong> · 🧡 <strong>QUESTION</strong></p>
 <aside class="notes">
-<p>This chapter closes the Foundations section by applying the incidence/ prevalence and 2x2-table thinking from Chapters 3–4 to the specific problem of evaluating a screening test and a screening program.</p>
+<p>Applies the incidence/prevalence and 2×2-table thinking from Chapters 3–4 to evaluating a screening test and a screening programme.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -178,112 +172,198 @@
 <section id="what-is-screening" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>What Is Screening?</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Screening</strong> is the presumptive identification of unrecognized disease in apparently healthy, asymptomatic individuals, using tests that can be applied rapidly and economically to a large population.</p>
-<p><strong>Screening is NOT diagnosis:</strong></p>
+<p><strong>Screening</strong> is the search for unrecognized disease or defect in apparently healthy, asymptomatic people, using rapidly applied tests, examinations or other procedures. It sorts out those who <em>probably</em> have the disease from those who probably do not.</p>
 <ul>
-<li>A screening test <strong>sorts</strong> people into “likely disease” vs.&nbsp;“unlikely disease” — it does not confirm disease</li>
-<li>Everyone who screens positive must still undergo a proper <strong>diagnostic test</strong> to confirm or rule out the condition</li>
+<li>It targets the submerged part of the <strong>iceberg of disease</strong>: latent, subclinical and undiagnosed cases (Chapter 2)</li>
+<li>Screening is <strong>not</strong> diagnosis. Everyone who screens positive needs a proper <strong>diagnostic test</strong> to confirm or rule out the condition.</li>
+<li><strong>Concept of lead time:</strong> screening detects disease between the first possible point of detection and the usual time of clinical diagnosis. It is useful only if earlier treatment improves the outcome.</li>
 </ul>
 </section>
-<section id="wilson-and-jungner-criteria-1968" class="slide level2 center" data-background-color="#E3F2E1">
-<h2>Wilson and Jungner Criteria (1968)</h2>
+<section id="screening-and-the-iceberg-of-disease" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Screening and the Iceberg of Disease</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p>WHO’s ten classic principles for deciding whether a condition is suitable for a screening program:</p>
-<ol type="1">
-<li>The condition should be an <strong>important health problem</strong></li>
-<li>There should be an <strong>accepted treatment</strong> for recognized disease</li>
-<li><strong>Facilities</strong> for diagnosis and treatment should be available</li>
-<li>There should be a recognizable <strong>latent or early symptomatic stage</strong></li>
-<li>There should be a <strong>suitable test</strong> for that early stage</li>
-<li>The test should be <strong>acceptable</strong> to the population</li>
-<li>The <strong>natural history</strong> of the condition should be adequately understood</li>
-<li>There should be an agreed <strong>policy on whom to treat</strong></li>
-<li>The cost of case-finding should be <strong>economically balanced</strong> against overall medical care spending</li>
-<li>Case-finding should be a <strong>continuing process</strong>, not a one-time project</li>
-</ol>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/iceberg_screening.svg" class="slide-img" width="920"></p>
+<figcaption>Screening targets the submerged part of the iceberg of disease</figcaption>
+</figure>
+</div>
 </section>
-<section id="the-screening-22-table" class="slide level2 center" data-background-color="#E3F2E1">
-<h2>The Screening 2×2 Table</h2>
+<section id="screening-vs-diagnostic-test" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Screening vs Diagnostic Test</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p>Every screening test is judged against a reference/gold-standard diagnosis:</p>
 <table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
 <thead>
 <tr class="header">
 <th></th>
-<th>Disease +</th>
-<th>Disease −</th>
+<th>Screening test</th>
+<th>Diagnostic test</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Test +</strong></td>
-<td>True Positive (TP)</td>
-<td>False Positive (FP)</td>
+<td><strong>Applied to</strong></td>
+<td>Groups of apparently healthy people</td>
+<td>Single patients with symptoms or a positive screen</td>
 </tr>
 <tr class="even">
-<td><strong>Test −</strong></td>
-<td>False Negative (FN)</td>
-<td>True Negative (TN)</td>
+<td><strong>Initiated by</strong></td>
+<td>Investigator, agency or programme</td>
+<td>The patient seeking care</td>
+</tr>
+<tr class="odd">
+<td><strong>Test</strong></td>
+<td>Quick, cheap, simple, acceptable</td>
+<td>Accurate, often costly or invasive</td>
+</tr>
+<tr class="even">
+<td><strong>Accuracy</strong></td>
+<td>Lower; favours sensitivity</td>
+<td>Higher; favours specificity</td>
+</tr>
+<tr class="odd">
+<td><strong>Cut-off</strong></td>
+<td>Based on one criterion</td>
+<td>Evaluation of all symptoms, signs and lab findings</td>
+</tr>
+<tr class="even">
+<td><strong>Result</strong></td>
+<td>Not a basis for treatment</td>
+<td>Basis for treatment</td>
 </tr>
 </tbody>
 </table>
-<p>All four validity measures on the next slides come directly from this table.</p>
 </section>
-<section id="lecture-15-sensitivity-specificity-and-predictive-values" class="slide level2 center" data-background-color="#E6EEF5">
-<h2>Lecture 15: Sensitivity, Specificity, and Predictive Values</h2>
-<p>📚 <strong>Lecture 15 of 15</strong> · <strong>CM7.L15</strong></p>
-<p><em>Screening II - sensitivity, specificity and predictive values</em></p>
-</section>
-<section id="sensitivity-and-specificity" class="slide level2 center" data-background-color="#E3F2E1">
-<h2>Sensitivity and Specificity</h2>
+<section id="uses-of-screening" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Uses of Screening</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Sensitivity</strong> — the ability to correctly identify people who <strong>have</strong> the disease:</p>
-<p><code>Sensitivity = TP / (TP + FN)</code></p>
-<p><strong>Specificity</strong> — the ability to correctly identify people who <strong>do not have</strong> the disease:</p>
-<p><code>Specificity = TN / (TN + FP)</code></p>
-<p><strong>Key property:</strong> both are properties of the test itself and do <strong>not</strong> depend on how common the disease is (prevalence) in the population tested.</p>
+<ol type="1">
+<li><strong>Case detection (prescriptive screening)</strong>: early detection and treatment for the person’s own benefit, e.g.&nbsp;neonatal hypothyroidism, cervical and breast cancer, hypertension</li>
+<li><strong>Control of disease (prospective screening)</strong>: protecting others, e.g.&nbsp;screening blood donors, food handlers, immigrants, and contacts of TB</li>
+<li><strong>Research purposes</strong>: finding the prevalence and natural history of chronic diseases</li>
+<li><strong>Educational opportunity</strong>: creating public awareness and educating health professionals</li>
+</ol>
 </section>
-<section id="predictive-values" class="slide level2 center" data-background-color="#E3F2E1">
-<h2>Predictive Values</h2>
-<p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Positive Predictive Value (PPV)</strong> — given a positive test, the probability the person actually has disease:</p>
-<p><code>PPV = TP / (TP + FP)</code></p>
-<p><strong>Negative Predictive Value (NPV)</strong> — given a negative test, the probability the person is actually disease-free:</p>
-<p><code>NPV = TN / (TN + FN)</code></p>
-<p><strong>Key property:</strong> unlike sensitivity/specificity, PPV and NPV <strong>do</strong> depend on disease prevalence — the same test will have a lower PPV in a low-prevalence population, even with unchanged sensitivity/specificity.</p>
-</section>
-<section id="types-of-screening" class="slide level2 center" data-background-color="#FFF6DA">
+<section id="types-of-screening" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Types of Screening</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>🟢 <strong>MUST KNOW</strong></p>
 <ul>
-<li><strong>Mass screening</strong> — offered to an entire population, regardless of individual risk (e.g.&nbsp;a national program)</li>
-<li><strong>Selective/targeted screening</strong> — offered only to a high-risk subgroup (e.g.&nbsp;screening smokers for lung disease)</li>
-<li><strong>Multiphasic screening</strong> — several screening tests applied together in one session (e.g.&nbsp;a health camp offering blood pressure, blood sugar, and vision checks together)</li>
-<li><strong>Opportunistic screening</strong> — offered to a person who is already seeking care for an unrelated reason</li>
+<li><strong>Mass screening</strong>: offered to the whole population regardless of individual risk. It is worthwhile only with a common disease and a good follow-up system.</li>
+<li><strong>High-risk (selective/targeted) screening</strong>: limited to high-risk groups, such as diabetes screening in obese adults or cervical screening in women over 30. It raises yield and PPV.</li>
+<li><strong>Multiphasic screening</strong>: several tests in one session, as in a health camp checking BP, blood sugar and vision</li>
+<li><strong>Opportunistic (case-finding) screening</strong>: offered to people already seeking care for another reason, such as BP measurement for every OPD adult over 30</li>
 </ul>
+<p>India’s population-based screening (NPCDCS/NP-NCD) offers BP, diabetes and oral, breast and cervical cancer screening for people aged 30+.</p>
 </section>
-<section id="lead-time-bias" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Lead Time Bias</h2>
+<section id="wilson-and-jungner-criteria-1968" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Wilson and Jungner Criteria (1968)</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>WHO’s classic principles for deciding whether a condition suits a screening programme:</p>
+<ol type="1">
+<li>The condition is an <strong>important health problem</strong></li>
+<li>There is an <strong>accepted treatment</strong> for recognized disease</li>
+<li><strong>Facilities</strong> for diagnosis and treatment are available</li>
+<li>There is a recognizable <strong>latent or early symptomatic stage</strong></li>
+<li>There is a <strong>suitable test</strong> for that stage</li>
+<li>The test is <strong>acceptable</strong> to the population</li>
+<li>The <strong>natural history</strong> of the condition is adequately understood</li>
+<li>There is an agreed <strong>policy on whom to treat</strong></li>
+<li>The cost of case-finding is <strong>economically balanced</strong> against overall medical care spending</li>
+<li>Case-finding is a <strong>continuing process</strong>, not a one-time project</li>
+</ol>
+</section>
+<section id="criteria-for-the-screening-test" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Criteria for the Screening Test</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
-<p><strong>Lead time</strong> is the interval between detection by screening and the point when the disease would normally have been diagnosed clinically (from symptoms).</p>
-<p><strong>Lead time bias</strong> occurs when screening appears to prolong survival — because the clock on “survival” starts earlier — even if the person dies at exactly the same actual time as they would have without screening.</p>
-<p><strong>Why it matters:</strong> raw survival-time comparisons between screened and unscreened groups can be misleading unless lead time is accounted for.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Acceptability</strong></td>
+<td>Painless, quick and not embarrassing, so people take it up</td>
+</tr>
+<tr class="even">
+<td><strong>Repeatability (reliability)</strong></td>
+<td>Gives consistent results on repetition, by the same or different observers</td>
+</tr>
+<tr class="odd">
+<td><strong>Validity (accuracy)</strong></td>
+<td>Distinguishes the diseased from the non-diseased: <strong>sensitivity and specificity</strong></td>
+</tr>
+<tr class="even">
+<td><strong>Yield</strong></td>
+<td>The amount of previously unrecognized disease detected and brought to treatment. It rises with prevalence and with high-risk screening.</td>
+</tr>
+<tr class="odd">
+<td><strong>Simplicity, safety, rapidity, cost</strong></td>
+<td>Suitable for large numbers, by paramedical workers</td>
+</tr>
+</tbody>
+</table>
 </section>
-<section id="length-time-bias-and-overdiagnosis" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Length Time Bias and Overdiagnosis</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p><strong>Length time bias</strong> — screening preferentially detects <strong>slow-growing, less aggressive</strong> disease, because it is present and detectable for longer; fast-growing, aggressive disease is more likely to cause symptoms and be diagnosed clinically between screening rounds. This makes screened cases look like they have better outcomes, independent of any real benefit.</p>
-<p><strong>Overdiagnosis</strong> — the extreme case: screening detects a genuine abnormality that would <strong>never have caused symptoms or harm</strong> in the person’s lifetime, leading to unnecessary labeling and treatment.</p>
+<section id="case-scenario-an-oral-cancer-screening-camp" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: An Oral Cancer Screening Camp</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>A district plans a camp to screen adults in a <strong>tobacco-chewing community</strong> for oral cancer by <strong>oral visual examination</strong> by trained health workers.</p>
+<ol type="1">
+<li>Does oral cancer meet the Wilson–Jungner criteria?</li>
+<li>Is the test suitable?</li>
+<li>What type of screening is this, and what must be arranged before starting?</li>
+</ol>
 </section>
-<section id="sensitivityspecificity-trade-off" class="slide level2 center" data-background-color="#E8E4F3">
-<h2>Sensitivity–Specificity Trade-off</h2>
-<p>🟣 <strong>MAY KNOW</strong></p>
-<p>For a test with a continuous or graded result (e.g.&nbsp;a blood level), the cutoff chosen to define “positive” trades sensitivity against specificity: lowering the cutoff to catch more true cases (higher sensitivity) also increases false positives (lower specificity), and vice versa. This trade-off is often visualized with a <strong>Receiver Operating Characteristic (ROC) curve</strong>, used to choose an optimal cutoff.</p>
+<section id="case-scenario-an-oral-cancer-screening-camp-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: An Oral Cancer Screening Camp, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li><strong>Yes, largely.</strong> It is an <strong>important problem</strong> in India, with a recognizable <strong>early stage</strong> (leukoplakia, erythroplakia, early ulcers), <strong>accepted treatment</strong> and a known <strong>natural history</strong></li>
+<li><strong>Oral visual examination</strong> is simple, cheap, painless and <strong>acceptable</strong>. Its validity is moderate, so positives need <strong>biopsy</strong>.</li>
+<li><strong>High-risk (selective) screening</strong>, which raises yield and PPV. It also fits India’s population-based NCD screening for people aged 30 and over.</li>
+<li>Arrange <strong>referral, biopsy and treatment facilities</strong>, an agreed <strong>policy on whom to treat</strong>, and a <strong>continuing</strong> programme rather than a one-off camp</li>
+</ul>
 </section>
 <section id="choosing-between-screening-designs" class="slide level2 center" data-background-color="#E8E4F3">
 <h2>Choosing Between Screening Designs</h2>
 <p>🟣 <strong>MAY KNOW</strong></p>
-<p>Mass screening is efficient for a common, serious, and well-understood condition (e.g.&nbsp;blood pressure), but wasteful and potentially harmful (overdiagnosis, false positives, anxiety) for rare conditions — reinforcing why the Wilson–Jungner criteria (importance, natural history, economic balance) matter before launching a program, not just whether a test technically exists.</p>
+<p>Mass screening is efficient for a common, serious and well-understood condition such as raised blood pressure. It is wasteful and potentially harmful for rare conditions, through overdiagnosis, false positives and anxiety. This is why the Wilson–Jungner criteria (importance, natural history, economic balance) must be met before a programme starts, not just the existence of a test.</p>
+</section>
+<section id="practice-questions-descriptive-lecture-14" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 14)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Define screening. Describe its uses and the types of screening.</li>
+<li>Differentiate a screening test from a diagnostic test.</li>
+<li>Enumerate the criteria for screening (disease and test).</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="4" type="1">
+<li>Wilson and Jungner criteria.</li>
+<li>Multiphasic screening.</li>
+<li>Lead time.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-14-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 14, contd.)</h2>
+<p><strong>University Examination Questions</strong></p>
+<ol start="7" type="1">
+<li>Definition of screening.</li>
+<li>Criteria for a screening test.</li>
+<li>Types of screening.</li>
+</ol>
 </section>
 <section id="self-check-question-1" class="slide level2 center" data-background-color="#FDE8E8">
 <h2>Self-Check: Question 1</h2>
@@ -293,7 +373,7 @@
 <p>A screening test is applied to an asymptomatic population. A person who tests positive should next:</p>
 <ul>
 <li>Be told they definitely have the disease</li>
-<li><span class="correct" data-explanation="Screening only sorts likely vs. unlikely disease; a positive screen must always be followed by a proper diagnostic test before confirming disease.">Undergo a diagnostic test to confirm or rule out disease</span></li>
+<li><span class="correct" data-explanation="Screening only sorts likely from unlikely disease. A positive screen must always be followed by a diagnostic test before disease is confirmed.">Undergo a diagnostic test to confirm or rule out disease</span></li>
 <li>Be treated immediately without further testing</li>
 <li>Be excluded from future screening</li>
 </ul>
@@ -304,10 +384,10 @@
 <p>🧡 <strong>QUESTION</strong></p>
 <section id="question-2" class="quiz-question">
 <h3>Question 2</h3>
-<p>Which Wilson–Jungner criterion is violated if there is no accepted treatment available for a condition, even if a perfect test for it exists?</p>
+<p>Which Wilson–Jungner criterion is violated if there is no accepted treatment for a condition, even if a perfect test for it exists?</p>
 <ul>
 <li>Suitable test</li>
-<li><span class="correct" data-explanation="One of the core Wilson-Jungner criteria is that an accepted treatment must exist for the disease once detected — screening without a treatment pathway has limited value.">Accepted treatment for recognized disease</span></li>
+<li><span class="correct" data-explanation="An accepted treatment must exist for the disease once detected. Screening without a treatment pathway has little value and can cause harm.">Accepted treatment for recognized disease</span></li>
 <li>Acceptability to the population</li>
 <li>Continuing process</li>
 </ul>
@@ -318,12 +398,12 @@
 <p>🧡 <strong>QUESTION</strong></p>
 <section id="question-3" class="quiz-question">
 <h3>Question 3</h3>
-<p>Which measure of test validity does NOT change with disease prevalence in the population being tested?</p>
+<p>A health camp offering blood pressure, blood glucose and vision testing together in one visit is an example of:</p>
 <ul>
-<li>Positive Predictive Value</li>
-<li>Negative Predictive Value</li>
-<li><span class="correct" data-explanation="Sensitivity and specificity are intrinsic properties of the test and do not depend on prevalence; PPV and NPV do.">Sensitivity</span></li>
-<li>Both PPV and NPV</li>
+<li>Mass screening</li>
+<li>Selective screening</li>
+<li><span class="correct" data-explanation="Multiphasic screening applies several different screening tests in one session.">Multiphasic screening</span></li>
+<li>Opportunistic screening</li>
 </ul>
 </section>
 </section>
@@ -332,12 +412,12 @@
 <p>🧡 <strong>QUESTION</strong></p>
 <section id="question-4" class="quiz-question">
 <h3>Question 4</h3>
-<p>A health camp offering blood pressure, blood glucose, and vision testing together in one visit is an example of:</p>
+<p>Screening a pregnant woman for anaemia and syphilis at her first antenatal visit, to protect her and her baby, primarily serves which use of screening?</p>
 <ul>
-<li>Mass screening</li>
-<li>Selective screening</li>
-<li><span class="correct" data-explanation="Multiphasic screening applies several different screening tests together in a single session.">Multiphasic screening</span></li>
-<li>Opportunistic screening</li>
+<li><span class="correct" data-explanation="Case detection (prescriptive screening) aims at early diagnosis and treatment for the benefit of the individual. Prospective screening protects others, as when screening food handlers or blood donors.">Case detection (prescriptive screening)</span></li>
+<li>Control of disease (prospective screening)</li>
+<li>Research purposes</li>
+<li>Educational opportunity</li>
 </ul>
 </section>
 </section>
@@ -346,12 +426,12 @@
 <p>🧡 <strong>QUESTION</strong></p>
 <section id="question-5" class="quiz-question">
 <h3>Question 5</h3>
-<p>Screened patients appear to survive longer after diagnosis simply because their disease was detected earlier in its course, even though they die at the same actual time as they would have without screening. This is:</p>
+<p>Screening of blood donors for HIV and hepatitis B is mainly done for:</p>
 <ul>
-<li>Length time bias</li>
-<li><span class="correct" data-explanation="Lead time bias occurs when the interval between screen-detection and clinical diagnosis is counted as extra survival time, without any true survival benefit.">Lead time bias</span></li>
-<li>Overdiagnosis</li>
-<li>Selection bias</li>
+<li>Case detection for the donor’s benefit</li>
+<li><span class="correct" data-explanation="The main aim is to protect recipients and the community from infection, which is disease control.">Control of disease: protecting others (prospective screening)</span></li>
+<li>Research</li>
+<li>Health education</li>
 </ul>
 </section>
 </section>
@@ -360,12 +440,592 @@
 <p>🧡 <strong>QUESTION</strong></p>
 <section id="question-6" class="quiz-question">
 <h3>Question 6</h3>
+<p>Which feature distinguishes a screening test from a diagnostic test?</p>
+<ul>
+<li>Screening is applied to symptomatic patients</li>
+<li>Screening results are the basis for treatment</li>
+<li><span class="correct" data-explanation="Screening is applied to apparently healthy groups, is initiated by the investigator or agency, and is quick, cheap and less accurate. It is not a basis for treatment. Diagnostic tests are applied to sick individuals.">Screening is applied to apparently healthy groups and is less accurate and cheaper</span></li>
+<li>Screening is initiated by the patient</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-7" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 7</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-7" class="quiz-question">
+<h3>Question 7</h3>
+<p>Screening offered only to smokers aged over 50 for lung disease is an example of:</p>
+<ul>
+<li>Mass screening</li>
+<li><span class="correct" data-explanation="Selective or targeted screening limits the test to high-risk groups, which raises the yield and the PPV.">High-risk (selective) screening</span></li>
+<li>Multiphasic screening</li>
+<li>Opportunistic screening</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-8" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 8</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-8" class="quiz-question">
+<h3>Question 8</h3>
+<p>Which of the following considerations is NOT required when undertaking a screening programme?</p>
+<ul>
+<li>The disease should be a public health problem</li>
+<li><span class="correct" data-explanation="Vaccine preventability is irrelevant to screening. The Wilson–Jungner criteria require an important problem, an accepted treatment, and diagnostic and treatment facilities.">The disease should be vaccine-preventable</span></li>
+<li>There should be an acceptable and effective treatment</li>
+<li>Facilities for confirming the diagnosis and for treatment should be available</li>
+</ul>
+</section>
+</section>
+<section id="lecture-15-sensitivity-specificity-and-predictive-values" class="slide level2 center" data-background-color="#E6EEF5">
+<h2>Lecture 15: Sensitivity, Specificity, and Predictive Values</h2>
+<p>📚 <strong>Lecture 15 of 15</strong> · <strong>CM7.L15</strong></p>
+<p><em>Screening II - sensitivity, specificity and predictive values</em></p>
+</section>
+<section id="the-screening-22-table" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>The Screening 2×2 Table</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>Every screening test is judged against a reference (“gold standard”) diagnosis:</p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th></th>
+<th>Disease +</th>
+<th>Disease −</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Test +</strong></td>
+<td>a: True Positive (TP)</td>
+<td>b: False Positive (FP)</td>
+<td>a + b</td>
+</tr>
+<tr class="even">
+<td><strong>Test −</strong></td>
+<td>c: False Negative (FN)</td>
+<td>d: True Negative (TN)</td>
+<td>c + d</td>
+</tr>
+<tr class="odd">
+<td><strong>Total</strong></td>
+<td>a + c</td>
+<td>b + d</td>
+<td>N</td>
+</tr>
+</tbody>
+</table>
+<p>All the validity measures on the next slides come from this table.</p>
+</section>
+<section id="sensitivity-and-specificity" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Sensitivity and Specificity</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><strong>Sensitivity</strong> is the ability to correctly identify those who <strong>have</strong> the disease (the true-positive rate):</p>
+<p><code>Sensitivity = a / (a + c) × 100</code> · <code>False-negative rate = c / (a + c) = 1 − sensitivity</code></p>
+<p><strong>Specificity</strong> is the ability to correctly identify those who <strong>do not have</strong> the disease (the true-negative rate):</p>
+<p><code>Specificity = d / (b + d) × 100</code> · <code>False-positive rate = b / (b + d) = 1 − specificity</code></p>
+<p>Both are properties of the <strong>test itself</strong> and do <strong>not</strong> depend on prevalence. A highly sensitive test, when negative, rules disease out (<strong>SnNout</strong>). A highly specific test, when positive, rules disease in (<strong>SpPin</strong>).</p>
+</section>
+<section id="predictive-values" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Predictive Values</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><strong>Positive Predictive Value (PPV)</strong>: given a positive test, the probability that the person really has the disease:</p>
+<p><code>PPV = a / (a + b) × 100</code></p>
+<p><strong>Negative Predictive Value (NPV)</strong>: given a negative test, the probability that the person is really disease-free:</p>
+<p><code>NPV = d / (c + d) × 100</code></p>
+<p>Unlike sensitivity and specificity, predictive values <strong>depend on prevalence</strong>. The same test gives a lower PPV and a higher NPV in a low-prevalence population.</p>
+</section>
+<section id="worked-example-evaluating-a-test" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Worked Example: Evaluating a Test</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>A test is applied to 1000 people, 100 of whom have the disease (prevalence 10%):</p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th></th>
+<th>Disease +</th>
+<th>Disease −</th>
+<th>Total</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Test +</strong></td>
+<td>80 (TP)</td>
+<td>90 (FP)</td>
+<td>170</td>
+</tr>
+<tr class="even">
+<td><strong>Test −</strong></td>
+<td>20 (FN)</td>
+<td>810 (TN)</td>
+<td>830</td>
+</tr>
+<tr class="odd">
+<td><strong>Total</strong></td>
+<td>100</td>
+<td>900</td>
+<td>1000</td>
+</tr>
+</tbody>
+</table>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Measure</th>
+<th>Calculation</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Sensitivity</td>
+<td>80/100</td>
+<td><strong>80%</strong></td>
+</tr>
+<tr class="even">
+<td>Specificity</td>
+<td>810/900</td>
+<td><strong>90%</strong></td>
+</tr>
+<tr class="odd">
+<td>PPV</td>
+<td>80/170</td>
+<td><strong>47%</strong></td>
+</tr>
+<tr class="even">
+<td>NPV</td>
+<td>810/830</td>
+<td><strong>97.6%</strong></td>
+</tr>
+<tr class="odd">
+<td>False-positive rate</td>
+<td>90/900</td>
+<td>10%</td>
+</tr>
+<tr class="even">
+<td>False-negative rate</td>
+<td>20/100</td>
+<td>20%</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="seeing-ppv-100-people-screened" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Seeing PPV: 100 People Screened</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/screening_grid.svg" class="slide-img" width="920"></p>
+<figcaption>100 people screened: 8 TP, 2 FN, 9 FP, 81 TN</figcaption>
+</figure>
+</div>
+</section>
+<section id="how-prevalence-changes-ppv" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>How Prevalence Changes PPV</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>The same test (sensitivity 80%, specificity 90%) is applied to 10,000 people:</p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Prevalence</th>
+<th>Diseased</th>
+<th>TP</th>
+<th>FP</th>
+<th><strong>PPV</strong></th>
+<th>NPV</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>1%</strong></td>
+<td>100</td>
+<td>80</td>
+<td>990</td>
+<td><strong>7.5%</strong></td>
+<td>99.8%</td>
+</tr>
+<tr class="even">
+<td><strong>10%</strong></td>
+<td>1,000</td>
+<td>800</td>
+<td>900</td>
+<td><strong>47%</strong></td>
+<td>97.6%</td>
+</tr>
+<tr class="odd">
+<td><strong>30%</strong></td>
+<td>3,000</td>
+<td>2,400</td>
+<td>700</td>
+<td><strong>77%</strong></td>
+<td>91.3%</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>In a low-prevalence population, most positives are <strong>false positives</strong>. Poor specificity then floods services with unnecessary confirmatory tests.</li>
+<li>This is why <strong>high-risk (selective) screening</strong> gives a higher PPV and yield than mass screening</li>
+</ul>
+</section>
+<section id="case-scenario-one-hiv-test-two-populations" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: One HIV Test, Two Populations</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>A single HIV ELISA has <strong>sensitivity 99.5%</strong> and <strong>specificity 99.8%</strong>. It is used in voluntary blood donors (illustrative prevalence <strong>0.1%</strong>) and in female sex workers (illustrative prevalence <strong>2%</strong>). Take 1,00,000 people in each group.</p>
+<ol type="1">
+<li>Calculate the PPV in each group.</li>
+<li>Why do they differ?</li>
+<li>What should follow a positive result?</li>
+</ol>
+</section>
+<section id="case-scenario-one-hiv-test-two-populations-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: One HIV Test, Two Populations, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li><strong>Blood donors:</strong> 100 infected → TP 99.5. FP = 0.2% of 99,900 ≈ 200. <strong>PPV ≈ 99.5 ÷ 299.5 ≈ 33%</strong></li>
+<li><strong>Female sex workers:</strong> 2,000 infected → TP 1,990. FP = 0.2% of 98,000 = 196. <strong>PPV ≈ 1,990 ÷ 2,186 ≈ 91%</strong></li>
+<li>Same test, but a different <strong>prevalence</strong>. When the disease is rare, false positives outnumber true positives.</li>
+<li>A positive screen needs <strong>confirmatory testing</strong> (series testing: three tests or strategies) before diagnosis or disclosure</li>
+</ul>
+</section>
+<section id="series-and-parallel-testing" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Series and Parallel Testing</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Series (sequential) testing</th>
+<th>Parallel (simultaneous) testing</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Rule</strong></td>
+<td>Positive only if positive on <strong>all</strong> tests</td>
+<td>Positive if positive on <strong>any</strong> test</td>
+</tr>
+<tr class="even">
+<td><strong>Effect</strong></td>
+<td>↑ Specificity, ↑ PPV, ↓ sensitivity</td>
+<td>↑ Sensitivity, ↑ NPV, ↓ specificity</td>
+</tr>
+<tr class="odd">
+<td><strong>Use when</strong></td>
+<td>False positives are costly or harmful (HIV: positive on three tests)</td>
+<td>Missing a case is dangerous (emergencies, a serious treatable disease)</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="cut-offs-and-likelihood-ratios" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Cut-offs and Likelihood Ratios</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Sensitivity–specificity trade-off:</strong> for a test with a continuous result, the cut-off decides the balance.</p>
+<ul>
+<li><em>Example:</em> IFG cut-off of 100 mg/dl (ADA) vs 110 mg/dl (WHO). The <strong>lower</strong> cut-off catches more true cases, so sensitivity rises. It also adds false positives, so specificity and PPV fall.</li>
+<li>The <strong>ROC curve</strong> plots sensitivity against (1 − specificity) for every cut-off. A larger area under the curve means a better test.</li>
+</ul>
+<p><strong>Likelihood ratios</strong> do not depend on prevalence:</p>
+<p><code>LR+ = Sensitivity ÷ (1 − Specificity)</code> · <code>LR− = (1 − Sensitivity) ÷ Specificity</code></p>
+<p>An LR+ above 10 strongly rules disease in, and an LR− below 0.1 strongly rules it out. <strong>Youden index</strong> = sensitivity + specificity − 1.</p>
+<p><strong>Use the test to fit the setting:</strong> a COVID rapid antigen test (high specificity, moderate sensitivity) suits diagnosis in <em>symptomatic</em> people, where prevalence and PPV are high.</p>
+</section>
+<section id="lead-time" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Lead Time</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/lead_time.svg" class="slide-img" width="920"></p>
+<figcaption>Lead time: from screen detection to usual clinical diagnosis</figcaption>
+</figure>
+</div>
+</section>
+<section id="lead-time-bias" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Lead Time Bias</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Lead time</strong> is the interval between detection by screening and the point when the disease would normally have been diagnosed from symptoms.</p>
+<p><strong>Lead time bias</strong> occurs when screening appears to prolong survival only because the survival clock starts earlier. The person actually dies at the same time as they would have without screening.</p>
+<p><strong>Why it matters:</strong> raw comparisons of survival time between screened and unscreened groups are misleading unless lead time is accounted for. Mortality in a randomized trial is the proper end-point.</p>
+</section>
+<section id="length-time-bias-and-overdiagnosis" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Length Time Bias and Overdiagnosis</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Length time bias</strong>: screening preferentially detects <strong>slow-growing, less aggressive</strong> disease, because it stays detectable for longer. Fast-growing disease is more likely to cause symptoms and be diagnosed clinically between screening rounds. Screen-detected cases therefore look as though they have better outcomes, whether or not screening helped.</p>
+<p><strong>Overdiagnosis</strong> is the extreme case. Screening detects a genuine abnormality that would <strong>never have caused symptoms or harm</strong> in the person’s lifetime, leading to unnecessary labelling and treatment. Examples include some prostate and thyroid cancers.</p>
+</section>
+<section id="practice-questions-descriptive-lecture-15" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 15)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Define sensitivity, specificity and predictive values. Explain with a 2 × 2 table.</li>
+<li>Explain how disease prevalence affects the predictive value of a screening test.</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="3" type="1">
+<li>Series and parallel testing.</li>
+<li>Lead time bias and length time bias.</li>
+</ol>
+<p><strong>Reasoning Type</strong></p>
+<ol start="5" type="1">
+<li>Why can screening programmes with poor specificity overload health services?</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-15-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 15, contd.)</h2>
+<p><strong>Numerical</strong></p>
+<ol start="6" type="1">
+<li>A new test was applied to 500 persons, 100 of whom had the disease (confirmed by a gold standard). The test was positive in 90 diseased and 40 non-diseased persons. Calculate sensitivity, specificity, PPV, NPV, and the false-positive and false-negative rates.</li>
+</ol>
+<p><strong>University Examination Questions</strong></p>
+<ol start="7" type="1">
+<li>Sensitivity and specificity.</li>
+<li>Define the positive predictive value of a screening test.</li>
+<li>Lead time.</li>
+</ol>
+</section>
+<section id="self-check-question-9" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 9</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-9" class="quiz-question">
+<h3>Question 9</h3>
+<p>Which measure of test validity does NOT change with disease prevalence in the population tested?</p>
+<ul>
+<li>Positive predictive value</li>
+<li>Negative predictive value</li>
+<li><span class="correct" data-explanation="Sensitivity and specificity are intrinsic properties of the test and do not depend on prevalence. PPV and NPV do.">Sensitivity</span></li>
+<li>Both PPV and NPV</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-10" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 10</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-10" class="quiz-question">
+<h3>Question 10</h3>
+<p>In a screening programme for cervical cancer, many women test positive but are later found disease-free on confirmatory testing. This problem is best explained by low:</p>
+<ul>
+<li>Sensitivity</li>
+<li><span class="correct" data-explanation="Many false positives mean the test mislabels healthy women as positive, which is low specificity. Specificity = TN/(TN + FP).">Specificity</span></li>
+<li>Incidence</li>
+<li>Reliability</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-11" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 11</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-11" class="quiz-question">
+<h3>Question 11</h3>
+<p>A screening test for a fatal disease has very high sensitivity but poor specificity. In a low-prevalence population, the most likely consequence is:</p>
+<ul>
+<li>High positive predictive value</li>
+<li><span class="correct" data-explanation="With low prevalence and poor specificity, false positives far outnumber true positives. PPV falls and services are overloaded with confirmatory work-ups.">Many false positives leading to unnecessary confirmatory testing</span></li>
+<li>No impact on workload</li>
+<li>Elimination of overdiagnosis</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-12" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 12</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-12" class="quiz-question">
+<h3>Question 12</h3>
+<p>A test is applied to 1000 people. Of 100 who truly have the disease, 80 test positive. Of 900 without the disease, 90 test positive. The sensitivity and specificity are:</p>
+<ul>
+<li><span class="correct" data-explanation="TP = 80, FN = 20, FP = 90, TN = 810. Sensitivity = 80/100 = 80%. Specificity = 810/900 = 90%.">80% and 90%</span></li>
+<li>90% and 80%</li>
+<li>80% and 10%</li>
+<li>47% and 98%</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-13" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 13</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-13" class="quiz-question">
+<h3>Question 13</h3>
+<p>In the same example (TP 80, FP 90, FN 20, TN 810), the positive predictive value is about:</p>
+<ul>
+<li><span class="correct" data-explanation="PPV = TP/(TP + FP) = 80/170 ≈ 47%. Less than half of the positives truly have the disease, because prevalence is only 10%. NPV = 810/830 ≈ 98%.">47%</span></li>
+<li>80%</li>
+<li>90%</li>
+<li>98%</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-14" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 14</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-14" class="quiz-question">
+<h3>Question 14</h3>
+<p>Two tests are applied in series, and a person is called positive only if positive on both. Compared with either test alone, series testing:</p>
+<ul>
+<li>Increases sensitivity</li>
+<li><span class="correct" data-explanation="Series (sequential) testing raises specificity and PPV but lowers sensitivity. Parallel testing (positive on either) raises sensitivity but lowers specificity.">Increases specificity</span></li>
+<li>Increases both</li>
+<li>Decreases both</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-15" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 15</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-15" class="quiz-question">
+<h3>Question 15</h3>
+<p>Screened patients appear to survive longer after diagnosis simply because their disease was detected earlier in its course, even though they die at the same time as without screening. This is:</p>
+<ul>
+<li>Length time bias</li>
+<li><span class="correct" data-explanation="Lead time bias occurs when the interval between screen detection and clinical diagnosis is counted as extra survival time, with no true survival benefit.">Lead time bias</span></li>
+<li>Overdiagnosis</li>
+<li>Selection bias</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-16" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 16</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-16" class="quiz-question">
+<h3>Question 16</h3>
 <p>Detection, through screening, of a genuine abnormality that would never have caused symptoms or harm in a person’s lifetime is called:</p>
 <ul>
 <li>Lead time bias</li>
 <li>Length time bias</li>
-<li><span class="correct" data-explanation="Overdiagnosis is the detection of disease that would never have progressed to cause harm — an extreme consequence of length-biased detection.">Overdiagnosis</span></li>
+<li><span class="correct" data-explanation="Overdiagnosis is the detection of disease that would never have progressed to cause harm. It is an extreme consequence of length-biased detection.">Overdiagnosis</span></li>
 <li>False positive</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-17" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 17</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-17" class="quiz-question">
+<h3>Question 17</h3>
+<p>What is the numerator in calculating the sensitivity of a test?</p>
+<ul>
+<li><span class="correct" data-explanation="Sensitivity = TP/(TP + FN).">True positives</span></li>
+<li>True negatives</li>
+<li>False positives</li>
+<li>False negatives</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-18" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 18</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-18" class="quiz-question">
+<h3>Question 18</h3>
+<p>What is the denominator for calculating the specificity of a test?</p>
+<ul>
+<li>True positives and true negatives</li>
+<li><span class="correct" data-explanation="Specificity = TN/(TN + FP). The denominator is all people without the disease.">True negatives and false positives</span></li>
+<li>False positives and false negatives</li>
+<li>False negatives and true positives</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-19" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 19</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-19" class="quiz-question">
+<h3>Question 19</h3>
+<p>Which test is preferred for ruling IN a disease?</p>
+<ul>
+<li>Highly sensitive test</li>
+<li>Low-specificity test</li>
+<li><span class="correct" data-explanation="SpPin: a positive result on a highly Specific test rules the disease in, because false positives are rare. SnNout: a negative result on a highly Sensitive test rules it out.">Highly specific test</span></li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-20" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 20</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-20" class="quiz-question">
+<h3>Question 20</h3>
+<p>Which of the following is a fixed parameter of a screening test?</p>
+<ul>
+<li><span class="correct" data-explanation="Sensitivity and specificity are intrinsic to the test at a given cut-off. Predictive values change with prevalence.">Sensitivity</span></li>
+<li>Negative predictive value</li>
+<li>Positive predictive value</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-21" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 21</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-21" class="quiz-question">
+<h3>Question 21</h3>
+<p>The predictive value of a screening test depends on:</p>
+<ul>
+<li><span class="correct" data-explanation="The textbook's answer is prevalence, the factor that changes predictive values for the same test. Strictly, PPV and NPV also depend on sensitivity and specificity.">Prevalence</span></li>
+<li>Sensitivity</li>
+<li>Health worker</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-22" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 22</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-22" class="quiz-question">
+<h3>Question 22</h3>
+<p>The WHO cut-off for impaired fasting glucose is 110 mg/dl, while the American Diabetes Association uses 100 mg/dl. Using the lower (ADA) cut-off instead of the WHO one will:</p>
+<ul>
+<li><span class="correct" data-explanation="A lower cut-off labels more people positive. Fewer true cases are missed, so sensitivity rises, while more false positives lower specificity and PPV. (The textbook prints “International Diabetes Association” for ADA.)">Increase sensitivity</span></li>
+<li>Increase specificity</li>
+<li>Increase the positive predictive value</li>
+<li>Cause no change</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-23" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 23</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-23" class="quiz-question">
+<h3>Question 23</h3>
+<p>A COVID-19 Rapid Antigen Test has very high specificity but only moderate sensitivity. It is therefore most appropriate for:</p>
+<ul>
+<li><span class="correct" data-explanation="With high specificity, a positive result is reliable (SpPin). Among symptomatic people the prevalence is high, so PPV is high too. With only moderate sensitivity, it would miss many infections in low-prevalence asymptomatic groups. (The textbook's stem prints “specificity” twice. The second should read “sensitivity”.)">Diagnosis of COVID-19 in persons with influenza-like symptoms</span></li>
+<li>Diagnosis of COVID-19 in asymptomatic persons</li>
+<li>Screening asymptomatic contacts of confirmed patients</li>
+<li>Surveillance of COVID-19 in the general population</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-24" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 24</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-24" class="quiz-question">
+<h3>Question 24</h3>
+<p>A single ELISA test for HIV will have the highest positive predictive value in which group?</p>
+<ul>
+<li>Voluntary blood donors</li>
+<li>Antenatal women</li>
+<li><span class="correct" data-explanation="PPV rises with prevalence. Of these groups, HIV prevalence is highest among female sex workers.">Female sex workers</span></li>
+<li>Patients with herpes zoster</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-25" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 25</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-25" class="quiz-question">
+<h3>Question 25</h3>
+<p>The “positive likelihood ratio” of a screening test is calculated as:</p>
+<ul>
+<li>Specificity ÷ (1 − sensitivity)</li>
+<li><span class="correct" data-explanation="LR+ = sensitivity/(1 − specificity), the true-positive rate divided by the false-positive rate. LR− = (1 − sensitivity)/specificity.">Sensitivity ÷ (1 − specificity)</span></li>
+<li>(1 − specificity) ÷ specificity</li>
+<li>(1 − sensitivity) ÷ specificity</li>
 </ul>
 </section>
 </section>
@@ -373,14 +1033,16 @@
 <h2>References</h2>
 <ol type="1">
 <li>Wilson, J.M.G., Jungner, G. (1968). <em>Principles and Practice of Screening for Disease</em>. WHO Public Health Papers No.&nbsp;34.</li>
+<li>Park, K. <em>Park’s Textbook of Preventive and Social Medicine</em> (latest ed.): screening for disease (uses, types, criteria, sensitivity, specificity, predictive values, series and parallel testing).</li>
+<li>Faculty question bank, Section V, Chapter 19 <em>Principles and Practice of Epidemiology</em>: screening MCQs and reasoning questions.</li>
 <li>StatPearls. <em>Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios</em>.</li>
-<li>Catalog of Bias. “Lead Time Bias.” and Wikipedia. “Length time bias.”</li>
-<li>National Cancer Institute / NCBI Bookshelf. <em>Assessment of cancer screening: a primer</em>.</li>
+<li>Catalog of Bias. “Lead time bias”; NCI / NCBI Bookshelf. <em>Assessment of cancer screening: a primer</em>.</li>
 </ol>
+<p><strong>Want to practice?</strong> The <a href="../foundations/epidemiology-question-bank.html">Epidemiology Question Bank</a> has every question from this chapter with answer keys.</p>
 </section>
 <section id="thank-you" class="slide level2 center">
 <h2>Thank You!</h2>
-<p><strong>Next Chapter:</strong> Epidemiology of Communicable Diseases</p>
+<p><strong>Next Chapter:</strong> Epidemiology of Communicable Diseases (CM7 Lectures 10–13)</p>
 <p><a href="epidemiologic-methods.html">← Previous</a> | <a href="#/home">Top</a> | <a href="../intro.html">Contents</a> | Chapter 5/29 | <a href="../diseases/communicable-diseases.html">Next Chapter →</a></p>
 
 
@@ -579,7 +1241,7 @@
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -606,173 +1268,190 @@
       });
     </script>
     <script id="quarto-html-after-body" type="application/javascript">
-      window.document.addEventListener("DOMContentLoaded", function (event) {
-        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
-        tabsets.forEach(function(tabset) {
-          const tabby = new Tabby('#' + tabset.id);
-        });
-        const isCodeAnnotation = (el) => {
-          for (const clz of el.classList) {
-            if (clz.startsWith('code-annotation-')) {                     
-              return true;
-            }
-          }
-          return false;
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
         }
-        const onCopySuccess = function(e) {
-          // button target
-          const button = e.trigger;
-          // don't keep focus
-          button.blur();
-          // flash "checked"
-          button.classList.add('code-copy-button-checked');
-          var currentTitle = button.getAttribute("title");
-          button.setAttribute("title", "Copied!");
-          let tooltip;
-          if (window.bootstrap) {
-            button.setAttribute("data-bs-toggle", "tooltip");
-            button.setAttribute("data-bs-placement", "left");
-            button.setAttribute("data-bs-title", "Copied!");
-            tooltip = new bootstrap.Tooltip(button, 
-              { trigger: "manual", 
-                customClass: "code-copy-button-tooltip",
-                offset: [0, -8]});
-            tooltip.show();    
-          }
-          setTimeout(function() {
-            if (tooltip) {
-              tooltip.hide();
-              button.removeAttribute("data-bs-title");
-              button.removeAttribute("data-bs-toggle");
-              button.removeAttribute("data-bs-placement");
-            }
-            button.setAttribute("title", currentTitle);
-            button.classList.remove('code-copy-button-checked');
-          }, 1000);
-          // clear code selection
-          e.clearSelection();
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
         }
-        const getTextToCopy = function(trigger) {
-          const outerScaffold = trigger.parentElement.cloneNode(true);
-          const codeEl = outerScaffold.querySelector('code');
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
+      });
+      const isCodeAnnotation = (el) => {
+        for (const clz of el.classList) {
+          if (clz.startsWith('code-annotation-')) {                     
+            return true;
+          }
+        }
+        return false;
+      }
+      const onCopySuccess = function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
           for (const childEl of codeEl.children) {
             if (isCodeAnnotation(childEl)) {
               childEl.remove();
             }
           }
           return codeEl.innerText;
-        }
-        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-          text: getTextToCopy
-        });
-        clipboard.on('success', onCopySuccess);
-        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-            text: getTextToCopy,
-            container: window.document.getElementById('quarto-embedded-source-code-modal')
-          });
-          clipboardModal.on('success', onCopySuccess);
-        }
-          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-          var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp("index\.qmd");
-          var isInternal = (href) => {
-              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-          }
-          // Inspect non-navigation links and adorn them if external
-         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-          for (var i=0; i<links.length; i++) {
-            const link = links[i];
-            if (!isInternal(link.href)) {
-              // undo the damage that might have been done by quarto-nav.js in the case of
-              // links that we want to consider external
-              if (link.dataset.originalHref !== undefined) {
-                link.href = link.dataset.originalHref;
-              }
-            }
-          }
-        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-          const config = {
-            allowHTML: true,
-            maxWidth: 500,
-            delay: 100,
-            arrow: false,
-            appendTo: function(el) {
-                return el.closest('section.slide') || el.parentElement;
-            },
-            interactive: true,
-            interactiveBorder: 10,
-            theme: 'light-border',
-            placement: 'bottom-start',
-          };
-          if (contentFn) {
-            config.content = contentFn;
-          }
-          if (onTriggerFn) {
-            config.onTrigger = onTriggerFn;
-          }
-          if (onUntriggerFn) {
-            config.onUntrigger = onUntriggerFn;
-          }
-            config['offset'] = [0,0];
-            config['maxWidth'] = 700;
-          window.tippy(el, config); 
-        }
-        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-        for (var i=0; i<noterefs.length; i++) {
-          const ref = noterefs[i];
-          tippyHover(ref, function() {
-            // use id or data attribute instead here
-            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-            try { href = new URL(href).hash; } catch {}
-            const id = href.replace(/^#\/?/, "");
-            const note = window.document.getElementById(id);
-            if (note) {
-              return note.innerHTML;
-            } else {
-              return "";
-            }
-          });
-        }
-        const findCites = (el) => {
-          const parentEl = el.parentElement;
-          if (parentEl) {
-            const cites = parentEl.dataset.cites;
-            if (cites) {
-              return {
-                el,
-                cites: cites.split(' ')
-              };
-            } else {
-              return findCites(el.parentElement)
-            }
-          } else {
-            return undefined;
-          }
-        };
-        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-        for (var i=0; i<bibliorefs.length; i++) {
-          const ref = bibliorefs[i];
-          const citeInfo = findCites(ref);
-          if (citeInfo) {
-            tippyHover(citeInfo.el, function() {
-              var popup = window.document.createElement('div');
-              citeInfo.cites.forEach(function(cite) {
-                var citeDiv = window.document.createElement('div');
-                citeDiv.classList.add('hanging-indent');
-                citeDiv.classList.add('csl-entry');
-                var biblioDiv = window.document.getElementById('ref-' + cite);
-                if (biblioDiv) {
-                  citeDiv.innerHTML = biblioDiv.innerHTML;
-                }
-                popup.appendChild(citeDiv);
-              });
-              return popup.innerHTML;
-            });
-          }
-        }
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
-      </script>
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("index\.qmd");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+        const config = {
+          allowHTML: true,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start',
+        };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+    });
+    </script>
     
 
 </body></html>

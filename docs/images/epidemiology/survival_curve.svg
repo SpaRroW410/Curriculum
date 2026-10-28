@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="435" viewBox="0 0 1000 435" role="img" aria-labelledby="title desc">
+  <title id="title">Survival curve (schematic)</title>
+  <desc id="desc">A stepped survival curve falling from 100 percent; the 5-year survival of 58 percent and the median survival at 6 years are marked. Schematic, not real data.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <line x1="90" y1="380" x2="960" y2="380" stroke="#2c3e50" stroke-width="2.5"/>
+  <line x1="90" y1="380" x2="90" y2="40" stroke="#2c3e50" stroke-width="2.5"/>
+  <text x="78" y="68" text-anchor="end" font-family="Georgia, serif" font-size="22" fill="#333">100%</text>
+  <text x="78" y="228" text-anchor="end" font-family="Georgia, serif" font-size="22" fill="#333">50%</text>
+  <text x="78" y="388" text-anchor="end" font-family="Georgia, serif" font-size="22" fill="#333">0%</text>
+  <path d="M90,60.0 L175,60.0 L175,85.59999999999997 L260,85.59999999999997 L260,108.0 L345,108.0 L345,136.79999999999998 L430,136.79999999999998 L430,168.79999999999998 L515,168.79999999999998 L515,194.39999999999998 L600,194.39999999999998 L600,220.0 L685,220.0 L685,236.0 L770,236.0 L770,248.79999999999998 L855,248.79999999999998 L855,258.4 L940,258.4 L940,264.8" fill="none" stroke="#c0392b" stroke-width="4"/>
+  <line x1="90" y1="220.0" x2="600" y2="220.0" stroke="#2c3e50" stroke-width="2" stroke-dasharray="7,5"/>
+  <line x1="600" y1="220.0" x2="600" y2="380" stroke="#2c3e50" stroke-width="2" stroke-dasharray="7,5"/>
+  <text x="610" y="300" text-anchor="start" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">median survival</text>
+  <text x="515" y="124.39999999999998" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#c0392b">5-year survival = 58%</text>
+  <line x1="515" y1="134.39999999999998" x2="515" y2="188.39999999999998" stroke="#c0392b" stroke-width="2" marker-end="url(#arr)"/>
+  <text x="525" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Years after diagnosis</text>
+  <text x="24" y="220" transform="rotate(-90 24 220)" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Proportion surviving</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="450" viewBox="0 0 1000 450" role="img" aria-labelledby="title desc">
+  <title id="title">Design of a cohort study</title>
+  <desc id="desc">A disease-free population is split into exposed and unexposed cohorts followed forward; some in each develop disease (a, c) and some do not (b, d).</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="10" y="150" width="220" height="100" rx="8" fill="#E6EEF5" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="120.0" y="192.8" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Disease-free</text>
+  <text x="120.0" y="225.3" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">population</text>
+  <rect x="310" y="50" width="250" height="90" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="435.0" y="104.1" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">EXPOSED</text>
+  <rect x="310" y="260" width="250" height="90" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="435.0" y="314.1" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">NOT EXPOSED</text>
+  <line x1="232" y1="180" x2="308" y2="100" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="232" y1="220" x2="308" y2="300" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="700" y="16" width="290" height="58" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="845.0" y="52.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Disease (a)</text>
+  <rect x="700" y="116" width="290" height="58" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="845.0" y="152.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">No disease (b)</text>
+  <line x1="562" y1="85" x2="698" y2="45" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="562" y1="105" x2="698" y2="145" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="700" y="226" width="290" height="58" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="845.0" y="262.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Disease (c)</text>
+  <rect x="700" y="326" width="290" height="58" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="845.0" y="362.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">No disease (d)</text>
+  <line x1="562" y1="295" x2="698" y2="255" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="562" y1="315" x2="698" y2="355" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <text x="630" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#333">follow up</text>
+  <line x1="60" y1="400" x2="940" y2="400" stroke="#2c3e50" stroke-width="4" marker-end="url(#arr)"/>
+  <text x="500" y="438" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Enquiry runs FORWARD: from exposure to outcome</text>
+</svg>

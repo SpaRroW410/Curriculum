@@ -131,7 +131,7 @@
 
 <section id="title-slide" class="quarto-title-block center">
   <h1 class="title">Epidemiology of Communicable Diseases</h1>
-  <p class="subtitle">The Chain of Infection, Transmission, and Control</p>
+  <p class="subtitle">The Chain of Infection, Immunity, Control, and Outbreak Investigation</p>
 
 <div class="quarto-title-authors">
 </div>
@@ -140,23 +140,17 @@
 <section id="home" class="slide level2 center">
 <h2>Welcome</h2>
 <h3 id="epidemiology-of-communicable-diseases">Epidemiology of Communicable Diseases</h3>
-<p><strong>Learning Objectives:</strong></p>
+<p><strong>Learning Objectives (CM7 Lectures 10–13):</strong></p>
 <ul>
-<li>Describe the six links in the chain of infection</li>
-<li>Distinguish endemic, sporadic, epidemic, and pandemic disease occurrence</li>
-<li>Classify modes of transmission of communicable disease</li>
-<li>Define basic reproduction number (R₀) and herd immunity threshold</li>
-<li>Describe carrier states and why chronic carriers matter</li>
-<li>Distinguish incubation period, generation time, and serial interval</li>
-<li>Distinguish isolation from quarantine</li>
-<li>Compare live, killed, toxoid, and subunit vaccines</li>
-<li>Apply the levels of prevention to communicable disease control</li>
-<li>Outline the standard steps of an outbreak investigation</li>
+<li>Describe the dynamics of disease transmission: chain of infection, reservoirs, carriers, modes of transmission, incubation period, SAR, R₀</li>
+<li>Classify immunity; describe immunizing agents, the cold chain and AEFI</li>
+<li>Outline the measures for control of communicable disease and the types and agents of disinfection</li>
+<li>Describe the steps of an epidemic investigation, the types of surveillance, and IDSP/IHIP</li>
 </ul>
-<p><strong>NMC Community Medicine Code:</strong> CM7–CM8</p>
+<p><strong>NMC Community Medicine Code:</strong> CM7.2, CM7.7 (also CM8, CM20)</p>
 <p>🟢 <strong>MUST KNOW</strong> · 🟡 <strong>SHOULD KNOW</strong> · 🟣 <strong>MAY KNOW</strong> · 🧡 <strong>QUESTION</strong></p>
 <aside class="notes">
-<p>This chapter applies Chapter 2’s levels of prevention and Chapter 3’s epidemiological triad specifically to infectious disease, and opens the Diseases section of the curriculum.</p>
+<p>This chapter applies Chapter 2’s levels of prevention and Chapters 3–4’s epidemiological methods to infectious disease, and opens the Diseases section of the curriculum.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -173,6 +167,41 @@
 <h2>Lecture 10: Infectious Disease Dynamics and Transmission</h2>
 <p>📚 <strong>Lecture 10 of 15</strong> · <strong>CM7.L10</strong></p>
 <p><em>Infectious disease epidemiology - dynamics and modes of transmission</em></p>
+</section>
+<section id="recap-from-chapter-2-triad-causation-natural-history" class="slide level2 center" data-background-color="#E8E4F3">
+<h2>Recap from Chapter 2: Triad, Causation, Natural History</h2>
+<p>🟣 <strong>RECAP</strong></p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Concept</th>
+<th>One-line reminder</th>
+<th>Chapter 2 slide</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Epidemiological triad</strong></td>
+<td>Agent, host and environment interact to produce disease</td>
+<td><a href="../foundations/concept-health-disease.html#the-epidemiological-triad">The Epidemiological Triad</a></td>
+</tr>
+<tr class="even">
+<td><strong>Web of causation</strong></td>
+<td>Many interlinked factors, especially for chronic disease</td>
+<td><a href="../foundations/concept-health-disease.html#multifactorial-causation">Multifactorial Causation</a></td>
+</tr>
+<tr class="odd">
+<td><strong>Natural history</strong></td>
+<td>Prepathogenesis → pathogenesis → recovery, disability or death</td>
+<td><a href="../foundations/concept-health-disease.html#natural-history-of-disease">Natural History of Disease</a></td>
+</tr>
+<tr class="even">
+<td><strong>Iceberg phenomenon</strong></td>
+<td>Clinical cases are only the visible tip</td>
+<td><a href="../foundations/concept-health-disease.html#the-iceberg-phenomenon">The Iceberg Phenomenon</a></td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="the-chain-of-infection" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>The Chain of Infection</h2>
@@ -236,10 +265,141 @@
 </svg>
 <p><strong>Breaking any single link</strong> — e.g.&nbsp;safe water interrupting the portal of exit/entry, or vaccination removing the susceptible host — stops transmission around the entire ring, regardless of which link is targeted.</p>
 </section>
+<section id="the-agent-in-disease-causation" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>The Agent in Disease Causation</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Agent</strong>: a substance, living or non-living, whose presence (or absence) is essential for a disease to occur. It is one corner of the <strong>epidemiological triad</strong> of agent, host and environment (Chapter 2).</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type of agent</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Biological</strong></td>
+<td>Viruses, bacteria, fungi, protozoa, helminths</td>
+</tr>
+<tr class="even">
+<td><strong>Nutrient</strong> (excess or deficiency)</td>
+<td>Protein-energy malnutrition, obesity, vitamin deficiencies</td>
+</tr>
+<tr class="odd">
+<td><strong>Physical</strong></td>
+<td>Heat, cold, radiation, noise</td>
+</tr>
+<tr class="even">
+<td><strong>Chemical</strong>: endogenous / exogenous</td>
+<td>Urea (uraemia), bilirubin / lead, pesticides, allergens</td>
+</tr>
+<tr class="odd">
+<td><strong>Mechanical</strong></td>
+<td>Injuries, chronic friction</td>
+</tr>
+<tr class="even">
+<td><strong>Absence or insufficiency</strong></td>
+<td>Lack of a hormone (insulin), chromosomal factors</td>
+</tr>
+<tr class="odd">
+<td><strong>Social</strong></td>
+<td>Poverty, smoking, alcohol, stress</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="agent-properties-infectivity-pathogenicity-virulence" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Agent Properties: Infectivity, Pathogenicity, Virulence</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Property</th>
+<th>Meaning</th>
+<th>Measured by</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Infectivity</strong></td>
+<td>Ability to enter, survive and multiply in a host</td>
+<td>Secondary attack rate, infection rate</td>
+</tr>
+<tr class="even">
+<td><strong>Pathogenicity</strong></td>
+<td>Ability to produce <strong>clinical disease</strong> in those infected</td>
+<td>Clinical cases ÷ all infections</td>
+</tr>
+<tr class="odd">
+<td><strong>Virulence</strong></td>
+<td><strong>Severity</strong> of the disease produced</td>
+<td><strong>Case fatality rate</strong></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Measles</strong>: high infectivity and pathogenicity, low virulence (except in the malnourished)</li>
+<li><strong>Polio</strong>: high infectivity, <strong>low pathogenicity</strong> (over 90% of infections are inapparent)</li>
+<li><strong>Rabies</strong>: virulence close to 100%</li>
+<li><strong>Infective dose</strong>: the number of organisms needed to cause infection, low for <em>Shigella</em> (10–100) and high for <em>V. cholerae</em></li>
+</ul>
+</section>
+<section id="host-and-environment-in-transmission" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Host and Environment in Transmission</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Host factors</strong> decide whether exposure becomes infection and then disease:</p>
+<ul>
+<li><strong>Portal of entry</strong> and intact barriers (skin, mucosa, gastric acid)</li>
+<li><strong>Immune status</strong>: past infection, immunization, immunodeficiency</li>
+<li><strong>Age, sex, nutrition, pregnancy, genetic factors</strong></li>
+<li><strong>Behaviour</strong>: hygiene, sexual behaviour, occupation, travel</li>
+</ul>
+<p><strong>Environmental factors:</strong></p>
+<ul>
+<li><em>Physical</em>: climate, water, housing, crowding</li>
+<li><em>Biological</em>: vectors, animal reservoirs</li>
+<li><em>Social</em>: poverty, sanitation, health services</li>
+</ul>
+<p>Agent, host and environment together form the <strong>epidemiological triad</strong>.</p>
+</section>
+<section id="reservoirs-of-infection" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Reservoirs of Infection</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><strong>Source</strong> = the person, animal or object from which the agent passes to the host. <strong>Reservoir</strong> = where the agent normally lives and multiplies.</p>
+<ul>
+<li><strong>Human reservoir</strong>: a <strong>case</strong> (clinical, subclinical or latent) or a <strong>carrier</strong> (infected and shedding but without overt disease)</li>
+<li><strong>Animal reservoir</strong>: diseases transmitted from vertebrate animals to humans are <strong>zoonoses</strong> (rabies, plague, leptospirosis)</li>
+<li><strong>Non-living reservoir</strong>: soil and inanimate matter (tetanus spores in soil, <em>Legionella</em> in water systems)</li>
+</ul>
+</section>
+<section id="carrier-states" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Carrier States</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>A <strong>carrier</strong> is an infected person who sheds the agent without showing overt disease, before or after it. Carriers matter because clinical surveillance often <em>misses</em> them.</p>
+<ul>
+<li><strong>By type:</strong>
+<ul>
+<li><em>incubatory</em>: sheds during the incubation period (measles, polio)</li>
+<li><em>convalescent</em>: continues shedding after clinical recovery (typhoid, cholera)</li>
+<li><em>healthy</em>: sheds without ever having overt disease (polio, meningococcus)</li>
+</ul></li>
+<li><strong>By duration:</strong> <em>temporary</em> (short-lived shedding) vs <em>chronic</em> (indefinite shedding, e.g.&nbsp;typhoid and hepatitis B). Chronic carriers are the greater public-health threat.</li>
+<li><strong>By portal of exit:</strong> urinary, intestinal, respiratory, nasal</li>
+</ul>
+<p>A diagnosed case is usually isolated. An unrecognized chronic carrier keeps transmitting silently.</p>
+</section>
 <section id="epidemic-endemic-and-pandemic" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Epidemic, Endemic, and Pandemic</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p>Disease occurrence is classified by how its frequency compares to what’s normally expected in a place and population:</p>
 <table class="caption-top">
 <colgroup>
 <col style="width: 50%">
@@ -254,7 +414,7 @@
 <tbody>
 <tr class="odd">
 <td><strong>Endemic</strong></td>
-<td>Constant, expected presence of a disease in a given area/population, without importation</td>
+<td>Constant, expected presence of a disease in a given area or population, without importation</td>
 </tr>
 <tr class="even">
 <td><strong>Sporadic</strong></td>
@@ -262,11 +422,11 @@
 </tr>
 <tr class="odd">
 <td><strong>Epidemic</strong></td>
-<td>Cases clearly <strong>in excess</strong> of normal expectancy for that place, population, and season</td>
+<td>Cases clearly <strong>in excess</strong> of normal expectancy for that place, population and season</td>
 </tr>
 <tr class="even">
 <td><strong>Pandemic</strong></td>
-<td>An epidemic spanning multiple countries/continents, usually affecting large numbers of people</td>
+<td>An epidemic spanning several countries or continents, usually affecting large numbers of people</td>
 </tr>
 <tr class="odd">
 <td><strong>Exotic</strong></td>
@@ -274,7 +434,12 @@
 </tr>
 </tbody>
 </table>
-<p><strong>Zoonoses</strong> — infections naturally transmissible between vertebrate animals and humans — are classified by direction: <strong>anthropozoonoses</strong> (animal → human, e.g.&nbsp;rabies, anthrax), <strong>zooanthroponoses</strong> (human → animal, e.g.&nbsp;human TB in cattle), and <strong>amphixenoses</strong> (either direction).</p>
+<p><strong>Zoonoses</strong> are classified by direction:</p>
+<ul>
+<li><strong>anthropozoonoses</strong>: animal → human (rabies, anthrax)</li>
+<li><strong>zooanthroponoses</strong>: human → animal (human TB in cattle)</li>
+<li><strong>amphixenoses</strong>: either direction</li>
+</ul>
 </section>
 <section id="modes-of-transmission" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Modes of Transmission</h2>
@@ -283,26 +448,71 @@
 <div class="column" style="width:50%;">
 <p><strong>Direct transmission</strong></p>
 <ul>
-<li>Direct contact (touch, sexual contact)</li>
-<li>Droplet spread (coughing, sneezing, over short distance)</li>
-<li>Transplacental (mother to fetus)</li>
+<li>Direct contact (skin, mucosa, sexual): STIs, leprosy, scabies</li>
+<li>Droplet infection (&lt; 1 m): influenza, diphtheria, pertussis</li>
+<li>Contact with soil: hookworm, tetanus</li>
+<li>Inoculation into skin or mucosa: rabies (bite), hepatitis B</li>
+<li>Transplacental (vertical): rubella, syphilis, HIV, toxoplasmosis</li>
 </ul>
 </div><div class="column" style="width:50%;">
 <p><strong>Indirect transmission</strong></p>
 <ul>
-<li><strong>Vehicle-borne</strong> — contaminated water, food, fomites</li>
-<li><strong>Vector-borne</strong> — via an insect/arthropod (mechanical or biological)</li>
-<li><strong>Airborne</strong> — droplet nuclei or dust suspended in air over distance</li>
+<li><strong>Vehicle-borne</strong>: water, food, milk, blood (cholera, typhoid, hepatitis A)</li>
+<li><strong>Vector-borne</strong>: <em>mechanical</em> (flies, typhoid) or <em>biological</em>, which is propagative (plague), cyclo-propagative (malaria) or cyclo-developmental (filaria)</li>
+<li><strong>Airborne</strong>: droplet nuclei (TB, measles), dust</li>
+<li><strong>Fomite-borne</strong>: towels, utensils (diphtheria, trachoma)</li>
+<li><strong>Unclean hands and fingers</strong>: faecal-oral spread</li>
 </ul>
 </div></div>
 </section>
-<section id="reservoirs-of-infection" class="slide level2 center" data-background-color="#E3F2E1">
-<h2>Reservoirs of Infection</h2>
-<p>🟢 <strong>MUST KNOW</strong></p>
+<section id="incubation-period-and-related-intervals" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Incubation Period and Related Intervals</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Incubation period</strong> is the time from entry of the infectious agent to the first sign or symptom of disease. It depends on the infective dose, portal of entry, host susceptibility and the agent’s generation time.</p>
+<p><strong>Uses:</strong> tracing the source of infection, setting the period of <strong>quarantine and surveillance of contacts</strong> (= the longest incubation period), timing immunization and prophylaxis, and identifying point-source vs propagated epidemics.</p>
 <ul>
-<li><strong>Human reservoir</strong> — a case (symptomatic) or a <strong>carrier</strong> (asymptomatic but infectious)</li>
-<li><strong>Animal reservoir</strong> — diseases transmitted from vertebrate animals to humans are called <strong>zoonoses</strong></li>
-<li><strong>Environmental reservoir</strong> — soil, water (e.g.&nbsp;tetanus spores in soil, <em>Legionella</em> in water systems)</li>
+<li><strong>Generation time</strong>: from receipt of infection to the host’s maximal infectivity</li>
+<li><strong>Serial interval</strong>: from onset in the primary case to onset in the secondary case</li>
+<li><strong>Communicable period</strong>: the time during which an infected person can transmit the agent</li>
+</ul>
+</section>
+<section id="incubation-generation-time-serial-interval" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Incubation, Generation Time, Serial Interval</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/incubation_timeline.svg" class="slide-img" width="920"></p>
+<figcaption>Timeline of incubation period, generation time and serial interval</figcaption>
+</figure>
+</div>
+</section>
+<section id="secondary-attack-rate" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Secondary Attack Rate</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><strong>Secondary Attack Rate (SAR)</strong> measures how contagious a disease is within a close-contact group after exposure to a primary case:</p>
+<p><code>SAR = (New cases among contacts within one incubation period / Total susceptible contacts) × 100</code></p>
+<ul>
+<li><strong>Exclude</strong> the primary case and contacts who are immune (by immunization or past attack) from the denominator</li>
+<li><strong>Worked example:</strong> a household of 6 has 1 primary measles case and 1 immune member, leaving 4 susceptibles. 2 develop measles within one incubation period, so SAR = 2/4 = <strong>50%</strong>.</li>
+</ul>
+</section>
+<section id="case-scenario-measles-in-a-household" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Measles in a Household</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>A child with measles lives in a household of <strong>7</strong>. The father had measles in childhood. A younger sibling has had <strong>2 doses of MR vaccine</strong>. Of the other 4 members, <strong>one falls ill 2 days later</strong> and <strong>two more fall ill 10–12 days later</strong>.</p>
+<ol type="1">
+<li>Who are the susceptible contacts?</li>
+<li>How do you treat the person who fell ill after 2 days?</li>
+<li>Calculate the secondary attack rate.</li>
+</ol>
+</section>
+<section id="case-scenario-measles-in-a-household-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Measles in a Household, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li>Exclude the primary case, the immune father and the vaccinated sibling, leaving <strong>4 susceptible contacts</strong></li>
+<li>Onset after 2 days is <strong>shorter than the minimum incubation period</strong>, so this is a <strong>co-primary case</strong> infected from the same source. Exclude them from both numerator and denominator, leaving <strong>3</strong> susceptibles.</li>
+<li><strong>SAR</strong> = 2 ÷ 3 × 100 ≈ <strong>67%</strong></li>
 </ul>
 </section>
 <section id="basic-reproduction-number-r₀" class="slide level2 center" data-background-color="#E3F2E1">
@@ -310,23 +520,577 @@
 <p>🟢 <strong>MUST KNOW</strong></p>
 <p><strong>R₀</strong> is the average number of secondary infections produced by one infected person in a <strong>completely susceptible</strong> population.</p>
 <ul>
-<li><strong>R₀ &gt; 1</strong> → each case generates more than one new case → epidemic potential</li>
-<li><strong>R₀ &lt; 1</strong> → the outbreak is expected to die out</li>
-<li><strong>R₀ = 1</strong> → disease remains endemic at a steady rate</li>
+<li><strong>R₀ &gt; 1</strong>: each case generates more than one new case, giving epidemic potential</li>
+<li><strong>R₀ &lt; 1</strong>: the outbreak is expected to die out</li>
+<li><strong>R₀ = 1</strong>: the disease remains endemic at a steady rate</li>
 </ul>
+<p>R₀ depends on the contact rate, the probability of transmission per contact, and the duration of infectiousness. Measles has an R₀ of about 12–18, and influenza about 1.5–2.</p>
+</section>
+<section id="practice-questions-descriptive-lecture-10" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 10)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Write the various modes of disease transmission with examples and control measures for each.</li>
+<li>Describe the chain of infection (dynamics of disease transmission).</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="3" type="1">
+<li>Secondary attack rate and its calculation.</li>
+<li>Carriers.</li>
+<li>Incubation period and its uses.</li>
+<li>Basic reproduction number (R₀).</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-10-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 10, contd.)</h2>
+<p><strong>University Examination Questions</strong></p>
+<ol start="7" type="1">
+<li>Epidemiological triad.</li>
+<li>Define “agent” in disease causation. Explain the different types of agents.</li>
+</ol>
+<p><strong>Short Notes (additional)</strong></p>
+<ol start="9" type="1">
+<li>Infectivity, pathogenicity and virulence.</li>
+<li>Host factors in disease transmission.</li>
+</ol>
+</section>
+<section id="self-check-question-1" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 1</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-1" class="quiz-question">
+<h3>Question 1</h3>
+<p>Which of the following is NOT one of the six links in the chain of infection?</p>
+<ul>
+<li>Reservoir</li>
+<li>Portal of exit</li>
+<li><span class="correct" data-explanation="Herd immunity is a population-level protective effect. The six links are agent, reservoir, portal of exit, mode of transmission, portal of entry, and susceptible host.">Herd immunity</span></li>
+<li>Susceptible host</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-2" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 2</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-2" class="quiz-question">
+<h3>Question 2</h3>
+<p>Malaria, transmitted from an infected person to a new host via a mosquito, is an example of which mode of transmission?</p>
+<ul>
+<li>Direct contact</li>
+<li>Droplet spread</li>
+<li><span class="correct" data-explanation="Vector-borne transmission occurs when a living arthropod carries the agent between hosts. In malaria it is biological (cyclo-developmental) transmission in the Anopheles mosquito.">Vector-borne transmission</span></li>
+<li>Fomite transmission</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-3" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 3</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-3" class="quiz-question">
+<h3>Question 3</h3>
+<p>A typhoid patient continues to excrete S. Typhi in stools for several weeks after clinical recovery. This person is a:</p>
+<ul>
+<li>Incubatory carrier</li>
+<li><span class="correct" data-explanation="A convalescent carrier sheds the agent after clinical recovery. If shedding lasts more than a year, the person is a chronic carrier, which is typical of typhoid (gall bladder).">Convalescent carrier</span></li>
+<li>Healthy carrier</li>
+<li>Contact</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-4" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 4</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-4" class="quiz-question">
+<h3>Question 4</h3>
+<p>In a household of 6, one person develops measles (the primary case). One other member is already immune. Within one incubation period, 2 more members develop measles. The secondary attack rate is:</p>
+<ul>
+<li>33%</li>
+<li>40%</li>
+<li><span class="correct" data-explanation="SAR = new cases among susceptible contacts ÷ susceptible contacts × 100. The denominator excludes the primary case and the immune member: 6 − 1 − 1 = 4 susceptible contacts. SAR = 2/4 = 50%. Using all 5 contacts (40%) is the classic error.">50%</span></li>
+<li>60%</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-5" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 5</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-5" class="quiz-question">
+<h3>Question 5</h3>
+<p>The time interval between receipt of infection by a host and maximal infectivity of that host is called the:</p>
+<ul>
+<li>Incubation period</li>
+<li>Serial interval</li>
+<li><span class="correct" data-explanation="Generation time runs from infection to maximal infectivity. The serial interval is the gap between onsets of primary and secondary cases. The incubation period runs from infection to the first symptom.">Generation time</span></li>
+<li>Communicable period</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-6" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 6</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-6" class="quiz-question">
+<h3>Question 6</h3>
+<p>If a disease has a basic reproduction number (R₀) of less than 1 in a population, the disease will:</p>
+<ul>
+<li>Spread as an epidemic</li>
+<li>Remain endemic at a stable level</li>
+<li><span class="correct" data-explanation="Each case produces fewer than one new case on average, so transmission chains shorten and the outbreak dies out. R₀ = 1 gives stable endemicity, and R₀ > 1 gives epidemic potential.">Gradually die out</span></li>
+<li>Become pandemic</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-7" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 7</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-7" class="quiz-question">
+<h3>Question 7</h3>
+<p>The case fatality rate of a disease is a measure of the agent’s:</p>
+<ul>
+<li>Infectivity</li>
+<li>Pathogenicity</li>
+<li><span class="correct" data-explanation="Virulence is the severity of disease, measured by the CFR. Infectivity is measured by attack rates, and pathogenicity by clinical cases ÷ infections.">Virulence</span></li>
+<li>Infective dose</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-8" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 8</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-8" class="quiz-question">
+<h3>Question 8</h3>
+<p>Poliovirus produces paralysis in less than 1% of those it infects. This reflects the virus’s low:</p>
+<ul>
+<li>Infectivity</li>
+<li><span class="correct" data-explanation="Polio spreads easily (high infectivity), but most infections are inapparent. The ability to cause clinical disease, pathogenicity, is low.">Pathogenicity</span></li>
+<li>Communicability</li>
+<li>Herd immunity</li>
+</ul>
+</section>
+</section>
+<section id="lecture-11-immunity-and-immunising-agents" class="slide level2 center" data-background-color="#E6EEF5">
+<h2>Lecture 11: Immunity and Immunising Agents</h2>
+<p>📚 <strong>Lecture 11 of 15</strong> · <strong>CM7.L11</strong></p>
+<p><em>Immunity and immunising agents</em></p>
+</section>
+<section id="types-of-immunity" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Types of Immunity</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/immunity_types.svg" class="slide-img" width="920"></p>
+<figcaption>Types of immunity</figcaption>
+</figure>
+</div>
+</section>
+<section id="active-vs-passive-immunity" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Active vs Passive Immunity</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Active immunity</th>
+<th>Passive immunity</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Produced by</strong></td>
+<td>The host’s own immune system</td>
+<td>Ready-made antibodies from another source</td>
+</tr>
+<tr class="even">
+<td><strong>Induced by</strong></td>
+<td>Infection or vaccination</td>
+<td>Maternal transfer; immunoglobulins, antisera</td>
+</tr>
+<tr class="odd">
+<td><strong>Onset</strong></td>
+<td>Slow (lag phase of 1–2 weeks or more)</td>
+<td>Immediate</td>
+</tr>
+<tr class="even">
+<td><strong>Duration</strong></td>
+<td>Long-lasting (years)</td>
+<td>Short (weeks to months)</td>
+</tr>
+<tr class="odd">
+<td><strong>Memory and boosters</strong></td>
+<td>Immunological memory; boosters effective</td>
+<td>No memory</td>
+</tr>
+<tr class="even">
+<td><strong>Use</strong></td>
+<td>Prophylaxis</td>
+<td>Immediate protection, treatment, immunodeficiency</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Combined active–passive:</strong> rabies post-exposure (RIG + vaccine) and tetanus-prone wounds (TIG + TT/Td) give immediate <em>and</em> lasting protection.</p>
 </section>
 <section id="herd-immunity" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Herd Immunity</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Herd immunity</strong> is indirect protection of susceptible individuals when a sufficiently high proportion of a population is immune, breaking chains of transmission even for those who aren’t immune themselves.</p>
+<p><strong>Herd immunity</strong> is the level of resistance of a community to an infection. When a high proportion is immune, chains of transmission break and even non-immune individuals are protected.</p>
 <p><strong>Herd immunity threshold (HIT):</strong></p>
 <p><code>HIT = 1 − (1 / R₀)</code></p>
-<p><strong>Example:</strong> a disease with R₀ = 3 needs roughly two-thirds (66%) of the population immune to interrupt sustained transmission.</p>
+<p><strong>Example:</strong> a disease with R₀ = 3 needs about 67% of the population immune, and measles (R₀ about 15) needs more than 90%.</p>
+<ul>
+<li>It depends on clinical and subclinical infections, immunization coverage, and the herd structure (density, mixing)</li>
+<li>It does <strong>not</strong> protect against tetanus, which has no person-to-person spread</li>
+</ul>
+</section>
+<section id="herd-immunity-how-it-works" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Herd Immunity: How It Works</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/herd_immunity.svg" class="slide-img" width="920"></p>
+<figcaption>Low vs high immunization coverage</figcaption>
+</figure>
+</div>
+</section>
+<section id="immunizing-agents" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Immunizing Agents</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Agent</th>
+<th>What it is</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Vaccines</strong></td>
+<td>Antigens that induce <strong>active</strong> immunity</td>
+<td>See next slide</td>
+</tr>
+<tr class="even">
+<td><strong>Immunoglobulins: normal human</strong></td>
+<td>Pooled human IgG</td>
+<td>Hepatitis A, measles post-exposure</td>
+</tr>
+<tr class="odd">
+<td><strong>Immunoglobulins: specific (hyperimmune) human</strong></td>
+<td>IgG from donors with high specific titres</td>
+<td>HBIG, RIG, TIG, VZIG</td>
+</tr>
+<tr class="even">
+<td><strong>Antisera / antitoxins</strong></td>
+<td>Animal-derived (usually equine) antibody</td>
+<td>Anti-snake venom, anti-diphtheritic serum, equine RIG</td>
+</tr>
+</tbody>
+</table>
+<p>Antisera carry a risk of <strong>serum sickness and anaphylaxis</strong>. Give a test dose and keep adrenaline ready. Human immunoglobulins are preferred where available.</p>
+</section>
+<section id="types-of-vaccines" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Types of Vaccines</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>How it works</th>
+<th>Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Live attenuated</strong></td>
+<td>Weakened live organism; strong, long-lasting immunity from few doses</td>
+<td>BCG, OPV, MR/MMR, rotavirus, yellow fever</td>
+</tr>
+<tr class="even">
+<td><strong>Killed / inactivated</strong></td>
+<td>Whole organism inactivated; safer in the immunocompromised, but needs boosters</td>
+<td>IPV, rabies (cell culture), whole-cell pertussis</td>
+</tr>
+<tr class="odd">
+<td><strong>Toxoid</strong></td>
+<td>Inactivated bacterial toxin, not the organism</td>
+<td>Tetanus, diphtheria</td>
+</tr>
+<tr class="even">
+<td><strong>Subunit / recombinant / conjugate</strong></td>
+<td>A specific antigenic component</td>
+<td>Hepatitis B, Hib, PCV, HPV</td>
+</tr>
+<tr class="odd">
+<td><strong>Newer platforms</strong></td>
+<td>mRNA, viral vector</td>
+<td>COVID-19 vaccines</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Exam tip:</strong> live vaccines are generally contraindicated in pregnancy and in immunocompromised people, because the attenuated organism can still replicate.</p>
+</section>
+<section id="cold-chain-and-aefi" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Cold Chain and AEFI</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Cold chain</strong> is the system of storing and transporting vaccines at recommended temperatures from manufacturer to beneficiary, at <strong>+2 °C to +8 °C</strong>.</p>
+<ul>
+<li>Equipment: walk-in coolers and freezers → ILR and deep freezer (PHC) → cold box → vaccine carrier with conditioned ice packs</li>
+<li><strong>Heat-sensitive</strong>: OPV (most), measles/MR, BCG. <strong>Freeze-sensitive (never freeze)</strong>: Hep B, pentavalent, DPT, TT/Td, IPV, PCV. Freezing is checked with the <strong>shake test</strong>.</li>
+<li><strong>Vaccine Vial Monitor (VVM)</strong>: a heat-exposure indicator. Discard the vial when the inner square matches or is darker than the outer circle.</li>
+</ul>
+<p><strong>AEFI (adverse event following immunization):</strong> any untoward medical occurrence after immunization, not necessarily caused by the vaccine.</p>
+<ul>
+<li>WHO causes: vaccine product-related, quality defect-related, <strong>immunization error-related</strong>, <strong>immunization anxiety-related</strong>, and <strong>coincidental</strong></li>
+<li>Serious AEFIs (death, hospitalization, disability, clusters) must be reported and investigated</li>
+</ul>
+</section>
+<section id="the-cold-chain" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>The Cold Chain</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/cold_chain.svg" class="slide-img" width="920"></p>
+<figcaption>Cold chain from manufacturer to session site</figcaption>
+</figure>
+</div>
+</section>
+<section id="vaccine-vial-monitor" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Vaccine Vial Monitor</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/vvm_stages.svg" class="slide-img" width="920"></p>
+<figcaption>Four stages of the vaccine vial monitor</figcaption>
+</figure>
+</div>
+<p>Check the VVM before <strong>every</strong> use. The <strong>shake test</strong> detects freezing damage, which the VVM does not show.</p>
+</section>
+<section id="case-scenario-dog-bite-and-a-vaccine-carrier" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Dog Bite and a Vaccine Carrier</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>A 25-year-old unimmunized man has <strong>deep bites with bleeding on the hand</strong> from a stray dog (category III). At the PHC, the nurse finds that the inner square of the anti-rabies vaccine VVM <strong>matches the outer circle</strong>.</p>
+<ol type="1">
+<li>What immunization does he need, and what kind of immunity does each component give?</li>
+<li>Why give both?</li>
+<li>Can the vial be used?</li>
+</ol>
+</section>
+<section id="case-scenario-dog-bite-and-a-vaccine-carrier-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Dog Bite and a Vaccine Carrier, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li><strong>Wound wash</strong> with soap and running water for 15 minutes. <strong>Rabies immunoglobulin</strong> infiltrated into the wounds gives <strong>artificial passive</strong> immunity. <strong>Anti-rabies vaccine</strong> (e.g.&nbsp;IM on days 0, 3, 7, 14, 28, or the intradermal schedule) gives <strong>artificial active</strong> immunity. Add tetanus prophylaxis.</li>
+<li>RIG protects <strong>immediately</strong>, during the 1–2 weeks before vaccine-induced antibody appears. The vaccine gives <strong>lasting</strong> protection. This is <strong>combined passive–active immunization</strong>.</li>
+<li><strong>No.</strong> A VVM at <strong>stage 3</strong> (square matches circle) means too much heat exposure: <strong>discard</strong> it and use a vial at stage 1 or 2.</li>
+</ul>
+</section>
+<section id="open-vial-policy-and-the-uip-schedule" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Open Vial Policy and the UIP Schedule</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Open Vial Policy (MoHFW, revised Sept 2015):</strong> a partly used multi-dose vial of <strong>DPT, TT/Td, Hepatitis B, OPV, pentavalent or IPV</strong> can be used at later sessions for <strong>up to 28 days</strong> after opening, provided:</p>
+<ul>
+<li>it is within its <strong>expiry date</strong></li>
+<li>the <strong>VVM</strong> is still usable (stage 1 or 2)</li>
+<li>it was stored at <strong>+2 °C to +8 °C</strong>, not submerged in water and not contaminated</li>
+<li>the <strong>date and time of opening</strong> are written on the vial</li>
+</ul>
+<p><strong>Not covered:</strong> reconstituted vaccines (<strong>BCG, measles/MR, JE</strong>). Discard these at the end of the session, or within 4 hours of reconstitution, whichever is earlier.</p>
+<p>The national schedule (UIP, Mission Indradhanush, U-WIN) is in <a href="../programs/preventive-medicine.html#lecture-10-uip-mission-indradhanush-u-win-and-cold-chain">Lecture 10 of Preventive Medicine</a>.</p>
+<p><em>Policy details retrieved 28 Oct 2026. Check the latest MoHFW circular.</em></p>
+</section>
+<section id="practice-questions-descriptive-lecture-11" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 11)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Classify immunity with examples. Differentiate active and passive immunity.</li>
+<li>Describe the immunizing agents: vaccines, immunoglobulins and antisera.</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="3" type="1">
+<li>Herd immunity.</li>
+<li>Cold chain.</li>
+<li>Adverse events following immunization (AEFI).</li>
+<li>Live vs killed vaccines.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-11-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 11, contd.)</h2>
+<p><strong>Short Notes (additional)</strong></p>
+<ol start="7" type="1">
+<li>Open vial policy.</li>
+</ol>
+</section>
+<section id="self-check-question-9" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 9</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-9" class="quiz-question">
+<h3>Question 9</h3>
+<p>A disease has R₀ = 4. What proportion of the population must be immune to reach the herd immunity threshold?</p>
+<ul>
+<li>25%</li>
+<li>50%</li>
+<li><span class="correct" data-explanation="HIT = 1 − 1/R₀ = 1 − 1/4 = 0.75, or 75%.">75%</span></li>
+<li>100%</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-10" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 10</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-10" class="quiz-question">
+<h3>Question 10</h3>
+<p>Immunity acquired by a newborn from maternal antibodies transferred across the placenta is:</p>
+<ul>
+<li>Natural active immunity</li>
+<li><span class="correct" data-explanation="Ready-made antibodies from another person give passive immunity, and placental or breast-milk transfer is natural. It is immediate but short-lived (about 6 months).">Natural passive immunity</span></li>
+<li>Artificial active immunity</li>
+<li>Artificial passive immunity</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-11" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 11</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-11" class="quiz-question">
+<h3>Question 11</h3>
+<p>Administration of tetanus immunoglobulin to an unimmunized patient with a contaminated wound provides:</p>
+<ul>
+<li>Natural active immunity</li>
+<li>Natural passive immunity</li>
+<li>Artificial active immunity</li>
+<li><span class="correct" data-explanation="Ready-made antibody given by injection gives artificial passive immunity: immediate but temporary. The tetanus toxoid given alongside induces artificial active immunity.">Artificial passive immunity</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-12" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 12</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-12" class="quiz-question">
+<h3>Question 12</h3>
+<p>Which of the following is a live attenuated vaccine?</p>
+<ul>
+<li>Tetanus toxoid</li>
+<li>Hepatitis B vaccine</li>
+<li><span class="correct" data-explanation="BCG, OPV, measles/MR/MMR, rotavirus and yellow fever are live attenuated. TT is a toxoid, Hep B a recombinant subunit, and IPV a killed vaccine.">BCG</span></li>
+<li>Inactivated polio vaccine (IPV)</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-13" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 13</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-13" class="quiz-question">
+<h3>Question 13</h3>
+<p>Which of the following vaccines is the MOST heat-sensitive?</p>
+<ul>
+<li>BCG</li>
+<li><span class="correct" data-explanation="OPV is the most heat-sensitive vaccine. Freezing does not damage it, so it can be stored frozen at district level. TT, Hep B and pentavalent are freeze-sensitive and must never be frozen.">Oral polio vaccine (OPV)</span></li>
+<li>Tetanus toxoid</li>
+<li>Hepatitis B</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-14" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 14</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-14" class="quiz-question">
+<h3>Question 14</h3>
+<p>The Vaccine Vial Monitor (VVM) on a vial indicates:</p>
+<ul>
+<li>Whether the vaccine has been frozen</li>
+<li><span class="correct" data-explanation="The VVM is a heat-sensitive label. If the inner square matches or is darker than the outer circle, the vaccine has had too much heat and must be discarded. Freezing damage is checked with the shake test.">Cumulative heat exposure of the vial</span></li>
+<li>The expiry date of the vaccine</li>
+<li>Whether the vial has been opened</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-15" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 15</h2>
+<p>🧡 <strong>QUESTION (select ALL that apply)</strong></p>
+<section id="question-15" class="quiz-question quiz-multiple">
+<h3>Question 15</h3>
+<p>Which of the following are recognized causes in the WHO classification of adverse events following immunization (AEFI)?</p>
+<ul>
+<li><span class="correct" data-explanation="WHO cause-specific categories: vaccine product-related, vaccine quality defect-related, immunization error-related, immunization anxiety-related, and coincidental events.">Vaccine product-related reaction</span></li>
+<li><span class="correct">Immunization error-related reaction</span></li>
+<li><span class="correct">Immunization anxiety-related reaction</span></li>
+<li><span class="correct">Coincidental event</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-16" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 16</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-16" class="quiz-question">
+<h3>Question 16</h3>
+<p>Under India’s Open Vial Policy, which opened vaccine vial must be discarded at the end of the session and cannot be used at a later session?</p>
+<ul>
+<li>Pentavalent</li>
+<li>Hepatitis B</li>
+<li><span class="correct" data-explanation="Reconstituted vaccines (BCG, MR, JE) are discarded at the end of the session or within 4 hours. DPT, TT/Td, Hep B, OPV, pentavalent and IPV can be reused for up to 28 days if the conditions are met.">Measles-Rubella (MR)</span></li>
+<li>OPV</li>
+</ul>
+</section>
+</section>
+<section id="lecture-12-disease-prevention-control-and-disinfection" class="slide level2 center" data-background-color="#E6EEF5">
+<h2>Lecture 12: Disease Prevention, Control, and Disinfection</h2>
+<p>📚 <strong>Lecture 12 of 15</strong> · <strong>CM7.L12</strong></p>
+<p><em>Disease prevention and control; disinfection</em></p>
+</section>
+<section id="control-of-communicable-diseases" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Control of Communicable Diseases</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/control_framework.svg" class="slide-img" width="920"></p>
+<figcaption>Three groups of control measures</figcaption>
+</figure>
+</div>
+</section>
+<section id="controlling-the-reservoir" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Controlling the Reservoir</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<ul>
+<li><strong>Early diagnosis</strong>: treatment, epidemiological investigation, early control</li>
+<li><strong>Notification</strong>: legal reporting of notifiable diseases to the health authority. Internationally notifiable events go through the IHR (2005).</li>
+<li><strong>Epidemiological investigation</strong>: find the source and the contacts</li>
+<li><strong>Isolation</strong>: separate infected <em>cases</em> for their period of communicability</li>
+<li><strong>Treatment</strong>: cuts the period of communicability, as in TB, leprosy and STIs</li>
+<li><strong>Quarantine</strong>: restrict healthy <em>contacts</em> for the <strong>longest incubation period</strong></li>
+<li><strong>Disinfection</strong>: concurrent and terminal (next slides)</li>
+</ul>
+</section>
+<section id="isolation-vs.-quarantine" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Isolation vs.&nbsp;Quarantine</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<ul>
+<li><strong>Isolation</strong>: separating a person <strong>already known to be infected</strong> from others until they are no longer infectious. Types include standard, strict, respiratory, enteric and contact isolation.</li>
+<li><strong>Quarantine</strong>: restricting a <strong>healthy person exposed</strong> to a communicable disease, for a period equal to the <strong>longest incubation period</strong>, to see whether disease develops
+<ul>
+<li><em>Absolute (complete) quarantine</em>: full restriction of movement</li>
+<li><em>Modified quarantine</em>: selective restriction (e.g.&nbsp;excluding children from school)</li>
+<li><em>Segregation</em>: separating a group for observation</li>
+</ul></li>
+</ul>
+<p>Both are control measures on different links of the chain. Isolation removes an active source, and quarantine stops transmission from a possible future case.</p>
 </section>
 <section id="levels-of-prevention-applied-to-communicable-disease" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Levels of Prevention Applied to Communicable Disease</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p>Chapter 2’s levels of prevention map directly onto infectious disease control:</p>
 <table class="caption-top">
 <colgroup>
 <col style="width: 50%">
@@ -345,28 +1109,321 @@
 </tr>
 <tr class="even">
 <td><strong>Primary</strong></td>
-<td>Immunization, vector control, safe water</td>
+<td>Immunization, chemoprophylaxis, vector control, safe water, health education</td>
 </tr>
 <tr class="odd">
 <td><strong>Secondary</strong></td>
-<td>Case detection, contact tracing, early treatment</td>
+<td>Case detection, contact tracing, early treatment, screening (e.g.&nbsp;TB active case finding)</td>
 </tr>
 <tr class="even">
 <td><strong>Tertiary</strong></td>
-<td>Rehabilitation from disease sequelae (e.g.&nbsp;post-polio care)</td>
+<td>Disability limitation and rehabilitation from sequelae (e.g.&nbsp;post-polio, leprosy deformities)</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="lecture-11-immunity-and-immunising-agents" class="slide level2 center" data-background-color="#E6EEF5">
-<h2>Lecture 11: Immunity and Immunising Agents</h2>
-<p>📚 <strong>Lecture 11 of 15</strong> · <strong>CM7.L11</strong></p>
-<p><em>Immunity and immunising agents</em></p>
+<section id="control-elimination-eradication-recap" class="slide level2 center" data-background-color="#E8E4F3">
+<h2>Control, Elimination, Eradication: Recap</h2>
+<p>🟣 <strong>RECAP</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Term</th>
+<th>Meaning</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Control</strong></td>
+<td>Reduce incidence, prevalence and mortality to a locally acceptable level</td>
+<td>Malaria and TB control</td>
+</tr>
+<tr class="even">
+<td><strong>Elimination</strong></td>
+<td>Interrupt transmission in a defined area; vigilance continues</td>
+<td>Polio-free India (2014), yaws (2016), maternal and neonatal tetanus (2015)</td>
+</tr>
+<tr class="odd">
+<td><strong>Eradication</strong></td>
+<td>Worldwide termination of infection; the agent no longer exists in nature</td>
+<td><strong>Smallpox</strong> (1980) is the only human example</td>
+</tr>
+</tbody>
+</table>
+<p>Full treatment: <a href="../foundations/concept-health-disease.html#concept-of-control-control-elimination-and-eradication">Concept of Control</a> and <a href="../foundations/concept-health-disease.html#monitoring-surveillance-and-evaluation-of-control">Monitoring, Surveillance, and Evaluation of Control</a> in Chapter 2.</p>
 </section>
-<section id="types-of-vaccines" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Types of Vaccines</h2>
+<section id="disinfection-definitions-and-types" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Disinfection: Definitions and Types</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<ul>
+<li><strong>Disinfection</strong>: killing infectious agents outside the body by chemical or physical means. Spores may survive.</li>
+<li><strong>Sterilization</strong>: destruction of <strong>all</strong> microorganisms, including spores</li>
+<li><strong>Antiseptic</strong>: inhibits or kills organisms on living tissue. <strong>Deodorant</strong>: suppresses odours only.</li>
+</ul>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>When</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Concurrent</strong></td>
+<td>Immediately, throughout the illness, on infectious discharges and soiled articles</td>
+<td>Disinfecting a cholera patient’s stools and linen daily</td>
+</tr>
+<tr class="even">
+<td><strong>Terminal</strong></td>
+<td>Once, after the patient has gone (recovery, transfer, death)</td>
+<td>Cleaning the sickroom, bedding and furniture</td>
+</tr>
+<tr class="odd">
+<td><strong>Precurrent (prophylactic)</strong></td>
+<td>Before any case, as a preventive measure</td>
+<td>Water chlorination, milk pasteurization, hand washing</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="disinfection-agents-and-uses" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Disinfection: Agents and Uses</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>Immunizing agents used for primary prevention fall into distinct categories, each with different implications for immunity and administration:</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Group</th>
+<th>Agents</th>
+<th>Typical uses</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Natural</strong></td>
+<td>Sunlight (UV), air</td>
+<td>Bedding, mattresses</td>
+</tr>
+<tr class="even">
+<td><strong>Physical</strong></td>
+<td>Burning, hot air (oven), <strong>boiling</strong> (15–30 min), <strong>autoclave</strong> (121 °C, 15 lb/in², 15–20 min), radiation</td>
+<td>Dressings (burning), glassware (hot air), surgical items (autoclave)</td>
+</tr>
+<tr class="odd">
+<td><strong>Chemical: halogens</strong></td>
+<td>Bleaching powder (about 33% available chlorine), sodium hypochlorite, chlorine</td>
+<td>Water, faeces, urine, floors</td>
+</tr>
+<tr class="even">
+<td><strong>Chemical: others</strong></td>
+<td>Phenol and cresol (lysol), alcohols (70%), formaldehyde (fumigation), glutaraldehyde, quaternary ammonium compounds, iodophors</td>
+<td>Excreta, skin, rooms, endoscopes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Choosing an agent:</strong> consider the target organism, the material, organic load, contact time, toxicity and cost. Biomedical waste is managed under the BMW Management Rules, 2016.</p>
+</section>
+<section id="case-scenario-a-cholera-case-at-home" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: A Cholera Case at Home</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>A confirmed cholera case is being treated at home in a village with a shared well. The family of 6 lives in two rooms.</p>
+<ol type="1">
+<li>What concurrent disinfection is needed?</li>
+<li>What is done when the patient recovers?</li>
+<li>How will you manage the contacts and the well?</li>
+</ol>
+</section>
+<section id="case-scenario-a-cholera-case-at-home-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: A Cholera Case at Home, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li><strong>Concurrent:</strong> disinfect stools and vomit with bleaching powder or hypochlorite before disposal in a latrine. Soak soiled linen in hypochlorite solution or boil it. Wash hands with soap.</li>
+<li><strong>Terminal:</strong> clean the room, floor and furniture with hypochlorite solution, and wash or sun-dry the bedding</li>
+<li><strong>Contacts:</strong> surveillance for <strong>5 days</strong> (the maximum incubation), with <strong>selective chemoprophylaxis</strong> for household contacts (e.g.&nbsp;single-dose doxycycline for adults). Mass chemoprophylaxis is <em>not</em> recommended.</li>
+<li><strong>Well:</strong> chlorinate it and test residual chlorine. <strong>Notify</strong> through IDSP, give ORS and health education.</li>
+</ul>
+</section>
+<section id="practice-questions-descriptive-lecture-12" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 12)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Describe the methods for the control of communicable diseases: controlling the reservoir, interrupting transmission, and protecting the susceptible host.</li>
+<li>Define disinfection. Describe its types and the agents used, with their applications.</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="3" type="1">
+<li>Isolation vs quarantine.</li>
+<li>Concurrent and terminal disinfection.</li>
+<li>Chemoprophylaxis.</li>
+</ol>
+</section>
+<section id="self-check-question-17" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 17</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-17" class="quiz-question">
+<h3>Question 17</h3>
+<p>A person who was exposed to a confirmed case, but has no symptoms and unknown infection status, is placed in separate accommodation for the incubation period of the disease. This is:</p>
+<ul>
+<li>Isolation</li>
+<li><span class="correct" data-explanation="Quarantine applies to exposed but not-yet-confirmed individuals, for the longest incubation period of the disease. Isolation applies to known cases.">Quarantine</span></li>
+<li>Ring vaccination</li>
+<li>Contact tracing</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-18" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 18</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-18" class="quiz-question">
+<h3>Question 18</h3>
+<p>Disinfection of the sickroom, its contents and bedding after the patient has been removed by recovery, death or transfer is called:</p>
+<ul>
+<li>Concurrent disinfection</li>
+<li><span class="correct" data-explanation="Terminal disinfection is done once, after the source has gone. Concurrent disinfection is applied immediately to infectious discharges during the illness. Precurrent (prophylactic) disinfection is done in advance, as with water chlorination.">Terminal disinfection</span></li>
+<li>Precurrent disinfection</li>
+<li>Sterilization</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-19" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 19</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-19" class="quiz-question">
+<h3>Question 19</h3>
+<p>Chlorination of a community water supply is an example of:</p>
+<ul>
+<li>Concurrent disinfection</li>
+<li>Terminal disinfection</li>
+<li><span class="correct" data-explanation="Precurrent disinfection is a preventive measure applied before any case occurs: water chlorination, pasteurization, hand washing.">Precurrent (prophylactic) disinfection</span></li>
+<li>Sterilization</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-20" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 20</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-20" class="quiz-question">
+<h3>Question 20</h3>
+<p>Giving rifampicin to the household contacts of a case of meningococcal meningitis is an example of:</p>
+<ul>
+<li>Controlling the reservoir</li>
+<li>Interrupting transmission</li>
+<li><span class="correct" data-explanation="Chemoprophylaxis, giving a drug to prevent infection or disease, protects susceptible contacts. Isolation and treatment of the case act on the reservoir.">Chemoprophylaxis to protect the susceptible host</span></li>
+<li>Active immunization</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-21" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 21</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-21" class="quiz-question">
+<h3>Question 21</h3>
+<p>Which measure acts on the RESERVOIR link of the chain of infection?</p>
+<ul>
+<li><span class="correct" data-explanation="Early diagnosis, notification, isolation, treatment and quarantine control the reservoir. Vector control and water treatment interrupt transmission. Immunization protects the susceptible host.">Early diagnosis and treatment of cases</span></li>
+<li>Vector control</li>
+<li>Water chlorination</li>
+<li>Immunization of contacts</li>
+</ul>
+</section>
+</section>
+<section id="lecture-13-epidemic-investigation-and-surveillance" class="slide level2 center" data-background-color="#E6EEF5">
+<h2>Lecture 13: Epidemic Investigation and Surveillance</h2>
+<p>📚 <strong>Lecture 13 of 15</strong> · <strong>CM7.L13</strong></p>
+<p><em>Investigation of an epidemic; surveillance (IDSR / IHIP)</em></p>
+</section>
+<section id="outbreak-investigation-the-10-steps" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Outbreak Investigation: The 10 Steps</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>The standard CDC-style sequence for investigating a suspected outbreak:</p>
+<ol type="1">
+<li>Prepare for field work</li>
+<li>Establish the existence of an outbreak (compare with expected numbers)</li>
+<li>Verify the diagnosis</li>
+<li>Define and identify cases (case definition, active case search)</li>
+<li>Describe data by time, place and person (epidemic curve, spot map)</li>
+<li>Develop hypotheses</li>
+<li>Evaluate hypotheses (case-control or cohort study)</li>
+<li>Refine hypotheses and conduct additional studies (laboratory, environmental)</li>
+<li>Implement control and prevention measures</li>
+<li>Communicate findings (report)</li>
+</ol>
+<p>In practice the steps overlap. Control measures often start before the investigation formally ends. Park and the textbook put <strong>verification of the diagnosis</strong> as the <em>very first</em> step (next slide).</p>
+</section>
+<section id="investigation-of-an-epidemic-parks-steps" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Investigation of an Epidemic: Park’s Steps</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<ol type="1">
+<li><strong>Verification of the diagnosis</strong>: clinical examination of a sample of cases, plus laboratory confirmation</li>
+<li><strong>Confirmation of the existence of an epidemic</strong>: compare with the same period of the <strong>previous 3 years</strong></li>
+<li><strong>Defining the population at risk</strong>: a map of the area, and the population denominator</li>
+<li><strong>Rapid search for all cases</strong>: a <strong>line list</strong> (nominal roll of reported cases), active house-to-house search, and the epidemiological case sheet</li>
+<li><strong>Data analysis</strong>: time (epidemic curve), place (spot map), person (age, sex, occupation)</li>
+<li><strong>Formulation of a hypothesis</strong>: source, mode of spread, population affected</li>
+<li><strong>Testing the hypothesis</strong>: compare attack rates in the exposed and unexposed (case-control or cohort)</li>
+<li><strong>Evaluation of ecological factors</strong>: sanitation, water, vectors, food handling</li>
+<li><strong>Further investigation of the population at risk</strong>: e.g.&nbsp;serological surveys</li>
+<li><strong>Writing the report</strong>: with control measures and recommendations</li>
+</ol>
+</section>
+<section id="case-scenario-typhoid-in-one-locality" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Typhoid in One Locality</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>A health officer sees that reported <strong>typhoid</strong> cases in a town have <strong>doubled</strong> this month compared with the same month last year. <strong>Most cases cluster in one locality.</strong></p>
+<ol type="1">
+<li>What epidemiological phenomenon is suggested?</li>
+<li>Which measure of frequency is being compared?</li>
+<li>What is the first step of investigation?</li>
+<li>Name two possible sources of infection.</li>
+<li>How does epidemiology help plan control?</li>
+</ol>
+</section>
+<section id="case-scenario-typhoid-in-one-locality-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Typhoid in One Locality, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li>An <strong>epidemic (outbreak)</strong>: cases clearly in excess of the expected level. The clustering suggests a <strong>common source</strong>.</li>
+<li><strong>Incidence</strong> (new cases, i.e.&nbsp;an attack rate), compared with the same period in previous years (ideally 3)</li>
+<li><strong>Verify the diagnosis</strong> (blood culture), then <strong>confirm the existence of the epidemic</strong></li>
+<li>A <strong>contaminated water supply</strong> (a leaking pipe with sewage cross-connection), or <strong>food from a common vendor or a carrier food handler</strong></li>
+<li>Time-place-person analysis (spot map, epidemic curve) pinpoints the source, which is then targeted: chlorination and pipe repair, food hygiene, treating cases and carriers, typhoid conjugate vaccine for high-risk groups, health education and continued surveillance.</li>
+</ul>
+</section>
+<section id="the-epidemiological-case-sheet" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>The Epidemiological Case Sheet</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>A standard case investigation form is filled for every case during an epidemic. It records:</p>
+<ul>
+<li><strong>Identification</strong>: name, age, sex, address (for spot mapping), occupation</li>
+<li><strong>Clinical</strong>: date of onset (for the epidemic curve), symptoms, signs, severity, outcome</li>
+<li><strong>Exposure history</strong>: food, water, travel, gatherings, animal or vector contact within the incubation period</li>
+<li><strong>Contacts</strong>: household and others, with their immunization or prophylaxis status</li>
+<li><strong>Laboratory</strong>: specimens taken, results</li>
+<li><strong>Investigator</strong>: name and date</li>
+</ul>
+<p>Aggregating case sheets gives the time-place-person description from which hypotheses are formed.</p>
+</section>
+<section id="surveillance-definition-and-types" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Surveillance: Definition and Types</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><strong>Surveillance</strong> is the continuous, systematic collection, analysis and interpretation of health data, with timely dissemination to those who need to know, <em>for action</em>. In short: “information for action”.</p>
 <table class="caption-top">
 <colgroup>
 <col style="width: 33%">
@@ -377,116 +1434,602 @@
 <tr class="header">
 <th>Type</th>
 <th>How it works</th>
-<th>Examples</th>
+<th>Example</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Live attenuated</strong></td>
-<td>Weakened live organism; usually strong, long-lasting immunity from few doses</td>
-<td>BCG, OPV, MMR</td>
+<td><strong>Passive</strong></td>
+<td>Cases reported by health facilities on their own; cheap, under-reports</td>
+<td>Routine IDSP reporting</td>
 </tr>
 <tr class="even">
-<td><strong>Killed / inactivated</strong></td>
-<td>Whole organism inactivated; safer in immunocompromised hosts, but needs boosters</td>
-<td>Inactivated polio (IPV), rabies</td>
+<td><strong>Active</strong></td>
+<td>Health workers actively search for cases</td>
+<td>House-to-house fever surveillance (malaria)</td>
 </tr>
 <tr class="odd">
-<td><strong>Toxoid</strong></td>
-<td>Inactivated bacterial toxin, not the organism itself</td>
-<td>Tetanus, diphtheria</td>
+<td><strong>Sentinel</strong></td>
+<td>Selected sites report systematically; detects trends</td>
+<td>HIV sentinel surveillance, AFP sites</td>
 </tr>
 <tr class="even">
-<td><strong>Subunit / conjugate</strong></td>
-<td>Only a specific antigenic component, reducing side effects</td>
-<td>Hepatitis B, Hib</td>
+<td><strong>Syndromic</strong></td>
+<td>Reporting by syndrome before lab confirmation</td>
+<td>IDSP “S” form</td>
+</tr>
+<tr class="odd">
+<td><strong>Laboratory-based / event-based</strong></td>
+<td>Confirmed isolates; media and community alerts</td>
+<td>IDSP “L” form, media scanning</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Exam tip:</strong> live vaccines are generally contraindicated in pregnancy and immunocompromised individuals, since the attenuated organism can still replicate.</p>
 </section>
-<section id="lecture-12-disease-prevention-control-and-disinfection" class="slide level2 center" data-background-color="#E6EEF5">
-<h2>Lecture 12: Disease Prevention, Control, and Disinfection</h2>
-<p>📚 <strong>Lecture 12 of 15</strong> · <strong>CM7.L12</strong></p>
-<p><em>Disease prevention and control; disinfection</em></p>
+<section id="monitoring-vs-surveillance" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Monitoring vs Surveillance</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Monitoring</th>
+<th>Surveillance</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Definition</strong></td>
+<td>Ongoing measurement of an <strong>activity or programme</strong> to check that it runs as planned</td>
+<td>Continuous scrutiny of <strong>disease occurrence and its determinants</strong>, <em>for action</em></td>
+</tr>
+<tr class="even">
+<td><strong>Focus</strong></td>
+<td>Inputs, process, outputs, coverage</td>
+<td>Cases, deaths, risk factors, trends</td>
+</tr>
+<tr class="odd">
+<td><strong>Example</strong></td>
+<td>Monthly immunization coverage, drug stock, sessions held</td>
+<td>AFP surveillance, IDSP weekly reports</td>
+</tr>
+<tr class="even">
+<td><strong>Leads to</strong></td>
+<td>Correcting implementation</td>
+<td>Outbreak response, control measures</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Evaluation</strong> is periodic: it judges whether the programme achieved its <strong>objectives</strong> (effectiveness, efficiency, impact).</p>
 </section>
-<section id="isolation-vs.-quarantine" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Isolation vs.&nbsp;Quarantine</h2>
+<section id="notifiable-diseases-ihr-and-epidemic-thresholds" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Notifiable Diseases, IHR, and Epidemic Thresholds</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
 <ul>
-<li><strong>Isolation</strong> — separating a person <strong>already known to be infected</strong> (diagnosed or symptomatic) from others, until no longer contagious</li>
-<li><strong>Quarantine</strong> — separating a person who was <strong>exposed</strong> but is not yet known to be infected, for the duration of the incubation period, to see if disease develops</li>
-</ul>
-<p><strong>Both are control measures acting on different links of the chain of infection</strong> — isolation removes an active reservoir; quarantine interrupts transmission from a potential future case.</p>
-</section>
-<section id="carrier-states" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Carrier States</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>A <strong>carrier</strong> is an infected person who sheds the agent without (or before/after) showing overt disease — carriers matter because they’re often <em>missed</em> by clinical surveillance.</p>
+<li><strong>Notifiable diseases</strong>: diseases that must legally be reported to health authorities.
 <ul>
-<li><strong>By type:</strong> incubatory (sheds during incubation) · convalescent (continues shedding after clinical recovery, e.g.&nbsp;typhoid, cholera) · healthy (shedding without ever having overt disease, e.g.&nbsp;poliomyelitis)</li>
-<li><strong>By duration:</strong> temporary (short-lived shedding) vs.&nbsp;<strong>chronic</strong> (indefinite shedding — the greater public-health threat, since the longer the carrier state, the greater the cumulative community risk)</li>
-</ul>
-<p><strong>Why carriers matter more than cases, sometimes:</strong> a diagnosed case is usually isolated; an unrecognized chronic carrier keeps transmitting silently.</p>
-</section>
-<section id="incubation-period-and-related-intervals" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Incubation Period and Related Intervals</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p><strong>Incubation period</strong> — the time between exposure to an infectious agent and the first sign or symptom of disease. It depends on infective dose, portal of entry, and host susceptibility, and is used to set quarantine duration and trace likely sources.</p>
-<p>Two related, easily confused intervals:</p>
+<li>Internationally under the <strong>IHR</strong>.</li>
+<li>Nationally and by state: e.g.&nbsp;cholera, plague, TB (notifiable in India since 2012), AFP and polio, measles, diphtheria, dengue, Japanese encephalitis, and others as listed by each state.</li>
+</ul></li>
+<li><strong>International Health Regulations (2005)</strong>: legally binding on WHO member states. Every country has a <strong>National IHR Focal Point</strong> (NCDC, India), which must notify WHO <strong>within 24 hours</strong> of any event that may be a <strong>Public Health Emergency of International Concern (PHEIC)</strong>, assessed with the IHR decision instrument.
 <ul>
-<li><strong>Generation time</strong> — from receipt of infection to that host’s own peak infectivity</li>
-<li><strong>Serial interval</strong> — the gap between symptom onset in a primary case and symptom onset in a secondary case it infects</li>
+<li>Always notifiable: smallpox, wild polio, new human influenza subtype, SARS.</li>
+<li>Core capacities are required at points of entry.</li>
+</ul></li>
+<li><strong>Epidemic threshold</strong>: an alert level beyond which cases signal an outbreak, commonly the <strong>mean + 2 SD</strong> of the same weeks in previous years. IDSP flags clustering or rising trends for the Rapid Response Team.</li>
 </ul>
 </section>
-<section id="secondary-attack-rate" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Secondary Attack Rate</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p><strong>Secondary Attack Rate (SAR)</strong> measures how contagious a disease is within a close-contact group (e.g.&nbsp;a household), following exposure to a primary case:</p>
-<p><code>SAR = (New cases among contacts) / (Total susceptible contacts)</code></p>
-<p>Related concept — <strong>incubation period</strong>: the time between exposure to an infectious agent and the first appearance of symptoms; it determines how long quarantine should last.</p>
-</section>
-<section id="lecture-13-epidemic-investigation-and-surveillance" class="slide level2 center" data-background-color="#E6EEF5">
-<h2>Lecture 13: Epidemic Investigation and Surveillance</h2>
-<p>📚 <strong>Lecture 13 of 15</strong> · <strong>CM7.L13</strong></p>
-<p><em>Investigation of an epidemic; surveillance (IDSR / IHIP)</em></p>
-</section>
-<section id="outbreak-investigation-the-10-steps" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Outbreak Investigation: The 10 Steps</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>The standard CDC-style sequence for investigating a suspected outbreak:</p>
-<ol type="1">
-<li>Prepare for field work</li>
-<li>Establish the existence of an outbreak</li>
-<li>Verify the diagnosis</li>
-<li>Define and identify cases</li>
-<li>Describe data by time, place, and person</li>
-<li>Develop hypotheses</li>
-<li>Evaluate hypotheses</li>
-<li>Refine hypotheses / conduct additional studies</li>
-<li>Implement control and prevention measures</li>
-<li>Communicate findings</li>
-</ol>
-<p><em>(In practice these steps often overlap and don’t run strictly in order — control measures, for instance, are often started well before the investigation formally concludes.)</em></p>
-</section>
-<section id="disinfection-and-disease-surveillance-in-india" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Disinfection and Disease Surveillance in India</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p><strong>Disinfection</strong> — destroying pathogenic microorganisms on inanimate objects/surfaces (distinct from sterilization, which destroys <em>all</em> microorganisms including spores) — is a practical control measure applied at several links of the chain of infection above:</p>
+<section id="idsp-ihip-and-idsr" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>IDSP, IHIP, and IDSR</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
 <ul>
-<li><strong>Concurrent disinfection</strong> — carried out immediately, throughout the course of illness, on infectious discharges/materials as they occur (e.g.&nbsp;disinfecting a patient’s excreta daily during a diarrheal illness)</li>
-<li><strong>Terminal disinfection</strong> — carried out once, after the patient is no longer a source of infection (recovery, transfer, or death) — cleaning the sickroom and its contents</li>
-<li><strong>Physical methods</strong> — heat (boiling, autoclaving), sunlight, filtration</li>
-<li><strong>Chemical methods</strong> — chlorine compounds, phenolics, alcohols — selected by target organism, material compatibility, and cost</li>
+<li><strong>IDSP (Integrated Disease Surveillance Programme)</strong>, launched in <strong>2004</strong>, is a decentralized, laboratory-supported surveillance of epidemic-prone diseases. It has Rapid Response Teams at district and state level, and weekly reporting (Monday to Sunday).</li>
+<li>Reporting formats:
+<ul>
+<li><strong>S</strong> (syndromic: health workers, e.g.&nbsp;ASHA/MPW)</li>
+<li><strong>P</strong> (presumptive: medical officers)</li>
+<li><strong>L</strong> (laboratory-confirmed)</li>
+</ul></li>
+<li><strong>IHIP (Integrated Health Information Platform)</strong> is a web and mobile platform with near-real-time, case-based, GIS-enabled reporting. It was piloted from 2018 and rolled out nationwide in <strong>April 2021</strong>, replacing paper IDSP formats.</li>
+<li><strong>IDSR (Integrated Disease Surveillance and Response)</strong> is the WHO strategy (first adopted in the African Region) linking surveillance to <strong>response</strong> at every level. India’s IDSP/IHIP follows the same “surveillance for response” principle.</li>
 </ul>
-<p><strong>Disease surveillance infrastructure in India:</strong> outbreak investigation (the 10 steps above) depends on a functioning reporting system feeding it real-time data. India’s current platform is the <strong>Integrated Health Information Platform (IHIP)</strong>, run under the <strong>Integrated Disease Surveillance Programme (IDSP)</strong> — a web-enabled, near-real-time disease surveillance system that replaced the older paper-based IDSP reporting formats, enabling faster outbreak detection and the case-based data needed to trigger the investigation steps above.</p>
+<p><em>IHIP launch dates differ between sources: soft launch 2018, nationwide April 2021. Retrieved 28 Oct 2026.</em></p>
+</section>
+<section id="idsp-reporting-flow" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>IDSP Reporting Flow</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/idsp_flow.svg" class="slide-img" width="920"></p>
+<figcaption>S, P and L forms flow through IHIP to district, state and central units</figcaption>
+</figure>
+</div>
+</section>
+<section id="health-surveys" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Health Surveys</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Gives</th>
+<th>Note</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Cross-sectional</strong></td>
+<td>Prevalence</td>
+<td>Quick one-time snapshot</td>
+</tr>
+<tr class="even">
+<td><strong>Longitudinal</strong></td>
+<td><strong>Exact incidence</strong>, natural history</td>
+<td>Repeated observation of the same population</td>
+</tr>
+<tr class="odd">
+<td><strong>Hybrid</strong></td>
+<td>Both</td>
+<td>A cross-sectional baseline plus follow-up</td>
+</tr>
+<tr class="even">
+<td><strong>Hospital-based</strong></td>
+<td>Clinical patterns</td>
+<td>Not representative of the community</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>Universe</strong> (reference population) → study population → <strong>sample</strong>. Findings are generalized to the universe.</li>
+<li><strong>Analysis of a community (descriptive) survey:</strong> frequency distributions by age and sex, line diagrams of seasonal variation, and spot maps. Stratified analysis for confounding belongs to <em>analytical</em> studies.</li>
+<li><strong>Ethics:</strong> <strong>informed consent</strong>, <strong>confidentiality</strong>, and a <strong>health-care benefit</strong> such as treatment or referral for conditions found. A cash benefit is <em>not</em> an ethical requirement.</li>
+</ul>
+</section>
+<section id="computers-and-digital-health-in-epidemiology" class="slide level2 center" data-background-color="#E8E4F3">
+<h2>Computers and Digital Health in Epidemiology</h2>
+<p>🟣 <strong>MAY KNOW</strong></p>
+<ul>
+<li><strong>Software:</strong>
+<ul>
+<li><strong>Epi Info</strong> (CDC, with WHO): free; questionnaires, outbreak analysis, maps</li>
+<li>SPSS, STATA, R for statistics</li>
+<li>Excel (spreadsheet) for budgets and line lists</li>
+<li>Access, FoxPro, dBase for databases</li>
+</ul></li>
+<li><strong>PACS</strong> (Picture Archiving and Communication System) transmits radiology images for quick remote diagnosis</li>
+<li><strong>India’s digital health:</strong>
+<ul>
+<li><strong>IHIP</strong> (surveillance)</li>
+<li><strong>CoWIN</strong> (COVID-19 vaccination registration; now <strong>U-WIN</strong> for routine immunization)</li>
+<li><strong>Aarogya Setu</strong> (COVID-19 self-assessment and contact tracing)</li>
+<li><strong>NDHM</strong> (announced 15 Aug 2020), relaunched in Sept 2021 as the <strong>Ayushman Bharat Digital Mission (ABDM)</strong>: ABHA health IDs, health records, and registries of facilities and professionals</li>
+<li>eSanjeevani telemedicine</li>
+</ul></li>
+<li><strong>Helplines:</strong> 14567 (Elderline, senior citizens), 102 (ambulance), 1075 (COVID-19)</li>
+</ul>
 </section>
 <section id="explore-selected-diseases-in-depth" class="slide level2 center" data-background-color="#E8E4F3">
 <h2>Explore: Selected Diseases in Depth</h2>
 <p>🟣 <strong>MAY KNOW</strong></p>
-<p>The principles above apply to every communicable disease — six specific diseases are covered in dedicated modules, each with agent, clinical features, diagnosis, treatment, and control in full depth:</p>
+<p>The principles above apply to every communicable disease. Six specific diseases are covered in dedicated modules, each with agent, clinical features, diagnosis, treatment and control in full depth:</p>
 <p><a href="cd/module1_malaria.html"><strong>Malaria</strong></a> · <a href="cd/module2_typhoid_cholera.html"><strong>Typhoid Fever &amp; Cholera</strong></a> · <a href="cd/module3_viral_hepatitis.html"><strong>Viral Hepatitis</strong></a> · <a href="cd/module4_poliomyelitis.html"><strong>Poliomyelitis</strong></a> · <a href="cd/module5_food_poisoning.html"><strong>Food Poisoning &amp; Diarrhoeal Disease</strong></a> · <a href="cd/module6_hospital_acquired_infections.html"><strong>Hospital-Acquired Infections</strong></a></p>
 <p>Or browse the <a href="cd.html">module hub</a> for an overview of all six.</p>
+</section>
+<section id="practice-questions-descriptive-lecture-13" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 13)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Describe the steps in the investigation of an epidemic.</li>
+<li>Define surveillance. Describe its types and the Integrated Disease Surveillance Programme (IDSP/IHIP).</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="3" type="1">
+<li>Epidemiological case sheet for investigation of an epidemic.</li>
+<li>Sentinel surveillance.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-13-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 13, contd.)</h2>
+<p><strong>Case Scenario</strong></p>
+<ol start="5" type="1">
+<li>A health officer observes that the number of reported cases of typhoid fever in a town has doubled over the past month compared to the same period last year. Most cases are clustered around a specific locality.
+<ol type="a">
+<li>What epidemiological phenomenon is suggested by this observation?</li>
+<li>Which measure of disease frequency is being used for comparison?</li>
+<li>What is the first step the health officer should take to investigate this situation?</li>
+<li>Mention two possible sources of infection in this locality.</li>
+<li>How does epidemiology help in planning control measures in such situations?</li>
+</ol></li>
+</ol>
+<p><strong>University Examination Questions</strong></p>
+<ol start="6" type="1">
+<li>Enumerate the different types of epidemics. Write down the steps in the investigation of an epidemic.</li>
+<li>Monitoring and surveillance.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-13-contd.-1" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 13, contd.)</h2>
+<p><strong>Short Notes (additional)</strong></p>
+<ol start="8" type="1">
+<li>Monitoring vs surveillance.</li>
+<li>International Health Regulations (2005).</li>
+<li>Notifiable diseases.</li>
+</ol>
+</section>
+<section id="self-check-question-22" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 22</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-22" class="quiz-question">
+<h3>Question 22</h3>
+<p>In the standard outbreak-investigation sequence, “develop hypotheses” comes immediately after which step?</p>
+<ul>
+<li>Verify the diagnosis</li>
+<li><span class="correct" data-explanation="Descriptive epidemiology (time, place, person) generates hypotheses about the outbreak’s source, which is the very next step.">Describe data by time, place, and person</span></li>
+<li>Implement control measures</li>
+<li>Communicate findings</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-23" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 23</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-23" class="quiz-question">
+<h3>Question 23</h3>
+<p>On the IHIP platform under IDSP, the “P” form is used to report:</p>
+<ul>
+<li>Patients admitted to hospital</li>
+<li><span class="correct" data-explanation="S form: syndromic cases (health workers). P form: presumptive cases (medical officers/clinicians). L form: laboratory-confirmed cases.">Presumptive cases diagnosed by clinicians</span></li>
+<li>Polio cases only</li>
+<li>Private-sector laboratory results</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-24" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 24</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-24" class="quiz-question">
+<h3>Question 24</h3>
+<p>Surveillance in which health workers make house-to-house visits to search for fever cases and collect blood smears is:</p>
+<ul>
+<li>Passive surveillance</li>
+<li><span class="correct" data-explanation="Active surveillance means health workers go out and seek cases (e.g. ASHA/MPW fever surveillance for malaria). Passive surveillance relies on cases reporting to health facilities.">Active surveillance</span></li>
+<li>Sentinel surveillance</li>
+<li>Syndromic surveillance</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-25" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 25</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-25" class="quiz-question">
+<h3>Question 25</h3>
+<p>Selected reporting sites that systematically report a specific disease, used to detect trends that routine reporting misses, constitute:</p>
+<ul>
+<li>Passive surveillance</li>
+<li>Active surveillance</li>
+<li><span class="correct" data-explanation="Sentinel surveillance uses selected sites (often hospitals or labs), such as HIV sentinel surveillance and AFP sentinel sites. It is useful for trends and for filling gaps in notification.">Sentinel surveillance</span></li>
+<li>Census</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-26" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 26</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-26" class="quiz-question">
+<h3>Question 26</h3>
+<p>The very first step in the investigation of an epidemic is:</p>
+<ul>
+<li>Confirmation of the existence of an epidemic</li>
+<li><span class="correct" data-explanation="Park and the textbook put verification of the diagnosis first, because there is no point counting cases of the wrong disease. Confirmation of an epidemic follows. The CDC 10-step list puts “establish the existence of an outbreak” before “verify the diagnosis”, and in practice the two are done together.">Verification of the diagnosis</span></li>
+<li>Development of an epidemiological case sheet</li>
+<li>Formulation of a hypothesis</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-27" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 27</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-27" class="quiz-question">
+<h3>Question 27</h3>
+<p>A nominal roll of the cases already reported to health-care establishments (dispensaries, general practitioners, hospitals) up to the present moment would form a:</p>
+<ul>
+<li><span class="correct" data-explanation="A line list has one row per case, with key variables (name, age, sex, address, date of onset). It is the starting point for time-place-person analysis.">Line list</span></li>
+<li>Epidemiological list</li>
+<li>Case summary</li>
+<li>Secondary data</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-28" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 28</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-28" class="quiz-question">
+<h3>Question 28</h3>
+<p>To call a health-related event an epidemic, the incidence rate is computed and compared with the rate in the same population during the corresponding period of the past:</p>
+<ul>
+<li>1 year</li>
+<li><span class="correct" data-explanation="The usual comparison is with the same period (e.g. the same month) over the previous 3 years. Cases clearly above that expected level suggest an epidemic.">3 years</span></li>
+<li>10 years</li>
+<li>No specific time frame is laid down</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-29" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 29</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-29" class="quiz-question">
+<h3>Question 29</h3>
+<p>An epidemic is described in all of the following ways, EXCEPT according to:</p>
+<ul>
+<li>Time characteristics</li>
+<li><span class="correct" data-explanation="Descriptive analysis of an epidemic uses time (epidemic curve), place (spot map) and person (age, sex, occupation).">International characteristics</span></li>
+<li>Person characteristics</li>
+<li>Place characteristics</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-30" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 30</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-30" class="quiz-question">
+<h3>Question 30</h3>
+<p>Once the source of infection in an epidemic is identified, all of the following are measures for control and prevention of the SOURCE, EXCEPT:</p>
+<ul>
+<li><span class="correct" data-explanation="Notification, isolation and treatment of cases and carriers act on the source (reservoir). Vector control interrupts the route of transmission.">Vector control</span></li>
+<li>Notification</li>
+<li>Isolation, if required</li>
+<li>Detection and treatment of cases and carriers</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-31" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 31</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-31" class="quiz-question">
+<h3>Question 31</h3>
+<p>Which type of survey provides an exact estimate of incidence?</p>
+<ul>
+<li>Hospital-based survey</li>
+<li>Hybrid survey</li>
+<li>Cross-sectional survey</li>
+<li><span class="correct" data-explanation="Only repeated observation of the same population over time (longitudinal) captures new cases. A cross-sectional survey gives prevalence.">Longitudinal survey</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-32" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 32</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-32" class="quiz-question">
+<h3>Question 32</h3>
+<p>Which of the following is generally NOT undertaken in the analysis of a community-based (descriptive) survey?</p>
+<ul>
+<li><span class="correct" data-explanation="A descriptive survey describes frequency by time, place and person. Stratified analysis to control confounding belongs to analytical (hypothesis-testing) studies.">Stratified analysis for control of confounding</span></li>
+<li>Line diagram showing seasonal variation in important diseases</li>
+<li>Percentage-wise distribution according to age</li>
+<li>Spot map showing the main residential and work areas</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-33" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 33</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-33" class="quiz-question">
+<h3>Question 33</h3>
+<p>The large collection of humanity to which the findings of a survey will be generalized is called the:</p>
+<ul>
+<li>Study population</li>
+<li>Sample population</li>
+<li><span class="correct" data-explanation="Universe = reference = target population. The study population is the accessible subset, and the sample is drawn from it.">Universe</span></li>
+<li>Common population</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-34" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 34</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-34" class="quiz-question">
+<h3>Question 34</h3>
+<p>All of the following are important ethical issues to be addressed in a proposed survey, EXCEPT:</p>
+<ul>
+<li><span class="correct" data-explanation="Ethical surveys need informed consent, confidentiality, and care or referral for conditions found. A cash inducement is not an ethical requirement and can be coercive.">Provision of a cash benefit</span></li>
+<li>Provision of a health-care benefit</li>
+<li>Confidentiality</li>
+<li>Informed consent</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-35" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 35</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-35" class="quiz-question">
+<h3>Question 35</h3>
+<p>The ongoing collection, analysis and feedback of data related to a particular disease or group of diseases is:</p>
+<ul>
+<li>Longitudinal survey</li>
+<li>Cross-sectional survey</li>
+<li><span class="correct" data-explanation="Surveillance is continuous, systematic collection, analysis, interpretation and dissemination of data for action.">Surveillance</span></li>
+<li>Ecological study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-36" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 36</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-36" class="quiz-question">
+<h3>Question 36</h3>
+<p>Which of the following is NOT a database program?</p>
+<ul>
+<li>Access</li>
+<li>FoxPro</li>
+<li><span class="correct" data-explanation="Excel is a spreadsheet. Access, FoxPro and dBase are database management programs.">Excel</span></li>
+<li>dBase</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-37" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 37</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-37" class="quiz-question">
+<h3>Question 37</h3>
+<p>“PACS” is a system used in health care for:</p>
+<ul>
+<li>Making presentations</li>
+<li>Searching literature for medical research</li>
+<li><span class="correct" data-explanation="PACS (Picture Archiving and Communication System) stores and transmits radiology images digitally, which supports teleradiology.">Transmitting images for quick diagnosis</span></li>
+<li>Accreditation of hospitals</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-38" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 38</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-38" class="quiz-question">
+<h3>Question 38</h3>
+<p>Which statistical analysis package was developed by CDC Atlanta and WHO for analysing health research data?</p>
+<ul>
+<li><span class="correct" data-explanation="Epi Info is free public-domain software from CDC (developed with WHO) for questionnaires, databases, outbreak analysis and mapping.">EPI-Info</span></li>
+<li>SPSS</li>
+<li>STATA</li>
+<li>MINITAB</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-39" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 39</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-39" class="quiz-question">
+<h3>Question 39</h3>
+<p>A Microsoft package for basic financial management in health care is:</p>
+<ul>
+<li>Word</li>
+<li>PowerPoint</li>
+<li>Access</li>
+<li><span class="correct" data-explanation="Excel (a spreadsheet) is used for budgets and accounts.">Excel</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-40" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 40</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-40" class="quiz-question">
+<h3>Question 40</h3>
+<p>During the COVID-19 pandemic, a unique feature in health care was the development of various modalities for:</p>
+<ul>
+<li>Applications informing the community about the disease’s symptoms</li>
+<li>Developing a database of hospitals</li>
+<li>Development of PPE</li>
+<li><span class="correct" data-explanation="The textbook's answer: online and digital teaching and training of medical students expanded on a large scale during the pandemic.">Teaching and training of medical students</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-41" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 41</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-41" class="quiz-question">
+<h3>Question 41</h3>
+<p>Registration for COVID-19 vaccination could be done using:</p>
+<ul>
+<li><span class="correct" data-explanation="CoWIN handled COVID-19 vaccine registration, scheduling and certificates. Its platform is now used for routine immunization as U-WIN.">CoWIN</span></li>
+<li>Aarogya Setu</li>
+<li>IDSP portal</li>
+<li>UIP portal</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-42" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 42</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-42" class="quiz-question">
+<h3>Question 42</h3>
+<p>The National Digital Health Mission (NDHM) was launched in:</p>
+<ul>
+<li>2001</li>
+<li>2014</li>
+<li>2019</li>
+<li><span class="correct" data-explanation="NDHM was announced on 15 August 2020 and relaunched nationwide as the Ayushman Bharat Digital Mission (ABDM) in September 2021, with ABHA health IDs.">2020</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-43" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 43</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-43" class="quiz-question">
+<h3>Question 43</h3>
+<p>The Aarogya Setu app is concerned with:</p>
+<ul>
+<li>Free cashless services for families below the poverty line</li>
+<li><span class="correct" data-explanation="Aarogya Setu provided contact tracing, self-assessment of COVID-19 risk and alerts.">Assessing one’s own risk of COVID-19</span></li>
+<li>Vaccination</li>
+<li>Portable health care for treatment anywhere in the country</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-44" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 44</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-44" class="quiz-question">
+<h3>Question 44</h3>
+<p>The national helpline number launched around Republic Day 2021 is:</p>
+<ul>
+<li>102</li>
+<li>1075</li>
+<li>1078</li>
+<li><span class="correct" data-explanation="The textbook's answer is 14567 (Elderline, the national helpline for senior citizens). 102 is the ambulance service for pregnant women and infants, and 1075 the national COVID-19 helpline.">14567</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-45" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 45</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-45" class="quiz-question">
+<h3>Question 45</h3>
+<p>Which of the following functions will NOT be possible through the NDHM (now ABDM)?</p>
+<ul>
+<li>Knowing the medical history of a person</li>
+<li><span class="correct" data-explanation="ABDM provides ABHA health IDs, linked health records, and registries of facilities and professionals, with anonymized data for research. Individual disease-risk prediction is not one of its functions.">Predicting a person’s risk of suffering from diseases</span></li>
+<li>Undertaking health research</li>
+<li>Obtaining a database of health-care facilities</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-46" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 46</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-46" class="quiz-question">
+<h3>Question 46</h3>
+<p>Regularly checking the monthly immunization coverage and vaccine stock of a PHC against targets is an example of:</p>
+<ul>
+<li>Surveillance</li>
+<li><span class="correct" data-explanation="Monitoring tracks programme inputs, processes and outputs. Surveillance tracks disease occurrence for action. Evaluation periodically judges achievement of objectives.">Monitoring</span></li>
+<li>Evaluation</li>
+<li>Screening</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-47" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 47</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-47" class="quiz-question">
+<h3>Question 47</h3>
+<p>Under the International Health Regulations (2005), a country must notify WHO of an event that may constitute a PHEIC within:</p>
+<ul>
+<li><span class="correct" data-explanation="The National IHR Focal Point (NCDC in India) must notify WHO within 24 hours of assessment. Smallpox, wild poliovirus, a new human influenza subtype and SARS are always notifiable.">24 hours</span></li>
+<li>72 hours</li>
+<li>7 days</li>
+<li>1 month</li>
+</ul>
+</section>
 </section>
 <section id="lecture-emerging-infections-and-amr" class="slide level2 center" data-background-color="#E6EEF5">
 <h2>Lecture: Emerging Infections and AMR</h2>
@@ -529,85 +2072,15 @@
 <p>🟣 <strong>MAY KNOW</strong></p>
 <p>Smallpox remains the only human disease ever declared <strong>eradicated</strong> (WHO, 1980), achieved through a global vaccination campaign combined with <strong>surveillance-containment</strong> (“ring vaccination” around each detected case) rather than mass vaccination alone. It remains the reference case study for what a successful global eradication program requires: an effective vaccine, no animal reservoir, and a recognizable, short-lived infectious stage.</p>
 </section>
-<section id="self-check-question-1" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 1</h2>
+<section id="self-check-question-48" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 48</h2>
 <p>🧡 <strong>QUESTION</strong></p>
-<section id="question-1" class="quiz-question">
-<h3>Question 1</h3>
-<p>Which of the following is NOT one of the six links in the chain of infection?</p>
-<ul>
-<li>Reservoir</li>
-<li>Portal of exit</li>
-<li><span class="correct" data-explanation="Herd immunity is a population-level protective effect, not one of the six links (agent, reservoir, portal of exit, mode of transmission, portal of entry, susceptible host).">Herd immunity</span></li>
-<li>Susceptible host</li>
-</ul>
-</section>
-</section>
-<section id="self-check-question-2" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 2</h2>
-<p>🧡 <strong>QUESTION</strong></p>
-<section id="question-2" class="quiz-question">
-<h3>Question 2</h3>
-<p>A disease has R₀ = 4. What proportion of the population must be immune to reach the herd immunity threshold?</p>
-<ul>
-<li>25%</li>
-<li>50%</li>
-<li><span class="correct" data-explanation="HIT = 1 − (1/R0) = 1 − (1/4) = 0.75, or 75%.">75%</span></li>
-<li>100%</li>
-</ul>
-</section>
-</section>
-<section id="self-check-question-3" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 3</h2>
-<p>🧡 <strong>QUESTION</strong></p>
-<section id="question-3" class="quiz-question">
-<h3>Question 3</h3>
-<p>A person who was exposed to a confirmed case, but has no symptoms and an unknown infection status, is placed in separate accommodation for the duration of the disease’s incubation period. This is:</p>
-<ul>
-<li>Isolation</li>
-<li><span class="correct" data-explanation="Quarantine applies to exposed-but-not-yet-confirmed individuals, for the length of the incubation period.">Quarantine</span></li>
-<li>Ring vaccination</li>
-<li>Contact tracing</li>
-</ul>
-</section>
-</section>
-<section id="self-check-question-4" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 4</h2>
-<p>🧡 <strong>QUESTION</strong></p>
-<section id="question-4" class="quiz-question">
-<h3>Question 4</h3>
-<p>Malaria, transmitted from an infected person to a new host via a mosquito, is an example of which mode of transmission?</p>
-<ul>
-<li>Direct contact</li>
-<li>Droplet spread</li>
-<li><span class="correct" data-explanation="Vector-borne transmission occurs when a living arthropod (here, the mosquito) carries the agent between hosts.">Vector-borne transmission</span></li>
-<li>Fomite transmission</li>
-</ul>
-</section>
-</section>
-<section id="self-check-question-5" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 5</h2>
-<p>🧡 <strong>QUESTION</strong></p>
-<section id="question-5" class="quiz-question">
-<h3>Question 5</h3>
-<p>In the standard outbreak-investigation sequence, “develop hypotheses” comes immediately after which step?</p>
-<ul>
-<li>Verify the diagnosis</li>
-<li><span class="correct" data-explanation="Descriptive epidemiology (time, place, person) is used to generate hypotheses about the outbreak's source, which is the very next step.">Describe data by time, place, and person</span></li>
-<li>Implement control measures</li>
-<li>Communicate findings</li>
-</ul>
-</section>
-</section>
-<section id="self-check-question-6" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 6</h2>
-<p>🧡 <strong>QUESTION</strong></p>
-<section id="question-6" class="quiz-question">
-<h3>Question 6</h3>
+<section id="question-48" class="quiz-question">
+<h3>Question 48</h3>
 <p>Smallpox eradication (1980) is the only successful human disease eradication to date. Which factor was essential to its success?</p>
 <ul>
 <li>Mass vaccination of the entire world population simultaneously</li>
-<li><span class="correct" data-explanation="Smallpox's eradication relied on a highly effective vaccine, surveillance-containment (ring vaccination), and the absence of any animal reservoir to reintroduce the virus.">An effective vaccine combined with surveillance and ring vaccination around detected cases, with no animal reservoir</span></li>
+<li><span class="correct" data-explanation="Smallpox eradication relied on a highly effective vaccine, surveillance-containment (ring vaccination), and the absence of any animal reservoir.">An effective vaccine combined with surveillance and ring vaccination around detected cases, with no animal reservoir</span></li>
 <li>Herd immunity reaching exactly 50%</li>
 <li>Elimination of the mosquito vector</li>
 </ul>
@@ -616,14 +2089,14 @@
 <section id="references" class="slide level2 center" data-background-color="#FFF6DA">
 <h2>References</h2>
 <ol type="1">
-<li>NCBI Bookshelf. <em>Chapter 4: Adhere to Principles of Infection Control — Chain of Infection</em>.</li>
-<li>Plus Maths / University of Cambridge. “Maths in a minute: R nought and herd immunity.”</li>
-<li>Penn Today. “Quarantine or isolation? An updated glossary.”</li>
-<li>Wikipedia. “Secondary attack rate.”</li>
-<li>Centers for Disease Control and Prevention. <em>Steps of an Outbreak Investigation</em> (10-step framework).</li>
+<li>Park, K. <em>Park’s Textbook of Preventive and Social Medicine</em> (latest ed.): dynamics of disease transmission, carriers, immunity and immunizing agents, control, disinfection, investigation of an epidemic, surveillance.</li>
+<li>Centers for Disease Control and Prevention. <em>Steps of an Outbreak Investigation</em>; NCBI Bookshelf, <em>Chain of Infection</em>.</li>
+<li>Ministry of Health and Family Welfare. <em>Integrated Disease Surveillance Programme</em> and <em>IHIP</em> (ihip.mohfw.gov.in); IHIP launch dates from MoHFW and IJFCM sources. Retrieved 28 Oct 2026.</li>
+<li>MoHFW. <em>Immunization Handbook for Medical Officers</em> and <em>AEFI Surveillance and Response Operational Guidelines</em>; WHO, <em>Causality assessment of an AEFI</em> (2nd ed., 2018).</li>
+<li>WHO-AFRO / CDC. <em>Technical Guidelines for Integrated Disease Surveillance and Response (IDSR)</em>.</li>
 <li>World Health Organization (1980). <em>Declaration of Global Eradication of Smallpox</em>.</li>
-<li>Park, K. <em>Park’s Textbook of Preventive and Social Medicine</em> — standard reference for epidemic/endemic classification, carrier states, incubation-related intervals, and vaccine types.</li>
 </ol>
+<p><strong>Want to practice?</strong> The <a href="../foundations/epidemiology-question-bank.html">Epidemiology Question Bank</a> has every CM7 question with answer keys.</p>
 </section>
 <section id="thank-you" class="slide level2 center">
 <h2>Thank You!</h2>

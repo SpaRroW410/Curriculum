@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+  <title id="title">Incubation period, generation time and serial interval</title>
+  <desc id="desc">Timelines of a primary and secondary case: incubation period from infection to symptoms, generation time from infection to maximal infectivity, serial interval between onsets in primary and secondary cases.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <text x="30" y="70" text-anchor="start" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Primary</text>
+  <text x="30" y="98" text-anchor="start" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">case</text>
+  <text x="30" y="250" text-anchor="start" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Secondary</text>
+  <text x="30" y="278" text-anchor="start" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">case</text>
+  <line x1="170" y1="80" x2="980" y2="80" stroke="#2c3e50" stroke-width="3"/>
+  <line x1="170" y1="260" x2="980" y2="260" stroke="#2c3e50" stroke-width="3"/>
+  <circle cx="200" cy="80" r="9" fill="#2c3e50"/>
+  <text x="200" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">infected</text>
+  <circle cx="420" cy="80" r="9" fill="#2c3e50"/>
+  <text x="420" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">symptoms</text>
+  <circle cx="640" cy="80" r="9" fill="#2c3e50"/>
+  <text x="640" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">max infectivity</text>
+  <circle cx="640" cy="260" r="9" fill="#2c3e50"/>
+  <text x="640" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">infected</text>
+  <circle cx="880" cy="260" r="9" fill="#2c3e50"/>
+  <text x="880" y="296" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">symptoms</text>
+  <line x1="640" y1="92" x2="640" y2="248" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)" stroke-dasharray="6,4"/>
+  <line x1="200" y1="130" x2="420" y2="130" stroke="#c0392b" stroke-width="3"/>
+  <line x1="200" y1="120" x2="200" y2="140" stroke="#c0392b" stroke-width="3"/>
+  <line x1="420" y1="120" x2="420" y2="140" stroke="#c0392b" stroke-width="3"/>
+  <text x="310.0" y="160" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#c0392b">incubation period</text>
+  <line x1="200" y1="330" x2="640" y2="330" stroke="#2980b9" stroke-width="3"/>
+  <line x1="200" y1="320" x2="200" y2="340" stroke="#2980b9" stroke-width="3"/>
+  <line x1="640" y1="320" x2="640" y2="340" stroke="#2980b9" stroke-width="3"/>
+  <text x="420.0" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2980b9">generation time</text>
+  <line x1="420" y1="390" x2="880" y2="390" stroke="#27ae60" stroke-width="3"/>
+  <line x1="420" y1="380" x2="420" y2="400" stroke="#27ae60" stroke-width="3"/>
+  <line x1="880" y1="380" x2="880" y2="400" stroke="#27ae60" stroke-width="3"/>
+  <text x="650.0" y="420" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#27ae60">serial interval</text>
+</svg>

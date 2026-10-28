@@ -29,6 +29,10 @@ Inventory-management classification by consumption value (ABC) and
 criticality (VED).\
 [Ch 8 – Inventory Management](diseases/essential-medicines.qmd#inventory-management)
 
+**Agent Properties (Infectivity, Pathogenicity, Virulence)**\
+Virulence is measured by the case fatality rate.\
+[Ch 6 – Agent Properties](diseases/communicable-diseases.qmd#agent-properties-infectivity-pathogenicity-virulence)
+
 **ASHA (Accredited Social Health Activist)**\
 Selection, roles, and responsibilities.\
 [Ch 25 – ASHA: Roles and Responsibilities](global/community-health.qmd#asha-roles-and-responsibilities)
@@ -119,6 +123,10 @@ Down's, Klinefelter's, Turner's, XYY.\
 **Cohort Study**\
 [Ch 4 – Cohort Study](foundations/epidemiologic-methods.qmd#cohort-study)
 
+**Cold Chain and AEFI**\
+Vaccine storage at +2 to +8 °C, VVM, and adverse events following immunization.\
+[Ch 6 – Cold Chain and AEFI](diseases/communicable-diseases.qmd#cold-chain-and-aefi)
+
 **Community Health Centre (CHC) / First Referral Unit (FRU)**\
 [Ch 25 – Community Health Centre: FRU vs. Non-FRU](global/community-health.qmd#community-health-centre-fru-vs.-non-fru)
 
@@ -129,6 +137,10 @@ Impairment-disability-handicap sequence and the RPwD Act.\
 **Concepts of Health: Four Models**\
 Biomedical, ecological, psychosocial, holistic.\
 [Ch 2 – Concepts of Health: Four Models](foundations/concept-health-disease.qmd#concepts-of-health-four-models)
+
+**CONSORT Flow Diagram**\
+Participant flow in a randomized trial.\
+[Ch 4 – The CONSORT Flow Diagram](foundations/epidemiologic-methods.qmd#the-consort-flow-diagram)
 
 **Coronary Heart Disease vs. Rheumatic Heart Disease**\
 [NCD Mod 7 – Coronary Heart Disease vs. Rheumatic Heart Disease](diseases/ncd/module7_other_ncds.qmd#coronary-heart-disease-vs.-rheumatic-heart-disease)
@@ -168,6 +180,11 @@ Burden, risk factors, WHO diagnostic criteria.\
 **Disaster Management Cycle**\
 [Ch 18 – The Disaster Management Cycle](environment/disaster-management.qmd#the-disaster-management-cycle)
 
+**Disinfection (Concurrent, Terminal, Precurrent)**\
+Types of disinfection and the agents used.\
+[Ch 6 – Disinfection: Definitions and Types](diseases/communicable-diseases.qmd#disinfection-definitions-and-types) ·
+[Ch 6 – Disinfection: Agents and Uses](diseases/communicable-diseases.qmd#disinfection-agents-and-uses)
+
 ---
 
 ## E
@@ -175,9 +192,17 @@ Burden, risk factors, WHO diagnostic criteria.\
 **Ecological Fallacy**\
 [Ch 4 – Ecological Fallacy — A Closer Look](foundations/epidemiologic-methods.qmd#ecological-fallacy-a-closer-look)
 
+**Epidemic Curve**\
+Common-source (single and continuous) vs propagated epidemics.\
+[Ch 3 – Epidemics and the Epidemic Curve](foundations/principles-epidemiology.qmd#epidemics-and-the-epidemic-curve)
+
 **Epidemic, Endemic, Sporadic, and Pandemic**\
 Classification of disease occurrence, plus zoonoses.\
 [Ch 6 – Epidemic, Endemic, and Pandemic](diseases/communicable-diseases.qmd#epidemic-endemic-and-pandemic)
+
+**Epidemiological Approach**\
+Asking questions and making comparisons: from observation to intervention.\
+[Ch 3 – The Epidemiological Approach](foundations/principles-epidemiology.qmd#the-epidemiological-approach)
 
 **Epidemiological Triad**\
 [Ch 2 – The Epidemiological Triad](foundations/concept-health-disease.qmd#the-epidemiological-triad)
@@ -249,6 +274,10 @@ Comparative transmission, chronicity, and prevention.\
 **Herd Immunity**\
 [Ch 6 – Herd Immunity](diseases/communicable-diseases.qmd#herd-immunity)
 
+**Hierarchy of Evidence**\
+From expert opinion to systematic reviews.\
+[Ch 4 – Hierarchy of Evidence](foundations/epidemiologic-methods.qmd#hierarchy-of-evidence)
+
 **HIV/AIDS and NACP**\
 Transmission, ART/PMTCT, and India's National AIDS Control Programme.\
 [CD Mod 8 – Transmission and Natural History](diseases/cd/module8_hiv_stis.qmd#transmission-and-natural-history) ·
@@ -274,11 +303,20 @@ Site/room standards, overcrowding indicators.\
 **Iceberg Phenomenon**\
 [Ch 2 – The Iceberg Phenomenon](foundations/concept-health-disease.qmd#the-iceberg-phenomenon)
 
+**IDSP / IHIP**\
+India's disease surveillance programme and its digital platform (S, P, L forms).\
+[Ch 6 – IDSP, IHIP, and IDSR](diseases/communicable-diseases.qmd#idsp-ihip-and-idsr)
+
 **IEC vs. BCC**\
 [Ch 22 – IEC vs. BCC](global/health-education.qmd#iec-vs.-bcc)
 
 **ILO/WHO Joint Definition (Occupational Health)**\
 [Ch 19 – The ILO/WHO Joint Definition](environment/occupational-health.qmd#the-ilowho-joint-definition)
+
+**Immunity (Types)**\
+Innate vs acquired; active vs passive; natural vs artificial.\
+[Ch 6 – Types of Immunity](diseases/communicable-diseases.qmd#types-of-immunity) ·
+[Ch 6 – Active vs Passive Immunity](diseases/communicable-diseases.qmd#active-vs-passive-immunity)
 
 **Incidence and Prevalence**\
 [Ch 3 – Incidence](foundations/principles-epidemiology.qmd#incidence) ·
@@ -291,8 +329,16 @@ Site/room standards, overcrowding indicators.\
 Mental capacity, disclosure, voluntariness, comprehension.\
 [Ch 27 – Informed Consent](global/aetcom.qmd#informed-consent)
 
+**Intention-to-Treat Analysis**\
+ITT vs per-protocol; allocation concealment.\
+[Ch 4 – Analysing a Trial: ITT vs Per-Protocol](foundations/epidemiologic-methods.qmd#analysing-a-trial-itt-vs-per-protocol)
+
 **International Health Regulations (IHR 2005)**\
 [Ch 26 – International Health Regulations (IHR 2005)](global/international-health.qmd#international-health-regulations-ihr-2005)
+
+**International Health Regulations (IHR 2005)**\
+24-hour notification of a potential PHEIC; notifiable diseases.\
+[Ch 6 – Notifiable Diseases, IHR, and Epidemic Thresholds](diseases/communicable-diseases.qmd#notifiable-diseases-ihr-and-epidemic-thresholds)
 
 **IPV vs. OPV (Polio Vaccines)**\
 [CD Mod 4 – IPV vs. OPV](diseases/cd/module4_poliomyelitis.qmd#ipv-vs.-opv)
@@ -362,6 +408,10 @@ several chapters.\
 [Ch 19 – Occupational Disease and the Levels of Prevention](environment/occupational-health.qmd#occupational-disease-and-the-levels-of-prevention) ·
 [Ch 25 – Levels of Health Care (contrast)](global/community-health.qmd#levels-of-health-care-not-levels-of-prevention)
 
+**Life Table and Survival Curve**\
+lx, qx, dx, ex; median survival.\
+[Ch 3 – Life Table and Survival Curve](foundations/principles-epidemiology.qmd#life-table-and-survival-curve)
+
 **Low Birth Weight**\
 [Ch 9 – Low Birth Weight](diseases/nutrition.qmd#low-birth-weight)
 
@@ -387,6 +437,10 @@ Life cycle, clinical types, diagnosis, treatment, NVBDCP.\
 **Mass Drug Administration (MDA)**\
 [CD Mod 12 – Elimination of Lymphatic Filariasis (ELF)](diseases/cd/module12_filaria_kalaazar.qmd#elimination-of-lymphatic-filariasis-elf)
 
+**MCCD (Medical Certification of Cause of Death)**\
+Part I sequence, underlying cause, common errors; verbal autopsy.\
+[Ch 3 – MCCD and Verbal Autopsy](foundations/principles-epidemiology.qmd#mccd-and-verbal-autopsy)
+
 **Measles, Rubella, and Mumps**\
 Congenital Rubella Syndrome and India's MR elimination goal.\
 [CD Mod 13 – Measles, Rubella, and Mumps](diseases/cd/module13_other_infections.qmd#measles-rubella-and-mumps)
@@ -405,11 +459,19 @@ Range, standard deviation, variance, coefficient of variation.\
 **Mental Healthcare Act, 2017**\
 [Ch 10 – Mental Healthcare Act, 2017](diseases/mental-health.qmd#mental-healthcare-act-2017)
 
+**Meta-Analysis and Systematic Review**\
+Forest plot, funnel plot, publication bias.\
+[Ch 4 – Systematic Review, Meta-Analysis, Publication Bias](foundations/epidemiologic-methods.qmd#systematic-review-meta-analysis-publication-bias)
+
 **mhGAP (WHO Mental Health Gap Action Programme)**\
 [Ch 10 – WHO mhGAP: Closing the Treatment Gap](diseases/mental-health.qmd#who-mhgap-closing-the-treatment-gap)
 
+**Monitoring vs Surveillance**\
+Programme monitoring vs disease surveillance; evaluation.\
+[Ch 6 – Monitoring vs Surveillance](diseases/communicable-diseases.qmd#monitoring-vs-surveillance)
+
 **Mortality Rates (Crude, Specific, Case Fatality, PMR)**\
-[Ch 4 – Mortality Rates: Crude, Specific, and Case Fatality](foundations/epidemiologic-methods.qmd#mortality-rates-crude-specific-and-case-fatality)
+[Ch 3 – Mortality Rates: Crude, Specific, and Case Fatality](foundations/principles-epidemiology.qmd#mortality-rates-crude-specific-and-case-fatality)
 
 **MTP Act (Medical Termination of Pregnancy)**\
 Gestational limits, indications, consent.\
@@ -463,6 +525,7 @@ The 68-95-99.7 rule.\
 [CD Mod 7 – NTEP: India's TB Elimination Programme](diseases/cd/module7_tuberculosis.qmd#ntep-indias-tb-elimination-programme)
 
 **Number Needed to Treat**\
+[Ch 4 – Vaccine Efficacy and NNT](foundations/epidemiologic-methods.qmd#vaccine-efficacy-and-number-needed-to-treat) ·
 [Ch 4 – Number Needed to Treat](foundations/epidemiologic-methods.qmd#number-needed-to-treat)
 
 ---
@@ -476,6 +539,10 @@ Skin, lung, bladder, leukaemia by exposure.\
 **One Health**\
 [Water Mod 1 – What is One Health?](environment/env_health/module1_one_health.qmd#what-is-one-health) ·
 [Water Mod 1 – The One Health Triad](environment/env_health/module1_one_health.qmd#the-one-health-triad)
+
+**Open Vial Policy**\
+Reuse of opened multi-dose vials for up to 28 days.\
+[Ch 6 – Open Vial Policy and the UIP Schedule](diseases/communicable-diseases.qmd#open-vial-policy-and-the-uip-schedule)
 
 **Outbreak Investigation**\
 [Ch 6 – Outbreak Investigation: The 10 Steps](diseases/communicable-diseases.qmd#outbreak-investigation-the-10-steps) ·
@@ -530,6 +597,10 @@ Sources, units, biological effects, protection.\
 **Rational Use of Medicines**\
 [Ch 8 – Rational Use of Medicines](diseases/essential-medicines.qmd#rational-use-of-medicines)
 
+**Record Linkage**\
+Linking one person's health events; health information system.\
+[Ch 3 – Record Linkage and the Health Information System](foundations/principles-epidemiology.qmd#record-linkage-and-the-health-information-system)
+
 **Road Traffic Injuries**\
 The Golden Hour and major risk factors.\
 [NCD Mod 6 – Road Traffic Injuries](diseases/ncd/module6_injuries.qmd#road-traffic-injuries)
@@ -545,6 +616,10 @@ The Golden Hour and major risk factors.\
 ---
 
 ## S
+
+**Sample Size**\
+What drives the sample size of a trial.\
+[Ch 4 – Sample Size: What Drives It](foundations/epidemiologic-methods.qmd#sample-size-what-drives-it)
 
 **Sampling Techniques**\
 Probability (simple random, systematic, stratified, cluster) vs. non-probability.\
@@ -563,6 +638,10 @@ Mite-borne; classic eschar at the bite site.\
 [Ch 4 – Selection Bias](foundations/epidemiologic-methods.qmd#selection-bias) ·
 [Ch 4 – Information Bias](foundations/epidemiologic-methods.qmd#information-bias)
 
+**Series and Parallel Testing**\
+Combining screening tests to raise specificity or sensitivity.\
+[Ch 5 – Series and Parallel Testing](foundations/screening.qmd#series-and-parallel-testing)
+
 **Sick Role (Talcott Parsons)**\
 [Ch 23 – The Sick Role (Talcott Parsons)](global/social-sciences.qmd#the-sick-role-talcott-parsons)
 
@@ -572,6 +651,10 @@ First aid, Anti-Snake Venom, and NAPSE.\
 
 **Social Gradient of Health**\
 [Ch 1 – The Social Gradient of Health](foundations/man-and-medicine.qmd#the-social-gradient-of-health)
+
+**Sources of Epidemiological Data**\
+Census, civil registration, SRS, NFHS, IDSP, hospital records, CBHI.\
+[Ch 3 – Sources of Epidemiological Data (1)](foundations/principles-epidemiology.qmd#sources-of-epidemiological-data-1)
 
 **SPIKES Protocol**\
 Six-step framework for breaking bad news.\
@@ -584,7 +667,7 @@ Six-step framework for breaking bad news.\
 [Ch 29 – Standard Error and Confidence Intervals](foundations/biostatistics.qmd#standard-error-and-confidence-intervals)
 
 **Standardization (Direct and Indirect, SMR)**\
-[Ch 4 – Standardization: Direct and Indirect Methods](foundations/epidemiologic-methods.qmd#standardization-direct-and-indirect-methods)
+[Ch 3 – Standardization: Direct and Indirect Methods](foundations/principles-epidemiology.qmd#standardization-direct-and-indirect-methods)
 
 **Stigma**\
 [Ch 10 – Stigma as a Public Health Barrier](diseases/mental-health.qmd#stigma-as-a-public-health-barrier) ·
@@ -595,6 +678,10 @@ Six-step framework for breaking bad news.\
 
 **Sufficient-Component Cause Model**\
 [Ch 2 – Sufficient-Component Cause Model](foundations/concept-health-disease.qmd#sufficient-component-cause-model)
+
+**Surveillance (Disease)**\
+Definition; passive, active, sentinel and syndromic surveillance.\
+[Ch 6 – Surveillance: Definition and Types](diseases/communicable-diseases.qmd#surveillance-definition-and-types)
 
 **Surveillance (Water Quality)**\
 [Water Mod 7 – The 11-Point Surveillance Framework](environment/env_health/water/module7_surveillance.qmd#the-11-point-surveillance-framework)
@@ -653,6 +740,10 @@ Live attenuated, killed, toxoid, subunit.\
 
 **Under-Five Clinic**\
 [Ch 14 – The Under-Five Clinic](programs/preventive-medicine.qmd#the-under-five-clinic)
+
+**Uses of Epidemiology**\
+Healthcare management, disease process, public health and clinical practice.\
+[Ch 3 – Uses of Epidemiology](foundations/principles-epidemiology.qmd#uses-of-epidemiology)
 
 ---
 

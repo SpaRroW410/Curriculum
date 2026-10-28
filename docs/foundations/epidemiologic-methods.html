@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.10.18">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.6.42">
 
   <title>Social and Public health – Epidemiologic Methods</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -16,16 +16,10 @@
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
-    /* Default styles provided by pandoc.
-    ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
-    */
+    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: 1.5em;}
-    div.column{flex: auto;}
-    @media screen {
-    div.columns{gap: min(4vw, 1.5em);}
-    div.column{overflow-x: auto;}
-    }
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -34,7 +28,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-cc987b028043672fb83204947dec60a2.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-537e9f2e16ab801d2a09dfd4977a5ecc.css">
   <link rel="stylesheet" href="../assets/slide_deck.css">
   <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
@@ -137,7 +131,7 @@
 
 <section id="title-slide" class="quarto-title-block center">
   <h1 class="title">Epidemiologic Methods</h1>
-  <p class="subtitle">Study Designs, Measures of Association, and Bias</p>
+  <p class="subtitle">Case-Control, Cohort and Experimental Studies; Association, Causation, and Bias</p>
 
 <div class="quarto-title-authors">
 </div>
@@ -146,22 +140,17 @@
 <section id="home" class="slide level2 center">
 <h2>Welcome</h2>
 <h3 id="epidemiologic-methods">Epidemiologic Methods</h3>
-<p><strong>Learning Objectives:</strong></p>
+<p><strong>Learning Objectives (CM7 Lectures 6–9):</strong></p>
 <ul>
-<li>Compare cohort, case-control, cross-sectional, and ecological study designs</li>
-<li>Explain matching and the nested case-control design</li>
-<li>Calculate and interpret relative risk (RR) and odds ratio (OR)</li>
-<li>Calculate attributable risk and attributable risk percent</li>
-<li>Classify types of association and distinguish them from causation</li>
-<li>Describe the design and purpose of a randomized controlled trial</li>
-<li>Distinguish selection bias, information bias, and confounding</li>
-<li>Compute crude, specific, and case fatality mortality rates</li>
-<li>Explain why and how mortality rates are age-standardized</li>
+<li>Describe the design, steps, analysis (OR), biases, advantages and limitations of a case-control study</li>
+<li>Describe the types and elements of cohort studies; calculate RR, AR, AR% and PAR</li>
+<li>Outline the steps and types of randomized controlled trials; explain randomization and blinding; calculate vaccine efficacy and NNT</li>
+<li>Distinguish association from causation; identify bias, chance and confounding; apply causal criteria; distinguish validity from reliability</li>
 </ul>
-<p><strong>NMC Community Medicine Code:</strong> CM7</p>
+<p><strong>NMC Community Medicine Code:</strong> CM7.5, CM7.8</p>
 <p>🟢 <strong>MUST KNOW</strong> · 🟡 <strong>SHOULD KNOW</strong> · 🟣 <strong>MAY KNOW</strong> · 🧡 <strong>QUESTION</strong></p>
 <aside class="notes">
-<p>This chapter builds directly on Chapter 3’s incidence/prevalence and the overview of study-design categories, going into the analytical and experimental designs in depth.</p>
+<p>Builds on Chapter 3’s measures of frequency and the study-design classification (Lecture 5). Mortality rates and standardization now sit in Chapter 3 (Lectures 2 and 4).</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -174,16 +163,21 @@
           display:block!important;
       }</style></aside>
 </section>
+<section id="lecture-6-case-control-study" class="slide level2 center" data-background-color="#E6EEF5">
+<h2>Lecture 6: Case-Control Study</h2>
+<p>📚 <strong>Lecture 6 of 15</strong> · <strong>CM7.L6</strong></p>
+<p><em>Case-control study</em></p>
+</section>
 <section id="the-22-table" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>The 2×2 Table</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p>Every analytical epidemiological comparison starts from a 2×2 table of exposure vs.&nbsp;outcome:</p>
+<p>Every analytical comparison starts from a 2×2 table of exposure against outcome:</p>
 <table class="caption-top">
 <thead>
 <tr class="header">
 <th></th>
-<th>Disease +</th>
-<th>Disease −</th>
+<th>Disease + (cases)</th>
+<th>Disease − (controls)</th>
 </tr>
 </thead>
 <tbody>
@@ -199,42 +193,547 @@
 </tr>
 </tbody>
 </table>
-<p>All of the measures on the following slides — relative risk, odds ratio, attributable risk — are calculated directly from these four cell counts (a, b, c, d).</p>
-</section>
-<section id="lecture-6-case-control-study" class="slide level2 center" data-background-color="#E6EEF5">
-<h2>Lecture 6: Case-Control Study</h2>
-<p>📚 <strong>Lecture 6 of 15</strong> · <strong>CM7.L6</strong></p>
-<p><em>Case-control study</em></p>
+<ul>
+<li><strong>Case-control</strong>: the column totals (a+c cases, b+d controls) are fixed by the investigator</li>
+<li><strong>Cohort</strong>: the row totals (a+b exposed, c+d unexposed) are fixed</li>
+</ul>
+<p>Relative risk, odds ratio and attributable risk are all calculated from these four cells.</p>
 </section>
 <section id="case-control-study" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Case-Control Study</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Design:</strong> starts with people who already have the disease (<strong>cases</strong>) and people who don’t (<strong>controls</strong>), then looks <strong>backward</strong> to compare their past exposure.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/case_control_design.svg" class="slide-img" width="840"></p>
+<figcaption>Case-control design</figcaption>
+</figure>
+</div>
+<p><code>OR = ad / bc</code>. It proceeds from <strong>effect to cause</strong> (retrospective). Exposure is always measured <em>after</em> the disease has occurred. It is also called a <strong>“trohoc” study</strong> (“cohort” spelt backwards).</p>
+</section>
+<section id="basic-steps-of-a-case-control-study" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Basic Steps of a Case-Control Study</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<ol type="1">
+<li><strong>Selection of cases and controls</strong>
 <ul>
-<li>Cannot calculate incidence directly (cases are already selected) — so RR cannot be measured directly</li>
-<li>Instead calculates the <strong>Odds Ratio (OR)</strong>:</li>
+<li><em>Cases</em>: a clear diagnostic definition. Incident cases are preferred to prevalent ones. Sources are hospitals or the general population.</li>
+<li><em>Controls</em>: free of the disease, similar to cases in everything except the disease. Sources are hospital, relatives/neighbourhood, or the general population.</li>
+</ul></li>
+<li><strong>Matching</strong>: on confounders such as age and sex (next slide)</li>
+<li><strong>Measurement of exposure</strong>: the same method for cases and controls (interview, records), with blinding where possible</li>
+<li><strong>Analysis</strong>: exposure rates among cases and controls, then the <strong>odds ratio</strong></li>
+</ol>
+<p><code>OR = (a × d) ÷ (b × c)</code></p>
+<p><strong>Rare-disease assumption:</strong> when the disease is uncommon, OR ≈ RR.</p>
+</section>
+<section id="case-scenario-planning-a-breast-cancer-study" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Planning a Breast Cancer Study</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>You plan a case-control study to test whether women with a <strong>family history of breast cancer</strong> have a higher risk of breast cancer.</p>
+<ol type="1">
+<li>How will you select the cases and the controls? Can controls come from the same family?</li>
+<li>How will you measure family history, and what information biases may occur?</li>
+<li>How will you measure association, test significance, and deal with confounders?</li>
+</ol>
+</section>
+<section id="case-scenario-planning-a-breast-cancer-study-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Planning a Breast Cancer Study, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li><strong>Cases:</strong> newly diagnosed, from a cancer hospital or registry. <strong>Controls:</strong> women from the same catchment population, matched on age, age at first pregnancy, parity and breastfeeding. <strong>Not</strong> relatives: that would over-match on the exposure itself.</li>
+<li>Measure family history by <strong>structured interview</strong> of cases and controls. <strong>Recall bias</strong> (cases remember family cancers better) and <strong>observer bias</strong> are possible. Blind the interviewer to case status.</li>
+<li>Use the <strong>odds ratio</strong> with a 95% CI and the <strong>chi-square test</strong>. Control confounders by <strong>matching</strong> at design, and <strong>Mantel–Haenszel</strong> stratified analysis or <strong>logistic regression</strong> at analysis.</li>
 </ul>
-<p><code>OR = (a × d) / (b × c)</code></p>
-<p><strong>Rare disease assumption:</strong> when the disease is uncommon (roughly &lt;10% in the unexposed group), OR closely approximates RR — this is why case-control studies are widely used to estimate risk for rare diseases.</p>
 </section>
 <section id="matching-in-case-control-studies" class="slide level2 center" data-background-color="#FFF6DA">
 <h2>Matching in Case-Control Studies</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
-<p><strong>Matching</strong> selects controls so that a potential confounder (e.g.&nbsp;age, occupation) has the <strong>same distribution</strong> in cases and controls, removing its confounding effect before analysis even starts.</p>
+<p><strong>Matching</strong> selects controls so that a potential confounder (e.g.&nbsp;age, occupation) has the <strong>same distribution</strong> in cases and controls.</p>
 <ul>
-<li><strong>Group matching</strong> — the frequency distribution of the matched variable is made similar in both groups (e.g.&nbsp;same age-band mix)</li>
-<li><strong>Pair (individual) matching</strong> — each case is paired with a control sharing that characteristic (a 50-year-old mason case gets a 50-year-old mason control)</li>
+<li><strong>Group (frequency) matching</strong>: the matched variable has a similar distribution in both groups</li>
+<li><strong>Pair (individual) matching</strong>: each case is paired with a control sharing that characteristic, e.g.&nbsp;a 50-year-old mason case and a 50-year-old mason control</li>
 </ul>
-<p><strong>Critical rule:</strong> never match on the exposure/factor you actually want to study — doing so forces cases and controls to look alike on that factor and erases its association with disease entirely. Over-matching also makes finding controls harder and can bias the odds ratio toward 1.</p>
+<p><strong>Critical rule:</strong> never match on the exposure you want to study. That forces cases and controls to look alike on it and erases its association with disease. <strong>Over-matching</strong> also makes controls harder to find and can bias the OR toward 1.</p>
+</section>
+<section id="worked-example-odds-ratio" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Worked Example: Odds Ratio</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>A study of tobacco chewing and oral cancer (100 cases, 100 controls):</p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th></th>
+<th>Oral cancer (cases)</th>
+<th>No oral cancer (controls)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Chewers</strong></td>
+<td>a = 80</td>
+<td>b = 40</td>
+</tr>
+<tr class="even">
+<td><strong>Non-chewers</strong></td>
+<td>c = 20</td>
+<td>d = 60</td>
+</tr>
+<tr class="odd">
+<td><strong>Total</strong></td>
+<td>100</td>
+<td>100</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Exposure in cases = 80% and in controls = 40%</li>
+<li><code>OR = (80 × 60) ÷ (40 × 20) = 6.0</code></li>
+<li><strong>Interpretation:</strong> cases had <strong>six times</strong> the odds of having chewed tobacco compared with controls. Oral cancer is rare, so tobacco chewers have roughly six times the risk.</li>
+</ul>
+</section>
+<section id="case-scenario-helmets-and-fatal-head-injury" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Helmets and Fatal Head Injury</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>Among two-wheeler accident victims, <strong>87</strong> had fatal and <strong>113</strong> non-fatal head injuries. Of the fatal cases, <strong>55</strong> had not worn a helmet; of the non-fatal, <strong>45</strong> had not.</p>
+<ol type="1">
+<li>Build the 2 × 2 table (cases = fatal injury, exposure = no helmet).</li>
+<li>Calculate the odds ratio and the etiological fraction.</li>
+<li>Interpret the result.</li>
+</ol>
+</section>
+<section id="case-scenario-helmets-and-fatal-head-injury-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Helmets and Fatal Head Injury, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li>a = 55, b = 45, c = 32, d = 68</li>
+<li><strong>OR</strong> = (55 × 68) ÷ (45 × 32) = 3,740 ÷ 1,440 ≈ <strong>2.6</strong></li>
+<li><strong>EF</strong> = (OR − 1) ÷ OR ≈ <strong>61%</strong></li>
+<li>Riders without helmets had about <strong>2.6 times the odds</strong> of a fatal head injury. About 61% of fatal head injuries among non-users could be prevented by helmet use.</li>
+<li><em>(The textbook prints OR 1.22 and EF 18%, which is an arithmetic error.)</em></li>
+</ul>
+</section>
+<section id="bias-in-case-control-studies" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Bias in Case-Control Studies</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Bias</th>
+<th>What happens</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Selection bias</strong></td>
+<td>Cases and controls are selected in a way related to exposure</td>
+</tr>
+<tr class="even">
+<td><strong>Berkson’s bias</strong></td>
+<td>A hospital-based study is distorted by different admission rates for different combinations of disease and exposure</td>
+</tr>
+<tr class="odd">
+<td><strong>Recall (memory) bias</strong></td>
+<td>Cases search their memory harder for past exposures than controls</td>
+</tr>
+<tr class="even">
+<td><strong>Interviewer bias</strong></td>
+<td>An interviewer who knows case status probes cases more intensively</td>
+</tr>
+<tr class="odd">
+<td><strong>Neyman (prevalence–incidence, survivorship) bias</strong></td>
+<td>Using prevalent cases misses those who died early or recovered (e.g.&nbsp;fatal MI)</td>
+</tr>
+<tr class="even">
+<td><strong>Confounding</strong></td>
+<td>A third factor linked to both exposure and disease, controlled by matching or analysis</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="case-control-study-advantages-and-limitations" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Case-Control Study: Advantages and Limitations</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><strong>Advantages</strong></p>
+<ul>
+<li>Quick, cheap, needs few subjects</li>
+<li>Best design for <strong>rare diseases</strong> and those with long latency</li>
+<li>No risk to subjects; no attrition</li>
+<li>Can study <strong>several exposures</strong> for one disease</li>
+<li>Gives an estimate of RR (via the OR)</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><strong>Limitations</strong></p>
+<ul>
+<li>Prone to <strong>recall and selection bias</strong></li>
+<li>Incidence and true RR cannot be measured</li>
+<li>Temporality is sometimes unclear</li>
+<li>Choosing an appropriate control group is difficult</li>
+<li>Only <strong>one outcome</strong> is studied</li>
+<li>Not suitable for rare exposures</li>
+</ul>
+</div></div>
 </section>
 <section id="nested-case-control-study" class="slide level2 center" data-background-color="#FFF6DA">
 <h2>Nested Case-Control Study</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>A case-control study conducted <strong>within</strong> an existing cohort: once enough cases accumulate in a large prospective cohort, controls are sampled from the cohort’s non-cases rather than tracking exposure data for everyone.</p>
+<p>A case-control study conducted <strong>within</strong> an existing cohort. Once enough cases accumulate in a large prospective cohort, controls are sampled from the cohort’s non-cases rather than processing exposure data for everyone.</p>
 <ul>
-<li>More <strong>efficient</strong> than analyzing the full cohort — exposure data is processed only for cases and the sampled controls</li>
-<li>Because both groups are drawn from the <em>same</em> defined cohort, this design minimizes selection bias and misclassification compared to an ordinary case-control study</li>
+<li>More <strong>efficient</strong> than analysing the full cohort, because exposure data (e.g.&nbsp;stored blood) are processed only for cases and the sampled controls</li>
+<li>Both groups come from the <em>same</em> defined cohort, and exposure was recorded <strong>before</strong> disease. This minimizes selection and recall bias.</li>
 </ul>
+</section>
+<section id="practice-questions-descriptive-lecture-6" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 6)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Long Essay</strong></p>
+<ol type="1">
+<li>Define epidemiology. What is a case-control study? Describe the basic stages (framework for analysis), and mention the advantages and limitations of case-control studies.</li>
+</ol>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol start="2" type="1">
+<li>Discuss the types of bias in case-control studies.</li>
+<li>Write the advantages and disadvantages of case-control studies.</li>
+<li>Explain the difference between a case-control study and a cohort study.</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="5" type="1">
+<li>Odds ratio.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-6-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 6, contd.)</h2>
+<p><strong>Reasoning Type</strong></p>
+<ol start="6" type="1">
+<li>Explain why the odds ratio is used instead of relative risk in case-control studies.</li>
+<li>Why does rarity of disease allow the odds ratio to approximate relative risk?</li>
+</ol>
+<p><strong>Case Scenario</strong></p>
+<ol start="8" type="1">
+<li>You are planning a case-control study to test whether women with a family history of breast cancer have a higher risk of breast cancer.
+<ol type="a">
+<li>How will you select the cases?</li>
+<li>How will you select the controls? Can you take controls from the same family?</li>
+<li>How will you measure family history of breast cancer?</li>
+<li>What measurement (information) biases may occur in this study?</li>
+<li>How will you measure the strength of association, and which test of significance will you apply?</li>
+<li>How will you deal with confounding variables?</li>
+</ol></li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-6-contd.-1" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 6, contd.)</h2>
+<p><strong>Numerical</strong></p>
+<ol start="9" type="1">
+<li>In a case-control study of helmet use, 55 of 87 fatal and 45 of 113 non-fatal head-injury cases had not used helmets (cases = fatal injury). Calculate the odds ratio and the etiological fraction, and interpret them.</li>
+</ol>
+<p><strong>University Examination Questions</strong></p>
+<ol start="10" type="1">
+<li>Define epidemiology. List the various epidemiological study designs. Briefly discuss the steps in a case-control study.</li>
+<li>Classify epidemiological studies. Write the steps for conducting a case-control study.</li>
+<li>Odds ratio.</li>
+<li>Bias in case-control studies.</li>
+</ol>
+</section>
+<section id="self-check-question-1" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 1</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-1" class="quiz-question">
+<h3>Question 1</h3>
+<p>A study begins by identifying people with lung cancer and people without it, then looks backward at their smoking history. This is a:</p>
+<ul>
+<li>Cohort study</li>
+<li><span class="correct" data-explanation="Starting from disease status (cases vs controls) and looking backward at exposure defines a case-control study.">Case-control study</span></li>
+<li>Randomized controlled trial</li>
+<li>Ecological study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-2" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 2</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-2" class="quiz-question">
+<h3>Question 2</h3>
+<p>A researcher wants to study the association between smoking and lung cancer using past hospital records of cases and controls. The most appropriate study design is a:</p>
+<ul>
+<li>Cohort study</li>
+<li>Randomized controlled trial</li>
+<li>Cross-sectional study</li>
+<li><span class="correct" data-explanation="Cases and controls are selected and their past exposure is ascertained from records, which is the case-control design. It is quick and cheap, and well suited to rare diseases such as lung cancer.">Case-control study</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-3" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 3</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-3" class="quiz-question">
+<h3>Question 3</h3>
+<p>In a case-control study, the association is most appropriately measured by the:</p>
+<ul>
+<li>Relative risk</li>
+<li>Attributable risk</li>
+<li><span class="correct" data-explanation="Incidence cannot be calculated because subjects are selected by disease status. The odds ratio (ad/bc) is the measure, and it estimates RR when the disease is rare.">Odds ratio</span></li>
+<li>Incidence rate ratio only</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-4" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 4</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-4" class="quiz-question">
+<h3>Question 4</h3>
+<p>Which of the following is known as the “cross-product ratio”?</p>
+<ul>
+<li>RR</li>
+<li>AR</li>
+<li>PAR%</li>
+<li><span class="correct" data-explanation="OR = (a × d) ÷ (b × c): the product of the diagonal cells divided by the product of the off-diagonal cells, hence the cross-product ratio.">OR</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-5" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 5</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-5" class="quiz-question">
+<h3>Question 5</h3>
+<p>A case-control study finds an odds ratio of 5.0 between exposure and disease. The best interpretation is:</p>
+<ul>
+<li><span class="correct" data-explanation="OR compares the odds of past exposure in cases with that in controls. It does not measure incidence directly, and a strong association alone does not prove causation.">Cases have five times higher odds of having had the exposure compared with controls</span></li>
+<li>The exposed have five times higher incidence, directly measured</li>
+<li>The exposure is definitely causal without further assessment</li>
+<li>The disease prevalence is 5%</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-6" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 6</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-6" class="quiz-question">
+<h3>Question 6</h3>
+<p>Selection bias in a case-control study most commonly occurs when:</p>
+<ul>
+<li><span class="correct" data-explanation="If the chance of being selected as a case or control depends on exposure (e.g. hospital controls admitted for smoking-related diseases), the OR is distorted. Berkson’s bias is one example.">Selection of cases and controls is related to exposure status</span></li>
+<li>Exposure is measured with high accuracy</li>
+<li>Outcome status is confirmed objectively</li>
+<li>Sample size is sufficiently large</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-7" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 7</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-7" class="quiz-question">
+<h3>Question 7</h3>
+<p>An epidemiologist wants to study whether blood group “O” protects against peptic ulcer disease compared with the other three blood groups. The outcome variable in this case is:</p>
+<ul>
+<li>Blood groups</li>
+<li><span class="correct" data-explanation="Blood group is the exposure (independent variable). Peptic ulcer is the outcome (dependent variable).">Peptic ulcer disease</span></li>
+<li>Both of these</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-8" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 8</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-8" class="quiz-question">
+<h3>Question 8</h3>
+<p><strong>Assertion (A):</strong> Recall bias is commonly seen in cohort studies.</p>
+<p><strong>Reason (R):</strong> Recall bias mainly affects studies where past exposure is assessed after disease occurrence.</p>
+<ul>
+<li>Both A and R are true, and R is the correct explanation of A</li>
+<li>Both A and R are true, but R is NOT the correct explanation of A</li>
+<li>A is true, R is false</li>
+<li><span class="correct" data-explanation="A is false: in a cohort study exposure is recorded before the outcome occurs, so recall bias is minimal. R is true: recall bias is typical of case-control studies, where cases recall past exposure differently from controls.">A is false, R is true</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-9" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 9</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-9" class="quiz-question">
+<h3>Question 9</h3>
+<p>In a case-control study of oral cancer, 80 of 100 cases and 40 of 100 controls chewed tobacco. The odds ratio is:</p>
+<ul>
+<li>2.0</li>
+<li>4.0</li>
+<li><span class="correct" data-explanation="a = 80, b = 40, c = 20, d = 60. OR = (80 × 60) ÷ (40 × 20) = 4800 ÷ 800 = 6.0.">6.0</span></li>
+<li>8.0</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-10" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 10</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-10" class="quiz-question">
+<h3>Question 10</h3>
+<p>In a standard 2 × 2 table, the odds ratio is measured as:</p>
+<ul>
+<li>(a × b)/(c × d)</li>
+<li><span class="correct" data-explanation="OR = ad/bc, the cross-product ratio.">(a × d)/(b × c)</span></li>
+<li>(a × c)/(b × d)</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-11" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 11</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-11" class="quiz-question">
+<h3>Question 11</h3>
+<p>Which of the following is the biggest problem in the conduct of case-control studies?</p>
+<ul>
+<li>Logistic efforts</li>
+<li>Large number of subjects</li>
+<li>Loss to follow-up</li>
+<li><span class="correct" data-explanation="Controls must come from the same source population as the cases and differ only in not having the disease. Getting this right is the hardest part of a case-control study.">Selection of appropriate controls</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-12" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 12</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-12" class="quiz-question">
+<h3>Question 12</h3>
+<p>Which of the following is correct about case-control studies?</p>
+<ul>
+<li>Incidence can be calculated</li>
+<li><span class="correct" data-explanation="Case-control studies start from cases, so even rare diseases can be studied quickly. Incidence and true RR cannot be calculated.">They are good for studying risk factors of rare diseases</span></li>
+<li>Relative risk can be calculated</li>
+<li>They take a long time</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-13" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 13</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-13" class="quiz-question">
+<h3>Question 13</h3>
+<p>A case-control study is also known as a:</p>
+<ul>
+<li>Biased study</li>
+<li>Cross-sectional study</li>
+<li>Hill’s study</li>
+<li><span class="correct" data-explanation="“Trohoc” is “cohort” spelt backwards. A case-control study runs in the opposite direction, from effect to cause.">Trohoc study</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-14" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 14</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-14" class="quiz-question">
+<h3>Question 14</h3>
+<p>Which of the following is correct for a case-control study?</p>
+<ul>
+<li>Two groups with neither exposure nor outcome are followed for a defined period for development of outcome</li>
+<li><span class="correct" data-explanation="Selection is by outcome status (cases vs controls), followed by a backward look at exposure.">Two comparable groups, one with the outcome and the other without, are taken and the history of exposure is obtained from both</span></li>
+<li>A single group is studied for exposure and outcome at one point in time</li>
+<li>A group with exposure but not the disease is followed for a defined period</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-15" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 15</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-15" class="quiz-question">
+<h3>Question 15</h3>
+<p>What is the measure of effect calculated in a case-control study?</p>
+<ul>
+<li>RR</li>
+<li><span class="correct" data-explanation="Only the odds ratio can be calculated in a case-control study.">OR</span></li>
+<li>Prevalence</li>
+<li>All of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-16" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 16</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-16" class="quiz-question">
+<h3>Question 16</h3>
+<p>A case-control study:</p>
+<ul>
+<li><span class="correct" data-explanation="The textbook's answer: the direction of enquiry is always backward, from outcome to past exposure, even when cases are recruited as they occur.">Is always retrospective</span></li>
+<li>Is always prospective</li>
+<li>Can be retrospective or prospective</li>
+<li>Gives us the prevalence of the disease</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-17" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 17</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-17" class="quiz-question">
+<h3>Question 17</h3>
+<p>Which of the following is NOT an advantage of case-control studies?</p>
+<ul>
+<li>They are much less expensive</li>
+<li>They require little time to complete</li>
+<li><span class="correct" data-explanation="Recall bias is a characteristic weakness of case-control studies, because exposure is recalled after disease occurs.">They have minimal recall bias</span></li>
+<li>They are good for studying risk factors of a rare disease</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-18" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 18</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-18" class="quiz-question">
+<h3>Question 18</h3>
+<p>A case-control study is one in which the epidemiologist starts with two comparable groups of subjects, of which:</p>
+<ul>
+<li>One has the exposure and the other does not</li>
+<li><span class="correct" data-explanation="Cases (with the outcome) and controls (without it). Starting from exposure defines a cohort study.">One has the outcome and the other does not</span></li>
+<li>Both groups have the outcome</li>
+<li>Both groups have the exposure</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-19" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 19</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-19" class="quiz-question">
+<h3>Question 19</h3>
+<p>For the OR to be a valid estimator of risk in a case-control study, which of the following are essential?</p>
+<ul>
+<li>The outcome (disease) should be rare in the population</li>
+<li>Controls should come from the same source as the cases</li>
+<li><span class="correct" data-explanation="Rare-disease assumption: OR ≈ RR. Same-source controls: the controls must represent the exposure distribution of the population that produced the cases.">Both of these</span></li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-20" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 20</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-20" class="quiz-question">
+<h3>Question 20</h3>
+<p>In a case-control study, survivorship (Neyman, prevalence–incidence) bias is most likely for which of the following diseases?</p>
+<ul>
+<li>Institutional normal delivery</li>
+<li>Coryza</li>
+<li><span class="correct" data-explanation="Many MI patients die before reaching hospital. Cases studied are survivors, whose exposure profile may differ from fatal cases.">Myocardial infarction</span></li>
+<li>Colles fracture sustained while playing sports</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-21" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 21</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-21" class="quiz-question">
+<h3>Question 21</h3>
+<p>Of 100 two-wheeler accident victims who did not use helmets, 55 had fatal and 45 non-fatal head injuries. Of 100 who used helmets, 32 had fatal and 68 non-fatal head injuries. The odds ratio for fatal head injury with non-use of helmets is about:</p>
+<ul>
+<li>1.22</li>
+<li>1.72</li>
+<li><span class="correct" data-explanation="OR = (55 × 68)/(45 × 32) = 3740/1440 ≈ 2.6. Etiological fraction = (OR − 1)/OR ≈ 61%. The textbook's printed answer (OR 1.22, EF 18%) is an arithmetic error.">2.6</span></li>
+<li>3.9</li>
+</ul>
+</section>
 </section>
 <section id="lecture-7-cohort-study" class="slide level2 center" data-background-color="#E6EEF5">
 <h2>Lecture 7: Cohort Study</h2>
@@ -244,24 +743,165 @@
 <section id="cohort-study" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Cohort Study</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Design:</strong> starts with a disease-free population, divides it by <strong>exposure status</strong>, and follows both groups forward in time to compare who develops disease.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/cohort_design.svg" class="slide-img" width="860"></p>
+<figcaption>Cohort design</figcaption>
+</figure>
+</div>
+<p><strong>Cohort</strong> = a group of people who share a common characteristic or experience within a defined period. The study proceeds from <strong>cause to effect</strong> (prospective, longitudinal or incidence study).</p>
+</section>
+<section id="types-of-cohort-study" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Types of Cohort Study</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+<col style="width: 25%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Exposure</th>
+<th>Outcome</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Prospective (concurrent)</strong></td>
+<td>Measured now</td>
+<td>Occurs in the future, after follow-up</td>
+<td>Framingham Heart Study (1948–)</td>
+</tr>
+<tr class="even">
+<td><strong>Retrospective (historical)</strong></td>
+<td>From past records</td>
+<td>Already occurred when the study begins</td>
+<td>Occupational records → cancer deaths</td>
+</tr>
+<tr class="odd">
+<td><strong>Ambispective (combination)</strong></td>
+<td>From past records</td>
+<td>Follow-up continues into the future</td>
+<td>Historical cohort extended forward</td>
+</tr>
+</tbody>
+</table>
+<p>In every type, the logic runs from exposure to outcome. Only the investigator’s position in calendar time differs.</p>
+</section>
+<section id="elements-of-a-cohort-study" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Elements of a Cohort Study</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<ol type="1">
+<li><strong>Selection of study subjects</strong>: a general population or special groups (professional groups, exposure groups), free of the disease at the start</li>
+<li><strong>Obtaining data on exposure</strong>: from the cohort members, records, examinations and environmental surveys</li>
+<li><strong>Selection of comparison groups</strong>:
 <ul>
-<li><strong>Prospective cohort</strong> — exposure and outcome measured going forward from now</li>
-<li><strong>Retrospective cohort</strong> — exposure already recorded in the past; outcome is determined by looking forward from that point</li>
+<li><em>internal</em>: different exposure levels within one cohort</li>
+<li><em>external</em>: a separate unexposed cohort</li>
+<li><em>general population rates</em></li>
+</ul></li>
+<li><strong>Follow-up</strong>: periodic examination, records and death certificates. <strong>Loss to follow-up</strong> must be minimal, because differential losses cause selection bias.</li>
+<li><strong>Analysis</strong>: incidence in the exposed and unexposed, then <strong>RR</strong> and <strong>AR</strong></li>
+</ol>
+</section>
+<section id="biases-in-cohort-studies" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Biases in Cohort Studies</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<ol type="1">
+<li><strong>Loss to follow-up (attrition) bias</strong>: subjects drop out, die or migrate. It is serious when those lost differ systematically in outcome. Prevent it by explaining the study well, recording contact details of participants <em>and</em> relatives, keeping in regular touch, and tracing drop-outs quickly.</li>
+<li><strong>Measurement (information) bias</strong>: exposed and unexposed cohorts are examined differently for the outcome. For example, alcoholics visit health facilities more often, so GERD is diagnosed more often in them. Prevent it with identical follow-up and assessment methods, ideally blinded.</li>
+<li><strong>Confounding</strong>: controlled by matching, restriction or analysis.</li>
+</ol>
+<p><strong>Bias that does NOT occur:</strong> <strong>recall bias</strong>. Exposure is measured objectively at the start, not recalled after the disease.</p>
+</section>
+<section id="measures-in-a-cohort-study-worked-example" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Measures in a Cohort Study: Worked Example</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>Lung cancer over 10 years in 10,000 smokers and 10,000 non-smokers:</p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th></th>
+<th>Lung cancer</th>
+<th>No lung cancer</th>
+<th>Total</th>
+<th>Incidence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Smokers</strong></td>
+<td>280</td>
+<td>9,720</td>
+<td>10,000</td>
+<td>Iₑ = 28 per 1000</td>
+</tr>
+<tr class="even">
+<td><strong>Non-smokers</strong></td>
+<td>40</td>
+<td>9,960</td>
+<td>10,000</td>
+<td>I₀ = 4 per 1000</td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li><strong>RR</strong> = Iₑ ÷ I₀ = 28 ÷ 4 = <strong>7</strong>: smokers have 7 times the risk</li>
+<li><strong>AR</strong> = Iₑ − I₀ = <strong>24 per 1000</strong>: the excess risk due to smoking</li>
+<li><strong>AR%</strong> = (Iₑ − I₀) ÷ Iₑ × 100 = <strong>86%</strong> of smokers’ lung cancer is preventable by not smoking</li>
 </ul>
-<p><strong>Direct measure obtained:</strong> incidence in both groups → <strong>Relative Risk (RR)</strong></p>
-<p><code>RR = [a / (a+b)] / [c / (c+d)]</code></p>
-<p>RR &gt; 1 suggests increased risk with exposure; RR = 1 suggests no association; RR &lt; 1 suggests a protective effect.</p>
+</section>
+<section id="case-scenario-tobacco-use-in-pregnancy" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Tobacco Use in Pregnancy</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>300 antenatal women were examined: <strong>100 tobacco users</strong> and <strong>200 non-users</strong>. All were followed until delivery. Low birth weight occurred in <strong>20 users</strong> and <strong>20 non-users</strong>.</p>
+<ol type="1">
+<li>What type of comparison cohort is this?</li>
+<li>Calculate the RR, AR and AR%.</li>
+<li>Interpret the results.</li>
+</ol>
+</section>
+<section id="case-scenario-tobacco-use-in-pregnancy-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Tobacco Use in Pregnancy, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li>An <strong>internal (inbuilt) comparison group</strong>: both groups come from the same examined population</li>
+<li>Iₑ = 20 ÷ 100 = <strong>20%</strong>; I₀ = 20 ÷ 200 = <strong>10%</strong></li>
+<li><strong>RR</strong> = 2. <strong>AR</strong> = 10 per 100 births. <strong>AR%</strong> = (20 − 10) ÷ 20 = <strong>50%</strong></li>
+<li>Tobacco users have <strong>twice the risk</strong> of an LBW baby. Half of the LBW among users is attributable to tobacco and preventable by quitting.</li>
+</ul>
+</section>
+<section id="attributable-risk" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Attributable Risk</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><strong>Attributable Risk (AR)</strong> is the excess risk in the exposed group that is due to the exposure, i.e.&nbsp;the risk difference:</p>
+<p><code>AR = Iₑ − I₀</code> · <code>AR% = (Iₑ − I₀) ÷ Iₑ × 100</code></p>
+<p><strong>Population Attributable Risk (PAR)</strong> is the excess risk in the <em>total population</em> due to the exposure:</p>
+<p><code>PAR = I(total) − I₀</code> · <code>PAR% = (I(total) − I₀) ÷ I(total) × 100</code></p>
+<ul>
+<li><strong>RR</strong> tells you the <em>strength</em> of an association, which is useful for causal inference</li>
+<li><strong>AR / AR%</strong> tell you the impact on the <em>exposed</em></li>
+<li><strong>PAR%</strong> tells you the impact on the <em>whole community</em>, which is what programme planners use</li>
+</ul>
 </section>
 <section id="cohort-vs.-case-control" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Cohort vs.&nbsp;Case-Control</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
 <table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
 <thead>
 <tr class="header">
 <th></th>
 <th>Cohort</th>
-<th>Case-Control</th>
+<th>Case-control</th>
 </tr>
 </thead>
 <tbody>
@@ -272,96 +912,1140 @@
 </tr>
 <tr class="even">
 <td><strong>Direction</strong></td>
-<td>Forward in time</td>
-<td>Backward in time</td>
+<td>Cause → effect (forward)</td>
+<td>Effect → cause (backward)</td>
 </tr>
 <tr class="odd">
 <td><strong>Best for</strong></td>
-<td>Rare exposures</td>
-<td>Rare diseases</td>
+<td>Rare exposures, several outcomes</td>
+<td>Rare diseases, several exposures</td>
 </tr>
 <tr class="even">
-<td><strong>Measure obtained</strong></td>
-<td>Relative Risk</td>
-<td>Odds Ratio</td>
+<td><strong>Measure</strong></td>
+<td>Incidence, RR, AR</td>
+<td>Odds ratio only</td>
 </tr>
 <tr class="odd">
-<td><strong>Cost/duration</strong></td>
-<td>Higher, longer</td>
-<td>Lower, faster</td>
+<td><strong>Size, cost, time</strong></td>
+<td>Large, costly, long</td>
+<td>Small, cheap, quick</td>
 </tr>
 <tr class="even">
-<td><strong>Recall bias risk</strong></td>
-<td>Low</td>
-<td>Higher</td>
+<td><strong>Main biases</strong></td>
+<td>Loss to follow-up (attrition)</td>
+<td>Recall bias, selection bias</td>
+</tr>
+<tr class="odd">
+<td><strong>Temporality</strong></td>
+<td>Clear</td>
+<td>Sometimes unclear</td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="attributable-risk" class="slide level2 center" data-background-color="#E3F2E1">
-<h2>Attributable Risk</h2>
-<p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Attributable Risk (AR)</strong> is the excess risk in the exposed group that is directly due to the exposure — the risk difference:</p>
-<p><code>AR = Risk in exposed − Risk in unexposed</code></p>
-<p><strong>Attributable Risk Percent (AR%)</strong> expresses this as a proportion of the total risk in the exposed group — i.e.&nbsp;how much of the exposed group’s risk would be eliminated if the exposure were removed:</p>
-<p><code>AR% = [(Risk exposed − Risk unexposed) / Risk exposed] × 100</code></p>
-<p><strong>Contrast with RR:</strong> RR tells you the <em>strength</em> of an association; AR/AR% tells you the <em>public health impact</em> of removing the exposure.</p>
+<section id="cohort-study-advantages-and-limitations" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Cohort Study: Advantages and Limitations</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p><strong>Advantages</strong></p>
+<ul>
+<li><strong>Incidence</strong>, RR and AR can be measured directly</li>
+<li><strong>Temporality is clear</strong>: exposure precedes outcome</li>
+<li>Several outcomes can be studied for one exposure</li>
+<li>Dose–response can be studied</li>
+<li>Little recall bias</li>
+</ul>
+</div><div class="column" style="width:50%;">
+<p><strong>Limitations</strong></p>
+<ul>
+<li>Large samples, long follow-up, high cost</li>
+<li><strong>Loss to follow-up</strong>; changes in exposure or diagnostic criteria over time</li>
+<li>Unsuitable for rare diseases</li>
+<li>Ethical issues when a known risk is left unaddressed</li>
+<li>Administrative difficulties</li>
+</ul>
+</div></div>
+</section>
+<section id="practice-questions-descriptive-lecture-7" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 7)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Long Essay</strong></p>
+<ol type="1">
+<li>Define epidemiology. Classify epidemiological study designs. Describe in detail the steps involved in a cohort study, and enumerate the advantages and disadvantages of cohort studies.</li>
+<li>Describe a cohort study with a suitable example.</li>
+</ol>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol start="3" type="1">
+<li>Cohort study: steps and risk measurements.</li>
+<li>Attributable risk and population attributable risk.</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="5" type="1">
+<li>Relative risk: definition and calculation.</li>
+<li>Attributable risk: calculation.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-7-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 7, contd.)</h2>
+<p><strong>Reasoning Type</strong></p>
+<ol start="7" type="1">
+<li>Give reasons why loss to follow-up threatens validity in cohort studies.</li>
+</ol>
+<p><strong>Numerical</strong></p>
+<ol start="8" type="1">
+<li>Smokers and non-smokers free of lung cancer were followed for 15 years: 70 of 7,000 smokers and 3 of 3,000 non-smokers developed lung cancer. Calculate RR, AR, the etiological fraction (AR%) and PAR%, and explain what each means.</li>
+</ol>
+<p><strong>University Examination Questions</strong></p>
+<ol start="9" type="1">
+<li>Mention two advantages of a cohort study.</li>
+</ol>
+</section>
+<section id="self-check-question-22" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 22</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-22" class="quiz-question">
+<h3>Question 22</h3>
+<p>Which measure of association can be directly calculated from a cohort study but NOT from a case-control study?</p>
+<ul>
+<li>Odds Ratio</li>
+<li><span class="correct" data-explanation="Cohort studies measure incidence directly in both exposed and unexposed groups, so relative risk can be calculated. Case-control studies cannot, because cases are already selected.">Relative Risk</span></li>
+<li>p-value</li>
+<li>Confidence interval</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-23" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 23</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-23" class="quiz-question">
+<h3>Question 23</h3>
+<p>If IE is the incidence of disease in the group exposed to a risk factor and IO the incidence in the unexposed group, then IE/IO gives the:</p>
+<ul>
+<li>Relative risk</li>
+<li>Risk ratio</li>
+<li><span class="correct" data-explanation="IE/IO is the relative risk, also called the risk ratio. IE − IO is the attributable risk (risk difference).">Both of these</span></li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-24" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 24</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-24" class="quiz-question">
+<h3>Question 24</h3>
+<p>Attributable Risk Percent (AR%) is best described as:</p>
+<ul>
+<li>The strength of an association</li>
+<li><span class="correct" data-explanation="AR% expresses the exposed group’s excess risk due to the exposure as a percentage of its total risk. It measures public health impact, not just the strength of association.">The proportion of exposed-group risk that would be eliminated if the exposure were removed</span></li>
+<li>The same value as the odds ratio</li>
+<li>A measure usable only in RCTs</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-25" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 25</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-25" class="quiz-question">
+<h3>Question 25</h3>
+<p>Annual incidence of thromboembolism per lakh women aged 30–39 is 5.3 among oral-contraceptive users and 1.8 among non-users. The RR and AR are:</p>
+<ul>
+<li><span class="correct" data-explanation="RR = 5.3 ÷ 1.8 ≈ 2.9 and AR = 5.3 − 1.8 = 3.5 per lakh. In the 40–49 age group (29.15 vs 9.9) the RR is the same, 2.9, but the AR is about 20 per lakh. The same RR can carry very different public-health impact.">RR 2.9; AR 3.5 per lakh</span></li>
+<li>RR 3.5; AR 2.9 per lakh</li>
+<li>RR 0.34; AR 3.5 per lakh</li>
+<li>RR 2.9; AR 7.1 per lakh</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-26" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 26</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-26" class="quiz-question">
+<h3>Question 26</h3>
+<p>In a cohort study, lung cancer incidence was 28 per 1000 among smokers and 4 per 1000 among non-smokers. The attributable risk percent (AR%) among smokers is about:</p>
+<ul>
+<li>14%</li>
+<li>24%</li>
+<li><span class="correct" data-explanation="RR = 28/4 = 7. AR = 28 − 4 = 24 per 1000. AR% = 24/28 × 100 ≈ 86%: about 86% of lung cancer among smokers is due to smoking.">86%</span></li>
+<li>700%</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-27" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 27</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-27" class="quiz-question">
+<h3>Question 27</h3>
+<p>In a cohort study, loss to follow-up is higher among exposed individuals who later develop the disease. This most likely introduces:</p>
+<ul>
+<li>Recall bias</li>
+<li>Information bias</li>
+<li><span class="correct" data-explanation="Differential loss to follow-up is a form of selection bias: those analysed no longer represent those enrolled, and the RR is distorted (here underestimated).">Selection bias</span></li>
+<li>Confounding</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-28" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 28</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-28" class="quiz-question">
+<h3>Question 28</h3>
+<p><strong>Assertion (A):</strong> In a cohort study, incidence can be directly measured.</p>
+<p><strong>Reason (R):</strong> Participants are followed over time from exposure status to observe the occurrence of new outcomes.</p>
+<ul>
+<li><span class="correct" data-explanation="Both are true, and R explains A. Because a disease-free cohort is followed forward, new cases can be counted against a known denominator, giving incidence and RR directly.">Both A and R are true, and R is the correct explanation of A</span></li>
+<li>Both A and R are true, but R is NOT the correct explanation of A</li>
+<li>A is true, R is false</li>
+<li>A is false, R is true</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-29" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 29</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-29" class="quiz-question">
+<h3>Question 29</h3>
+<p>A study uses 1990 factory employment records to classify workers by asbestos exposure, then traces their mesothelioma occurrence up to 2025. This is a:</p>
+<ul>
+<li>Prospective cohort study</li>
+<li><span class="correct" data-explanation="The design runs forward from exposure to outcome, which makes it a cohort study. Because both exposure and outcome have already happened when the study begins, it is a retrospective (historical) cohort.">Retrospective (historical) cohort study</span></li>
+<li>Case-control study</li>
+<li>Cross-sectional study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-30" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 30</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-30" class="quiz-question">
+<h3>Question 30</h3>
+<p>Loss to follow-up is likely in which of the following studies?</p>
+<ul>
+<li>Case-control study</li>
+<li>Cross-sectional analytical study</li>
+<li>Ecological study</li>
+<li><span class="correct" data-explanation="Only a cohort study follows subjects over time, so only a cohort study can lose them.">Cohort study</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-31" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 31</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-31" class="quiz-question">
+<h3>Question 31</h3>
+<p>The measure of risk in a cohort study is:</p>
+<ul>
+<li><span class="correct" data-explanation="Incidence in the exposed and unexposed is measured directly, giving RR (and AR).">Relative risk</span></li>
+<li>Prevalence odds ratio</li>
+<li>Exposure odds ratio</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-32" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 32</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-32" class="quiz-question">
+<h3>Question 32</h3>
+<p>A cohort study can be used to study all of the following, EXCEPT:</p>
+<ul>
+<li>Risk markers</li>
+<li>Risk factors</li>
+<li>Prognostic factors</li>
+<li><span class="correct" data-explanation="The textbook's answer: preventive factors (interventions) are best evaluated by experimental studies. Note that observational cohorts can still show protective associations, such as physical activity and IHD.">Preventive factors</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-33" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 33</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-33" class="quiz-question">
+<h3>Question 33</h3>
+<p>The direction of reasoning in a cohort study is:</p>
+<ul>
+<li><span class="correct" data-explanation="Reasoning always runs forward, from exposure (cause) to outcome (effect), even in a historical cohort.">Prospective</span></li>
+<li>Retrospective</li>
+<li>None of these</li>
+<li>Both of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-34" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 34</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-34" class="quiz-question">
+<h3>Question 34</h3>
+<p>Temporal association of a disease is best established by a:</p>
+<ul>
+<li>Case-control study</li>
+<li>Cross-sectional study</li>
+<li><span class="correct" data-explanation="Subjects are disease-free at the start and exposure is recorded before outcome, so temporality is certain.">Cohort study</span></li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-35" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 35</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-35" class="quiz-question">
+<h3>Question 35</h3>
+<p>Which type of bias is NOT likely in a cohort study?</p>
+<ul>
+<li><span class="correct" data-explanation="Exposure is recorded objectively at the start, not recalled after disease, so recall bias does not occur. Loss to follow-up, measurement bias and confounding can occur.">Recall bias</span></li>
+<li>Loss to follow-up bias</li>
+<li>Confounding</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-36" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 36</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-36" class="quiz-question">
+<h3>Question 36</h3>
+<p>In which of the following situations should we avoid the cohort design?</p>
+<ul>
+<li>Study of a suspected risk factor of a disease</li>
+<li>Study of prognostic factors</li>
+<li><span class="correct" data-explanation="A rare disease would need an enormous cohort to yield enough cases. A case-control study suits it better.">Study of a rare disease</span></li>
+<li>A study where the likely follow-up period is short</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-37" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 37</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-37" class="quiz-question">
+<h3>Question 37</h3>
+<p>Which of the following is correct for a cohort study?</p>
+<ul>
+<li>Two groups with neither exposure nor outcome are followed for a defined period</li>
+<li><span class="correct" data-explanation="A cohort study needs exposed and unexposed groups, both outcome-free at the start, followed forward.">Two groups, one exposed and one not, both free of the outcome, are followed for a defined period</span></li>
+<li>A single group is studied for exposure and outcome at one point in time</li>
+<li>A single group with exposure but not the disease is followed for a defined period</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-38" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 38</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-38" class="quiz-question">
+<h3>Question 38</h3>
+<p>300 antenatal women (100 tobacco users, 200 non-users) were followed until delivery to compare the incidence of low birth weight. The comparison cohort in this study is a(n):</p>
+<ul>
+<li>Comparison with the general population</li>
+<li><span class="correct" data-explanation="Both exposed and unexposed women come from the same examined group, so the comparison is internal (inbuilt).">Inbuilt (internal) comparison group</span></li>
+<li>Specially assembled (external) comparison cohort</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-39" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 39</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-39" class="quiz-question">
+<h3>Question 39</h3>
+<p>What is the measure of effect calculated in a cohort study?</p>
+<ul>
+<li><span class="correct" data-explanation="Relative risk = Iₑ/I₀.">RR</span></li>
+<li>OR</li>
+<li>Prevalence</li>
+<li>All of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-40" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 40</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-40" class="quiz-question">
+<h3>Question 40</h3>
+<p>A cohort study:</p>
+<ul>
+<li>Is always retrospective</li>
+<li>Is always prospective</li>
+<li><span class="correct" data-explanation="Prospective, retrospective (historical) and ambispective cohorts all exist. Only the calendar timing differs.">Can be retrospective or prospective</span></li>
+<li>Is always cross-sectional</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-41" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 41</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-41" class="quiz-question">
+<h3>Question 41</h3>
+<p>Which of the following is NOT an advantage of cohort studies?</p>
+<ul>
+<li><span class="correct" data-explanation="Cohort studies are large, long and costly. That is their main limitation.">They are much less expensive and need little time</span></li>
+<li>Temporal association is certain</li>
+<li>Recall bias is minimal</li>
+<li>They have a strong design from the epidemiological point of view</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-42" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 42</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-42" class="quiz-question">
+<h3>Question 42</h3>
+<p>A cohort study is one in which the epidemiologist starts with two comparable groups, of which:</p>
+<ul>
+<li><span class="correct" data-explanation="Selection is by exposure status, and all subjects are free of the outcome.">One has the exposure and the other does not</span></li>
+<li>One has the outcome and the other does not</li>
+<li>Both groups have the outcome</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-43" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 43</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-43" class="quiz-question">
+<h3>Question 43</h3>
+<p>A cohort study is NOT suitable for:</p>
+<ul>
+<li>Common diseases</li>
+<li><span class="correct" data-explanation="Too few cases would arise in a rare disease unless the cohort is impractically large.">Rare diseases</span></li>
+<li>Both of these</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-44" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 44</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-44" class="quiz-question">
+<h3>Question 44</h3>
+<p>Smokers (70 lung cancers in 7,000) and non-smokers (3 in 3,000) were followed for 15 years. The relative risk and attributable risk are:</p>
+<ul>
+<li><span class="correct" data-explanation="Iₑ = 70/7000 = 10 per 1000 and I₀ = 3/3000 = 1 per 1000. RR = 10/1 = 10. AR = 10 − 1 = 9 per 1000 over 15 years.">RR 10; AR 9 per 1000</span></li>
+<li>RR 9; AR 10 per 1000</li>
+<li>RR 23; AR 7.3 per 1000</li>
+<li>RR 10; AR 90 per 1000</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-45" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 45</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-45" class="quiz-question">
+<h3>Question 45</h3>
+<p>In the same smoking study (Iₑ 10, I₀ 1, total population 73/10,000 = 7.3 per 1000), the etiological fraction (AR%) and PAR% are:</p>
+<ul>
+<li><span class="correct" data-explanation="AR% = (RR − 1)/RR = 9/10 = 90% of lung cancer among smokers is due to smoking. PAR% = (Iₜ − I₀)/Iₜ = (7.3 − 1)/7.3 ≈ 86% of lung cancer in the whole population is due to smoking.">90% and 86%</span></li>
+<li>86% and 90%</li>
+<li>90% and 73%</li>
+<li>10% and 86%</li>
+</ul>
+</section>
 </section>
 <section id="lecture-8-experimental-studies" class="slide level2 center" data-background-color="#E6EEF5">
 <h2>Lecture 8: Experimental Studies</h2>
 <p>📚 <strong>Lecture 8 of 15</strong> · <strong>CM7.L8</strong></p>
 <p><em>Experimental studies - randomised controlled trial and its types</em></p>
 </section>
-<section id="randomized-controlled-trial-rct" class="slide level2 center" data-background-color="#FFF6DA">
+<section id="randomized-controlled-trial-rct" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Randomized Controlled Trial (RCT)</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p><strong>Design:</strong> the investigator actively and <strong>randomly</strong> assigns participants to an intervention group or a control/comparison group, then follows both forward to compare outcomes.</p>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/rct_flow.svg" class="slide-img" width="920"></p>
+<figcaption>Steps of an RCT</figcaption>
+</figure>
+</div>
+</section>
+<section id="randomization-and-blinding" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Randomization and Blinding</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><strong>Randomization (random allocation)</strong> gives every participant an equal chance of being in the study or control group.</p>
 <ul>
-<li><strong>Randomization</strong> balances known and unknown confounders between groups — the key strength of the RCT design</li>
-<li><strong>Blinding</strong> (single/double) reduces information bias from participants or assessors knowing group assignment</li>
-<li>Considered the strongest design for establishing causation, but often impractical or unethical for harmful exposures (you cannot randomize people to smoke, for instance — hence cohort/case-control designs exist)</li>
+<li>It removes <strong>selection bias</strong> and balances <strong>known and unknown confounders</strong>, which is the “heart” of the RCT</li>
+<li>Methods: random number tables, computer generation, block or stratified randomization, with allocation concealment</li>
+</ul>
+<p><strong>Blinding</strong> prevents bias from knowing who received what:</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Who does not know the allocation</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Single-blind</strong></td>
+<td>The participant</td>
+</tr>
+<tr class="even">
+<td><strong>Double-blind</strong></td>
+<td>The participant and the investigator/observer</td>
+</tr>
+<tr class="odd">
+<td><strong>Triple-blind</strong></td>
+<td>Participant, investigator, and the person analysing the data</td>
+</tr>
+</tbody>
+</table>
+<p>A <strong>placebo</strong> makes blinding possible when the control group gets no active treatment.</p>
+</section>
+<section id="analysing-a-trial-itt-vs-per-protocol" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Analysing a Trial: ITT vs Per-Protocol</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Intention-to-treat (ITT)</th>
+<th>Per-protocol</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Who is analysed</strong></td>
+<td>Everyone <strong>as randomized</strong>, whatever they actually received</td>
+<td>Only those who completed the assigned treatment</td>
+</tr>
+<tr class="even">
+<td><strong>Keeps randomization?</strong></td>
+<td><strong>Yes</strong>: groups stay comparable</td>
+<td>No: drop-outs differ from completers</td>
+</tr>
+<tr class="odd">
+<td><strong>Answers</strong></td>
+<td><em>Effectiveness</em> in real use (conservative)</td>
+<td><em>Efficacy</em> under ideal adherence (may overestimate)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>ITT is the primary analysis of an RCT.</strong> <strong>Allocation concealment</strong> (e.g.&nbsp;sealed envelopes, central randomization) keeps recruiters from knowing the next assignment. It is distinct from blinding.</p>
+</section>
+<section id="the-consort-flow-diagram" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>The CONSORT Flow Diagram</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/consort_flow.svg" class="slide-img" width="880"></p>
+<figcaption>CONSORT flow: enrolment, allocation, follow-up, analysis</figcaption>
+</figure>
+</div>
+</section>
+<section id="sample-size-what-drives-it" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Sample Size: What Drives It</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>A trial or survey must be large enough to detect a real effect. The sample size needed <strong>rises</strong> when:</p>
+<ul>
+<li>the <strong>α (type I error)</strong> is set lower, e.g.&nbsp;0.01 instead of 0.05</li>
+<li>the <strong>power (1 − β)</strong> is set higher, e.g.&nbsp;90% instead of 80%</li>
+<li>the <strong>effect size</strong> to be detected is smaller</li>
+<li>the outcome is <strong>rarer</strong>, or a continuous outcome is more <strong>variable</strong> (larger SD)</li>
+<li><strong>drop-outs</strong> are expected (add 10–20%)</li>
+</ul>
+<p>Too small a sample gives a <strong>type II error</strong>: a real difference missed. It is also unethical, because subjects bear the risk without a useful answer.</p>
+</section>
+<section id="types-of-randomized-controlled-trials" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Types of Randomized Controlled Trials</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Purpose / example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Clinical (therapeutic) trials</strong></td>
+<td>Evaluate a drug or procedure in patients</td>
+</tr>
+<tr class="even">
+<td><strong>Preventive trials</strong></td>
+<td>Evaluate a vaccine or chemoprophylaxis in healthy people at risk</td>
+</tr>
+<tr class="odd">
+<td><strong>Risk-factor trials</strong></td>
+<td>Modify a risk factor (diet, BP) to see whether disease falls</td>
+</tr>
+<tr class="even">
+<td><strong>Cessation experiments</strong></td>
+<td>Stop a suspected cause (e.g.&nbsp;smoking) and observe the effect</td>
+</tr>
+<tr class="odd">
+<td><strong>Trials of etiological agents</strong></td>
+<td>Confirm a suspected cause (e.g.&nbsp;retrolental fibroplasia and oxygen)</td>
+</tr>
+<tr class="even">
+<td><strong>Evaluation of health services</strong></td>
+<td>Compare ways of delivering care (e.g.&nbsp;domiciliary vs sanatorium TB treatment)</td>
+</tr>
+</tbody>
+</table>
+<p><strong>By setting:</strong> <strong>field trials</strong> study healthy individuals in the community (vaccine trials). <strong>Community trials</strong> allocate whole communities (water fluoridation).</p>
+</section>
+<section id="special-trial-designs" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Special Trial Designs</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<ul>
+<li><strong>Crossover trial</strong>: each subject receives both treatments in sequence (next slide)</li>
+<li><strong>Factorial design</strong>: two or more interventions are tested at once in all combinations (A, B, A+B, neither)</li>
+<li><strong>Cluster randomized trial</strong>: villages, schools or practices are randomized, not individuals</li>
+<li><strong>Multicentre trial</strong>: the same protocol at several sites, to reach a large sample quickly</li>
+<li><strong>Non-randomized trials</strong>:
+<ul>
+<li><em>uncontrolled trials</em>: no comparison group, as in early drug trials</li>
+<li><em>natural experiments</em>: Snow’s water companies, Hiroshima</li>
+<li><em>before-and-after studies</em>: with or without a control group</li>
+</ul></li>
 </ul>
 </section>
-<section id="cross-sectional-and-ecological-studies" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Cross-Sectional and Ecological Studies</h2>
+<section id="crossover-design" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Crossover Design</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/crossover_design.svg" class="slide-img" width="820"></p>
+<figcaption>Crossover design</figcaption>
+</figure>
+</div>
 <ul>
-<li><strong>Cross-sectional study</strong> — measures exposure and disease <strong>simultaneously</strong>, at a single point in time, in a population; useful for estimating <strong>prevalence</strong>, but cannot establish which came first (exposure or disease) — the key limitation</li>
-<li><strong>Ecological study</strong> — compares exposure and disease rates across <strong>groups/populations</strong>, not individuals (e.g.&nbsp;comparing national smoking rates to national lung cancer rates); fast and cheap, but vulnerable to the <strong>ecological fallacy</strong> — a group-level association doesn’t guarantee the same association holds for individuals</li>
+<li><strong>Advantages:</strong> each subject is their own control, so between-subject confounding is removed. The sample size is smaller. It is ethically attractive, because everyone receives both therapies.</li>
+<li><strong>Disadvantages:</strong> a <strong>washout</strong> period is needed to remove carry-over, which prolongs the trial. Blinding is hard if one therapy is oral and the other parenteral. It is impossible when a therapy <strong>cures</strong> the disease (e.g.&nbsp;antibiotics).</li>
 </ul>
+</section>
+<section id="phases-of-clinical-trials" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Phases of Clinical Trials</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Phase</th>
+<th>Subjects</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Pre-clinical</strong></td>
+<td>Animals, laboratory</td>
+<td>Toxicity, pharmacology</td>
+</tr>
+<tr class="even">
+<td><strong>Phase I</strong></td>
+<td>20–80 healthy volunteers</td>
+<td>Safety, dose range, <strong>maximum tolerated dose (MTD)</strong>, pharmacokinetics</td>
+</tr>
+<tr class="odd">
+<td><strong>Phase II</strong></td>
+<td>100–300 patients</td>
+<td>Efficacy and side-effects at the chosen dose</td>
+</tr>
+<tr class="even">
+<td><strong>Phase III</strong></td>
+<td>1000s of patients, often multicentre RCTs</td>
+<td>Confirms efficacy against the standard treatment; the basis for licensing</td>
+</tr>
+<tr class="odd">
+<td><strong>Phase IV</strong></td>
+<td>The general population after marketing</td>
+<td><strong>Post-marketing surveillance</strong>: rare and late adverse effects, long-term effectiveness</td>
+</tr>
+</tbody>
+</table>
+<p>Thalidomide (phocomelia) and rofecoxib (cardiovascular events) were withdrawn after problems surfaced in <strong>Phase IV</strong>.</p>
+</section>
+<section id="vaccine-efficacy-and-number-needed-to-treat" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Vaccine Efficacy and Number Needed to Treat</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><strong>Vaccine efficacy</strong> = (Iᵤᵥ − Iᵥ) ÷ Iᵤᵥ × 100</p>
+<p><em>Typhoid vaccine trial:</em> 80/1000 cases in the placebo group and 20/1000 in the vaccinated group, so VE = (0.08 − 0.02) ÷ 0.08 = <strong>75%</strong></p>
+<p><strong>Number Needed to Treat (NNT)</strong> = 1 ÷ absolute risk difference</p>
+<p><em>Drug X vs ramipril:</em> hypertension was controlled in 91% vs 67%. The difference is 0.24, so NNT = 1 ÷ 0.24 ≈ <strong>4</strong>. Treating 4 patients with drug X gives one extra controlled patient compared with ramipril.</p>
+<p>The lower the NNT, the more effective the intervention. The equivalent for harm is the <strong>NNH</strong> (number needed to harm).</p>
+</section>
+<section id="case-scenario-two-ways-to-do-a-bypass" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Two Ways to Do a Bypass</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>Survival on the 10th post-operative day was <strong>45 of 50</strong> after CABG on cardiopulmonary bypass and <strong>32 of 40</strong> after off-pump (beating-heart) CABG.</p>
+<ol type="1">
+<li>Calculate the ratio of survival (efficacy, Iₑ ÷ I₀).</li>
+<li>Calculate the NNT and explain it.</li>
+<li>Can we conclude that on-pump surgery is better? What design would you want?</li>
+</ol>
+</section>
+<section id="case-scenario-two-ways-to-do-a-bypass-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Two Ways to Do a Bypass, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
+<ul>
+<li>Iₑ = 45 ÷ 50 = 0.90; I₀ = 32 ÷ 40 = 0.80; ratio = 0.90 ÷ 0.80 = <strong>1.13</strong></li>
+<li><strong>AR</strong> = 0.10, so <strong>NNT</strong> = 1 ÷ 0.10 = <strong>10</strong>. Treat 10 patients on-pump instead of off-pump for <strong>one extra survivor</strong> at day 10.</li>
+<li><strong>Not yet.</strong> If patients were not randomized, sicker patients may have gone to one technique (selection bias, confounding). A <strong>randomized controlled trial</strong> with blinded outcome assessment is needed.</li>
+</ul>
+</section>
+<section id="number-needed-to-treat" class="slide level2 center" data-background-color="#E8E4F3">
+<h2>Number Needed to Treat</h2>
+<p>🟣 <strong>MAY KNOW</strong></p>
+<ul>
+<li>NNT is always tied to a <strong>comparator</strong>, an <strong>outcome</strong> and a <strong>time period</strong>, e.g.&nbsp;“NNT 4 over 6 months vs ramipril for BP control”</li>
+<li>For prevention, NNTs are often large, e.g.&nbsp;hundreds treated for 5 years to prevent one stroke. This is still worthwhile if the treatment is cheap and safe.</li>
+<li>NNT can only be calculated from studies that measure risks directly (cohort studies and trials), not from case-control odds ratios alone</li>
+</ul>
+</section>
+<section id="animal-experiments" class="slide level2 center" data-background-color="#E8E4F3">
+<h2>Animal Experiments</h2>
+<p>🟣 <strong>MAY KNOW</strong></p>
+<p><strong>Advantages:</strong> conditions can be controlled. Animals can be exposed to suspected agents that could never be given to humans (e.g.&nbsp;carcinogens). Short life spans allow multigeneration studies. Experiments reproduce disease and help test hypotheses, vaccines and drugs.</p>
+<p><strong>Limitations:</strong> results cannot always be <strong>extrapolated</strong> to humans because of species differences in susceptibility and metabolism. Some human diseases cannot be reproduced in animals. Ethical constraints and regulations (CPCSEA in India) apply, along with the “3Rs” (replace, reduce, refine).</p>
+</section>
+<section id="practice-questions-descriptive-lecture-8" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 8)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Long Essay</strong></p>
+<ol type="1">
+<li>What is a randomized controlled trial (RCT)? Enumerate the different types of randomized controlled trials. Outline the steps involved in conducting an RCT and add a note on blinding.</li>
+</ol>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol start="2" type="1">
+<li>Write the steps involved in a randomized controlled trial (RCT).</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="3" type="1">
+<li>Cross-over type of study design.</li>
+<li>Blinding in randomized controlled trials.</li>
+<li>Advantages and limitations of animal experiments.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-8-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 8, contd.)</h2>
+<p><strong>University Examination Questions</strong></p>
+<ol start="6" type="1">
+<li>Describe an RCT with a suitable example.</li>
+<li>Basic steps in conducting a randomized controlled trial.</li>
+<li>Blinding in randomized controlled trials.</li>
+<li>Phases of clinical trials.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-8-contd.-1" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 8, contd.)</h2>
+<p><strong>Short Notes (additional)</strong></p>
+<ol start="10" type="1">
+<li>Intention-to-treat analysis.</li>
+<li>CONSORT flow diagram.</li>
+<li>Factors determining sample size.</li>
+</ol>
+</section>
+<section id="self-check-question-46" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 46</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-46" class="quiz-question">
+<h3>Question 46</h3>
+<p>The main strength of randomization in an RCT is that it:</p>
+<ul>
+<li>Guarantees a statistically significant result</li>
+<li><span class="correct" data-explanation="Randomization distributes both known and unknown confounding factors evenly across groups, isolating the effect of the intervention.">Balances known and unknown confounders between the intervention and control groups</span></li>
+<li>Removes the need for a control group</li>
+<li>Eliminates all information bias automatically</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-47" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 47</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-47" class="quiz-question">
+<h3>Question 47</h3>
+<p>Another name for randomization is:</p>
+<ul>
+<li>Random sampling</li>
+<li><span class="correct" data-explanation="Randomization allocates subjects already in the study to intervention or control by chance. Random sampling is how subjects are chosen from a population. The two are distinct.">Random allocation</span></li>
+<li>Random error</li>
+<li>Random variable</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-48" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 48</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-48" class="quiz-question">
+<h3>Question 48</h3>
+<p><strong>Assertion (A):</strong> Confounding can be reduced by randomization in experimental studies.</p>
+<p><strong>Reason (R):</strong> Randomization tends to distribute known and unknown confounders equally between groups.</p>
+<ul>
+<li><span class="correct" data-explanation="Both are true, and R explains A. Randomization is the only method that also controls unknown confounders.">Both A and R are true, and R is the correct explanation of A</span></li>
+<li>Both A and R are true, but R is NOT the correct explanation of A</li>
+<li>A is true, R is false</li>
+<li>A is false, R is true</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-49" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 49</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-49" class="quiz-question">
+<h3>Question 49</h3>
+<p>In a typhoid vaccine trial, 2000 children were randomized into two groups of 1000. Over one year, 20 vaccinated and 80 placebo children developed typhoid. The vaccine efficacy is:</p>
+<ul>
+<li>25%</li>
+<li>60%</li>
+<li><span class="correct" data-explanation="Iuv = 80/1000 = 0.08 and Iv = 20/1000 = 0.02. VE = (Iuv − Iv)/Iuv × 100 = 0.06/0.08 × 100 = 75%.">75%</span></li>
+<li>80%</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-50" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 50</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-50" class="quiz-question">
+<h3>Question 50</h3>
+<p>Hypertension was controlled in 91% of patients given new drug X and in 67% of patients given ramipril. The number needed to treat (NNT) is about:</p>
+<ul>
+<li>2</li>
+<li><span class="correct" data-explanation="AR (absolute benefit increase) = 0.91 − 0.67 = 0.24. NNT = 1/0.24 ≈ 4: treating 4 patients with drug X gives one extra controlled patient compared with ramipril.">4</span></li>
+<li>24</li>
+<li>58</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-51" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 51</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-51" class="quiz-question">
+<h3>Question 51</h3>
+<p>In a triple-blind trial, the group assignment is concealed from the:</p>
+<ul>
+<li>Participants only</li>
+<li>Participants and the investigator assessing outcomes</li>
+<li><span class="correct" data-explanation="Single-blind: the participant does not know. Double-blind: neither the participant nor the investigator knows. Triple-blind: the analyst also does not know.">Participants, the investigators, and the person analysing the data</span></li>
+<li>Ethics committee</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-52" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 52</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-52" class="quiz-question">
+<h3>Question 52</h3>
+<p>In a crossover trial:</p>
+<ul>
+<li><span class="correct" data-explanation="Each subject acts as their own control. This suits chronic, stable conditions, and a washout period prevents carry-over. Cluster randomization and factorial designs are the other two options described.">Each participant receives both treatments in sequence, separated by a washout period</span></li>
+<li>Whole villages are randomized rather than individuals</li>
+<li>Two interventions are tested simultaneously in all combinations</li>
+<li>Patients who fail on one drug are switched to the other at the doctor’s discretion</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-53" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 53</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-53" class="quiz-question">
+<h3>Question 53</h3>
+<p>A trial in which whole communities, rather than individuals, receive the intervention (e.g.&nbsp;water fluoridation) is a:</p>
+<ul>
+<li>Clinical trial</li>
+<li>Field trial</li>
+<li><span class="correct" data-explanation="Community trials allocate the intervention at the community level. Field trials study healthy individuals at risk in the field, as in vaccine trials.">Community trial</span></li>
+<li>Crossover trial</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-54" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 54</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-54" class="quiz-question">
+<h3>Question 54</h3>
+<p>In which of the following studies is randomization done?</p>
+<ul>
+<li>Case-control study</li>
+<li>Cohort study</li>
+<li><span class="correct" data-explanation="Only in an experiment does the investigator allocate the exposure, so only there can it be randomized.">Experimental study</span></li>
+<li>Cross-sectional study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-55" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 55</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-55" class="quiz-question">
+<h3>Question 55</h3>
+<p>Which is the ideal (most scientific) design for an epidemiological study?</p>
+<ul>
+<li>Case-control study</li>
+<li>Cohort study</li>
+<li><span class="correct" data-explanation="A randomized controlled trial controls known and unknown confounders and gives the strongest evidence of cause and effect.">Experimental study</span></li>
+<li>Cross-sectional study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-56" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 56</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-56" class="quiz-question">
+<h3>Question 56</h3>
+<p>An experimental study can be used in all of the following settings, EXCEPT:</p>
+<ul>
+<li><span class="correct" data-explanation="It is unethical to deliberately expose people to a suspected risk factor, so risk factors are studied observationally. “Risk-factor trials” only test removing or reducing an existing risk factor.">Study of risk factors</span></li>
+<li>Efficacy of preventive procedures</li>
+<li>Efficacy of treatment procedures</li>
+<li>Evaluation of health services</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-57" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 57</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-57" class="quiz-question">
+<h3>Question 57</h3>
+<p>An experimental study cannot be used to study:</p>
+<ul>
+<li>Risk factors for a disease</li>
+<li>Prognostic factors for a disease</li>
+<li><span class="correct" data-explanation="Neither a suspected harmful exposure nor an adverse prognostic factor can ethically be assigned to people. Both are studied with cohort or case-control designs.">Both of these</span></li>
+<li>It can be used to study both</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-58" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 58</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-58" class="quiz-question">
+<h3>Question 58</h3>
+<p>Phase IV of a clinical trial is:</p>
+<ul>
+<li><span class="correct" data-explanation="Phase IV follows licensing. It monitors safety and effectiveness in routine use and detects rare and late adverse effects.">Post-marketing surveillance</span></li>
+<li>Clinical trial</li>
+<li>Animal studies</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-59" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 59</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-59" class="quiz-question">
+<h3>Question 59</h3>
+<p>Rofecoxib, a widely used NSAID for rheumatoid arthritis, was withdrawn after reports of adverse cardiovascular effects. This is an example of:</p>
+<ul>
+<li>Assessment of adverse effects at MTD</li>
+<li>Assessment of MTD</li>
+<li>A classical randomized controlled trial</li>
+<li><span class="correct" data-explanation="The problem surfaced after marketing, through post-marketing (Phase IV) surveillance.">Phase IV of a clinical trial</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-60" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 60</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-60" class="quiz-question">
+<h3>Question 60</h3>
+<p>The withdrawal of thalidomide from the market was an example of which phase of clinical trial?</p>
+<ul>
+<li>Phase I</li>
+<li>Phase II</li>
+<li>Phase III</li>
+<li><span class="correct" data-explanation="Thalidomide's teratogenicity (phocomelia) was detected after the drug was marketed, i.e. in Phase IV.">Phase IV</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-61" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 61</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-61" class="quiz-question">
+<h3>Question 61</h3>
+<p>A cessation experiment is a type of:</p>
+<ul>
+<li>Cohort study</li>
+<li><span class="correct" data-explanation="The investigator arranges for a suspected cause (e.g. smoking) to be stopped in one group and compares outcomes. This is an intervention study.">Experimental study</span></li>
+<li>Case-control study</li>
+<li>Cross-sectional study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-62" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 62</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-62" class="quiz-question">
+<h3>Question 62</h3>
+<p>In single blinding, who is unaware of the type of treatment being given?</p>
+<ul>
+<li>Analyser</li>
+<li>Observer</li>
+<li><span class="correct" data-explanation="Single-blind: the subject does not know. Double-blind: the subject and observer do not know. Triple-blind: the analyser does not know either.">Subject</span></li>
+<li>All of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-63" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 63</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-63" class="quiz-question">
+<h3>Question 63</h3>
+<p>What is the tool for control of confounding in an experimental design?</p>
+<ul>
+<li>Blinding</li>
+<li>Statistical analysis</li>
+<li><span class="correct" data-explanation="Randomization distributes known and unknown confounders equally between groups. Blinding controls information bias.">Randomization</span></li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-64" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 64</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-64" class="quiz-question">
+<h3>Question 64</h3>
+<p>In an experimental study, before randomization, the epidemiologist will remove:</p>
+<ul>
+<li>All those who already have the exposure</li>
+<li>All those who already have the outcome</li>
+<li><span class="correct" data-explanation="Subjects must be free of the outcome, and must not already have the exposure or intervention being tested, so that the allocated exposure is the only difference.">Both of these</span></li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-65" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 65</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-65" class="quiz-question">
+<h3>Question 65</h3>
+<p>In which experimental study is a group of subjects randomized instead of individual subjects?</p>
+<ul>
+<li>Clinical trial</li>
+<li>Preventive trial</li>
+<li>Cessation experiment</li>
+<li><span class="correct" data-explanation="Community or cluster trials allocate whole communities (villages, schools) to intervention or control.">Community intervention trial</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-66" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 66</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-66" class="quiz-question">
+<h3>Question 66</h3>
+<p>Imipenem results in ICU septicaemia patients were compared with earlier data from when imipenem was unavailable and cefotaxime was used. This is an example of:</p>
+<ul>
+<li>Randomized controlled trial</li>
+<li>Phase I clinical trial</li>
+<li><span class="correct" data-explanation="There is an intervention but no randomization, and the controls are historical. That is a quasi-experimental (non-randomized) design.">Quasi-experimental design</span></li>
+<li>Crossover design</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-67" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 67</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-67" class="quiz-question">
+<h3>Question 67</h3>
+<p>Survival on the 10th post-operative day was 45/50 (90%) after CABG on cardiopulmonary bypass and 32/40 (80%) after off-pump CABG. The efficacy (Iₑ/I₀) of CABG with CPB is:</p>
+<ul>
+<li>1.00</li>
+<li><span class="correct" data-explanation="Iₑ = 45/50 = 0.9 and I₀ = 32/40 = 0.8, so the ratio is 0.9/0.8 = 1.13.">1.13</span></li>
+<li>0.88</li>
+<li>1.45</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-68" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 68</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-68" class="quiz-question">
+<h3>Question 68</h3>
+<p>In the same CABG comparison, the number needed to treat (NNT) is:</p>
+<ul>
+<li>2</li>
+<li>5</li>
+<li><span class="correct" data-explanation="AR = 0.9 − 0.8 = 0.1 and NNT = 1/0.1 = 10. Ten patients must undergo CABG with CPB, rather than off-pump, for one additional survivor at day 10.">10</span></li>
+<li>12</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-69" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 69</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-69" class="quiz-question">
+<h3>Question 69</h3>
+<p>In an RCT, analysing every participant in the group to which they were randomized, regardless of the treatment actually received, is called:</p>
+<ul>
+<li>Per-protocol analysis</li>
+<li><span class="correct" data-explanation="Intention-to-treat keeps the comparability created by randomization. It is the primary analysis of an RCT and estimates effectiveness conservatively.">Intention-to-treat analysis</span></li>
+<li>As-treated analysis</li>
+<li>Subgroup analysis</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-70" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 70</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-70" class="quiz-question">
+<h3>Question 70</h3>
+<p><strong>Assertion (A):</strong> Per-protocol analysis may overestimate the benefit of an intervention.</p>
+<p><strong>Reason (R):</strong> It excludes participants who did not adhere, who may differ systematically from those who did.</p>
+<ul>
+<li><span class="correct" data-explanation="Both are true, and R explains A. Non-adherent participants are often sicker or experience more side-effects. Excluding them breaks randomization and flatters the treatment.">Both A and R are true, and R is the correct explanation of A</span></li>
+<li>Both A and R are true, but R is NOT the correct explanation of A</li>
+<li>A is true, R is false</li>
+<li>A is false, R is true</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-71" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 71</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-71" class="quiz-question">
+<h3>Question 71</h3>
+<p>Keeping the person who enrols participants unaware of the next treatment assignment (e.g.&nbsp;by central randomization or sealed opaque envelopes) is known as:</p>
+<ul>
+<li>Blinding</li>
+<li><span class="correct" data-explanation="Allocation concealment protects the randomization sequence before assignment. Blinding hides the assignment after it is made.">Allocation concealment</span></li>
+<li>Matching</li>
+<li>Stratification</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-72" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 72</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-72" class="quiz-question">
+<h3>Question 72</h3>
+<p>Other things being equal, which change INCREASES the sample size needed for a trial?</p>
+<ul>
+<li>Detecting a larger effect</li>
+<li>Accepting 80% instead of 90% power</li>
+<li><span class="correct" data-explanation="A stricter α, higher power, a smaller effect, a rarer outcome or more variability all need a larger sample.">Setting α at 0.01 instead of 0.05</span></li>
+<li>Studying a more common outcome</li>
+</ul>
+</section>
 </section>
 <section id="lecture-9-association-causation-and-bias" class="slide level2 center" data-background-color="#E6EEF5">
 <h2>Lecture 9: Association, Causation, and Bias</h2>
 <p>📚 <strong>Lecture 9 of 15</strong> · <strong>CM7.L9</strong></p>
 <p><em>Association, causation and bias in epidemiological studies</em></p>
 </section>
-<section id="selection-bias" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Selection Bias</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>Occurs when the individuals selected into a study are <strong>not representative</strong> of the population they’re meant to reflect — e.g. volunteer bias, or a hospital-based control group that differs systematically from the general population.</p>
-<p><strong>Must be prevented at the design stage</strong> — it generally cannot be fixed by statistical adjustment after data are collected.</p>
+<section id="from-association-to-causation" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>From Association to Causation</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/causal_evaluation.svg" class="slide-img" width="920"></p>
+<figcaption>Evaluating an association for causation</figcaption>
+</figure>
+</div>
 </section>
-<section id="information-bias" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Information Bias</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>Arises from <strong>inaccurate measurement</strong> of exposure or outcome — including:</p>
-<ul>
-<li><strong>Recall bias</strong> — cases (who are searching for an explanation for their illness) may remember or report past exposures differently than controls — a particular risk in case-control studies</li>
-<li><strong>Observer/interviewer bias</strong> — differential data collection depending on which group a participant is in</li>
-</ul>
-<p>Like selection bias, this is best prevented by design (blinding, standardized measurement) rather than fixed afterward.</p>
-</section>
-<section id="confounding" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Confounding</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>A <strong>confounder</strong> is a third factor that is associated with <em>both</em> the exposure and the outcome, and distorts the apparent exposure–disease association — it can exaggerate, mask, or even reverse the true direction of an effect.</p>
-<p><strong>Example:</strong> age can confound the association between grey hair and heart disease — older people have more grey hair <em>and</em> more heart disease, with no direct causal link between the two.</p>
-<p><strong>Unlike selection and information bias, confounding can be addressed after data collection</strong> — through stratification, matching, or statistical adjustment (e.g.&nbsp;multivariable regression) — as well as through randomization at the design stage.</p>
-</section>
-<section id="types-of-association" class="slide level2 center" data-background-color="#FFF6DA">
+<section id="types-of-association" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Types of Association</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>Not every statistical association between an exposure and a disease is causal. Four categories are recognized:</p>
+<p>🟢 <strong>MUST KNOW</strong></p>
 <table class="caption-top">
 <colgroup>
 <col style="width: 50%">
@@ -376,183 +2060,668 @@
 <tbody>
 <tr class="odd">
 <td><strong>Spurious</strong></td>
-<td>An artifact of bias — comparing groups that were never truly “like with like” (a form of selection bias)</td>
+<td>An artefact of bias, from comparing groups that were never “like with like”. It is prevented by proper design: comparable groups, randomization, standardized measurement.</td>
 </tr>
 <tr class="even">
 <td><strong>Indirect</strong></td>
-<td>Exposure and disease are each linked to a separate third factor, with no direct link between them (e.g.&nbsp;altitude and endemic goitre — both track with iodine-poor terrain)</td>
+<td>Exposure and disease are each linked to a separate third factor, with no direct link between them (e.g.&nbsp;altitude and endemic goitre, both tracking iodine-poor terrain)</td>
 </tr>
 <tr class="odd">
-<td><strong>One-to-one causal</strong></td>
-<td>A change in the exposure directly produces a change in disease — the single-cause model behind Koch’s postulates (Chapter 2)</td>
+<td><strong>Direct (causal), one-to-one</strong></td>
+<td>A change in the exposure directly produces a change in disease: the single-cause model behind Koch’s postulates</td>
 </tr>
 <tr class="even">
-<td><strong>Multifactorial causal</strong></td>
-<td>Several causes act together — either independently (any one is enough) or cumulatively/synergistically (as in coronary heart disease)</td>
+<td><strong>Direct (causal), multifactorial</strong></td>
+<td>Several causes act independently or cumulatively/synergistically (coronary heart disease)</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Rule of thumb:</strong> correlation can suggest causation, but never proves it on its own — ruling out spurious and indirect association is exactly what the Bradford Hill criteria (Chapter 2) are for.</p>
+<p><strong>Rule of thumb:</strong> correlation can suggest causation, but never proves it on its own.</p>
 </section>
-<section id="mortality-rates-crude-specific-and-case-fatality" class="slide level2 center" data-background-color="#E3F2E1">
-<h2>Mortality Rates: Crude, Specific, and Case Fatality</h2>
+<section id="chance-and-statistical-significance" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Chance and Statistical Significance</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<ul>
+<li>Any observed association may arise by <strong>chance</strong> (random error), especially in small samples</li>
+<li>The <strong>p-value</strong> is the probability of a result at least this extreme if there were truly no association. Conventionally, p &lt; 0.05 counts as statistically significant.</li>
+<li>The <strong>95% confidence interval</strong> is the range likely to contain the true RR or OR. If it excludes 1, the association is significant, and a narrow CI means a precise estimate.</li>
+<li>Random error is reduced by <strong>increasing sample size</strong>. Systematic error (bias) is <strong>not</strong>.</li>
+<li>Statistical significance ≠ clinical importance ≠ causation</li>
+</ul>
+</section>
+<section id="selection-bias" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Selection Bias</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>Occurs when the people selected into (or retained in) a study are <strong>not representative</strong> of the population they should reflect, in a way related to exposure or outcome.</p>
+<ul>
+<li>Examples: volunteer bias, Berkson’s (hospital admission) bias, the healthy worker effect, <strong>differential loss to follow-up</strong> in cohorts, and non-response</li>
+<li>It <strong>must be prevented at the design stage</strong>. It generally cannot be fixed by statistical adjustment afterwards.</li>
+</ul>
+</section>
+<section id="information-bias" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Information Bias</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>Arises from <strong>inaccurate measurement or classification</strong> of exposure or outcome (misclassification):</p>
+<ul>
+<li><strong>Recall (memory) bias</strong>: cases remember or report past exposures differently from controls</li>
+<li><strong>Interviewer (observer) bias</strong>: data are collected differently depending on group membership</li>
+<li><strong>Hawthorne effect</strong>: subjects change their behaviour because they know they are being observed</li>
+<li><strong>Instrument or technique errors</strong>: an uncalibrated sphygmomanometer, no rest before a BP reading</li>
+</ul>
+<p>It is best prevented by <strong>blinding</strong>, standardized instruments and protocols, and objective records.</p>
+</section>
+<section id="confounding" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Confounding</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
+<p>A <strong>confounder</strong> is a third factor that is:</p>
+<ol type="1">
+<li>Associated with the <strong>exposure</strong></li>
+<li>An independent risk factor for the <strong>outcome</strong></li>
+<li><strong>Not</strong> an intermediate step on the causal pathway</li>
+</ol>
+<p><strong>Example:</strong> age confounds grey hair and heart disease. Older people have more of both, with no causal link between them. Alcohol and lung cancer are confounded by smoking.</p>
 <table class="caption-top">
 <colgroup>
-<col style="width: 33%">
-<col style="width: 33%">
-<col style="width: 33%">
+<col style="width: 50%">
+<col style="width: 50%">
 </colgroup>
 <thead>
 <tr class="header">
-<th>Rate</th>
-<th>Formula (per convention)</th>
-<th>Use</th>
+<th>Stage</th>
+<th>Methods of control</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>Crude Death Rate (CDR)</strong></td>
-<td>All deaths ÷ mid-year population × 1,000</td>
-<td>Simplest mortality measure — but not comparable between populations with different age structures</td>
+<td><strong>Design</strong></td>
+<td>Randomization (also controls <em>unknown</em> confounders) · restriction · matching</td>
 </tr>
 <tr class="even">
-<td><strong>Specific Death Rate</strong></td>
-<td>Deaths in a subgroup (age/sex/cause) ÷ subgroup population × 1,000</td>
-<td>Identifies at-risk groups; comparable across causes within a population</td>
-</tr>
-<tr class="odd">
-<td><strong>Case Fatality Rate (CFR)</strong></td>
-<td>Deaths from a disease ÷ cases of that disease × 100</td>
-<td>The “killing power” of a disease — best suited to acute infections, not chronic disease</td>
-</tr>
-<tr class="even">
-<td><strong>Proportional Mortality Rate (PMR)</strong></td>
-<td>Deaths from a cause ÷ all deaths × 100</td>
-<td>Used when population denominators aren’t available — does <strong>not</strong> measure risk of dying</td>
+<td><strong>Analysis</strong></td>
+<td>Stratification (Mantel–Haenszel) · standardization · multivariable regression</td>
 </tr>
 </tbody>
 </table>
-<p><strong>Common exam trap:</strong> PMR is often mistaken for a risk measure. It only describes the <em>share</em> of deaths due to a cause — a rising PMR can simply mean deaths from other causes fell, not that the disease got more lethal.</p>
 </section>
-<section id="standardization-direct-and-indirect-methods" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Standardization: Direct and Indirect Methods</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>Crude rates aren’t comparable between populations with different age (or sex) structures. <strong>Standardization</strong> removes that distortion by applying a common “standard population.”</p>
+<section id="confounding-a-picture" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Confounding: A Picture</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/confounding_triangle.svg" class="slide-img" width="920"></p>
+<figcaption>Smoking confounds the coffee and pancreatic cancer association</figcaption>
+</figure>
+</div>
+</section>
+<section id="case-scenario-coffee-and-pancreatic-cancer" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Coffee and Pancreatic Cancer</h2>
+<p>🧡 <strong>CASE SCENARIO</strong></p>
+<p>A case-control study finds that patients with pancreatic cancer drank more coffee than controls (<strong>crude OR 2.5</strong>).</p>
+<ol type="1">
+<li>Which third factor could explain this association?</li>
+<li>How would you check for it?</li>
+<li>How could it be controlled at the design and analysis stages?</li>
+</ol>
+</section>
+<section id="case-scenario-coffee-and-pancreatic-cancer-discussion" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Case Scenario: Coffee and Pancreatic Cancer, Discussion</h2>
+<p>🧡 <strong>CASE SCENARIO: DISCUSSION</strong></p>
 <ul>
-<li><strong>Direct method</strong> — used when age-specific rates are known for the populations being compared. Apply each population’s own age-specific rates to one standard population, then compare the resulting expected totals.</li>
-<li><strong>Indirect method</strong> — used when age-specific rates for the study population aren’t available. Apply the <em>standard population’s</em> age-specific rates to the study population’s age structure, producing the <strong>Standardized Mortality Ratio (SMR)</strong>:</li>
+<li><strong>Smoking:</strong> smokers drink more coffee, and smoking independently causes pancreatic cancer. It is a <strong>confounder</strong>.</li>
+<li><strong>Stratify</strong> by smoking. If the OR is close to 1 among smokers and among non-smokers, the crude association was confounding.</li>
+<li><strong>Design:</strong> restriction (non-smokers only), matching on smoking. <strong>Analysis:</strong> Mantel–Haenszel stratification, logistic regression.</li>
 </ul>
-<p><code>SMR = Observed deaths / Expected deaths</code></p>
-<p>An SMR above 1 means the study population had more deaths than expected from the standard population’s experience; below 1 means fewer.</p>
+</section>
+<section id="validity-reliability-and-variation" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Validity, Reliability, and Variation</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<ul>
+<li><strong>Validity (accuracy)</strong>: measures what it is meant to measure. <strong>Internal validity</strong> means the results are true for the study subjects (free of bias, systematic error and misclassification). <strong>External validity</strong> means they generalize to the reference population.</li>
+<li><strong>Reliability (precision, repeatability, reproducibility, consistency)</strong>: gives the same result on repetition. A test can be reliable but not valid.</li>
+</ul>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source of variation</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Intra-subject (biological)</strong></td>
+<td>BP varies through the day; basal temperature rises at ovulation</td>
+</tr>
+<tr class="even">
+<td><strong>Inter-subject</strong></td>
+<td>True differences between people, which is what we want to measure</td>
+</tr>
+<tr class="odd">
+<td><strong>Intra-observer</strong></td>
+<td>The same doctor reads the same X-ray differently on two occasions</td>
+</tr>
+<tr class="even">
+<td><strong>Inter-observer</strong></td>
+<td>Two radiologists disagree on the same CT scan</td>
+</tr>
+<tr class="odd">
+<td><strong>Instrument / technique</strong></td>
+<td>Uncalibrated scale, wrong cuff size, no rest period</td>
+</tr>
+</tbody>
+</table>
+<p>Standardizing instruments and technique reduces observer, instrument and technique variation, but not true inter-subject differences.</p>
+</section>
+<section id="causal-criteria-bradford-hill-1965" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Causal Criteria (Bradford Hill, 1965)</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Criterion</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Temporality</strong></td>
+<td>The cause precedes the effect. This is the <strong>only essential</strong> criterion.</td>
+</tr>
+<tr class="even">
+<td><strong>Strength</strong></td>
+<td>A larger RR or OR is more likely to be causal</td>
+</tr>
+<tr class="odd">
+<td><strong>Consistency</strong></td>
+<td>Repeated in different studies, places and designs</td>
+</tr>
+<tr class="even">
+<td><strong>Specificity</strong></td>
+<td>One cause, one effect (weak for multifactorial disease)</td>
+</tr>
+<tr class="odd">
+<td><strong>Biological gradient</strong></td>
+<td>Dose–response</td>
+</tr>
+<tr class="even">
+<td><strong>Plausibility · Coherence</strong></td>
+<td>Fits current biological knowledge and the natural history</td>
+</tr>
+<tr class="odd">
+<td><strong>Experiment</strong></td>
+<td>Removing the exposure reduces the disease</td>
+</tr>
+<tr class="even">
+<td><strong>Analogy</strong></td>
+<td>Similar causes produce similar effects</td>
+</tr>
+</tbody>
+</table>
+<p>Temporality is <strong>necessary but not sufficient</strong>. Detailed discussion with Koch’s postulates is in Chapter 2.</p>
+</section>
+<section id="hierarchy-of-evidence" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Hierarchy of Evidence</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/evidence_pyramid.svg" class="slide-img" width="880"></p>
+<figcaption>Hierarchy of evidence pyramid</figcaption>
+</figure>
+</div>
+</section>
+<section id="systematic-review-meta-analysis-publication-bias" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Systematic Review, Meta-Analysis, Publication Bias</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<ul>
+<li><strong>Systematic review</strong>: a focused question, a comprehensive search, explicit selection criteria, critical appraisal of every eligible study, and synthesis. Cochrane reviews are the classic example.</li>
+<li><strong>Meta-analysis</strong>: the <strong>statistical pooling</strong> of results from several studies into one summary estimate with a 95% CI, shown as a <strong>forest plot</strong>. The diamond at the bottom is the pooled estimate. Heterogeneity is checked with I².</li>
+<li><strong>Publication bias</strong>: studies with “positive” significant results are more likely to be published, so reviews overestimate effects. It is detected with a <strong>funnel plot</strong>: an asymmetric funnel suggests missing small negative studies.</li>
+</ul>
 </section>
 <section id="ecological-fallacy-a-closer-look" class="slide level2 center" data-background-color="#E8E4F3">
 <h2>Ecological Fallacy — A Closer Look</h2>
 <p>🟣 <strong>MAY KNOW</strong></p>
-<p>The ecological fallacy is the specific error of assuming that a correlation observed at the group/population level must also hold at the individual level. A classic teaching example: countries with higher average chocolate consumption have been shown to have more Nobel laureates per capita — an association at the national level that says nothing about whether any individual eating more chocolate is more likely to win a Nobel Prize.</p>
+<p>The ecological fallacy is the error of assuming that a correlation seen at the group or population level must also hold for individuals. A classic teaching example: countries with higher average chocolate consumption have more Nobel laureates per capita. That national-level association says nothing about whether any individual who eats more chocolate is more likely to win a Nobel Prize.</p>
 </section>
-<section id="number-needed-to-treat" class="slide level2 center" data-background-color="#E8E4F3">
-<h2>Number Needed to Treat</h2>
-<p>🟣 <strong>MAY KNOW</strong></p>
-<p><strong>Number Needed to Treat (NNT)</strong> is a clinically-oriented extension of attributable risk, used mainly for trial results: the number of patients who need to receive an intervention for one additional patient to benefit, calculated as the reciprocal of the absolute risk reduction (<code>NNT = 1 / AR</code>, expressed as risk difference).</p>
+<section id="practice-questions-descriptive-lecture-9" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 9)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Explain confounding with one epidemiological example and its control methods.</li>
+<li>Discuss the concept of causal inference and the role of temporality.</li>
+<li>Different types of association.</li>
+<li>What is spurious association? How can it be prevented during research studies?</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="5" type="1">
+<li>Spurious association.</li>
+<li>Bradford Hill criteria of causation.</li>
+</ol>
 </section>
-<section id="self-check-question-1" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 1</h2>
+<section id="practice-questions-descriptive-lecture-9-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 9, contd.)</h2>
+<p><strong>Reasoning Type</strong></p>
+<ol start="7" type="1">
+<li>Justify why temporality is considered a mandatory criterion for causation.</li>
+<li>Explain how confounding can distort an observed exposure–disease association.</li>
+</ol>
+<p><strong>University Examination Questions</strong></p>
+<ol start="9" type="1">
+<li>What is bias?</li>
+<li>Confounding factors in epidemiological studies (research).</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-9-contd.-1" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 9, contd.)</h2>
+<p><strong>Short Notes (additional)</strong></p>
+<ol start="11" type="1">
+<li>Hierarchy of evidence.</li>
+<li>Meta-analysis.</li>
+<li>Publication bias.</li>
+</ol>
+</section>
+<section id="self-check-question-73" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 73</h2>
 <p>🧡 <strong>QUESTION</strong></p>
-<section id="question-1" class="quiz-question">
-<h3>Question 1</h3>
-<p>A study begins by identifying people with lung cancer and people without it, then looks backward at their smoking history. This is a:</p>
+<section id="question-73" class="quiz-question">
+<h3>Question 73</h3>
+<p>“Confounding” is best described as:</p>
 <ul>
-<li>Cohort study</li>
-<li><span class="correct" data-explanation="Starting from disease status (cases vs. controls) and looking backward at exposure defines a case-control study.">Case-control study</span></li>
-<li>Randomized controlled trial</li>
-<li>Ecological study</li>
+<li>Error due to random variation in small samples</li>
+<li><span class="correct" data-explanation="A confounder is associated with both the exposure and the outcome, is not on the causal pathway, and distorts the apparent association.">Distortion of an observed association by a third related factor</span></li>
+<li>Misclassification of disease status</li>
+<li>Elimination of error by increasing sample size</li>
 </ul>
 </section>
 </section>
-<section id="self-check-question-2" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 2</h2>
+<section id="self-check-question-74" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 74</h2>
 <p>🧡 <strong>QUESTION</strong></p>
-<section id="question-2" class="quiz-question">
-<h3>Question 2</h3>
-<p>Which measure of association can be directly calculated from a cohort study but NOT from a case-control study?</p>
+<section id="question-74" class="quiz-question">
+<h3>Question 74</h3>
+<p>Which of the following is NOT an essential characteristic of a confounding variable?</p>
 <ul>
-<li>Odds Ratio</li>
-<li><span class="correct" data-explanation="Cohort studies measure incidence directly in both exposed and unexposed groups, allowing direct calculation of relative risk; case-control studies cannot, since cases are already selected.">Relative Risk</span></li>
-<li>p-value</li>
-<li>Confidence interval</li>
+<li><span class="correct" data-explanation="A factor on the causal pathway is an intermediate variable, not a confounder. Adjusting for it would wrongly remove part of the true effect.">It should lie in the direct chain of causation between exposure and outcome</span></li>
+<li>It should be related to the exposure variable</li>
+<li>It should be related to the outcome variable, independent of its relationship with the exposure</li>
+<li>It should be differentially distributed between the groups</li>
 </ul>
 </section>
 </section>
-<section id="self-check-question-3" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 3</h2>
+<section id="self-check-question-75" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 75</h2>
 <p>🧡 <strong>QUESTION</strong></p>
-<section id="question-3" class="quiz-question">
-<h3>Question 3</h3>
-<p>Attributable Risk Percent (AR%) is best described as:</p>
+<section id="question-75" class="quiz-question">
+<h3>Question 75</h3>
+<p>Which of the following is NOT a method of controlling confounding?</p>
 <ul>
-<li>The strength of an association</li>
-<li><span class="correct" data-explanation="AR% expresses the exposed group's excess risk due to the exposure as a percentage of their total risk — a measure of public health impact, not just association strength.">The proportion of exposed-group risk that would be eliminated if the exposure were removed</span></li>
-<li>The same value as the Odds Ratio</li>
-<li>A measure only usable in RCTs</li>
+<li>Restriction</li>
+<li>Matching</li>
+<li>Stratified analysis</li>
+<li><span class="correct" data-explanation="Accurate instruments reduce measurement (information) bias. Confounding is controlled by randomization, restriction and matching at the design stage, and by stratification or multivariable analysis at analysis.">Ensuring use of accurate instruments</span></li>
 </ul>
 </section>
 </section>
-<section id="self-check-question-4" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 4</h2>
+<section id="self-check-question-76" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 76</h2>
 <p>🧡 <strong>QUESTION</strong></p>
-<section id="question-4" class="quiz-question">
-<h3>Question 4</h3>
-<p>The main strength of randomization in an RCT is that it:</p>
+<section id="question-76" class="quiz-question">
+<h3>Question 76</h3>
+<p>Which method can be used to control confounding during the statistical analysis stage, after data collection is complete?</p>
 <ul>
-<li>Guarantees a statistically significant result</li>
-<li><span class="correct" data-explanation="Randomization's key strength is distributing both known and unknown confounding factors evenly across groups, isolating the effect of the intervention.">Balances known and unknown confounders between the intervention and control groups</span></li>
-<li>Removes the need for a control group</li>
-<li>Eliminates all information bias automatically</li>
+<li>Randomization</li>
+<li>Matching</li>
+<li>Restriction</li>
+<li><span class="correct" data-explanation="Randomization, matching and restriction are design-stage methods. Stratification (Mantel–Haenszel) and multivariable regression are applied at analysis.">Stratified analysis</span></li>
 </ul>
 </section>
 </section>
-<section id="self-check-question-5" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 5</h2>
+<section id="self-check-question-77" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 77</h2>
 <p>🧡 <strong>QUESTION</strong></p>
-<section id="question-5" class="quiz-question">
-<h3>Question 5</h3>
-<p>A country-level comparison of average salt intake against average blood pressure across nations, without individual-level data, is an example of:</p>
-<ul>
-<li>A cohort study</li>
-<li>A case-control study</li>
-<li><span class="correct" data-explanation="Comparing exposure and outcome rates across groups/populations rather than individuals is the defining feature of an ecological study.">An ecological study</span></li>
-<li>A randomized controlled trial</li>
-</ul>
-</section>
-</section>
-<section id="self-check-question-6" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 6</h2>
-<p>🧡 <strong>QUESTION</strong></p>
-<section id="question-6" class="quiz-question">
-<h3>Question 6</h3>
+<section id="question-77" class="quiz-question">
+<h3>Question 77</h3>
 <p>Which type of bias or distortion CAN typically still be corrected during data analysis, after the study has been conducted?</p>
 <ul>
 <li>Selection bias</li>
 <li>Recall bias</li>
-<li><span class="correct" data-explanation="Unlike selection and information bias, confounding can be addressed after data collection through stratification, matching, or statistical adjustment.">Confounding</span></li>
+<li><span class="correct" data-explanation="Unlike selection and information bias, confounding can be addressed after data collection through stratification or statistical adjustment.">Confounding</span></li>
 <li>Interviewer bias</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-78" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 78</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-78" class="quiz-question">
+<h3>Question 78</h3>
+<p>Gender CANNOT be a confounding variable in a study exploring the association between:</p>
+<ul>
+<li>Tobacco smoking and lung cancer</li>
+<li>Viral infections and diabetes mellitus</li>
+<li><span class="correct" data-explanation="Ovarian cancer occurs only in women. Gender does not vary within the study population, so it cannot be associated with the exposure-outcome relationship.">Use of talcum powder and ovarian cancer</span></li>
+<li>Habitual physical exercise and IHD</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-79" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 79</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-79" class="quiz-question">
+<h3>Question 79</h3>
+<p>Confounding is a form of which of the following errors?</p>
+<ul>
+<li><span class="correct" data-explanation="Confounding is a systematic distortion within the study, a threat to internal validity, in the same family as selection and measurement bias.">Lack of internal validity (bias)</span></li>
+<li>Lack of external validity</li>
+<li>Lack of statistical precision</li>
+<li>Lack of repeatability</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-80" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 80</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-80" class="quiz-question">
+<h3>Question 80</h3>
+<p>Another name for “lack of internal validity” is:</p>
+<ul>
+<li>Bias</li>
+<li>Systematic error</li>
+<li>Misclassification</li>
+<li><span class="correct" data-explanation="Bias, systematic error and misclassification all describe systematic deviation of results from the truth.">All of these</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-81" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 81</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-81" class="quiz-question">
+<h3>Question 81</h3>
+<p>Bias can be of which of the following types?</p>
+<ul>
+<li>Selection bias</li>
+<li>Measurement bias</li>
+<li><span class="correct" data-explanation="The two broad types are selection bias (who gets into or stays in the study) and measurement (information) bias (how exposure or outcome is measured). Confounding is often listed as a third.">Both of these</span></li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-82" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 82</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-82" class="quiz-question">
+<h3>Question 82</h3>
+<p>In assessing a cause-and-effect relationship, we exclude the role of certain factors and then evaluate the relationship against causal criteria. The correct sequence is:</p>
+<ul>
+<li><span class="correct" data-explanation="First exclude bias, as no statistics can fix a biased study. Then exclude chance (statistical significance), then confounding. Only then apply the causal criteria.">Bias, chance, confounding, criteria of causal association</span></li>
+<li>Chance, confounding, bias, criteria of causal association</li>
+<li>Criteria of causal association, bias, confounding, chance</li>
+<li>Confounding, chance, bias, criteria of causal association</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-83" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 83</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-83" class="quiz-question">
+<h3>Question 83</h3>
+<p>In assessing whether a cause-and-effect relationship exists between an exposure and an outcome, we ascertain that:</p>
+<ul>
+<li>There is no bias</li>
+<li>There is a statistically significant association</li>
+<li>There is no confounding</li>
+<li><span class="correct" data-explanation="A valid association needs bias, chance and confounding all excluded before causal criteria are applied.">All of these</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-84" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 84</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-84" class="quiz-question">
+<h3>Question 84</h3>
+<p>A key criterion supporting causation rather than mere association is:</p>
+<ul>
+<li>Large p-value</li>
+<li><span class="correct" data-explanation="Temporality is the only criterion that is absolutely essential: the cause must precede the effect.">Temporality (exposure precedes outcome)</span></li>
+<li>Availability of expensive laboratory tests</li>
+<li>Equal prevalence in exposed and unexposed</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-85" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 85</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-85" class="quiz-question">
+<h3>Question 85</h3>
+<p>The essential condition that must be satisfied before considering a causal relationship is:</p>
+<ul>
+<li>Biological plausibility</li>
+<li>Strength of association</li>
+<li><span class="correct" data-explanation="The other criteria strengthen a causal inference but are not mandatory. Without temporality, causation is impossible.">Temporality</span></li>
+<li>Consistency</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-86" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 86</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-86" class="quiz-question">
+<h3>Question 86</h3>
+<p>The statement “the higher the relative risk, the more likely the association is causal” reflects which criterion of causal association?</p>
+<ul>
+<li>Temporality</li>
+<li><span class="correct" data-explanation="Strength of association: a large RR or OR is less likely to be explained entirely by bias or confounding.">Strength of association</span></li>
+<li>Consistency</li>
+<li>Biological plausibility</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-87" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 87</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-87" class="quiz-question">
+<h3>Question 87</h3>
+<p>A high odds ratio in a case-control study always indicates:</p>
+<ul>
+<li>Causation</li>
+<li><span class="correct" data-explanation="A high OR means a strong statistical association. It may still arise from bias or confounding, so causation needs further assessment.">Strong association</span></li>
+<li>Absence of bias</li>
+<li>High incidence</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-88" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 88</h2>
+<p>🧡 <strong>QUESTION (select ALL that apply)</strong></p>
+<section id="question-88" class="quiz-question quiz-multiple">
+<h3>Question 88</h3>
+<p>Criteria often discussed in causal inference include:</p>
+<ul>
+<li><span class="correct" data-explanation="Temporality, plausibility and consistency are Bradford Hill criteria. Absence of all bias in every study is an unrealistic ideal, not a criterion.">Temporality</span></li>
+<li><span class="correct">Biological plausibility</span></li>
+<li>Absence of any bias in all studies</li>
+<li><span class="correct">Consistency across studies</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-89" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 89</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-89" class="quiz-question">
+<h3>Question 89</h3>
+<p><strong>Assertion (A):</strong> Temporality is an essential criterion for concluding causation.</p>
+<p><strong>Reason (R):</strong> If exposure precedes disease, the relationship must be causal.</p>
+<ul>
+<li>Both A and R are true, and R is the correct explanation of A</li>
+<li>Both A and R are true, but R is NOT the correct explanation of A</li>
+<li><span class="correct" data-explanation="A is true: the cause must precede the effect. R is false: temporality is necessary but not sufficient, since bias, chance and confounding must still be excluded. The book's original stem said temporality alone is sufficient, which would make both A and R false. It was reworded so the printed key (c) holds.">A is true, R is false</span></li>
+<li>A is false, R is true</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-90" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 90</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-90" class="quiz-question">
+<h3>Question 90</h3>
+<p>Measuring a patient’s BP immediately after they have climbed 50 stairs to reach the clinic will result in:</p>
+<ul>
+<li><span class="correct" data-explanation="The reading is wrong because of faulty measurement technique (no rest). It is an error of basic measurement, not a study-level bias or confounding.">Error of basic measurement</span></li>
+<li>Bias</li>
+<li>Confounding</li>
+<li>All of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-91" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 91</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-91" class="quiz-question">
+<h3>Question 91</h3>
+<p>In a hypertension survey, young men walked 2 km from the parking lot and their BP was measured immediately on arrival, without rest. This will adversely affect the:</p>
+<ul>
+<li><span class="correct" data-explanation="Readings will be consistently too high (systematic error), so the measurement does not reflect true resting BP. Validity (accuracy) is affected.">Validity</span></li>
+<li>Reliability</li>
+<li>Precision</li>
+<li>Will not adversely affect anything</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-92" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 92</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-92" class="quiz-question">
+<h3>Question 92</h3>
+<p>The ability of a measurement process to give consistent results when repeated is called:</p>
+<ul>
+<li>Reliability</li>
+<li>Replicability</li>
+<li>Consistency</li>
+<li><span class="correct" data-explanation="Reliability, reproducibility, repeatability, replicability, consistency and precision are synonyms for agreement on repeated measurement.">All of these</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-93" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 93</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-93" class="quiz-question">
+<h3>Question 93</h3>
+<p>The ability of a measurement process to correctly measure what it actually intends to measure is known as:</p>
+<ul>
+<li>Reliability</li>
+<li>Reproducibility</li>
+<li><span class="correct" data-explanation="Validity is accuracy, i.e. closeness to the truth. A measurement can be reliable without being valid, like a consistently mis-calibrated scale.">Validity</span></li>
+<li>Consistency</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-94" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 94</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-94" class="quiz-question">
+<h3>Question 94</h3>
+<p>A CT scan of an unconscious patient’s brain was read independently by two radiologists. One reported a mild left subthalamic bleed and the other reported it as normal. This is a situation of:</p>
+<ul>
+<li>Subject-related variation</li>
+<li>Instrument-related variation</li>
+<li><span class="correct" data-explanation="Different observers reading the same image differently is inter-observer variation. The same observer differing on re-reading is intra-observer variation.">Interobserver variation</span></li>
+<li>Technique-related variation</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-95" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 95</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-95" class="quiz-question">
+<h3>Question 95</h3>
+<p>In women, body temperature taken immediately on waking is higher at the time of ovulation. This is an example of:</p>
+<ul>
+<li><span class="correct" data-explanation="The same individual’s value changes over time (the menstrual cycle). That is biological variation within a subject.">Intrasubject variation</span></li>
+<li>Intersubject variation</li>
+<li>Circadian variation</li>
+<li>Observer variation</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-96" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 96</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-96" class="quiz-question">
+<h3>Question 96</h3>
+<p>Standardization of instruments and measurement technique will ensure all of the following, EXCEPT:</p>
+<ul>
+<li>Validity</li>
+<li><span class="correct" data-explanation="Standardization reduces measurement-related variation (observer, instrument, technique) and improves validity. Intersubject variation, the true difference between people, is what we want to measure, and standardization does not remove it.">Intersubject variations</span></li>
+<li>Intrasubject variations</li>
+<li>Interobserver variations</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-97" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 97</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-97" class="quiz-question">
+<h3>Question 97</h3>
+<p>Which of the following provides the highest level of evidence for the effectiveness of an intervention?</p>
+<ul>
+<li>Cohort study</li>
+<li>Case-control study</li>
+<li><span class="correct" data-explanation="The evidence hierarchy places systematic reviews and meta-analyses of well-conducted RCTs at the top, then individual RCTs, cohort studies, case-control studies, cross-sectional studies, case series and expert opinion.">Systematic review and meta-analysis of RCTs</span></li>
+<li>Expert opinion</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-98" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 98</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-98" class="quiz-question">
+<h3>Question 98</h3>
+<p>In a meta-analysis, the diamond at the bottom of a forest plot represents:</p>
+<ul>
+<li>The largest study</li>
+<li><span class="correct" data-explanation="Each square is one study's estimate (sized by weight) with its CI line. The diamond is the pooled estimate, and its width is the 95% CI.">The pooled summary estimate with its confidence interval</span></li>
+<li>Publication bias</li>
+<li>The study with the most weight</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-99" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 99</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-99" class="quiz-question">
+<h3>Question 99</h3>
+<p>An asymmetrical funnel plot in a meta-analysis most often suggests:</p>
+<ul>
+<li>Confounding</li>
+<li><span class="correct" data-explanation="Small studies with negative or non-significant results are missing (unpublished), leaving one side of the funnel empty.">Publication bias</span></li>
+<li>Recall bias</li>
+<li>Random error</li>
 </ul>
 </section>
 </section>
 <section id="references" class="slide level2 center" data-background-color="#FFF6DA">
 <h2>References</h2>
 <ol type="1">
-<li>Boston University School of Public Health. <em>Case-Control Studies</em> and <em>Measuring Association in Case-Control Studies</em> — Epidemiology teaching modules.</li>
-<li>Centers for Disease Control and Prevention. <em>Principles of Epidemiology in Public Health Practice</em> (3rd ed.), Lesson 3.</li>
+<li>Park, K. <em>Park’s Textbook of Preventive and Social Medicine</em> (latest ed.): case-control, cohort and experimental studies; association and causation.</li>
+<li><em>Community Medicine with Recent Advances</em> (9th ed.), Section 3, Chapters 12–14: review exercises (measures of association, causation, confounding, bias, study designs) adapted as Self-Check MCQs.</li>
+<li>Faculty question bank, Section V, Chapter 19 <em>Principles and Practice of Epidemiology</em>.</li>
 <li>Rothman, K.J., Greenland, S., Lash, T.L. <em>Modern Epidemiology</em> (3rd ed.). Lippincott Williams &amp; Wilkins.</li>
-<li>Wikipedia contributors. “Attributable fraction among the exposed” and “Randomized controlled trial.”</li>
-<li>Park, K. <em>Park’s Textbook of Preventive and Social Medicine</em> — standard reference for matching, types of association, mortality rates, and standardization.</li>
+<li>Hill, A.B. (1965). The environment and disease: association or causation? <em>Proc R Soc Med</em> 58:295–300.</li>
+<li>Centers for Disease Control and Prevention. <em>Principles of Epidemiology in Public Health Practice</em> (3rd ed.), Lesson 3.</li>
 </ol>
+<p><strong>Want to practice?</strong> The <a href="../foundations/epidemiology-question-bank.html">Epidemiology Question Bank</a> has every question from this chapter with answer keys.</p>
 </section>
 <section id="thank-you" class="slide level2 center">
 <h2>Thank You!</h2>
-<p><strong>Next Chapter:</strong> Screening for Disease</p>
+<p><strong>Next Chapter:</strong> Screening for Disease (CM7 Lectures 14–15)</p>
 <p><a href="principles-epidemiology.html">← Previous</a> | <a href="#/home">Top</a> | <a href="../intro.html">Contents</a> | Chapter 4/29 | <a href="screening.html">Next Chapter →</a></p>
 
 
@@ -751,7 +2920,7 @@
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
+          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -778,173 +2947,190 @@
       });
     </script>
     <script id="quarto-html-after-body" type="application/javascript">
-      window.document.addEventListener("DOMContentLoaded", function (event) {
-        const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
-        tabsets.forEach(function(tabset) {
-          const tabby = new Tabby('#' + tabset.id);
-        });
-        const isCodeAnnotation = (el) => {
-          for (const clz of el.classList) {
-            if (clz.startsWith('code-annotation-')) {                     
-              return true;
-            }
-          }
-          return false;
+    window.document.addEventListener("DOMContentLoaded", function (event) {
+      const toggleBodyColorMode = (bsSheetEl) => {
+        const mode = bsSheetEl.getAttribute("data-mode");
+        const bodyEl = window.document.querySelector("body");
+        if (mode === "dark") {
+          bodyEl.classList.add("quarto-dark");
+          bodyEl.classList.remove("quarto-light");
+        } else {
+          bodyEl.classList.add("quarto-light");
+          bodyEl.classList.remove("quarto-dark");
         }
-        const onCopySuccess = function(e) {
-          // button target
-          const button = e.trigger;
-          // don't keep focus
-          button.blur();
-          // flash "checked"
-          button.classList.add('code-copy-button-checked');
-          var currentTitle = button.getAttribute("title");
-          button.setAttribute("title", "Copied!");
-          let tooltip;
-          if (window.bootstrap) {
-            button.setAttribute("data-bs-toggle", "tooltip");
-            button.setAttribute("data-bs-placement", "left");
-            button.setAttribute("data-bs-title", "Copied!");
-            tooltip = new bootstrap.Tooltip(button, 
-              { trigger: "manual", 
-                customClass: "code-copy-button-tooltip",
-                offset: [0, -8]});
-            tooltip.show();    
-          }
-          setTimeout(function() {
-            if (tooltip) {
-              tooltip.hide();
-              button.removeAttribute("data-bs-title");
-              button.removeAttribute("data-bs-toggle");
-              button.removeAttribute("data-bs-placement");
-            }
-            button.setAttribute("title", currentTitle);
-            button.classList.remove('code-copy-button-checked');
-          }, 1000);
-          // clear code selection
-          e.clearSelection();
+      }
+      const toggleBodyColorPrimary = () => {
+        const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+        if (bsSheetEl) {
+          toggleBodyColorMode(bsSheetEl);
         }
-        const getTextToCopy = function(trigger) {
-          const outerScaffold = trigger.parentElement.cloneNode(true);
-          const codeEl = outerScaffold.querySelector('code');
+      }
+      toggleBodyColorPrimary();  
+      const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
+      tabsets.forEach(function(tabset) {
+        const tabby = new Tabby('#' + tabset.id);
+      });
+      const isCodeAnnotation = (el) => {
+        for (const clz of el.classList) {
+          if (clz.startsWith('code-annotation-')) {                     
+            return true;
+          }
+        }
+        return false;
+      }
+      const onCopySuccess = function(e) {
+        // button target
+        const button = e.trigger;
+        // don't keep focus
+        button.blur();
+        // flash "checked"
+        button.classList.add('code-copy-button-checked');
+        var currentTitle = button.getAttribute("title");
+        button.setAttribute("title", "Copied!");
+        let tooltip;
+        if (window.bootstrap) {
+          button.setAttribute("data-bs-toggle", "tooltip");
+          button.setAttribute("data-bs-placement", "left");
+          button.setAttribute("data-bs-title", "Copied!");
+          tooltip = new bootstrap.Tooltip(button, 
+            { trigger: "manual", 
+              customClass: "code-copy-button-tooltip",
+              offset: [0, -8]});
+          tooltip.show();    
+        }
+        setTimeout(function() {
+          if (tooltip) {
+            tooltip.hide();
+            button.removeAttribute("data-bs-title");
+            button.removeAttribute("data-bs-toggle");
+            button.removeAttribute("data-bs-placement");
+          }
+          button.setAttribute("title", currentTitle);
+          button.classList.remove('code-copy-button-checked');
+        }, 1000);
+        // clear code selection
+        e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
           for (const childEl of codeEl.children) {
             if (isCodeAnnotation(childEl)) {
               childEl.remove();
             }
           }
           return codeEl.innerText;
-        }
-        const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-          text: getTextToCopy
-        });
-        clipboard.on('success', onCopySuccess);
-        if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-          const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-            text: getTextToCopy,
-            container: window.document.getElementById('quarto-embedded-source-code-modal')
-          });
-          clipboardModal.on('success', onCopySuccess);
-        }
-          var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-          var mailtoRegex = new RegExp(/^mailto:/);
-            var filterRegex = new RegExp("index\.qmd");
-          var isInternal = (href) => {
-              return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-          }
-          // Inspect non-navigation links and adorn them if external
-         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-          for (var i=0; i<links.length; i++) {
-            const link = links[i];
-            if (!isInternal(link.href)) {
-              // undo the damage that might have been done by quarto-nav.js in the case of
-              // links that we want to consider external
-              if (link.dataset.originalHref !== undefined) {
-                link.href = link.dataset.originalHref;
-              }
-            }
-          }
-        function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
-          const config = {
-            allowHTML: true,
-            maxWidth: 500,
-            delay: 100,
-            arrow: false,
-            appendTo: function(el) {
-                return el.closest('section.slide') || el.parentElement;
-            },
-            interactive: true,
-            interactiveBorder: 10,
-            theme: 'light-border',
-            placement: 'bottom-start',
-          };
-          if (contentFn) {
-            config.content = contentFn;
-          }
-          if (onTriggerFn) {
-            config.onTrigger = onTriggerFn;
-          }
-          if (onUntriggerFn) {
-            config.onUntrigger = onUntriggerFn;
-          }
-            config['offset'] = [0,0];
-            config['maxWidth'] = 700;
-          window.tippy(el, config); 
-        }
-        const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
-        for (var i=0; i<noterefs.length; i++) {
-          const ref = noterefs[i];
-          tippyHover(ref, function() {
-            // use id or data attribute instead here
-            let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
-            try { href = new URL(href).hash; } catch {}
-            const id = href.replace(/^#\/?/, "");
-            const note = window.document.getElementById(id);
-            if (note) {
-              return note.innerHTML;
-            } else {
-              return "";
-            }
-          });
-        }
-        const findCites = (el) => {
-          const parentEl = el.parentElement;
-          if (parentEl) {
-            const cites = parentEl.dataset.cites;
-            if (cites) {
-              return {
-                el,
-                cites: cites.split(' ')
-              };
-            } else {
-              return findCites(el.parentElement)
-            }
-          } else {
-            return undefined;
-          }
-        };
-        var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-        for (var i=0; i<bibliorefs.length; i++) {
-          const ref = bibliorefs[i];
-          const citeInfo = findCites(ref);
-          if (citeInfo) {
-            tippyHover(citeInfo.el, function() {
-              var popup = window.document.createElement('div');
-              citeInfo.cites.forEach(function(cite) {
-                var citeDiv = window.document.createElement('div');
-                citeDiv.classList.add('hanging-indent');
-                citeDiv.classList.add('csl-entry');
-                var biblioDiv = window.document.getElementById('ref-' + cite);
-                if (biblioDiv) {
-                  citeDiv.innerHTML = biblioDiv.innerHTML;
-                }
-                popup.appendChild(citeDiv);
-              });
-              return popup.innerHTML;
-            });
-          }
-        }
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
-      </script>
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
+        var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+        var mailtoRegex = new RegExp(/^mailto:/);
+          var filterRegex = new RegExp("index\.qmd");
+        var isInternal = (href) => {
+            return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+        }
+        // Inspect non-navigation links and adorn them if external
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+        for (var i=0; i<links.length; i++) {
+          const link = links[i];
+          if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
+          }
+        }
+      function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+        const config = {
+          allowHTML: true,
+          maxWidth: 500,
+          delay: 100,
+          arrow: false,
+          appendTo: function(el) {
+              return el.closest('section.slide') || el.parentElement;
+          },
+          interactive: true,
+          interactiveBorder: 10,
+          theme: 'light-border',
+          placement: 'bottom-start',
+        };
+        if (contentFn) {
+          config.content = contentFn;
+        }
+        if (onTriggerFn) {
+          config.onTrigger = onTriggerFn;
+        }
+        if (onUntriggerFn) {
+          config.onUntrigger = onUntriggerFn;
+        }
+          config['offset'] = [0,0];
+          config['maxWidth'] = 700;
+        window.tippy(el, config); 
+      }
+      const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+      for (var i=0; i<noterefs.length; i++) {
+        const ref = noterefs[i];
+        tippyHover(ref, function() {
+          // use id or data attribute instead here
+          let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+          try { href = new URL(href).hash; } catch {}
+          const id = href.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
+        });
+      }
+      const findCites = (el) => {
+        const parentEl = el.parentElement;
+        if (parentEl) {
+          const cites = parentEl.dataset.cites;
+          if (cites) {
+            return {
+              el,
+              cites: cites.split(' ')
+            };
+          } else {
+            return findCites(el.parentElement)
+          }
+        } else {
+          return undefined;
+        }
+      };
+      var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+      for (var i=0; i<bibliorefs.length; i++) {
+        const ref = bibliorefs[i];
+        const citeInfo = findCites(ref);
+        if (citeInfo) {
+          tippyHover(citeInfo.el, function() {
+            var popup = window.document.createElement('div');
+            citeInfo.cites.forEach(function(cite) {
+              var citeDiv = window.document.createElement('div');
+              citeDiv.classList.add('hanging-indent');
+              citeDiv.classList.add('csl-entry');
+              var biblioDiv = window.document.getElementById('ref-' + cite);
+              if (biblioDiv) {
+                citeDiv.innerHTML = biblioDiv.innerHTML;
+              }
+              popup.appendChild(citeDiv);
+            });
+            return popup.innerHTML;
+          });
+        }
+      }
+    });
+    </script>
     
 
 </body></html>

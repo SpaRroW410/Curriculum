@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="390" viewBox="0 0 1000 390" role="img" aria-labelledby="title desc">
+  <title id="title">Crossover trial design</title>
+  <desc id="desc">Randomized groups receive therapy A or B in period 1, then after a washout cross over to the other therapy in period 2; each subject is their own control.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="10" y="60" width="150" height="280" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="85.0" y="192.8" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">RANDOM-</text>
+  <text x="85.0" y="225.3" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">IZE</text>
+  <line x1="160" y1="140" x2="188" y2="105" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="160" y1="260" x2="188" y2="295" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <text x="280.0" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Period 1</text>
+  <text x="490.0" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Washout</text>
+  <text x="700.0" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Period 2</text>
+  <text x="905.0" y="34" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Compare</text>
+  <rect x="190" y="70" width="180" height="84" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="280.0" y="106.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Group 1</text>
+  <text x="280.0" y="133.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Therapy A</text>
+  <line x1="370" y1="112" x2="398" y2="112" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="400" y="70" width="180" height="84" rx="8" fill="#f1f1f1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="490.0" y="106.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">no</text>
+  <text x="490.0" y="133.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">treatment</text>
+  <line x1="580" y1="112" x2="608" y2="112" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="610" y="70" width="180" height="84" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="700.0" y="106.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Group 1</text>
+  <text x="700.0" y="133.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Therapy B</text>
+  <line x1="790" y1="112" x2="818" y2="112" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="190" y="250" width="180" height="84" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="280.0" y="285.9" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Group 2</text>
+  <text x="280.0" y="313.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Therapy B</text>
+  <line x1="370" y1="292" x2="398" y2="292" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="400" y="250" width="180" height="84" rx="8" fill="#f1f1f1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="490.0" y="285.9" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">no</text>
+  <text x="490.0" y="313.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">treatment</text>
+  <line x1="580" y1="292" x2="608" y2="292" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="610" y="250" width="180" height="84" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="700.0" y="285.9" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Group 2</text>
+  <text x="700.0" y="313.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Therapy A</text>
+  <line x1="790" y1="292" x2="818" y2="292" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="820" y="110" width="170" height="180" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="905.0" y="166.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Each</text>
+  <text x="905.0" y="193.9" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">subject</text>
+  <text x="905.0" y="221.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">is own</text>
+  <text x="905.0" y="248.9" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">control</text>
+  <text x="490" y="375" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-style="italic" fill="#333">groups cross over after washout</text>
+</svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="470" viewBox="0 0 1000 470" role="img" aria-labelledby="title desc">
+  <title id="title">Uses of epidemiology (2): public health practice and clinical practice</title>
+  <desc id="desc">Public health practice: Investigating epidemics, Projecting future trends, Disease surveillance, Screening programmes, Designing medical curricula; Clinical and preventive practice: Preventive modalities, Treatment modalities, Prognostic factors, Diagnostic modalities, Clinical decision making, Clinical research</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="10" y="8" width="475" height="58" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="247.5" y="46.1" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Public health practice</text>
+  <rect x="50" y="82" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="267.5" y="115.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Investigating epidemics</text>
+  <line x1="28" y1="108" x2="50" y2="108" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="50" y="146" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="267.5" y="179.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Projecting future trends</text>
+  <line x1="28" y1="172" x2="50" y2="172" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="50" y="210" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="267.5" y="243.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Disease surveillance</text>
+  <line x1="28" y1="236" x2="50" y2="236" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="50" y="274" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="267.5" y="307.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Screening programmes</text>
+  <line x1="28" y1="300" x2="50" y2="300" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="50" y="338" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="267.5" y="371.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Designing medical curricula</text>
+  <line x1="28" y1="364" x2="50" y2="364" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="28" y1="66" x2="28" y2="364" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="505" y="8" width="475" height="58" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="742.5" y="46.1" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Clinical and preventive practice</text>
+  <rect x="545" y="82" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="762.5" y="115.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Preventive modalities</text>
+  <line x1="523" y1="108" x2="545" y2="108" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="545" y="146" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="762.5" y="179.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Treatment modalities</text>
+  <line x1="523" y1="172" x2="545" y2="172" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="545" y="210" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="762.5" y="243.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Prognostic factors</text>
+  <line x1="523" y1="236" x2="545" y2="236" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="545" y="274" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="762.5" y="307.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Diagnostic modalities</text>
+  <line x1="523" y1="300" x2="545" y2="300" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="545" y="338" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="762.5" y="371.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Clinical decision making</text>
+  <line x1="523" y1="364" x2="545" y2="364" stroke="#2c3e50" stroke-width="2"/>
+  <rect x="545" y="402" width="435" height="52" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="762.5" y="435.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Clinical research</text>
+  <line x1="523" y1="428" x2="545" y2="428" stroke="#2c3e50" stroke-width="2"/>
+  <line x1="523" y1="66" x2="523" y2="428" stroke="#2c3e50" stroke-width="2"/>
+</svg>

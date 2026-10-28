@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="460" viewBox="0 0 1000 460" role="img" aria-labelledby="title desc">
+  <title id="title">Design of a case-control study</title>
+  <desc id="desc">Cases and controls are selected in the present; enquiry looks back to the past for exposure. Cells a and c are exposed and unexposed cases, b and d exposed and unexposed controls.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="660" y="40" width="330" height="96" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="825.0" y="80.8" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">CASES</text>
+  <text x="825.0" y="113.3" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">disease present</text>
+  <rect x="660" y="230" width="330" height="96" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="825.0" y="270.9" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">CONTROLS</text>
+  <text x="825.0" y="303.4" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">disease absent</text>
+  <rect x="10" y="10" width="280" height="62" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="150.0" y="48.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Exposed (a)</text>
+  <rect x="10" y="90" width="280" height="62" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="150.0" y="128.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Not exposed (c)</text>
+  <rect x="10" y="200" width="280" height="62" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="150.0" y="238.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Exposed (b)</text>
+  <rect x="10" y="280" width="280" height="62" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="150.0" y="318.7" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">Not exposed (d)</text>
+  <line x1="658" y1="88" x2="292" y2="41" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="658" y1="88" x2="292" y2="121" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="658" y1="278" x2="292" y2="231" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="658" y1="278" x2="292" y2="311" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="940" y1="380" x2="80" y2="380" stroke="#2c3e50" stroke-width="4" marker-end="url(#arr)"/>
+  <text x="500" y="415" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Enquiry runs BACKWARD: from effect to past exposure</text>
+  <text x="80" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">PAST</text>
+  <text x="900" y="448" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">PRESENT</text>
+</svg>

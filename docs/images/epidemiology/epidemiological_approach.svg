@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="375" viewBox="0 0 1000 375" role="img" aria-labelledby="title desc">
+  <title id="title">The epidemiological approach</title>
+  <desc id="desc">Eight steps: observe cases, count them, calculate rates, compare rates, form a hypothesis, test it, draw conclusions, intervene and evaluate.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <text x="500" y="30" text-anchor="middle" font-family="Georgia, serif" font-size="26" font-weight="bold" fill="#2c3e50">Asking questions  →  making comparisons</text>
+  <rect x="10" y="60" width="220" height="96" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="120.0" y="102.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Observe</text>
+  <text x="120.0" y="129.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">cases</text>
+  <line x1="230" y1="108" x2="260" y2="108" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="262" y="60" width="220" height="96" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="372.0" y="102.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Count</text>
+  <text x="372.0" y="129.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">cases</text>
+  <line x1="482" y1="108" x2="512" y2="108" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="514" y="60" width="220" height="96" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="624.0" y="102.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Calculate</text>
+  <text x="624.0" y="129.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">rates</text>
+  <line x1="734" y1="108" x2="764" y2="108" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="766" y="60" width="220" height="96" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="876.0" y="102.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Compare</text>
+  <text x="876.0" y="129.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">rates</text>
+  <line x1="876" y1="156" x2="876" y2="218" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="766" y="220" width="220" height="96" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="876.0" y="261.9" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Form</text>
+  <text x="876.0" y="289.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">hypothesis</text>
+  <line x1="766" y1="268" x2="736" y2="268" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="514" y="220" width="220" height="96" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="624.0" y="261.9" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Test</text>
+  <text x="624.0" y="289.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">hypothesis</text>
+  <line x1="514" y1="268" x2="484" y2="268" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="262" y="220" width="220" height="96" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="372.0" y="261.9" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Draw</text>
+  <text x="372.0" y="289.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">conclusions</text>
+  <line x1="262" y1="268" x2="232" y2="268" stroke="#2c3e50" stroke-width="2.5" marker-end="url(#arr)"/>
+  <rect x="10" y="220" width="220" height="96" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="120.0" y="261.9" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Intervene,</text>
+  <text x="120.0" y="289.4" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">evaluate</text>
+  <text x="500" y="360" text-anchor="middle" font-family="Georgia, serif" font-size="20" font-style="italic" fill="#333">green: descriptive (generates hypotheses) · yellow: analytical (tests them)</text>
+</svg>
