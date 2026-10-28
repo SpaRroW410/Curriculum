@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="290" viewBox="0 0 940 290" role="img" aria-labelledby="title desc">
+  <title id="title">The epidemiological approach</title>
+  <desc id="desc">A sequence of eight steps: observe cases, count them, relate counts to the population as rates, compare rates across groups, places or times, formulate a hypothesis, test it with analytical studies, draw conclusions, and intervene and evaluate.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="20" y="46" width="190" height="62" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="115.0" y="73.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Observe</text>
+  <text x="115.0" y="90.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">(cases, events)</text>
+  <line x1="210" y1="77.0" x2="245" y2="77.0" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="245" y="46" width="190" height="62" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="340.0" y="73.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Count</text>
+  <text x="340.0" y="90.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">cases/events</text>
+  <line x1="435" y1="77.0" x2="470" y2="77.0" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="470" y="46" width="190" height="62" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="565.0" y="73.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Relate to population</text>
+  <text x="565.0" y="90.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">(calculate rates)</text>
+  <line x1="660" y1="77.0" x2="695" y2="77.0" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="695" y="46" width="190" height="62" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="790.0" y="73.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Compare rates</text>
+  <text x="790.0" y="90.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">(groups, places, times)</text>
+  <line x1="790.0" y1="108" x2="790.0" y2="176" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="695" y="176" width="190" height="62" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="790.0" y="203.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Formulate</text>
+  <text x="790.0" y="220.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">hypothesis</text>
+  <line x1="695" y1="207.0" x2="660" y2="207.0" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="470" y="176" width="190" height="62" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="565.0" y="203.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Test hypothesis</text>
+  <text x="565.0" y="220.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">(analytical studies)</text>
+  <line x1="470" y1="207.0" x2="435" y2="207.0" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="245" y="176" width="190" height="62" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="340.0" y="203.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Draw scientific</text>
+  <text x="340.0" y="220.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">conclusions</text>
+  <line x1="245" y1="207.0" x2="210" y2="207.0" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="20" y="176" width="190" height="62" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="115.0" y="203.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Intervene and</text>
+  <text x="115.0" y="220.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">evaluate</text>
+  <text x="470" y="28" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Asking questions → making comparisons</text>
+  <text x="470" y="278" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#333">Descriptive steps (green) generate hypotheses · analytical steps (yellow) test them</text>
+</svg>

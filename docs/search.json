@@ -2364,7 +2364,7 @@
     "href": "foundations/principles-epidemiology.html#home",
     "title": "Principles of Epidemiology",
     "section": "Welcome",
-    "text": "Welcome\nPrinciples of Epidemiology\nLearning Objectives:\n\nState the standard definition of epidemiology and its core aims\nDistinguish ratio, proportion, and rate\nDefine incidence and prevalence, and the relationship between them\nCalculate an attack rate for an outbreak\nDescribe descriptive epidemiology by person, place, and time\nExplain why epidemiology needs a fixed operational case definition\nOutline the broad types of epidemiological study\nRecognize John Snow’s 1854 investigation as a founding case study\n\nNMC Community Medicine Code: CM7\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter gives the vocabulary and basic measures that Chapter 4 (Epidemiologic Methods) will use to compare exposed and unexposed groups, and that Chapter 5 (Screening) will use to evaluate tests.",
+    "text": "Welcome\nPrinciples of Epidemiology\nLearning Objectives (CM7 Lectures 1–5):\n\nDefine epidemiology; state its aims, components, approach and uses\nDistinguish ratio, proportion and rate; calculate and interpret the main mortality measures\nMeasure morbidity: incidence (cumulative, density), prevalence, and P = I × D\nStandardize rates (direct, indirect/SMR); list India’s sources of epidemiological data, including MCCD\nDescribe disease by time, place and person; classify epidemiological study designs\n\nNMC Community Medicine Code: CM7.1, CM7.3, CM7.4, CM7.5\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nEach lecture ends with descriptive practice questions and a block of interactive Self-Check MCQs drawn from the faculty question bank. The written version with answer keys is in the Epidemiology Question Bank.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2388,7 +2388,7 @@
     "href": "foundations/principles-epidemiology.html#what-is-epidemiology",
     "title": "Principles of Epidemiology",
     "section": "What Is Epidemiology?",
-    "text": "What Is Epidemiology?\n🟢 MUST KNOW\nJohn Last’s definition (1988), the standard reference definition:\n\n“The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems.”\n\nThree ideas packed into this definition:\n\nDistribution — who gets disease, where, and when (descriptive)\nDeterminants — why they get it (analytical)\nApplication — using that knowledge to control and prevent disease",
+    "text": "What Is Epidemiology?\n🟢 MUST KNOW\nEpi (upon) + demos (people) + logos (study): the study of what befalls a population.\nJohn Last’s definition (1988), the standard reference definition:\n\n“The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems.”\n\n\nDistribution: frequency and pattern by time, place and person (descriptive)\nDeterminants: the causes and risk factors behind that pattern (analytical)\nApplication: using that knowledge to prevent and control disease",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2400,7 +2400,7 @@
     "href": "foundations/principles-epidemiology.html#aims-of-epidemiology",
     "title": "Principles of Epidemiology",
     "section": "Aims of Epidemiology",
-    "text": "Aims of Epidemiology\n🟢 MUST KNOW\n\nDescribe the distribution and magnitude of health problems in populations\nIdentify the etiology (causes and risk factors) of disease\nPredict trends and the future disease burden\nEvaluate the effectiveness of interventions, programs, and health services\nProvide the evidence base to guide health policy and planning",
+    "text": "Aims of Epidemiology\n🟢 MUST KNOW\nThe International Epidemiological Association lists three aims:\n\nDescribe the distribution and magnitude of health and disease problems in human populations\nIdentify etiological factors (causes and risk factors) in the pathogenesis of disease\nProvide data essential to the planning, implementation and evaluation of services for the prevention, control and treatment of disease, and to setting priorities among them\n\nUltimate aim: to eliminate or reduce the health problem, and to promote the health and well-being of society as a whole.\nBasic components: disease frequency · distribution · determinants",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2424,7 +2424,7 @@
     "href": "foundations/principles-epidemiology.html#ratio-proportion-and-rate",
     "title": "Principles of Epidemiology",
     "section": "Ratio, Proportion, and Rate",
-    "text": "Ratio, Proportion, and Rate\n🟢 MUST KNOW\nThese three terms are frequently confused but are mathematically distinct:\n\n\n\n\n\n\n\n\nTerm\nDefinition\nNumerator in denominator?\n\n\n\n\nRatio\nRelation of one quantity to another\nNo — numerator and denominator are separate groups\n\n\nProportion\nA ratio where the numerator is a subset of the denominator\nYes\n\n\nRate\nA proportion with a time dimension built in\nYes, plus time\n\n\n\nExample: “3 males per 2 females” is a ratio; “60% of the class is male” is a proportion; “12 new cases per 1,000 population per year” is a rate.",
+    "text": "Ratio, Proportion, and Rate\n🟢 MUST KNOW\nThese three terms are often confused, but they are mathematically distinct:\n\n\n\n\n\n\n\n\nTerm\nDefinition\nNumerator in denominator?\n\n\n\n\nRatio\nRelation of one quantity to another, x : y\nNo: separate groups\n\n\nProportion\nA ratio whose numerator is a subset of the denominator, x / (x + y)\nYes\n\n\nRate\nA proportion with a time dimension built in\nYes, plus time\n\n\n\nExamples: sex ratio (females per 1000 males) and odds are ratios. “60% of the class is male” is a proportion. “12 new cases per 1,000 population per year” is a rate.\nTools of measurement in epidemiology: rates, ratios and proportions.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2448,7 +2448,7 @@
     "href": "foundations/principles-epidemiology.html#incidence",
     "title": "Principles of Epidemiology",
     "section": "Incidence",
-    "text": "Incidence\n🟢 MUST KNOW\nIncidence measures how many new cases of disease occur in a population over a defined period:\nIncidence Rate = (Number of new cases during a period) / (Population at risk over that period)\n\nMeasures risk — the probability of developing disease\nRequires following a population forward in time\nBest measure for studying disease causation (etiology)",
+    "text": "Incidence\n🟢 MUST KNOW\nIncidence counts new cases occurring in a population at risk during a defined period.\n\n\n\n\n\n\n\n\n\nCumulative incidence (risk)\nIncidence density (incidence rate)\n\n\n\n\nDenominator\nPersons at risk at the start of the period\nTotal person-time at risk\n\n\nFormula\nNew cases ÷ population at risk\nNew cases ÷ person-years at risk\n\n\nUnit\nProportion over a stated period (e.g. 2% in 3 years)\nPer person-year (a true rate)\n\n\n\n\nIncidence measures risk and is the best measure for causation studies\nSpell (episode) incidence counts episodes, so it can exceed the number of persons\nSpecial forms: attack rate, secondary attack rate",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2460,7 +2460,7 @@
     "href": "foundations/principles-epidemiology.html#prevalence",
     "title": "Principles of Epidemiology",
     "section": "Prevalence",
-    "text": "Prevalence\n🟢 MUST KNOW\nPrevalence measures how many existing cases (old + new) there are at a given time — it does not distinguish when each case began:\nPrevalence = (Number of existing cases) / (Total population)\n\nPoint prevalence — cases at one specific point in time\nPeriod prevalence — cases at any time during a defined interval\n\nRelationship (steady state): Prevalence ≈ Incidence Rate × Average Duration of Disease\nA disease can have high prevalence but low incidence if it lasts a long time (e.g. diabetes) — prevalence and incidence answer different questions and must not be confused.",
+    "text": "Prevalence\n🟢 MUST KNOW\nPrevalence counts all existing cases (old + new) at a given time:\nPrevalence = (All current cases at a point or period / Estimated population at that time) × 100\n\nPoint prevalence: cases at one point in time (e.g. a survey day)\nPeriod prevalence: cases existing at any time during an interval = point prevalence at the start + new cases in the interval. It mixes the two concepts and is not used for analysis.\n\nPrevalence is a proportion, not a rate. It measures the burden of disease.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2472,7 +2472,7 @@
     "href": "foundations/principles-epidemiology.html#attack-rate",
     "title": "Principles of Epidemiology",
     "section": "Attack Rate",
-    "text": "Attack Rate\n🟢 MUST KNOW\nA special form of incidence rate, used only when a population is exposed to risk for a limited period — typically during an outbreak:\nAttack Rate = (New cases during the outbreak) / (Population at risk) × 100\nUnlike a general incidence rate, it is expressed as a percentage over the whole exposure episode rather than per year. Secondary attack rate — new cases among contacts of a primary case, within the incubation period — is covered with outbreak measures in Communicable Diseases (Chapter 6).",
+    "text": "Attack Rate\n🟢 MUST KNOW\nA special form of incidence used when a population is exposed to risk for a limited period, typically during an outbreak:\nAttack Rate = (New cases during the outbreak / Population at risk) × 100\nIt is expressed as a percentage over the whole exposure episode, not per year.\nSecondary attack rate (SAR): new cases among susceptible contacts of a primary case, within one incubation period. It measures infectiousness and is covered with infectious disease dynamics in Lecture 10.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2520,7 +2520,7 @@
     "href": "foundations/principles-epidemiology.html#descriptive-epidemiology-person-place-time",
     "title": "Principles of Epidemiology",
     "section": "Descriptive Epidemiology: Person, Place, Time",
-    "text": "Descriptive Epidemiology: Person, Place, Time\n🟢 MUST KNOW\nDescriptive epidemiology characterizes who, where, and when disease occurs — the first step before asking why (analytical epidemiology):\n\nPerson — age, sex, occupation, socioeconomic status, ethnicity, behaviour\nPlace — urban vs. rural, national/international variation, local clustering\nTime — secular (long-term) trends, seasonal patterns, cyclical patterns, and point-source (epidemic) patterns",
+    "text": "Descriptive Epidemiology: Person, Place, Time\n🟢 MUST KNOW\nDescriptive epidemiology describes who, where and when: the first step before asking why (analytical epidemiology). Its output is a hypothesis.\nSteps in a descriptive study:\n\nDefine the population to be studied\nDefine the disease under study (an operational case definition)\nDescribe the disease by time, place and person\nMeasure the disease (rates and ratios)\nCompare with known indices (other populations, past years)\nFormulate an etiological hypothesis",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2532,7 +2532,7 @@
     "href": "foundations/principles-epidemiology.html#types-of-epidemiological-studies-overview",
     "title": "Principles of Epidemiology",
     "section": "Types of Epidemiological Studies (Overview)",
-    "text": "Types of Epidemiological Studies (Overview)\n🟡 SHOULD KNOW\nThree broad categories — detailed study designs are covered in Epidemiologic Methods:\n\nDescriptive — describes distribution (person/place/time); generates hypotheses but cannot test them\nAnalytical — tests hypotheses by comparing exposed vs. unexposed groups (e.g. cohort, case-control studies)\nExperimental — the investigator actively assigns exposure/ intervention (e.g. randomized controlled trials)",
+    "text": "Types of Epidemiological Studies (Overview)\n🟢 MUST KNOW\n\n\n\nClassification of epidemiological study designs\n\n\nA 2 × 2 table (exposure × outcome) can only be built when groups are compared, so it belongs to analytical and experimental studies, never purely descriptive ones.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2544,7 +2544,7 @@
     "href": "foundations/principles-epidemiology.html#uses-of-epidemiology",
     "title": "Principles of Epidemiology",
     "section": "Uses of Epidemiology",
-    "text": "Uses of Epidemiology\n🟡 SHOULD KNOW\n\nAssessing the community’s health status and identifying its health problems\nStudying the natural history and prognosis of disease\nIdentifying syndromes by describing clinical patterns\nCompleting the clinical picture of chronic diseases by finding sub-clinical and mild cases\nSearching for causes of disease by comparing rates in different population subgroups\nEvaluating the effectiveness and efficiency of health services and interventions",
+    "text": "Uses of Epidemiology\n🟡 SHOULD KNOW\n\n\n\nUses of epidemiology, grouped into four domains (after Fig 9.1 of the faculty text)\n\n\nMorris’s seven uses (Park): historical study · community diagnosis · planning and evaluation · individual risks and chances · completing the clinical picture · identification of syndromes · searching for causes.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2556,7 +2556,7 @@
     "href": "foundations/principles-epidemiology.html#operational-case-definitions",
     "title": "Principles of Epidemiology",
     "section": "Operational Case Definitions",
-    "text": "Operational Case Definitions\n🟡 SHOULD KNOW\nA clinician can revise a diagnosis later if it turns out to be wrong. An epidemiologist cannot: the study needs a definition fixed in advance that any field worker can apply consistently to classify a person as a case or not.\n\nAn operational definition spells out exact, measurable criteria — e.g. tonsillitis defined not just clinically, but as “enlarged, red tonsils with white exudate, throat swab culture positive for S. pyogenes”\nIt must be precise (unambiguous), valid (actually captures the disease), and applicable across large populations and different observers\nOnce set, the case definition is used throughout the study — changing it mid-study breaks comparability between phases\n\nWhy it matters: without this, “who counts as a case” varies by observer, and rates computed from the data become impossible to compare or replicate.",
+    "text": "Operational Case Definitions\n🟡 SHOULD KNOW\nA clinician can revise a diagnosis later. An epidemiologist cannot: the study needs a definition fixed in advance that any field worker can apply the same way.\n\nExample: tonsillitis defined as “enlarged, red tonsils with white exudate, throat swab culture positive for S. pyogenes”\nRequirements: it must be precise (unambiguous), valid and applicable across large populations and different observers\nTiers (WHO/IDSP style):\n\nsuspected: clinical picture only\nprobable: clinical picture plus supportive non-specific tests\nconfirmed: laboratory confirmation\n\nSensitivity vs specificity: a broad definition such as “fever for 1 day” for dengue is very sensitive but not specific\n\nChanging the definition mid-study breaks comparability between phases.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2568,7 +2568,7 @@
     "href": "foundations/principles-epidemiology.html#time-patterns-of-disease",
     "title": "Principles of Epidemiology",
     "section": "Time Patterns of Disease",
-    "text": "Time Patterns of Disease\n🟡 SHOULD KNOW\n\nSecular trend — gradual change in disease frequency over years to decades (e.g. declining infectious disease, rising NCD burden)\nSeasonal trend — regular, predictable variation tied to season (e.g. diarrheal disease peaking in summer/monsoon)\nCyclical trend — periodic variation over a few years (e.g. some vaccine-preventable diseases before mass immunization)\nPoint epidemic — a sharp spike from a common source over a short period (e.g. a contaminated water source)",
+    "text": "Time Patterns of Disease\n🟢 MUST KNOW\n\nShort-term fluctuations (epidemics): common-source (single exposure, or continuous/repeated) and propagated\nPeriodic fluctuations:\n\nSeasonal: a regular variation with season, such as diarrhoea in summer/monsoon or measles in early spring\nCyclic: a recurrence over a few years, such as measles every 2–3 years before mass immunization\n\nLong-term (secular) trend: a gradual change over decades, such as declining TB mortality or a rising CHD, diabetes and lung cancer burden\n\nSecular trends help doctors and planners judge whether a problem is growing, and evaluate the long-term impact of programmes.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2580,7 +2580,7 @@
     "href": "foundations/principles-epidemiology.html#john-snow-and-the-broad-street-pump",
     "title": "Principles of Epidemiology",
     "section": "John Snow and the Broad Street Pump",
-    "text": "John Snow and the Broad Street Pump\n🟣 MAY KNOW\nIn 1854, a severe cholera outbreak in London’s Soho district killed over 600 people in about ten days. John Snow, rejecting the then-dominant miasma (“bad air”) theory, mapped cholera deaths by address and traced them to a single water pump on Broad Street. He persuaded local authorities to remove the pump handle — after which the outbreak subsided. The contamination was later traced to a leaking sewer near the pump’s well.\nWhy it matters: this is widely regarded as the founding case study of modern epidemiology — using spatial/descriptive data to identify a cause and act, before germ theory or laboratory confirmation existed.",
+    "text": "John Snow and the Broad Street Pump\n🟣 MAY KNOW\nIn 1854, a severe cholera outbreak in London’s Soho district killed over 600 people in about ten days. John Snow rejected the then-dominant miasma (“bad air”) theory. He mapped cholera deaths by address and traced them to a single water pump on Broad Street. Local authorities removed the pump handle, and the outbreak subsided.\nSnow also compared death rates among households supplied by two water companies (the “Grand Experiment”): the Southwark & Vauxhall company drew sewage-polluted Thames water and the Lambeth company drew cleaner water.\nWhy it matters: this is the founding case study of modern epidemiology. It used descriptive and comparative data to identify a cause and act, before germ theory existed.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2604,7 +2604,7 @@
     "href": "foundations/principles-epidemiology.html#self-check-question-1",
     "title": "Principles of Epidemiology",
     "section": "Self-Check: Question 1",
-    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nAccording to John Last’s definition, epidemiology studies the distribution and determinants of health-related states, and:\n\nOnly treats individual patients\nApplies this study to the control of health problems\nFocuses exclusively on infectious disease\nExcludes population-level analysis",
+    "text": "Self-Check: Question 1\n🧡 QUESTION\n\nQuestion 1\nEpidemiology is best defined as the study of:\n\nDiagnosis and treatment of diseases in individual patients\nDistribution and determinants of health-related events in populations\nLaboratory identification of disease-causing agents\nPharmacological prevention of diseases",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2616,7 +2616,7 @@
     "href": "foundations/principles-epidemiology.html#self-check-question-2",
     "title": "Principles of Epidemiology",
     "section": "Self-Check: Question 2",
-    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\n“12 new cases of disease per 1,000 population per year” is an example of a:\n\nRatio\nProportion\nRate\nOdds",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich of the following has been considered, at one time or another, a part of the definition of epidemiology?\n\nStudy of frequency, distribution, and determinants of diseases\nStudy of epidemics\nStudy of mass phenomena of diseases\nAll of these",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2628,7 +2628,7 @@
     "href": "foundations/principles-epidemiology.html#self-check-question-3",
     "title": "Principles of Epidemiology",
     "section": "Self-Check: Question 3",
-    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA disease with a long duration but low incidence will typically show:\n\nLow prevalence\nHigh prevalence\nZero prevalence\nPrevalence equal to incidence",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nEpidemiology differs from clinical practice in all of the following respects, EXCEPT:\n\nEpidemiology focuses on a large number of subjects and not a single person\nIn epidemiology, we quantify the findings\nIn epidemiology, we do not use clinical skills\nEpidemiology asks whether a subject has the disease of interest, while the clinician asks which disease the patient has",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2640,7 +2640,7 @@
     "href": "foundations/principles-epidemiology.html#self-check-question-4",
     "title": "Principles of Epidemiology",
     "section": "Self-Check: Question 4",
-    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWhich of the following is a “person” variable in descriptive epidemiology?\n\nUrban vs. rural residence\nSeasonal variation\nOccupation\nSecular trend",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nThe word “epidemiology” is derived from three Greek words, “epi,” “demos,” and “logos.” Here, “epi” stands for:\n\nUpon\nPopulation\nScience\nNone of these",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2652,7 +2652,7 @@
     "href": "foundations/principles-epidemiology.html#self-check-question-5",
     "title": "Principles of Epidemiology",
     "section": "Self-Check: Question 5",
-    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nJohn Snow’s 1854 investigation is best known for:\n\nConfirming germ theory in a laboratory\nTracing a cholera outbreak to a contaminated water pump using mapped case data\nDiscovering the cholera bacterium\nEstablishing Koch’s postulates",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nCommunity diagnosis means:\n\nQuantifying and summarizing the important health problems and their associated sociodemographic characteristics in a community\nPriority-wise listing of the common diseases seen in a community\nSummarizing the standards of living and lifestyle factors in a community\nNone of these",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2664,7 +2664,7 @@
     "href": "foundations/principles-epidemiology.html#self-check-question-6",
     "title": "Principles of Epidemiology",
     "section": "Self-Check: Question 6",
-    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nA study that actively assigns an intervention to participants (rather than only observing existing exposure) is classified as:\n\nDescriptive\nAnalytical\nExperimental\nEcological",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nWhich of the following does NOT fall within the purview of the uses of epidemiology?\n\nDeciding whether a community needs one PHC or four subcentres\nEstablishing the natural history of HIV infection\nTraining medical students in conducting a delivery\nInvestigating an outbreak of food poisoning",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2676,7 +2676,7 @@
     "href": "foundations/principles-epidemiology.html#references",
     "title": "Principles of Epidemiology",
     "section": "References",
-    "text": "References\n\nLast, J.M. (Ed.) (1988). A Dictionary of Epidemiology (2nd ed.). Oxford University Press.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.).\nSnow, J. (1855). On the Mode of Communication of Cholera (2nd ed.).\nLondon Museum / London School of Hygiene and Tropical Medicine — historical records of the 1854 Broad Street cholera outbreak.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for attack rate and operational case definitions.",
+    "text": "References\n\nLast, J.M. (Ed.) (1988). A Dictionary of Epidemiology. Oxford University Press; Porta, M. (Ed.) (2014), 6th ed.\nPark, K. Park’s Textbook of Preventive and Social Medicine (latest ed.): epidemiology, mortality and morbidity measures, standardization, sources of health information.\nCommunity Medicine with Recent Advances (9th ed.), Section 3 “Epidemiology”, Chapters 9–14: review exercises adapted as Self-Check MCQs.\nFaculty question bank, Section V “Epidemiology”, Chapter 19 Principles and Practice of Epidemiology: descriptive questions and MCQs.\nOffice of the Registrar General, India. SRS Statistical Report 2023 (released Sept 2025); MoHFW/IIPS, NFHS-6 (2023–24) Fact Sheets (May 2026). Retrieved 28 Oct 2026.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.); Snow, J. (1855). On the Mode of Communication of Cholera.\n\nWant to practice? The Epidemiology Question Bank has every question from this chapter with answer keys.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2688,7 +2688,7 @@
     "href": "foundations/principles-epidemiology.html#thank-you",
     "title": "Principles of Epidemiology",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Chapter: Epidemiologic Methods\n← Previous | Top | Contents | Chapter 3/29 | Next Chapter →",
+    "text": "Thank You!\nNext Chapter: Epidemiologic Methods (CM7 Lectures 6–9)\n← Previous | Top | Contents | Chapter 3/29 | Next Chapter →",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -20135,5 +20135,1457 @@
     "title": "Man and Medicine — Question Bank",
     "section": "",
     "text": "Describe the AYUSH systems of medicine in India and discuss their role and limitations in public health.\nWrite short notes on: (a) Tridosha theory of Ayurveda (b) The fundamental principle of Homeopathy (c) Unani and Siddha systems of medicine.\nDiscuss how AYUSH systems can be integrated into primary health care, with examples.\n\n\n\n\nA. Single Best Answer (SBA)\n\nThe traditional concept of “Tridosha” — Vata, Pitta, and Kapha — is associated with which system of medicine?\n\nUnani\nSiddha\nAyurveda\nHomeopathy\n\n“Like cures like” is the fundamental principle of:\n\nUnani\nYoga\nSiddha\nHomeopathy\n\nA patient develops liver toxicity after taking an unlabeled herbal preparation of unclear dosage. This best illustrates which limitation of AYUSH systems?\n\nLack of trained practitioners\nAbsence of preventive potential\nIssues of standardization and safety\nIneffectiveness in chronic diseases\n\nA corporate wellness programme uses regular yoga and meditation sessions to reduce employee stress and improve mental well-being. This approach is best classified under which AYUSH system?\n\nUnani\nSiddha\nYoga and Naturopathy\nHomeopathy\n\nA rural primary health centre incorporates Ayurvedic physicians to manage chronic, non-emergency conditions alongside allopathic care. This reflects which model of health-care delivery?\n\nExclusive allopathic model\nAn integrative AYUSH–allopathy model at the primary care level\nTertiary referral model\nPurely preventive model with no curative component\n\nAYUSH systems of medicine are, in general, most appropriately used for:\n\nEmergency trauma surgery\nAcute, life-threatening infections requiring intensive care\nChronic conditions, wellness promotion, and preventive care\nOrgan transplantation\n\nWhich of the following best describes the primary public-health role of AYUSH systems today?\n\nReplacing allopathic emergency medicine entirely\nComplementing allopathy through wellness, prevention, and chronic-care support\nProviding the sole basis for national immunization programmes\nServing only as a historical/cultural reference with no active clinical role\n\n\nB. Multiple Correct Answer (MCMA) — select all that apply\n\nWhich of the following are potential public-health contributions of AYUSH systems?\n\nLow-cost, accessible chronic-disease and wellness care\nPromotion of healthy lifestyle practices — yoga, diet, daily regimen\nDefinitive management of major trauma\nReplacement of vaccination programmes\n\n\nC. Assertion–Reason (A-R)\n\nAssertion (A): Integrating AYUSH practitioners into the primary health-care workforce can improve access to care in underserved areas. Reason (R): India has a large trained AYUSH workforce that can be deployed to supplement allopathic human resources for health.\n\nBoth A and R are true, and R is the correct explanation of A\nBoth A and R are true, but R is not the correct explanation of A\nA is true, R is false\nA is false, R is true\n\nAssertion (A): All AYUSH medicines are inherently safe because they are derived from natural sources. Reason (R): Herbal and natural products can still cause toxicity, especially with poor standardization, incorrect dosage, or drug interactions.\n\nBoth A and R are true, and R is the correct explanation of A\nBoth A and R are true, but R is not the correct explanation of A\nA is true, R is false\nA is false, R is true\n\n\n\n\n\nShort Essay / Short Answer — key points:\n\nAYUSH = Ayurveda, Yoga & Naturopathy, Unani, Siddha, Homeopathy, under the Ministry of AYUSH (2014). Role: low-cost, accessible wellness, prevention, and chronic-disease care, often integrated at the primary-care level. Limitations: variable standardization, safety/quality-control concerns, limited robust evidence base for many indications, unsuited to emergencies/surgical/critical care.\n\nTridosha — Vata, Pitta, Kapha — the three fundamental humors of Ayurveda whose balance determines health, laid down in the Atharvaveda. (b) Homeopathy’s principle: “like cures like” (Samuel Hahnemann, 1796) — a substance causing symptoms in a healthy person treats similar symptoms when highly diluted. (c) Unani — Greco-Arabic system (Avicenna’s Canon of Medicine) based on four humors; Siddha — Tamil-origin system based on the five-element (Panchabhoota) theory.\n\nIntegration examples: co-locating AYUSH practitioners at PHCs/sub-centres for chronic disease and wellness care; yoga/naturopathy in NCD prevention programmes; AYUSH workforce deployed to extend primary-care reach in underserved areas — all under the National AYUSH Mission.\n\nMCQs: 1-c, 2-d, 3-c, 4-c, 5-b, 6-c, 7-b, 8-ab\n9-a, 10-d"
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#the-epidemiological-approach",
+    "href": "foundations/principles-epidemiology.html#the-epidemiological-approach",
+    "title": "Principles of Epidemiology",
+    "section": "The Epidemiological Approach",
+    "text": "The Epidemiological Approach\n🟢 MUST KNOW\nTwo core activities: asking questions (what is the event? how much? where? when? who? why?) and making comparisons (between groups, places and times).\n\n\n\nThe epidemiological approach",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#epidemiology-vs-clinical-medicine",
+    "href": "foundations/principles-epidemiology.html#epidemiology-vs-clinical-medicine",
+    "title": "Principles of Epidemiology",
+    "section": "Epidemiology vs Clinical Medicine",
+    "text": "Epidemiology vs Clinical Medicine\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\nClinical medicine\nEpidemiology\n\n\n\n\nUnit of study\nThe individual patient\nDefined population (community)\n\n\nStarting point\nA sick person seeks care\nSick and healthy people, including those who never reach a clinic\n\n\nCore question\nWhich disease does this patient have?\nDoes this subject have the disease of interest? How many, where, when, why?\n\n\nMethod\nHistory, examination, investigations\nCounting, rates, comparison of groups\n\n\nOutcome\nDiagnosis and treatment of the patient\nCommunity diagnosis, prevention and control\n\n\n\nBoth rely on clinical skills: an epidemiologist still needs them to apply a case definition.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#milestones-in-the-history-of-epidemiology",
+    "href": "foundations/principles-epidemiology.html#milestones-in-the-history-of-epidemiology",
+    "title": "Principles of Epidemiology",
+    "section": "Milestones in the History of Epidemiology",
+    "text": "Milestones in the History of Epidemiology\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\n\nYear\nPerson\nContribution\n\n\n\n\nc. 400 BC\nHippocrates\nAirs, Waters and Places: related disease to the environment\n\n\n1662\nJohn Graunt\nBills of Mortality: first quantification of birth and death data\n\n\n1747\nJames Lind\nCitrus fruit for scurvy: the first controlled clinical trial\n\n\n1796\nEdward Jenner\nCowpox inoculation against smallpox: vaccination\n\n\n1839\nWilliam Farr\nSystematic vital statistics; classification of causes of death\n\n\n1854\nJohn Snow\nCholera and the Broad Street pump: the first scientific epidemic investigation\n\n\n1948–51\nFramingham; Doll & Hill\nCVD cohort; smoking and lung cancer (Doll a physician, Hill a statistician)\n\n\n1948\nMRC streptomycin trial\nThe first randomized controlled trial",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-1",
+    "href": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-1",
+    "title": "Principles of Epidemiology",
+    "section": "Practice Questions: Descriptive (Lecture 1)",
+    "text": "Practice Questions: Descriptive (Lecture 1)\nFor written practice — work through these on paper; no auto-check for this slide.\nLong Essay\n\nDefine epidemiology, explain measures of disease frequency, describe the major epidemiological study designs, and discuss association versus causation, including bias and confounding. Add a brief note on MCCD and verbal autopsy. (Integrated question: draws on Lectures 1–9)\n\nShort Essay / Short Answer\n\nDifference between epidemiology and clinical medicine.\nWrite the uses of epidemiology.\n\nShort Notes\n\nAims of epidemiology.\nThe epidemiological approach.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-7",
+    "href": "foundations/principles-epidemiology.html#self-check-question-7",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 7",
+    "text": "Self-Check: Question 7\n🧡 QUESTION\n\nQuestion 7\nThe book “Airs, Waters and Places” was compiled by:\n\nJohn Graunt\nWilliam Farr\nHippocrates\nAlexander Fleming",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-8",
+    "href": "foundations/principles-epidemiology.html#self-check-question-8",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 8",
+    "text": "Self-Check: Question 8\n🧡 QUESTION\n\nQuestion 8\nEdward Jenner’s basis for vaccination was the observation that prior infection with which disease protected against subsequent smallpox?\n\nMonkeypox\nCowpox\nChickenpox\nRickettsial pox",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-9",
+    "href": "foundations/principles-epidemiology.html#self-check-question-9",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 9",
+    "text": "Self-Check: Question 9\n🧡 QUESTION\n\nQuestion 9\nThe first ever scientifically conducted clinical trial was:\n\nTrial of streptomycin for tuberculosis\nTrial of polio vaccine\nGoldberger’s observations on pellagra\nJames Lind’s study of lemon juice in the prevention of scurvy",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-10",
+    "href": "foundations/principles-epidemiology.html#self-check-question-10",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 10",
+    "text": "Self-Check: Question 10\n🧡 QUESTION\n\nQuestion 10\nThe first ever scientific investigation of an epidemic was undertaken by:\n\nJohn Snow\nJohn Graunt\nWilliam Farr\nEdward Jenner",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-11",
+    "href": "foundations/principles-epidemiology.html#self-check-question-11",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 11",
+    "text": "Self-Check: Question 11\n🧡 QUESTION\n\nQuestion 11\nWhich statement is correct regarding Sir Richard Doll and Sir A. Bradford Hill?\n\nDoll was a statistician and Hill was a physician\nDoll was a physician and Hill was a statistician\nBoth were physicians\nBoth were statisticians",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-12",
+    "href": "foundations/principles-epidemiology.html#self-check-question-12",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 12",
+    "text": "Self-Check: Question 12\n🧡 QUESTION\n\nQuestion 12\nDoll and Hill are famous for their studies regarding:\n\nFramingham Heart Study\nTreatment of tuberculosis\nSmoking and lung cancer\nPrevention of HIV",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-13",
+    "href": "foundations/principles-epidemiology.html#self-check-question-13",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 13",
+    "text": "Self-Check: Question 13\n🧡 QUESTION\n\nQuestion 13\nThe discovery of penicillin by Sir Alexander Fleming was based on:\n\nEpidemiological studies\nLaboratory studies\nClinical studies\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-14",
+    "href": "foundations/principles-epidemiology.html#self-check-question-14",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 14",
+    "text": "Self-Check: Question 14\n🧡 QUESTION\n\nQuestion 14\nJohn Snow’s 1854 investigation is best known for:\n\nConfirming germ theory in a laboratory\nTracing a cholera outbreak to a contaminated water pump using mapped case data\nDiscovering the cholera bacterium\nEstablishing Koch’s postulates",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#how-a-rate-is-built",
+    "href": "foundations/principles-epidemiology.html#how-a-rate-is-built",
+    "title": "Principles of Epidemiology",
+    "section": "How a Rate Is Built",
+    "text": "How a Rate Is Built\n🟢 MUST KNOW\nRate = (Number of events in a specified period / Average population at risk during that period) × 10ⁿ\n\nNumerator: events (deaths, new cases) occurring in the defined place and period\nDenominator: the population at risk, usually the mid-year (1 July) population for annual rates\nTime: the period, usually one calendar year\nMultiplier (10ⁿ): per 1000, per 100,000, etc., chosen so the result is a convenient whole number\n\n\n\n\n\n\n\n\nType of rate\nExample\n\n\n\n\nCrude\nCrude birth and death rates: the whole population, unadjusted\n\n\nSpecific\nAge-, sex- or cause-specific rates, for a defined subgroup\n\n\nStandardized\nAge-adjusted rates for fair comparison (Lecture 4)",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#mortality-rates-crude-specific-and-case-fatality",
+    "href": "foundations/principles-epidemiology.html#mortality-rates-crude-specific-and-case-fatality",
+    "title": "Principles of Epidemiology",
+    "section": "Mortality Rates: Crude, Specific, and Case Fatality",
+    "text": "Mortality Rates: Crude, Specific, and Case Fatality\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\nRate\nFormula\nUse\n\n\n\n\nCrude Death Rate (CDR)\nDeaths in the year ÷ mid-year population × 1000\nSimplest mortality measure; not comparable across different age structures\n\n\nSpecific Death Rate\nDeaths in a subgroup (age/sex/cause) ÷ subgroup mid-year population × 1000\nIdentifies high-risk groups\n\n\nCase Fatality Rate (CFR)\nDeaths from a disease ÷ cases of that disease × 100\n“Killing power” (severity); suits acute infections\n\n\nProportional Mortality Rate (PMR)\nDeaths from a cause ÷ all deaths × 100\nShare of deaths; used when no population denominator exists\n\n\n\nExam trap: PMR is not a risk measure. A rising PMR may only mean deaths from other causes fell.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#more-mortality-measures",
+    "href": "foundations/principles-epidemiology.html#more-mortality-measures",
+    "title": "Principles of Epidemiology",
+    "section": "More Mortality Measures",
+    "text": "More Mortality Measures\n🟡 SHOULD KNOW\n\nSurvival rate = (patients alive after a fixed period, usually 5 years ÷ patients diagnosed or treated) × 100. Used for cancer and other chronic disease and for evaluating treatment.\nYears of Life Lost (YLL): the sum, over all deaths, of (standard life expectancy − age at death). It gives weight to premature deaths and is the mortality part of the DALY.\nInfant mortality rate: infant deaths ÷ live births × 1000.\nMaternal mortality ratio: maternal deaths ÷ live births × 100,000. Formally a ratio, because the denominator is live births, not women at risk.\n\nDetailed fertility and MCH indicators are taught under CM10.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#worked-example-mortality-measures",
+    "href": "foundations/principles-epidemiology.html#worked-example-mortality-measures",
+    "title": "Principles of Epidemiology",
+    "section": "Worked Example: Mortality Measures",
+    "text": "Worked Example: Mortality Measures\n🟢 MUST KNOW\nA town has a mid-year population of 50,000. In one year:\n\n400 deaths in all, 200 of them among the 5,000 persons aged ≥ 60\n120 cholera cases, with 6 cholera deaths\n40 deaths due to tuberculosis\n\n\n\n\nMeasure\nCalculation\nResult\n\n\n\n\nCDR\n400 ÷ 50,000 × 1000\n8 per 1000\n\n\nAge-specific DR (≥ 60)\n200 ÷ 5,000 × 1000\n40 per 1000\n\n\nCFR (cholera)\n6 ÷ 120 × 100\n5%\n\n\nPMR (TB)\n40 ÷ 400 × 100\n10% of deaths",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#indias-mortality-snapshot",
+    "href": "foundations/principles-epidemiology.html#indias-mortality-snapshot",
+    "title": "Principles of Epidemiology",
+    "section": "India’s Mortality Snapshot",
+    "text": "India’s Mortality Snapshot\n🟡 SHOULD KNOW\nSample Registration System, Statistical Report 2023 (Office of the RGI, released Sept 2025):\n\n\n\nIndicator\nIndia, 2023\nTrend\n\n\n\n\nCrude birth rate\n18.4 per 1000\n19.1 in 2022\n\n\nCrude death rate\n6.4 per 1000\n6.8 in 2022\n\n\nInfant mortality rate\n25 per 1000 live births\n40 in 2013\n\n\n\nRetrieved 28 Oct 2026 from SRS 2023 summaries. Secondary sources differ slightly: some give CDR 6.3 and CBR 19.7. Check the official RGI report before an exam, and use the latest SRS bulletin.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-2",
+    "href": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-2",
+    "title": "Principles of Epidemiology",
+    "section": "Practice Questions: Descriptive (Lecture 2)",
+    "text": "Practice Questions: Descriptive (Lecture 2)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nDefine rate, ratio, and proportion with appropriate examples.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-15",
+    "href": "foundations/principles-epidemiology.html#self-check-question-15",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 15",
+    "text": "Self-Check: Question 15\n🧡 QUESTION\n\nQuestion 15\n“12 new cases of disease per 1,000 population per year” is an example of a:\n\nRatio\nProportion\nRate\nOdds",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-16",
+    "href": "foundations/principles-epidemiology.html#self-check-question-16",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 16",
+    "text": "Self-Check: Question 16\n🧡 QUESTION\n\nQuestion 16\nThe measure of frequency in which the numerator is NOT a part of the denominator is:\n\nRate\nRatio\nIncidence\nPrevalence",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-17",
+    "href": "foundations/principles-epidemiology.html#self-check-question-17",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 17",
+    "text": "Self-Check: Question 17\n🧡 QUESTION\n\nQuestion 17\nThe term “odds” is the same as a:\n\nRate\nRatio\nProportion\nMean",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-18",
+    "href": "foundations/principles-epidemiology.html#self-check-question-18",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 18",
+    "text": "Self-Check: Question 18\n🧡 QUESTION\n\nQuestion 18\nA proportion with an added relationship with time becomes a:\n\nRate\nRatio\nPrevalence\nMean",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-19",
+    "href": "foundations/principles-epidemiology.html#self-check-question-19",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 19",
+    "text": "Self-Check: Question 19\n🧡 QUESTION\n\nQuestion 19\nWhich measure best reflects the severity of a disease among those affected?\n\nIncidence rate\nPrevalence\nCase fatality rate\nProportionate mortality",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-20",
+    "href": "foundations/principles-epidemiology.html#self-check-question-20",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 20",
+    "text": "Self-Check: Question 20\n🧡 QUESTION (select ALL that apply)\n\nQuestion 20\nMeasures of mortality commonly used in public health include:\n\nAttack rate\nInfant mortality rate\nCrude death rate\nMaternal mortality ratio",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-21",
+    "href": "foundations/principles-epidemiology.html#self-check-question-21",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 21",
+    "text": "Self-Check: Question 21\n🧡 QUESTION\n\nQuestion 21\nAssertion (A): Case fatality rate is a useful indicator of disease severity.\nReason (R): It measures the total deaths in the population irrespective of disease.\n\nBoth A and R are true, and R is the correct explanation of A\nBoth A and R are true, but R is NOT the correct explanation of A\nA is true, R is false\nA is false, R is true",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#prevalence-incidence-and-duration",
+    "href": "foundations/principles-epidemiology.html#prevalence-incidence-and-duration",
+    "title": "Principles of Epidemiology",
+    "section": "Prevalence, Incidence, and Duration",
+    "text": "Prevalence, Incidence, and Duration\n🟢 MUST KNOW\n\n\n\n\n\nPrevalence pool\n\n\n\nP = I × D (steady state)\n\nLong duration with low incidence gives high prevalence (diabetes, leprosy before MDT)\nHigh incidence with short duration gives low prevalence (common cold)\nBetter treatment that cures fast lowers prevalence\nTreatment that prolongs life without cure raises it",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#uses-of-incidence-vs-prevalence",
+    "href": "foundations/principles-epidemiology.html#uses-of-incidence-vs-prevalence",
+    "title": "Principles of Epidemiology",
+    "section": "Uses of Incidence vs Prevalence",
+    "text": "Uses of Incidence vs Prevalence\n🟢 MUST KNOW\n\n\n\n\n\n\n\nIncidence\nPrevalence\n\n\n\n\nNew cases only\nAll existing cases\n\n\nMeasures risk\nMeasures burden\n\n\nNeeds follow-up (cohort)\nOne-time survey (cross-sectional)\n\n\nBest for etiology/causation: exposure must precede onset\nBest for planning services, beds, drugs, manpower\n\n\nEvaluates primary prevention\nEstimates chronic disease load; affected by duration and survival\n\n\nSuited to acute disease\nSuited to chronic disease",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#other-morbidity-measures",
+    "href": "foundations/principles-epidemiology.html#other-morbidity-measures",
+    "title": "Principles of Epidemiology",
+    "section": "Other Morbidity Measures",
+    "text": "Other Morbidity Measures\n🟡 SHOULD KNOW\n\nDuration of illness: mean days of illness per case\nDisability rates: days of restricted activity, bed-disability days, work-loss days per person per year\nNotification data: legally notifiable diseases (IDSP/IHIP)\nHospital and registry data: admissions, discharges, cancer and TB registries\nComposite measures: DALY and HALE combine morbidity with mortality (Chapter 2)\n\nPopulation at risk: the denominator must include only people capable of developing the disease. Exclude the already immune or already affected, and use women only for cervical cancer. A wrong denominator is a common source of error.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#problem-set-tb-in-an-hiv-cohort",
+    "href": "foundations/principles-epidemiology.html#problem-set-tb-in-an-hiv-cohort",
+    "title": "Principles of Epidemiology",
+    "section": "Problem Set: TB in an HIV Cohort",
+    "text": "Problem Set: TB in an HIV Cohort\n🟡 SHOULD KNOW\nUse this figure for the TB questions in the Self-Check below.\n\n\n\nTB episodes in 100 HIV-positive subjects, 2000–2003",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-3",
+    "href": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-3",
+    "title": "Principles of Epidemiology",
+    "section": "Practice Questions: Descriptive (Lecture 3)",
+    "text": "Practice Questions: Descriptive (Lecture 3)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nDifferentiate incidence and prevalence with suitable examples.\nHow will you measure morbidity?\nRelationship between prevalence and incidence (prevalence vs incidence).\n\nShort Notes\n\nRelationship between incidence and prevalence.\n\nReasoning Type\n\nWhy is incidence preferred over prevalence for studying disease causation?\nGive reasons why prevalence depends on both the incidence and the duration of disease.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-22",
+    "href": "foundations/principles-epidemiology.html#self-check-question-22",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 22",
+    "text": "Self-Check: Question 22\n🧡 QUESTION\n\nQuestion 22\nWhich measure best reflects the risk of developing disease over a specified period among initially disease-free individuals?\n\nPrevalence\nIncidence\nCase fatality rate\nProportionate mortality",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-23",
+    "href": "foundations/principles-epidemiology.html#self-check-question-23",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 23",
+    "text": "Self-Check: Question 23\n🧡 QUESTION\n\nQuestion 23\nA district surveillance officer wants to compare the current burden of diabetes between two urban wards to plan clinic services. The most appropriate measure is:\n\nIncidence rate\nCase fatality rate\nPrevalence\nAttack rate",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-24",
+    "href": "foundations/principles-epidemiology.html#self-check-question-24",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 24",
+    "text": "Self-Check: Question 24\n🧡 QUESTION\n\nQuestion 24\nA disease has high incidence but short duration because of rapid recovery. In such a situation, prevalence is likely to be:\n\nHigh\nEqual to incidence\nVery low\nZero",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-25",
+    "href": "foundations/principles-epidemiology.html#self-check-question-25",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 25",
+    "text": "Self-Check: Question 25\n🧡 QUESTION\n\nQuestion 25\nA disease with a long duration but low incidence will typically show:\n\nLow prevalence\nHigh prevalence\nZero prevalence\nPrevalence equal to incidence",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-26",
+    "href": "foundations/principles-epidemiology.html#self-check-question-26",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 26",
+    "text": "Self-Check: Question 26\n🧡 QUESTION\n\nQuestion 26\nUnder stable conditions, the relationship between incidence (I), prevalence (P) and duration (D) is:\n\nP = I × D\nI = P × D\nP = I + D\nI = P + D",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-27",
+    "href": "foundations/principles-epidemiology.html#self-check-question-27",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 27",
+    "text": "Self-Check: Question 27\n🧡 QUESTION\n\nQuestion 27\nThe proportion of persons found to have the disease condition of interest out of those examined gives the:\n\nRate\nIncidence\nPrevalence\nRatio",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-28",
+    "href": "foundations/principles-epidemiology.html#self-check-question-28",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 28",
+    "text": "Self-Check: Question 28\n🧡 QUESTION\n\nQuestion 28\nIdentify the correct statement:\n\nIncidence is a rate while prevalence is a proportion\nPrevalence is a rate while incidence is a proportion\nBoth incidence and prevalence are rates\nBoth incidence and prevalence are proportions",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-29",
+    "href": "foundations/principles-epidemiology.html#self-check-question-29",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 29",
+    "text": "Self-Check: Question 29\n🧡 QUESTION\n\nQuestion 29\nIn which of the following frequency measures is the denominator “person-time”?\n\nCumulative incidence\nIncidence density\nPoint prevalence\nPeriod prevalence",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-30",
+    "href": "foundations/principles-epidemiology.html#self-check-question-30",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 30",
+    "text": "Self-Check: Question 30\n🧡 QUESTION\n\nQuestion 30\nIn which of the following disease frequency measures can the numerator be greater than the denominator?\n\nIncidence rate (persons)\nPeriod prevalence\nIncidence rate (spells)\nPoint prevalence",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-31",
+    "href": "foundations/principles-epidemiology.html#self-check-question-31",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 31",
+    "text": "Self-Check: Question 31\n🧡 QUESTION\n\nQuestion 31\nWhich of the following measures is NOT recommended for scientific statistical analysis of epidemiological data?\n\nCumulative incidence\nIncidence density\nPoint prevalence\nPeriod prevalence",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-32",
+    "href": "foundations/principles-epidemiology.html#self-check-question-32",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 32",
+    "text": "Self-Check: Question 32\n🧡 QUESTION\n\nQuestion 32\nIn a survey of tobacco smoking among adult males, 190 of the 950 persons surveyed were smokers. The correct frequency measure and its value are:\n\nIncidence, 20%\nPrevalence, 20%\nPrevalence, 19%\nIncidence rate, 190 per 1000 per year",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-33",
+    "href": "foundations/principles-epidemiology.html#self-check-question-33",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 33",
+    "text": "Self-Check: Question 33\n🧡 QUESTION\n\nQuestion 33\nBP assessment of 1000 male university students in January 2016 found 50 hypertensive. What is the prevalence of hypertension in January 2016?\n\n2%\n5%\n10%\n15%",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-34",
+    "href": "foundations/principles-epidemiology.html#self-check-question-34",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 34",
+    "text": "Self-Check: Question 34\n🧡 QUESTION\n\nQuestion 34\nIn the same students, the remaining 950 normotensives were followed for 3 years, and 19 developed hypertension by January 2019. What is the incidence of hypertension?\n\n2%\n5%\n2% over a period of 3 years\n5% over a period of 3 years",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-35",
+    "href": "foundations/principles-epidemiology.html#self-check-question-35",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 35",
+    "text": "Self-Check: Question 35\n🧡 QUESTION\n\nQuestion 35\nRefer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the prevalence of TB in January 2000?\n\n5/100\n8/100\n5/95\n8/95\n5/92",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-36",
+    "href": "foundations/principles-epidemiology.html#self-check-question-36",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 36",
+    "text": "Self-Check: Question 36\n🧡 QUESTION\n\nQuestion 36\nRefer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the prevalence of TB in January 2002?\n\n5/100\n9/100\n5/95\n5/80\n9/80",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-37",
+    "href": "foundations/principles-epidemiology.html#self-check-question-37",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 37",
+    "text": "Self-Check: Question 37\n🧡 QUESTION\n\nQuestion 37\nRefer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the 3-year incidence of TB for 1 Jan 2000 to 1 Jan 2003?\n\n20/100\n15/100\n20/95\n15/95\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-38",
+    "href": "foundations/principles-epidemiology.html#self-check-question-38",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 38",
+    "text": "Self-Check: Question 38\n🧡 QUESTION\n\nQuestion 38\nRefer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the incidence of TB for the year 2002?\n\n5/100\n5/85\n5/95\n10/85\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-39",
+    "href": "foundations/principles-epidemiology.html#self-check-question-39",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 39",
+    "text": "Self-Check: Question 39\n🧡 QUESTION\n\nQuestion 39\nRefer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the period prevalence for January 2000 to January 2002?\n\n5%\n10%\n15%\n20%",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-40",
+    "href": "foundations/principles-epidemiology.html#self-check-question-40",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 40",
+    "text": "Self-Check: Question 40\n🧡 QUESTION\n\nQuestion 40\nAssertion (A): Prevalence is useful for planning health services.\nReason (R): Prevalence reflects only new cases occurring in a population.\n\nBoth A and R are true, and R is the correct explanation of A\nBoth A and R are true, but R is NOT the correct explanation of A\nA is true, R is false\nA is false, R is true",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#standardization-direct-and-indirect-methods",
+    "href": "foundations/principles-epidemiology.html#standardization-direct-and-indirect-methods",
+    "title": "Principles of Epidemiology",
+    "section": "Standardization: Direct and Indirect Methods",
+    "text": "Standardization: Direct and Indirect Methods\n🟢 MUST KNOW\nCrude rates aren’t comparable between populations with different age (or sex) structures. Standardization removes that distortion (confounding by age) by applying a common “standard population”.\n\n\n\n\n\n\n\n\n\nDirect method\nIndirect method\n\n\n\n\nNeeds\nAge-specific rates of each study population\nOnly total deaths and the age structure of the study population\n\n\nApplies\nEach population’s own rates → one standard population\nStandard rates → the study population\n\n\nResult\nAge-adjusted (standardized) rate\nSMR = observed deaths ÷ expected deaths\n\n\nUse when\nPopulations are large with reliable rates\nGroups are small, or age-specific rates are unavailable (occupational studies)\n\n\n\nAn SMR &gt; 1 (or &gt; 100%) means more deaths than expected from the standard population’s experience.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#worked-example-direct-standardization",
+    "href": "foundations/principles-epidemiology.html#worked-example-direct-standardization",
+    "title": "Principles of Epidemiology",
+    "section": "Worked Example: Direct Standardization",
+    "text": "Worked Example: Direct Standardization\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\n\n\n\n\nAge (y)\nTown A pop.\nDeaths\nTown B pop.\nDeaths\nRate (both) per 1000\nStandard pop. (A+B)\nExpected deaths\n\n\n\n\n0–29\n6,000\n6\n2,000\n2\n1\n8,000\n8\n\n\n30–59\n3,000\n9\n4,000\n12\n3\n7,000\n21\n\n\n≥ 60\n1,000\n40\n4,000\n160\n40\n5,000\n200\n\n\nTotal\n10,000\n55\n10,000\n174\n\n20,000\n229\n\n\n\n\nCrude DR: A = 5.5, B = 17.4 per 1000, which looks like a threefold difference\nStandardized DR: 229 ÷ 20,000 × 1000 = 11.45 per 1000 for both\nThe difference was entirely due to B’s older population",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#worked-example-indirect-standardization-smr",
+    "href": "foundations/principles-epidemiology.html#worked-example-indirect-standardization-smr",
+    "title": "Principles of Epidemiology",
+    "section": "Worked Example: Indirect Standardization (SMR)",
+    "text": "Worked Example: Indirect Standardization (SMR)\n🟡 SHOULD KNOW\nMine workers: 27 deaths observed in one year. Age-specific death rates of the national (standard) population are applied to the workers’ age structure:\n\n\n\nAge (y)\nWorkers\nStandard rate per 1000\nExpected deaths\n\n\n\n\n20–39\n4,000\n2\n8\n\n\n40–59\n1,000\n10\n10\n\n\nTotal\n5,000\n\n18\n\n\n\nSMR = Observed ÷ Expected = 27 ÷ 18 = 1.5 (150%)\nThe workers die at 1.5 times the rate expected for their age structure, which points to an occupational hazard.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#sources-of-epidemiological-data-1",
+    "href": "foundations/principles-epidemiology.html#sources-of-epidemiological-data-1",
+    "title": "Principles of Epidemiology",
+    "section": "Sources of Epidemiological Data (1)",
+    "text": "Sources of Epidemiological Data (1)\n🟢 MUST KNOW\n\n\n\n\n\n\n\nSource\nKey facts\n\n\n\n\nCensus\nEvery 10 years. First 1872 (non-synchronous), synchronous since 1881. Census Act 1948, conducted by the Registrar General & Census Commissioner (MHA). De facto method, reference date 00:00 hrs, 1 March. Complete enumeration. Last completed: 2011. Census 2027 reference date 1 March 2027 (1 Oct 2026 in snow-bound areas)\n\n\nCivil registration (CRS)\nRBD Act 1969: compulsory registration of births and deaths (21 days), uniform across India. Vital statistics = births, deaths, marriages, divorces, foetal deaths\n\n\nSRS\nRGI, from 1964–65 (pilot), full scale 1969–70. Dual record system: continuous enumeration plus an independent half-yearly survey, then matching. Separate rural and urban sample units. Source of CBR, CDR, IMR, MMR, TFR\n\n\nMCCD and verbal autopsy\nCause-of-death data (next slide). Verbal autopsy is used in SRS sample units",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#sources-of-epidemiological-data-2",
+    "href": "foundations/principles-epidemiology.html#sources-of-epidemiological-data-2",
+    "title": "Principles of Epidemiology",
+    "section": "Sources of Epidemiological Data (2)",
+    "text": "Sources of Epidemiological Data (2)\n🟡 SHOULD KNOW\n\nNotification and surveillance: notifiable diseases. IDSP (2004) collects weekly S/P/L data, now on the IHIP digital platform (nationwide 2021). This is the best routine source of morbidity data on epidemic-prone diseases.\nHospital records: admissions, OPD, laboratory and radiology registers. These are the basis of sentinel surveillance (e.g. AFP).\nDisease registers: population-based cancer registries (NCRP, 1981), Ni-kshay (TB).\nSample surveys:\n\nNFHS 1–6: IIPS, MoHFW. NFHS-6 (2023–24) fact sheets released in May 2026.\nDLHS / RCH Rapid Household and Facility Surveys\nNSS health rounds, LASI, CNNS\n\nPublications: CBHI National Health Profile (annual), WHO World Health Statistics, UNICEF SOWC, CDC MMWR.\n\nData → information → intelligence: raw data, summarized into information, and evaluated by experts into intelligence, which is the basis for action.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#mccd-and-verbal-autopsy",
+    "href": "foundations/principles-epidemiology.html#mccd-and-verbal-autopsy",
+    "title": "Principles of Epidemiology",
+    "section": "MCCD and Verbal Autopsy",
+    "text": "MCCD and Verbal Autopsy\n🟢 MUST KNOW\nMedical Certification of Cause of Death (MCCD) under the RBD Act. Form 4 is for institutional deaths and Form 4A for non-institutional deaths. It follows the WHO international format.\n\nPart I: the causal sequence. (a) immediate cause → (b) antecedent → (c) underlying cause on the lowest line. Give the interval between onset and death for each line.\nPart II: other significant conditions that contributed but are not in the chain (e.g. diabetes)\nUnderlying cause = the disease that initiated the train of events leading to death. It is the cause coded with ICD for statistics.\n\nCommon errors: writing the mode of death (“cardiac arrest”, “respiratory failure”) as a cause, wrong sequence, more than one cause per line, abbreviations, missing intervals, vague terms (“old age”).\nVerbal autopsy: a structured interview of relatives or caregivers about signs and symptoms before death, coded by physicians or software. It is used where deaths occur without medical attention, as in the SRS Million Death Study.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-4",
+    "href": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-4",
+    "title": "Principles of Epidemiology",
+    "section": "Practice Questions: Descriptive (Lecture 4)",
+    "text": "Practice Questions: Descriptive (Lecture 4)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nEnumerate the steps of completing an MCCD correctly (principle-based, not format drawing).\n\nShort Notes\n\nStandardized death rate.\nSources of epidemiological data in India.\n\nReasoning Type\n\nWhy is standardization of death rates necessary when comparing two populations?\nExplain why the Medical Certification of Cause of Death (MCCD) is important for public health planning but not for individual patient care.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-41",
+    "href": "foundations/principles-epidemiology.html#self-check-question-41",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 41",
+    "text": "Self-Check: Question 41\n🧡 QUESTION\n\nQuestion 41\nA health planner wants to compare mortality rates between two populations with different age structures. The most appropriate method is to use the:\n\nCrude death rate\nCase fatality rate\nStandardized death rate\nProportionate mortality ratio",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-42",
+    "href": "foundations/principles-epidemiology.html#self-check-question-42",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 42",
+    "text": "Self-Check: Question 42\n🧡 QUESTION\n\nQuestion 42\nThe most appropriate public health use of a Medical Certificate of Cause of Death (MCCD) is:\n\nPlanning treatment for individual patients\nGeneration of cause-specific mortality statistics\nEarly detection of disease outbreaks\nClinical diagnosis at the bedside",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-43",
+    "href": "foundations/principles-epidemiology.html#self-check-question-43",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 43",
+    "text": "Self-Check: Question 43\n🧡 QUESTION\n\nQuestion 43\nIn verbal autopsy, the primary source of information is:\n\nPostmortem examination findings\nInterview with relatives about symptoms before death\nLaboratory investigation of body fluids\nReview of hospital case records",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-44",
+    "href": "foundations/principles-epidemiology.html#self-check-question-44",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 44",
+    "text": "Self-Check: Question 44\n🧡 QUESTION\n\nQuestion 44\nAssertion (A): A properly completed MCCD improves the quality of mortality data.\nReason (R): Incorrect sequencing and nonspecific terms in certificates reduce the usefulness of cause-specific statistics.\n\nBoth A and R are true, and R is the correct explanation of A\nBoth A and R are true, but R is NOT the correct explanation of A\nA is true, R is false\nA is false, R is true",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-45",
+    "href": "foundations/principles-epidemiology.html#self-check-question-45",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 45",
+    "text": "Self-Check: Question 45\n🧡 QUESTION\n\nQuestion 45\nA national tuberculosis survey used trained investigators to collect data from randomly selected households to measure the magnitude of TB and identify high-risk groups. This is an example of:\n\nPrimary data collection\nSecondary data analysis\nAggregate data analysis\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-46",
+    "href": "foundations/principles-epidemiology.html#self-check-question-46",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 46",
+    "text": "Self-Check: Question 46\n🧡 QUESTION\n\nQuestion 46\nWhat advantage do death certificates have, in our country, as a source of epidemiological information?\n\nThere is a uniform national law for enforcing the filling of death certificates\nThe cause of death is usually confirmed by autopsy\nThe ICD system for cause of death has remained constant over the past 50 years\nThe personal physician of the deceased has to complete the certificate from his/her own knowledge of past illnesses",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-47",
+    "href": "foundations/principles-epidemiology.html#self-check-question-47",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 47",
+    "text": "Self-Check: Question 47\n🧡 QUESTION\n\nQuestion 47\nThe reference (referral) date for the Indian Census 2001 was:\n\nApril 1, 2001\nFebruary 1, 2001\nMarch 1, 2001\nApril 1, 2000",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-48",
+    "href": "foundations/principles-epidemiology.html#self-check-question-48",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 48",
+    "text": "Self-Check: Question 48\n🧡 QUESTION\n\nQuestion 48\nThe “census point” is taken as the midnight between:\n\nDecember 31 and January 1\nJanuary 31 and February 1\nFebruary 28 and March 1\nMarch 31 and April 1",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-49",
+    "href": "foundations/principles-epidemiology.html#self-check-question-49",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 49",
+    "text": "Self-Check: Question 49\n🧡 QUESTION\n\nQuestion 49\nThe sex ratio in India is described as:\n\nFemales per 1000 males\nMales per 1000 females\nFraction of females divided by males\nFraction of males divided by females",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-50",
+    "href": "foundations/principles-epidemiology.html#self-check-question-50",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 50",
+    "text": "Self-Check: Question 50\n🧡 QUESTION\n\nQuestion 50\nIn India, the census is undertaken by which method?\n\nDe facto\nDe jure\nBoth of these\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-51",
+    "href": "foundations/principles-epidemiology.html#self-check-question-51",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 51",
+    "text": "Self-Check: Question 51\n🧡 QUESTION\n\nQuestion 51\nThe authority for overall administration and conduct of the census in India is the:\n\nRegistrar of Births and Deaths\nCensus Commissioner of India\nSecretary, Ministry of Home Affairs\nUnion Health Minister",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-52",
+    "href": "foundations/principles-epidemiology.html#self-check-question-52",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 52",
+    "text": "Self-Check: Question 52\n🧡 QUESTION\n\nQuestion 52\nWhich of the following enumeration methods has legal backing through an Act passed by Parliament?\n\nCensus\nSample Registration System\nModel Registration Scheme\nFamily Health Survey",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-53",
+    "href": "foundations/principles-epidemiology.html#self-check-question-53",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 53",
+    "text": "Self-Check: Question 53\n🧡 QUESTION\n\nQuestion 53\nWhich of the following is NOT a part of vital statistics?\n\nRegistration of births\nRegistration of patients in hospitals\nRegistration of deaths\nRegistration of marriages",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-54",
+    "href": "foundations/principles-epidemiology.html#self-check-question-54",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 54",
+    "text": "Self-Check: Question 54\n🧡 QUESTION\n\nQuestion 54\nThe annual publication “National Health Profile – India” is published by:\n\nIndian Council of Medical Research\nCentral Health Education Bureau\nCentral Bureau of Health Intelligence\nNational Centre for Disease Control",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-55",
+    "href": "foundations/principles-epidemiology.html#self-check-question-55",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 55",
+    "text": "Self-Check: Question 55\n🧡 QUESTION\n\nQuestion 55\nWhich of the following is the latest in the series of National Family Health Surveys (NFHS)?\n\nNFHS-3\nNFHS-4\nNFHS-5\nNFHS-6",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-56",
+    "href": "foundations/principles-epidemiology.html#self-check-question-56",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 56",
+    "text": "Self-Check: Question 56\n🧡 QUESTION\n\nQuestion 56\nThe authority for overall administration and conduct of the Sample Registration System (SRS) in India is the:\n\nRegistrar General of India\nCensus Commissioner of India\nSecretary, Ministry of Home Affairs\nUnion Health Minister",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-57",
+    "href": "foundations/principles-epidemiology.html#self-check-question-57",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 57",
+    "text": "Self-Check: Question 57\n🧡 QUESTION\n\nQuestion 57\nOnce data have been summarized to obtain information, and then evaluated by experts from socioeconomic, demographic and health angles, they are known as:\n\nData\nInformation\nIntelligence\nPolicy",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-58",
+    "href": "foundations/principles-epidemiology.html#self-check-question-58",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 58",
+    "text": "Self-Check: Question 58\n🧡 QUESTION\n\nQuestion 58\nWhich of the following enumeration methods has separate units for enumeration in rural and urban areas?\n\nCensus\nSRS\nMRS\nNFHS",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-59",
+    "href": "foundations/principles-epidemiology.html#self-check-question-59",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 59",
+    "text": "Self-Check: Question 59\n🧡 QUESTION\n\nQuestion 59\nThe “double recording” (dual record) system of enumeration is used in which of the following?\n\nCensus\nFacilities Survey\nRHS\nSRS",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-60",
+    "href": "foundations/principles-epidemiology.html#self-check-question-60",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 60",
+    "text": "Self-Check: Question 60\n🧡 QUESTION\n\nQuestion 60\nThe “Rapid Household Survey” and “Facilities Survey” are conducted under the overall responsibility of the:\n\nRegistrar of Births and Deaths\nCensus Commissioner\nReproductive and Child Health programme\nMinistry of Social Welfare",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-61",
+    "href": "foundations/principles-epidemiology.html#self-check-question-61",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 61",
+    "text": "Self-Check: Question 61\n🧡 QUESTION\n\nQuestion 61\nIn 2016, results for 13 states and 2 union territories were released in respect of which survey?\n\nCensus\nFacilities Survey\nNFHS-4\nNFHS-5",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-62",
+    "href": "foundations/principles-epidemiology.html#self-check-question-62",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 62",
+    "text": "Self-Check: Question 62\n🧡 QUESTION\n\nQuestion 62\nWhich of the following is a good method of obtaining data on morbidity due to a number of common and important diseases in our country?\n\nCensus\nSRS\nDeath certificates\nIDSP",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-63",
+    "href": "foundations/principles-epidemiology.html#self-check-question-63",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 63",
+    "text": "Self-Check: Question 63\n🧡 QUESTION\n\nQuestion 63\nWhich source of information is best for developing a sentinel surveillance system for important diseases?\n\nCensus\nHospital-based data\nNFHS\nRegistration of births",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#epidemics-and-the-epidemic-curve",
+    "href": "foundations/principles-epidemiology.html#epidemics-and-the-epidemic-curve",
+    "title": "Principles of Epidemiology",
+    "section": "Epidemics and the Epidemic Curve",
+    "text": "Epidemics and the Epidemic Curve\n🟢 MUST KNOW\n\n\n\nEpidemic curve types\n\n\n\nEpidemic: cases clearly in excess of normal expectancy\nEndemic: constant presence of a disease at its usual level in an area\nSporadic: scattered, irregular cases with no apparent link (e.g. tetanus)\nExotic: a disease imported into a country where it does not otherwise occur (e.g. yellow fever if introduced into India)",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#place-distribution",
+    "href": "foundations/principles-epidemiology.html#place-distribution",
+    "title": "Principles of Epidemiology",
+    "section": "Place Distribution",
+    "text": "Place Distribution\n🟡 SHOULD KNOW\n\nInternational variation: e.g. oral cancer common in India and stomach cancer in Japan. Climate, diet, culture and health systems all differ.\nNational variation: e.g. kala-azar in Bihar and Jharkhand, endemic goitre in the iodine-deficient sub-Himalayan belt, and malaria in the forest and tribal belt.\nRural–urban differences: in population density, sanitation, lifestyle and access to care.\nLocal distributions: spot maps, as in Snow’s cholera map.\nMigration studies: compare migrants with their home and host populations. Japanese migrants to the USA: stomach cancer fell and colon cancer rose toward host levels within a generation, so environmental factors outweigh genes.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#person-distribution",
+    "href": "foundations/principles-epidemiology.html#person-distribution",
+    "title": "Principles of Epidemiology",
+    "section": "Person Distribution",
+    "text": "Person Distribution\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\nVariable\nExample of what it reveals\n\n\n\n\nAge\nBimodal age curve in Hodgkin lymphoma; childhood infections; NCDs rise with age\n\n\nSex\nMore IHD in men, more gallstones and thyroid disease in women\n\n\nEthnicity/race\nSickle-cell disease, thalassaemia\n\n\nOccupation\nSilicosis, byssinosis, needle-stick infections\n\n\nSocioeconomic status\nSocial gradient in TB, malnutrition, infant mortality\n\n\nMarital status, behaviour\nCervical cancer and sexual behaviour; smoking, alcohol, diet\n\n\nStress, migration\nHypertension, mental illness",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#variables-scales-and-populations",
+    "href": "foundations/principles-epidemiology.html#variables-scales-and-populations",
+    "title": "Principles of Epidemiology",
+    "section": "Variables, Scales, and Populations",
+    "text": "Variables, Scales, and Populations\n🟡 SHOULD KNOW\nA variable is a characteristic that differs between subjects (age, sex, BP). Its values form a data set.\n\n\n\n\n\n\n\n\nScale\nType\nExample\n\n\n\n\nNominal: dichotomous / polychotomous\nQualitative\nSurvived/died; lung, heart or other disease\n\n\nOrdinal\nQualitative (ordered)\nNo, mild, moderate or severe blockage\n\n\nNumerical discrete\nQuantitative\nGravida, number of children\n\n\nNumerical continuous\nQuantitative\nCoronary diameter, Hb\n\n\n\n\nReference population (= target, source or universe): the population the results are meant to apply to\nStudy (actual) population: the subset from which the sample is actually drawn. The sample must be adequately large and representative.\nExternal validity: the ability to generalize from the study population to the reference population",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#cross-sectional-and-ecological-studies",
+    "href": "foundations/principles-epidemiology.html#cross-sectional-and-ecological-studies",
+    "title": "Principles of Epidemiology",
+    "section": "Cross-Sectional and Ecological Studies",
+    "text": "Cross-Sectional and Ecological Studies\n🟡 SHOULD KNOW\nCross-sectional study: measures exposure and outcome at the same time in a defined population.\n\nGives prevalence; quick and cheap; useful for planning and for chronic disease\nLimitation: it cannot show which came first (no temporality), and it over-represents long-duration cases\n\nEcological (correlational) study: the unit of analysis is a group or population, not individuals. An example is national smoking rates against national lung-cancer rates.\n\nFast, uses routine data, and generates hypotheses\nEcological fallacy: a group-level association need not hold for individuals (Lecture 9)",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-5",
+    "href": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-5",
+    "title": "Principles of Epidemiology",
+    "section": "Practice Questions: Descriptive (Lecture 5)",
+    "text": "Practice Questions: Descriptive (Lecture 5)\nFor written practice — work through these on paper; no auto-check for this slide.\nLong Essay\n\nClassify epidemiological studies. Describe the distribution of disease by time, place, and person with respect to descriptive epidemiological studies.\n\nShort Essay / Short Answer\n\nWhat are secular trends? How are they useful to doctors?\nWhat are cross-sectional studies? Mention the advantages and limitations of this study design.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-5-contd.",
+    "href": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-5-contd.",
+    "title": "Principles of Epidemiology",
+    "section": "Practice Questions: Descriptive (Lecture 5, contd.)",
+    "text": "Practice Questions: Descriptive (Lecture 5, contd.)\nShort Notes\n\nEcological studies.\nTypes of epidemics and the epidemic curve.\nPropagated epidemic.\nMigration studies.\nEpidemic.\nSporadic diseases.\nExotic diseases, with examples.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-64",
+    "href": "foundations/principles-epidemiology.html#self-check-question-64",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 64",
+    "text": "Self-Check: Question 64\n🧡 QUESTION\n\nQuestion 64\nWhich of the following is a “person” variable in descriptive epidemiology?\n\nUrban vs rural residence\nSeasonal variation\nOccupation\nSecular trend",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-65",
+    "href": "foundations/principles-epidemiology.html#self-check-question-65",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 65",
+    "text": "Self-Check: Question 65\n🧡 QUESTION\n\nQuestion 65\n“The incidence of malaria is very high among migrant labourers in Odisha, Jharkhand and Chhattisgarh.” This statement includes which component(s) of epidemiology?\n\nFrequency\nPlace distribution\nPerson distribution\nAll of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-66",
+    "href": "foundations/principles-epidemiology.html#self-check-question-66",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 66",
+    "text": "Self-Check: Question 66\n🧡 QUESTION\n\nQuestion 66\nIn the statement “55% of pregnant women in India are likely to have anaemia,” which component of epidemiology is NOT included?\n\nFrequency\nPerson-related distribution\nPlace-related distribution\nTime-related distribution",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-67",
+    "href": "foundations/principles-epidemiology.html#self-check-question-67",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 67",
+    "text": "Self-Check: Question 67\n🧡 QUESTION\n\nQuestion 67\nIn the statement “Tobacco smoking increases the risk of IHD by three times,” the epidemiological aspect covered pertains to:\n\nPerson-related distribution\nPlace-related distribution\nTime-related distribution\nDeterminants",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-68",
+    "href": "foundations/principles-epidemiology.html#self-check-question-68",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 68",
+    "text": "Self-Check: Question 68\n🧡 QUESTION\n\nQuestion 68\nDuring an outbreak investigation, the number of new cases rises rapidly over a short period and then falls sharply after removal of a common source. This epidemic curve is most consistent with a:\n\nPropagated epidemic\nContinuous common-source epidemic\nIntermittent common-source epidemic\nSeasonal epidemic",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-69",
+    "href": "foundations/principles-epidemiology.html#self-check-question-69",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 69",
+    "text": "Self-Check: Question 69\n🧡 QUESTION\n\nQuestion 69\nDescriptive studies perform which of the following functions?\n\nGenerate hypotheses\nCompare people with disease with those without disease\nCompare people with exposure with those without exposure\nTest hypotheses",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-70",
+    "href": "foundations/principles-epidemiology.html#self-check-question-70",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 70",
+    "text": "Self-Check: Question 70\n🧡 QUESTION\n\nQuestion 70\nA 2 × 2 table showing the four cells E+O+, E+O−, E−O+ and E−O− is seen in a:\n\nDescriptive study\nAnalytical study\nBoth of these\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-71",
+    "href": "foundations/principles-epidemiology.html#self-check-question-71",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 71",
+    "text": "Self-Check: Question 71\n🧡 QUESTION\n\nQuestion 71\nThe 2 × 2 table of exposure (present/absent) against outcome (present/absent) will NOT be formed in a:\n\nDescriptive study\nCase-control study\nCohort study\nExperimental study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-72",
+    "href": "foundations/principles-epidemiology.html#self-check-question-72",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 72",
+    "text": "Self-Check: Question 72\n🧡 QUESTION\n\nQuestion 72\nIn a standard 2 × 2 table, cell “a” represents all those who are:\n\nHaving the exposure but not the outcome\nHaving the outcome but not the exposure\nHaving both the exposure and the outcome\nHaving neither the exposure nor the outcome",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-73",
+    "href": "foundations/principles-epidemiology.html#self-check-question-73",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 73",
+    "text": "Self-Check: Question 73\n🧡 QUESTION\n\nQuestion 73\nAnother name for an experimental study is:\n\nInterventional study\nCase-control study\nCohort study\nCross-sectional study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-74",
+    "href": "foundations/principles-epidemiology.html#self-check-question-74",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 74",
+    "text": "Self-Check: Question 74\n🧡 QUESTION\n\nQuestion 74\nThe main difference between an experimental and a cohort design is that:\n\nOne is analytical while the other is not\nSubjects are followed up in one but not in the other\nOne is observational while the other is not\nOne is descriptive while the other is not",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-75",
+    "href": "foundations/principles-epidemiology.html#self-check-question-75",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 75",
+    "text": "Self-Check: Question 75\n🧡 QUESTION\n\nQuestion 75\nA study on children with acute glomerulonephritis found that 20% gave a history of acute sore throat 3–4 weeks before onset of renal symptoms. This is an example of a:\n\nDescriptive study\nCase-control study\nCohort study\nClinical trial",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-76",
+    "href": "foundations/principles-epidemiology.html#self-check-question-76",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 76",
+    "text": "Self-Check: Question 76\n🧡 QUESTION\n\nQuestion 76\nFor establishing a cause-and-effect relationship, we need to undertake a:\n\nCase-control study\nCohort study\nExperimental study\nAny one of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-77",
+    "href": "foundations/principles-epidemiology.html#self-check-question-77",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 77",
+    "text": "Self-Check: Question 77\n🧡 QUESTION\n\nQuestion 77\nCase-control and cohort studies belong to which type of epidemiological design?\n\nExperimental analytical\nObservational analytical\nObservational descriptive\nExperimental descriptive",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-78",
+    "href": "foundations/principles-epidemiology.html#self-check-question-78",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 78",
+    "text": "Self-Check: Question 78\n🧡 QUESTION\n\nQuestion 78\nIn which study are the exposure and outcome variables studied at the same point of time?\n\nCase-control study\nCross-sectional analytical study\nCohort study\nExperimental study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-79",
+    "href": "foundations/principles-epidemiology.html#self-check-question-79",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 79",
+    "text": "Self-Check: Question 79\n🧡 QUESTION\n\nQuestion 79\nIn a retrospective study, we find the history of:\n\nExposure among those having or not having the outcome\nOutcome among those having or not having the exposure\nBoth exposure and outcome at the same time\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-80",
+    "href": "foundations/principles-epidemiology.html#self-check-question-80",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 80",
+    "text": "Self-Check: Question 80\n🧡 QUESTION\n\nQuestion 80\nWhen the investigator creates two groups by randomization and introduces the exposure in one group while withholding it from the other, it is known as a:\n\nDescriptive study\nCase-control study\nCohort study\nExperimental study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-81",
+    "href": "foundations/principles-epidemiology.html#self-check-question-81",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 81",
+    "text": "Self-Check: Question 81\n🧡 QUESTION\n\nQuestion 81\nTo study the incidence of malaria according to various age and sex groups in a village, we need to undertake a:\n\nDescriptive study\nCase-control study\nCohort study\nExperimental study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-82",
+    "href": "foundations/principles-epidemiology.html#self-check-question-82",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 82",
+    "text": "Self-Check: Question 82\n🧡 QUESTION\n\nQuestion 82\n“Comparison between two groups” is the hallmark of a(n):\n\nDescriptive study\nAnalytical study\nBoth of these\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-83",
+    "href": "foundations/principles-epidemiology.html#self-check-question-83",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 83",
+    "text": "Self-Check: Question 83\n🧡 QUESTION (select ALL that apply)\n\nQuestion 83\nTypical epidemiological study designs include:\n\nCohort study\nClinical case report as an analytical design\nCross-sectional study\nCase-control study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-84",
+    "href": "foundations/principles-epidemiology.html#self-check-question-84",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 84",
+    "text": "Self-Check: Question 84\n🧡 QUESTION\n\nQuestion 84\nA country-level comparison of average salt intake against average blood pressure across nations, without individual-level data, is an example of:\n\nA cohort study\nA case-control study\nAn ecological study\nA randomized controlled trial",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-85",
+    "href": "foundations/principles-epidemiology.html#self-check-question-85",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 85",
+    "text": "Self-Check: Question 85\n🧡 QUESTION\n\nQuestion 85\nA study that actively assigns an intervention to participants, rather than only observing existing exposure, is classified as:\n\nDescriptive\nAnalytical (observational)\nExperimental\nEcological",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-86",
+    "href": "foundations/principles-epidemiology.html#self-check-question-86",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 86",
+    "text": "Self-Check: Question 86\n🧡 QUESTION\n\nQuestion 86\nA quality, characteristic or constituent of a subject that can be measured and is likely to differ from one person to another is called a:\n\nCase definition\nVariable\nBoth of these\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-87",
+    "href": "foundations/principles-epidemiology.html#self-check-question-87",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 87",
+    "text": "Self-Check: Question 87\n🧡 QUESTION\n\nQuestion 87\nWhich of the following is a “variable” from the epidemiological and statistical points of view?\n\nAge\nSex\nBlood pressure\nAll of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-88",
+    "href": "foundations/principles-epidemiology.html#self-check-question-88",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 88",
+    "text": "Self-Check: Question 88\n🧡 QUESTION\n\nQuestion 88\nA “numerical discrete scale” belongs to which class of measurement scales?\n\nQualitative\nQuantitative\nBoth of these\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-89",
+    "href": "foundations/principles-epidemiology.html#self-check-question-89",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 89",
+    "text": "Self-Check: Question 89\n🧡 QUESTION\n\nQuestion 89\nMatch each method of recording data with its scale of measurement. A satisfaction scored −2 to +2; B gravida status; C survived/died at 5 years; D angiogram: no/mild/moderate/severe blockage; E actual coronary diameter; F diagnosis: lung / heart / other disease. Scales: (i) dichotomous–nominal (ii) numerical–continuous (iii) polychotomous–ordinal (iv) numerical–ordinal (v) discrete–numerical (vi) nominal–polychotomous.\n\nA-iv, B-v, C-i, D-iii, E-ii, F-vi\nA-iii, B-v, C-i, D-iv, E-ii, F-vi\nA-iv, B-ii, C-vi, D-iii, E-v, F-i\nA-v, B-iv, C-i, D-iii, E-ii, F-vi",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-90",
+    "href": "foundations/principles-epidemiology.html#self-check-question-90",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 90",
+    "text": "Self-Check: Question 90\n🧡 QUESTION\n\nQuestion 90\nA study set out to find what percentage of visitors of commercial sex workers in Mumbai use condoms, but interviewed only truck drivers eating at one roadside restaurant outside Mumbai. Condom use was 25%. This conclusion is likely to suffer from:\n\nLack of ethics\nLack of external validity\nNone of the previous two\nThe study was not required at all",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-91",
+    "href": "foundations/principles-epidemiology.html#self-check-question-91",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 91",
+    "text": "Self-Check: Question 91\n🧡 QUESTION\n\nQuestion 91\nWhich of the following correctly lists the synonyms of “reference population”?\n\nTarget population, source population, or universe\nTarget population, study population, or universe\nTarget population, source population, or external population\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-92",
+    "href": "foundations/principles-epidemiology.html#self-check-question-92",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 92",
+    "text": "Self-Check: Question 92\n🧡 QUESTION\n\nQuestion 92\nThe requirements of a sample are that it should be:\n\nAdequately large\nRepresentative\nBoth of these\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-93",
+    "href": "foundations/principles-epidemiology.html#self-check-question-93",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 93",
+    "text": "Self-Check: Question 93\n🧡 QUESTION\n\nQuestion 93\nAn organized collection of the values of the various variables to be used for further analysis in an epidemiological study is known as a:\n\nData set\nSample\nStatistic\nPopulation",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-94",
+    "href": "foundations/principles-epidemiology.html#self-check-question-94",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 94",
+    "text": "Self-Check: Question 94\n🧡 QUESTION\n\nQuestion 94\nIn which of the following is the sample studied the same as the total population?\n\nNational Family Health Survey\nSample Registration System\nCensus\nModel Registration Scheme",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-95",
+    "href": "foundations/principles-epidemiology.html#self-check-question-95",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 95",
+    "text": "Self-Check: Question 95\n🧡 QUESTION\n\nQuestion 95\nIf the case definition for dengue is “any person with fever for 1 day,” this definition is:\n\nVery sensitive but not specific\nVery specific but not sensitive\nBoth very sensitive and very specific\nNeither sensitive nor specific",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#self-check-question-96",
+    "href": "foundations/principles-epidemiology.html#self-check-question-96",
+    "title": "Principles of Epidemiology",
+    "section": "Self-Check: Question 96",
+    "text": "Self-Check: Question 96\n🧡 QUESTION\n\nQuestion 96\nFever rising in a step-ladder pattern, with initial constipation followed by pea-soup stools and TLC below 6000/mm³, falls into which category of case definition for enteric fever?\n\nSuspected case\nProbable case\nConfirmed case\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-2-contd.",
+    "href": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-2-contd.",
+    "title": "Principles of Epidemiology",
+    "section": "Practice Questions: Descriptive (Lecture 2, contd.)",
+    "text": "Practice Questions: Descriptive (Lecture 2, contd.)\nShort Notes\n\nTools of measurement in epidemiology.\nTools for measurement of disease magnitude.\nMortality rates and ratios.\nCrude death rate.\nCase fatality rate.\nSurvival rate.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-4-contd.",
+    "href": "foundations/principles-epidemiology.html#practice-questions-descriptive-lecture-4-contd.",
+    "title": "Principles of Epidemiology",
+    "section": "Practice Questions: Descriptive (Lecture 4, contd.)",
+    "text": "Practice Questions: Descriptive (Lecture 4, contd.)\nExercise\n\nA 54-year-old male with a past history of type 2 diabetes mellitus developed acute STEMI on 22 May 2016 and was admitted to the ICU. On 24 May he developed atrial fibrillation, followed by embolism of the right MCA. He was placed on ventilator and vasopressor support but died on 27 May 2016 at 4 p.m. Prepare his death certificate (MCCD).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Principles of Epidemiology (CM7)"
+    ]
   }
 ]

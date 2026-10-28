@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="380" viewBox="0 0 880 380" role="img" aria-labelledby="title desc">
+  <title id="title">Classification of epidemiological study designs</title>
+  <desc id="desc">Epidemiological studies divide into observational and experimental. Observational studies are descriptive (case reports, case series, descriptive cross-sectional, time-place-person) or analytical (ecological, analytical cross-sectional, case-control, cohort). Experimental studies include randomized controlled trials, field trials, community trials and non-randomized trials.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="380" y="10" width="220" height="44" rx="8" fill="#E6EEF5" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="490.0" y="37.6" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">Epidemiological studies</text>
+  <rect x="150" y="90" width="240" height="44" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="270.0" y="117.2" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">Observational</text>
+  <rect x="600" y="90" width="260" height="44" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="730.0" y="117.2" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">Experimental (interventional)</text>
+  <path d="M490,54 L490,72 L270,72 L270,88" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <path d="M490,54 L490,72 L730,72 L730,88" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="20" y="170" width="220" height="44" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="130.0" y="197.2" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">Descriptive</text>
+  <rect x="290" y="170" width="220" height="44" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="400.0" y="197.2" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">Analytical</text>
+  <path d="M270,134 L270,152 L130,152 L130,168" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <path d="M270,134 L270,152 L400,152 L400,168" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="20" y="236" width="220" height="104" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="130.0" y="268.2" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Case report · case series</text>
+  <text x="130.0" y="284.4" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Cross-sectional (descriptive)</text>
+  <text x="130.0" y="300.7" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Time–place–person studies</text>
+  <text x="130.0" y="316.9" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">→ generate hypotheses</text>
+  <rect x="290" y="236" width="220" height="104" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="400.0" y="268.2" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Ecological (correlational)</text>
+  <text x="400.0" y="284.4" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Cross-sectional (analytical)</text>
+  <text x="400.0" y="300.7" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Case-control</text>
+  <text x="400.0" y="316.9" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Cohort  → test hypotheses</text>
+  <rect x="600" y="170" width="260" height="170" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="730.0" y="210.8" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Randomized controlled trials</text>
+  <text x="730.0" y="227.1" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">(clinical, preventive,</text>
+  <text x="730.0" y="243.3" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">therapeutic)</text>
+  <text x="730.0" y="259.6" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Field trials</text>
+  <text x="730.0" y="275.8" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Community trials</text>
+  <text x="730.0" y="292.1" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Non-randomized trials</text>
+  <text x="730.0" y="308.3" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">(before–after, natural experiments)</text>
+  <line x1="730" y1="134" x2="730" y2="168" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="130" y1="214" x2="130" y2="234" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="400" y1="214" x2="400" y2="234" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="490" y="368" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#333">Observational: investigator only observes exposure · Experimental: investigator assigns it</text>
+</svg>

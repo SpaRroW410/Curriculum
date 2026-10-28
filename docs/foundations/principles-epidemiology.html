@@ -131,7 +131,7 @@
 
 <section id="title-slide" class="quarto-title-block center">
   <h1 class="title">Principles of Epidemiology</h1>
-  <p class="subtitle">Distribution, Determinants, and the Basic Measures of Disease</p>
+  <p class="subtitle">Definition, Measures of Frequency and Mortality, Data Sources, and Descriptive Epidemiology</p>
 
 <div class="quarto-title-authors">
 </div>
@@ -140,21 +140,18 @@
 <section id="home" class="slide level2 center">
 <h2>Welcome</h2>
 <h3 id="principles-of-epidemiology">Principles of Epidemiology</h3>
-<p><strong>Learning Objectives:</strong></p>
+<p><strong>Learning Objectives (CM7 Lectures 1–5):</strong></p>
 <ul>
-<li>State the standard definition of epidemiology and its core aims</li>
-<li>Distinguish ratio, proportion, and rate</li>
-<li>Define incidence and prevalence, and the relationship between them</li>
-<li>Calculate an attack rate for an outbreak</li>
-<li>Describe descriptive epidemiology by person, place, and time</li>
-<li>Explain why epidemiology needs a fixed operational case definition</li>
-<li>Outline the broad types of epidemiological study</li>
-<li>Recognize John Snow’s 1854 investigation as a founding case study</li>
+<li>Define epidemiology; state its aims, components, approach and uses</li>
+<li>Distinguish ratio, proportion and rate; calculate and interpret the main mortality measures</li>
+<li>Measure morbidity: incidence (cumulative, density), prevalence, and P = I × D</li>
+<li>Standardize rates (direct, indirect/SMR); list India’s sources of epidemiological data, including MCCD</li>
+<li>Describe disease by time, place and person; classify epidemiological study designs</li>
 </ul>
-<p><strong>NMC Community Medicine Code:</strong> CM7</p>
+<p><strong>NMC Community Medicine Code:</strong> CM7.1, CM7.3, CM7.4, CM7.5</p>
 <p>🟢 <strong>MUST KNOW</strong> · 🟡 <strong>SHOULD KNOW</strong> · 🟣 <strong>MAY KNOW</strong> · 🧡 <strong>QUESTION</strong></p>
 <aside class="notes">
-<p>This chapter gives the vocabulary and basic measures that Chapter 4 (Epidemiologic Methods) will use to compare exposed and unexposed groups, and that Chapter 5 (Screening) will use to evaluate tests.</p>
+<p>Each lecture ends with descriptive practice questions and a block of interactive Self-Check MCQs drawn from the faculty question bank. The written version with answer keys is in the Epidemiology Question Bank.</p>
 <style type="text/css">
         span.MJX_Assistive_MathML {
           position:absolute!important;
@@ -175,27 +172,377 @@
 <section id="what-is-epidemiology" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>What Is Epidemiology?</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
+<p><em>Epi</em> (upon) + <em>demos</em> (people) + <em>logos</em> (study): the study of what befalls a population.</p>
 <p><strong>John Last’s definition (1988), the standard reference definition:</strong></p>
 <blockquote>
 <p>“The study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems.”</p>
 </blockquote>
-<p>Three ideas packed into this definition:</p>
 <ul>
-<li><strong>Distribution</strong> — who gets disease, where, and when (descriptive)</li>
-<li><strong>Determinants</strong> — why they get it (analytical)</li>
-<li><strong>Application</strong> — using that knowledge to control and prevent disease</li>
+<li><strong>Distribution</strong>: frequency and pattern by time, place and person (descriptive)</li>
+<li><strong>Determinants</strong>: the causes and risk factors behind that pattern (analytical)</li>
+<li><strong>Application</strong>: using that knowledge to prevent and control disease</li>
 </ul>
 </section>
 <section id="aims-of-epidemiology" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Aims of Epidemiology</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
+<p>The International Epidemiological Association lists three aims:</p>
+<ol type="1">
+<li><strong>Describe</strong> the distribution and magnitude of health and disease problems in human populations</li>
+<li><strong>Identify</strong> etiological factors (causes and risk factors) in the pathogenesis of disease</li>
+<li><strong>Provide data</strong> essential to the planning, implementation and evaluation of services for the prevention, control and treatment of disease, and to setting priorities among them</li>
+</ol>
+<p><strong>Ultimate aim:</strong> to eliminate or reduce the health problem, and to promote the health and well-being of society as a whole.</p>
+<p><strong>Basic components:</strong> disease <strong>frequency</strong> · <strong>distribution</strong> · <strong>determinants</strong></p>
+</section>
+<section id="the-epidemiological-approach" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>The Epidemiological Approach</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>Two core activities: <strong>asking questions</strong> (<em>what is the event? how much? where? when? who? why?</em>) and <strong>making comparisons</strong> (between groups, places and times).</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/epidemiological_approach.svg" class="slide-img" width="860"></p>
+<figcaption>The epidemiological approach</figcaption>
+</figure>
+</div>
+</section>
+<section id="epidemiology-vs-clinical-medicine" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Epidemiology vs Clinical Medicine</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Clinical medicine</th>
+<th>Epidemiology</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Unit of study</strong></td>
+<td>The individual patient</td>
+<td>Defined population (community)</td>
+</tr>
+<tr class="even">
+<td><strong>Starting point</strong></td>
+<td>A sick person seeks care</td>
+<td>Sick <em>and</em> healthy people, including those who never reach a clinic</td>
+</tr>
+<tr class="odd">
+<td><strong>Core question</strong></td>
+<td><em>Which</em> disease does this patient have?</td>
+<td><em>Does</em> this subject have the disease of interest? How many, where, when, why?</td>
+</tr>
+<tr class="even">
+<td><strong>Method</strong></td>
+<td>History, examination, investigations</td>
+<td>Counting, rates, comparison of groups</td>
+</tr>
+<tr class="odd">
+<td><strong>Outcome</strong></td>
+<td>Diagnosis and treatment of the patient</td>
+<td>Community diagnosis, prevention and control</td>
+</tr>
+</tbody>
+</table>
+<p>Both rely on clinical skills: an epidemiologist still needs them to apply a case definition.</p>
+</section>
+<section id="uses-of-epidemiology" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Uses of Epidemiology</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/uses_of_epidemiology.svg" class="slide-img" width="800"></p>
+<figcaption>Uses of epidemiology, grouped into four domains (after Fig 9.1 of the faculty text)</figcaption>
+</figure>
+</div>
+<p><strong>Morris’s seven uses (Park):</strong> historical study · community diagnosis · planning and evaluation · individual risks and chances · completing the clinical picture · identification of syndromes · searching for causes.</p>
+</section>
+<section id="milestones-in-the-history-of-epidemiology" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Milestones in the History of Epidemiology</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Year</th>
+<th>Person</th>
+<th>Contribution</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>c.&nbsp;400 BC</td>
+<td><strong>Hippocrates</strong></td>
+<td><em>Airs, Waters and Places</em>: related disease to the environment</td>
+</tr>
+<tr class="even">
+<td>1662</td>
+<td><strong>John Graunt</strong></td>
+<td><em>Bills of Mortality</em>: first quantification of birth and death data</td>
+</tr>
+<tr class="odd">
+<td>1747</td>
+<td><strong>James Lind</strong></td>
+<td>Citrus fruit for scurvy: the first controlled clinical trial</td>
+</tr>
+<tr class="even">
+<td>1796</td>
+<td><strong>Edward Jenner</strong></td>
+<td>Cowpox inoculation against smallpox: vaccination</td>
+</tr>
+<tr class="odd">
+<td>1839</td>
+<td><strong>William Farr</strong></td>
+<td>Systematic vital statistics; classification of causes of death</td>
+</tr>
+<tr class="even">
+<td>1854</td>
+<td><strong>John Snow</strong></td>
+<td>Cholera and the Broad Street pump: the first scientific epidemic investigation</td>
+</tr>
+<tr class="odd">
+<td>1948–51</td>
+<td><strong>Framingham; Doll &amp; Hill</strong></td>
+<td>CVD cohort; smoking and lung cancer (Doll a physician, Hill a statistician)</td>
+</tr>
+<tr class="even">
+<td>1948</td>
+<td><strong>MRC streptomycin trial</strong></td>
+<td>The first randomized controlled trial</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="john-snow-and-the-broad-street-pump" class="slide level2 center" data-background-color="#E8E4F3">
+<h2>John Snow and the Broad Street Pump</h2>
+<p>🟣 <strong>MAY KNOW</strong></p>
+<p>In 1854, a severe cholera outbreak in London’s Soho district killed over 600 people in about ten days. <strong>John Snow</strong> rejected the then-dominant miasma (“bad air”) theory. He mapped cholera deaths by address and traced them to a single water pump on Broad Street. Local authorities removed the pump handle, and the outbreak subsided.</p>
+<p>Snow also compared death rates among households supplied by two water companies (the “Grand Experiment”): the Southwark &amp; Vauxhall company drew sewage-polluted Thames water and the Lambeth company drew cleaner water.</p>
+<p><strong>Why it matters:</strong> this is the founding case study of modern epidemiology. It used descriptive and comparative data to identify a cause and act, <em>before</em> germ theory existed.</p>
+</section>
+<section id="practice-questions-descriptive-lecture-1" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 1)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Long Essay</strong></p>
+<ol type="1">
+<li>Define epidemiology, explain measures of disease frequency, describe the major epidemiological study designs, and discuss association versus causation, including bias and confounding. Add a brief note on MCCD and verbal autopsy. <em>(Integrated question: draws on Lectures 1–9)</em></li>
+</ol>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol start="2" type="1">
+<li>Difference between epidemiology and clinical medicine.</li>
+<li>Write the uses of epidemiology.</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="4" type="1">
+<li>Aims of epidemiology.</li>
+<li>The epidemiological approach.</li>
+</ol>
+</section>
+<section id="self-check-question-1" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 1</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-1" class="quiz-question">
+<h3>Question 1</h3>
+<p>Epidemiology is best defined as the study of:</p>
 <ul>
-<li><strong>Describe</strong> the distribution and magnitude of health problems in populations</li>
-<li><strong>Identify</strong> the etiology (causes and risk factors) of disease</li>
-<li><strong>Predict</strong> trends and the future disease burden</li>
-<li><strong>Evaluate</strong> the effectiveness of interventions, programs, and health services</li>
-<li>Provide the evidence base to guide health <strong>policy and planning</strong></li>
+<li>Diagnosis and treatment of diseases in individual patients</li>
+<li><span class="correct" data-explanation="Last's definition: the study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems. The unit of concern is the population, not the individual patient.">Distribution and determinants of health-related events in populations</span></li>
+<li>Laboratory identification of disease-causing agents</li>
+<li>Pharmacological prevention of diseases</li>
 </ul>
+</section>
+</section>
+<section id="self-check-question-2" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 2</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-2" class="quiz-question">
+<h3>Question 2</h3>
+<p>Which of the following has been considered, at one time or another, a part of the definition of epidemiology?</p>
+<ul>
+<li>Study of frequency, distribution, and determinants of diseases</li>
+<li>Study of epidemics</li>
+<li>Study of mass phenomena of diseases</li>
+<li><span class="correct" data-explanation="The definition has evolved: early definitions spoke of the study of epidemics, later of mass phenomena of disease, and modern ones of frequency, distribution and determinants. All three have been part of the definition at some point.">All of these</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-3" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 3</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-3" class="quiz-question">
+<h3>Question 3</h3>
+<p>Epidemiology differs from clinical practice in all of the following respects, EXCEPT:</p>
+<ul>
+<li>Epidemiology focuses on a large number of subjects and not a single person</li>
+<li>In epidemiology, we quantify the findings</li>
+<li><span class="correct" data-explanation="Epidemiologists still rely on clinical skills: case definitions, examination and diagnosis all need them. The real differences are the unit of study (population vs individual), quantification, and the question being asked.">In epidemiology, we do not use clinical skills</span></li>
+<li>Epidemiology asks whether a subject has the disease of interest, while the clinician asks which disease the patient has</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-4" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 4</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-4" class="quiz-question">
+<h3>Question 4</h3>
+<p>The word “epidemiology” is derived from three Greek words, “epi,” “demos,” and “logos.” Here, “epi” stands for:</p>
+<ul>
+<li><span class="correct" data-explanation="Epi = upon, demos = people (population), logos = study or science. Literally, the study of what falls upon the people.">Upon</span></li>
+<li>Population</li>
+<li>Science</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-5" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 5</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-5" class="quiz-question">
+<h3>Question 5</h3>
+<p>Community diagnosis means:</p>
+<ul>
+<li><span class="correct" data-explanation="Community diagnosis is the epidemiological counterpart of a clinical diagnosis. It quantifies the community's main health problems together with the sociodemographic characteristics linked to them. A bare disease list or a lifestyle summary is incomplete.">Quantifying and summarizing the important health problems and their associated sociodemographic characteristics in a community</span></li>
+<li>Priority-wise listing of the common diseases seen in a community</li>
+<li>Summarizing the standards of living and lifestyle factors in a community</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-6" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 6</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-6" class="quiz-question">
+<h3>Question 6</h3>
+<p>Which of the following does NOT fall within the purview of the uses of epidemiology?</p>
+<ul>
+<li>Deciding whether a community needs one PHC or four subcentres</li>
+<li>Establishing the natural history of HIV infection</li>
+<li><span class="correct" data-explanation="Planning health services (healthcare management), natural history (understanding the disease process) and outbreak investigation (public health practice) are all uses of epidemiology. Teaching a clinical procedural skill is not.">Training medical students in conducting a delivery</span></li>
+<li>Investigating an outbreak of food poisoning</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-7" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 7</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-7" class="quiz-question">
+<h3>Question 7</h3>
+<p>The book “Airs, Waters and Places” was compiled by:</p>
+<ul>
+<li>John Graunt</li>
+<li>William Farr</li>
+<li><span class="correct" data-explanation="Hippocrates (c. 400 BC) related disease to environmental factors such as climate, water and place of residence. This is the earliest attempt at an epidemiological, non-supernatural explanation of disease.">Hippocrates</span></li>
+<li>Alexander Fleming</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-8" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 8</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-8" class="quiz-question">
+<h3>Question 8</h3>
+<p>Edward Jenner’s basis for vaccination was the observation that prior infection with which disease protected against subsequent smallpox?</p>
+<ul>
+<li>Monkeypox</li>
+<li><span class="correct" data-explanation="Jenner (1796) noticed that milkmaids who had caught cowpox did not get smallpox. He inoculated cowpox material, and the word vaccine comes from vacca (cow).">Cowpox</span></li>
+<li>Chickenpox</li>
+<li>Rickettsial pox</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-9" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 9</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-9" class="quiz-question">
+<h3>Question 9</h3>
+<p>The first ever scientifically conducted clinical trial was:</p>
+<ul>
+<li>Trial of streptomycin for tuberculosis</li>
+<li>Trial of polio vaccine</li>
+<li>Goldberger’s observations on pellagra</li>
+<li><span class="correct" data-explanation="James Lind (1747) allotted 12 scorbutic sailors to six dietary treatments. The two given citrus fruit recovered. It is regarded as the first controlled clinical trial. The MRC streptomycin trial (1948) was the first properly randomized one.">James Lind’s study of lemon juice in the prevention of scurvy</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-10" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 10</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-10" class="quiz-question">
+<h3>Question 10</h3>
+<p>The first ever scientific investigation of an epidemic was undertaken by:</p>
+<ul>
+<li><span class="correct" data-explanation="John Snow’s investigation of the London cholera outbreaks (1849–1854) used spot maps and a natural experiment comparing water companies. This was the first systematic epidemic investigation.">John Snow</span></li>
+<li>John Graunt</li>
+<li>William Farr</li>
+<li>Edward Jenner</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-11" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 11</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-11" class="quiz-question">
+<h3>Question 11</h3>
+<p>Which statement is correct regarding Sir Richard Doll and Sir A. Bradford Hill?</p>
+<ul>
+<li>Doll was a statistician and Hill was a physician</li>
+<li><span class="correct" data-explanation="Richard Doll was a physician-epidemiologist. Austin Bradford Hill was a medical statistician, also known for the Bradford Hill criteria of causation.">Doll was a physician and Hill was a statistician</span></li>
+<li>Both were physicians</li>
+<li>Both were statisticians</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-12" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 12</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-12" class="quiz-question">
+<h3>Question 12</h3>
+<p>Doll and Hill are famous for their studies regarding:</p>
+<ul>
+<li>Framingham Heart Study</li>
+<li>Treatment of tuberculosis</li>
+<li><span class="correct" data-explanation="Their 1950 case-control study and the British Doctors cohort study (from 1951) established smoking as a cause of lung cancer.">Smoking and lung cancer</span></li>
+<li>Prevention of HIV</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-13" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 13</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-13" class="quiz-question">
+<h3>Question 13</h3>
+<p>The discovery of penicillin by Sir Alexander Fleming was based on:</p>
+<ul>
+<li>Epidemiological studies</li>
+<li><span class="correct" data-explanation="Fleming (1928) noticed that Penicillium mould inhibited staphylococcal growth on a culture plate. This was a laboratory observation, not a population study.">Laboratory studies</span></li>
+<li>Clinical studies</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-14" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 14</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-14" class="quiz-question">
+<h3>Question 14</h3>
+<p>John Snow’s 1854 investigation is best known for:</p>
+<ul>
+<li>Confirming germ theory in a laboratory</li>
+<li><span class="correct" data-explanation="Snow used descriptive, spatial data to trace the outbreak to the Broad Street pump, without germ theory or laboratory confirmation.">Tracing a cholera outbreak to a contaminated water pump using mapped case data</span></li>
+<li>Discovering the cholera bacterium</li>
+<li>Establishing Koch’s postulates</li>
+</ul>
+</section>
 </section>
 <section id="lecture-2-rates-ratios-and-mortality" class="slide level2 center" data-background-color="#E6EEF5">
 <h2>Lecture 2: Rates, Ratios, and Mortality</h2>
@@ -205,7 +552,7 @@
 <section id="ratio-proportion-and-rate" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Ratio, Proportion, and Rate</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p>These three terms are frequently confused but are mathematically distinct:</p>
+<p>These three terms are often confused, but they are mathematically distinct:</p>
 <table class="caption-top">
 <colgroup>
 <col style="width: 33%">
@@ -222,12 +569,12 @@
 <tbody>
 <tr class="odd">
 <td><strong>Ratio</strong></td>
-<td>Relation of one quantity to another</td>
-<td>No — numerator and denominator are separate groups</td>
+<td>Relation of one quantity to another, <em>x : y</em></td>
+<td>No: separate groups</td>
 </tr>
 <tr class="even">
 <td><strong>Proportion</strong></td>
-<td>A ratio where the numerator is a subset of the denominator</td>
+<td>A ratio whose numerator is a subset of the denominator, <em>x / (x + y)</em></td>
 <td>Yes</td>
 </tr>
 <tr class="odd">
@@ -237,7 +584,289 @@
 </tr>
 </tbody>
 </table>
-<p><strong>Example:</strong> “3 males per 2 females” is a <em>ratio</em>; “60% of the class is male” is a <em>proportion</em>; “12 new cases per 1,000 population per year” is a <em>rate</em>.</p>
+<p><strong>Examples:</strong> sex ratio (females per 1000 males) and odds are <em>ratios</em>. “60% of the class is male” is a <em>proportion</em>. “12 new cases per 1,000 population per year” is a <em>rate</em>.</p>
+<p><strong>Tools of measurement in epidemiology:</strong> rates, ratios and proportions.</p>
+</section>
+<section id="how-a-rate-is-built" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>How a Rate Is Built</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><code>Rate = (Number of events in a specified period / Average population at risk during that period) × 10ⁿ</code></p>
+<ul>
+<li><strong>Numerator</strong>: events (deaths, new cases) occurring in the defined place and period</li>
+<li><strong>Denominator</strong>: the population at risk, usually the <strong>mid-year (1 July) population</strong> for annual rates</li>
+<li><strong>Time</strong>: the period, usually one calendar year</li>
+<li><strong>Multiplier (10ⁿ)</strong>: per 1000, per 100,000, etc., chosen so the result is a convenient whole number</li>
+</ul>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Type of rate</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Crude</strong></td>
+<td>Crude birth and death rates: the whole population, unadjusted</td>
+</tr>
+<tr class="even">
+<td><strong>Specific</strong></td>
+<td>Age-, sex- or cause-specific rates, for a defined subgroup</td>
+</tr>
+<tr class="odd">
+<td><strong>Standardized</strong></td>
+<td>Age-adjusted rates for fair comparison (Lecture 4)</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="mortality-rates-crude-specific-and-case-fatality" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Mortality Rates: Crude, Specific, and Case Fatality</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Rate</th>
+<th>Formula</th>
+<th>Use</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Crude Death Rate (CDR)</strong></td>
+<td>Deaths in the year ÷ mid-year population × 1000</td>
+<td>Simplest mortality measure; not comparable across different age structures</td>
+</tr>
+<tr class="even">
+<td><strong>Specific Death Rate</strong></td>
+<td>Deaths in a subgroup (age/sex/cause) ÷ subgroup mid-year population × 1000</td>
+<td>Identifies high-risk groups</td>
+</tr>
+<tr class="odd">
+<td><strong>Case Fatality Rate (CFR)</strong></td>
+<td>Deaths from a disease ÷ cases of that disease × 100</td>
+<td>“Killing power” (severity); suits acute infections</td>
+</tr>
+<tr class="even">
+<td><strong>Proportional Mortality Rate (PMR)</strong></td>
+<td>Deaths from a cause ÷ all deaths × 100</td>
+<td>Share of deaths; used when no population denominator exists</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Exam trap:</strong> PMR is <em>not</em> a risk measure. A rising PMR may only mean deaths from other causes fell.</p>
+</section>
+<section id="more-mortality-measures" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>More Mortality Measures</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<ul>
+<li><strong>Survival rate</strong> = (patients alive after a fixed period, usually 5 years ÷ patients diagnosed or treated) × 100. Used for cancer and other chronic disease and for evaluating treatment.</li>
+<li><strong>Years of Life Lost (YLL)</strong>: the sum, over all deaths, of (standard life expectancy − age at death). It gives weight to premature deaths and is the mortality part of the DALY.</li>
+<li><strong>Infant mortality rate</strong>: infant deaths ÷ live births × 1000.</li>
+<li><strong>Maternal mortality ratio</strong>: maternal deaths ÷ live births × 100,000. Formally a <em>ratio</em>, because the denominator is live births, not women at risk.</li>
+</ul>
+<p>Detailed fertility and MCH indicators are taught under CM10.</p>
+</section>
+<section id="worked-example-mortality-measures" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Worked Example: Mortality Measures</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>A town has a mid-year population of <strong>50,000</strong>. In one year:</p>
+<ul>
+<li>400 deaths in all, 200 of them among the 5,000 persons aged ≥ 60</li>
+<li>120 cholera cases, with 6 cholera deaths</li>
+<li>40 deaths due to tuberculosis</li>
+</ul>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Measure</th>
+<th>Calculation</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>CDR</td>
+<td>400 ÷ 50,000 × 1000</td>
+<td><strong>8 per 1000</strong></td>
+</tr>
+<tr class="even">
+<td>Age-specific DR (≥ 60)</td>
+<td>200 ÷ 5,000 × 1000</td>
+<td><strong>40 per 1000</strong></td>
+</tr>
+<tr class="odd">
+<td>CFR (cholera)</td>
+<td>6 ÷ 120 × 100</td>
+<td><strong>5%</strong></td>
+</tr>
+<tr class="even">
+<td>PMR (TB)</td>
+<td>40 ÷ 400 × 100</td>
+<td><strong>10% of deaths</strong></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="indias-mortality-snapshot" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>India’s Mortality Snapshot</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Sample Registration System, Statistical Report 2023</strong> (Office of the RGI, released Sept 2025):</p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Indicator</th>
+<th>India, 2023</th>
+<th>Trend</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Crude birth rate</td>
+<td><strong>18.4</strong> per 1000</td>
+<td>19.1 in 2022</td>
+</tr>
+<tr class="even">
+<td>Crude death rate</td>
+<td><strong>6.4</strong> per 1000</td>
+<td>6.8 in 2022</td>
+</tr>
+<tr class="odd">
+<td>Infant mortality rate</td>
+<td><strong>25</strong> per 1000 live births</td>
+<td>40 in 2013</td>
+</tr>
+</tbody>
+</table>
+<p><em>Retrieved 28 Oct 2026 from SRS 2023 summaries. Secondary sources differ slightly: some give CDR 6.3 and CBR 19.7. Check the official RGI report before an exam, and use the latest SRS bulletin.</em></p>
+</section>
+<section id="practice-questions-descriptive-lecture-2" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 2)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Define rate, ratio, and proportion with appropriate examples.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-2-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 2, contd.)</h2>
+<p><strong>Short Notes</strong></p>
+<ol start="2" type="1">
+<li>Tools of measurement in epidemiology.</li>
+<li>Tools for measurement of disease magnitude.</li>
+<li>Mortality rates and ratios.</li>
+<li>Crude death rate.</li>
+<li>Case fatality rate.</li>
+<li>Survival rate.</li>
+</ol>
+</section>
+<section id="self-check-question-15" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 15</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-15" class="quiz-question">
+<h3>Question 15</h3>
+<p>“12 new cases of disease per 1,000 population per year” is an example of a:</p>
+<ul>
+<li>Ratio</li>
+<li>Proportion</li>
+<li><span class="correct" data-explanation="A rate is a proportion with a time dimension built in. Here, “per year” makes it a rate rather than a plain proportion.">Rate</span></li>
+<li>Odds</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-16" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 16</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-16" class="quiz-question">
+<h3>Question 16</h3>
+<p>The measure of frequency in which the numerator is NOT a part of the denominator is:</p>
+<ul>
+<li>Rate</li>
+<li><span class="correct" data-explanation="In a ratio the numerator and denominator are separate quantities (e.g. males : females). In a proportion or rate, the numerator is part of the denominator.">Ratio</span></li>
+<li>Incidence</li>
+<li>Prevalence</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-17" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 17</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-17" class="quiz-question">
+<h3>Question 17</h3>
+<p>The term “odds” is the same as a:</p>
+<ul>
+<li>Rate</li>
+<li><span class="correct" data-explanation="Odds = probability that an event occurs ÷ probability that it does not, i.e. p / (1 − p). The numerator is not included in the denominator, so odds are a ratio.">Ratio</span></li>
+<li>Proportion</li>
+<li>Mean</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-18" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 18</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-18" class="quiz-question">
+<h3>Question 18</h3>
+<p>A proportion with an added relationship with time becomes a:</p>
+<ul>
+<li><span class="correct" data-explanation="Rate = proportion + time. For example, deaths in a year ÷ mid-year population × 1000.">Rate</span></li>
+<li>Ratio</li>
+<li>Prevalence</li>
+<li>Mean</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-19" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 19</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-19" class="quiz-question">
+<h3>Question 19</h3>
+<p>Which measure best reflects the severity of a disease among those affected?</p>
+<ul>
+<li>Incidence rate</li>
+<li>Prevalence</li>
+<li><span class="correct" data-explanation="CFR = deaths from a disease ÷ cases of that disease × 100. It measures the killing power of the disease among those who have it.">Case fatality rate</span></li>
+<li>Proportionate mortality</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-20" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 20</h2>
+<p>🧡 <strong>QUESTION (select ALL that apply)</strong></p>
+<section id="question-20" class="quiz-question quiz-multiple">
+<h3>Question 20</h3>
+<p>Measures of mortality commonly used in public health include:</p>
+<ul>
+<li>Attack rate</li>
+<li><span class="correct" data-explanation="IMR, CDR and MMR are mortality indicators. Attack rate is a morbidity (incidence) measure used in outbreaks.">Infant mortality rate</span></li>
+<li><span class="correct">Crude death rate</span></li>
+<li><span class="correct">Maternal mortality ratio</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-21" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 21</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-21" class="quiz-question">
+<h3>Question 21</h3>
+<p><strong>Assertion (A):</strong> Case fatality rate is a useful indicator of disease severity.</p>
+<p><strong>Reason (R):</strong> It measures the total deaths in the population irrespective of disease.</p>
+<ul>
+<li>Both A and R are true, and R is the correct explanation of A</li>
+<li>Both A and R are true, but R is NOT the correct explanation of A</li>
+<li><span class="correct" data-explanation="A is true: CFR reflects the killing power of a disease. R is false: CFR is deaths among cases of a specific disease. Total deaths in the population irrespective of cause is the crude death rate.">A is true, R is false</span></li>
+<li>A is false, R is true</li>
+</ul>
+</section>
 </section>
 <section id="lecture-3-measurement-of-morbidity" class="slide level2 center" data-background-color="#E6EEF5">
 <h2>Lecture 3: Measurement of Morbidity</h2>
@@ -247,48 +876,1008 @@
 <section id="incidence" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Incidence</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Incidence</strong> measures how many <strong>new</strong> cases of disease occur in a population over a defined period:</p>
-<p><code>Incidence Rate = (Number of new cases during a period) / (Population at risk over that period)</code></p>
+<p><strong>Incidence</strong> counts <strong>new</strong> cases occurring in a population at risk during a defined period.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Cumulative incidence (risk)</th>
+<th>Incidence density (incidence rate)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Denominator</strong></td>
+<td>Persons at risk at the <strong>start</strong> of the period</td>
+<td>Total <strong>person-time</strong> at risk</td>
+</tr>
+<tr class="even">
+<td><strong>Formula</strong></td>
+<td>New cases ÷ population at risk</td>
+<td>New cases ÷ person-years at risk</td>
+</tr>
+<tr class="odd">
+<td><strong>Unit</strong></td>
+<td>Proportion over a stated period (e.g.&nbsp;2% in 3 years)</td>
+<td>Per person-year (a true rate)</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li>Measures <strong>risk</strong> — the probability of developing disease</li>
-<li>Requires following a population forward in time</li>
-<li>Best measure for studying disease <strong>causation</strong> (etiology)</li>
+<li>Incidence measures <strong>risk</strong> and is the best measure for <strong>causation</strong> studies</li>
+<li>Spell (episode) incidence counts episodes, so it can exceed the number of persons</li>
+<li>Special forms: <strong>attack rate</strong>, <strong>secondary attack rate</strong></li>
 </ul>
 </section>
 <section id="prevalence" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Prevalence</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Prevalence</strong> measures how many <strong>existing</strong> cases (old + new) there are at a given time — it does not distinguish when each case began:</p>
-<p><code>Prevalence = (Number of existing cases) / (Total population)</code></p>
+<p><strong>Prevalence</strong> counts all <strong>existing</strong> cases (old + new) at a given time:</p>
+<p><code>Prevalence = (All current cases at a point or period / Estimated population at that time) × 100</code></p>
 <ul>
-<li><strong>Point prevalence</strong> — cases at one specific point in time</li>
-<li><strong>Period prevalence</strong> — cases at any time during a defined interval</li>
+<li><strong>Point prevalence</strong>: cases at one point in time (e.g.&nbsp;a survey day)</li>
+<li><strong>Period prevalence</strong>: cases existing at any time during an interval = point prevalence at the start + new cases in the interval. It mixes the two concepts and is not used for analysis.</li>
 </ul>
-<p><strong>Relationship (steady state):</strong> <code>Prevalence ≈ Incidence Rate × Average Duration of Disease</code></p>
-<p>A disease can have <strong>high prevalence but low incidence</strong> if it lasts a long time (e.g.&nbsp;diabetes) — prevalence and incidence answer different questions and must not be confused.</p>
+<p>Prevalence is a <strong>proportion</strong>, not a rate. It measures the <strong>burden</strong> of disease.</p>
+</section>
+<section id="prevalence-incidence-and-duration" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Prevalence, Incidence, and Duration</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="columns">
+<div class="column" style="width:55%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/prevalence_pool.svg" class="slide-img" width="460"></p>
+<figcaption>Prevalence pool</figcaption>
+</figure>
+</div>
+</div><div class="column" style="width:45%;">
+<p><code>P = I × D</code> (steady state)</p>
+<ul>
+<li>Long duration with low incidence gives <strong>high</strong> prevalence (diabetes, leprosy before MDT)</li>
+<li>High incidence with short duration gives <strong>low</strong> prevalence (common cold)</li>
+<li>Better treatment that cures fast <strong>lowers</strong> prevalence</li>
+<li>Treatment that prolongs life without cure <strong>raises</strong> it</li>
+</ul>
+</div></div>
+</section>
+<section id="uses-of-incidence-vs-prevalence" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Uses of Incidence vs Prevalence</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Incidence</th>
+<th>Prevalence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>New cases only</td>
+<td>All existing cases</td>
+</tr>
+<tr class="even">
+<td>Measures <strong>risk</strong></td>
+<td>Measures <strong>burden</strong></td>
+</tr>
+<tr class="odd">
+<td>Needs follow-up (cohort)</td>
+<td>One-time survey (cross-sectional)</td>
+</tr>
+<tr class="even">
+<td>Best for <strong>etiology/causation</strong>: exposure must precede onset</td>
+<td>Best for <strong>planning</strong> services, beds, drugs, manpower</td>
+</tr>
+<tr class="odd">
+<td>Evaluates <strong>primary prevention</strong></td>
+<td>Estimates chronic disease load; affected by duration and survival</td>
+</tr>
+<tr class="even">
+<td>Suited to acute disease</td>
+<td>Suited to chronic disease</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="attack-rate" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Attack Rate</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p>A special form of incidence rate, used only when a population is exposed to risk for a <strong>limited period</strong> — typically during an outbreak:</p>
-<p><code>Attack Rate = (New cases during the outbreak) / (Population at risk) × 100</code></p>
-<p>Unlike a general incidence rate, it is expressed as a percentage over the whole exposure episode rather than per year. <strong>Secondary attack rate</strong> — new cases among <em>contacts</em> of a primary case, within the incubation period — is covered with outbreak measures in Communicable Diseases (Chapter 6).</p>
+<p>A special form of incidence used when a population is exposed to risk for a <strong>limited period</strong>, typically during an outbreak:</p>
+<p><code>Attack Rate = (New cases during the outbreak / Population at risk) × 100</code></p>
+<p>It is expressed as a percentage over the whole exposure episode, not per year.</p>
+<p><strong>Secondary attack rate (SAR):</strong> new cases among susceptible <em>contacts</em> of a primary case, within one incubation period. It measures infectiousness and is covered with infectious disease dynamics in Lecture 10.</p>
+</section>
+<section id="other-morbidity-measures" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Other Morbidity Measures</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<ul>
+<li><strong>Duration of illness</strong>: mean days of illness per case</li>
+<li><strong>Disability rates</strong>: days of restricted activity, bed-disability days, work-loss days per person per year</li>
+<li><strong>Notification data</strong>: legally notifiable diseases (IDSP/IHIP)</li>
+<li><strong>Hospital and registry data</strong>: admissions, discharges, cancer and TB registries</li>
+<li><strong>Composite measures</strong>: DALY and HALE combine morbidity with mortality (Chapter 2)</li>
+</ul>
+<p><strong>Population at risk:</strong> the denominator must include only people <em>capable</em> of developing the disease. Exclude the already immune or already affected, and use women only for cervical cancer. A wrong denominator is a common source of error.</p>
+</section>
+<section id="problem-set-tb-in-an-hiv-cohort" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Problem Set: TB in an HIV Cohort</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>Use this figure for the TB questions in the Self-Check below.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/tb_timeline.svg" class="slide-img" width="740"></p>
+<figcaption>TB episodes in 100 HIV-positive subjects, 2000–2003</figcaption>
+</figure>
+</div>
+</section>
+<section id="practice-questions-descriptive-lecture-3" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 3)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Differentiate incidence and prevalence with suitable examples.</li>
+<li>How will you measure morbidity?</li>
+<li>Relationship between prevalence and incidence (prevalence vs incidence).</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="4" type="1">
+<li>Relationship between incidence and prevalence.</li>
+</ol>
+<p><strong>Reasoning Type</strong></p>
+<ol start="5" type="1">
+<li>Why is incidence preferred over prevalence for studying disease causation?</li>
+<li>Give reasons why prevalence depends on both the incidence and the duration of disease.</li>
+</ol>
+</section>
+<section id="self-check-question-22" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 22</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-22" class="quiz-question">
+<h3>Question 22</h3>
+<p>Which measure best reflects the risk of developing disease over a specified period among initially disease-free individuals?</p>
+<ul>
+<li>Prevalence</li>
+<li><span class="correct" data-explanation="Incidence (cumulative incidence) = new cases ÷ population at risk over the period. It is a direct estimate of risk. Prevalence counts existing cases.">Incidence</span></li>
+<li>Case fatality rate</li>
+<li>Proportionate mortality</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-23" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 23</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-23" class="quiz-question">
+<h3>Question 23</h3>
+<p>A district surveillance officer wants to compare the current burden of diabetes between two urban wards to plan clinic services. The most appropriate measure is:</p>
+<ul>
+<li>Incidence rate</li>
+<li>Case fatality rate</li>
+<li><span class="correct" data-explanation="Prevalence measures the existing burden (old + new cases) and is the measure used to plan services, staff and drugs. Incidence is preferred for studying causation.">Prevalence</span></li>
+<li>Attack rate</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-24" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 24</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-24" class="quiz-question">
+<h3>Question 24</h3>
+<p>A disease has high incidence but short duration because of rapid recovery. In such a situation, prevalence is likely to be:</p>
+<ul>
+<li>High</li>
+<li>Equal to incidence</li>
+<li><span class="correct" data-explanation="P ≈ I × D. When duration is very short, cases leave the prevalence pool quickly (recovery or death), so prevalence stays low despite high incidence. The common cold and acute diarrhoea are examples.">Very low</span></li>
+<li>Zero</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-25" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 25</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-25" class="quiz-question">
+<h3>Question 25</h3>
+<p>A disease with a long duration but low incidence will typically show:</p>
+<ul>
+<li>Low prevalence</li>
+<li><span class="correct" data-explanation="P ≈ I × D. A long duration can produce high prevalence even with low incidence (e.g. diabetes, leprosy before MDT).">High prevalence</span></li>
+<li>Zero prevalence</li>
+<li>Prevalence equal to incidence</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-26" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 26</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-26" class="quiz-question">
+<h3>Question 26</h3>
+<p>Under stable conditions, the relationship between incidence (I), prevalence (P) and duration (D) is:</p>
+<ul>
+<li><span class="correct" data-explanation="Under steady-state conditions, prevalence = incidence × mean duration of disease.">P = I × D</span></li>
+<li>I = P × D</li>
+<li>P = I + D</li>
+<li>I = P + D</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-27" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 27</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-27" class="quiz-question">
+<h3>Question 27</h3>
+<p>The proportion of persons found to have the disease condition of interest out of those examined gives the:</p>
+<ul>
+<li>Rate</li>
+<li>Incidence</li>
+<li><span class="correct" data-explanation="Cases found among those examined at a point or period in time, with no follow-up of new occurrence, is prevalence.">Prevalence</span></li>
+<li>Ratio</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-28" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 28</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-28" class="quiz-question">
+<h3>Question 28</h3>
+<p>Identify the correct statement:</p>
+<ul>
+<li><span class="correct" data-explanation="Incidence carries a time element (new cases per unit time), so it is a rate. Prevalence is a proportion at a point or period.">Incidence is a rate while prevalence is a proportion</span></li>
+<li>Prevalence is a rate while incidence is a proportion</li>
+<li>Both incidence and prevalence are rates</li>
+<li>Both incidence and prevalence are proportions</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-29" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 29</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-29" class="quiz-question">
+<h3>Question 29</h3>
+<p>In which of the following frequency measures is the denominator “person-time”?</p>
+<ul>
+<li>Cumulative incidence</li>
+<li><span class="correct" data-explanation="Incidence density (incidence rate) = new cases ÷ total person-time at risk. Cumulative incidence uses the number of persons at risk at the start.">Incidence density</span></li>
+<li>Point prevalence</li>
+<li>Period prevalence</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-30" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 30</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-30" class="quiz-question">
+<h3>Question 30</h3>
+<p>In which of the following disease frequency measures can the numerator be greater than the denominator?</p>
+<ul>
+<li>Incidence rate (persons)</li>
+<li>Period prevalence</li>
+<li><span class="correct" data-explanation="Spell incidence counts episodes. One person can have several spells (e.g. diarrhoea), so the number of spells can exceed the number of persons.">Incidence rate (spells)</span></li>
+<li>Point prevalence</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-31" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 31</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-31" class="quiz-question">
+<h3>Question 31</h3>
+<p>Which of the following measures is NOT recommended for scientific statistical analysis of epidemiological data?</p>
+<ul>
+<li>Cumulative incidence</li>
+<li>Incidence density</li>
+<li>Point prevalence</li>
+<li><span class="correct" data-explanation="Period prevalence mixes prevalent cases at the start with new cases during the period. It is neither a pure incidence nor a pure prevalence measure, so it is unsuitable for analysis.">Period prevalence</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-32" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 32</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-32" class="quiz-question">
+<h3>Question 32</h3>
+<p>In a survey of tobacco smoking among adult males, 190 of the 950 persons surveyed were smokers. The correct frequency measure and its value are:</p>
+<ul>
+<li>Incidence, 20%</li>
+<li><span class="correct" data-explanation="There is no follow-up and no defined time period, so it is prevalence: 190/950 = 0.20 = 20%.">Prevalence, 20%</span></li>
+<li>Prevalence, 19%</li>
+<li>Incidence rate, 190 per 1000 per year</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-33" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 33</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-33" class="quiz-question">
+<h3>Question 33</h3>
+<p>BP assessment of 1000 male university students in January 2016 found 50 hypertensive. What is the prevalence of hypertension in January 2016?</p>
+<ul>
+<li>2%</li>
+<li><span class="correct" data-explanation="Point prevalence = 50/1000 = 5%.">5%</span></li>
+<li>10%</li>
+<li>15%</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-34" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 34</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-34" class="quiz-question">
+<h3>Question 34</h3>
+<p>In the same students, the remaining 950 normotensives were followed for 3 years, and 19 developed hypertension by January 2019. What is the incidence of hypertension?</p>
+<ul>
+<li>2%</li>
+<li>5%</li>
+<li><span class="correct" data-explanation="Cumulative incidence = 19/950 = 2%. It must always be stated with its time period (here, 3 years), otherwise it is meaningless.">2% over a period of 3 years</span></li>
+<li>5% over a period of 3 years</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-35" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 35</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-35" class="quiz-question">
+<h3>Question 35</h3>
+<p>Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the prevalence of TB in January 2000?</p>
+<ul>
+<li><span class="correct" data-explanation="Five episodes cross the January 2000 line. Prevalence uses the whole population as denominator: 5/100.">5/100</span></li>
+<li>8/100</li>
+<li>5/95</li>
+<li>8/95</li>
+<li>5/92</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-36" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 36</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-36" class="quiz-question">
+<h3>Question 36</h3>
+<p>Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the prevalence of TB in January 2002?</p>
+<ul>
+<li><span class="correct" data-explanation="Five episodes are ongoing on the January 2002 line. Prevalence = 5/100.">5/100</span></li>
+<li>9/100</li>
+<li>5/95</li>
+<li>5/80</li>
+<li>9/80</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-37" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 37</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-37" class="quiz-question">
+<h3>Question 37</h3>
+<p>Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the 3-year incidence of TB for 1 Jan 2000 to 1 Jan 2003?</p>
+<ul>
+<li>20/100</li>
+<li>15/100</li>
+<li>20/95</li>
+<li><span class="correct" data-explanation="15 new episodes began during the 3 years. The population at risk on 1 Jan 2000 excludes the 5 already ill: 100 − 5 = 95. Cumulative incidence = 15/95.">15/95</span></li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-38" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 38</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-38" class="quiz-question">
+<h3>Question 38</h3>
+<p>Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the incidence of TB for the year 2002?</p>
+<ul>
+<li>5/100</li>
+<li><span class="correct" data-explanation="5 new cases began in 2002. Those at risk on 1 Jan 2002 = 100 − 15 who had already had TB (5 baseline + 5 in 2000 + 5 in 2001) = 85.">5/85</span></li>
+<li>5/95</li>
+<li>10/85</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-39" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 39</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-39" class="quiz-question">
+<h3>Question 39</h3>
+<p>Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the period prevalence for January 2000 to January 2002?</p>
+<ul>
+<li>5%</li>
+<li>10%</li>
+<li><span class="correct" data-explanation="Period prevalence = (prevalent at start + new cases during the period) ÷ population = (5 + 5 + 5)/100 = 15%.">15%</span></li>
+<li>20%</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-40" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 40</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-40" class="quiz-question">
+<h3>Question 40</h3>
+<p><strong>Assertion (A):</strong> Prevalence is useful for planning health services.</p>
+<p><strong>Reason (R):</strong> Prevalence reflects only new cases occurring in a population.</p>
+<ul>
+<li>Both A and R are true, and R is the correct explanation of A</li>
+<li>Both A and R are true, but R is NOT the correct explanation of A</li>
+<li><span class="correct" data-explanation="A is true: prevalence gives the total load of existing cases that services must handle. R is false: prevalence counts all existing cases, old and new. Counting only new cases is incidence.">A is true, R is false</span></li>
+<li>A is false, R is true</li>
+</ul>
+</section>
 </section>
 <section id="lecture-4-standardisation-and-data-sources" class="slide level2 center" data-background-color="#E6EEF5">
 <h2>Lecture 4: Standardisation and Data Sources</h2>
 <p>📚 <strong>Lecture 4 of 15</strong> · <strong>CM7.L4</strong></p>
 <p><em>Standardisation of rates; sources of epidemiological data</em></p>
 </section>
-<section id="standardisation-of-rates" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Standardisation of Rates</h2>
-<p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>Crude rates (Chapter 3) can’t be compared fairly between populations with different age structures — <strong>standardisation</strong> adjusts for this, using either the <strong>direct method</strong> (applying each population’s actual rates to one shared “standard” population) or the <strong>indirect method</strong> (applying a standard population’s rates to the study population, when age-specific rates for the study group aren’t available — the basis of the <strong>Standardized Mortality Ratio</strong>). Covered with full worked examples in <a href="../foundations/epidemiologic-methods.html">Chapter 4</a>’s “Standardization: Direct and Indirect Methods” section.</p>
-<p><strong>Sources of epidemiological data:</strong></p>
+<section id="standardization-direct-and-indirect-methods" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Standardization: Direct and Indirect Methods</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p>Crude rates aren’t comparable between populations with different age (or sex) structures. <strong>Standardization</strong> removes that distortion (confounding by age) by applying a common “standard population”.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th></th>
+<th>Direct method</th>
+<th>Indirect method</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Needs</strong></td>
+<td>Age-specific rates of each study population</td>
+<td>Only total deaths and the age structure of the study population</td>
+</tr>
+<tr class="even">
+<td><strong>Applies</strong></td>
+<td>Each population’s own rates → one <strong>standard population</strong></td>
+<td><strong>Standard rates</strong> → the study population</td>
+</tr>
+<tr class="odd">
+<td><strong>Result</strong></td>
+<td>Age-adjusted (standardized) rate</td>
+<td><strong>SMR</strong> = observed deaths ÷ expected deaths</td>
+</tr>
+<tr class="even">
+<td><strong>Use when</strong></td>
+<td>Populations are large with reliable rates</td>
+<td>Groups are small, or age-specific rates are unavailable (occupational studies)</td>
+</tr>
+</tbody>
+</table>
+<p>An SMR &gt; 1 (or &gt; 100%) means more deaths than expected from the standard population’s experience.</p>
+</section>
+<section id="worked-example-direct-standardization" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Worked Example: Direct Standardization</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+<col style="width: 12%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Age (y)</th>
+<th>Town A pop.</th>
+<th>Deaths</th>
+<th>Town B pop.</th>
+<th>Deaths</th>
+<th>Rate (both) per 1000</th>
+<th>Standard pop. (A+B)</th>
+<th>Expected deaths</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0–29</td>
+<td>6,000</td>
+<td>6</td>
+<td>2,000</td>
+<td>2</td>
+<td>1</td>
+<td>8,000</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>30–59</td>
+<td>3,000</td>
+<td>9</td>
+<td>4,000</td>
+<td>12</td>
+<td>3</td>
+<td>7,000</td>
+<td>21</td>
+</tr>
+<tr class="odd">
+<td>≥ 60</td>
+<td>1,000</td>
+<td>40</td>
+<td>4,000</td>
+<td>160</td>
+<td>40</td>
+<td>5,000</td>
+<td>200</td>
+</tr>
+<tr class="even">
+<td><strong>Total</strong></td>
+<td>10,000</td>
+<td><strong>55</strong></td>
+<td>10,000</td>
+<td><strong>174</strong></td>
+<td></td>
+<td>20,000</td>
+<td><strong>229</strong></td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li><strong>Routine sources</strong> — civil registration (births/deaths), hospital records, disease notification/surveillance systems (IDSP/IHIP, Chapter 6)</li>
-<li><strong>Periodic sources</strong> — the Census, large sample surveys (NFHS, SRS — Chapter 13)</li>
-<li><strong>Ad hoc sources</strong> — purpose-designed epidemiological studies (case- control, cohort — covered next) run specifically to answer one research question, when routine/periodic sources don’t already contain the needed data</li>
+<li><strong>Crude DR:</strong> A = 5.5, B = 17.4 per 1000, which looks like a threefold difference</li>
+<li><strong>Standardized DR:</strong> 229 ÷ 20,000 × 1000 = <strong>11.45 per 1000 for both</strong></li>
+<li>The difference was entirely due to B’s older population</li>
 </ul>
+</section>
+<section id="worked-example-indirect-standardization-smr" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Worked Example: Indirect Standardization (SMR)</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>Mine workers: 27 deaths observed in one year. Age-specific death rates of the national (standard) population are applied to the workers’ age structure:</p>
+<table class="caption-top">
+<thead>
+<tr class="header">
+<th>Age (y)</th>
+<th>Workers</th>
+<th>Standard rate per 1000</th>
+<th>Expected deaths</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>20–39</td>
+<td>4,000</td>
+<td>2</td>
+<td>8</td>
+</tr>
+<tr class="even">
+<td>40–59</td>
+<td>1,000</td>
+<td>10</td>
+<td>10</td>
+</tr>
+<tr class="odd">
+<td><strong>Total</strong></td>
+<td>5,000</td>
+<td></td>
+<td><strong>18</strong></td>
+</tr>
+</tbody>
+</table>
+<p><code>SMR = Observed ÷ Expected = 27 ÷ 18 = 1.5 (150%)</code></p>
+<p>The workers die at <strong>1.5 times</strong> the rate expected for their age structure, which points to an occupational hazard.</p>
+</section>
+<section id="sources-of-epidemiological-data-1" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Sources of Epidemiological Data (1)</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Source</th>
+<th>Key facts</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Census</strong></td>
+<td>Every 10 years. First 1872 (non-synchronous), synchronous since 1881. <strong>Census Act 1948</strong>, conducted by the <strong>Registrar General &amp; Census Commissioner</strong> (MHA). <strong>De facto</strong> method, reference date <strong>00:00 hrs, 1 March</strong>. Complete enumeration. Last completed: 2011. <strong>Census 2027</strong> reference date 1 March 2027 (1 Oct 2026 in snow-bound areas)</td>
+</tr>
+<tr class="even">
+<td><strong>Civil registration (CRS)</strong></td>
+<td><strong>RBD Act 1969</strong>: compulsory registration of births and deaths (21 days), uniform across India. Vital statistics = births, deaths, marriages, divorces, foetal deaths</td>
+</tr>
+<tr class="odd">
+<td><strong>SRS</strong></td>
+<td>RGI, from 1964–65 (pilot), full scale 1969–70. <strong>Dual record system</strong>: continuous enumeration plus an independent half-yearly survey, then matching. Separate rural and urban sample units. Source of CBR, CDR, IMR, MMR, TFR</td>
+</tr>
+<tr class="even">
+<td><strong>MCCD and verbal autopsy</strong></td>
+<td>Cause-of-death data (next slide). Verbal autopsy is used in SRS sample units</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="sources-of-epidemiological-data-2" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Sources of Epidemiological Data (2)</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<ul>
+<li><strong>Notification and surveillance</strong>: notifiable diseases. <strong>IDSP</strong> (2004) collects weekly S/P/L data, now on the <strong>IHIP</strong> digital platform (nationwide 2021). This is the best routine source of morbidity data on epidemic-prone diseases.</li>
+<li><strong>Hospital records</strong>: admissions, OPD, laboratory and radiology registers. These are the basis of <strong>sentinel surveillance</strong> (e.g.&nbsp;AFP).</li>
+<li><strong>Disease registers</strong>: population-based cancer registries (NCRP, 1981), Ni-kshay (TB).</li>
+<li><strong>Sample surveys</strong>:
+<ul>
+<li><strong>NFHS 1–6</strong>: IIPS, MoHFW. NFHS-6 (2023–24) fact sheets released in May 2026.</li>
+<li><strong>DLHS / RCH Rapid Household and Facility Surveys</strong></li>
+<li>NSS health rounds, LASI, CNNS</li>
+</ul></li>
+<li><strong>Publications</strong>: CBHI <em>National Health Profile</em> (annual), WHO <em>World Health Statistics</em>, UNICEF <em>SOWC</em>, CDC <em>MMWR</em>.</li>
+</ul>
+<p><strong>Data → information → intelligence:</strong> raw data, summarized into information, and evaluated by experts into intelligence, which is the basis for action.</p>
+</section>
+<section id="mccd-and-verbal-autopsy" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>MCCD and Verbal Autopsy</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<p><strong>Medical Certification of Cause of Death (MCCD)</strong> under the RBD Act. Form 4 is for institutional deaths and Form 4A for non-institutional deaths. It follows the WHO international format.</p>
+<ul>
+<li><strong>Part I</strong>: the causal sequence. (a) immediate cause → (b) antecedent → (c) <strong>underlying cause</strong> on the <em>lowest</em> line. Give the interval between onset and death for each line.</li>
+<li><strong>Part II</strong>: other significant conditions that contributed but are not in the chain (e.g.&nbsp;diabetes)</li>
+<li><strong>Underlying cause</strong> = the disease that initiated the train of events leading to death. It is the cause coded with ICD for statistics.</li>
+</ul>
+<p><strong>Common errors:</strong> writing the mode of death (“cardiac arrest”, “respiratory failure”) as a cause, wrong sequence, more than one cause per line, abbreviations, missing intervals, vague terms (“old age”).</p>
+<p><strong>Verbal autopsy:</strong> a structured interview of relatives or caregivers about signs and symptoms before death, coded by physicians or software. It is used where deaths occur without medical attention, as in the SRS Million Death Study.</p>
+</section>
+<section id="practice-questions-descriptive-lecture-4" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 4)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol type="1">
+<li>Enumerate the steps of completing an MCCD correctly (principle-based, not format drawing).</li>
+</ol>
+<p><strong>Short Notes</strong></p>
+<ol start="2" type="1">
+<li>Standardized death rate.</li>
+<li>Sources of epidemiological data in India.</li>
+</ol>
+<p><strong>Reasoning Type</strong></p>
+<ol start="4" type="1">
+<li>Why is standardization of death rates necessary when comparing two populations?</li>
+<li>Explain why the Medical Certification of Cause of Death (MCCD) is important for public health planning but not for individual patient care.</li>
+</ol>
+</section>
+<section id="practice-questions-descriptive-lecture-4-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 4, contd.)</h2>
+<p><strong>Exercise</strong></p>
+<ol start="6" type="1">
+<li>A 54-year-old male with a past history of type 2 diabetes mellitus developed acute STEMI on 22 May 2016 and was admitted to the ICU. On 24 May he developed atrial fibrillation, followed by embolism of the right MCA. He was placed on ventilator and vasopressor support but died on 27 May 2016 at 4 p.m. Prepare his death certificate (MCCD).</li>
+</ol>
+</section>
+<section id="self-check-question-41" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 41</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-41" class="quiz-question">
+<h3>Question 41</h3>
+<p>A health planner wants to compare mortality rates between two populations with different age structures. The most appropriate method is to use the:</p>
+<ul>
+<li>Crude death rate</li>
+<li>Case fatality rate</li>
+<li><span class="correct" data-explanation="Crude rates are distorted by age composition. Age-standardized (adjusted) rates remove this distortion and allow a fair comparison.">Standardized death rate</span></li>
+<li>Proportionate mortality ratio</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-42" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 42</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-42" class="quiz-question">
+<h3>Question 42</h3>
+<p>The most appropriate public health use of a Medical Certificate of Cause of Death (MCCD) is:</p>
+<ul>
+<li>Planning treatment for individual patients</li>
+<li><span class="correct" data-explanation="MCCD data, coded by ICD, produce reliable cause-specific mortality statistics for planning and priority-setting. The patient is already dead, so it has no role in their individual care.">Generation of cause-specific mortality statistics</span></li>
+<li>Early detection of disease outbreaks</li>
+<li>Clinical diagnosis at the bedside</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-43" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 43</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-43" class="quiz-question">
+<h3>Question 43</h3>
+<p>In verbal autopsy, the primary source of information is:</p>
+<ul>
+<li>Postmortem examination findings</li>
+<li><span class="correct" data-explanation="Verbal autopsy assigns a probable cause of death from a structured interview with family or caregivers about the signs and symptoms before death. It is used where deaths occur without medical attention.">Interview with relatives about symptoms before death</span></li>
+<li>Laboratory investigation of body fluids</li>
+<li>Review of hospital case records</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-44" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 44</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-44" class="quiz-question">
+<h3>Question 44</h3>
+<p><strong>Assertion (A):</strong> A properly completed MCCD improves the quality of mortality data.</p>
+<p><strong>Reason (R):</strong> Incorrect sequencing and nonspecific terms in certificates reduce the usefulness of cause-specific statistics.</p>
+<ul>
+<li><span class="correct" data-explanation="Both are true, and R explains A. The underlying cause is coded from the sequence in Part I. Wrong sequencing or vague terms such as cardiac arrest or old age make the coded cause meaningless.">Both A and R are true, and R is the correct explanation of A</span></li>
+<li>Both A and R are true, but R is NOT the correct explanation of A</li>
+<li>A is true, R is false</li>
+<li>A is false, R is true</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-45" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 45</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-45" class="quiz-question">
+<h3>Question 45</h3>
+<p>A national tuberculosis survey used trained investigators to collect data from randomly selected households to measure the magnitude of TB and identify high-risk groups. This is an example of:</p>
+<ul>
+<li><span class="correct" data-explanation="The investigators collected fresh data themselves for the study purpose, which makes it primary data. Secondary data are data collected earlier by someone else (e.g. hospital records, census).">Primary data collection</span></li>
+<li>Secondary data analysis</li>
+<li>Aggregate data analysis</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-46" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 46</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-46" class="quiz-question">
+<h3>Question 46</h3>
+<p>What advantage do death certificates have, in our country, as a source of epidemiological information?</p>
+<ul>
+<li><span class="correct" data-explanation="The Registration of Births and Deaths Act, 1969 applies uniformly across India and makes registration and medical certification compulsory. Autopsy is uncommon, ICD has been revised repeatedly (ICD-11 is now in force), and most deaths have no personal physician.">There is a uniform national law for enforcing the filling of death certificates</span></li>
+<li>The cause of death is usually confirmed by autopsy</li>
+<li>The ICD system for cause of death has remained constant over the past 50 years</li>
+<li>The personal physician of the deceased has to complete the certificate from his/her own knowledge of past illnesses</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-47" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 47</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-47" class="quiz-question">
+<h3>Question 47</h3>
+<p>The reference (referral) date for the Indian Census 2001 was:</p>
+<ul>
+<li>April 1, 2001</li>
+<li>February 1, 2001</li>
+<li><span class="correct" data-explanation="Indian censuses take 00:00 hours on 1 March of the census year as the reference date (1 October of the previous year for snow-bound areas). Census 2027 also uses 1 March 2027.">March 1, 2001</span></li>
+<li>April 1, 2000</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-48" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 48</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-48" class="quiz-question">
+<h3>Question 48</h3>
+<p>The “census point” is taken as the midnight between:</p>
+<ul>
+<li>December 31 and January 1</li>
+<li>January 31 and February 1</li>
+<li><span class="correct" data-explanation="The census reference moment is 00:00 hours of 1 March, i.e. the midnight between 28 (29) February and 1 March.">February 28 and March 1</span></li>
+<li>March 31 and April 1</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-49" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 49</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-49" class="quiz-question">
+<h3>Question 49</h3>
+<p>The sex ratio in India is described as:</p>
+<ul>
+<li><span class="correct" data-explanation="In India the sex ratio is expressed as the number of females per 1000 males. Internationally it is often expressed as males per 100 females.">Females per 1000 males</span></li>
+<li>Males per 1000 females</li>
+<li>Fraction of females divided by males</li>
+<li>Fraction of males divided by females</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-50" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 50</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-50" class="quiz-question">
+<h3>Question 50</h3>
+<p>In India, the census is undertaken by which method?</p>
+<ul>
+<li><span class="correct" data-explanation="India follows the de facto method (people counted where they are found during the enumeration period), with a revision round. It is often described as a modified de facto method. De jure counts people at their usual residence.">De facto</span></li>
+<li>De jure</li>
+<li>Both of these</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-51" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 51</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-51" class="quiz-question">
+<h3>Question 51</h3>
+<p>The authority for overall administration and conduct of the census in India is the:</p>
+<ul>
+<li>Registrar of Births and Deaths</li>
+<li><span class="correct" data-explanation="The census is conducted under the Census Act, 1948 by the Office of the Registrar General and Census Commissioner, India, under the Ministry of Home Affairs.">Census Commissioner of India</span></li>
+<li>Secretary, Ministry of Home Affairs</li>
+<li>Union Health Minister</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-52" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 52</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-52" class="quiz-question">
+<h3>Question 52</h3>
+<p>Which of the following enumeration methods has legal backing through an Act passed by Parliament?</p>
+<ul>
+<li><span class="correct" data-explanation="The Census Act, 1948 provides the legal basis for the census. SRS, MRS and NFHS are administrative or sample surveys without a dedicated Act.">Census</span></li>
+<li>Sample Registration System</li>
+<li>Model Registration Scheme</li>
+<li>Family Health Survey</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-53" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 53</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-53" class="quiz-question">
+<h3>Question 53</h3>
+<p>Which of the following is NOT a part of vital statistics?</p>
+<ul>
+<li>Registration of births</li>
+<li><span class="correct" data-explanation="Vital events are births, deaths, marriages, divorces, foetal deaths and adoptions. Hospital patient registers are health-service records.">Registration of patients in hospitals</span></li>
+<li>Registration of deaths</li>
+<li>Registration of marriages</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-54" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 54</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-54" class="quiz-question">
+<h3>Question 54</h3>
+<p>The annual publication “National Health Profile – India” is published by:</p>
+<ul>
+<li>Indian Council of Medical Research</li>
+<li>Central Health Education Bureau</li>
+<li><span class="correct" data-explanation="CBHI, under DGHS, MoHFW, publishes the National Health Profile every year.">Central Bureau of Health Intelligence</span></li>
+<li>National Centre for Disease Control</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-55" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 55</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-55" class="quiz-question">
+<h3>Question 55</h3>
+<p>Which of the following is the latest in the series of National Family Health Surveys (NFHS)?</p>
+<ul>
+<li>NFHS-3</li>
+<li>NFHS-4</li>
+<li>NFHS-5</li>
+<li><span class="correct" data-explanation="NFHS-6 (fieldwork 2023–24) fact sheets were released by MoHFW in May 2026. The textbook’s answer, NFHS-5 (2019–21), was correct when it was printed. Retrieved 28 Oct 2026.">NFHS-6</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-56" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 56</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-56" class="quiz-question">
+<h3>Question 56</h3>
+<p>The authority for overall administration and conduct of the Sample Registration System (SRS) in India is the:</p>
+<ul>
+<li><span class="correct" data-explanation="SRS is run by the Office of the Registrar General of India (since 1964–65 pilot, full scale from 1969–70).">Registrar General of India</span></li>
+<li>Census Commissioner of India</li>
+<li>Secretary, Ministry of Home Affairs</li>
+<li>Union Health Minister</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-57" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 57</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-57" class="quiz-question">
+<h3>Question 57</h3>
+<p>Once data have been summarized to obtain information, and then evaluated by experts from socioeconomic, demographic and health angles, they are known as:</p>
+<ul>
+<li>Data</li>
+<li>Information</li>
+<li><span class="correct" data-explanation="Hierarchy: data (raw facts) → information (processed, summarized data) → intelligence (information evaluated and interpreted for decision-making). Hence the name Central Bureau of Health Intelligence.">Intelligence</span></li>
+<li>Policy</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-58" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 58</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-58" class="quiz-question">
+<h3>Question 58</h3>
+<p>Which of the following enumeration methods has separate units for enumeration in rural and urban areas?</p>
+<ul>
+<li>Census</li>
+<li><span class="correct" data-explanation="The SRS sampling frame uses villages (or segments) as rural units and census enumeration blocks as urban units, with separate estimates for each.">SRS</span></li>
+<li>MRS</li>
+<li>NFHS</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-59" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 59</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-59" class="quiz-question">
+<h3>Question 59</h3>
+<p>The “double recording” (dual record) system of enumeration is used in which of the following?</p>
+<ul>
+<li>Census</li>
+<li>Facilities Survey</li>
+<li>RHS</li>
+<li><span class="correct" data-explanation="SRS combines continuous enumeration by a part-time local enumerator with an independent half-yearly retrospective survey by a supervisor. Unmatched events are re-verified.">SRS</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-60" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 60</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-60" class="quiz-question">
+<h3>Question 60</h3>
+<p>The “Rapid Household Survey” and “Facilities Survey” are conducted under the overall responsibility of the:</p>
+<ul>
+<li>Registrar of Births and Deaths</li>
+<li>Census Commissioner</li>
+<li><span class="correct" data-explanation="The RCH Rapid Household Survey and Facility Survey (later DLHS) were run to monitor the RCH programme at district level.">Reproductive and Child Health programme</span></li>
+<li>Ministry of Social Welfare</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-61" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 61</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-61" class="quiz-question">
+<h3>Question 61</h3>
+<p>In 2016, results for 13 states and 2 union territories were released in respect of which survey?</p>
+<ul>
+<li>Census</li>
+<li>Facilities Survey</li>
+<li><span class="correct" data-explanation="NFHS-4 (2015–16) fact sheets were released in phases. The first phase, in early 2016, covered 13 states and 2 UTs.">NFHS-4</span></li>
+<li>NFHS-5</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-62" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 62</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-62" class="quiz-question">
+<h3>Question 62</h3>
+<p>Which of the following is a good method of obtaining data on morbidity due to a number of common and important diseases in our country?</p>
+<ul>
+<li>Census</li>
+<li>SRS</li>
+<li>Death certificates</li>
+<li><span class="correct" data-explanation="IDSP (now on the IHIP digital platform) collects weekly syndromic, presumptive and laboratory-confirmed data on epidemic-prone diseases. Census, SRS and death certificates give demographic or mortality data.">IDSP</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-63" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 63</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-63" class="quiz-question">
+<h3>Question 63</h3>
+<p>Which source of information is best for developing a sentinel surveillance system for important diseases?</p>
+<ul>
+<li>Census</li>
+<li><span class="correct" data-explanation="Sentinel surveillance uses selected reporting sites, usually hospitals and laboratories, to pick up cases (e.g. AFP surveillance for polio, sentinel sites for HIV).">Hospital-based data</span></li>
+<li>NFHS</li>
+<li>Registration of births</li>
+</ul>
+</section>
 </section>
 <section id="lecture-5-descriptive-epidemiology" class="slide level2 center" data-background-color="#E6EEF5">
 <h2>Lecture 5: Descriptive Epidemiology</h2>
@@ -298,164 +1887,695 @@
 <section id="descriptive-epidemiology-person-place-time" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Descriptive Epidemiology: Person, Place, Time</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p>Descriptive epidemiology characterizes <strong>who, where, and when</strong> disease occurs — the first step before asking <em>why</em> (analytical epidemiology):</p>
+<p>Descriptive epidemiology describes <strong>who, where and when</strong>: the first step before asking <em>why</em> (analytical epidemiology). Its output is a <strong>hypothesis</strong>.</p>
+<p><strong>Steps in a descriptive study:</strong></p>
+<ol type="1">
+<li>Define the population to be studied</li>
+<li>Define the disease under study (an operational case definition)</li>
+<li>Describe the disease by <strong>time, place and person</strong></li>
+<li>Measure the disease (rates and ratios)</li>
+<li>Compare with known indices (other populations, past years)</li>
+<li>Formulate an etiological hypothesis</li>
+</ol>
+</section>
+<section id="time-patterns-of-disease" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Time Patterns of Disease</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
 <ul>
-<li><strong>Person</strong> — age, sex, occupation, socioeconomic status, ethnicity, behaviour</li>
-<li><strong>Place</strong> — urban vs.&nbsp;rural, national/international variation, local clustering</li>
-<li><strong>Time</strong> — secular (long-term) trends, seasonal patterns, cyclical patterns, and point-source (epidemic) patterns</li>
+<li><strong>Short-term fluctuations (epidemics)</strong>: common-source (single exposure, or continuous/repeated) and propagated</li>
+<li><strong>Periodic fluctuations</strong>:
+<ul>
+<li><strong>Seasonal</strong>: a regular variation with season, such as diarrhoea in summer/monsoon or measles in early spring</li>
+<li><strong>Cyclic</strong>: a recurrence over a few years, such as measles every 2–3 years before mass immunization</li>
+</ul></li>
+<li><strong>Long-term (secular) trend</strong>: a gradual change over decades, such as declining TB mortality or a rising CHD, diabetes and lung cancer burden</li>
+</ul>
+<p>Secular trends help doctors and planners judge whether a problem is growing, and evaluate the long-term impact of programmes.</p>
+</section>
+<section id="epidemics-and-the-epidemic-curve" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Epidemics and the Epidemic Curve</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/epidemic_curves.svg" class="slide-img" width="900"></p>
+<figcaption>Epidemic curve types</figcaption>
+</figure>
+</div>
+<ul>
+<li><strong>Epidemic</strong>: cases clearly in excess of normal expectancy</li>
+<li><strong>Endemic</strong>: constant presence of a disease at its usual level in an area</li>
+<li><strong>Sporadic</strong>: scattered, irregular cases with no apparent link (e.g.&nbsp;tetanus)</li>
+<li><strong>Exotic</strong>: a disease imported into a country where it does not otherwise occur (e.g.&nbsp;yellow fever if introduced into India)</li>
 </ul>
 </section>
-<section id="types-of-epidemiological-studies-overview" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Types of Epidemiological Studies (Overview)</h2>
+<section id="place-distribution" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Place Distribution</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>Three broad categories — detailed study designs are covered in <a href="../foundations/epidemiologic-methods.html">Epidemiologic Methods</a>:</p>
 <ul>
-<li><strong>Descriptive</strong> — describes distribution (person/place/time); generates hypotheses but cannot test them</li>
-<li><strong>Analytical</strong> — tests hypotheses by comparing exposed vs.&nbsp;unexposed groups (e.g.&nbsp;cohort, case-control studies)</li>
-<li><strong>Experimental</strong> — the investigator actively assigns exposure/ intervention (e.g.&nbsp;randomized controlled trials)</li>
+<li><strong>International variation</strong>: e.g.&nbsp;oral cancer common in India and stomach cancer in Japan. Climate, diet, culture and health systems all differ.</li>
+<li><strong>National variation</strong>: e.g.&nbsp;kala-azar in Bihar and Jharkhand, endemic goitre in the iodine-deficient sub-Himalayan belt, and malaria in the forest and tribal belt.</li>
+<li><strong>Rural–urban differences</strong>: in population density, sanitation, lifestyle and access to care.</li>
+<li><strong>Local distributions</strong>: spot maps, as in Snow’s cholera map.</li>
+<li><strong>Migration studies</strong>: compare migrants with their home and host populations. Japanese migrants to the USA: stomach cancer <strong>fell</strong> and colon cancer <strong>rose</strong> toward host levels within a generation, so environmental factors outweigh genes.</li>
 </ul>
 </section>
-<section id="uses-of-epidemiology" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Uses of Epidemiology</h2>
+<section id="person-distribution" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Person Distribution</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
-<ul>
-<li>Assessing the community’s health status and identifying its health problems</li>
-<li>Studying the natural history and prognosis of disease</li>
-<li>Identifying syndromes by describing clinical patterns</li>
-<li>Completing the clinical picture of chronic diseases by finding sub-clinical and mild cases</li>
-<li>Searching for causes of disease by comparing rates in different population subgroups</li>
-<li>Evaluating the effectiveness and efficiency of health services and interventions</li>
-</ul>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Variable</th>
+<th>Example of what it reveals</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Age</strong></td>
+<td>Bimodal age curve in Hodgkin lymphoma; childhood infections; NCDs rise with age</td>
+</tr>
+<tr class="even">
+<td><strong>Sex</strong></td>
+<td>More IHD in men, more gallstones and thyroid disease in women</td>
+</tr>
+<tr class="odd">
+<td><strong>Ethnicity/race</strong></td>
+<td>Sickle-cell disease, thalassaemia</td>
+</tr>
+<tr class="even">
+<td><strong>Occupation</strong></td>
+<td>Silicosis, byssinosis, needle-stick infections</td>
+</tr>
+<tr class="odd">
+<td><strong>Socioeconomic status</strong></td>
+<td>Social gradient in TB, malnutrition, infant mortality</td>
+</tr>
+<tr class="even">
+<td><strong>Marital status, behaviour</strong></td>
+<td>Cervical cancer and sexual behaviour; smoking, alcohol, diet</td>
+</tr>
+<tr class="odd">
+<td><strong>Stress, migration</strong></td>
+<td>Hypertension, mental illness</td>
+</tr>
+</tbody>
+</table>
 </section>
 <section id="operational-case-definitions" class="slide level2 center" data-background-color="#FFF6DA">
 <h2>Operational Case Definitions</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
-<p>A clinician can revise a diagnosis later if it turns out to be wrong. An epidemiologist cannot: the study needs a definition <strong>fixed in advance</strong> that any field worker can apply consistently to classify a person as a case or not.</p>
+<p>A clinician can revise a diagnosis later. An epidemiologist cannot: the study needs a definition <strong>fixed in advance</strong> that any field worker can apply the same way.</p>
 <ul>
-<li>An <strong>operational definition</strong> spells out exact, measurable criteria — e.g.&nbsp;tonsillitis defined not just clinically, but as “enlarged, red tonsils with white exudate, throat swab culture positive for <em>S. pyogenes</em>”</li>
-<li>It must be <strong>precise</strong> (unambiguous), <strong>valid</strong> (actually captures the disease), and <strong>applicable</strong> across large populations and different observers</li>
-<li>Once set, the case definition is used <strong>throughout the study</strong> — changing it mid-study breaks comparability between phases</li>
+<li><strong>Example</strong>: tonsillitis defined as “enlarged, red tonsils with white exudate, throat swab culture positive for <em>S. pyogenes</em>”</li>
+<li><strong>Requirements</strong>: it must be <strong>precise</strong> (unambiguous), <strong>valid</strong> and <strong>applicable</strong> across large populations and different observers</li>
+<li><strong>Tiers</strong> (WHO/IDSP style):
+<ul>
+<li><strong>suspected</strong>: clinical picture only</li>
+<li><strong>probable</strong>: clinical picture plus supportive non-specific tests</li>
+<li><strong>confirmed</strong>: laboratory confirmation</li>
+</ul></li>
+<li><strong>Sensitivity vs specificity</strong>: a broad definition such as “fever for 1 day” for dengue is very sensitive but not specific</li>
 </ul>
-<p><strong>Why it matters:</strong> without this, “who counts as a case” varies by observer, and rates computed from the data become impossible to compare or replicate.</p>
+<p>Changing the definition mid-study breaks comparability between phases.</p>
 </section>
-<section id="time-patterns-of-disease" class="slide level2 center" data-background-color="#FFF6DA">
-<h2>Time Patterns of Disease</h2>
+<section id="variables-scales-and-populations" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Variables, Scales, and Populations</h2>
 <p>🟡 <strong>SHOULD KNOW</strong></p>
+<p>A <strong>variable</strong> is a characteristic that differs between subjects (age, sex, BP). Its values form a <strong>data set</strong>.</p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Scale</th>
+<th>Type</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Nominal: dichotomous / polychotomous</td>
+<td>Qualitative</td>
+<td>Survived/died; lung, heart or other disease</td>
+</tr>
+<tr class="even">
+<td>Ordinal</td>
+<td>Qualitative (ordered)</td>
+<td>No, mild, moderate or severe blockage</td>
+</tr>
+<tr class="odd">
+<td>Numerical discrete</td>
+<td>Quantitative</td>
+<td>Gravida, number of children</td>
+</tr>
+<tr class="even">
+<td>Numerical continuous</td>
+<td>Quantitative</td>
+<td>Coronary diameter, Hb</td>
+</tr>
+</tbody>
+</table>
 <ul>
-<li><strong>Secular trend</strong> — gradual change in disease frequency over years to decades (e.g.&nbsp;declining infectious disease, rising NCD burden)</li>
-<li><strong>Seasonal trend</strong> — regular, predictable variation tied to season (e.g.&nbsp;diarrheal disease peaking in summer/monsoon)</li>
-<li><strong>Cyclical trend</strong> — periodic variation over a few years (e.g.&nbsp;some vaccine-preventable diseases before mass immunization)</li>
-<li><strong>Point epidemic</strong> — a sharp spike from a common source over a short period (e.g.&nbsp;a contaminated water source)</li>
+<li><strong>Reference population</strong> (= target, source or universe): the population the results are meant to apply to</li>
+<li><strong>Study (actual) population</strong>: the subset from which the <strong>sample</strong> is actually drawn. The sample must be <strong>adequately large</strong> and <strong>representative</strong>.</li>
+<li><strong>External validity</strong>: the ability to generalize from the study population to the reference population</li>
 </ul>
 </section>
-<section id="john-snow-and-the-broad-street-pump" class="slide level2 center" data-background-color="#E8E4F3">
-<h2>John Snow and the Broad Street Pump</h2>
-<p>🟣 <strong>MAY KNOW</strong></p>
-<p>In 1854, a severe cholera outbreak in London’s Soho district killed over 600 people in about ten days. <strong>John Snow</strong>, rejecting the then-dominant miasma (“bad air”) theory, mapped cholera deaths by address and traced them to a single water pump on Broad Street. He persuaded local authorities to remove the pump handle — after which the outbreak subsided. The contamination was later traced to a leaking sewer near the pump’s well.</p>
-<p><strong>Why it matters:</strong> this is widely regarded as the founding case study of modern epidemiology — using spatial/descriptive data to identify a cause and act, <em>before</em> germ theory or laboratory confirmation existed.</p>
+<section id="types-of-epidemiological-studies-overview" class="slide level2 center" data-background-color="#E3F2E1">
+<h2>Types of Epidemiological Studies (Overview)</h2>
+<p>🟢 <strong>MUST KNOW</strong></p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/epidemiology/study_designs.svg" class="slide-img" width="780"></p>
+<figcaption>Classification of epidemiological study designs</figcaption>
+</figure>
+</div>
+<p>A <strong>2 × 2 table</strong> (exposure × outcome) can only be built when groups are <strong>compared</strong>, so it belongs to analytical and experimental studies, never purely descriptive ones.</p>
 </section>
-<section id="population-at-risk" class="slide level2 center" data-background-color="#E8E4F3">
-<h2>Population at Risk</h2>
-<p>🟣 <strong>MAY KNOW</strong></p>
-<p>The <strong>denominator</strong> used in incidence and prevalence calculations should, strictly, be the “population at risk” — people who could potentially develop the disease being studied (e.g.&nbsp;excluding already-immune or already-affected individuals, or using only women for cervical cancer incidence). Using the wrong denominator is a common source of error in interpreting epidemiological rates.</p>
-</section>
-<section id="self-check-question-1" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 1</h2>
-<p>🧡 <strong>QUESTION</strong></p>
-<section id="question-1" class="quiz-question">
-<h3>Question 1</h3>
-<p>According to John Last’s definition, epidemiology studies the distribution and determinants of health-related states, and:</p>
+<section id="cross-sectional-and-ecological-studies" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Cross-Sectional and Ecological Studies</h2>
+<p>🟡 <strong>SHOULD KNOW</strong></p>
+<p><strong>Cross-sectional study:</strong> measures exposure and outcome <strong>at the same time</strong> in a defined population.</p>
 <ul>
-<li>Only treats individual patients</li>
-<li><span class="correct" data-explanation="The definition explicitly includes application of the findings to control health problems — epidemiology is not purely descriptive.">Applies this study to the control of health problems</span></li>
-<li>Focuses exclusively on infectious disease</li>
-<li>Excludes population-level analysis</li>
+<li>Gives <strong>prevalence</strong>; quick and cheap; useful for planning and for chronic disease</li>
+<li><strong>Limitation</strong>: it cannot show which came first (no temporality), and it over-represents long-duration cases</li>
+</ul>
+<p><strong>Ecological (correlational) study:</strong> the unit of analysis is a <strong>group or population</strong>, not individuals. An example is national smoking rates against national lung-cancer rates.</p>
+<ul>
+<li>Fast, uses routine data, and generates hypotheses</li>
+<li><strong>Ecological fallacy</strong>: a group-level association need not hold for individuals (Lecture 9)</li>
 </ul>
 </section>
+<section id="practice-questions-descriptive-lecture-5" class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 5)</h2>
+<p><strong>For written practice — work through these on paper; no auto-check for this slide.</strong></p>
+<p><strong>Long Essay</strong></p>
+<ol type="1">
+<li>Classify epidemiological studies. Describe the distribution of disease by time, place, and person with respect to descriptive epidemiological studies.</li>
+</ol>
+<p><strong>Short Essay / Short Answer</strong></p>
+<ol start="2" type="1">
+<li>What are secular trends? How are they useful to doctors?</li>
+<li>What are cross-sectional studies? Mention the advantages and limitations of this study design.</li>
+</ol>
 </section>
-<section id="self-check-question-2" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 2</h2>
+<section id="practice-questions-descriptive-lecture-5-contd." class="slide level2 center" data-background-color="#FFF6DA">
+<h2>Practice Questions: Descriptive (Lecture 5, contd.)</h2>
+<p><strong>Short Notes</strong></p>
+<ol start="4" type="1">
+<li>Ecological studies.</li>
+<li>Types of epidemics and the epidemic curve.</li>
+<li>Propagated epidemic.</li>
+<li>Migration studies.</li>
+<li>Epidemic.</li>
+<li>Sporadic diseases.</li>
+<li>Exotic diseases, with examples.</li>
+</ol>
+</section>
+<section id="self-check-question-64" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 64</h2>
 <p>🧡 <strong>QUESTION</strong></p>
-<section id="question-2" class="quiz-question">
-<h3>Question 2</h3>
-<p>“12 new cases of disease per 1,000 population per year” is an example of a:</p>
-<ul>
-<li>Ratio</li>
-<li>Proportion</li>
-<li><span class="correct" data-explanation="A rate is a proportion with a time dimension built in — here, 'per year' makes it a rate rather than a plain proportion.">Rate</span></li>
-<li>Odds</li>
-</ul>
-</section>
-</section>
-<section id="self-check-question-3" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 3</h2>
-<p>🧡 <strong>QUESTION</strong></p>
-<section id="question-3" class="quiz-question">
-<h3>Question 3</h3>
-<p>A disease with a long duration but low incidence will typically show:</p>
-<ul>
-<li>Low prevalence</li>
-<li><span class="correct" data-explanation="Prevalence ≈ Incidence × Duration. A long duration can produce high prevalence even with low incidence — this is exactly why the two measures must not be confused.">High prevalence</span></li>
-<li>Zero prevalence</li>
-<li>Prevalence equal to incidence</li>
-</ul>
-</section>
-</section>
-<section id="self-check-question-4" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 4</h2>
-<p>🧡 <strong>QUESTION</strong></p>
-<section id="question-4" class="quiz-question">
-<h3>Question 4</h3>
+<section id="question-64" class="quiz-question">
+<h3>Question 64</h3>
 <p>Which of the following is a “person” variable in descriptive epidemiology?</p>
 <ul>
-<li>Urban vs.&nbsp;rural residence</li>
+<li>Urban vs rural residence</li>
 <li>Seasonal variation</li>
-<li><span class="correct" data-explanation="Occupation is a person-level characteristic. Urban/rural residence is a place variable; seasonal variation is a time variable.">Occupation</span></li>
+<li><span class="correct" data-explanation="Occupation is a person characteristic. Urban/rural residence is a place variable, and seasonal variation and secular trend are time variables.">Occupation</span></li>
 <li>Secular trend</li>
 </ul>
 </section>
 </section>
-<section id="self-check-question-5" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 5</h2>
+<section id="self-check-question-65" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 65</h2>
 <p>🧡 <strong>QUESTION</strong></p>
-<section id="question-5" class="quiz-question">
-<h3>Question 5</h3>
-<p>John Snow’s 1854 investigation is best known for:</p>
+<section id="question-65" class="quiz-question">
+<h3>Question 65</h3>
+<p>“The incidence of malaria is very high among migrant labourers in Odisha, Jharkhand and Chhattisgarh.” This statement includes which component(s) of epidemiology?</p>
 <ul>
-<li>Confirming germ theory in a laboratory</li>
-<li><span class="correct" data-explanation="Snow used descriptive, spatial data — without germ theory or lab confirmation — to trace the outbreak to the Broad Street pump.">Tracing a cholera outbreak to a contaminated water pump using mapped case data</span></li>
-<li>Discovering the cholera bacterium</li>
-<li>Establishing Koch’s postulates</li>
+<li>Frequency</li>
+<li>Place distribution</li>
+<li>Person distribution</li>
+<li><span class="correct" data-explanation="“Very high incidence” is frequency, “migrant labourers” is person, and the three states are place. All three components are present.">All of these</span></li>
 </ul>
 </section>
 </section>
-<section id="self-check-question-6" class="slide level2 center" data-background-color="#FDE8E8">
-<h2>Self-Check: Question 6</h2>
+<section id="self-check-question-66" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 66</h2>
 <p>🧡 <strong>QUESTION</strong></p>
-<section id="question-6" class="quiz-question">
-<h3>Question 6</h3>
-<p>A study that actively assigns an intervention to participants (rather than only observing existing exposure) is classified as:</p>
+<section id="question-66" class="quiz-question">
+<h3>Question 66</h3>
+<p>In the statement “55% of pregnant women in India are likely to have anaemia,” which component of epidemiology is NOT included?</p>
+<ul>
+<li>Frequency</li>
+<li>Person-related distribution</li>
+<li>Place-related distribution</li>
+<li><span class="correct" data-explanation="55% is frequency, pregnant women is person, and India is place. No time period is stated.">Time-related distribution</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-67" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 67</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-67" class="quiz-question">
+<h3>Question 67</h3>
+<p>In the statement “Tobacco smoking increases the risk of IHD by three times,” the epidemiological aspect covered pertains to:</p>
+<ul>
+<li>Person-related distribution</li>
+<li>Place-related distribution</li>
+<li>Time-related distribution</li>
+<li><span class="correct" data-explanation="A risk factor and its strength of association (RR = 3) concern determinants, the “why” of disease, not its distribution.">Determinants</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-68" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 68</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-68" class="quiz-question">
+<h3>Question 68</h3>
+<p>During an outbreak investigation, the number of new cases rises rapidly over a short period and then falls sharply after removal of a common source. This epidemic curve is most consistent with a:</p>
+<ul>
+<li>Propagated epidemic</li>
+<li><span class="correct" data-explanation="In a continuous (or repeated) common-source epidemic, cases keep occurring while the source is active and drop abruptly once it is removed (e.g. Broad Street pump handle). A propagated epidemic shows successive generations with a gradual rise and tail.">Continuous common-source epidemic</span></li>
+<li>Intermittent common-source epidemic</li>
+<li>Seasonal epidemic</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-69" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 69</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-69" class="quiz-question">
+<h3>Question 69</h3>
+<p>Descriptive studies perform which of the following functions?</p>
+<ul>
+<li><span class="correct" data-explanation="Descriptive studies (time, place, person) generate hypotheses. Analytical studies test them by comparing groups.">Generate hypotheses</span></li>
+<li>Compare people with disease with those without disease</li>
+<li>Compare people with exposure with those without exposure</li>
+<li>Test hypotheses</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-70" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 70</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-70" class="quiz-question">
+<h3>Question 70</h3>
+<p>A 2 × 2 table showing the four cells E+O+, E+O−, E−O+ and E−O− is seen in a:</p>
+<ul>
+<li>Descriptive study</li>
+<li><span class="correct" data-explanation="A 2 × 2 table needs a comparison of exposure against outcome between groups. That comparison is the hallmark of analytical (and experimental) studies.">Analytical study</span></li>
+<li>Both of these</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-71" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 71</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-71" class="quiz-question">
+<h3>Question 71</h3>
+<p>The 2 × 2 table of exposure (present/absent) against outcome (present/absent) will NOT be formed in a:</p>
+<ul>
+<li><span class="correct" data-explanation="A descriptive study has no comparison group, so no exposure × outcome matrix can be built.">Descriptive study</span></li>
+<li>Case-control study</li>
+<li>Cohort study</li>
+<li>Experimental study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-72" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 72</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-72" class="quiz-question">
+<h3>Question 72</h3>
+<p>In a standard 2 × 2 table, cell “a” represents all those who are:</p>
+<ul>
+<li>Having the exposure but not the outcome</li>
+<li>Having the outcome but not the exposure</li>
+<li><span class="correct" data-explanation="Convention: rows = exposure (+/−), columns = outcome (+/−). a = E+O+, b = E+O−, c = E−O+, d = E−O−.">Having both the exposure and the outcome</span></li>
+<li>Having neither the exposure nor the outcome</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-73" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 73</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-73" class="quiz-question">
+<h3>Question 73</h3>
+<p>Another name for an experimental study is:</p>
+<ul>
+<li><span class="correct" data-explanation="In experimental (interventional) studies the investigator deliberately assigns the exposure or intervention.">Interventional study</span></li>
+<li>Case-control study</li>
+<li>Cohort study</li>
+<li>Cross-sectional study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-74" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 74</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-74" class="quiz-question">
+<h3>Question 74</h3>
+<p>The main difference between an experimental and a cohort design is that:</p>
+<ul>
+<li>One is analytical while the other is not</li>
+<li>Subjects are followed up in one but not in the other</li>
+<li><span class="correct" data-explanation="Both are analytical and both follow subjects forward. In a cohort study the investigator only observes naturally occurring exposure. In an experiment the investigator assigns it.">One is observational while the other is not</span></li>
+<li>One is descriptive while the other is not</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-75" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 75</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-75" class="quiz-question">
+<h3>Question 75</h3>
+<p>A study on children with acute glomerulonephritis found that 20% gave a history of acute sore throat 3–4 weeks before onset of renal symptoms. This is an example of a:</p>
+<ul>
+<li><span class="correct" data-explanation="Only cases were studied and their characteristics described. Without a control group there is no comparison, so it is descriptive (a case series).">Descriptive study</span></li>
+<li>Case-control study</li>
+<li>Cohort study</li>
+<li>Clinical trial</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-76" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 76</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-76" class="quiz-question">
+<h3>Question 76</h3>
+<p>For establishing a cause-and-effect relationship, we need to undertake a:</p>
+<ul>
+<li>Case-control study</li>
+<li>Cohort study</li>
+<li>Experimental study</li>
+<li><span class="correct" data-explanation="Any analytical or experimental design that compares groups can test a causal hypothesis. The strength of the evidence rises from case-control to cohort to experiment.">Any one of these</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-77" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 77</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-77" class="quiz-question">
+<h3>Question 77</h3>
+<p>Case-control and cohort studies belong to which type of epidemiological design?</p>
+<ul>
+<li>Experimental analytical</li>
+<li><span class="correct" data-explanation="Both compare groups (analytical) without the investigator assigning exposure (observational).">Observational analytical</span></li>
+<li>Observational descriptive</li>
+<li>Experimental descriptive</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-78" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 78</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-78" class="quiz-question">
+<h3>Question 78</h3>
+<p>In which study are the exposure and outcome variables studied at the same point of time?</p>
+<ul>
+<li>Case-control study</li>
+<li><span class="correct" data-explanation="A cross-sectional study takes a snapshot, measuring exposure and outcome together. This is why it cannot establish temporality.">Cross-sectional analytical study</span></li>
+<li>Cohort study</li>
+<li>Experimental study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-79" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 79</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-79" class="quiz-question">
+<h3>Question 79</h3>
+<p>In a retrospective study, we find the history of:</p>
+<ul>
+<li><span class="correct" data-explanation="A retrospective (case-control) study starts from outcome status and looks back for past exposure.">Exposure among those having or not having the outcome</span></li>
+<li>Outcome among those having or not having the exposure</li>
+<li>Both exposure and outcome at the same time</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-80" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 80</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-80" class="quiz-question">
+<h3>Question 80</h3>
+<p>When the investigator creates two groups by randomization and introduces the exposure in one group while withholding it from the other, it is known as a:</p>
+<ul>
+<li>Descriptive study</li>
+<li>Case-control study</li>
+<li>Cohort study</li>
+<li><span class="correct" data-explanation="Random allocation plus deliberate manipulation of exposure defines an experimental study, i.e. a randomized controlled trial.">Experimental study</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-81" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 81</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-81" class="quiz-question">
+<h3>Question 81</h3>
+<p>To study the incidence of malaria according to various age and sex groups in a village, we need to undertake a:</p>
+<ul>
+<li><span class="correct" data-explanation="Describing frequency by person characteristics (age, sex) in one place is descriptive epidemiology.">Descriptive study</span></li>
+<li>Case-control study</li>
+<li>Cohort study</li>
+<li>Experimental study</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-82" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 82</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-82" class="quiz-question">
+<h3>Question 82</h3>
+<p>“Comparison between two groups” is the hallmark of a(n):</p>
+<ul>
+<li>Descriptive study</li>
+<li><span class="correct" data-explanation="Analytical studies compare exposed vs unexposed, or cases vs controls. Descriptive studies only describe.">Analytical study</span></li>
+<li>Both of these</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-83" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 83</h2>
+<p>🧡 <strong>QUESTION (select ALL that apply)</strong></p>
+<section id="question-83" class="quiz-question quiz-multiple">
+<h3>Question 83</h3>
+<p>Typical epidemiological study designs include:</p>
+<ul>
+<li><span class="correct" data-explanation="Cohort, cross-sectional and case-control are standard designs. A case report is descriptive, not analytical, and has no comparison group.">Cohort study</span></li>
+<li>Clinical case report as an analytical design</li>
+<li><span class="correct">Cross-sectional study</span></li>
+<li><span class="correct">Case-control study</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-84" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 84</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-84" class="quiz-question">
+<h3>Question 84</h3>
+<p>A country-level comparison of average salt intake against average blood pressure across nations, without individual-level data, is an example of:</p>
+<ul>
+<li>A cohort study</li>
+<li>A case-control study</li>
+<li><span class="correct" data-explanation="Comparing exposure and outcome across groups or populations rather than individuals defines an ecological study. It is vulnerable to the ecological fallacy.">An ecological study</span></li>
+<li>A randomized controlled trial</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-85" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 85</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-85" class="quiz-question">
+<h3>Question 85</h3>
+<p>A study that actively assigns an intervention to participants, rather than only observing existing exposure, is classified as:</p>
 <ul>
 <li>Descriptive</li>
-<li>Analytical</li>
-<li><span class="correct" data-explanation="Experimental studies are defined by the investigator actively assigning the exposure/intervention, e.g. in a randomized controlled trial.">Experimental</span></li>
+<li>Analytical (observational)</li>
+<li><span class="correct" data-explanation="Experimental studies are defined by the investigator actively assigning the exposure or intervention.">Experimental</span></li>
 <li>Ecological</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-86" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 86</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-86" class="quiz-question">
+<h3>Question 86</h3>
+<p>A quality, characteristic or constituent of a subject that can be measured and is likely to differ from one person to another is called a:</p>
+<ul>
+<li>Case definition</li>
+<li><span class="correct" data-explanation="A variable is any characteristic that varies between subjects, such as age, sex or blood pressure.">Variable</span></li>
+<li>Both of these</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-87" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 87</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-87" class="quiz-question">
+<h3>Question 87</h3>
+<p>Which of the following is a “variable” from the epidemiological and statistical points of view?</p>
+<ul>
+<li>Age</li>
+<li>Sex</li>
+<li>Blood pressure</li>
+<li><span class="correct" data-explanation="All three vary between persons. Age and BP are quantitative variables, and sex is a qualitative (nominal) variable.">All of these</span></li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-88" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 88</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-88" class="quiz-question">
+<h3>Question 88</h3>
+<p>A “numerical discrete scale” belongs to which class of measurement scales?</p>
+<ul>
+<li>Qualitative</li>
+<li><span class="correct" data-explanation="Numerical scales, whether discrete (counts, e.g. parity) or continuous (e.g. Hb), are quantitative.">Quantitative</span></li>
+<li>Both of these</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-89" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 89</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-89" class="quiz-question">
+<h3>Question 89</h3>
+<p>Match each method of recording data with its scale of measurement. <strong>A</strong> satisfaction scored −2 to +2; <strong>B</strong> gravida status; <strong>C</strong> survived/died at 5 years; <strong>D</strong> angiogram: no/mild/moderate/severe blockage; <strong>E</strong> actual coronary diameter; <strong>F</strong> diagnosis: lung / heart / other disease. Scales: (i) dichotomous–nominal (ii) numerical–continuous (iii) polychotomous–ordinal (iv) numerical–ordinal (v) discrete–numerical (vi) nominal–polychotomous.</p>
+<ul>
+<li><span class="correct" data-explanation="Scored satisfaction −2 to +2 is numerical–ordinal. Gravida is a discrete count. Survived/died is dichotomous. Graded blockage is ordered categories (polychotomous–ordinal). Diameter is continuous. Lung/heart/other are unordered categories (nominal–polychotomous).">A-iv, B-v, C-i, D-iii, E-ii, F-vi</span></li>
+<li>A-iii, B-v, C-i, D-iv, E-ii, F-vi</li>
+<li>A-iv, B-ii, C-vi, D-iii, E-v, F-i</li>
+<li>A-v, B-iv, C-i, D-iii, E-ii, F-vi</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-90" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 90</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-90" class="quiz-question">
+<h3>Question 90</h3>
+<p>A study set out to find what percentage of visitors of commercial sex workers in Mumbai use condoms, but interviewed only truck drivers eating at one roadside restaurant outside Mumbai. Condom use was 25%. This conclusion is likely to suffer from:</p>
+<ul>
+<li>Lack of ethics</li>
+<li><span class="correct" data-explanation="The reference population was all CSW visitors in Mumbai, but the study population was truck drivers at one restaurant. The findings cannot be generalized, so external validity is lacking.">Lack of external validity</span></li>
+<li>None of the previous two</li>
+<li>The study was not required at all</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-91" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 91</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-91" class="quiz-question">
+<h3>Question 91</h3>
+<p>Which of the following correctly lists the synonyms of “reference population”?</p>
+<ul>
+<li><span class="correct" data-explanation="Reference population = target population = source population = universe. The study (actual) population is the subset from which the sample is actually drawn.">Target population, source population, or universe</span></li>
+<li>Target population, study population, or universe</li>
+<li>Target population, source population, or external population</li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-92" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 92</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-92" class="quiz-question">
+<h3>Question 92</h3>
+<p>The requirements of a sample are that it should be:</p>
+<ul>
+<li>Adequately large</li>
+<li>Representative</li>
+<li><span class="correct" data-explanation="A sample must be large enough for precision and representative of the study population for validity.">Both of these</span></li>
+<li>None of these</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-93" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 93</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-93" class="quiz-question">
+<h3>Question 93</h3>
+<p>An organized collection of the values of the various variables to be used for further analysis in an epidemiological study is known as a:</p>
+<ul>
+<li><span class="correct" data-explanation="A data set is the organized collection of recorded variable values (e.g. a spreadsheet of subjects × variables).">Data set</span></li>
+<li>Sample</li>
+<li>Statistic</li>
+<li>Population</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-94" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 94</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-94" class="quiz-question">
+<h3>Question 94</h3>
+<p>In which of the following is the sample studied the same as the total population?</p>
+<ul>
+<li>National Family Health Survey</li>
+<li>Sample Registration System</li>
+<li><span class="correct" data-explanation="A census is a complete enumeration of the whole population. NFHS, SRS and MRS are sample-based.">Census</span></li>
+<li>Model Registration Scheme</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-95" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 95</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-95" class="quiz-question">
+<h3>Question 95</h3>
+<p>If the case definition for dengue is “any person with fever for 1 day,” this definition is:</p>
+<ul>
+<li><span class="correct" data-explanation="Such a broad definition will capture almost every dengue case (high sensitivity) but also many non-dengue fevers (poor specificity).">Very sensitive but not specific</span></li>
+<li>Very specific but not sensitive</li>
+<li>Both very sensitive and very specific</li>
+<li>Neither sensitive nor specific</li>
+</ul>
+</section>
+</section>
+<section id="self-check-question-96" class="slide level2 center" data-background-color="#FDE8E8">
+<h2>Self-Check: Question 96</h2>
+<p>🧡 <strong>QUESTION</strong></p>
+<section id="question-96" class="quiz-question">
+<h3>Question 96</h3>
+<p>Fever rising in a step-ladder pattern, with initial constipation followed by pea-soup stools and TLC below 6000/mm³, falls into which category of case definition for enteric fever?</p>
+<ul>
+<li>Suspected case</li>
+<li><span class="correct" data-explanation="A compatible clinical picture plus supportive non-specific laboratory findings (leucopenia) makes a probable case. Confirmation needs isolation of S. Typhi or Paratyphi (blood culture).">Probable case</span></li>
+<li>Confirmed case</li>
+<li>None of these</li>
 </ul>
 </section>
 </section>
 <section id="references" class="slide level2 center" data-background-color="#FFF6DA">
 <h2>References</h2>
 <ol type="1">
-<li>Last, J.M. (Ed.) (1988). <em>A Dictionary of Epidemiology</em> (2nd ed.). Oxford University Press.</li>
-<li>Centers for Disease Control and Prevention. <em>Principles of Epidemiology in Public Health Practice</em> (3rd ed.).</li>
-<li>Snow, J. (1855). <em>On the Mode of Communication of Cholera</em> (2nd ed.).</li>
-<li>London Museum / London School of Hygiene and Tropical Medicine — historical records of the 1854 Broad Street cholera outbreak.</li>
-<li>Park, K. <em>Park’s Textbook of Preventive and Social Medicine</em> — standard reference for attack rate and operational case definitions.</li>
+<li>Last, J.M. (Ed.) (1988). <em>A Dictionary of Epidemiology</em>. Oxford University Press; Porta, M. (Ed.) (2014), 6th ed.</li>
+<li>Park, K. <em>Park’s Textbook of Preventive and Social Medicine</em> (latest ed.): epidemiology, mortality and morbidity measures, standardization, sources of health information.</li>
+<li><em>Community Medicine with Recent Advances</em> (9th ed.), Section 3 “Epidemiology”, Chapters 9–14: review exercises adapted as Self-Check MCQs.</li>
+<li>Faculty question bank, Section V “Epidemiology”, Chapter 19 <em>Principles and Practice of Epidemiology</em>: descriptive questions and MCQs.</li>
+<li>Office of the Registrar General, India. <em>SRS Statistical Report 2023</em> (released Sept 2025); MoHFW/IIPS, <em>NFHS-6 (2023–24) Fact Sheets</em> (May 2026). Retrieved 28 Oct 2026.</li>
+<li>Centers for Disease Control and Prevention. <em>Principles of Epidemiology in Public Health Practice</em> (3rd ed.); Snow, J. (1855). <em>On the Mode of Communication of Cholera</em>.</li>
 </ol>
+<p><strong>Want to practice?</strong> The <a href="epidemiology-question-bank.qmd">Epidemiology Question Bank</a> has every question from this chapter with answer keys.</p>
 </section>
 <section id="thank-you" class="slide level2 center">
 <h2>Thank You!</h2>
-<p><strong>Next Chapter:</strong> Epidemiologic Methods</p>
+<p><strong>Next Chapter:</strong> Epidemiologic Methods (CM7 Lectures 6–9)</p>
 <p><a href="concept-health-disease.html">← Previous</a> | <a href="#/home">Top</a> | <a href="../intro.html">Contents</a> | Chapter 3/29 | <a href="epidemiologic-methods.html">Next Chapter →</a></p>
 
 
