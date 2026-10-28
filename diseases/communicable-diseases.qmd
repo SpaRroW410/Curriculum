@@ -128,6 +128,24 @@ targeted.
 
 ---
 
+## The Agent in Disease Causation {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Agent**: a substance, living or non-living, whose presence (or absence) is essential for a disease to occur. It is one corner of the **epidemiological triad** of agent, host and environment (Chapter 2).
+
+| Type of agent | Examples |
+|---|---|
+| **Biological** | Viruses, bacteria, fungi, protozoa, helminths |
+| **Nutrient** (excess or deficiency) | Protein-energy malnutrition, obesity, vitamin deficiencies |
+| **Physical** | Heat, cold, radiation, noise |
+| **Chemical**: endogenous / exogenous | Urea (uraemia), bilirubin / lead, pesticides, allergens |
+| **Mechanical** | Injuries, chronic friction |
+| **Absence or insufficiency** | Lack of a hormone (insulin), chromosomal factors |
+| **Social** | Poverty, smoking, alcohol, stress |
+
+---
+
 ## Reservoirs of Infection {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -261,6 +279,15 @@ R₀ depends on the contact rate, the probability of transmission per contact, a
 4. Carriers.
 5. Incubation period and its uses.
 6. Basic reproduction number (R₀).
+
+---
+
+## Practice Questions: Descriptive (Lecture 10, contd.) {background-color="#FFF6DA"}
+
+**University Examination Questions**
+
+7. Epidemiological triad.
+8. Define “agent” in disease causation. Explain the different types of agents.
 
 ---
 
@@ -816,7 +843,24 @@ The standard CDC-style sequence for investigating a suspected outbreak:
 9. Implement control and prevention measures
 10. Communicate findings (report)
 
-In practice the steps overlap. Control measures often start before the investigation formally ends.
+In practice the steps overlap. Control measures often start before the investigation formally ends. Park and the textbook put **verification of the diagnosis** as the *very first* step (next slide).
+
+---
+
+## Investigation of an Epidemic: Park's Steps {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+1. **Verification of the diagnosis**: clinical examination of a sample of cases, plus laboratory confirmation
+2. **Confirmation of the existence of an epidemic**: compare with the same period of the **previous 3 years**
+3. **Defining the population at risk**: a map of the area, and the population denominator
+4. **Rapid search for all cases**: a **line list** (nominal roll of reported cases), active house-to-house search, and the epidemiological case sheet
+5. **Data analysis**: time (epidemic curve), place (spot map), person (age, sex, occupation)
+6. **Formulation of a hypothesis**: source, mode of spread, population affected
+7. **Testing the hypothesis**: compare attack rates in the exposed and unexposed (case-control or cohort)
+8. **Evaluation of ecological factors**: sanitation, water, vectors, food handling
+9. **Further investigation of the population at risk**: e.g. serological surveys
+10. **Writing the report**: with control measures and recommendations
 
 ---
 
@@ -869,6 +913,43 @@ Aggregating case sheets gives the time-place-person description from which hypot
 
 ---
 
+## Health Surveys {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Type | Gives | Note |
+|---|---|---|
+| **Cross-sectional** | Prevalence | Quick one-time snapshot |
+| **Longitudinal** | **Exact incidence**, natural history | Repeated observation of the same population |
+| **Hybrid** | Both | A cross-sectional baseline plus follow-up |
+| **Hospital-based** | Clinical patterns | Not representative of the community |
+
+- **Universe** (reference population) → study population → **sample**. Findings are generalized to the universe.
+- **Analysis of a community (descriptive) survey:** frequency distributions by age and sex, line diagrams of seasonal variation, and spot maps. Stratified analysis for confounding belongs to *analytical* studies.
+- **Ethics:** **informed consent**, **confidentiality**, and a **health-care benefit** such as treatment or referral for conditions found. A cash benefit is *not* an ethical requirement.
+
+---
+
+## Computers and Digital Health in Epidemiology {background-color="#E8E4F3"}
+
+🟣 **MAY KNOW**
+
+- **Software:**
+  - **Epi Info** (CDC, with WHO): free; questionnaires, outbreak analysis, maps
+  - SPSS, STATA, R for statistics
+  - Excel (spreadsheet) for budgets and line lists
+  - Access, FoxPro, dBase for databases
+- **PACS** (Picture Archiving and Communication System) transmits radiology images for quick remote diagnosis
+- **India's digital health:**
+  - **IHIP** (surveillance)
+  - **CoWIN** (COVID-19 vaccination registration; now **U-WIN** for routine immunization)
+  - **Aarogya Setu** (COVID-19 self-assessment and contact tracing)
+  - **NDHM** (announced 15 Aug 2020), relaunched in Sept 2021 as the **Ayushman Bharat Digital Mission (ABDM)**: ABHA health IDs, health records, and registries of facilities and professionals
+  - eSanjeevani telemedicine
+- **Helplines:** 14567 (Elderline, senior citizens), 102 (ambulance), 1075 (COVID-19)
+
+---
+
 ## Explore: Selected Diseases in Depth {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
@@ -915,6 +996,11 @@ Or browse the [module hub](cd.html) for an overview of all six.
    d. Mention two possible sources of infection in this locality.
    e. How does epidemiology help in planning control measures in such situations?
 
+**University Examination Questions**
+
+6. Enumerate the different types of epidemics. Write down the steps in the investigation of an epidemic.
+7. Monitoring and surveillance.
+
 ---
 
 ## Self-Check: Question 19 {background-color="#FDE8E8"}
@@ -941,12 +1027,12 @@ In the standard outbreak-investigation sequence, “develop hypotheses” comes 
 ::: {.quiz-question}
 ### Question 20
 
-When investigating a suspected outbreak, the first step after preparation for field work is to:
+On the IHIP platform under IDSP, the “P” form is used to report:
 
-- Implement control measures
-- [Confirm the existence of an epidemic and verify the diagnosis]{.correct data-explanation="First establish that cases really exceed expected numbers (not an artefact of better reporting) and that the diagnosis is correct. Everything else depends on this."}
-- Formulate a hypothesis
-- Write the report
+- Patients admitted to hospital
+- [Presumptive cases diagnosed by clinicians]{.correct data-explanation="S form: syndromic cases (health workers). P form: presumptive cases (medical officers/clinicians). L form: laboratory-confirmed cases."}
+- Polio cases only
+- Private-sector laboratory results
 :::
 
 ---
@@ -958,12 +1044,12 @@ When investigating a suspected outbreak, the first step after preparation for fi
 ::: {.quiz-question}
 ### Question 21
 
-On the IHIP platform under IDSP, the “P” form is used to report:
+Surveillance in which health workers make house-to-house visits to search for fever cases and collect blood smears is:
 
-- Patients admitted to hospital
-- [Presumptive cases diagnosed by clinicians]{.correct data-explanation="S form: syndromic cases (health workers). P form: presumptive cases (medical officers/clinicians). L form: laboratory-confirmed cases."}
-- Polio cases only
-- Private-sector laboratory results
+- Passive surveillance
+- [Active surveillance]{.correct data-explanation="Active surveillance means health workers go out and seek cases (e.g. ASHA/MPW fever surveillance for malaria). Passive surveillance relies on cases reporting to health facilities."}
+- Sentinel surveillance
+- Syndromic surveillance
 :::
 
 ---
@@ -975,12 +1061,12 @@ On the IHIP platform under IDSP, the “P” form is used to report:
 ::: {.quiz-question}
 ### Question 22
 
-Surveillance in which health workers make house-to-house visits to search for fever cases and collect blood smears is:
+Selected reporting sites that systematically report a specific disease, used to detect trends that routine reporting misses, constitute:
 
 - Passive surveillance
-- [Active surveillance]{.correct data-explanation="Active surveillance means health workers go out and seek cases (e.g. ASHA/MPW fever surveillance for malaria). Passive surveillance relies on cases reporting to health facilities."}
-- Sentinel surveillance
-- Syndromic surveillance
+- Active surveillance
+- [Sentinel surveillance]{.correct data-explanation="Sentinel surveillance uses selected sites (often hospitals or labs), such as HIV sentinel surveillance and AFP sentinel sites. It is useful for trends and for filling gaps in notification."}
+- Census
 :::
 
 ---
@@ -992,12 +1078,335 @@ Surveillance in which health workers make house-to-house visits to search for fe
 ::: {.quiz-question}
 ### Question 23
 
-Selected reporting sites that systematically report a specific disease, used to detect trends that routine reporting misses, constitute:
+The very first step in the investigation of an epidemic is:
 
-- Passive surveillance
-- Active surveillance
-- [Sentinel surveillance]{.correct data-explanation="Sentinel surveillance uses selected sites (often hospitals or labs), such as HIV sentinel surveillance and AFP sentinel sites. It is useful for trends and for filling gaps in notification."}
-- Census
+- Confirmation of the existence of an epidemic
+- [Verification of the diagnosis]{.correct data-explanation="Park and the textbook put verification of the diagnosis first, because there is no point counting cases of the wrong disease. Confirmation of an epidemic follows. The CDC 10-step list puts “establish the existence of an outbreak” before “verify the diagnosis”, and in practice the two are done together."}
+- Development of an epidemiological case sheet
+- Formulation of a hypothesis
+:::
+
+---
+
+## Self-Check: Question 24 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 24
+
+A nominal roll of the cases already reported to health-care establishments (dispensaries, general practitioners, hospitals) up to the present moment would form a:
+
+- [Line list]{.correct data-explanation="A line list has one row per case, with key variables (name, age, sex, address, date of onset). It is the starting point for time-place-person analysis."}
+- Epidemiological list
+- Case summary
+- Secondary data
+:::
+
+---
+
+## Self-Check: Question 25 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 25
+
+To call a health-related event an epidemic, the incidence rate is computed and compared with the rate in the same population during the corresponding period of the past:
+
+- 1 year
+- [3 years]{.correct data-explanation="The usual comparison is with the same period (e.g. the same month) over the previous 3 years. Cases clearly above that expected level suggest an epidemic."}
+- 10 years
+- No specific time frame is laid down
+:::
+
+---
+
+## Self-Check: Question 26 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 26
+
+An epidemic is described in all of the following ways, EXCEPT according to:
+
+- Time characteristics
+- [International characteristics]{.correct data-explanation="Descriptive analysis of an epidemic uses time (epidemic curve), place (spot map) and person (age, sex, occupation)."}
+- Person characteristics
+- Place characteristics
+:::
+
+---
+
+## Self-Check: Question 27 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 27
+
+Once the source of infection in an epidemic is identified, all of the following are measures for control and prevention of the SOURCE, EXCEPT:
+
+- [Vector control]{.correct data-explanation="Notification, isolation and treatment of cases and carriers act on the source (reservoir). Vector control interrupts the route of transmission."}
+- Notification
+- Isolation, if required
+- Detection and treatment of cases and carriers
+:::
+
+---
+
+## Self-Check: Question 28 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 28
+
+Which type of survey provides an exact estimate of incidence?
+
+- Hospital-based survey
+- Hybrid survey
+- Cross-sectional survey
+- [Longitudinal survey]{.correct data-explanation="Only repeated observation of the same population over time (longitudinal) captures new cases. A cross-sectional survey gives prevalence."}
+:::
+
+---
+
+## Self-Check: Question 29 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 29
+
+Which of the following is generally NOT undertaken in the analysis of a community-based (descriptive) survey?
+
+- [Stratified analysis for control of confounding]{.correct data-explanation="A descriptive survey describes frequency by time, place and person. Stratified analysis to control confounding belongs to analytical (hypothesis-testing) studies."}
+- Line diagram showing seasonal variation in important diseases
+- Percentage-wise distribution according to age
+- Spot map showing the main residential and work areas
+:::
+
+---
+
+## Self-Check: Question 30 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 30
+
+The large collection of humanity to which the findings of a survey will be generalized is called the:
+
+- Study population
+- Sample population
+- [Universe]{.correct data-explanation="Universe = reference = target population. The study population is the accessible subset, and the sample is drawn from it."}
+- Common population
+:::
+
+---
+
+## Self-Check: Question 31 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 31
+
+All of the following are important ethical issues to be addressed in a proposed survey, EXCEPT:
+
+- [Provision of a cash benefit]{.correct data-explanation="Ethical surveys need informed consent, confidentiality, and care or referral for conditions found. A cash inducement is not an ethical requirement and can be coercive."}
+- Provision of a health-care benefit
+- Confidentiality
+- Informed consent
+:::
+
+---
+
+## Self-Check: Question 32 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 32
+
+The ongoing collection, analysis and feedback of data related to a particular disease or group of diseases is:
+
+- Longitudinal survey
+- Cross-sectional survey
+- [Surveillance]{.correct data-explanation="Surveillance is continuous, systematic collection, analysis, interpretation and dissemination of data for action."}
+- Ecological study
+:::
+
+---
+
+## Self-Check: Question 33 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 33
+
+Which of the following is NOT a database program?
+
+- Access
+- FoxPro
+- [Excel]{.correct data-explanation="Excel is a spreadsheet. Access, FoxPro and dBase are database management programs."}
+- dBase
+:::
+
+---
+
+## Self-Check: Question 34 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 34
+
+“PACS” is a system used in health care for:
+
+- Making presentations
+- Searching literature for medical research
+- [Transmitting images for quick diagnosis]{.correct data-explanation="PACS (Picture Archiving and Communication System) stores and transmits radiology images digitally, which supports teleradiology."}
+- Accreditation of hospitals
+:::
+
+---
+
+## Self-Check: Question 35 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 35
+
+Which statistical analysis package was developed by CDC Atlanta and WHO for analysing health research data?
+
+- [EPI-Info]{.correct data-explanation="Epi Info is free public-domain software from CDC (developed with WHO) for questionnaires, databases, outbreak analysis and mapping."}
+- SPSS
+- STATA
+- MINITAB
+:::
+
+---
+
+## Self-Check: Question 36 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 36
+
+A Microsoft package for basic financial management in health care is:
+
+- Word
+- PowerPoint
+- Access
+- [Excel]{.correct data-explanation="Excel (a spreadsheet) is used for budgets and accounts."}
+:::
+
+---
+
+## Self-Check: Question 37 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 37
+
+During the COVID-19 pandemic, a unique feature in health care was the development of various modalities for:
+
+- Applications informing the community about the disease’s symptoms
+- Developing a database of hospitals
+- Development of PPE
+- [Teaching and training of medical students]{.correct data-explanation="The textbook&#x27;s answer: online and digital teaching and training of medical students expanded on a large scale during the pandemic."}
+:::
+
+---
+
+## Self-Check: Question 38 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 38
+
+Registration for COVID-19 vaccination could be done using:
+
+- [CoWIN]{.correct data-explanation="CoWIN handled COVID-19 vaccine registration, scheduling and certificates. Its platform is now used for routine immunization as U-WIN."}
+- Aarogya Setu
+- IDSP portal
+- UIP portal
+:::
+
+---
+
+## Self-Check: Question 39 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 39
+
+The National Digital Health Mission (NDHM) was launched in:
+
+- 2001
+- 2014
+- 2019
+- [2020]{.correct data-explanation="NDHM was announced on 15 August 2020 and relaunched nationwide as the Ayushman Bharat Digital Mission (ABDM) in September 2021, with ABHA health IDs."}
+:::
+
+---
+
+## Self-Check: Question 40 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 40
+
+The Aarogya Setu app is concerned with:
+
+- Free cashless services for families below the poverty line
+- [Assessing one’s own risk of COVID-19]{.correct data-explanation="Aarogya Setu provided contact tracing, self-assessment of COVID-19 risk and alerts."}
+- Vaccination
+- Portable health care for treatment anywhere in the country
+:::
+
+---
+
+## Self-Check: Question 41 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 41
+
+The national helpline number launched around Republic Day 2021 is:
+
+- 102
+- 1075
+- 1078
+- [14567]{.correct data-explanation="The textbook&#x27;s answer is 14567 (Elderline, the national helpline for senior citizens). 102 is the ambulance service for pregnant women and infants, and 1075 the national COVID-19 helpline."}
+:::
+
+---
+
+## Self-Check: Question 42 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 42
+
+Which of the following functions will NOT be possible through the NDHM (now ABDM)?
+
+- Knowing the medical history of a person
+- [Predicting a person’s risk of suffering from diseases]{.correct data-explanation="ABDM provides ABHA health IDs, linked health records, and registries of facilities and professionals, with anonymized data for research. Individual disease-risk prediction is not one of its functions."}
+- Undertaking health research
+- Obtaining a database of health-care facilities
 :::
 
 ---
@@ -1088,12 +1497,12 @@ infectious stage.
 
 ---
 
-## Self-Check: Question 24 {background-color="#FDE8E8"}
+## Self-Check: Question 43 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 24
+### Question 43
 
 Smallpox eradication (1980) is the only successful human disease eradication to date. Which factor was essential to its success?
 

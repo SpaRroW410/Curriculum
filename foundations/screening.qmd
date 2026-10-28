@@ -161,6 +161,16 @@ Mass screening is efficient for a common, serious and well-understood condition 
 
 ---
 
+## Practice Questions: Descriptive (Lecture 14, contd.) {background-color="#FFF6DA"}
+
+**University Examination Questions**
+
+7. Definition of screening.
+8. Criteria for a screening test.
+9. Types of screening.
+
+---
+
 ## Self-Check: Question 1 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -280,6 +290,23 @@ Screening offered only to smokers aged over 50 for lung disease is an example of
 
 ---
 
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 8
+
+Which of the following considerations is NOT required when undertaking a screening programme?
+
+- The disease should be a public health problem
+- [The disease should be vaccine-preventable]{.correct data-explanation="Vaccine preventability is irrelevant to screening. The Wilson–Jungner criteria require an important problem, an accepted treatment, and diagnostic and treatment facilities."}
+- There should be an acceptable and effective treatment
+- Facilities for confirming the diagnosis and for treatment should be available
+:::
+
+---
+
 ## Lecture 15: Sensitivity, Specificity, and Predictive Values {background-color="#E6EEF5"}
 
 📚 **Lecture 15 of 15** · **CM7.L15**
@@ -386,7 +413,24 @@ The same test (sensitivity 80%, specificity 90%) is applied to 10,000 people:
 | **Effect** | ↑ Specificity, ↑ PPV, ↓ sensitivity | ↑ Sensitivity, ↑ NPV, ↓ specificity |
 | **Use when** | False positives are costly or harmful (HIV: positive on three tests) | Missing a case is dangerous (emergencies, a serious treatable disease) |
 
-**Sensitivity–specificity trade-off:** for a test with a continuous result such as blood glucose, lowering the cut-off raises sensitivity and lowers specificity. The **ROC curve** plots sensitivity against (1 − specificity) to choose the best cut-off. A larger area under the curve means a better test.
+---
+
+## Cut-offs and Likelihood Ratios {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Sensitivity–specificity trade-off:** for a test with a continuous result, the cut-off decides the balance.
+
+- *Example:* IFG cut-off of 100 mg/dl (ADA) vs 110 mg/dl (WHO). The **lower** cut-off catches more true cases, so sensitivity rises. It also adds false positives, so specificity and PPV fall.
+- The **ROC curve** plots sensitivity against (1 − specificity) for every cut-off. A larger area under the curve means a better test.
+
+**Likelihood ratios** do not depend on prevalence:
+
+`LR+ = Sensitivity ÷ (1 − Specificity)`  ·  `LR− = (1 − Sensitivity) ÷ Specificity`
+
+An LR+ above 10 strongly rules disease in, and an LR− below 0.1 strongly rules it out. **Youden index** = sensitivity + specificity − 1.
+
+**Use the test to fit the setting:** a COVID rapid antigen test (high specificity, moderate sensitivity) suits diagnosis in *symptomatic* people, where prevalence and PPV are high.
 
 ---
 
@@ -438,14 +482,20 @@ The same test (sensitivity 80%, specificity 90%) is applied to 10,000 people:
 
 6. A new test was applied to 500 persons, 100 of whom had the disease (confirmed by a gold standard). The test was positive in 90 diseased and 40 non-diseased persons. Calculate sensitivity, specificity, PPV, NPV, and the false-positive and false-negative rates.
 
+**University Examination Questions**
+
+7. Sensitivity and specificity.
+8. Define the positive predictive value of a screening test.
+9. Lead time.
+
 ---
 
-## Self-Check: Question 8 {background-color="#FDE8E8"}
+## Self-Check: Question 9 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 8
+### Question 9
 
 Which measure of test validity does NOT change with disease prevalence in the population tested?
 
@@ -457,12 +507,12 @@ Which measure of test validity does NOT change with disease prevalence in the po
 
 ---
 
-## Self-Check: Question 9 {background-color="#FDE8E8"}
+## Self-Check: Question 10 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 9
+### Question 10
 
 In a screening programme for cervical cancer, many women test positive but are later found disease-free on confirmatory testing. This problem is best explained by low:
 
@@ -474,12 +524,12 @@ In a screening programme for cervical cancer, many women test positive but are l
 
 ---
 
-## Self-Check: Question 10 {background-color="#FDE8E8"}
+## Self-Check: Question 11 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 10
+### Question 11
 
 A screening test for a fatal disease has very high sensitivity but poor specificity. In a low-prevalence population, the most likely consequence is:
 
@@ -491,12 +541,12 @@ A screening test for a fatal disease has very high sensitivity but poor specific
 
 ---
 
-## Self-Check: Question 11 {background-color="#FDE8E8"}
+## Self-Check: Question 12 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 11
+### Question 12
 
 A test is applied to 1000 people. Of 100 who truly have the disease, 80 test positive. Of 900 without the disease, 90 test positive. The sensitivity and specificity are:
 
@@ -508,12 +558,12 @@ A test is applied to 1000 people. Of 100 who truly have the disease, 80 test pos
 
 ---
 
-## Self-Check: Question 12 {background-color="#FDE8E8"}
+## Self-Check: Question 13 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 12
+### Question 13
 
 In the same example (TP 80, FP 90, FN 20, TN 810), the positive predictive value is about:
 
@@ -525,12 +575,12 @@ In the same example (TP 80, FP 90, FN 20, TN 810), the positive predictive value
 
 ---
 
-## Self-Check: Question 13 {background-color="#FDE8E8"}
+## Self-Check: Question 14 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 13
+### Question 14
 
 Two tests are applied in series, and a person is called positive only if positive on both. Compared with either test alone, series testing:
 
@@ -542,12 +592,12 @@ Two tests are applied in series, and a person is called positive only if positiv
 
 ---
 
-## Self-Check: Question 14 {background-color="#FDE8E8"}
+## Self-Check: Question 15 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 14
+### Question 15
 
 Screened patients appear to survive longer after diagnosis simply because their disease was detected earlier in its course, even though they die at the same time as without screening. This is:
 
@@ -559,12 +609,12 @@ Screened patients appear to survive longer after diagnosis simply because their 
 
 ---
 
-## Self-Check: Question 15 {background-color="#FDE8E8"}
+## Self-Check: Question 16 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 15
+### Question 16
 
 Detection, through screening, of a genuine abnormality that would never have caused symptoms or harm in a person’s lifetime is called:
 
@@ -572,6 +622,159 @@ Detection, through screening, of a genuine abnormality that would never have cau
 - Length time bias
 - [Overdiagnosis]{.correct data-explanation="Overdiagnosis is the detection of disease that would never have progressed to cause harm. It is an extreme consequence of length-biased detection."}
 - False positive
+:::
+
+---
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 17
+
+What is the numerator in calculating the sensitivity of a test?
+
+- [True positives]{.correct data-explanation="Sensitivity = TP/(TP + FN)."}
+- True negatives
+- False positives
+- False negatives
+:::
+
+---
+
+## Self-Check: Question 18 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 18
+
+What is the denominator for calculating the specificity of a test?
+
+- True positives and true negatives
+- [True negatives and false positives]{.correct data-explanation="Specificity = TN/(TN + FP). The denominator is all people without the disease."}
+- False positives and false negatives
+- False negatives and true positives
+:::
+
+---
+
+## Self-Check: Question 19 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 19
+
+Which test is preferred for ruling IN a disease?
+
+- Highly sensitive test
+- Low-specificity test
+- [Highly specific test]{.correct data-explanation="SpPin: a positive result on a highly Specific test rules the disease in, because false positives are rare. SnNout: a negative result on a highly Sensitive test rules it out."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 20 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 20
+
+Which of the following is a fixed parameter of a screening test?
+
+- [Sensitivity]{.correct data-explanation="Sensitivity and specificity are intrinsic to the test at a given cut-off. Predictive values change with prevalence."}
+- Negative predictive value
+- Positive predictive value
+- None of these
+:::
+
+---
+
+## Self-Check: Question 21 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 21
+
+The predictive value of a screening test depends on:
+
+- [Prevalence]{.correct data-explanation="The textbook&#x27;s answer is prevalence, the factor that changes predictive values for the same test. Strictly, PPV and NPV also depend on sensitivity and specificity."}
+- Sensitivity
+- Health worker
+- None of these
+:::
+
+---
+
+## Self-Check: Question 22 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 22
+
+The WHO cut-off for impaired fasting glucose is 110 mg/dl, while the American Diabetes Association uses 100 mg/dl. Using the lower (ADA) cut-off instead of the WHO one will:
+
+- [Increase sensitivity]{.correct data-explanation="A lower cut-off labels more people positive. Fewer true cases are missed, so sensitivity rises, while more false positives lower specificity and PPV. (The textbook prints “International Diabetes Association” for ADA.)"}
+- Increase specificity
+- Increase the positive predictive value
+- Cause no change
+:::
+
+---
+
+## Self-Check: Question 23 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 23
+
+A COVID-19 Rapid Antigen Test has very high specificity but only moderate sensitivity. It is therefore most appropriate for:
+
+- [Diagnosis of COVID-19 in persons with influenza-like symptoms]{.correct data-explanation="With high specificity, a positive result is reliable (SpPin). Among symptomatic people the prevalence is high, so PPV is high too. With only moderate sensitivity, it would miss many infections in low-prevalence asymptomatic groups. (The textbook&#x27;s stem prints “specificity” twice. The second should read “sensitivity”.)"}
+- Diagnosis of COVID-19 in asymptomatic persons
+- Screening asymptomatic contacts of confirmed patients
+- Surveillance of COVID-19 in the general population
+:::
+
+---
+
+## Self-Check: Question 24 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 24
+
+A single ELISA test for HIV will have the highest positive predictive value in which group?
+
+- Voluntary blood donors
+- Antenatal women
+- [Female sex workers]{.correct data-explanation="PPV rises with prevalence. Of these groups, HIV prevalence is highest among female sex workers."}
+- Patients with herpes zoster
+:::
+
+---
+
+## Self-Check: Question 25 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 25
+
+The “positive likelihood ratio” of a screening test is calculated as:
+
+- Specificity ÷ (1 − sensitivity)
+- [Sensitivity ÷ (1 − specificity)]{.correct data-explanation="LR+ = sensitivity/(1 − specificity), the true-positive rate divided by the false-positive rate. LR− = (1 − sensitivity)/specificity."}
+- (1 − specificity) ÷ specificity
+- (1 − sensitivity) ÷ specificity
 :::
 
 ---

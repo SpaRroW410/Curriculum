@@ -75,7 +75,7 @@ Relative risk, odds ratio and attributable risk are all calculated from these fo
 
 ![Case-control design](../images/epidemiology/case_control_design.svg){.slide-img .nostretch width="720px"}
 
-It proceeds from **effect to cause** (retrospective). Exposure is always measured *after* the disease has occurred.
+It proceeds from **effect to cause** (retrospective). Exposure is always measured *after* the disease has occurred. It is also called a **"trohoc" study** ("cohort" spelt backwards).
 
 ---
 
@@ -138,7 +138,7 @@ A study of tobacco chewing and oral cancer (100 cases, 100 controls):
 | **Berkson's bias** | A hospital-based study is distorted by different admission rates for different combinations of disease and exposure |
 | **Recall (memory) bias** | Cases search their memory harder for past exposures than controls |
 | **Interviewer bias** | An interviewer who knows case status probes cases more intensively |
-| **Neyman (prevalence-incidence) bias** | Using prevalent cases misses those who died early or recovered |
+| **Neyman (prevalence–incidence, survivorship) bias** | Using prevalent cases misses those who died early or recovered (e.g. fatal MI) |
 | **Confounding** | A third factor linked to both exposure and disease, controlled by matching or analysis |
 
 ---
@@ -208,6 +208,31 @@ A case-control study conducted **within** an existing cohort. Once enough cases 
 
 6. Explain why the odds ratio is used instead of relative risk in case-control studies.
 7. Why does rarity of disease allow the odds ratio to approximate relative risk?
+
+**Case Scenario**
+
+8. You are planning a case-control study to test whether women with a family history of breast cancer have a higher risk of breast cancer.
+   a. How will you select the cases?
+   b. How will you select the controls? Can you take controls from the same family?
+   c. How will you measure family history of breast cancer?
+   d. What measurement (information) biases may occur in this study?
+   e. How will you measure the strength of association, and which test of significance will you apply?
+   f. How will you deal with confounding variables?
+
+---
+
+## Practice Questions: Descriptive (Lecture 6, contd.) {background-color="#FFF6DA"}
+
+**Numerical**
+
+9. In a case-control study of helmet use, 55 of 87 fatal and 45 of 113 non-fatal head-injury cases had not used helmets (cases = fatal injury). Calculate the odds ratio and the etiological fraction, and interpret them.
+
+**University Examination Questions**
+
+10. Define epidemiology. List the various epidemiological study designs. Briefly discuss the steps in a case-control study.
+11. Classify epidemiological studies. Write the steps for conducting a case-control study.
+12. Odds ratio.
+13. Bias in case-control studies.
 
 ---
 
@@ -366,6 +391,210 @@ In a case-control study of oral cancer, 80 of 100 cases and 40 of 100 controls c
 
 ---
 
+## Self-Check: Question 10 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 10
+
+In a standard 2 × 2 table, the odds ratio is measured as:
+
+- (a × b)/(c × d)
+- [(a × d)/(b × c)]{.correct data-explanation="OR = ad/bc, the cross-product ratio."}
+- (a × c)/(b × d)
+- None of these
+:::
+
+---
+
+## Self-Check: Question 11 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 11
+
+Which of the following is the biggest problem in the conduct of case-control studies?
+
+- Logistic efforts
+- Large number of subjects
+- Loss to follow-up
+- [Selection of appropriate controls]{.correct data-explanation="Controls must come from the same source population as the cases and differ only in not having the disease. Getting this right is the hardest part of a case-control study."}
+:::
+
+---
+
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 12
+
+Which of the following is correct about case-control studies?
+
+- Incidence can be calculated
+- [They are good for studying risk factors of rare diseases]{.correct data-explanation="Case-control studies start from cases, so even rare diseases can be studied quickly. Incidence and true RR cannot be calculated."}
+- Relative risk can be calculated
+- They take a long time
+:::
+
+---
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 13
+
+A case-control study is also known as a:
+
+- Biased study
+- Cross-sectional study
+- Hill’s study
+- [Trohoc study]{.correct data-explanation="“Trohoc” is “cohort” spelt backwards. A case-control study runs in the opposite direction, from effect to cause."}
+:::
+
+---
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 14
+
+Which of the following is correct for a case-control study?
+
+- Two groups with neither exposure nor outcome are followed for a defined period for development of outcome
+- [Two comparable groups, one with the outcome and the other without, are taken and the history of exposure is obtained from both]{.correct data-explanation="Selection is by outcome status (cases vs controls), followed by a backward look at exposure."}
+- A single group is studied for exposure and outcome at one point in time
+- A group with exposure but not the disease is followed for a defined period
+:::
+
+---
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 15
+
+What is the measure of effect calculated in a case-control study?
+
+- RR
+- [OR]{.correct data-explanation="Only the odds ratio can be calculated in a case-control study."}
+- Prevalence
+- All of these
+:::
+
+---
+
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 16
+
+A case-control study:
+
+- [Is always retrospective]{.correct data-explanation="The textbook&#x27;s answer: the direction of enquiry is always backward, from outcome to past exposure, even when cases are recruited as they occur."}
+- Is always prospective
+- Can be retrospective or prospective
+- Gives us the prevalence of the disease
+:::
+
+---
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 17
+
+Which of the following is NOT an advantage of case-control studies?
+
+- They are much less expensive
+- They require little time to complete
+- [They have minimal recall bias]{.correct data-explanation="Recall bias is a characteristic weakness of case-control studies, because exposure is recalled after disease occurs."}
+- They are good for studying risk factors of a rare disease
+:::
+
+---
+
+## Self-Check: Question 18 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 18
+
+A case-control study is one in which the epidemiologist starts with two comparable groups of subjects, of which:
+
+- One has the exposure and the other does not
+- [One has the outcome and the other does not]{.correct data-explanation="Cases (with the outcome) and controls (without it). Starting from exposure defines a cohort study."}
+- Both groups have the outcome
+- Both groups have the exposure
+:::
+
+---
+
+## Self-Check: Question 19 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 19
+
+For the OR to be a valid estimator of risk in a case-control study, which of the following are essential?
+
+- The outcome (disease) should be rare in the population
+- Controls should come from the same source as the cases
+- [Both of these]{.correct data-explanation="Rare-disease assumption: OR ≈ RR. Same-source controls: the controls must represent the exposure distribution of the population that produced the cases."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 20 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 20
+
+In a case-control study, survivorship (Neyman, prevalence–incidence) bias is most likely for which of the following diseases?
+
+- Institutional normal delivery
+- Coryza
+- [Myocardial infarction]{.correct data-explanation="Many MI patients die before reaching hospital. Cases studied are survivors, whose exposure profile may differ from fatal cases."}
+- Colles fracture sustained while playing sports
+:::
+
+---
+
+## Self-Check: Question 21 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 21
+
+Of 100 two-wheeler accident victims who did not use helmets, 55 had fatal and 45 non-fatal head injuries. Of 100 who used helmets, 32 had fatal and 68 non-fatal head injuries. The odds ratio for fatal head injury with non-use of helmets is about:
+
+- 1.22
+- 1.72
+- [2.6]{.correct data-explanation="OR = (55 × 68)/(45 × 32) = 3740/1440 ≈ 2.6. Etiological fraction = (OR − 1)/OR ≈ 61%. The textbook&#x27;s printed answer (OR 1.22, EF 18%) is an arithmetic error."}
+- 3.9
+:::
+
+---
+
 ## Lecture 7: Cohort Study {background-color="#E6EEF5"}
 
 📚 **Lecture 7 of 15** · **CM7.L7**
@@ -410,6 +639,18 @@ In every type, the logic runs from exposure to outcome. Only the investigator's 
    - *general population rates*
 4. **Follow-up**: periodic examination, records and death certificates. **Loss to follow-up** must be minimal, because differential losses cause selection bias.
 5. **Analysis**: incidence in the exposed and unexposed, then **RR** and **AR**
+
+---
+
+## Biases in Cohort Studies {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+1. **Loss to follow-up (attrition) bias**: subjects drop out, die or migrate. It is serious when those lost differ systematically in outcome. Prevent it by explaining the study well, recording contact details of participants *and* relatives, keeping in regular touch, and tracing drop-outs quickly.
+2. **Measurement (information) bias**: exposed and unexposed cohorts are examined differently for the outcome. For example, alcoholics visit health facilities more often, so GERD is diagnosed more often in them. Prevent it with identical follow-up and assessment methods, ideally blinded.
+3. **Confounding**: controlled by matching, restriction or analysis.
+
+**Bias that does NOT occur:** **recall bias**. Exposure is measured objectively at the start, not recalled after the disease.
 
 ---
 
@@ -518,14 +759,22 @@ Lung cancer over 10 years in 10,000 smokers and 10,000 non-smokers:
 
 7. Give reasons why loss to follow-up threatens validity in cohort studies.
 
+**Numerical**
+
+8. Smokers and non-smokers free of lung cancer were followed for 15 years: 70 of 7,000 smokers and 3 of 3,000 non-smokers developed lung cancer. Calculate RR, AR, the etiological fraction (AR%) and PAR%, and explain what each means.
+
+**University Examination Questions**
+
+9. Mention two advantages of a cohort study.
+
 ---
 
-## Self-Check: Question 10 {background-color="#FDE8E8"}
+## Self-Check: Question 22 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 10
+### Question 22
 
 Which measure of association can be directly calculated from a cohort study but NOT from a case-control study?
 
@@ -537,12 +786,12 @@ Which measure of association can be directly calculated from a cohort study but 
 
 ---
 
-## Self-Check: Question 11 {background-color="#FDE8E8"}
+## Self-Check: Question 23 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 11
+### Question 23
 
 If IE is the incidence of disease in the group exposed to a risk factor and IO the incidence in the unexposed group, then IE/IO gives the:
 
@@ -554,12 +803,12 @@ If IE is the incidence of disease in the group exposed to a risk factor and IO t
 
 ---
 
-## Self-Check: Question 12 {background-color="#FDE8E8"}
+## Self-Check: Question 24 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 12
+### Question 24
 
 Attributable Risk Percent (AR%) is best described as:
 
@@ -571,12 +820,12 @@ Attributable Risk Percent (AR%) is best described as:
 
 ---
 
-## Self-Check: Question 13 {background-color="#FDE8E8"}
+## Self-Check: Question 25 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 13
+### Question 25
 
 Annual incidence of thromboembolism per lakh women aged 30–39 is 5.3 among oral-contraceptive users and 1.8 among non-users. The RR and AR are:
 
@@ -588,12 +837,12 @@ Annual incidence of thromboembolism per lakh women aged 30–39 is 5.3 among ora
 
 ---
 
-## Self-Check: Question 14 {background-color="#FDE8E8"}
+## Self-Check: Question 26 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 14
+### Question 26
 
 In a cohort study, lung cancer incidence was 28 per 1000 among smokers and 4 per 1000 among non-smokers. The attributable risk percent (AR%) among smokers is about:
 
@@ -605,12 +854,12 @@ In a cohort study, lung cancer incidence was 28 per 1000 among smokers and 4 per
 
 ---
 
-## Self-Check: Question 15 {background-color="#FDE8E8"}
+## Self-Check: Question 27 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 15
+### Question 27
 
 In a cohort study, loss to follow-up is higher among exposed individuals who later develop the disease. This most likely introduces:
 
@@ -622,12 +871,12 @@ In a cohort study, loss to follow-up is higher among exposed individuals who lat
 
 ---
 
-## Self-Check: Question 16 {background-color="#FDE8E8"}
+## Self-Check: Question 28 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 16
+### Question 28
 
 **Assertion (A):** In a cohort study, incidence can be directly measured.
 
@@ -641,12 +890,12 @@ In a cohort study, loss to follow-up is higher among exposed individuals who lat
 
 ---
 
-## Self-Check: Question 17 {background-color="#FDE8E8"}
+## Self-Check: Question 29 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 17
+### Question 29
 
 A study uses 1990 factory employment records to classify workers by asbestos exposure, then traces their mesothelioma occurrence up to 2025. This is a:
 
@@ -654,6 +903,278 @@ A study uses 1990 factory employment records to classify workers by asbestos exp
 - [Retrospective (historical) cohort study]{.correct data-explanation="The design runs forward from exposure to outcome, which makes it a cohort study. Because both exposure and outcome have already happened when the study begins, it is a retrospective (historical) cohort."}
 - Case-control study
 - Cross-sectional study
+:::
+
+---
+
+## Self-Check: Question 30 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 30
+
+Loss to follow-up is likely in which of the following studies?
+
+- Case-control study
+- Cross-sectional analytical study
+- Ecological study
+- [Cohort study]{.correct data-explanation="Only a cohort study follows subjects over time, so only a cohort study can lose them."}
+:::
+
+---
+
+## Self-Check: Question 31 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 31
+
+The measure of risk in a cohort study is:
+
+- [Relative risk]{.correct data-explanation="Incidence in the exposed and unexposed is measured directly, giving RR (and AR)."}
+- Prevalence odds ratio
+- Exposure odds ratio
+- None of these
+:::
+
+---
+
+## Self-Check: Question 32 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 32
+
+A cohort study can be used to study all of the following, EXCEPT:
+
+- Risk markers
+- Risk factors
+- Prognostic factors
+- [Preventive factors]{.correct data-explanation="The textbook&#x27;s answer: preventive factors (interventions) are best evaluated by experimental studies. Note that observational cohorts can still show protective associations, such as physical activity and IHD."}
+:::
+
+---
+
+## Self-Check: Question 33 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 33
+
+The direction of reasoning in a cohort study is:
+
+- [Prospective]{.correct data-explanation="Reasoning always runs forward, from exposure (cause) to outcome (effect), even in a historical cohort."}
+- Retrospective
+- None of these
+- Both of these
+:::
+
+---
+
+## Self-Check: Question 34 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 34
+
+Temporal association of a disease is best established by a:
+
+- Case-control study
+- Cross-sectional study
+- [Cohort study]{.correct data-explanation="Subjects are disease-free at the start and exposure is recorded before outcome, so temporality is certain."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 35 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 35
+
+Which type of bias is NOT likely in a cohort study?
+
+- [Recall bias]{.correct data-explanation="Exposure is recorded objectively at the start, not recalled after disease, so recall bias does not occur. Loss to follow-up, measurement bias and confounding can occur."}
+- Loss to follow-up bias
+- Confounding
+- None of these
+:::
+
+---
+
+## Self-Check: Question 36 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 36
+
+In which of the following situations should we avoid the cohort design?
+
+- Study of a suspected risk factor of a disease
+- Study of prognostic factors
+- [Study of a rare disease]{.correct data-explanation="A rare disease would need an enormous cohort to yield enough cases. A case-control study suits it better."}
+- A study where the likely follow-up period is short
+:::
+
+---
+
+## Self-Check: Question 37 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 37
+
+Which of the following is correct for a cohort study?
+
+- Two groups with neither exposure nor outcome are followed for a defined period
+- [Two groups, one exposed and one not, both free of the outcome, are followed for a defined period]{.correct data-explanation="A cohort study needs exposed and unexposed groups, both outcome-free at the start, followed forward."}
+- A single group is studied for exposure and outcome at one point in time
+- A single group with exposure but not the disease is followed for a defined period
+:::
+
+---
+
+## Self-Check: Question 38 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 38
+
+300 antenatal women (100 tobacco users, 200 non-users) were followed until delivery to compare the incidence of low birth weight. The comparison cohort in this study is a(n):
+
+- Comparison with the general population
+- [Inbuilt (internal) comparison group]{.correct data-explanation="Both exposed and unexposed women come from the same examined group, so the comparison is internal (inbuilt)."}
+- Specially assembled (external) comparison cohort
+- None of these
+:::
+
+---
+
+## Self-Check: Question 39 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 39
+
+What is the measure of effect calculated in a cohort study?
+
+- [RR]{.correct data-explanation="Relative risk = Iₑ/I₀."}
+- OR
+- Prevalence
+- All of these
+:::
+
+---
+
+## Self-Check: Question 40 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 40
+
+A cohort study:
+
+- Is always retrospective
+- Is always prospective
+- [Can be retrospective or prospective]{.correct data-explanation="Prospective, retrospective (historical) and ambispective cohorts all exist. Only the calendar timing differs."}
+- Is always cross-sectional
+:::
+
+---
+
+## Self-Check: Question 41 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 41
+
+Which of the following is NOT an advantage of cohort studies?
+
+- [They are much less expensive and need little time]{.correct data-explanation="Cohort studies are large, long and costly. That is their main limitation."}
+- Temporal association is certain
+- Recall bias is minimal
+- They have a strong design from the epidemiological point of view
+:::
+
+---
+
+## Self-Check: Question 42 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 42
+
+A cohort study is one in which the epidemiologist starts with two comparable groups, of which:
+
+- [One has the exposure and the other does not]{.correct data-explanation="Selection is by exposure status, and all subjects are free of the outcome."}
+- One has the outcome and the other does not
+- Both groups have the outcome
+- None of these
+:::
+
+---
+
+## Self-Check: Question 43 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 43
+
+A cohort study is NOT suitable for:
+
+- Common diseases
+- [Rare diseases]{.correct data-explanation="Too few cases would arise in a rare disease unless the cohort is impractically large."}
+- Both of these
+- None of these
+:::
+
+---
+
+## Self-Check: Question 44 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 44
+
+Smokers (70 lung cancers in 7,000) and non-smokers (3 in 3,000) were followed for 15 years. The relative risk and attributable risk are:
+
+- [RR 10; AR 9 per 1000]{.correct data-explanation="Iₑ = 70/7000 = 10 per 1000 and I₀ = 3/3000 = 1 per 1000. RR = 10/1 = 10. AR = 10 − 1 = 9 per 1000 over 15 years."}
+- RR 9; AR 10 per 1000
+- RR 23; AR 7.3 per 1000
+- RR 10; AR 90 per 1000
+:::
+
+---
+
+## Self-Check: Question 45 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 45
+
+In the same smoking study (Iₑ 10, I₀ 1, total population 73/10,000 = 7.3 per 1000), the etiological fraction (AR%) and PAR% are:
+
+- [90% and 86%]{.correct data-explanation="AR% = (RR − 1)/RR = 9/10 = 90% of lung cancer among smokers is due to smoking. PAR% = (Iₜ − I₀)/Iₜ = (7.3 − 1)/7.3 ≈ 86% of lung cancer in the whole population is due to smoking."}
+- 86% and 90%
+- 90% and 73%
+- 10% and 86%
 :::
 
 ---
@@ -716,7 +1237,7 @@ A **placebo** makes blinding possible when the control group gets no active trea
 
 🟡 **SHOULD KNOW**
 
-- **Crossover trial**: each subject receives both treatments in sequence, A then B or B then A, with a **washout period** between them. Each person is their own control, so fewer subjects are needed. It suits chronic stable conditions but is unsuitable for curable or acute disease.
+- **Crossover trial**: each subject receives both treatments in sequence (next slide)
 - **Factorial design**: two or more interventions are tested at once in all combinations (A, B, A+B, neither)
 - **Cluster randomized trial**: villages, schools or practices are randomized, not individuals
 - **Multicentre trial**: the same protocol at several sites, to reach a large sample quickly
@@ -724,6 +1245,33 @@ A **placebo** makes blinding possible when the control group gets no active trea
   - *uncontrolled trials*: no comparison group, as in early drug trials
   - *natural experiments*: Snow's water companies, Hiroshima
   - *before-and-after studies*: with or without a control group
+
+---
+
+## Crossover Design {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+![Crossover design](../images/epidemiology/crossover_design.svg){.slide-img .nostretch width="860px"}
+
+- **Advantages:** each subject is their own control, so between-subject confounding is removed. The sample size is smaller. It is ethically attractive, because everyone receives both therapies.
+- **Disadvantages:** a **washout** period is needed to remove carry-over, which prolongs the trial. Blinding is hard if one therapy is oral and the other parenteral. It is impossible when a therapy **cures** the disease (e.g. antibiotics).
+
+---
+
+## Phases of Clinical Trials {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Phase | Subjects | Purpose |
+|---|---|---|
+| **Pre-clinical** | Animals, laboratory | Toxicity, pharmacology |
+| **Phase I** | 20–80 healthy volunteers | Safety, dose range, **maximum tolerated dose (MTD)**, pharmacokinetics |
+| **Phase II** | 100–300 patients | Efficacy and side-effects at the chosen dose |
+| **Phase III** | 1000s of patients, often multicentre RCTs | Confirms efficacy against the standard treatment; the basis for licensing |
+| **Phase IV** | The general population after marketing | **Post-marketing surveillance**: rare and late adverse effects, long-term effectiveness |
+
+Thalidomide (phocomelia) and rofecoxib (cardiovascular events) were withdrawn after problems surfaced in **Phase IV**.
 
 ---
 
@@ -783,12 +1331,23 @@ The lower the NNT, the more effective the intervention. The equivalent for harm 
 
 ---
 
-## Self-Check: Question 18 {background-color="#FDE8E8"}
+## Practice Questions: Descriptive (Lecture 8, contd.) {background-color="#FFF6DA"}
+
+**University Examination Questions**
+
+6. Describe an RCT with a suitable example.
+7. Basic steps in conducting a randomized controlled trial.
+8. Blinding in randomized controlled trials.
+9. Phases of clinical trials.
+
+---
+
+## Self-Check: Question 46 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 18
+### Question 46
 
 The main strength of randomization in an RCT is that it:
 
@@ -800,12 +1359,12 @@ The main strength of randomization in an RCT is that it:
 
 ---
 
-## Self-Check: Question 19 {background-color="#FDE8E8"}
+## Self-Check: Question 47 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 19
+### Question 47
 
 Another name for randomization is:
 
@@ -817,12 +1376,12 @@ Another name for randomization is:
 
 ---
 
-## Self-Check: Question 20 {background-color="#FDE8E8"}
+## Self-Check: Question 48 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 20
+### Question 48
 
 **Assertion (A):** Confounding can be reduced by randomization in experimental studies.
 
@@ -836,12 +1395,12 @@ Another name for randomization is:
 
 ---
 
-## Self-Check: Question 21 {background-color="#FDE8E8"}
+## Self-Check: Question 49 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 21
+### Question 49
 
 In a typhoid vaccine trial, 2000 children were randomized into two groups of 1000. Over one year, 20 vaccinated and 80 placebo children developed typhoid. The vaccine efficacy is:
 
@@ -853,12 +1412,12 @@ In a typhoid vaccine trial, 2000 children were randomized into two groups of 100
 
 ---
 
-## Self-Check: Question 22 {background-color="#FDE8E8"}
+## Self-Check: Question 50 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 22
+### Question 50
 
 Hypertension was controlled in 91% of patients given new drug X and in 67% of patients given ramipril. The number needed to treat (NNT) is about:
 
@@ -870,12 +1429,12 @@ Hypertension was controlled in 91% of patients given new drug X and in 67% of pa
 
 ---
 
-## Self-Check: Question 23 {background-color="#FDE8E8"}
+## Self-Check: Question 51 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 23
+### Question 51
 
 In a triple-blind trial, the group assignment is concealed from the:
 
@@ -887,12 +1446,12 @@ In a triple-blind trial, the group assignment is concealed from the:
 
 ---
 
-## Self-Check: Question 24 {background-color="#FDE8E8"}
+## Self-Check: Question 52 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 24
+### Question 52
 
 In a crossover trial:
 
@@ -904,12 +1463,12 @@ In a crossover trial:
 
 ---
 
-## Self-Check: Question 25 {background-color="#FDE8E8"}
+## Self-Check: Question 53 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 25
+### Question 53
 
 A trial in which whole communities, rather than individuals, receive the intervention (e.g. water fluoridation) is a:
 
@@ -917,6 +1476,261 @@ A trial in which whole communities, rather than individuals, receive the interve
 - Field trial
 - [Community trial]{.correct data-explanation="Community trials allocate the intervention at the community level. Field trials study healthy individuals at risk in the field, as in vaccine trials."}
 - Crossover trial
+:::
+
+---
+
+## Self-Check: Question 54 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 54
+
+In which of the following studies is randomization done?
+
+- Case-control study
+- Cohort study
+- [Experimental study]{.correct data-explanation="Only in an experiment does the investigator allocate the exposure, so only there can it be randomized."}
+- Cross-sectional study
+:::
+
+---
+
+## Self-Check: Question 55 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 55
+
+Which is the ideal (most scientific) design for an epidemiological study?
+
+- Case-control study
+- Cohort study
+- [Experimental study]{.correct data-explanation="A randomized controlled trial controls known and unknown confounders and gives the strongest evidence of cause and effect."}
+- Cross-sectional study
+:::
+
+---
+
+## Self-Check: Question 56 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 56
+
+An experimental study can be used in all of the following settings, EXCEPT:
+
+- [Study of risk factors]{.correct data-explanation="It is unethical to deliberately expose people to a suspected risk factor, so risk factors are studied observationally. “Risk-factor trials” only test removing or reducing an existing risk factor."}
+- Efficacy of preventive procedures
+- Efficacy of treatment procedures
+- Evaluation of health services
+:::
+
+---
+
+## Self-Check: Question 57 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 57
+
+An experimental study cannot be used to study:
+
+- Risk factors for a disease
+- Prognostic factors for a disease
+- [Both of these]{.correct data-explanation="Neither a suspected harmful exposure nor an adverse prognostic factor can ethically be assigned to people. Both are studied with cohort or case-control designs."}
+- It can be used to study both
+:::
+
+---
+
+## Self-Check: Question 58 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 58
+
+Phase IV of a clinical trial is:
+
+- [Post-marketing surveillance]{.correct data-explanation="Phase IV follows licensing. It monitors safety and effectiveness in routine use and detects rare and late adverse effects."}
+- Clinical trial
+- Animal studies
+- None of these
+:::
+
+---
+
+## Self-Check: Question 59 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 59
+
+Rofecoxib, a widely used NSAID for rheumatoid arthritis, was withdrawn after reports of adverse cardiovascular effects. This is an example of:
+
+- Assessment of adverse effects at MTD
+- Assessment of MTD
+- A classical randomized controlled trial
+- [Phase IV of a clinical trial]{.correct data-explanation="The problem surfaced after marketing, through post-marketing (Phase IV) surveillance."}
+:::
+
+---
+
+## Self-Check: Question 60 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 60
+
+The withdrawal of thalidomide from the market was an example of which phase of clinical trial?
+
+- Phase I
+- Phase II
+- Phase III
+- [Phase IV]{.correct data-explanation="Thalidomide&#x27;s teratogenicity (phocomelia) was detected after the drug was marketed, i.e. in Phase IV."}
+:::
+
+---
+
+## Self-Check: Question 61 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 61
+
+A cessation experiment is a type of:
+
+- Cohort study
+- [Experimental study]{.correct data-explanation="The investigator arranges for a suspected cause (e.g. smoking) to be stopped in one group and compares outcomes. This is an intervention study."}
+- Case-control study
+- Cross-sectional study
+:::
+
+---
+
+## Self-Check: Question 62 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 62
+
+In single blinding, who is unaware of the type of treatment being given?
+
+- Analyser
+- Observer
+- [Subject]{.correct data-explanation="Single-blind: the subject does not know. Double-blind: the subject and observer do not know. Triple-blind: the analyser does not know either."}
+- All of these
+:::
+
+---
+
+## Self-Check: Question 63 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 63
+
+What is the tool for control of confounding in an experimental design?
+
+- Blinding
+- Statistical analysis
+- [Randomization]{.correct data-explanation="Randomization distributes known and unknown confounders equally between groups. Blinding controls information bias."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 64 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 64
+
+In an experimental study, before randomization, the epidemiologist will remove:
+
+- All those who already have the exposure
+- All those who already have the outcome
+- [Both of these]{.correct data-explanation="Subjects must be free of the outcome, and must not already have the exposure or intervention being tested, so that the allocated exposure is the only difference."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 65 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 65
+
+In which experimental study is a group of subjects randomized instead of individual subjects?
+
+- Clinical trial
+- Preventive trial
+- Cessation experiment
+- [Community intervention trial]{.correct data-explanation="Community or cluster trials allocate whole communities (villages, schools) to intervention or control."}
+:::
+
+---
+
+## Self-Check: Question 66 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 66
+
+Imipenem results in ICU septicaemia patients were compared with earlier data from when imipenem was unavailable and cefotaxime was used. This is an example of:
+
+- Randomized controlled trial
+- Phase I clinical trial
+- [Quasi-experimental design]{.correct data-explanation="There is an intervention but no randomization, and the controls are historical. That is a quasi-experimental (non-randomized) design."}
+- Crossover design
+:::
+
+---
+
+## Self-Check: Question 67 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 67
+
+Survival on the 10th post-operative day was 45/50 (90%) after CABG on cardiopulmonary bypass and 32/40 (80%) after off-pump CABG. The efficacy (Iₑ/I₀) of CABG with CPB is:
+
+- 1.00
+- [1.13]{.correct data-explanation="Iₑ = 45/50 = 0.9 and I₀ = 32/40 = 0.8, so the ratio is 0.9/0.8 = 1.13."}
+- 0.88
+- 1.45
+:::
+
+---
+
+## Self-Check: Question 68 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 68
+
+In the same CABG comparison, the number needed to treat (NNT) is:
+
+- 2
+- 5
+- [10]{.correct data-explanation="AR = 0.9 − 0.8 = 0.1 and NNT = 1/0.1 = 10. Ten patients must undergo CABG with CPB, rather than off-pump, for one additional survivor at day 10."}
+- 12
 :::
 
 ---
@@ -1080,14 +1894,19 @@ The ecological fallacy is the error of assuming that a correlation seen at the g
 7. Justify why temporality is considered a mandatory criterion for causation.
 8. Explain how confounding can distort an observed exposure–disease association.
 
+**University Examination Questions**
+
+9. What is bias?
+10. Confounding factors in epidemiological studies (research).
+
 ---
 
-## Self-Check: Question 26 {background-color="#FDE8E8"}
+## Self-Check: Question 69 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 26
+### Question 69
 
 “Confounding” is best described as:
 
@@ -1099,12 +1918,12 @@ The ecological fallacy is the error of assuming that a correlation seen at the g
 
 ---
 
-## Self-Check: Question 27 {background-color="#FDE8E8"}
+## Self-Check: Question 70 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 27
+### Question 70
 
 Which of the following is NOT an essential characteristic of a confounding variable?
 
@@ -1116,12 +1935,12 @@ Which of the following is NOT an essential characteristic of a confounding varia
 
 ---
 
-## Self-Check: Question 28 {background-color="#FDE8E8"}
+## Self-Check: Question 71 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 28
+### Question 71
 
 Which of the following is NOT a method of controlling confounding?
 
@@ -1133,12 +1952,12 @@ Which of the following is NOT a method of controlling confounding?
 
 ---
 
-## Self-Check: Question 29 {background-color="#FDE8E8"}
+## Self-Check: Question 72 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 29
+### Question 72
 
 Which method can be used to control confounding during the statistical analysis stage, after data collection is complete?
 
@@ -1150,12 +1969,12 @@ Which method can be used to control confounding during the statistical analysis 
 
 ---
 
-## Self-Check: Question 30 {background-color="#FDE8E8"}
+## Self-Check: Question 73 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 30
+### Question 73
 
 Which type of bias or distortion CAN typically still be corrected during data analysis, after the study has been conducted?
 
@@ -1167,12 +1986,12 @@ Which type of bias or distortion CAN typically still be corrected during data an
 
 ---
 
-## Self-Check: Question 31 {background-color="#FDE8E8"}
+## Self-Check: Question 74 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 31
+### Question 74
 
 Gender CANNOT be a confounding variable in a study exploring the association between:
 
@@ -1184,12 +2003,12 @@ Gender CANNOT be a confounding variable in a study exploring the association bet
 
 ---
 
-## Self-Check: Question 32 {background-color="#FDE8E8"}
+## Self-Check: Question 75 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 32
+### Question 75
 
 Confounding is a form of which of the following errors?
 
@@ -1201,12 +2020,12 @@ Confounding is a form of which of the following errors?
 
 ---
 
-## Self-Check: Question 33 {background-color="#FDE8E8"}
+## Self-Check: Question 76 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 33
+### Question 76
 
 Another name for “lack of internal validity” is:
 
@@ -1218,12 +2037,12 @@ Another name for “lack of internal validity” is:
 
 ---
 
-## Self-Check: Question 34 {background-color="#FDE8E8"}
+## Self-Check: Question 77 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 34
+### Question 77
 
 Bias can be of which of the following types?
 
@@ -1235,12 +2054,12 @@ Bias can be of which of the following types?
 
 ---
 
-## Self-Check: Question 35 {background-color="#FDE8E8"}
+## Self-Check: Question 78 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 35
+### Question 78
 
 In assessing a cause-and-effect relationship, we exclude the role of certain factors and then evaluate the relationship against causal criteria. The correct sequence is:
 
@@ -1252,12 +2071,12 @@ In assessing a cause-and-effect relationship, we exclude the role of certain fac
 
 ---
 
-## Self-Check: Question 36 {background-color="#FDE8E8"}
+## Self-Check: Question 79 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 36
+### Question 79
 
 In assessing whether a cause-and-effect relationship exists between an exposure and an outcome, we ascertain that:
 
@@ -1269,12 +2088,12 @@ In assessing whether a cause-and-effect relationship exists between an exposure 
 
 ---
 
-## Self-Check: Question 37 {background-color="#FDE8E8"}
+## Self-Check: Question 80 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 37
+### Question 80
 
 A key criterion supporting causation rather than mere association is:
 
@@ -1286,12 +2105,12 @@ A key criterion supporting causation rather than mere association is:
 
 ---
 
-## Self-Check: Question 38 {background-color="#FDE8E8"}
+## Self-Check: Question 81 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 38
+### Question 81
 
 The essential condition that must be satisfied before considering a causal relationship is:
 
@@ -1303,12 +2122,12 @@ The essential condition that must be satisfied before considering a causal relat
 
 ---
 
-## Self-Check: Question 39 {background-color="#FDE8E8"}
+## Self-Check: Question 82 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 39
+### Question 82
 
 The statement “the higher the relative risk, the more likely the association is causal” reflects which criterion of causal association?
 
@@ -1320,12 +2139,12 @@ The statement “the higher the relative risk, the more likely the association i
 
 ---
 
-## Self-Check: Question 40 {background-color="#FDE8E8"}
+## Self-Check: Question 83 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 40
+### Question 83
 
 A high odds ratio in a case-control study always indicates:
 
@@ -1337,12 +2156,12 @@ A high odds ratio in a case-control study always indicates:
 
 ---
 
-## Self-Check: Question 41 {background-color="#FDE8E8"}
+## Self-Check: Question 84 {background-color="#FDE8E8"}
 
 🧡 **QUESTION (select ALL that apply)**
 
 ::: {.quiz-question .quiz-multiple}
-### Question 41
+### Question 84
 
 Criteria often discussed in causal inference include:
 
@@ -1354,12 +2173,12 @@ Criteria often discussed in causal inference include:
 
 ---
 
-## Self-Check: Question 42 {background-color="#FDE8E8"}
+## Self-Check: Question 85 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 42
+### Question 85
 
 **Assertion (A):** Temporality is an essential criterion for concluding causation.
 
@@ -1373,12 +2192,12 @@ Criteria often discussed in causal inference include:
 
 ---
 
-## Self-Check: Question 43 {background-color="#FDE8E8"}
+## Self-Check: Question 86 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 43
+### Question 86
 
 Measuring a patient’s BP immediately after they have climbed 50 stairs to reach the clinic will result in:
 
@@ -1390,12 +2209,12 @@ Measuring a patient’s BP immediately after they have climbed 50 stairs to reac
 
 ---
 
-## Self-Check: Question 44 {background-color="#FDE8E8"}
+## Self-Check: Question 87 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 44
+### Question 87
 
 In a hypertension survey, young men walked 2 km from the parking lot and their BP was measured immediately on arrival, without rest. This will adversely affect the:
 
@@ -1407,12 +2226,12 @@ In a hypertension survey, young men walked 2 km from the parking lot and their B
 
 ---
 
-## Self-Check: Question 45 {background-color="#FDE8E8"}
+## Self-Check: Question 88 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 45
+### Question 88
 
 The ability of a measurement process to give consistent results when repeated is called:
 
@@ -1424,12 +2243,12 @@ The ability of a measurement process to give consistent results when repeated is
 
 ---
 
-## Self-Check: Question 46 {background-color="#FDE8E8"}
+## Self-Check: Question 89 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 46
+### Question 89
 
 The ability of a measurement process to correctly measure what it actually intends to measure is known as:
 
@@ -1441,12 +2260,12 @@ The ability of a measurement process to correctly measure what it actually inten
 
 ---
 
-## Self-Check: Question 47 {background-color="#FDE8E8"}
+## Self-Check: Question 90 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 47
+### Question 90
 
 A CT scan of an unconscious patient’s brain was read independently by two radiologists. One reported a mild left subthalamic bleed and the other reported it as normal. This is a situation of:
 
@@ -1458,12 +2277,12 @@ A CT scan of an unconscious patient’s brain was read independently by two radi
 
 ---
 
-## Self-Check: Question 48 {background-color="#FDE8E8"}
+## Self-Check: Question 91 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 48
+### Question 91
 
 In women, body temperature taken immediately on waking is higher at the time of ovulation. This is an example of:
 
@@ -1475,12 +2294,12 @@ In women, body temperature taken immediately on waking is higher at the time of 
 
 ---
 
-## Self-Check: Question 49 {background-color="#FDE8E8"}
+## Self-Check: Question 92 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 49
+### Question 92
 
 Standardization of instruments and measurement technique will ensure all of the following, EXCEPT:
 

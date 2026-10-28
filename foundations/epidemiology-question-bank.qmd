@@ -18,13 +18,14 @@ A written companion to the four decks that carry the 15 CM7 lectures:
 Questions are organized by lecture. Descriptive questions (long essay, short
 essay, short notes, reasoning, case scenario) are for written practice.
 MCQs (single best answer, multiple correct, assertion–reason) are followed
-by a lettered answer key. Try them before checking. The same 183 MCQs
+by a lettered answer key. Try them before checking. The same 270 MCQs
 appear as interactive Self-Check slides at the end of each lecture in
 the decks.
 
 **Sources:** the faculty question bank (Section V, Chapter 19 *Principles
 and Practice of Epidemiology*), review exercises from *Community Medicine
-with Recent Advances* (9th ed.), Section 3, Chapters 9–14, the decks'
+with Recent Advances* (9th ed.), Section 3, Chapters 9–21 and its
+University Examination Questions (listed under each lecture), the decks'
 earlier Self-Check questions, and new questions written for the thinner
 lectures (10–15).
 
@@ -44,6 +45,20 @@ false, R is true.
   (retrieved 28 Oct 2026).
 - *Sources of Information (Ch 11) MCQs*: the answer key was not in the
   images supplied. The answers here follow Park / RGI / MoHFW sources.
+- *Case-control helmet exercise (Ch 18, Q13)*: the printed answer (OR
+  1.22, etiological fraction 18%) is an arithmetic error. (55 × 68) ÷
+  (45 × 32) = 2.6, and EF = (OR − 1)/OR ≈ 61%. The key here uses the
+  corrected values.
+- *Cohort Q2 (Ch 17)*: the printed key, "preventive factors cannot be
+  studied by a cohort study", is kept. Observational cohorts can still
+  show protective associations.
+- *Screening Q8 (Ch 19)*: the stem prints "very high specificity and only
+  moderate specificity". The second word should be "sensitivity".
+- *Digital health (Ch 21)*: NDHM (2020) is now the Ayushman Bharat
+  Digital Mission (ABDM, 2021). The explanations note this.
+- *First step in epidemic investigation (Ch 20, Q1)*: the textbook and
+  Park put verification of the diagnosis first. The CDC 10-step list puts
+  establishing the outbreak first. The decks show both.
 
 ------------------------------------------------------------------------
 
@@ -66,6 +81,11 @@ false, R is true.
 
 4. Aims of epidemiology.
 5. The epidemiological approach.
+
+**University Examination Questions**
+
+6. Define epidemiology.
+7. Uses of epidemiology.
 
 ### Multiple Choice Questions
 
@@ -279,6 +299,11 @@ false, R is true.
 5. Why is incidence preferred over prevalence for studying disease causation?
 6. Give reasons why prevalence depends on both the incidence and the duration of disease.
 
+**University Examination Questions**
+
+7. Incidence and prevalence.
+8. Define point prevalence.
+
 ### Multiple Choice Questions
 
 Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 2000 – January 2003):
@@ -457,6 +482,10 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 **Exercise**
 
 6. A 54-year-old male with a past history of type 2 diabetes mellitus developed acute STEMI on 22 May 2016 and was admitted to the ICU. On 24 May he developed atrial fibrillation, followed by embolism of the right MCA. He was placed on ventilator and vasopressor support but died on 27 May 2016 at 4 p.m. Prepare his death certificate (MCCD).
+
+**University Examination Questions**
+
+7. Health intelligence.
 
 ### Multiple Choice Questions
 
@@ -657,6 +686,12 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 8. Epidemic.
 9. Sporadic diseases.
 10. Exotic diseases, with examples.
+
+**University Examination Questions**
+
+11. Define an epidemic. Enumerate the various types of epidemics with examples.
+12. Common-source epidemics.
+13. Epidemic curve.
 
 ### Multiple Choice Questions
 
@@ -886,9 +921,114 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
     c. Confirmed case
     d. None of these
 
+33. Which of the following is NOT a characteristic of descriptive studies?
+
+    a. Only one group is studied
+    b. No comparison between groups is made
+    c. Disease is studied according to person, place and time
+    d. A hypothesis regarding a cause–effect relationship is tested
+
+34. State-level data analysed at the central Ministry of Health showed that states with high condom sales also had high death rates from road traffic accidents, and states with low sales had low RTA death rates. The design of this study was:
+
+    a. Longitudinal descriptive
+    b. Cross-sectional descriptive
+    c. Ecological
+    d. None of these
+
+35. In the condom-sales and RTA-deaths study above, the most likely explanation of the finding is:
+
+    a. Condom use causes road traffic accidents
+    b. Ecological fallacy: group-level data cannot show that the individuals who bought condoms were the ones who died in RTAs
+    c. Recall bias
+    d. Berkson’s bias
+
+36. A cross-sectional descriptive study will give us the:
+
+    a. Incidence rate
+    b. Prevalence
+    c. Relative risk
+    d. Odds ratio
+
+37. Which of the following is NOT a use of descriptive studies?
+
+    a. It helps in developing a hypothesis
+    b. It tells us about the efficacy of a new drug
+    c. It helps in making a community diagnosis
+    d. It helps in studying the natural history of a disease
+
+38. Which of the following is NOT an example of an “ethnic group”?
+
+    a. Africans
+    b. Indians
+    c. Doctors
+    d. Jews
+
+39. At a wedding party, the food was contaminated with Staphylococcus aureus toxin. The resulting epidemic curve would be of which type?
+
+    a. Common vehicle, single exposure
+    b. Common vehicle, continued exposure
+    c. Propagated curve
+    d. Secular trend
+
+40. Which of the following does NOT show seasonal fluctuation?
+
+    a. Malaria
+    b. HIV infection
+    c. Hay fever
+    d. Meningitis
+
+41. IHD incidence is low in Japan and high in the USA. Japanese people who migrated to the USA had high rates of IHD after living there for 25 years. This indicates that IHD has a predominantly:
+
+    a. Genetic background
+    b. Environmental (lifestyle) background
+    c. Both of these
+    d. None of these
+
+42. In a study, 1000 persons infected with HIV but asymptomatic were followed up until death. This is an example of a:
+
+    a. Cross-sectional descriptive study
+    b. Longitudinal descriptive study
+    c. Ecological study
+    d. Experimental study
+
+43. A spot map is used to describe:
+
+    a. Distribution according to person-related variables
+    b. Distribution according to place
+    c. Distribution according to time
+    d. None of these
+
+44. In our country, the incidence of IHD has shown a consistently rising trend every year since 1960. This is an example of:
+
+    a. Distribution according to person-related variables
+    b. Distribution according to place
+    c. Distribution according to time
+    d. None of these
+
+45. An epidemic curve is used to describe:
+
+    a. Distribution according to person-related variables
+    b. Distribution according to place
+    c. Distribution according to time
+    d. None of these
+
+46. Children of Indians who settled in the USA show higher rates of IHD than populations in India, but the same rates as the native US population. This is which type of study?
+
+    a. Twin study
+    b. Migrant study
+    c. Ecological study
+    d. Secular trend
+
+47. Which of the following studies are used to identify whether a disease has a mainly genetic or mainly environmental background?
+
+    a. Twin studies
+    b. Migrant studies
+    c. Both of these
+    d. None of these
+
 **B. Multiple Correct Answer (MCMA) — select all that apply**
 
-33. Typical epidemiological study designs include:
+48. Typical epidemiological study designs include:
 
     a. Cohort study
     b. Clinical case report as an analytical design
@@ -901,7 +1041,8 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 9-c, 10-a, 11-c, 12-a, 13-d, 14-b, 15-b, 16-a\
 17-d, 18-a, 19-b, 20-c, 21-c, 22-b, 23-d, 24-b\
 25-a, 26-b, 27-a, 28-c, 29-a, 30-c, 31-a, 32-b\
-33-acd
+33-d, 34-c, 35-b, 36-b, 37-b, 38-c, 39-a, 40-b\
+41-b, 42-b, 43-b, 44-c, 45-c, 46-b, 47-c, 48-acd
 
 ------------------------------------------------------------------------
 
@@ -929,6 +1070,28 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 6. Explain why the odds ratio is used instead of relative risk in case-control studies.
 7. Why does rarity of disease allow the odds ratio to approximate relative risk?
+
+**Case Scenario**
+
+8. You are planning a case-control study to test whether women with a family history of breast cancer have a higher risk of breast cancer.
+
+   a. How will you select the cases?
+   b. How will you select the controls? Can you take controls from the same family?
+   c. How will you measure family history of breast cancer?
+   d. What measurement (information) biases may occur in this study?
+   e. How will you measure the strength of association, and which test of significance will you apply?
+   f. How will you deal with confounding variables?
+
+**Numerical**
+
+9. In a case-control study of helmet use, 55 of 87 fatal and 45 of 113 non-fatal head-injury cases had not used helmets (cases = fatal injury). Calculate the odds ratio and the etiological fraction, and interpret them.
+
+**University Examination Questions**
+
+10. Define epidemiology. List the various epidemiological study designs. Briefly discuss the steps in a case-control study.
+11. Classify epidemiological studies. Write the steps for conducting a case-control study.
+12. Odds ratio.
+13. Bias in case-control studies.
 
 ### Multiple Choice Questions
 
@@ -990,19 +1153,104 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
    c. 6.0
    d. 8.0
 
+9. In a standard 2 × 2 table, the odds ratio is measured as:
+
+   a. (a × b)/(c × d)
+   b. (a × d)/(b × c)
+   c. (a × c)/(b × d)
+   d. None of these
+
+10. Which of the following is the biggest problem in the conduct of case-control studies?
+
+    a. Logistic efforts
+    b. Large number of subjects
+    c. Loss to follow-up
+    d. Selection of appropriate controls
+
+11. Which of the following is correct about case-control studies?
+
+    a. Incidence can be calculated
+    b. They are good for studying risk factors of rare diseases
+    c. Relative risk can be calculated
+    d. They take a long time
+
+12. A case-control study is also known as a:
+
+    a. Biased study
+    b. Cross-sectional study
+    c. Hill’s study
+    d. Trohoc study
+
+13. Which of the following is correct for a case-control study?
+
+    a. Two groups with neither exposure nor outcome are followed for a defined period for development of outcome
+    b. Two comparable groups, one with the outcome and the other without, are taken and the history of exposure is obtained from both
+    c. A single group is studied for exposure and outcome at one point in time
+    d. A group with exposure but not the disease is followed for a defined period
+
+14. What is the measure of effect calculated in a case-control study?
+
+    a. RR
+    b. OR
+    c. Prevalence
+    d. All of these
+
+15. A case-control study:
+
+    a. Is always retrospective
+    b. Is always prospective
+    c. Can be retrospective or prospective
+    d. Gives us the prevalence of the disease
+
+16. Which of the following is NOT an advantage of case-control studies?
+
+    a. They are much less expensive
+    b. They require little time to complete
+    c. They have minimal recall bias
+    d. They are good for studying risk factors of a rare disease
+
+17. A case-control study is one in which the epidemiologist starts with two comparable groups of subjects, of which:
+
+    a. One has the exposure and the other does not
+    b. One has the outcome and the other does not
+    c. Both groups have the outcome
+    d. Both groups have the exposure
+
+18. For the OR to be a valid estimator of risk in a case-control study, which of the following are essential?
+
+    a. The outcome (disease) should be rare in the population
+    b. Controls should come from the same source as the cases
+    c. Both of these
+    d. None of these
+
+19. In a case-control study, survivorship (Neyman, prevalence–incidence) bias is most likely for which of the following diseases?
+
+    a. Institutional normal delivery
+    b. Coryza
+    c. Myocardial infarction
+    d. Colles fracture sustained while playing sports
+
+20. Of 100 two-wheeler accident victims who did not use helmets, 55 had fatal and 45 non-fatal head injuries. Of 100 who used helmets, 32 had fatal and 68 non-fatal head injuries. The odds ratio for fatal head injury with non-use of helmets is about:
+
+    a. 1.22
+    b. 1.72
+    c. 2.6
+    d. 3.9
+
 **C. Assertion–Reason (A-R)**
 
-9. **Assertion (A):** Recall bias is commonly seen in cohort studies. **Reason (R):** Recall bias mainly affects studies where past exposure is assessed after disease occurrence.
+21. **Assertion (A):** Recall bias is commonly seen in cohort studies. **Reason (R):** Recall bias mainly affects studies where past exposure is assessed after disease occurrence.
 
-   a. Both A and R are true, and R is the correct explanation of A
-   b. Both A and R are true, but R is NOT the correct explanation of A
-   c. A is true, R is false
-   d. A is false, R is true
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is NOT the correct explanation of A
+    c. A is true, R is false
+    d. A is false, R is true
 
 ### Answers
 
 **MCQs:** 1-b, 2-d, 3-c, 4-d, 5-a, 6-a, 7-b, 8-c\
-9-d
+9-b, 10-d, 11-b, 12-d, 13-b, 14-b, 15-a, 16-c\
+17-b, 18-c, 19-c, 20-c, 21-d
 
 ------------------------------------------------------------------------
 
@@ -1030,6 +1278,14 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 **Reasoning Type**
 
 7. Give reasons why loss to follow-up threatens validity in cohort studies.
+
+**Numerical**
+
+8. Smokers and non-smokers free of lung cancer were followed for 15 years: 70 of 7,000 smokers and 3 of 3,000 non-smokers developed lung cancer. Calculate RR, AR, the etiological fraction (AR%) and PAR%, and explain what each means.
+
+**University Examination Questions**
+
+9. Mention two advantages of a cohort study.
 
 ### Multiple Choice Questions
 
@@ -1084,18 +1340,132 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
    c. Case-control study
    d. Cross-sectional study
 
+8. Loss to follow-up is likely in which of the following studies?
+
+   a. Case-control study
+   b. Cross-sectional analytical study
+   c. Ecological study
+   d. Cohort study
+
+9. The measure of risk in a cohort study is:
+
+   a. Relative risk
+   b. Prevalence odds ratio
+   c. Exposure odds ratio
+   d. None of these
+
+10. A cohort study can be used to study all of the following, EXCEPT:
+
+    a. Risk markers
+    b. Risk factors
+    c. Prognostic factors
+    d. Preventive factors
+
+11. The direction of reasoning in a cohort study is:
+
+    a. Prospective
+    b. Retrospective
+    c. None of these
+    d. Both of these
+
+12. Temporal association of a disease is best established by a:
+
+    a. Case-control study
+    b. Cross-sectional study
+    c. Cohort study
+    d. None of these
+
+13. Which type of bias is NOT likely in a cohort study?
+
+    a. Recall bias
+    b. Loss to follow-up bias
+    c. Confounding
+    d. None of these
+
+14. In which of the following situations should we avoid the cohort design?
+
+    a. Study of a suspected risk factor of a disease
+    b. Study of prognostic factors
+    c. Study of a rare disease
+    d. A study where the likely follow-up period is short
+
+15. Which of the following is correct for a cohort study?
+
+    a. Two groups with neither exposure nor outcome are followed for a defined period
+    b. Two groups, one exposed and one not, both free of the outcome, are followed for a defined period
+    c. A single group is studied for exposure and outcome at one point in time
+    d. A single group with exposure but not the disease is followed for a defined period
+
+16. 300 antenatal women (100 tobacco users, 200 non-users) were followed until delivery to compare the incidence of low birth weight. The comparison cohort in this study is a(n):
+
+    a. Comparison with the general population
+    b. Inbuilt (internal) comparison group
+    c. Specially assembled (external) comparison cohort
+    d. None of these
+
+17. What is the measure of effect calculated in a cohort study?
+
+    a. RR
+    b. OR
+    c. Prevalence
+    d. All of these
+
+18. A cohort study:
+
+    a. Is always retrospective
+    b. Is always prospective
+    c. Can be retrospective or prospective
+    d. Is always cross-sectional
+
+19. Which of the following is NOT an advantage of cohort studies?
+
+    a. They are much less expensive and need little time
+    b. Temporal association is certain
+    c. Recall bias is minimal
+    d. They have a strong design from the epidemiological point of view
+
+20. A cohort study is one in which the epidemiologist starts with two comparable groups, of which:
+
+    a. One has the exposure and the other does not
+    b. One has the outcome and the other does not
+    c. Both groups have the outcome
+    d. None of these
+
+21. A cohort study is NOT suitable for:
+
+    a. Common diseases
+    b. Rare diseases
+    c. Both of these
+    d. None of these
+
+22. Smokers (70 lung cancers in 7,000) and non-smokers (3 in 3,000) were followed for 15 years. The relative risk and attributable risk are:
+
+    a. RR 10; AR 9 per 1000
+    b. RR 9; AR 10 per 1000
+    c. RR 23; AR 7.3 per 1000
+    d. RR 10; AR 90 per 1000
+
+23. In the same smoking study (Iₑ 10, I₀ 1, total population 73/10,000 = 7.3 per 1000), the etiological fraction (AR%) and PAR% are:
+
+    a. 90% and 86%
+    b. 86% and 90%
+    c. 90% and 73%
+    d. 10% and 86%
+
 **C. Assertion–Reason (A-R)**
 
-8. **Assertion (A):** In a cohort study, incidence can be directly measured. **Reason (R):** Participants are followed over time from exposure status to observe the occurrence of new outcomes.
+24. **Assertion (A):** In a cohort study, incidence can be directly measured. **Reason (R):** Participants are followed over time from exposure status to observe the occurrence of new outcomes.
 
-   a. Both A and R are true, and R is the correct explanation of A
-   b. Both A and R are true, but R is NOT the correct explanation of A
-   c. A is true, R is false
-   d. A is false, R is true
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is NOT the correct explanation of A
+    c. A is true, R is false
+    d. A is false, R is true
 
 ### Answers
 
-**MCQs:** 1-b, 2-c, 3-b, 4-a, 5-c, 6-c, 7-b, 8-a
+**MCQs:** 1-b, 2-c, 3-b, 4-a, 5-c, 6-c, 7-b, 8-d\
+9-a, 10-d, 11-a, 12-c, 13-a, 14-c, 15-b, 16-b\
+17-a, 18-c, 19-a, 20-a, 21-b, 22-a, 23-a, 24-a
 
 ------------------------------------------------------------------------
 
@@ -1118,6 +1488,13 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 3. Cross-over type of study design.
 4. Blinding in randomized controlled trials.
 5. Advantages and limitations of animal experiments.
+
+**University Examination Questions**
+
+6. Describe an RCT with a suitable example.
+7. Basic steps in conducting a randomized controlled trial.
+8. Blinding in randomized controlled trials.
+9. Phases of clinical trials.
 
 ### Multiple Choice Questions
 
@@ -1172,18 +1549,125 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
    c. Community trial
    d. Crossover trial
 
+8. In which of the following studies is randomization done?
+
+   a. Case-control study
+   b. Cohort study
+   c. Experimental study
+   d. Cross-sectional study
+
+9. Which is the ideal (most scientific) design for an epidemiological study?
+
+   a. Case-control study
+   b. Cohort study
+   c. Experimental study
+   d. Cross-sectional study
+
+10. An experimental study can be used in all of the following settings, EXCEPT:
+
+    a. Study of risk factors
+    b. Efficacy of preventive procedures
+    c. Efficacy of treatment procedures
+    d. Evaluation of health services
+
+11. An experimental study cannot be used to study:
+
+    a. Risk factors for a disease
+    b. Prognostic factors for a disease
+    c. Both of these
+    d. It can be used to study both
+
+12. Phase IV of a clinical trial is:
+
+    a. Post-marketing surveillance
+    b. Clinical trial
+    c. Animal studies
+    d. None of these
+
+13. Rofecoxib, a widely used NSAID for rheumatoid arthritis, was withdrawn after reports of adverse cardiovascular effects. This is an example of:
+
+    a. Assessment of adverse effects at MTD
+    b. Assessment of MTD
+    c. A classical randomized controlled trial
+    d. Phase IV of a clinical trial
+
+14. The withdrawal of thalidomide from the market was an example of which phase of clinical trial?
+
+    a. Phase I
+    b. Phase II
+    c. Phase III
+    d. Phase IV
+
+15. A cessation experiment is a type of:
+
+    a. Cohort study
+    b. Experimental study
+    c. Case-control study
+    d. Cross-sectional study
+
+16. In single blinding, who is unaware of the type of treatment being given?
+
+    a. Analyser
+    b. Observer
+    c. Subject
+    d. All of these
+
+17. What is the tool for control of confounding in an experimental design?
+
+    a. Blinding
+    b. Statistical analysis
+    c. Randomization
+    d. None of these
+
+18. In an experimental study, before randomization, the epidemiologist will remove:
+
+    a. All those who already have the exposure
+    b. All those who already have the outcome
+    c. Both of these
+    d. None of these
+
+19. In which experimental study is a group of subjects randomized instead of individual subjects?
+
+    a. Clinical trial
+    b. Preventive trial
+    c. Cessation experiment
+    d. Community intervention trial
+
+20. Imipenem results in ICU septicaemia patients were compared with earlier data from when imipenem was unavailable and cefotaxime was used. This is an example of:
+
+    a. Randomized controlled trial
+    b. Phase I clinical trial
+    c. Quasi-experimental design
+    d. Crossover design
+
+21. Survival on the 10th post-operative day was 45/50 (90%) after CABG on cardiopulmonary bypass and 32/40 (80%) after off-pump CABG. The efficacy (Iₑ/I₀) of CABG with CPB is:
+
+    a. 1.00
+    b. 1.13
+    c. 0.88
+    d. 1.45
+
+22. In the same CABG comparison, the number needed to treat (NNT) is:
+
+    a. 2
+    b. 5
+    c. 10
+    d. 12
+
 **C. Assertion–Reason (A-R)**
 
-8. **Assertion (A):** Confounding can be reduced by randomization in experimental studies. **Reason (R):** Randomization tends to distribute known and unknown confounders equally between groups.
+23. **Assertion (A):** Confounding can be reduced by randomization in experimental studies. **Reason (R):** Randomization tends to distribute known and unknown confounders equally between groups.
 
-   a. Both A and R are true, and R is the correct explanation of A
-   b. Both A and R are true, but R is NOT the correct explanation of A
-   c. A is true, R is false
-   d. A is false, R is true
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is NOT the correct explanation of A
+    c. A is true, R is false
+    d. A is false, R is true
 
 ### Answers
 
-**MCQs:** 1-b, 2-b, 3-c, 4-b, 5-c, 6-a, 7-c, 8-a
+**MCQs:** 1-b, 2-b, 3-c, 4-b, 5-c, 6-a, 7-c, 8-c\
+9-c, 10-a, 11-c, 12-a, 13-d, 14-d, 15-b, 16-c\
+17-c, 18-c, 19-d, 20-c, 21-b, 22-c, 23-a
 
 ------------------------------------------------------------------------
 
@@ -1209,6 +1693,11 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 7. Justify why temporality is considered a mandatory criterion for causation.
 8. Explain how confounding can distort an observed exposure–disease association.
+
+**University Examination Questions**
+
+9. What is bias?
+10. Confounding factors in epidemiological studies (research).
 
 ### Multiple Choice Questions
 
@@ -1411,6 +1900,11 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 4. Carriers.
 5. Incubation period and its uses.
 6. Basic reproduction number (R₀).
+
+**University Examination Questions**
+
+7. Epidemiological triad.
+8. Define “agent” in disease causation. Explain the different types of agents.
 
 ### Multiple Choice Questions
 
@@ -1631,6 +2125,11 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
    d. Mention two possible sources of infection in this locality.
    e. How does epidemiology help in planning control measures in such situations?
 
+**University Examination Questions**
+
+6. Enumerate the different types of epidemics. Write down the steps in the investigation of an epidemic.
+7. Monitoring and surveillance.
+
 ### Multiple Choice Questions
 
 **A. Single Best Answer (SBA)**
@@ -1642,37 +2141,172 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
    c. Implement control measures
    d. Communicate findings
 
-2. When investigating a suspected outbreak, the first step after preparation for field work is to:
-
-   a. Implement control measures
-   b. Confirm the existence of an epidemic and verify the diagnosis
-   c. Formulate a hypothesis
-   d. Write the report
-
-3. On the IHIP platform under IDSP, the “P” form is used to report:
+2. On the IHIP platform under IDSP, the “P” form is used to report:
 
    a. Patients admitted to hospital
    b. Presumptive cases diagnosed by clinicians
    c. Polio cases only
    d. Private-sector laboratory results
 
-4. Surveillance in which health workers make house-to-house visits to search for fever cases and collect blood smears is:
+3. Surveillance in which health workers make house-to-house visits to search for fever cases and collect blood smears is:
 
    a. Passive surveillance
    b. Active surveillance
    c. Sentinel surveillance
    d. Syndromic surveillance
 
-5. Selected reporting sites that systematically report a specific disease, used to detect trends that routine reporting misses, constitute:
+4. Selected reporting sites that systematically report a specific disease, used to detect trends that routine reporting misses, constitute:
 
    a. Passive surveillance
    b. Active surveillance
    c. Sentinel surveillance
    d. Census
 
+5. The very first step in the investigation of an epidemic is:
+
+   a. Confirmation of the existence of an epidemic
+   b. Verification of the diagnosis
+   c. Development of an epidemiological case sheet
+   d. Formulation of a hypothesis
+
+6. A nominal roll of the cases already reported to health-care establishments (dispensaries, general practitioners, hospitals) up to the present moment would form a:
+
+   a. Line list
+   b. Epidemiological list
+   c. Case summary
+   d. Secondary data
+
+7. To call a health-related event an epidemic, the incidence rate is computed and compared with the rate in the same population during the corresponding period of the past:
+
+   a. 1 year
+   b. 3 years
+   c. 10 years
+   d. No specific time frame is laid down
+
+8. An epidemic is described in all of the following ways, EXCEPT according to:
+
+   a. Time characteristics
+   b. International characteristics
+   c. Person characteristics
+   d. Place characteristics
+
+9. Once the source of infection in an epidemic is identified, all of the following are measures for control and prevention of the SOURCE, EXCEPT:
+
+   a. Vector control
+   b. Notification
+   c. Isolation, if required
+   d. Detection and treatment of cases and carriers
+
+10. Which type of survey provides an exact estimate of incidence?
+
+    a. Hospital-based survey
+    b. Hybrid survey
+    c. Cross-sectional survey
+    d. Longitudinal survey
+
+11. Which of the following is generally NOT undertaken in the analysis of a community-based (descriptive) survey?
+
+    a. Stratified analysis for control of confounding
+    b. Line diagram showing seasonal variation in important diseases
+    c. Percentage-wise distribution according to age
+    d. Spot map showing the main residential and work areas
+
+12. The large collection of humanity to which the findings of a survey will be generalized is called the:
+
+    a. Study population
+    b. Sample population
+    c. Universe
+    d. Common population
+
+13. All of the following are important ethical issues to be addressed in a proposed survey, EXCEPT:
+
+    a. Provision of a cash benefit
+    b. Provision of a health-care benefit
+    c. Confidentiality
+    d. Informed consent
+
+14. The ongoing collection, analysis and feedback of data related to a particular disease or group of diseases is:
+
+    a. Longitudinal survey
+    b. Cross-sectional survey
+    c. Surveillance
+    d. Ecological study
+
+15. Which of the following is NOT a database program?
+
+    a. Access
+    b. FoxPro
+    c. Excel
+    d. dBase
+
+16. “PACS” is a system used in health care for:
+
+    a. Making presentations
+    b. Searching literature for medical research
+    c. Transmitting images for quick diagnosis
+    d. Accreditation of hospitals
+
+17. Which statistical analysis package was developed by CDC Atlanta and WHO for analysing health research data?
+
+    a. EPI-Info
+    b. SPSS
+    c. STATA
+    d. MINITAB
+
+18. A Microsoft package for basic financial management in health care is:
+
+    a. Word
+    b. PowerPoint
+    c. Access
+    d. Excel
+
+19. During the COVID-19 pandemic, a unique feature in health care was the development of various modalities for:
+
+    a. Applications informing the community about the disease’s symptoms
+    b. Developing a database of hospitals
+    c. Development of PPE
+    d. Teaching and training of medical students
+
+20. Registration for COVID-19 vaccination could be done using:
+
+    a. CoWIN
+    b. Aarogya Setu
+    c. IDSP portal
+    d. UIP portal
+
+21. The National Digital Health Mission (NDHM) was launched in:
+
+    a. 2001
+    b. 2014
+    c. 2019
+    d. 2020
+
+22. The Aarogya Setu app is concerned with:
+
+    a. Free cashless services for families below the poverty line
+    b. Assessing one’s own risk of COVID-19
+    c. Vaccination
+    d. Portable health care for treatment anywhere in the country
+
+23. The national helpline number launched around Republic Day 2021 is:
+
+    a. 102
+    b. 1075
+    c. 1078
+    d. 14567
+
+24. Which of the following functions will NOT be possible through the NDHM (now ABDM)?
+
+    a. Knowing the medical history of a person
+    b. Predicting a person’s risk of suffering from diseases
+    c. Undertaking health research
+    d. Obtaining a database of health-care facilities
+
 ### Answers
 
-**MCQs:** 1-b, 2-b, 3-b, 4-b, 5-c
+**MCQs:** 1-b, 2-b, 3-b, 4-c, 5-b, 6-a, 7-b, 8-b\
+9-a, 10-d, 11-a, 12-c, 13-a, 14-c, 15-c, 16-c\
+17-a, 18-d, 19-d, 20-a, 21-d, 22-b, 23-d, 24-b
 
 ------------------------------------------------------------------------
 
@@ -1693,6 +2327,12 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 4. Wilson and Jungner criteria.
 5. Multiphasic screening.
 6. Lead time.
+
+**University Examination Questions**
+
+7. Definition of screening.
+8. Criteria for a screening test.
+9. Types of screening.
 
 ### Multiple Choice Questions
 
@@ -1747,9 +2387,16 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
    c. Multiphasic screening
    d. Opportunistic screening
 
+8. Which of the following considerations is NOT required when undertaking a screening programme?
+
+   a. The disease should be a public health problem
+   b. The disease should be vaccine-preventable
+   c. There should be an acceptable and effective treatment
+   d. Facilities for confirming the diagnosis and for treatment should be available
+
 ### Answers
 
-**MCQs:** 1-b, 2-b, 3-c, 4-a, 5-b, 6-c, 7-b
+**MCQs:** 1-b, 2-b, 3-c, 4-a, 5-b, 6-c, 7-b, 8-b
 
 ------------------------------------------------------------------------
 
@@ -1776,6 +2423,12 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 **Numerical**
 
 6. A new test was applied to 500 persons, 100 of whom had the disease (confirmed by a gold standard). The test was positive in 90 diseased and 40 non-diseased persons. Calculate sensitivity, specificity, PPV, NPV, and the false-positive and false-negative rates.
+
+**University Examination Questions**
+
+7. Sensitivity and specificity.
+8. Define the positive predictive value of a screening test.
+9. Lead time.
 
 ### Multiple Choice Questions
 
@@ -1837,6 +2490,71 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
    c. Overdiagnosis
    d. False positive
 
+9. What is the numerator in calculating the sensitivity of a test?
+
+   a. True positives
+   b. True negatives
+   c. False positives
+   d. False negatives
+
+10. What is the denominator for calculating the specificity of a test?
+
+    a. True positives and true negatives
+    b. True negatives and false positives
+    c. False positives and false negatives
+    d. False negatives and true positives
+
+11. Which test is preferred for ruling IN a disease?
+
+    a. Highly sensitive test
+    b. Low-specificity test
+    c. Highly specific test
+    d. None of these
+
+12. Which of the following is a fixed parameter of a screening test?
+
+    a. Sensitivity
+    b. Negative predictive value
+    c. Positive predictive value
+    d. None of these
+
+13. The predictive value of a screening test depends on:
+
+    a. Prevalence
+    b. Sensitivity
+    c. Health worker
+    d. None of these
+
+14. The WHO cut-off for impaired fasting glucose is 110 mg/dl, while the American Diabetes Association uses 100 mg/dl. Using the lower (ADA) cut-off instead of the WHO one will:
+
+    a. Increase sensitivity
+    b. Increase specificity
+    c. Increase the positive predictive value
+    d. Cause no change
+
+15. A COVID-19 Rapid Antigen Test has very high specificity but only moderate sensitivity. It is therefore most appropriate for:
+
+    a. Diagnosis of COVID-19 in persons with influenza-like symptoms
+    b. Diagnosis of COVID-19 in asymptomatic persons
+    c. Screening asymptomatic contacts of confirmed patients
+    d. Surveillance of COVID-19 in the general population
+
+16. A single ELISA test for HIV will have the highest positive predictive value in which group?
+
+    a. Voluntary blood donors
+    b. Antenatal women
+    c. Female sex workers
+    d. Patients with herpes zoster
+
+17. The “positive likelihood ratio” of a screening test is calculated as:
+
+    a. Specificity ÷ (1 − sensitivity)
+    b. Sensitivity ÷ (1 − specificity)
+    c. (1 − specificity) ÷ specificity
+    d. (1 − sensitivity) ÷ specificity
+
 ### Answers
 
-**MCQs:** 1-c, 2-b, 3-b, 4-a, 5-a, 6-b, 7-b, 8-c
+**MCQs:** 1-c, 2-b, 3-b, 4-a, 5-a, 6-b, 7-b, 8-c\
+9-a, 10-b, 11-c, 12-a, 13-a, 14-a, 15-a, 16-c\
+17-b

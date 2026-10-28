@@ -180,6 +180,15 @@ and act, *before* germ theory existed.
 
 ---
 
+## Practice Questions: Descriptive (Lecture 1, contd.) {background-color="#FFF6DA"}
+
+**University Examination Questions**
+
+6. Define epidemiology.
+7. Uses of epidemiology.
+
+---
+
 ## Self-Check: Question 1 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -807,6 +816,15 @@ Use this figure for the TB questions in the Self-Check below.
 
 ---
 
+## Practice Questions: Descriptive (Lecture 3, contd.) {background-color="#FFF6DA"}
+
+**University Examination Questions**
+
+7. Incidence and prevalence.
+8. Define point prevalence.
+
+---
+
 ## Self-Check: Question 22 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -1269,6 +1287,10 @@ The workers die at **1.5 times** the rate expected for their age structure, whic
 **Exercise**
 
 6. A 54-year-old male with a past history of type 2 diabetes mellitus developed acute STEMI on 22 May 2016 and was admitted to the ICU. On 24 May he developed atrial fibrillation, followed by embolism of the right MCA. He was placed on ventilator and vasopressor support but died on 27 May 2016 at 4 p.m. Prepare his death certificate (MCCD).
+
+**University Examination Questions**
+
+7. Health intelligence.
 
 ---
 
@@ -1745,6 +1767,23 @@ Secular trends help doctors and planners judge whether a problem is growing, and
 
 ---
 
+## Types of Descriptive Studies {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Type | What it does | Example |
+|---|---|---|
+| **Case report / case series** | Describes one or a few patients | 20% of acute glomerulonephritis cases had a sore throat 3–4 weeks before |
+| **Cross-sectional descriptive** | One-time snapshot; gives **prevalence** | Anaemia survey of pregnant women |
+| **Longitudinal descriptive** | Follows one group over time; gives natural history and incidence | 1000 asymptomatic HIV-positive persons followed until death |
+| **Migrant studies** | Compare migrants with home and host populations | Japanese migrants to the USA: IHD rises to US levels |
+| **Twin studies** | Compare monozygotic and dizygotic twins | Genetic vs environmental share of a disease |
+| **Ecological (correlational)** | Group-level exposure vs outcome | Fat intake and breast cancer across 20 countries |
+
+None of these has a comparison group, so they **generate** hypotheses and cannot test them.
+
+---
+
 ## Operational Case Definitions {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -1834,6 +1873,16 @@ A **2 × 2 table** (exposure × outcome) can only be built when groups are **com
 8. Epidemic.
 9. Sporadic diseases.
 10. Exotic diseases, with examples.
+
+---
+
+## Practice Questions: Descriptive (Lecture 5, contd.) {background-color="#FFF6DA"}
+
+**University Examination Questions**
+
+11. Define an epidemic. Enumerate the various types of epidemics with examples.
+12. Common-source epidemics.
+13. Epidemic curve.
 
 ---
 
@@ -2393,6 +2442,261 @@ Fever rising in a step-ladder pattern, with initial constipation followed by pea
 - Suspected case
 - [Probable case]{.correct data-explanation="A compatible clinical picture plus supportive non-specific laboratory findings (leucopenia) makes a probable case. Confirmation needs isolation of S. Typhi or Paratyphi (blood culture)."}
 - Confirmed case
+- None of these
+:::
+
+---
+
+## Self-Check: Question 97 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 97
+
+Which of the following is NOT a characteristic of descriptive studies?
+
+- Only one group is studied
+- No comparison between groups is made
+- Disease is studied according to person, place and time
+- [A hypothesis regarding a cause–effect relationship is tested]{.correct data-explanation="Descriptive studies describe one group by time, place and person and generate hypotheses. Testing hypotheses needs a comparison group, which is an analytical study."}
+:::
+
+---
+
+## Self-Check: Question 98 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 98
+
+State-level data analysed at the central Ministry of Health showed that states with high condom sales also had high death rates from road traffic accidents, and states with low sales had low RTA death rates. The design of this study was:
+
+- Longitudinal descriptive
+- Cross-sectional descriptive
+- [Ecological]{.correct data-explanation="Both exposure (condom sales) and outcome (RTA deaths) are aggregate data for whole states, not for individuals. That makes it an ecological (correlational) study."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 99 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 99
+
+In the condom-sales and RTA-deaths study above, the most likely explanation of the finding is:
+
+- Condom use causes road traffic accidents
+- [Ecological fallacy: group-level data cannot show that the individuals who bought condoms were the ones who died in RTAs]{.correct data-explanation="With aggregate data only, a group-level correlation may not hold for individuals. The buyers of condoms may not be the people who died, and a third factor (e.g. urbanization, vehicle density) may drive both. No conclusion can be drawn without individual data."}
+- Recall bias
+- Berkson’s bias
+:::
+
+---
+
+## Self-Check: Question 100 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 100
+
+A cross-sectional descriptive study will give us the:
+
+- Incidence rate
+- [Prevalence]{.correct data-explanation="A one-time snapshot counts existing cases, so it gives prevalence. Incidence needs follow-up, and RR or OR need comparison groups."}
+- Relative risk
+- Odds ratio
+:::
+
+---
+
+## Self-Check: Question 101 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 101
+
+Which of the following is NOT a use of descriptive studies?
+
+- It helps in developing a hypothesis
+- [It tells us about the efficacy of a new drug]{.correct data-explanation="Drug efficacy needs a comparison of treated and control groups, ideally in an RCT. Descriptive studies generate hypotheses, support community diagnosis and describe natural history."}
+- It helps in making a community diagnosis
+- It helps in studying the natural history of a disease
+:::
+
+---
+
+## Self-Check: Question 102 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 102
+
+Which of the following is NOT an example of an “ethnic group”?
+
+- Africans
+- Indians
+- [Doctors]{.correct data-explanation="Ethnic groups share ancestry, culture or religion. Doctors are an occupational group, which is a different person variable. (The textbook&#x27;s first option uses a dated term for people of African descent.)"}
+- Jews
+:::
+
+---
+
+## Self-Check: Question 103 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 103
+
+At a wedding party, the food was contaminated with Staphylococcus aureus toxin. The resulting epidemic curve would be of which type?
+
+- [Common vehicle, single exposure]{.correct data-explanation="One meal is a single exposure to a common vehicle. All cases occur within one incubation period (1–6 hours for staphylococcal toxin), with a sharp rise and fall."}
+- Common vehicle, continued exposure
+- Propagated curve
+- Secular trend
+:::
+
+---
+
+## Self-Check: Question 104 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 104
+
+Which of the following does NOT show seasonal fluctuation?
+
+- Malaria
+- [HIV infection]{.correct data-explanation="Malaria (monsoon vectors), hay fever (pollen season) and meningococcal meningitis (dry season) are seasonal. HIV transmission has no seasonal pattern."}
+- Hay fever
+- Meningitis
+:::
+
+---
+
+## Self-Check: Question 105 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 105
+
+IHD incidence is low in Japan and high in the USA. Japanese people who migrated to the USA had high rates of IHD after living there for 25 years. This indicates that IHD has a predominantly:
+
+- Genetic background
+- [Environmental (lifestyle) background]{.correct data-explanation="The migrants&#x27; genes did not change, but their risk moved toward the host population&#x27;s. That points to environmental and lifestyle factors (diet, activity)."}
+- Both of these
+- None of these
+:::
+
+---
+
+## Self-Check: Question 106 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 106
+
+In a study, 1000 persons infected with HIV but asymptomatic were followed up until death. This is an example of a:
+
+- Cross-sectional descriptive study
+- [Longitudinal descriptive study]{.correct data-explanation="A single group is followed over time to describe the natural history, with no comparison group. That is a longitudinal descriptive study."}
+- Ecological study
+- Experimental study
+:::
+
+---
+
+## Self-Check: Question 107 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 107
+
+A spot map is used to describe:
+
+- Distribution according to person-related variables
+- [Distribution according to place]{.correct data-explanation="A spot map plots cases by residence or workplace, which is place distribution (e.g. Snow&#x27;s cholera map)."}
+- Distribution according to time
+- None of these
+:::
+
+---
+
+## Self-Check: Question 108 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 108
+
+In our country, the incidence of IHD has shown a consistently rising trend every year since 1960. This is an example of:
+
+- Distribution according to person-related variables
+- Distribution according to place
+- [Distribution according to time]{.correct data-explanation="A long-term change over decades is a secular trend, which is a time distribution."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 109 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 109
+
+An epidemic curve is used to describe:
+
+- Distribution according to person-related variables
+- Distribution according to place
+- [Distribution according to time]{.correct data-explanation="The epidemic curve plots cases by date of onset, which is the time distribution of an outbreak."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 110 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 110
+
+Children of Indians who settled in the USA show higher rates of IHD than populations in India, but the same rates as the native US population. This is which type of study?
+
+- Twin study
+- [Migrant study]{.correct data-explanation="Comparing migrants (and their offspring) with home and host populations is a migrant study."}
+- Ecological study
+- Secular trend
+:::
+
+---
+
+## Self-Check: Question 111 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 111
+
+Which of the following studies are used to identify whether a disease has a mainly genetic or mainly environmental background?
+
+- Twin studies
+- Migrant studies
+- [Both of these]{.correct data-explanation="Twin studies compare monozygotic and dizygotic twins to tease out genetic contribution. Migrant studies hold genes constant while the environment changes."}
 - None of these
 :::
 
