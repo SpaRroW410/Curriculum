@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="385" viewBox="0 0 920 385" role="img" aria-labelledby="title desc">
+  <title id="title">Types of immunity</title>
+  <desc id="desc">Immunity is innate or acquired. Acquired immunity is active (natural after infection, artificial after vaccination) or passive (natural from maternal antibody, artificial from immunoglobulins and antisera). Active immunity is slow but long-lasting; passive is immediate but short-lived.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="360" y="10" width="200" height="44" rx="8" fill="#E6EEF5" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="460.0" y="37.6" text-anchor="middle" font-family="Georgia, serif" font-size="16" font-weight="bold" fill="#2c3e50">IMMUNITY</text>
+  <rect x="110" y="90" width="240" height="52" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="230.0" y="112.4" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Innate (non-specific)</text>
+  <text x="230.0" y="128.7" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">barriers, phagocytes, complement</text>
+  <rect x="570" y="90" width="240" height="52" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="690.0" y="112.4" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">Acquired (specific)</text>
+  <text x="690.0" y="128.7" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#333">antibodies, T cells</text>
+  <path d="M460,54 L460,72 L230,72 L230,88" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <path d="M460,54 L460,72 L690,72 L690,88" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="420" y="180" width="220" height="52" rx="8" fill="#E8E4F3" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="530.0" y="202.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">ACTIVE</text>
+  <text x="530.0" y="219.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">own immune response</text>
+  <rect x="700" y="180" width="220" height="52" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="810.0" y="202.2" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">PASSIVE</text>
+  <text x="810.0" y="219.7" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">ready-made antibody</text>
+  <path d="M690,142 L690,160 L530,160 L530,178" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <path d="M690,142 L690,160 L810,160 L810,178" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <rect x="322" y="270" width="136" height="74" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="390.0" y="296.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">Natural active</text>
+  <text x="390.0" y="311.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">after infection</text>
+  <text x="390.0" y="326.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">(measles, chickenpox)</text>
+  <rect x="462" y="270" width="136" height="74" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="530.0" y="296.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">Artificial active</text>
+  <text x="530.0" y="311.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">after vaccination</text>
+  <text x="530.0" y="326.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">(BCG, OPV, MR, TT)</text>
+  <rect x="612" y="270" width="136" height="74" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="680.0" y="296.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">Natural passive</text>
+  <text x="680.0" y="311.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">maternal antibody</text>
+  <text x="680.0" y="326.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">(placenta, breast milk)</text>
+  <rect x="752" y="270" width="136" height="74" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="820.0" y="296.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">Artificial passive</text>
+  <text x="820.0" y="311.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">immunoglobulin, antisera</text>
+  <text x="820.0" y="326.2" text-anchor="middle" font-family="Georgia, serif" font-size="12" fill="#333">(TIG, RIG, ASV)</text>
+  <path d="M530,232 L530,250 L390,250 L390,268" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <line x1="530" y1="250" x2="530" y2="268" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <path d="M810,232 L810,250 L680,250 L680,268" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <path d="M810,250 L820,250 L820,268" fill="none" stroke="#2c3e50" stroke-width="1.5" marker-end="url(#arr)"/>
+  <text x="170" y="200" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#333">Active: slow onset, long-lasting,</text>
+  <text x="170" y="218" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#333">memory; no immediate protection</text>
+  <text x="170" y="250" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#333">Passive: immediate, short-lived</text>
+  <text x="170" y="268" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#333">(weeks to months), no memory</text>
+  <text x="460" y="372" text-anchor="middle" font-family="Georgia, serif" font-size="13" font-style="italic" fill="#333">Herd immunity: population-level protection when a high proportion is immune (threshold = 1 − 1/R₀)</text>
+</svg>

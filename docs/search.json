@@ -9692,7 +9692,7 @@
     "href": "diseases/communicable-diseases.html#home",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Welcome",
-    "text": "Welcome\nEpidemiology of Communicable Diseases\nLearning Objectives:\n\nDescribe the six links in the chain of infection\nDistinguish endemic, sporadic, epidemic, and pandemic disease occurrence\nClassify modes of transmission of communicable disease\nDefine basic reproduction number (R₀) and herd immunity threshold\nDescribe carrier states and why chronic carriers matter\nDistinguish incubation period, generation time, and serial interval\nDistinguish isolation from quarantine\nCompare live, killed, toxoid, and subunit vaccines\nApply the levels of prevention to communicable disease control\nOutline the standard steps of an outbreak investigation\n\nNMC Community Medicine Code: CM7–CM8\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter applies Chapter 2’s levels of prevention and Chapter 3’s epidemiological triad specifically to infectious disease, and opens the Diseases section of the curriculum.",
+    "text": "Welcome\nEpidemiology of Communicable Diseases\nLearning Objectives (CM7 Lectures 10–13):\n\nDescribe the dynamics of disease transmission: chain of infection, reservoirs, carriers, modes of transmission, incubation period, SAR, R₀\nClassify immunity; describe immunizing agents, the cold chain and AEFI\nOutline the measures for control of communicable disease and the types and agents of disinfection\nDescribe the steps of an epidemic investigation, the types of surveillance, and IDSP/IHIP\n\nNMC Community Medicine Code: CM7.2, CM7.7 (also CM8, CM20)\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter applies Chapter 2’s levels of prevention and Chapters 3–4’s epidemiological methods to infectious disease, and opens the Diseases section of the curriculum.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9740,7 +9740,7 @@
     "href": "diseases/communicable-diseases.html#epidemic-endemic-and-pandemic",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Epidemic, Endemic, and Pandemic",
-    "text": "Epidemic, Endemic, and Pandemic\n🟢 MUST KNOW\nDisease occurrence is classified by how its frequency compares to what’s normally expected in a place and population:\n\n\n\n\n\n\n\nTerm\nMeaning\n\n\n\n\nEndemic\nConstant, expected presence of a disease in a given area/population, without importation\n\n\nSporadic\nCases occur irregularly and infrequently, with no consistent pattern\n\n\nEpidemic\nCases clearly in excess of normal expectancy for that place, population, and season\n\n\nPandemic\nAn epidemic spanning multiple countries/continents, usually affecting large numbers of people\n\n\nExotic\nA disease imported into an area where it does not otherwise occur\n\n\n\nZoonoses — infections naturally transmissible between vertebrate animals and humans — are classified by direction: anthropozoonoses (animal → human, e.g. rabies, anthrax), zooanthroponoses (human → animal, e.g. human TB in cattle), and amphixenoses (either direction).",
+    "text": "Epidemic, Endemic, and Pandemic\n🟢 MUST KNOW\n\n\n\n\n\n\n\nTerm\nMeaning\n\n\n\n\nEndemic\nConstant, expected presence of a disease in a given area or population, without importation\n\n\nSporadic\nCases occur irregularly and infrequently, with no consistent pattern\n\n\nEpidemic\nCases clearly in excess of normal expectancy for that place, population and season\n\n\nPandemic\nAn epidemic spanning several countries or continents, usually affecting large numbers of people\n\n\nExotic\nA disease imported into an area where it does not otherwise occur\n\n\n\nZoonoses are classified by direction:\n\nanthropozoonoses: animal → human (rabies, anthrax)\nzooanthroponoses: human → animal (human TB in cattle)\namphixenoses: either direction",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9752,7 +9752,7 @@
     "href": "diseases/communicable-diseases.html#modes-of-transmission",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Modes of Transmission",
-    "text": "Modes of Transmission\n🟢 MUST KNOW\n\n\nDirect transmission\n\nDirect contact (touch, sexual contact)\nDroplet spread (coughing, sneezing, over short distance)\nTransplacental (mother to fetus)\n\n\nIndirect transmission\n\nVehicle-borne — contaminated water, food, fomites\nVector-borne — via an insect/arthropod (mechanical or biological)\nAirborne — droplet nuclei or dust suspended in air over distance",
+    "text": "Modes of Transmission\n🟢 MUST KNOW\n\n\nDirect transmission\n\nDirect contact (skin, mucosa, sexual): STIs, leprosy, scabies\nDroplet infection (&lt; 1 m): influenza, diphtheria, pertussis\nContact with soil: hookworm, tetanus\nInoculation into skin or mucosa: rabies (bite), hepatitis B\nTransplacental (vertical): rubella, syphilis, HIV, toxoplasmosis\n\n\nIndirect transmission\n\nVehicle-borne: water, food, milk, blood (cholera, typhoid, hepatitis A)\nVector-borne: mechanical (flies, typhoid) or biological, which is propagative (plague), cyclo-propagative (malaria) or cyclo-developmental (filaria)\nAirborne: droplet nuclei (TB, measles), dust\nFomite-borne: towels, utensils (diphtheria, trachoma)\nUnclean hands and fingers: faecal-oral spread",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9764,7 +9764,7 @@
     "href": "diseases/communicable-diseases.html#reservoirs-of-infection",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Reservoirs of Infection",
-    "text": "Reservoirs of Infection\n🟢 MUST KNOW\n\nHuman reservoir — a case (symptomatic) or a carrier (asymptomatic but infectious)\nAnimal reservoir — diseases transmitted from vertebrate animals to humans are called zoonoses\nEnvironmental reservoir — soil, water (e.g. tetanus spores in soil, Legionella in water systems)",
+    "text": "Reservoirs of Infection\n🟢 MUST KNOW\nSource = the person, animal or object from which the agent passes to the host. Reservoir = where the agent normally lives and multiplies.\n\nHuman reservoir: a case (clinical, subclinical or latent) or a carrier (infected and shedding but without overt disease)\nAnimal reservoir: diseases transmitted from vertebrate animals to humans are zoonoses (rabies, plague, leptospirosis)\nNon-living reservoir: soil and inanimate matter (tetanus spores in soil, Legionella in water systems)",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9776,7 +9776,7 @@
     "href": "diseases/communicable-diseases.html#basic-reproduction-number-r₀",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Basic Reproduction Number (R₀)",
-    "text": "Basic Reproduction Number (R₀)\n🟢 MUST KNOW\nR₀ is the average number of secondary infections produced by one infected person in a completely susceptible population.\n\nR₀ &gt; 1 → each case generates more than one new case → epidemic potential\nR₀ &lt; 1 → the outbreak is expected to die out\nR₀ = 1 → disease remains endemic at a steady rate",
+    "text": "Basic Reproduction Number (R₀)\n🟢 MUST KNOW\nR₀ is the average number of secondary infections produced by one infected person in a completely susceptible population.\n\nR₀ &gt; 1: each case generates more than one new case, giving epidemic potential\nR₀ &lt; 1: the outbreak is expected to die out\nR₀ = 1: the disease remains endemic at a steady rate\n\nR₀ depends on the contact rate, the probability of transmission per contact, and the duration of infectiousness. Measles has an R₀ of about 12–18, and influenza about 1.5–2.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9788,7 +9788,7 @@
     "href": "diseases/communicable-diseases.html#herd-immunity",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Herd Immunity",
-    "text": "Herd Immunity\n🟢 MUST KNOW\nHerd immunity is indirect protection of susceptible individuals when a sufficiently high proportion of a population is immune, breaking chains of transmission even for those who aren’t immune themselves.\nHerd immunity threshold (HIT):\nHIT = 1 − (1 / R₀)\nExample: a disease with R₀ = 3 needs roughly two-thirds (66%) of the population immune to interrupt sustained transmission.",
+    "text": "Herd Immunity\n🟢 MUST KNOW\nHerd immunity is the level of resistance of a community to an infection. When a high proportion is immune, chains of transmission break and even non-immune individuals are protected.\nHerd immunity threshold (HIT):\nHIT = 1 − (1 / R₀)\nExample: a disease with R₀ = 3 needs about 67% of the population immune, and measles (R₀ about 15) needs more than 90%.\n\nIt depends on clinical and subclinical infections, immunization coverage, and the herd structure (density, mixing)\nIt does not protect against tetanus, which has no person-to-person spread",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9800,7 +9800,7 @@
     "href": "diseases/communicable-diseases.html#levels-of-prevention-applied-to-communicable-disease",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Levels of Prevention Applied to Communicable Disease",
-    "text": "Levels of Prevention Applied to Communicable Disease\n🟢 MUST KNOW\nChapter 2’s levels of prevention map directly onto infectious disease control:\n\n\n\n\n\n\n\nLevel\nCommunicable disease example\n\n\n\n\nPrimordial\nImproving sanitation and housing before any outbreak risk exists\n\n\nPrimary\nImmunization, vector control, safe water\n\n\nSecondary\nCase detection, contact tracing, early treatment\n\n\nTertiary\nRehabilitation from disease sequelae (e.g. post-polio care)",
+    "text": "Levels of Prevention Applied to Communicable Disease\n🟢 MUST KNOW\n\n\n\n\n\n\n\nLevel\nCommunicable disease example\n\n\n\n\nPrimordial\nImproving sanitation and housing before any outbreak risk exists\n\n\nPrimary\nImmunization, chemoprophylaxis, vector control, safe water, health education\n\n\nSecondary\nCase detection, contact tracing, early treatment, screening (e.g. TB active case finding)\n\n\nTertiary\nDisability limitation and rehabilitation from sequelae (e.g. post-polio, leprosy deformities)",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9824,7 +9824,7 @@
     "href": "diseases/communicable-diseases.html#types-of-vaccines",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Types of Vaccines",
-    "text": "Types of Vaccines\n🟡 SHOULD KNOW\nImmunizing agents used for primary prevention fall into distinct categories, each with different implications for immunity and administration:\n\n\n\n\n\n\n\n\nType\nHow it works\nExamples\n\n\n\n\nLive attenuated\nWeakened live organism; usually strong, long-lasting immunity from few doses\nBCG, OPV, MMR\n\n\nKilled / inactivated\nWhole organism inactivated; safer in immunocompromised hosts, but needs boosters\nInactivated polio (IPV), rabies\n\n\nToxoid\nInactivated bacterial toxin, not the organism itself\nTetanus, diphtheria\n\n\nSubunit / conjugate\nOnly a specific antigenic component, reducing side effects\nHepatitis B, Hib\n\n\n\nExam tip: live vaccines are generally contraindicated in pregnancy and immunocompromised individuals, since the attenuated organism can still replicate.",
+    "text": "Types of Vaccines\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\n\nType\nHow it works\nExamples\n\n\n\n\nLive attenuated\nWeakened live organism; strong, long-lasting immunity from few doses\nBCG, OPV, MR/MMR, rotavirus, yellow fever\n\n\nKilled / inactivated\nWhole organism inactivated; safer in the immunocompromised, but needs boosters\nIPV, rabies (cell culture), whole-cell pertussis\n\n\nToxoid\nInactivated bacterial toxin, not the organism\nTetanus, diphtheria\n\n\nSubunit / recombinant / conjugate\nA specific antigenic component\nHepatitis B, Hib, PCV, HPV\n\n\nNewer platforms\nmRNA, viral vector\nCOVID-19 vaccines\n\n\n\nExam tip: live vaccines are generally contraindicated in pregnancy and in immunocompromised people, because the attenuated organism can still replicate.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9848,7 +9848,7 @@
     "href": "diseases/communicable-diseases.html#isolation-vs.-quarantine",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Isolation vs. Quarantine",
-    "text": "Isolation vs. Quarantine\n🟡 SHOULD KNOW\n\nIsolation — separating a person already known to be infected (diagnosed or symptomatic) from others, until no longer contagious\nQuarantine — separating a person who was exposed but is not yet known to be infected, for the duration of the incubation period, to see if disease develops\n\nBoth are control measures acting on different links of the chain of infection — isolation removes an active reservoir; quarantine interrupts transmission from a potential future case.",
+    "text": "Isolation vs. Quarantine\n🟡 SHOULD KNOW\n\nIsolation: separating a person already known to be infected from others until they are no longer infectious. Types include standard, strict, respiratory, enteric and contact isolation.\nQuarantine: restricting a healthy person exposed to a communicable disease, for a period equal to the longest incubation period, to see whether disease develops\n\nAbsolute (complete) quarantine: full restriction of movement\nModified quarantine: selective restriction (e.g. excluding children from school)\nSegregation: separating a group for observation\n\n\nBoth are control measures on different links of the chain. Isolation removes an active source, and quarantine stops transmission from a possible future case.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9860,7 +9860,7 @@
     "href": "diseases/communicable-diseases.html#carrier-states",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Carrier States",
-    "text": "Carrier States\n🟡 SHOULD KNOW\nA carrier is an infected person who sheds the agent without (or before/after) showing overt disease — carriers matter because they’re often missed by clinical surveillance.\n\nBy type: incubatory (sheds during incubation) · convalescent (continues shedding after clinical recovery, e.g. typhoid, cholera) · healthy (shedding without ever having overt disease, e.g. poliomyelitis)\nBy duration: temporary (short-lived shedding) vs. chronic (indefinite shedding — the greater public-health threat, since the longer the carrier state, the greater the cumulative community risk)\n\nWhy carriers matter more than cases, sometimes: a diagnosed case is usually isolated; an unrecognized chronic carrier keeps transmitting silently.",
+    "text": "Carrier States\n🟡 SHOULD KNOW\nA carrier is an infected person who sheds the agent without showing overt disease, before or after it. Carriers matter because clinical surveillance often misses them.\n\nBy type:\n\nincubatory: sheds during the incubation period (measles, polio)\nconvalescent: continues shedding after clinical recovery (typhoid, cholera)\nhealthy: sheds without ever having overt disease (polio, meningococcus)\n\nBy duration: temporary (short-lived shedding) vs chronic (indefinite shedding, e.g. typhoid and hepatitis B). Chronic carriers are the greater public-health threat.\nBy portal of exit: urinary, intestinal, respiratory, nasal\n\nA diagnosed case is usually isolated. An unrecognized chronic carrier keeps transmitting silently.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9872,7 +9872,7 @@
     "href": "diseases/communicable-diseases.html#incubation-period-and-related-intervals",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Incubation Period and Related Intervals",
-    "text": "Incubation Period and Related Intervals\n🟡 SHOULD KNOW\nIncubation period — the time between exposure to an infectious agent and the first sign or symptom of disease. It depends on infective dose, portal of entry, and host susceptibility, and is used to set quarantine duration and trace likely sources.\nTwo related, easily confused intervals:\n\nGeneration time — from receipt of infection to that host’s own peak infectivity\nSerial interval — the gap between symptom onset in a primary case and symptom onset in a secondary case it infects",
+    "text": "Incubation Period and Related Intervals\n🟡 SHOULD KNOW\nIncubation period is the time from entry of the infectious agent to the first sign or symptom of disease. It depends on the infective dose, portal of entry, host susceptibility and the agent’s generation time.\nUses: tracing the source of infection, setting the period of quarantine and surveillance of contacts (= the longest incubation period), timing immunization and prophylaxis, and identifying point-source vs propagated epidemics.\n\nGeneration time: from receipt of infection to the host’s maximal infectivity\nSerial interval: from onset in the primary case to onset in the secondary case\nCommunicable period: the time during which an infected person can transmit the agent",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9884,7 +9884,7 @@
     "href": "diseases/communicable-diseases.html#secondary-attack-rate",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Secondary Attack Rate",
-    "text": "Secondary Attack Rate\n🟡 SHOULD KNOW\nSecondary Attack Rate (SAR) measures how contagious a disease is within a close-contact group (e.g. a household), following exposure to a primary case:\nSAR = (New cases among contacts) / (Total susceptible contacts)\nRelated concept — incubation period: the time between exposure to an infectious agent and the first appearance of symptoms; it determines how long quarantine should last.",
+    "text": "Secondary Attack Rate\n🟢 MUST KNOW\nSecondary Attack Rate (SAR) measures how contagious a disease is within a close-contact group after exposure to a primary case:\nSAR = (New cases among contacts within one incubation period / Total susceptible contacts) × 100\n\nExclude the primary case and contacts who are immune (by immunization or past attack) from the denominator\nWorked example: a household of 6 has 1 primary measles case and 1 immune member, leaving 4 susceptibles. 2 develop measles within one incubation period, so SAR = 2/4 = 50%.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9908,7 +9908,7 @@
     "href": "diseases/communicable-diseases.html#outbreak-investigation-the-10-steps",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Outbreak Investigation: The 10 Steps",
-    "text": "Outbreak Investigation: The 10 Steps\n🟡 SHOULD KNOW\nThe standard CDC-style sequence for investigating a suspected outbreak:\n\nPrepare for field work\nEstablish the existence of an outbreak\nVerify the diagnosis\nDefine and identify cases\nDescribe data by time, place, and person\nDevelop hypotheses\nEvaluate hypotheses\nRefine hypotheses / conduct additional studies\nImplement control and prevention measures\nCommunicate findings\n\n(In practice these steps often overlap and don’t run strictly in order — control measures, for instance, are often started well before the investigation formally concludes.)",
+    "text": "Outbreak Investigation: The 10 Steps\n🟢 MUST KNOW\nThe standard CDC-style sequence for investigating a suspected outbreak:\n\nPrepare for field work\nEstablish the existence of an outbreak (compare with expected numbers)\nVerify the diagnosis\nDefine and identify cases (case definition, active case search)\nDescribe data by time, place and person (epidemic curve, spot map)\nDevelop hypotheses\nEvaluate hypotheses (case-control or cohort study)\nRefine hypotheses and conduct additional studies (laboratory, environmental)\nImplement control and prevention measures\nCommunicate findings (report)\n\nIn practice the steps overlap. Control measures often start before the investigation formally ends.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -9932,7 +9932,7 @@
     "href": "diseases/communicable-diseases.html#explore-selected-diseases-in-depth",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Explore: Selected Diseases in Depth",
-    "text": "Explore: Selected Diseases in Depth\n🟣 MAY KNOW\nThe principles above apply to every communicable disease — six specific diseases are covered in dedicated modules, each with agent, clinical features, diagnosis, treatment, and control in full depth:\nMalaria · Typhoid Fever & Cholera · Viral Hepatitis · Poliomyelitis · Food Poisoning & Diarrhoeal Disease · Hospital-Acquired Infections\nOr browse the module hub for an overview of all six.",
+    "text": "Explore: Selected Diseases in Depth\n🟣 MAY KNOW\nThe principles above apply to every communicable disease. Six specific diseases are covered in dedicated modules, each with agent, clinical features, diagnosis, treatment and control in full depth:\nMalaria · Typhoid Fever & Cholera · Viral Hepatitis · Poliomyelitis · Food Poisoning & Diarrhoeal Disease · Hospital-Acquired Infections\nOr browse the module hub for an overview of all six.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -10028,7 +10028,7 @@
     "href": "diseases/communicable-diseases.html#self-check-question-2",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Self-Check: Question 2",
-    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nA disease has R₀ = 4. What proportion of the population must be immune to reach the herd immunity threshold?\n\n25%\n50%\n75%\n100%",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nMalaria, transmitted from an infected person to a new host via a mosquito, is an example of which mode of transmission?\n\nDirect contact\nDroplet spread\nVector-borne transmission\nFomite transmission",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -10040,7 +10040,7 @@
     "href": "diseases/communicable-diseases.html#self-check-question-3",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Self-Check: Question 3",
-    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA person who was exposed to a confirmed case, but has no symptoms and an unknown infection status, is placed in separate accommodation for the duration of the disease’s incubation period. This is:\n\nIsolation\nQuarantine\nRing vaccination\nContact tracing",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA typhoid patient continues to excrete S. Typhi in stools for several weeks after clinical recovery. This person is a:\n\nIncubatory carrier\nConvalescent carrier\nHealthy carrier\nContact",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -10052,7 +10052,7 @@
     "href": "diseases/communicable-diseases.html#self-check-question-4",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Self-Check: Question 4",
-    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nMalaria, transmitted from an infected person to a new host via a mosquito, is an example of which mode of transmission?\n\nDirect contact\nDroplet spread\nVector-borne transmission\nFomite transmission",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nIn a household of 6, one person develops measles (the primary case). One other member is already immune. Within one incubation period, 2 more members develop measles. The secondary attack rate is:\n\n33%\n40%\n50%\n60%",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -10064,7 +10064,7 @@
     "href": "diseases/communicable-diseases.html#self-check-question-5",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Self-Check: Question 5",
-    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nIn the standard outbreak-investigation sequence, “develop hypotheses” comes immediately after which step?\n\nVerify the diagnosis\nDescribe data by time, place, and person\nImplement control measures\nCommunicate findings",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nThe time interval between receipt of infection by a host and maximal infectivity of that host is called the:\n\nIncubation period\nSerial interval\nGeneration time\nCommunicable period",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -10076,7 +10076,7 @@
     "href": "diseases/communicable-diseases.html#self-check-question-6",
     "title": "Epidemiology of Communicable Diseases",
     "section": "Self-Check: Question 6",
-    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nSmallpox eradication (1980) is the only successful human disease eradication to date. Which factor was essential to its success?\n\nMass vaccination of the entire world population simultaneously\nAn effective vaccine combined with surveillance and ring vaccination around detected cases, with no animal reservoir\nHerd immunity reaching exactly 50%\nElimination of the mosquito vector",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nIf a disease has a basic reproduction number (R₀) of less than 1 in a population, the disease will:\n\nSpread as an epidemic\nRemain endemic at a stable level\nGradually die out\nBecome pandemic",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -10088,7 +10088,7 @@
     "href": "diseases/communicable-diseases.html#references",
     "title": "Epidemiology of Communicable Diseases",
     "section": "References",
-    "text": "References\n\nNCBI Bookshelf. Chapter 4: Adhere to Principles of Infection Control — Chain of Infection.\nPlus Maths / University of Cambridge. “Maths in a minute: R nought and herd immunity.”\nPenn Today. “Quarantine or isolation? An updated glossary.”\nWikipedia. “Secondary attack rate.”\nCenters for Disease Control and Prevention. Steps of an Outbreak Investigation (10-step framework).\nWorld Health Organization (1980). Declaration of Global Eradication of Smallpox.\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for epidemic/endemic classification, carrier states, incubation-related intervals, and vaccine types.",
+    "text": "References\n\nPark, K. Park’s Textbook of Preventive and Social Medicine (latest ed.): dynamics of disease transmission, carriers, immunity and immunizing agents, control, disinfection, investigation of an epidemic, surveillance.\nCenters for Disease Control and Prevention. Steps of an Outbreak Investigation; NCBI Bookshelf, Chain of Infection.\nMinistry of Health and Family Welfare. Integrated Disease Surveillance Programme and IHIP (ihip.mohfw.gov.in); IHIP launch dates from MoHFW and IJFCM sources. Retrieved 28 Oct 2026.\nMoHFW. Immunization Handbook for Medical Officers and AEFI Surveillance and Response Operational Guidelines; WHO, Causality assessment of an AEFI (2nd ed., 2018).\nWHO-AFRO / CDC. Technical Guidelines for Integrated Disease Surveillance and Response (IDSR).\nWorld Health Organization (1980). Declaration of Global Eradication of Smallpox.\n\nWant to practice? The Epidemiology Question Bank has every CM7 question with answer keys.",
     "crumbs": [
       "Contents",
       "Communicable & Non-Communicable Diseases",
@@ -15055,7 +15055,7 @@
     "href": "foundations/screening.html#home",
     "title": "Screening for Disease",
     "section": "Welcome",
-    "text": "Welcome\nScreening for Disease\nLearning Objectives:\n\nDefine screening and distinguish it from diagnosis\nState the Wilson and Jungner criteria for a screening program\nCalculate and interpret sensitivity, specificity, PPV, and NPV\nDescribe the main types of screening\nExplain lead time bias, length time bias, and overdiagnosis\n\nNMC Community Medicine Code: CM7\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter closes the Foundations section by applying the incidence/ prevalence and 2x2-table thinking from Chapters 3–4 to the specific problem of evaluating a screening test and a screening program.",
+    "text": "Welcome\nScreening for Disease\nLearning Objectives (CM7 Lectures 14–15):\n\nDefine screening, distinguish it from diagnosis, and state its uses and types\nState the criteria for screening: the disease (Wilson and Jungner) and the test\nCalculate and interpret sensitivity, specificity, PPV, NPV and the false-positive and false-negative rates\nExplain how prevalence affects predictive values, and the effect of series vs parallel testing\nExplain lead time bias, length time bias and overdiagnosis\n\nNMC Community Medicine Code: CM7.6\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nApplies the incidence/prevalence and 2×2-table thinking from Chapters 3–4 to evaluating a screening test and a screening programme.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15079,7 +15079,7 @@
     "href": "foundations/screening.html#what-is-screening",
     "title": "Screening for Disease",
     "section": "What Is Screening?",
-    "text": "What Is Screening?\n🟢 MUST KNOW\nScreening is the presumptive identification of unrecognized disease in apparently healthy, asymptomatic individuals, using tests that can be applied rapidly and economically to a large population.\nScreening is NOT diagnosis:\n\nA screening test sorts people into “likely disease” vs. “unlikely disease” — it does not confirm disease\nEveryone who screens positive must still undergo a proper diagnostic test to confirm or rule out the condition",
+    "text": "What Is Screening?\n🟢 MUST KNOW\nScreening is the search for unrecognized disease or defect in apparently healthy, asymptomatic people, using rapidly applied tests, examinations or other procedures. It sorts out those who probably have the disease from those who probably do not.\n\nIt targets the submerged part of the iceberg of disease: latent, subclinical and undiagnosed cases (Chapter 2)\nScreening is not diagnosis. Everyone who screens positive needs a proper diagnostic test to confirm or rule out the condition.\nConcept of lead time: screening detects disease between the first possible point of detection and the usual time of clinical diagnosis. It is useful only if earlier treatment improves the outcome.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15091,7 +15091,7 @@
     "href": "foundations/screening.html#wilson-and-jungner-criteria-1968",
     "title": "Screening for Disease",
     "section": "Wilson and Jungner Criteria (1968)",
-    "text": "Wilson and Jungner Criteria (1968)\n🟢 MUST KNOW\nWHO’s ten classic principles for deciding whether a condition is suitable for a screening program:\n\nThe condition should be an important health problem\nThere should be an accepted treatment for recognized disease\nFacilities for diagnosis and treatment should be available\nThere should be a recognizable latent or early symptomatic stage\nThere should be a suitable test for that early stage\nThe test should be acceptable to the population\nThe natural history of the condition should be adequately understood\nThere should be an agreed policy on whom to treat\nThe cost of case-finding should be economically balanced against overall medical care spending\nCase-finding should be a continuing process, not a one-time project",
+    "text": "Wilson and Jungner Criteria (1968)\n🟢 MUST KNOW\nWHO’s classic principles for deciding whether a condition suits a screening programme:\n\nThe condition is an important health problem\nThere is an accepted treatment for recognized disease\nFacilities for diagnosis and treatment are available\nThere is a recognizable latent or early symptomatic stage\nThere is a suitable test for that stage\nThe test is acceptable to the population\nThe natural history of the condition is adequately understood\nThere is an agreed policy on whom to treat\nThe cost of case-finding is economically balanced against overall medical care spending\nCase-finding is a continuing process, not a one-time project",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15103,7 +15103,7 @@
     "href": "foundations/screening.html#the-screening-22-table",
     "title": "Screening for Disease",
     "section": "The Screening 2×2 Table",
-    "text": "The Screening 2×2 Table\n🟢 MUST KNOW\nEvery screening test is judged against a reference/gold-standard diagnosis:\n\n\n\n\nDisease +\nDisease −\n\n\n\n\nTest +\nTrue Positive (TP)\nFalse Positive (FP)\n\n\nTest −\nFalse Negative (FN)\nTrue Negative (TN)\n\n\n\nAll four validity measures on the next slides come directly from this table.",
+    "text": "The Screening 2×2 Table\n🟢 MUST KNOW\nEvery screening test is judged against a reference (“gold standard”) diagnosis:\n\n\n\n\nDisease +\nDisease −\nTotal\n\n\n\n\nTest +\na: True Positive (TP)\nb: False Positive (FP)\na + b\n\n\nTest −\nc: False Negative (FN)\nd: True Negative (TN)\nc + d\n\n\nTotal\na + c\nb + d\nN\n\n\n\nAll the validity measures on the next slides come from this table.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15127,7 +15127,7 @@
     "href": "foundations/screening.html#sensitivity-and-specificity",
     "title": "Screening for Disease",
     "section": "Sensitivity and Specificity",
-    "text": "Sensitivity and Specificity\n🟢 MUST KNOW\nSensitivity — the ability to correctly identify people who have the disease:\nSensitivity = TP / (TP + FN)\nSpecificity — the ability to correctly identify people who do not have the disease:\nSpecificity = TN / (TN + FP)\nKey property: both are properties of the test itself and do not depend on how common the disease is (prevalence) in the population tested.",
+    "text": "Sensitivity and Specificity\n🟢 MUST KNOW\nSensitivity is the ability to correctly identify those who have the disease (the true-positive rate):\nSensitivity = a / (a + c) × 100 · False-negative rate = c / (a + c) = 1 − sensitivity\nSpecificity is the ability to correctly identify those who do not have the disease (the true-negative rate):\nSpecificity = d / (b + d) × 100 · False-positive rate = b / (b + d) = 1 − specificity\nBoth are properties of the test itself and do not depend on prevalence. A highly sensitive test, when negative, rules disease out (SnNout). A highly specific test, when positive, rules disease in (SpPin).",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15139,7 +15139,7 @@
     "href": "foundations/screening.html#predictive-values",
     "title": "Screening for Disease",
     "section": "Predictive Values",
-    "text": "Predictive Values\n🟢 MUST KNOW\nPositive Predictive Value (PPV) — given a positive test, the probability the person actually has disease:\nPPV = TP / (TP + FP)\nNegative Predictive Value (NPV) — given a negative test, the probability the person is actually disease-free:\nNPV = TN / (TN + FN)\nKey property: unlike sensitivity/specificity, PPV and NPV do depend on disease prevalence — the same test will have a lower PPV in a low-prevalence population, even with unchanged sensitivity/specificity.",
+    "text": "Predictive Values\n🟢 MUST KNOW\nPositive Predictive Value (PPV): given a positive test, the probability that the person really has the disease:\nPPV = a / (a + b) × 100\nNegative Predictive Value (NPV): given a negative test, the probability that the person is really disease-free:\nNPV = d / (c + d) × 100\nUnlike sensitivity and specificity, predictive values depend on prevalence. The same test gives a lower PPV and a higher NPV in a low-prevalence population.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15151,7 +15151,7 @@
     "href": "foundations/screening.html#types-of-screening",
     "title": "Screening for Disease",
     "section": "Types of Screening",
-    "text": "Types of Screening\n🟡 SHOULD KNOW\n\nMass screening — offered to an entire population, regardless of individual risk (e.g. a national program)\nSelective/targeted screening — offered only to a high-risk subgroup (e.g. screening smokers for lung disease)\nMultiphasic screening — several screening tests applied together in one session (e.g. a health camp offering blood pressure, blood sugar, and vision checks together)\nOpportunistic screening — offered to a person who is already seeking care for an unrelated reason",
+    "text": "Types of Screening\n🟢 MUST KNOW\n\nMass screening: offered to the whole population regardless of individual risk. It is worthwhile only with a common disease and a good follow-up system.\nHigh-risk (selective/targeted) screening: limited to high-risk groups, such as diabetes screening in obese adults or cervical screening in women over 30. It raises yield and PPV.\nMultiphasic screening: several tests in one session, as in a health camp checking BP, blood sugar and vision\nOpportunistic (case-finding) screening: offered to people already seeking care for another reason, such as BP measurement for every OPD adult over 30\n\nIndia’s population-based screening (NPCDCS/NP-NCD) offers BP, diabetes and oral, breast and cervical cancer screening for people aged 30+.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15163,7 +15163,7 @@
     "href": "foundations/screening.html#lead-time-bias",
     "title": "Screening for Disease",
     "section": "Lead Time Bias",
-    "text": "Lead Time Bias\n🟡 SHOULD KNOW\nLead time is the interval between detection by screening and the point when the disease would normally have been diagnosed clinically (from symptoms).\nLead time bias occurs when screening appears to prolong survival — because the clock on “survival” starts earlier — even if the person dies at exactly the same actual time as they would have without screening.\nWhy it matters: raw survival-time comparisons between screened and unscreened groups can be misleading unless lead time is accounted for.",
+    "text": "Lead Time Bias\n🟡 SHOULD KNOW\nLead time is the interval between detection by screening and the point when the disease would normally have been diagnosed from symptoms.\nLead time bias occurs when screening appears to prolong survival only because the survival clock starts earlier. The person actually dies at the same time as they would have without screening.\nWhy it matters: raw comparisons of survival time between screened and unscreened groups are misleading unless lead time is accounted for. Mortality in a randomized trial is the proper end-point.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15175,7 +15175,7 @@
     "href": "foundations/screening.html#length-time-bias-and-overdiagnosis",
     "title": "Screening for Disease",
     "section": "Length Time Bias and Overdiagnosis",
-    "text": "Length Time Bias and Overdiagnosis\n🟡 SHOULD KNOW\nLength time bias — screening preferentially detects slow-growing, less aggressive disease, because it is present and detectable for longer; fast-growing, aggressive disease is more likely to cause symptoms and be diagnosed clinically between screening rounds. This makes screened cases look like they have better outcomes, independent of any real benefit.\nOverdiagnosis — the extreme case: screening detects a genuine abnormality that would never have caused symptoms or harm in the person’s lifetime, leading to unnecessary labeling and treatment.",
+    "text": "Length Time Bias and Overdiagnosis\n🟡 SHOULD KNOW\nLength time bias: screening preferentially detects slow-growing, less aggressive disease, because it stays detectable for longer. Fast-growing disease is more likely to cause symptoms and be diagnosed clinically between screening rounds. Screen-detected cases therefore look as though they have better outcomes, whether or not screening helped.\nOverdiagnosis is the extreme case. Screening detects a genuine abnormality that would never have caused symptoms or harm in the person’s lifetime, leading to unnecessary labelling and treatment. Examples include some prostate and thyroid cancers.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15199,7 +15199,7 @@
     "href": "foundations/screening.html#choosing-between-screening-designs",
     "title": "Screening for Disease",
     "section": "Choosing Between Screening Designs",
-    "text": "Choosing Between Screening Designs\n🟣 MAY KNOW\nMass screening is efficient for a common, serious, and well-understood condition (e.g. blood pressure), but wasteful and potentially harmful (overdiagnosis, false positives, anxiety) for rare conditions — reinforcing why the Wilson–Jungner criteria (importance, natural history, economic balance) matter before launching a program, not just whether a test technically exists.",
+    "text": "Choosing Between Screening Designs\n🟣 MAY KNOW\nMass screening is efficient for a common, serious and well-understood condition such as raised blood pressure. It is wasteful and potentially harmful for rare conditions, through overdiagnosis, false positives and anxiety. This is why the Wilson–Jungner criteria (importance, natural history, economic balance) must be met before a programme starts, not just the existence of a test.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15223,7 +15223,7 @@
     "href": "foundations/screening.html#self-check-question-2",
     "title": "Screening for Disease",
     "section": "Self-Check: Question 2",
-    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich Wilson–Jungner criterion is violated if there is no accepted treatment available for a condition, even if a perfect test for it exists?\n\nSuitable test\nAccepted treatment for recognized disease\nAcceptability to the population\nContinuing process",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich Wilson–Jungner criterion is violated if there is no accepted treatment for a condition, even if a perfect test for it exists?\n\nSuitable test\nAccepted treatment for recognized disease\nAcceptability to the population\nContinuing process",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15235,7 +15235,7 @@
     "href": "foundations/screening.html#self-check-question-3",
     "title": "Screening for Disease",
     "section": "Self-Check: Question 3",
-    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nWhich measure of test validity does NOT change with disease prevalence in the population being tested?\n\nPositive Predictive Value\nNegative Predictive Value\nSensitivity\nBoth PPV and NPV",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nA health camp offering blood pressure, blood glucose and vision testing together in one visit is an example of:\n\nMass screening\nSelective screening\nMultiphasic screening\nOpportunistic screening",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15247,7 +15247,7 @@
     "href": "foundations/screening.html#self-check-question-4",
     "title": "Screening for Disease",
     "section": "Self-Check: Question 4",
-    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nA health camp offering blood pressure, blood glucose, and vision testing together in one visit is an example of:\n\nMass screening\nSelective screening\nMultiphasic screening\nOpportunistic screening",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nScreening a pregnant woman for anaemia and syphilis at her first antenatal visit, to protect her and her baby, primarily serves which use of screening?\n\nCase detection (prescriptive screening)\nControl of disease (prospective screening)\nResearch purposes\nEducational opportunity",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15259,7 +15259,7 @@
     "href": "foundations/screening.html#self-check-question-5",
     "title": "Screening for Disease",
     "section": "Self-Check: Question 5",
-    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nScreened patients appear to survive longer after diagnosis simply because their disease was detected earlier in its course, even though they die at the same actual time as they would have without screening. This is:\n\nLength time bias\nLead time bias\nOverdiagnosis\nSelection bias",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nScreening of blood donors for HIV and hepatitis B is mainly done for:\n\nCase detection for the donor’s benefit\nControl of disease: protecting others (prospective screening)\nResearch\nHealth education",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15271,7 +15271,7 @@
     "href": "foundations/screening.html#self-check-question-6",
     "title": "Screening for Disease",
     "section": "Self-Check: Question 6",
-    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nDetection, through screening, of a genuine abnormality that would never have caused symptoms or harm in a person’s lifetime is called:\n\nLead time bias\nLength time bias\nOverdiagnosis\nFalse positive",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nWhich feature distinguishes a screening test from a diagnostic test?\n\nScreening is applied to symptomatic patients\nScreening results are the basis for treatment\nScreening is applied to apparently healthy groups and is less accurate and cheaper\nScreening is initiated by the patient",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15283,7 +15283,7 @@
     "href": "foundations/screening.html#references",
     "title": "Screening for Disease",
     "section": "References",
-    "text": "References\n\nWilson, J.M.G., Jungner, G. (1968). Principles and Practice of Screening for Disease. WHO Public Health Papers No. 34.\nStatPearls. Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios.\nCatalog of Bias. “Lead Time Bias.” and Wikipedia. “Length time bias.”\nNational Cancer Institute / NCBI Bookshelf. Assessment of cancer screening: a primer.",
+    "text": "References\n\nWilson, J.M.G., Jungner, G. (1968). Principles and Practice of Screening for Disease. WHO Public Health Papers No. 34.\nPark, K. Park’s Textbook of Preventive and Social Medicine (latest ed.): screening for disease (uses, types, criteria, sensitivity, specificity, predictive values, series and parallel testing).\nFaculty question bank, Section V, Chapter 19 Principles and Practice of Epidemiology: screening MCQs and reasoning questions.\nStatPearls. Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios.\nCatalog of Bias. “Lead time bias”; NCI / NCBI Bookshelf. Assessment of cancer screening: a primer.\n\nWant to practice? The Epidemiology Question Bank has every question from this chapter with answer keys.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -15295,7 +15295,7 @@
     "href": "foundations/screening.html#thank-you",
     "title": "Screening for Disease",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Chapter: Epidemiology of Communicable Diseases\n← Previous | Top | Contents | Chapter 5/29 | Next Chapter →",
+    "text": "Thank You!\nNext Chapter: Epidemiology of Communicable Diseases (CM7 Lectures 10–13)\n← Previous | Top | Contents | Chapter 5/29 | Next Chapter →",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -22390,6 +22390,630 @@
       "Contents",
       "Foundations of Health & Epidemiology",
       "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-10",
+    "href": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-10",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Practice Questions: Descriptive (Lecture 10)",
+    "text": "Practice Questions: Descriptive (Lecture 10)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nWrite the various modes of disease transmission with examples and control measures for each.\nDescribe the chain of infection (dynamics of disease transmission).\n\nShort Notes\n\nSecondary attack rate and its calculation.\nCarriers.\nIncubation period and its uses.\nBasic reproduction number (R₀).",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#types-of-immunity",
+    "href": "diseases/communicable-diseases.html#types-of-immunity",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Types of Immunity",
+    "text": "Types of Immunity\n🟢 MUST KNOW\n\n\n\nTypes of immunity",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#active-vs-passive-immunity",
+    "href": "diseases/communicable-diseases.html#active-vs-passive-immunity",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Active vs Passive Immunity",
+    "text": "Active vs Passive Immunity\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\nActive immunity\nPassive immunity\n\n\n\n\nProduced by\nThe host’s own immune system\nReady-made antibodies from another source\n\n\nInduced by\nInfection or vaccination\nMaternal transfer; immunoglobulins, antisera\n\n\nOnset\nSlow (lag phase of 1–2 weeks or more)\nImmediate\n\n\nDuration\nLong-lasting (years)\nShort (weeks to months)\n\n\nMemory and boosters\nImmunological memory; boosters effective\nNo memory\n\n\nUse\nProphylaxis\nImmediate protection, treatment, immunodeficiency\n\n\n\nCombined active–passive: rabies post-exposure (RIG + vaccine) and tetanus-prone wounds (TIG + TT/Td) give immediate and lasting protection.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#immunizing-agents",
+    "href": "diseases/communicable-diseases.html#immunizing-agents",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Immunizing Agents",
+    "text": "Immunizing Agents\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\n\nAgent\nWhat it is\nExamples\n\n\n\n\nVaccines\nAntigens that induce active immunity\nSee next slide\n\n\nImmunoglobulins: normal human\nPooled human IgG\nHepatitis A, measles post-exposure\n\n\nImmunoglobulins: specific (hyperimmune) human\nIgG from donors with high specific titres\nHBIG, RIG, TIG, VZIG\n\n\nAntisera / antitoxins\nAnimal-derived (usually equine) antibody\nAnti-snake venom, anti-diphtheritic serum, equine RIG\n\n\n\nAntisera carry a risk of serum sickness and anaphylaxis. Give a test dose and keep adrenaline ready. Human immunoglobulins are preferred where available.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#cold-chain-and-aefi",
+    "href": "diseases/communicable-diseases.html#cold-chain-and-aefi",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Cold Chain and AEFI",
+    "text": "Cold Chain and AEFI\n🟡 SHOULD KNOW\nCold chain is the system of storing and transporting vaccines at recommended temperatures from manufacturer to beneficiary, at +2 °C to +8 °C.\n\nEquipment: walk-in coolers and freezers → ILR and deep freezer (PHC) → cold box → vaccine carrier with conditioned ice packs\nHeat-sensitive: OPV (most), measles/MR, BCG. Freeze-sensitive (never freeze): Hep B, pentavalent, DPT, TT/Td, IPV, PCV. Freezing is checked with the shake test.\nVaccine Vial Monitor (VVM): a heat-exposure indicator. Discard the vial when the inner square matches or is darker than the outer circle.\n\nAEFI (adverse event following immunization): any untoward medical occurrence after immunization, not necessarily caused by the vaccine.\n\nWHO causes: vaccine product-related, quality defect-related, immunization error-related, immunization anxiety-related, and coincidental\nSerious AEFIs (death, hospitalization, disability, clusters) must be reported and investigated",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-11",
+    "href": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-11",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Practice Questions: Descriptive (Lecture 11)",
+    "text": "Practice Questions: Descriptive (Lecture 11)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nClassify immunity with examples. Differentiate active and passive immunity.\nDescribe the immunizing agents: vaccines, immunoglobulins and antisera.\n\nShort Notes\n\nHerd immunity.\nCold chain.\nAdverse events following immunization (AEFI).\nLive vs killed vaccines.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-7",
+    "href": "diseases/communicable-diseases.html#self-check-question-7",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 7",
+    "text": "Self-Check: Question 7\n🧡 QUESTION\n\nQuestion 7\nA disease has R₀ = 4. What proportion of the population must be immune to reach the herd immunity threshold?\n\n25%\n50%\n75%\n100%",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-8",
+    "href": "diseases/communicable-diseases.html#self-check-question-8",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 8",
+    "text": "Self-Check: Question 8\n🧡 QUESTION\n\nQuestion 8\nImmunity acquired by a newborn from maternal antibodies transferred across the placenta is:\n\nNatural active immunity\nNatural passive immunity\nArtificial active immunity\nArtificial passive immunity",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-9",
+    "href": "diseases/communicable-diseases.html#self-check-question-9",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 9",
+    "text": "Self-Check: Question 9\n🧡 QUESTION\n\nQuestion 9\nAdministration of tetanus immunoglobulin to an unimmunized patient with a contaminated wound provides:\n\nNatural active immunity\nNatural passive immunity\nArtificial active immunity\nArtificial passive immunity",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-10",
+    "href": "diseases/communicable-diseases.html#self-check-question-10",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 10",
+    "text": "Self-Check: Question 10\n🧡 QUESTION\n\nQuestion 10\nWhich of the following is a live attenuated vaccine?\n\nTetanus toxoid\nHepatitis B vaccine\nBCG\nInactivated polio vaccine (IPV)",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-11",
+    "href": "diseases/communicable-diseases.html#self-check-question-11",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 11",
+    "text": "Self-Check: Question 11\n🧡 QUESTION\n\nQuestion 11\nWhich of the following vaccines is the MOST heat-sensitive?\n\nBCG\nOral polio vaccine (OPV)\nTetanus toxoid\nHepatitis B",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-12",
+    "href": "diseases/communicable-diseases.html#self-check-question-12",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 12",
+    "text": "Self-Check: Question 12\n🧡 QUESTION\n\nQuestion 12\nThe Vaccine Vial Monitor (VVM) on a vial indicates:\n\nWhether the vaccine has been frozen\nCumulative heat exposure of the vial\nThe expiry date of the vaccine\nWhether the vial has been opened",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-13",
+    "href": "diseases/communicable-diseases.html#self-check-question-13",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 13",
+    "text": "Self-Check: Question 13\n🧡 QUESTION (select ALL that apply)\n\nQuestion 13\nWhich of the following are recognized causes in the WHO classification of adverse events following immunization (AEFI)?\n\nVaccine product-related reaction\nImmunization error-related reaction\nImmunization anxiety-related reaction\nCoincidental event",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#control-of-communicable-diseases",
+    "href": "diseases/communicable-diseases.html#control-of-communicable-diseases",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Control of Communicable Diseases",
+    "text": "Control of Communicable Diseases\n🟢 MUST KNOW\n\n\n\nThree groups of control measures",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#controlling-the-reservoir",
+    "href": "diseases/communicable-diseases.html#controlling-the-reservoir",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Controlling the Reservoir",
+    "text": "Controlling the Reservoir\n🟢 MUST KNOW\n\nEarly diagnosis: treatment, epidemiological investigation, early control\nNotification: legal reporting of notifiable diseases to the health authority. Internationally notifiable events go through the IHR (2005).\nEpidemiological investigation: find the source and the contacts\nIsolation: separate infected cases for their period of communicability\nTreatment: cuts the period of communicability, as in TB, leprosy and STIs\nQuarantine: restrict healthy contacts for the longest incubation period\nDisinfection: concurrent and terminal (next slides)",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#disinfection-definitions-and-types",
+    "href": "diseases/communicable-diseases.html#disinfection-definitions-and-types",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Disinfection: Definitions and Types",
+    "text": "Disinfection: Definitions and Types\n🟢 MUST KNOW\n\nDisinfection: killing infectious agents outside the body by chemical or physical means. Spores may survive.\nSterilization: destruction of all microorganisms, including spores\nAntiseptic: inhibits or kills organisms on living tissue. Deodorant: suppresses odours only.\n\n\n\n\n\n\n\n\n\nType\nWhen\nExample\n\n\n\n\nConcurrent\nImmediately, throughout the illness, on infectious discharges and soiled articles\nDisinfecting a cholera patient’s stools and linen daily\n\n\nTerminal\nOnce, after the patient has gone (recovery, transfer, death)\nCleaning the sickroom, bedding and furniture\n\n\nPrecurrent (prophylactic)\nBefore any case, as a preventive measure\nWater chlorination, milk pasteurization, hand washing",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#disinfection-agents-and-uses",
+    "href": "diseases/communicable-diseases.html#disinfection-agents-and-uses",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Disinfection: Agents and Uses",
+    "text": "Disinfection: Agents and Uses\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\n\nGroup\nAgents\nTypical uses\n\n\n\n\nNatural\nSunlight (UV), air\nBedding, mattresses\n\n\nPhysical\nBurning, hot air (oven), boiling (15–30 min), autoclave (121 °C, 15 lb/in², 15–20 min), radiation\nDressings (burning), glassware (hot air), surgical items (autoclave)\n\n\nChemical: halogens\nBleaching powder (about 33% available chlorine), sodium hypochlorite, chlorine\nWater, faeces, urine, floors\n\n\nChemical: others\nPhenol and cresol (lysol), alcohols (70%), formaldehyde (fumigation), glutaraldehyde, quaternary ammonium compounds, iodophors\nExcreta, skin, rooms, endoscopes\n\n\n\nChoosing an agent: consider the target organism, the material, organic load, contact time, toxicity and cost. Biomedical waste is managed under the BMW Management Rules, 2016.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-12",
+    "href": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-12",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Practice Questions: Descriptive (Lecture 12)",
+    "text": "Practice Questions: Descriptive (Lecture 12)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nDescribe the methods for the control of communicable diseases: controlling the reservoir, interrupting transmission, and protecting the susceptible host.\nDefine disinfection. Describe its types and the agents used, with their applications.\n\nShort Notes\n\nIsolation vs quarantine.\nConcurrent and terminal disinfection.\nChemoprophylaxis.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-14",
+    "href": "diseases/communicable-diseases.html#self-check-question-14",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 14",
+    "text": "Self-Check: Question 14\n🧡 QUESTION\n\nQuestion 14\nA person who was exposed to a confirmed case, but has no symptoms and unknown infection status, is placed in separate accommodation for the incubation period of the disease. This is:\n\nIsolation\nQuarantine\nRing vaccination\nContact tracing",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-15",
+    "href": "diseases/communicable-diseases.html#self-check-question-15",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 15",
+    "text": "Self-Check: Question 15\n🧡 QUESTION\n\nQuestion 15\nDisinfection of the sickroom, its contents and bedding after the patient has been removed by recovery, death or transfer is called:\n\nConcurrent disinfection\nTerminal disinfection\nPrecurrent disinfection\nSterilization",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-16",
+    "href": "diseases/communicable-diseases.html#self-check-question-16",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 16",
+    "text": "Self-Check: Question 16\n🧡 QUESTION\n\nQuestion 16\nChlorination of a community water supply is an example of:\n\nConcurrent disinfection\nTerminal disinfection\nPrecurrent (prophylactic) disinfection\nSterilization",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-17",
+    "href": "diseases/communicable-diseases.html#self-check-question-17",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 17",
+    "text": "Self-Check: Question 17\n🧡 QUESTION\n\nQuestion 17\nGiving rifampicin to the household contacts of a case of meningococcal meningitis is an example of:\n\nControlling the reservoir\nInterrupting transmission\nChemoprophylaxis to protect the susceptible host\nActive immunization",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-18",
+    "href": "diseases/communicable-diseases.html#self-check-question-18",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 18",
+    "text": "Self-Check: Question 18\n🧡 QUESTION\n\nQuestion 18\nWhich measure acts on the RESERVOIR link of the chain of infection?\n\nEarly diagnosis and treatment of cases\nVector control\nWater chlorination\nImmunization of contacts",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#the-epidemiological-case-sheet",
+    "href": "diseases/communicable-diseases.html#the-epidemiological-case-sheet",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "The Epidemiological Case Sheet",
+    "text": "The Epidemiological Case Sheet\n🟡 SHOULD KNOW\nA standard case investigation form is filled for every case during an epidemic. It records:\n\nIdentification: name, age, sex, address (for spot mapping), occupation\nClinical: date of onset (for the epidemic curve), symptoms, signs, severity, outcome\nExposure history: food, water, travel, gatherings, animal or vector contact within the incubation period\nContacts: household and others, with their immunization or prophylaxis status\nLaboratory: specimens taken, results\nInvestigator: name and date\n\nAggregating case sheets gives the time-place-person description from which hypotheses are formed.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#surveillance-definition-and-types",
+    "href": "diseases/communicable-diseases.html#surveillance-definition-and-types",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Surveillance: Definition and Types",
+    "text": "Surveillance: Definition and Types\n🟢 MUST KNOW\nSurveillance is the continuous, systematic collection, analysis and interpretation of health data, with timely dissemination to those who need to know, for action. In short: “information for action”.\n\n\n\n\n\n\n\n\nType\nHow it works\nExample\n\n\n\n\nPassive\nCases reported by health facilities on their own; cheap, under-reports\nRoutine IDSP reporting\n\n\nActive\nHealth workers actively search for cases\nHouse-to-house fever surveillance (malaria)\n\n\nSentinel\nSelected sites report systematically; detects trends\nHIV sentinel surveillance, AFP sites\n\n\nSyndromic\nReporting by syndrome before lab confirmation\nIDSP “S” form\n\n\nLaboratory-based / event-based\nConfirmed isolates; media and community alerts\nIDSP “L” form, media scanning",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#idsp-ihip-and-idsr",
+    "href": "diseases/communicable-diseases.html#idsp-ihip-and-idsr",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "IDSP, IHIP, and IDSR",
+    "text": "IDSP, IHIP, and IDSR\n🟢 MUST KNOW\n\nIDSP (Integrated Disease Surveillance Programme), launched in 2004, is a decentralized, laboratory-supported surveillance of epidemic-prone diseases. It has Rapid Response Teams at district and state level, and weekly reporting (Monday to Sunday).\nReporting formats:\n\nS (syndromic: health workers, e.g. ASHA/MPW)\nP (presumptive: medical officers)\nL (laboratory-confirmed)\n\nIHIP (Integrated Health Information Platform) is a web and mobile platform with near-real-time, case-based, GIS-enabled reporting. It was piloted from 2018 and rolled out nationwide in April 2021, replacing paper IDSP formats.\nIDSR (Integrated Disease Surveillance and Response) is the WHO strategy (first adopted in the African Region) linking surveillance to response at every level. India’s IDSP/IHIP follows the same “surveillance for response” principle.\n\nIHIP launch dates differ between sources: soft launch 2018, nationwide April 2021. Retrieved 28 Oct 2026.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-13",
+    "href": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-13",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Practice Questions: Descriptive (Lecture 13)",
+    "text": "Practice Questions: Descriptive (Lecture 13)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nDescribe the steps in the investigation of an epidemic.\nDefine surveillance. Describe its types and the Integrated Disease Surveillance Programme (IDSP/IHIP).\n\nShort Notes\n\nEpidemiological case sheet for investigation of an epidemic.\nSentinel surveillance.",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-19",
+    "href": "diseases/communicable-diseases.html#self-check-question-19",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 19",
+    "text": "Self-Check: Question 19\n🧡 QUESTION\n\nQuestion 19\nIn the standard outbreak-investigation sequence, “develop hypotheses” comes immediately after which step?\n\nVerify the diagnosis\nDescribe data by time, place, and person\nImplement control measures\nCommunicate findings",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-20",
+    "href": "diseases/communicable-diseases.html#self-check-question-20",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 20",
+    "text": "Self-Check: Question 20\n🧡 QUESTION\n\nQuestion 20\nWhen investigating a suspected outbreak, the first step after preparation for field work is to:\n\nImplement control measures\nConfirm the existence of an epidemic and verify the diagnosis\nFormulate a hypothesis\nWrite the report",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-21",
+    "href": "diseases/communicable-diseases.html#self-check-question-21",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 21",
+    "text": "Self-Check: Question 21\n🧡 QUESTION\n\nQuestion 21\nOn the IHIP platform under IDSP, the “P” form is used to report:\n\nPatients admitted to hospital\nPresumptive cases diagnosed by clinicians\nPolio cases only\nPrivate-sector laboratory results",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-22",
+    "href": "diseases/communicable-diseases.html#self-check-question-22",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 22",
+    "text": "Self-Check: Question 22\n🧡 QUESTION\n\nQuestion 22\nSurveillance in which health workers make house-to-house visits to search for fever cases and collect blood smears is:\n\nPassive surveillance\nActive surveillance\nSentinel surveillance\nSyndromic surveillance",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-23",
+    "href": "diseases/communicable-diseases.html#self-check-question-23",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 23",
+    "text": "Self-Check: Question 23\n🧡 QUESTION\n\nQuestion 23\nSelected reporting sites that systematically report a specific disease, used to detect trends that routine reporting misses, constitute:\n\nPassive surveillance\nActive surveillance\nSentinel surveillance\nCensus",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#self-check-question-24",
+    "href": "diseases/communicable-diseases.html#self-check-question-24",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Self-Check: Question 24",
+    "text": "Self-Check: Question 24\n🧡 QUESTION\n\nQuestion 24\nSmallpox eradication (1980) is the only successful human disease eradication to date. Which factor was essential to its success?\n\nMass vaccination of the entire world population simultaneously\nAn effective vaccine combined with surveillance and ring vaccination around detected cases, with no animal reservoir\nHerd immunity reaching exactly 50%\nElimination of the mosquito vector",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#screening-vs-diagnostic-test",
+    "href": "foundations/screening.html#screening-vs-diagnostic-test",
+    "title": "Screening for Disease",
+    "section": "Screening vs Diagnostic Test",
+    "text": "Screening vs Diagnostic Test\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\nScreening test\nDiagnostic test\n\n\n\n\nApplied to\nGroups of apparently healthy people\nSingle patients with symptoms or a positive screen\n\n\nInitiated by\nInvestigator, agency or programme\nThe patient seeking care\n\n\nTest\nQuick, cheap, simple, acceptable\nAccurate, often costly or invasive\n\n\nAccuracy\nLower; favours sensitivity\nHigher; favours specificity\n\n\nCut-off\nBased on one criterion\nEvaluation of all symptoms, signs and lab findings\n\n\nResult\nNot a basis for treatment\nBasis for treatment",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#uses-of-screening",
+    "href": "foundations/screening.html#uses-of-screening",
+    "title": "Screening for Disease",
+    "section": "Uses of Screening",
+    "text": "Uses of Screening\n🟢 MUST KNOW\n\nCase detection (prescriptive screening): early detection and treatment for the person’s own benefit, e.g. neonatal hypothyroidism, cervical and breast cancer, hypertension\nControl of disease (prospective screening): protecting others, e.g. screening blood donors, food handlers, immigrants, and contacts of TB\nResearch purposes: finding the prevalence and natural history of chronic diseases\nEducational opportunity: creating public awareness and educating health professionals",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#criteria-for-the-screening-test",
+    "href": "foundations/screening.html#criteria-for-the-screening-test",
+    "title": "Screening for Disease",
+    "section": "Criteria for the Screening Test",
+    "text": "Criteria for the Screening Test\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\nCriterion\nMeaning\n\n\n\n\nAcceptability\nPainless, quick and not embarrassing, so people take it up\n\n\nRepeatability (reliability)\nGives consistent results on repetition, by the same or different observers\n\n\nValidity (accuracy)\nDistinguishes the diseased from the non-diseased: sensitivity and specificity\n\n\nYield\nThe amount of previously unrecognized disease detected and brought to treatment. It rises with prevalence and with high-risk screening.\n\n\nSimplicity, safety, rapidity, cost\nSuitable for large numbers, by paramedical workers",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#practice-questions-descriptive-lecture-14",
+    "href": "foundations/screening.html#practice-questions-descriptive-lecture-14",
+    "title": "Screening for Disease",
+    "section": "Practice Questions: Descriptive (Lecture 14)",
+    "text": "Practice Questions: Descriptive (Lecture 14)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nDefine screening. Describe its uses and the types of screening.\nDifferentiate a screening test from a diagnostic test.\nEnumerate the criteria for screening (disease and test).\n\nShort Notes\n\nWilson and Jungner criteria.\nMultiphasic screening.\nLead time.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-7",
+    "href": "foundations/screening.html#self-check-question-7",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 7",
+    "text": "Self-Check: Question 7\n🧡 QUESTION\n\nQuestion 7\nScreening offered only to smokers aged over 50 for lung disease is an example of:\n\nMass screening\nHigh-risk (selective) screening\nMultiphasic screening\nOpportunistic screening",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#worked-example-evaluating-a-test",
+    "href": "foundations/screening.html#worked-example-evaluating-a-test",
+    "title": "Screening for Disease",
+    "section": "Worked Example: Evaluating a Test",
+    "text": "Worked Example: Evaluating a Test\n🟢 MUST KNOW\nA test is applied to 1000 people, 100 of whom have the disease (prevalence 10%):\n\n\n\n\nDisease +\nDisease −\nTotal\n\n\n\n\nTest +\n80 (TP)\n90 (FP)\n170\n\n\nTest −\n20 (FN)\n810 (TN)\n830\n\n\nTotal\n100\n900\n1000\n\n\n\n\n\n\nMeasure\nCalculation\nResult\n\n\n\n\nSensitivity\n80/100\n80%\n\n\nSpecificity\n810/900\n90%\n\n\nPPV\n80/170\n47%\n\n\nNPV\n810/830\n97.6%\n\n\nFalse-positive rate\n90/900\n10%\n\n\nFalse-negative rate\n20/100\n20%",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#how-prevalence-changes-ppv",
+    "href": "foundations/screening.html#how-prevalence-changes-ppv",
+    "title": "Screening for Disease",
+    "section": "How Prevalence Changes PPV",
+    "text": "How Prevalence Changes PPV\n🟢 MUST KNOW\nThe same test (sensitivity 80%, specificity 90%) is applied to 10,000 people:\n\n\n\nPrevalence\nDiseased\nTP\nFP\nPPV\nNPV\n\n\n\n\n1%\n100\n80\n990\n7.5%\n99.8%\n\n\n10%\n1,000\n800\n900\n47%\n97.6%\n\n\n30%\n3,000\n2,400\n700\n77%\n91.3%\n\n\n\n\nIn a low-prevalence population, most positives are false positives. Poor specificity then floods services with unnecessary confirmatory tests.\nThis is why high-risk (selective) screening gives a higher PPV and yield than mass screening",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#series-and-parallel-testing",
+    "href": "foundations/screening.html#series-and-parallel-testing",
+    "title": "Screening for Disease",
+    "section": "Series and Parallel Testing",
+    "text": "Series and Parallel Testing\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\n\n\nSeries (sequential) testing\nParallel (simultaneous) testing\n\n\n\n\nRule\nPositive only if positive on all tests\nPositive if positive on any test\n\n\nEffect\n↑ Specificity, ↑ PPV, ↓ sensitivity\n↑ Sensitivity, ↑ NPV, ↓ specificity\n\n\nUse when\nFalse positives are costly or harmful (HIV: positive on three tests)\nMissing a case is dangerous (emergencies, a serious treatable disease)\n\n\n\nSensitivity–specificity trade-off: for a test with a continuous result such as blood glucose, lowering the cut-off raises sensitivity and lowers specificity. The ROC curve plots sensitivity against (1 − specificity) to choose the best cut-off. A larger area under the curve means a better test.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#practice-questions-descriptive-lecture-15",
+    "href": "foundations/screening.html#practice-questions-descriptive-lecture-15",
+    "title": "Screening for Disease",
+    "section": "Practice Questions: Descriptive (Lecture 15)",
+    "text": "Practice Questions: Descriptive (Lecture 15)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nDefine sensitivity, specificity and predictive values. Explain with a 2 × 2 table.\nExplain how disease prevalence affects the predictive value of a screening test.\n\nShort Notes\n\nSeries and parallel testing.\nLead time bias and length time bias.\n\nReasoning Type\n\nWhy can screening programmes with poor specificity overload health services?",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#practice-questions-descriptive-lecture-15-contd.",
+    "href": "foundations/screening.html#practice-questions-descriptive-lecture-15-contd.",
+    "title": "Screening for Disease",
+    "section": "Practice Questions: Descriptive (Lecture 15, contd.)",
+    "text": "Practice Questions: Descriptive (Lecture 15, contd.)\nNumerical\n\nA new test was applied to 500 persons, 100 of whom had the disease (confirmed by a gold standard). The test was positive in 90 diseased and 40 non-diseased persons. Calculate sensitivity, specificity, PPV, NPV, and the false-positive and false-negative rates.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-8",
+    "href": "foundations/screening.html#self-check-question-8",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 8",
+    "text": "Self-Check: Question 8\n🧡 QUESTION\n\nQuestion 8\nWhich measure of test validity does NOT change with disease prevalence in the population tested?\n\nPositive predictive value\nNegative predictive value\nSensitivity\nBoth PPV and NPV",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-9",
+    "href": "foundations/screening.html#self-check-question-9",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 9",
+    "text": "Self-Check: Question 9\n🧡 QUESTION\n\nQuestion 9\nIn a screening programme for cervical cancer, many women test positive but are later found disease-free on confirmatory testing. This problem is best explained by low:\n\nSensitivity\nSpecificity\nIncidence\nReliability",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-10",
+    "href": "foundations/screening.html#self-check-question-10",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 10",
+    "text": "Self-Check: Question 10\n🧡 QUESTION\n\nQuestion 10\nA screening test for a fatal disease has very high sensitivity but poor specificity. In a low-prevalence population, the most likely consequence is:\n\nHigh positive predictive value\nMany false positives leading to unnecessary confirmatory testing\nNo impact on workload\nElimination of overdiagnosis",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-11",
+    "href": "foundations/screening.html#self-check-question-11",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 11",
+    "text": "Self-Check: Question 11\n🧡 QUESTION\n\nQuestion 11\nA test is applied to 1000 people. Of 100 who truly have the disease, 80 test positive. Of 900 without the disease, 90 test positive. The sensitivity and specificity are:\n\n80% and 90%\n90% and 80%\n80% and 10%\n47% and 98%",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-12",
+    "href": "foundations/screening.html#self-check-question-12",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 12",
+    "text": "Self-Check: Question 12\n🧡 QUESTION\n\nQuestion 12\nIn the same example (TP 80, FP 90, FN 20, TN 810), the positive predictive value is about:\n\n47%\n80%\n90%\n98%",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-13",
+    "href": "foundations/screening.html#self-check-question-13",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 13",
+    "text": "Self-Check: Question 13\n🧡 QUESTION\n\nQuestion 13\nTwo tests are applied in series, and a person is called positive only if positive on both. Compared with either test alone, series testing:\n\nIncreases sensitivity\nIncreases specificity\nIncreases both\nDecreases both",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-14",
+    "href": "foundations/screening.html#self-check-question-14",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 14",
+    "text": "Self-Check: Question 14\n🧡 QUESTION\n\nQuestion 14\nScreened patients appear to survive longer after diagnosis simply because their disease was detected earlier in its course, even though they die at the same time as without screening. This is:\n\nLength time bias\nLead time bias\nOverdiagnosis\nSelection bias",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/screening.html#self-check-question-15",
+    "href": "foundations/screening.html#self-check-question-15",
+    "title": "Screening for Disease",
+    "section": "Self-Check: Question 15",
+    "text": "Self-Check: Question 15\n🧡 QUESTION\n\nQuestion 15\nDetection, through screening, of a genuine abnormality that would never have caused symptoms or harm in a person’s lifetime is called:\n\nLead time bias\nLength time bias\nOverdiagnosis\nFalse positive",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Screening for Disease (CM7)"
+    ]
+  },
+  {
+    "objectID": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-13-contd.",
+    "href": "diseases/communicable-diseases.html#practice-questions-descriptive-lecture-13-contd.",
+    "title": "Epidemiology of Communicable Diseases",
+    "section": "Practice Questions: Descriptive (Lecture 13, contd.)",
+    "text": "Practice Questions: Descriptive (Lecture 13, contd.)\nCase Scenario\n\nA health officer observes that the number of reported cases of typhoid fever in a town has doubled over the past month compared to the same period last year. Most cases are clustered around a specific locality.\n\nWhat epidemiological phenomenon is suggested by this observation?\nWhich measure of disease frequency is being used for comparison?\nWhat is the first step the health officer should take to investigate this situation?\nMention two possible sources of infection in this locality.\nHow does epidemiology help in planning control measures in such situations?",
+    "crumbs": [
+      "Contents",
+      "Communicable & Non-Communicable Diseases",
+      "Epidemiology of Communicable Diseases (CM7–CM8)"
     ]
   }
 ]

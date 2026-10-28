@@ -1,6 +1,6 @@
 ---
 title: "Epidemiology of Communicable Diseases"
-subtitle: "The Chain of Infection, Transmission, and Control"
+subtitle: "The Chain of Infection, Immunity, Control, and Outbreak Investigation"
 format:
   revealjs:
     theme: serif
@@ -24,27 +24,21 @@ revealjs-plugins:
 
 ### Epidemiology of Communicable Diseases
 
-**Learning Objectives:**
+**Learning Objectives (CM7 Lectures 10–13):**
 
-- Describe the six links in the chain of infection
-- Distinguish endemic, sporadic, epidemic, and pandemic disease occurrence
-- Classify modes of transmission of communicable disease
-- Define basic reproduction number (R₀) and herd immunity threshold
-- Describe carrier states and why chronic carriers matter
-- Distinguish incubation period, generation time, and serial interval
-- Distinguish isolation from quarantine
-- Compare live, killed, toxoid, and subunit vaccines
-- Apply the levels of prevention to communicable disease control
-- Outline the standard steps of an outbreak investigation
+- Describe the dynamics of disease transmission: chain of infection, reservoirs, carriers, modes of transmission, incubation period, SAR, R₀
+- Classify immunity; describe immunizing agents, the cold chain and AEFI
+- Outline the measures for control of communicable disease and the types and agents of disinfection
+- Describe the steps of an epidemic investigation, the types of surveillance, and IDSP/IHIP
 
-**NMC Community Medicine Code:** CM7–CM8
+**NMC Community Medicine Code:** CM7.2, CM7.7 (also CM8, CM20)
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
 ::: {.notes}
-This chapter applies Chapter 2's levels of prevention and Chapter 3's
-epidemiological triad specifically to infectious disease, and opens the
-Diseases section of the curriculum.
+This chapter applies Chapter 2's levels of prevention and Chapters 3–4's
+epidemiological methods to infectious disease, and opens the Diseases
+section of the curriculum.
 :::
 
 ---
@@ -134,26 +128,52 @@ targeted.
 
 ---
 
+## Reservoirs of Infection {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Source** = the person, animal or object from which the agent passes to the host. **Reservoir** = where the agent normally lives and multiplies.
+
+- **Human reservoir**: a **case** (clinical, subclinical or latent) or a **carrier** (infected and shedding but without overt disease)
+- **Animal reservoir**: diseases transmitted from vertebrate animals to humans are **zoonoses** (rabies, plague, leptospirosis)
+- **Non-living reservoir**: soil and inanimate matter (tetanus spores in soil, *Legionella* in water systems)
+
+---
+
+## Carrier States {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A **carrier** is an infected person who sheds the agent without showing overt disease, before or after it. Carriers matter because clinical surveillance often *misses* them.
+
+- **By type:**
+  - *incubatory*: sheds during the incubation period (measles, polio)
+  - *convalescent*: continues shedding after clinical recovery (typhoid, cholera)
+  - *healthy*: sheds without ever having overt disease (polio, meningococcus)
+- **By duration:** *temporary* (short-lived shedding) vs *chronic* (indefinite shedding, e.g. typhoid and hepatitis B). Chronic carriers are the greater public-health threat.
+- **By portal of exit:** urinary, intestinal, respiratory, nasal
+
+A diagnosed case is usually isolated. An unrecognized chronic carrier keeps transmitting silently.
+
+---
+
 ## Epidemic, Endemic, and Pandemic {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
 
-Disease occurrence is classified by how its frequency compares to what's
-normally expected in a place and population:
-
 | Term | Meaning |
 |---|---|
-| **Endemic** | Constant, expected presence of a disease in a given area/population, without importation |
+| **Endemic** | Constant, expected presence of a disease in a given area or population, without importation |
 | **Sporadic** | Cases occur irregularly and infrequently, with no consistent pattern |
-| **Epidemic** | Cases clearly **in excess** of normal expectancy for that place, population, and season |
-| **Pandemic** | An epidemic spanning multiple countries/continents, usually affecting large numbers of people |
+| **Epidemic** | Cases clearly **in excess** of normal expectancy for that place, population and season |
+| **Pandemic** | An epidemic spanning several countries or continents, usually affecting large numbers of people |
 | **Exotic** | A disease imported into an area where it does not otherwise occur |
 
-**Zoonoses** — infections naturally transmissible between vertebrate
-animals and humans — are classified by direction: **anthropozoonoses**
-(animal → human, e.g. rabies, anthrax), **zooanthroponoses** (human →
-animal, e.g. human TB in cattle), and **amphixenoses** (either
-direction).
+**Zoonoses** are classified by direction:
+
+- **anthropozoonoses**: animal → human (rabies, anthrax)
+- **zooanthroponoses**: human → animal (human TB in cattle)
+- **amphixenoses**: either direction
 
 ---
 
@@ -165,32 +185,50 @@ direction).
 ::: {.column width="50%"}
 **Direct transmission**
 
-- Direct contact (touch, sexual contact)
-- Droplet spread (coughing, sneezing, over short distance)
-- Transplacental (mother to fetus)
+- Direct contact (skin, mucosa, sexual): STIs, leprosy, scabies
+- Droplet infection (< 1 m): influenza, diphtheria, pertussis
+- Contact with soil: hookworm, tetanus
+- Inoculation into skin or mucosa: rabies (bite), hepatitis B
+- Transplacental (vertical): rubella, syphilis, HIV, toxoplasmosis
 :::
 
 ::: {.column width="50%"}
 **Indirect transmission**
 
-- **Vehicle-borne** — contaminated water, food, fomites
-- **Vector-borne** — via an insect/arthropod (mechanical or biological)
-- **Airborne** — droplet nuclei or dust suspended in air over distance
+- **Vehicle-borne**: water, food, milk, blood (cholera, typhoid, hepatitis A)
+- **Vector-borne**: *mechanical* (flies, typhoid) or *biological*, which is propagative (plague), cyclo-propagative (malaria) or cyclo-developmental (filaria)
+- **Airborne**: droplet nuclei (TB, measles), dust
+- **Fomite-borne**: towels, utensils (diphtheria, trachoma)
+- **Unclean hands and fingers**: faecal-oral spread
 :::
 ::::
 
 ---
 
-## Reservoirs of Infection {background-color="#E3F2E1"}
+## Incubation Period and Related Intervals {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Incubation period** is the time from entry of the infectious agent to the first sign or symptom of disease. It depends on the infective dose, portal of entry, host susceptibility and the agent's generation time.
+
+**Uses:** tracing the source of infection, setting the period of **quarantine and surveillance of contacts** (= the longest incubation period), timing immunization and prophylaxis, and identifying point-source vs propagated epidemics.
+
+- **Generation time**: from receipt of infection to the host's maximal infectivity
+- **Serial interval**: from onset in the primary case to onset in the secondary case
+- **Communicable period**: the time during which an infected person can transmit the agent
+
+---
+
+## Secondary Attack Rate {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
 
-- **Human reservoir** — a case (symptomatic) or a **carrier**
-  (asymptomatic but infectious)
-- **Animal reservoir** — diseases transmitted from vertebrate animals to
-  humans are called **zoonoses**
-- **Environmental reservoir** — soil, water (e.g. tetanus spores in soil,
-  *Legionella* in water systems)
+**Secondary Attack Rate (SAR)** measures how contagious a disease is within a close-contact group after exposure to a primary case:
+
+`SAR = (New cases among contacts within one incubation period / Total susceptible contacts) × 100`
+
+- **Exclude** the primary case and contacts who are immune (by immunization or past attack) from the denominator
+- **Worked example:** a household of 6 has 1 primary measles case and 1 immune member, leaving 4 susceptibles. 2 develop measles within one incubation period, so SAR = 2/4 = **50%**.
 
 ---
 
@@ -198,46 +236,133 @@ direction).
 
 🟢 **MUST KNOW**
 
-**R₀** is the average number of secondary infections produced by one
-infected person in a **completely susceptible** population.
+**R₀** is the average number of secondary infections produced by one infected person in a **completely susceptible** population.
 
-- **R₀ > 1** → each case generates more than one new case → epidemic
-  potential
-- **R₀ < 1** → the outbreak is expected to die out
-- **R₀ = 1** → disease remains endemic at a steady rate
+- **R₀ > 1**: each case generates more than one new case, giving epidemic potential
+- **R₀ < 1**: the outbreak is expected to die out
+- **R₀ = 1**: the disease remains endemic at a steady rate
 
----
-
-## Herd Immunity {background-color="#E3F2E1"}
-
-🟢 **MUST KNOW**
-
-**Herd immunity** is indirect protection of susceptible individuals when
-a sufficiently high proportion of a population is immune, breaking chains
-of transmission even for those who aren't immune themselves.
-
-**Herd immunity threshold (HIT):**
-
-`HIT = 1 − (1 / R₀)`
-
-**Example:** a disease with R₀ = 3 needs roughly two-thirds (66%) of the
-population immune to interrupt sustained transmission.
+R₀ depends on the contact rate, the probability of transmission per contact, and the duration of infectiousness. Measles has an R₀ of about 12–18, and influenza about 1.5–2.
 
 ---
 
-## Levels of Prevention Applied to Communicable Disease {background-color="#E3F2E1"}
+## Practice Questions: Descriptive (Lecture 10) {background-color="#FFF6DA"}
 
-🟢 **MUST KNOW**
+**For written practice — work through these on paper; no auto-check for this slide.**
 
-Chapter 2's levels of prevention map directly onto infectious disease
-control:
+**Short Essay / Short Answer**
 
-| Level | Communicable disease example |
-|---|---|
-| **Primordial** | Improving sanitation and housing before any outbreak risk exists |
-| **Primary** | Immunization, vector control, safe water |
-| **Secondary** | Case detection, contact tracing, early treatment |
-| **Tertiary** | Rehabilitation from disease sequelae (e.g. post-polio care) |
+1. Write the various modes of disease transmission with examples and control measures for each.
+2. Describe the chain of infection (dynamics of disease transmission).
+
+**Short Notes**
+
+3. Secondary attack rate and its calculation.
+4. Carriers.
+5. Incubation period and its uses.
+6. Basic reproduction number (R₀).
+
+---
+
+## Self-Check: Question 1 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 1
+
+Which of the following is NOT one of the six links in the chain of infection?
+
+- Reservoir
+- Portal of exit
+- [Herd immunity]{.correct data-explanation="Herd immunity is a population-level protective effect. The six links are agent, reservoir, portal of exit, mode of transmission, portal of entry, and susceptible host."}
+- Susceptible host
+:::
+
+---
+
+## Self-Check: Question 2 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 2
+
+Malaria, transmitted from an infected person to a new host via a mosquito, is an example of which mode of transmission?
+
+- Direct contact
+- Droplet spread
+- [Vector-borne transmission]{.correct data-explanation="Vector-borne transmission occurs when a living arthropod carries the agent between hosts. In malaria it is biological (cyclo-developmental) transmission in the Anopheles mosquito."}
+- Fomite transmission
+:::
+
+---
+
+## Self-Check: Question 3 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 3
+
+A typhoid patient continues to excrete S. Typhi in stools for several weeks after clinical recovery. This person is a:
+
+- Incubatory carrier
+- [Convalescent carrier]{.correct data-explanation="A convalescent carrier sheds the agent after clinical recovery. If shedding lasts more than a year, the person is a chronic carrier, which is typical of typhoid (gall bladder)."}
+- Healthy carrier
+- Contact
+:::
+
+---
+
+## Self-Check: Question 4 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 4
+
+In a household of 6, one person develops measles (the primary case). One other member is already immune. Within one incubation period, 2 more members develop measles. The secondary attack rate is:
+
+- 33%
+- 40%
+- [50%]{.correct data-explanation="SAR = new cases among susceptible contacts ÷ susceptible contacts × 100. The denominator excludes the primary case and the immune member: 6 − 1 − 1 = 4 susceptible contacts. SAR = 2/4 = 50%. Using all 5 contacts (40%) is the classic error."}
+- 60%
+:::
+
+---
+
+## Self-Check: Question 5 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 5
+
+The time interval between receipt of infection by a host and maximal infectivity of that host is called the:
+
+- Incubation period
+- Serial interval
+- [Generation time]{.correct data-explanation="Generation time runs from infection to maximal infectivity. The serial interval is the gap between onsets of primary and secondary cases. The incubation period runs from infection to the first symptom."}
+- Communicable period
+:::
+
+---
+
+## Self-Check: Question 6 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 6
+
+If a disease has a basic reproduction number (R₀) of less than 1 in a population, the disease will:
+
+- Spread as an epidemic
+- Remain endemic at a stable level
+- [Gradually die out]{.correct data-explanation="Each case produces fewer than one new case on average, so transmission chains shorten and the outbreak dies out. R₀ = 1 gives stable endemicity, and R₀ &gt; 1 gives epidemic potential."}
+- Become pandemic
+:::
 
 ---
 
@@ -249,24 +374,230 @@ control:
 
 ---
 
+## Types of Immunity {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![Types of immunity](../images/epidemiology/immunity_types.svg){.slide-img .nostretch width="880px"}
+
+---
+
+## Active vs Passive Immunity {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| | Active immunity | Passive immunity |
+|---|---|---|
+| **Produced by** | The host's own immune system | Ready-made antibodies from another source |
+| **Induced by** | Infection or vaccination | Maternal transfer; immunoglobulins, antisera |
+| **Onset** | Slow (lag phase of 1–2 weeks or more) | Immediate |
+| **Duration** | Long-lasting (years) | Short (weeks to months) |
+| **Memory and boosters** | Immunological memory; boosters effective | No memory |
+| **Use** | Prophylaxis | Immediate protection, treatment, immunodeficiency |
+
+**Combined active–passive:** rabies post-exposure (RIG + vaccine) and tetanus-prone wounds (TIG + TT/Td) give immediate *and* lasting protection.
+
+---
+
+## Herd Immunity {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Herd immunity** is the level of resistance of a community to an infection. When a high proportion is immune, chains of transmission break and even non-immune individuals are protected.
+
+**Herd immunity threshold (HIT):**
+
+`HIT = 1 − (1 / R₀)`
+
+**Example:** a disease with R₀ = 3 needs about 67% of the population immune, and measles (R₀ about 15) needs more than 90%.
+
+- It depends on clinical and subclinical infections, immunization coverage, and the herd structure (density, mixing)
+- It does **not** protect against tetanus, which has no person-to-person spread
+
+---
+
+## Immunizing Agents {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| Agent | What it is | Examples |
+|---|---|---|
+| **Vaccines** | Antigens that induce **active** immunity | See next slide |
+| **Immunoglobulins: normal human** | Pooled human IgG | Hepatitis A, measles post-exposure |
+| **Immunoglobulins: specific (hyperimmune) human** | IgG from donors with high specific titres | HBIG, RIG, TIG, VZIG |
+| **Antisera / antitoxins** | Animal-derived (usually equine) antibody | Anti-snake venom, anti-diphtheritic serum, equine RIG |
+
+Antisera carry a risk of **serum sickness and anaphylaxis**. Give a test dose and keep adrenaline ready. Human immunoglobulins are preferred where available.
+
+---
+
 ## Types of Vaccines {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-Immunizing agents used for primary prevention fall into distinct
-categories, each with different implications for immunity and
-administration:
-
 | Type | How it works | Examples |
 |---|---|---|
-| **Live attenuated** | Weakened live organism; usually strong, long-lasting immunity from few doses | BCG, OPV, MMR |
-| **Killed / inactivated** | Whole organism inactivated; safer in immunocompromised hosts, but needs boosters | Inactivated polio (IPV), rabies |
-| **Toxoid** | Inactivated bacterial toxin, not the organism itself | Tetanus, diphtheria |
-| **Subunit / conjugate** | Only a specific antigenic component, reducing side effects | Hepatitis B, Hib |
+| **Live attenuated** | Weakened live organism; strong, long-lasting immunity from few doses | BCG, OPV, MR/MMR, rotavirus, yellow fever |
+| **Killed / inactivated** | Whole organism inactivated; safer in the immunocompromised, but needs boosters | IPV, rabies (cell culture), whole-cell pertussis |
+| **Toxoid** | Inactivated bacterial toxin, not the organism | Tetanus, diphtheria |
+| **Subunit / recombinant / conjugate** | A specific antigenic component | Hepatitis B, Hib, PCV, HPV |
+| **Newer platforms** | mRNA, viral vector | COVID-19 vaccines |
 
-**Exam tip:** live vaccines are generally contraindicated in pregnancy
-and immunocompromised individuals, since the attenuated organism can
-still replicate.
+**Exam tip:** live vaccines are generally contraindicated in pregnancy and in immunocompromised people, because the attenuated organism can still replicate.
+
+---
+
+## Cold Chain and AEFI {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Cold chain** is the system of storing and transporting vaccines at recommended temperatures from manufacturer to beneficiary, at **+2 °C to +8 °C**.
+
+- Equipment: walk-in coolers and freezers → ILR and deep freezer (PHC) → cold box → vaccine carrier with conditioned ice packs
+- **Heat-sensitive**: OPV (most), measles/MR, BCG. **Freeze-sensitive (never freeze)**: Hep B, pentavalent, DPT, TT/Td, IPV, PCV. Freezing is checked with the **shake test**.
+- **Vaccine Vial Monitor (VVM)**: a heat-exposure indicator. Discard the vial when the inner square matches or is darker than the outer circle.
+
+**AEFI (adverse event following immunization):** any untoward medical occurrence after immunization, not necessarily caused by the vaccine.
+
+- WHO causes: vaccine product-related, quality defect-related, **immunization error-related**, **immunization anxiety-related**, and **coincidental**
+- Serious AEFIs (death, hospitalization, disability, clusters) must be reported and investigated
+
+---
+
+## Practice Questions: Descriptive (Lecture 11) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+**Short Essay / Short Answer**
+
+1. Classify immunity with examples. Differentiate active and passive immunity.
+2. Describe the immunizing agents: vaccines, immunoglobulins and antisera.
+
+**Short Notes**
+
+3. Herd immunity.
+4. Cold chain.
+5. Adverse events following immunization (AEFI).
+6. Live vs killed vaccines.
+
+---
+
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 7
+
+A disease has R₀ = 4. What proportion of the population must be immune to reach the herd immunity threshold?
+
+- 25%
+- 50%
+- [75%]{.correct data-explanation="HIT = 1 − 1/R₀ = 1 − 1/4 = 0.75, or 75%."}
+- 100%
+:::
+
+---
+
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 8
+
+Immunity acquired by a newborn from maternal antibodies transferred across the placenta is:
+
+- Natural active immunity
+- [Natural passive immunity]{.correct data-explanation="Ready-made antibodies from another person give passive immunity, and placental or breast-milk transfer is natural. It is immediate but short-lived (about 6 months)."}
+- Artificial active immunity
+- Artificial passive immunity
+:::
+
+---
+
+## Self-Check: Question 9 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 9
+
+Administration of tetanus immunoglobulin to an unimmunized patient with a contaminated wound provides:
+
+- Natural active immunity
+- Natural passive immunity
+- Artificial active immunity
+- [Artificial passive immunity]{.correct data-explanation="Ready-made antibody given by injection gives artificial passive immunity: immediate but temporary. The tetanus toxoid given alongside induces artificial active immunity."}
+:::
+
+---
+
+## Self-Check: Question 10 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 10
+
+Which of the following is a live attenuated vaccine?
+
+- Tetanus toxoid
+- Hepatitis B vaccine
+- [BCG]{.correct data-explanation="BCG, OPV, measles/MR/MMR, rotavirus and yellow fever are live attenuated. TT is a toxoid, Hep B a recombinant subunit, and IPV a killed vaccine."}
+- Inactivated polio vaccine (IPV)
+:::
+
+---
+
+## Self-Check: Question 11 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 11
+
+Which of the following vaccines is the MOST heat-sensitive?
+
+- BCG
+- [Oral polio vaccine (OPV)]{.correct data-explanation="OPV is the most heat-sensitive vaccine. Freezing does not damage it, so it can be stored frozen at district level. TT, Hep B and pentavalent are freeze-sensitive and must never be frozen."}
+- Tetanus toxoid
+- Hepatitis B
+:::
+
+---
+
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 12
+
+The Vaccine Vial Monitor (VVM) on a vial indicates:
+
+- Whether the vaccine has been frozen
+- [Cumulative heat exposure of the vial]{.correct data-explanation="The VVM is a heat-sensitive label. If the inner square matches or is darker than the outer circle, the vaccine has had too much heat and must be discarded. Freezing damage is checked with the shake test."}
+- The expiry date of the vaccine
+- Whether the vial has been opened
+:::
+
+---
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION (select ALL that apply)**
+
+::: {.quiz-question .quiz-multiple}
+### Question 13
+
+Which of the following are recognized causes in the WHO classification of adverse events following immunization (AEFI)?
+
+- [Vaccine product-related reaction]{.correct data-explanation="WHO cause-specific categories: vaccine product-related, vaccine quality defect-related, immunization error-related, immunization anxiety-related, and coincidental events."}
+- [Immunization error-related reaction]{.correct}
+- [Immunization anxiety-related reaction]{.correct}
+- [Coincidental event]{.correct}
+:::
 
 ---
 
@@ -278,74 +609,185 @@ still replicate.
 
 ---
 
+## Control of Communicable Diseases {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![Three groups of control measures](../images/epidemiology/control_framework.svg){.slide-img .nostretch width="900px"}
+
+---
+
+## Controlling the Reservoir {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Early diagnosis**: treatment, epidemiological investigation, early control
+- **Notification**: legal reporting of notifiable diseases to the health authority. Internationally notifiable events go through the IHR (2005).
+- **Epidemiological investigation**: find the source and the contacts
+- **Isolation**: separate infected *cases* for their period of communicability
+- **Treatment**: cuts the period of communicability, as in TB, leprosy and STIs
+- **Quarantine**: restrict healthy *contacts* for the **longest incubation period**
+- **Disinfection**: concurrent and terminal (next slides)
+
+---
+
 ## Isolation vs. Quarantine {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-- **Isolation** — separating a person **already known to be infected**
-  (diagnosed or symptomatic) from others, until no longer contagious
-- **Quarantine** — separating a person who was **exposed** but is not yet
-  known to be infected, for the duration of the incubation period, to see
-  if disease develops
+- **Isolation**: separating a person **already known to be infected** from others until they are no longer infectious. Types include standard, strict, respiratory, enteric and contact isolation.
+- **Quarantine**: restricting a **healthy person exposed** to a communicable disease, for a period equal to the **longest incubation period**, to see whether disease develops
+  - *Absolute (complete) quarantine*: full restriction of movement
+  - *Modified quarantine*: selective restriction (e.g. excluding children from school)
+  - *Segregation*: separating a group for observation
 
-**Both are control measures acting on different links of the chain of
-infection** — isolation removes an active reservoir; quarantine
-interrupts transmission from a potential future case.
+Both are control measures on different links of the chain. Isolation removes an active source, and quarantine stops transmission from a possible future case.
 
 ---
 
-## Carrier States {background-color="#FFF6DA"}
+## Levels of Prevention Applied to Communicable Disease {background-color="#E3F2E1"}
 
-🟡 **SHOULD KNOW**
+🟢 **MUST KNOW**
 
-A **carrier** is an infected person who sheds the agent without (or
-before/after) showing overt disease — carriers matter because they're
-often *missed* by clinical surveillance.
-
-- **By type:** incubatory (sheds during incubation) · convalescent
-  (continues shedding after clinical recovery, e.g. typhoid, cholera) ·
-  healthy (shedding without ever having overt disease, e.g. poliomyelitis)
-- **By duration:** temporary (short-lived shedding) vs. **chronic**
-  (indefinite shedding — the greater public-health threat, since the
-  longer the carrier state, the greater the cumulative community risk)
-
-**Why carriers matter more than cases, sometimes:** a diagnosed case is
-usually isolated; an unrecognized chronic carrier keeps transmitting
-silently.
+| Level | Communicable disease example |
+|---|---|
+| **Primordial** | Improving sanitation and housing before any outbreak risk exists |
+| **Primary** | Immunization, chemoprophylaxis, vector control, safe water, health education |
+| **Secondary** | Case detection, contact tracing, early treatment, screening (e.g. TB active case finding) |
+| **Tertiary** | Disability limitation and rehabilitation from sequelae (e.g. post-polio, leprosy deformities) |
 
 ---
 
-## Incubation Period and Related Intervals {background-color="#FFF6DA"}
+## Disinfection: Definitions and Types {background-color="#E3F2E1"}
 
-🟡 **SHOULD KNOW**
+🟢 **MUST KNOW**
 
-**Incubation period** — the time between exposure to an infectious agent
-and the first sign or symptom of disease. It depends on infective dose,
-portal of entry, and host susceptibility, and is used to set quarantine
-duration and trace likely sources.
+- **Disinfection**: killing infectious agents outside the body by chemical or physical means. Spores may survive.
+- **Sterilization**: destruction of **all** microorganisms, including spores
+- **Antiseptic**: inhibits or kills organisms on living tissue. **Deodorant**: suppresses odours only.
 
-Two related, easily confused intervals:
-
-- **Generation time** — from receipt of infection to that host's own
-  peak infectivity
-- **Serial interval** — the gap between symptom onset in a primary case
-  and symptom onset in a secondary case it infects
+| Type | When | Example |
+|---|---|---|
+| **Concurrent** | Immediately, throughout the illness, on infectious discharges and soiled articles | Disinfecting a cholera patient's stools and linen daily |
+| **Terminal** | Once, after the patient has gone (recovery, transfer, death) | Cleaning the sickroom, bedding and furniture |
+| **Precurrent (prophylactic)** | Before any case, as a preventive measure | Water chlorination, milk pasteurization, hand washing |
 
 ---
 
-## Secondary Attack Rate {background-color="#FFF6DA"}
+## Disinfection: Agents and Uses {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-**Secondary Attack Rate (SAR)** measures how contagious a disease is
-within a close-contact group (e.g. a household), following exposure to a
-primary case:
+| Group | Agents | Typical uses |
+|---|---|---|
+| **Natural** | Sunlight (UV), air | Bedding, mattresses |
+| **Physical** | Burning, hot air (oven), **boiling** (15–30 min), **autoclave** (121 °C, 15 lb/in², 15–20 min), radiation | Dressings (burning), glassware (hot air), surgical items (autoclave) |
+| **Chemical: halogens** | Bleaching powder (about 33% available chlorine), sodium hypochlorite, chlorine | Water, faeces, urine, floors |
+| **Chemical: others** | Phenol and cresol (lysol), alcohols (70%), formaldehyde (fumigation), glutaraldehyde, quaternary ammonium compounds, iodophors | Excreta, skin, rooms, endoscopes |
 
-`SAR = (New cases among contacts) / (Total susceptible contacts)`
+**Choosing an agent:** consider the target organism, the material, organic load, contact time, toxicity and cost. Biomedical waste is managed under the BMW Management Rules, 2016.
 
-Related concept — **incubation period**: the time between exposure to an
-infectious agent and the first appearance of symptoms; it determines how
-long quarantine should last.
+---
+
+## Practice Questions: Descriptive (Lecture 12) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+**Short Essay / Short Answer**
+
+1. Describe the methods for the control of communicable diseases: controlling the reservoir, interrupting transmission, and protecting the susceptible host.
+2. Define disinfection. Describe its types and the agents used, with their applications.
+
+**Short Notes**
+
+3. Isolation vs quarantine.
+4. Concurrent and terminal disinfection.
+5. Chemoprophylaxis.
+
+---
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 14
+
+A person who was exposed to a confirmed case, but has no symptoms and unknown infection status, is placed in separate accommodation for the incubation period of the disease. This is:
+
+- Isolation
+- [Quarantine]{.correct data-explanation="Quarantine applies to exposed but not-yet-confirmed individuals, for the longest incubation period of the disease. Isolation applies to known cases."}
+- Ring vaccination
+- Contact tracing
+:::
+
+---
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 15
+
+Disinfection of the sickroom, its contents and bedding after the patient has been removed by recovery, death or transfer is called:
+
+- Concurrent disinfection
+- [Terminal disinfection]{.correct data-explanation="Terminal disinfection is done once, after the source has gone. Concurrent disinfection is applied immediately to infectious discharges during the illness. Precurrent (prophylactic) disinfection is done in advance, as with water chlorination."}
+- Precurrent disinfection
+- Sterilization
+:::
+
+---
+
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 16
+
+Chlorination of a community water supply is an example of:
+
+- Concurrent disinfection
+- Terminal disinfection
+- [Precurrent (prophylactic) disinfection]{.correct data-explanation="Precurrent disinfection is a preventive measure applied before any case occurs: water chlorination, pasteurization, hand washing."}
+- Sterilization
+:::
+
+---
+
+## Self-Check: Question 17 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 17
+
+Giving rifampicin to the household contacts of a case of meningococcal meningitis is an example of:
+
+- Controlling the reservoir
+- Interrupting transmission
+- [Chemoprophylaxis to protect the susceptible host]{.correct data-explanation="Chemoprophylaxis, giving a drug to prevent infection or disease, protects susceptible contacts. Isolation and treatment of the case act on the reservoir."}
+- Active immunization
+:::
+
+---
+
+## Self-Check: Question 18 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 18
+
+Which measure acts on the RESERVOIR link of the chain of infection?
+
+- [Early diagnosis and treatment of cases]{.correct data-explanation="Early diagnosis, notification, isolation, treatment and quarantine control the reservoir. Vector control and water treatment interrupt transmission. Immunization protects the susceptible host."}
+- Vector control
+- Water chlorination
+- Immunization of contacts
+:::
 
 ---
 
@@ -357,56 +799,73 @@ long quarantine should last.
 
 ---
 
-## Outbreak Investigation: The 10 Steps {background-color="#FFF6DA"}
+## Outbreak Investigation: The 10 Steps {background-color="#E3F2E1"}
 
-🟡 **SHOULD KNOW**
+🟢 **MUST KNOW**
 
 The standard CDC-style sequence for investigating a suspected outbreak:
 
 1. Prepare for field work
-2. Establish the existence of an outbreak
+2. Establish the existence of an outbreak (compare with expected numbers)
 3. Verify the diagnosis
-4. Define and identify cases
-5. Describe data by time, place, and person
+4. Define and identify cases (case definition, active case search)
+5. Describe data by time, place and person (epidemic curve, spot map)
 6. Develop hypotheses
-7. Evaluate hypotheses
-8. Refine hypotheses / conduct additional studies
+7. Evaluate hypotheses (case-control or cohort study)
+8. Refine hypotheses and conduct additional studies (laboratory, environmental)
 9. Implement control and prevention measures
-10. Communicate findings
+10. Communicate findings (report)
 
-*(In practice these steps often overlap and don't run strictly in order —
-control measures, for instance, are often started well before the
-investigation formally concludes.)*
+In practice the steps overlap. Control measures often start before the investigation formally ends.
 
 ---
 
-## Disinfection and Disease Surveillance in India {background-color="#FFF6DA"}
+## The Epidemiological Case Sheet {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-**Disinfection** — destroying pathogenic microorganisms on inanimate
-objects/surfaces (distinct from sterilization, which destroys *all*
-microorganisms including spores) — is a practical control measure
-applied at several links of the chain of infection above:
+A standard case investigation form is filled for every case during an epidemic. It records:
 
-- **Concurrent disinfection** — carried out immediately, throughout the
-  course of illness, on infectious discharges/materials as they occur
-  (e.g. disinfecting a patient's excreta daily during a diarrheal illness)
-- **Terminal disinfection** — carried out once, after the patient is no
-  longer a source of infection (recovery, transfer, or death) — cleaning
-  the sickroom and its contents
-- **Physical methods** — heat (boiling, autoclaving), sunlight, filtration
-- **Chemical methods** — chlorine compounds, phenolics, alcohols —
-  selected by target organism, material compatibility, and cost
+- **Identification**: name, age, sex, address (for spot mapping), occupation
+- **Clinical**: date of onset (for the epidemic curve), symptoms, signs, severity, outcome
+- **Exposure history**: food, water, travel, gatherings, animal or vector contact within the incubation period
+- **Contacts**: household and others, with their immunization or prophylaxis status
+- **Laboratory**: specimens taken, results
+- **Investigator**: name and date
 
-**Disease surveillance infrastructure in India:** outbreak
-investigation (the 10 steps above) depends on a functioning reporting
-system feeding it real-time data. India's current platform is the
-**Integrated Health Information Platform (IHIP)**, run under the
-**Integrated Disease Surveillance Programme (IDSP)** — a web-enabled,
-near-real-time disease surveillance system that replaced the older
-paper-based IDSP reporting formats, enabling faster outbreak detection
-and the case-based data needed to trigger the investigation steps above.
+Aggregating case sheets gives the time-place-person description from which hypotheses are formed.
+
+---
+
+## Surveillance: Definition and Types {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Surveillance** is the continuous, systematic collection, analysis and interpretation of health data, with timely dissemination to those who need to know, *for action*. In short: "information for action".
+
+| Type | How it works | Example |
+|---|---|---|
+| **Passive** | Cases reported by health facilities on their own; cheap, under-reports | Routine IDSP reporting |
+| **Active** | Health workers actively search for cases | House-to-house fever surveillance (malaria) |
+| **Sentinel** | Selected sites report systematically; detects trends | HIV sentinel surveillance, AFP sites |
+| **Syndromic** | Reporting by syndrome before lab confirmation | IDSP "S" form |
+| **Laboratory-based / event-based** | Confirmed isolates; media and community alerts | IDSP "L" form, media scanning |
+
+---
+
+## IDSP, IHIP, and IDSR {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **IDSP (Integrated Disease Surveillance Programme)**, launched in **2004**, is a decentralized, laboratory-supported surveillance of epidemic-prone diseases. It has Rapid Response Teams at district and state level, and weekly reporting (Monday to Sunday).
+- Reporting formats:
+  - **S** (syndromic: health workers, e.g. ASHA/MPW)
+  - **P** (presumptive: medical officers)
+  - **L** (laboratory-confirmed)
+- **IHIP (Integrated Health Information Platform)** is a web and mobile platform with near-real-time, case-based, GIS-enabled reporting. It was piloted from 2018 and rolled out nationwide in **April 2021**, replacing paper IDSP formats.
+- **IDSR (Integrated Disease Surveillance and Response)** is the WHO strategy (first adopted in the African Region) linking surveillance to **response** at every level. India's IDSP/IHIP follows the same "surveillance for response" principle.
+
+*IHIP launch dates differ between sources: soft launch 2018, nationwide April 2021. Retrieved 28 Oct 2026.*
 
 ---
 
@@ -414,9 +873,9 @@ and the case-based data needed to trigger the investigation steps above.
 
 🟣 **MAY KNOW**
 
-The principles above apply to every communicable disease — six specific
+The principles above apply to every communicable disease. Six specific
 diseases are covered in dedicated modules, each with agent, clinical
-features, diagnosis, treatment, and control in full depth:
+features, diagnosis, treatment and control in full depth:
 
 [**Malaria**](cd/module1_malaria.html) · [**Typhoid Fever &
 Cholera**](cd/module2_typhoid_cholera.html) · [**Viral
@@ -426,6 +885,120 @@ Diarrhoeal Disease**](cd/module5_food_poisoning.html) ·
 [**Hospital-Acquired Infections**](cd/module6_hospital_acquired_infections.html)
 
 Or browse the [module hub](cd.html) for an overview of all six.
+
+---
+
+## Practice Questions: Descriptive (Lecture 13) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+**Short Essay / Short Answer**
+
+1. Describe the steps in the investigation of an epidemic.
+2. Define surveillance. Describe its types and the Integrated Disease Surveillance Programme (IDSP/IHIP).
+
+**Short Notes**
+
+3. Epidemiological case sheet for investigation of an epidemic.
+4. Sentinel surveillance.
+
+---
+
+## Practice Questions: Descriptive (Lecture 13, contd.) {background-color="#FFF6DA"}
+
+**Case Scenario**
+
+5. A health officer observes that the number of reported cases of typhoid fever in a town has doubled over the past month compared to the same period last year. Most cases are clustered around a specific locality.
+   a. What epidemiological phenomenon is suggested by this observation?
+   b. Which measure of disease frequency is being used for comparison?
+   c. What is the first step the health officer should take to investigate this situation?
+   d. Mention two possible sources of infection in this locality.
+   e. How does epidemiology help in planning control measures in such situations?
+
+---
+
+## Self-Check: Question 19 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 19
+
+In the standard outbreak-investigation sequence, “develop hypotheses” comes immediately after which step?
+
+- Verify the diagnosis
+- [Describe data by time, place, and person]{.correct data-explanation="Descriptive epidemiology (time, place, person) generates hypotheses about the outbreak’s source, which is the very next step."}
+- Implement control measures
+- Communicate findings
+:::
+
+---
+
+## Self-Check: Question 20 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 20
+
+When investigating a suspected outbreak, the first step after preparation for field work is to:
+
+- Implement control measures
+- [Confirm the existence of an epidemic and verify the diagnosis]{.correct data-explanation="First establish that cases really exceed expected numbers (not an artefact of better reporting) and that the diagnosis is correct. Everything else depends on this."}
+- Formulate a hypothesis
+- Write the report
+:::
+
+---
+
+## Self-Check: Question 21 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 21
+
+On the IHIP platform under IDSP, the “P” form is used to report:
+
+- Patients admitted to hospital
+- [Presumptive cases diagnosed by clinicians]{.correct data-explanation="S form: syndromic cases (health workers). P form: presumptive cases (medical officers/clinicians). L form: laboratory-confirmed cases."}
+- Polio cases only
+- Private-sector laboratory results
+:::
+
+---
+
+## Self-Check: Question 22 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 22
+
+Surveillance in which health workers make house-to-house visits to search for fever cases and collect blood smears is:
+
+- Passive surveillance
+- [Active surveillance]{.correct data-explanation="Active surveillance means health workers go out and seek cases (e.g. ASHA/MPW fever surveillance for malaria). Passive surveillance relies on cases reporting to health facilities."}
+- Sentinel surveillance
+- Syndromic surveillance
+:::
+
+---
+
+## Self-Check: Question 23 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 23
+
+Selected reporting sites that systematically report a specific disease, used to detect trends that routine reporting misses, constitute:
+
+- Passive surveillance
+- Active surveillance
+- [Sentinel surveillance]{.correct data-explanation="Sentinel surveillance uses selected sites (often hospitals or labs), such as HIV sentinel surveillance and AFP sentinel sites. It is useful for trends and for filling gaps in notification."}
+- Census
+:::
 
 ---
 
@@ -515,109 +1088,17 @@ infectious stage.
 
 ---
 
-## Self-Check: Question 1 {background-color="#FDE8E8"}
+## Self-Check: Question 24 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 1
+### Question 24
 
-Which of the following is NOT one of the six links in the chain of
-infection?
-
-- Reservoir
-- Portal of exit
-- [Herd immunity]{.correct data-explanation="Herd immunity is a population-level protective effect, not one of the six links (agent, reservoir, portal of exit, mode of transmission, portal of entry, susceptible host)."}
-- Susceptible host
-:::
-
----
-
-## Self-Check: Question 2 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 2
-
-A disease has R₀ = 4. What proportion of the population must be immune to
-reach the herd immunity threshold?
-
-- 25%
-- 50%
-- [75%]{.correct data-explanation="HIT = 1 − (1/R0) = 1 − (1/4) = 0.75, or 75%."}
-- 100%
-:::
-
----
-
-## Self-Check: Question 3 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 3
-
-A person who was exposed to a confirmed case, but has no symptoms and an
-unknown infection status, is placed in separate accommodation for the
-duration of the disease's incubation period. This is:
-
-- Isolation
-- [Quarantine]{.correct data-explanation="Quarantine applies to exposed-but-not-yet-confirmed individuals, for the length of the incubation period."}
-- Ring vaccination
-- Contact tracing
-:::
-
----
-
-## Self-Check: Question 4 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 4
-
-Malaria, transmitted from an infected person to a new host via a
-mosquito, is an example of which mode of transmission?
-
-- Direct contact
-- Droplet spread
-- [Vector-borne transmission]{.correct data-explanation="Vector-borne transmission occurs when a living arthropod (here, the mosquito) carries the agent between hosts."}
-- Fomite transmission
-:::
-
----
-
-## Self-Check: Question 5 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 5
-
-In the standard outbreak-investigation sequence, "develop hypotheses"
-comes immediately after which step?
-
-- Verify the diagnosis
-- [Describe data by time, place, and person]{.correct data-explanation="Descriptive epidemiology (time, place, person) is used to generate hypotheses about the outbreak's source, which is the very next step."}
-- Implement control measures
-- Communicate findings
-:::
-
----
-
-## Self-Check: Question 6 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 6
-
-Smallpox eradication (1980) is the only successful human disease
-eradication to date. Which factor was essential to its success?
+Smallpox eradication (1980) is the only successful human disease eradication to date. Which factor was essential to its success?
 
 - Mass vaccination of the entire world population simultaneously
-- [An effective vaccine combined with surveillance and ring vaccination around detected cases, with no animal reservoir]{.correct data-explanation="Smallpox's eradication relied on a highly effective vaccine, surveillance-containment (ring vaccination), and the absence of any animal reservoir to reintroduce the virus."}
+- [An effective vaccine combined with surveillance and ring vaccination around detected cases, with no animal reservoir]{.correct data-explanation="Smallpox eradication relied on a highly effective vaccine, surveillance-containment (ring vaccination), and the absence of any animal reservoir."}
 - Herd immunity reaching exactly 50%
 - Elimination of the mosquito vector
 :::
@@ -626,19 +1107,14 @@ eradication to date. Which factor was essential to its success?
 
 ## References {background-color="#FFF6DA"}
 
-1. NCBI Bookshelf. *Chapter 4: Adhere to Principles of Infection
-   Control — Chain of Infection*.
-2. Plus Maths / University of Cambridge. "Maths in a minute: R nought and
-   herd immunity."
-3. Penn Today. "Quarantine or isolation? An updated glossary."
-4. Wikipedia. "Secondary attack rate."
-5. Centers for Disease Control and Prevention. *Steps of an Outbreak
-   Investigation* (10-step framework).
-6. World Health Organization (1980). *Declaration of Global Eradication
-   of Smallpox*.
-7. Park, K. *Park's Textbook of Preventive and Social Medicine* —
-   standard reference for epidemic/endemic classification, carrier
-   states, incubation-related intervals, and vaccine types.
+1. Park, K. *Park's Textbook of Preventive and Social Medicine* (latest ed.): dynamics of disease transmission, carriers, immunity and immunizing agents, control, disinfection, investigation of an epidemic, surveillance.
+2. Centers for Disease Control and Prevention. *Steps of an Outbreak Investigation*; NCBI Bookshelf, *Chain of Infection*.
+3. Ministry of Health and Family Welfare. *Integrated Disease Surveillance Programme* and *IHIP* (ihip.mohfw.gov.in); IHIP launch dates from MoHFW and IJFCM sources. Retrieved 28 Oct 2026.
+4. MoHFW. *Immunization Handbook for Medical Officers* and *AEFI Surveillance and Response Operational Guidelines*; WHO, *Causality assessment of an AEFI* (2nd ed., 2018).
+5. WHO-AFRO / CDC. *Technical Guidelines for Integrated Disease Surveillance and Response (IDSR)*.
+6. World Health Organization (1980). *Declaration of Global Eradication of Smallpox*.
+
+**Want to practice?** The [Epidemiology Question Bank](../foundations/epidemiology-question-bank.qmd) has every CM7 question with answer keys.
 
 ---
 

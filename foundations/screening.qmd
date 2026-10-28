@@ -1,6 +1,6 @@
 ---
 title: "Screening for Disease"
-subtitle: "Test Validity, Program Criteria, and the Biases of Early Detection"
+subtitle: "Concept, Uses and Criteria; Sensitivity, Specificity, and Predictive Values"
 format:
   revealjs:
     theme: serif
@@ -24,22 +24,21 @@ revealjs-plugins:
 
 ### Screening for Disease
 
-**Learning Objectives:**
+**Learning Objectives (CM7 Lectures 14–15):**
 
-- Define screening and distinguish it from diagnosis
-- State the Wilson and Jungner criteria for a screening program
-- Calculate and interpret sensitivity, specificity, PPV, and NPV
-- Describe the main types of screening
-- Explain lead time bias, length time bias, and overdiagnosis
+- Define screening, distinguish it from diagnosis, and state its uses and types
+- State the criteria for screening: the disease (Wilson and Jungner) and the test
+- Calculate and interpret sensitivity, specificity, PPV, NPV and the false-positive and false-negative rates
+- Explain how prevalence affects predictive values, and the effect of series vs parallel testing
+- Explain lead time bias, length time bias and overdiagnosis
 
-**NMC Community Medicine Code:** CM7
+**NMC Community Medicine Code:** CM7.6
 
 🟢 **MUST KNOW** · 🟡 **SHOULD KNOW** · 🟣 **MAY KNOW** · 🧡 **QUESTION**
 
 ::: {.notes}
-This chapter closes the Foundations section by applying the incidence/
-prevalence and 2x2-table thinking from Chapters 3–4 to the specific
-problem of evaluating a screening test and a screening program.
+Applies the incidence/prevalence and 2×2-table thinking from Chapters
+3–4 to evaluating a screening test and a screening programme.
 :::
 
 ---
@@ -56,16 +55,50 @@ problem of evaluating a screening test and a screening program.
 
 🟢 **MUST KNOW**
 
-**Screening** is the presumptive identification of unrecognized disease
-in apparently healthy, asymptomatic individuals, using tests that can be
-applied rapidly and economically to a large population.
+**Screening** is the search for unrecognized disease or defect in apparently healthy, asymptomatic people, using rapidly applied tests, examinations or other procedures. It sorts out those who *probably* have the disease from those who probably do not.
 
-**Screening is NOT diagnosis:**
+- It targets the submerged part of the **iceberg of disease**: latent, subclinical and undiagnosed cases (Chapter 2)
+- Screening is **not** diagnosis. Everyone who screens positive needs a proper **diagnostic test** to confirm or rule out the condition.
+- **Concept of lead time:** screening detects disease between the first possible point of detection and the usual time of clinical diagnosis. It is useful only if earlier treatment improves the outcome.
 
-- A screening test **sorts** people into "likely disease" vs. "unlikely
-  disease" — it does not confirm disease
-- Everyone who screens positive must still undergo a proper **diagnostic
-  test** to confirm or rule out the condition
+---
+
+## Screening vs Diagnostic Test {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| | Screening test | Diagnostic test |
+|---|---|---|
+| **Applied to** | Groups of apparently healthy people | Single patients with symptoms or a positive screen |
+| **Initiated by** | Investigator, agency or programme | The patient seeking care |
+| **Test** | Quick, cheap, simple, acceptable | Accurate, often costly or invasive |
+| **Accuracy** | Lower; favours sensitivity | Higher; favours specificity |
+| **Cut-off** | Based on one criterion | Evaluation of all symptoms, signs and lab findings |
+| **Result** | Not a basis for treatment | Basis for treatment |
+
+---
+
+## Uses of Screening {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+1. **Case detection (prescriptive screening)**: early detection and treatment for the person's own benefit, e.g. neonatal hypothyroidism, cervical and breast cancer, hypertension
+2. **Control of disease (prospective screening)**: protecting others, e.g. screening blood donors, food handlers, immigrants, and contacts of TB
+3. **Research purposes**: finding the prevalence and natural history of chronic diseases
+4. **Educational opportunity**: creating public awareness and educating health professionals
+
+---
+
+## Types of Screening {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+- **Mass screening**: offered to the whole population regardless of individual risk. It is worthwhile only with a common disease and a good follow-up system.
+- **High-risk (selective/targeted) screening**: limited to high-risk groups, such as diabetes screening in obese adults or cervical screening in women over 30. It raises yield and PPV.
+- **Multiphasic screening**: several tests in one session, as in a health camp checking BP, blood sugar and vision
+- **Opportunistic (case-finding) screening**: offered to people already seeking care for another reason, such as BP measurement for every OPD adult over 30
+
+India's population-based screening (NPCDCS/NP-NCD) offers BP, diabetes and oral, breast and cervical cancer screening for people aged 30+.
 
 ---
 
@@ -73,150 +106,32 @@ applied rapidly and economically to a large population.
 
 🟢 **MUST KNOW**
 
-WHO's ten classic principles for deciding whether a condition is suitable
-for a screening program:
+WHO's classic principles for deciding whether a condition suits a screening programme:
 
-1. The condition should be an **important health problem**
-2. There should be an **accepted treatment** for recognized disease
-3. **Facilities** for diagnosis and treatment should be available
-4. There should be a recognizable **latent or early symptomatic stage**
-5. There should be a **suitable test** for that early stage
-6. The test should be **acceptable** to the population
-7. The **natural history** of the condition should be adequately
-   understood
-8. There should be an agreed **policy on whom to treat**
-9. The cost of case-finding should be **economically balanced** against
-   overall medical care spending
-10. Case-finding should be a **continuing process**, not a one-time
-    project
+1. The condition is an **important health problem**
+2. There is an **accepted treatment** for recognized disease
+3. **Facilities** for diagnosis and treatment are available
+4. There is a recognizable **latent or early symptomatic stage**
+5. There is a **suitable test** for that stage
+6. The test is **acceptable** to the population
+7. The **natural history** of the condition is adequately understood
+8. There is an agreed **policy on whom to treat**
+9. The cost of case-finding is **economically balanced** against overall medical care spending
+10. Case-finding is a **continuing process**, not a one-time project
 
 ---
 
-## The Screening 2×2 Table {background-color="#E3F2E1"}
-
-🟢 **MUST KNOW**
-
-Every screening test is judged against a reference/gold-standard
-diagnosis:
-
-| | Disease + | Disease − |
-|---|---|---|
-| **Test +** | True Positive (TP) | False Positive (FP) |
-| **Test −** | False Negative (FN) | True Negative (TN) |
-
-All four validity measures on the next slides come directly from this
-table.
-
----
-
-## Lecture 15: Sensitivity, Specificity, and Predictive Values {background-color="#E6EEF5"}
-
-📚 **Lecture 15 of 15** · **CM7.L15**
-
-*Screening II - sensitivity, specificity and predictive values*
-
----
-
-## Sensitivity and Specificity {background-color="#E3F2E1"}
-
-🟢 **MUST KNOW**
-
-**Sensitivity** — the ability to correctly identify people who **have**
-the disease:
-
-`Sensitivity = TP / (TP + FN)`
-
-**Specificity** — the ability to correctly identify people who **do not
-have** the disease:
-
-`Specificity = TN / (TN + FP)`
-
-**Key property:** both are properties of the test itself and do **not**
-depend on how common the disease is (prevalence) in the population
-tested.
-
----
-
-## Predictive Values {background-color="#E3F2E1"}
-
-🟢 **MUST KNOW**
-
-**Positive Predictive Value (PPV)** — given a positive test, the
-probability the person actually has disease:
-
-`PPV = TP / (TP + FP)`
-
-**Negative Predictive Value (NPV)** — given a negative test, the
-probability the person is actually disease-free:
-
-`NPV = TN / (TN + FN)`
-
-**Key property:** unlike sensitivity/specificity, PPV and NPV **do**
-depend on disease prevalence — the same test will have a lower PPV in a
-low-prevalence population, even with unchanged sensitivity/specificity.
-
----
-
-## Types of Screening {background-color="#FFF6DA"}
+## Criteria for the Screening Test {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
 
-- **Mass screening** — offered to an entire population, regardless of
-  individual risk (e.g. a national program)
-- **Selective/targeted screening** — offered only to a high-risk subgroup
-  (e.g. screening smokers for lung disease)
-- **Multiphasic screening** — several screening tests applied together in
-  one session (e.g. a health camp offering blood pressure, blood sugar,
-  and vision checks together)
-- **Opportunistic screening** — offered to a person who is already
-  seeking care for an unrelated reason
-
----
-
-## Lead Time Bias {background-color="#FFF6DA"}
-
-🟡 **SHOULD KNOW**
-
-**Lead time** is the interval between detection by screening and the
-point when the disease would normally have been diagnosed clinically
-(from symptoms).
-
-**Lead time bias** occurs when screening appears to prolong survival —
-because the clock on "survival" starts earlier — even if the person dies
-at exactly the same actual time as they would have without screening.
-
-**Why it matters:** raw survival-time comparisons between screened and
-unscreened groups can be misleading unless lead time is accounted for.
-
----
-
-## Length Time Bias and Overdiagnosis {background-color="#FFF6DA"}
-
-🟡 **SHOULD KNOW**
-
-**Length time bias** — screening preferentially detects **slow-growing,
-less aggressive** disease, because it is present and detectable for
-longer; fast-growing, aggressive disease is more likely to cause symptoms
-and be diagnosed clinically between screening rounds. This makes screened
-cases look like they have better outcomes, independent of any real
-benefit.
-
-**Overdiagnosis** — the extreme case: screening detects a genuine
-abnormality that would **never have caused symptoms or harm** in the
-person's lifetime, leading to unnecessary labeling and treatment.
-
----
-
-## Sensitivity–Specificity Trade-off {background-color="#E8E4F3"}
-
-🟣 **MAY KNOW**
-
-For a test with a continuous or graded result (e.g. a blood level), the
-cutoff chosen to define "positive" trades sensitivity against
-specificity: lowering the cutoff to catch more true cases (higher
-sensitivity) also increases false positives (lower specificity), and vice
-versa. This trade-off is often visualized with a **Receiver Operating
-Characteristic (ROC) curve**, used to choose an optimal cutoff.
+| Criterion | Meaning |
+|---|---|
+| **Acceptability** | Painless, quick and not embarrassing, so people take it up |
+| **Repeatability (reliability)** | Gives consistent results on repetition, by the same or different observers |
+| **Validity (accuracy)** | Distinguishes the diseased from the non-diseased: **sensitivity and specificity** |
+| **Yield** | The amount of previously unrecognized disease detected and brought to treatment. It rises with prevalence and with high-risk screening. |
+| **Simplicity, safety, rapidity, cost** | Suitable for large numbers, by paramedical workers |
 
 ---
 
@@ -224,12 +139,25 @@ Characteristic (ROC) curve**, used to choose an optimal cutoff.
 
 🟣 **MAY KNOW**
 
-Mass screening is efficient for a common, serious, and well-understood
-condition (e.g. blood pressure), but wasteful and potentially harmful
-(overdiagnosis, false positives, anxiety) for rare conditions —
-reinforcing why the Wilson–Jungner criteria (importance, natural history,
-economic balance) matter before launching a program, not just whether a
-test technically exists.
+Mass screening is efficient for a common, serious and well-understood condition such as raised blood pressure. It is wasteful and potentially harmful for rare conditions, through overdiagnosis, false positives and anxiety. This is why the Wilson–Jungner criteria (importance, natural history, economic balance) must be met before a programme starts, not just the existence of a test.
+
+---
+
+## Practice Questions: Descriptive (Lecture 14) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+**Short Essay / Short Answer**
+
+1. Define screening. Describe its uses and the types of screening.
+2. Differentiate a screening test from a diagnostic test.
+3. Enumerate the criteria for screening (disease and test).
+
+**Short Notes**
+
+4. Wilson and Jungner criteria.
+5. Multiphasic screening.
+6. Lead time.
 
 ---
 
@@ -240,11 +168,10 @@ test technically exists.
 ::: {.quiz-question}
 ### Question 1
 
-A screening test is applied to an asymptomatic population. A person who
-tests positive should next:
+A screening test is applied to an asymptomatic population. A person who tests positive should next:
 
 - Be told they definitely have the disease
-- [Undergo a diagnostic test to confirm or rule out disease]{.correct data-explanation="Screening only sorts likely vs. unlikely disease; a positive screen must always be followed by a proper diagnostic test before confirming disease."}
+- [Undergo a diagnostic test to confirm or rule out disease]{.correct data-explanation="Screening only sorts likely from unlikely disease. A positive screen must always be followed by a diagnostic test before disease is confirmed."}
 - Be treated immediately without further testing
 - Be excluded from future screening
 :::
@@ -258,12 +185,10 @@ tests positive should next:
 ::: {.quiz-question}
 ### Question 2
 
-Which Wilson–Jungner criterion is violated if there is no accepted
-treatment available for a condition, even if a perfect test for it
-exists?
+Which Wilson–Jungner criterion is violated if there is no accepted treatment for a condition, even if a perfect test for it exists?
 
 - Suitable test
-- [Accepted treatment for recognized disease]{.correct data-explanation="One of the core Wilson-Jungner criteria is that an accepted treatment must exist for the disease once detected — screening without a treatment pathway has limited value."}
+- [Accepted treatment for recognized disease]{.correct data-explanation="An accepted treatment must exist for the disease once detected. Screening without a treatment pathway has little value and can cause harm."}
 - Acceptability to the population
 - Continuing process
 :::
@@ -277,13 +202,12 @@ exists?
 ::: {.quiz-question}
 ### Question 3
 
-Which measure of test validity does NOT change with disease prevalence in
-the population being tested?
+A health camp offering blood pressure, blood glucose and vision testing together in one visit is an example of:
 
-- Positive Predictive Value
-- Negative Predictive Value
-- [Sensitivity]{.correct data-explanation="Sensitivity and specificity are intrinsic properties of the test and do not depend on prevalence; PPV and NPV do."}
-- Both PPV and NPV
+- Mass screening
+- Selective screening
+- [Multiphasic screening]{.correct data-explanation="Multiphasic screening applies several different screening tests in one session."}
+- Opportunistic screening
 :::
 
 ---
@@ -295,13 +219,12 @@ the population being tested?
 ::: {.quiz-question}
 ### Question 4
 
-A health camp offering blood pressure, blood glucose, and vision testing
-together in one visit is an example of:
+Screening a pregnant woman for anaemia and syphilis at her first antenatal visit, to protect her and her baby, primarily serves which use of screening?
 
-- Mass screening
-- Selective screening
-- [Multiphasic screening]{.correct data-explanation="Multiphasic screening applies several different screening tests together in a single session."}
-- Opportunistic screening
+- [Case detection (prescriptive screening)]{.correct data-explanation="Case detection (prescriptive screening) aims at early diagnosis and treatment for the benefit of the individual. Prospective screening protects others, as when screening food handlers or blood donors."}
+- Control of disease (prospective screening)
+- Research purposes
+- Educational opportunity
 :::
 
 ---
@@ -313,14 +236,12 @@ together in one visit is an example of:
 ::: {.quiz-question}
 ### Question 5
 
-Screened patients appear to survive longer after diagnosis simply because
-their disease was detected earlier in its course, even though they die at
-the same actual time as they would have without screening. This is:
+Screening of blood donors for HIV and hepatitis B is mainly done for:
 
-- Length time bias
-- [Lead time bias]{.correct data-explanation="Lead time bias occurs when the interval between screen-detection and clinical diagnosis is counted as extra survival time, without any true survival benefit."}
-- Overdiagnosis
-- Selection bias
+- Case detection for the donor’s benefit
+- [Control of disease: protecting others (prospective screening)]{.correct data-explanation="The main aim is to protect recipients and the community from infection, which is disease control."}
+- Research
+- Health education
 :::
 
 ---
@@ -332,12 +253,324 @@ the same actual time as they would have without screening. This is:
 ::: {.quiz-question}
 ### Question 6
 
-Detection, through screening, of a genuine abnormality that would never
-have caused symptoms or harm in a person's lifetime is called:
+Which feature distinguishes a screening test from a diagnostic test?
+
+- Screening is applied to symptomatic patients
+- Screening results are the basis for treatment
+- [Screening is applied to apparently healthy groups and is less accurate and cheaper]{.correct data-explanation="Screening is applied to apparently healthy groups, is initiated by the investigator or agency, and is quick, cheap and less accurate. It is not a basis for treatment. Diagnostic tests are applied to sick individuals."}
+- Screening is initiated by the patient
+:::
+
+---
+
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 7
+
+Screening offered only to smokers aged over 50 for lung disease is an example of:
+
+- Mass screening
+- [High-risk (selective) screening]{.correct data-explanation="Selective or targeted screening limits the test to high-risk groups, which raises the yield and the PPV."}
+- Multiphasic screening
+- Opportunistic screening
+:::
+
+---
+
+## Lecture 15: Sensitivity, Specificity, and Predictive Values {background-color="#E6EEF5"}
+
+📚 **Lecture 15 of 15** · **CM7.L15**
+
+*Screening II - sensitivity, specificity and predictive values*
+
+---
+
+## The Screening 2×2 Table {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+Every screening test is judged against a reference ("gold standard") diagnosis:
+
+| | Disease + | Disease − | Total |
+|---|---|---|---|
+| **Test +** | a: True Positive (TP) | b: False Positive (FP) | a + b |
+| **Test −** | c: False Negative (FN) | d: True Negative (TN) | c + d |
+| **Total** | a + c | b + d | N |
+
+All the validity measures on the next slides come from this table.
+
+---
+
+## Sensitivity and Specificity {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Sensitivity** is the ability to correctly identify those who **have** the disease (the true-positive rate):
+
+`Sensitivity = a / (a + c) × 100`  ·  `False-negative rate = c / (a + c) = 1 − sensitivity`
+
+**Specificity** is the ability to correctly identify those who **do not have** the disease (the true-negative rate):
+
+`Specificity = d / (b + d) × 100`  ·  `False-positive rate = b / (b + d) = 1 − specificity`
+
+Both are properties of the **test itself** and do **not** depend on prevalence. A highly sensitive test, when negative, rules disease out (**SnNout**). A highly specific test, when positive, rules disease in (**SpPin**).
+
+---
+
+## Predictive Values {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+**Positive Predictive Value (PPV)**: given a positive test, the probability that the person really has the disease:
+
+`PPV = a / (a + b) × 100`
+
+**Negative Predictive Value (NPV)**: given a negative test, the probability that the person is really disease-free:
+
+`NPV = d / (c + d) × 100`
+
+Unlike sensitivity and specificity, predictive values **depend on prevalence**. The same test gives a lower PPV and a higher NPV in a low-prevalence population.
+
+---
+
+## Worked Example: Evaluating a Test {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+A test is applied to 1000 people, 100 of whom have the disease (prevalence 10%):
+
+| | Disease + | Disease − | Total |
+|---|---|---|---|
+| **Test +** | 80 (TP) | 90 (FP) | 170 |
+| **Test −** | 20 (FN) | 810 (TN) | 830 |
+| **Total** | 100 | 900 | 1000 |
+
+| Measure | Calculation | Result |
+|---|---|---|
+| Sensitivity | 80/100 | **80%** |
+| Specificity | 810/900 | **90%** |
+| PPV | 80/170 | **47%** |
+| NPV | 810/830 | **97.6%** |
+| False-positive rate | 90/900 | 10% |
+| False-negative rate | 20/100 | 20% |
+
+---
+
+## How Prevalence Changes PPV {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+The same test (sensitivity 80%, specificity 90%) is applied to 10,000 people:
+
+| Prevalence | Diseased | TP | FP | **PPV** | NPV |
+|---|---|---|---|---|---|
+| **1%** | 100 | 80 | 990 | **7.5%** | 99.8% |
+| **10%** | 1,000 | 800 | 900 | **47%** | 97.6% |
+| **30%** | 3,000 | 2,400 | 700 | **77%** | 91.3% |
+
+- In a low-prevalence population, most positives are **false positives**. Poor specificity then floods services with unnecessary confirmatory tests.
+- This is why **high-risk (selective) screening** gives a higher PPV and yield than mass screening
+
+---
+
+## Series and Parallel Testing {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+| | Series (sequential) testing | Parallel (simultaneous) testing |
+|---|---|---|
+| **Rule** | Positive only if positive on **all** tests | Positive if positive on **any** test |
+| **Effect** | ↑ Specificity, ↑ PPV, ↓ sensitivity | ↑ Sensitivity, ↑ NPV, ↓ specificity |
+| **Use when** | False positives are costly or harmful (HIV: positive on three tests) | Missing a case is dangerous (emergencies, a serious treatable disease) |
+
+**Sensitivity–specificity trade-off:** for a test with a continuous result such as blood glucose, lowering the cut-off raises sensitivity and lowers specificity. The **ROC curve** plots sensitivity against (1 − specificity) to choose the best cut-off. A larger area under the curve means a better test.
+
+---
+
+## Lead Time Bias {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Lead time** is the interval between detection by screening and the point when the disease would normally have been diagnosed from symptoms.
+
+**Lead time bias** occurs when screening appears to prolong survival only because the survival clock starts earlier. The person actually dies at the same time as they would have without screening.
+
+**Why it matters:** raw comparisons of survival time between screened and unscreened groups are misleading unless lead time is accounted for. Mortality in a randomized trial is the proper end-point.
+
+---
+
+## Length Time Bias and Overdiagnosis {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Length time bias**: screening preferentially detects **slow-growing, less aggressive** disease, because it stays detectable for longer. Fast-growing disease is more likely to cause symptoms and be diagnosed clinically between screening rounds. Screen-detected cases therefore look as though they have better outcomes, whether or not screening helped.
+
+**Overdiagnosis** is the extreme case. Screening detects a genuine abnormality that would **never have caused symptoms or harm** in the person's lifetime, leading to unnecessary labelling and treatment. Examples include some prostate and thyroid cancers.
+
+---
+
+## Practice Questions: Descriptive (Lecture 15) {background-color="#FFF6DA"}
+
+**For written practice — work through these on paper; no auto-check for this slide.**
+
+**Short Essay / Short Answer**
+
+1. Define sensitivity, specificity and predictive values. Explain with a 2 × 2 table.
+2. Explain how disease prevalence affects the predictive value of a screening test.
+
+**Short Notes**
+
+3. Series and parallel testing.
+4. Lead time bias and length time bias.
+
+**Reasoning Type**
+
+5. Why can screening programmes with poor specificity overload health services?
+
+---
+
+## Practice Questions: Descriptive (Lecture 15, contd.) {background-color="#FFF6DA"}
+
+**Numerical**
+
+6. A new test was applied to 500 persons, 100 of whom had the disease (confirmed by a gold standard). The test was positive in 90 diseased and 40 non-diseased persons. Calculate sensitivity, specificity, PPV, NPV, and the false-positive and false-negative rates.
+
+---
+
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 8
+
+Which measure of test validity does NOT change with disease prevalence in the population tested?
+
+- Positive predictive value
+- Negative predictive value
+- [Sensitivity]{.correct data-explanation="Sensitivity and specificity are intrinsic properties of the test and do not depend on prevalence. PPV and NPV do."}
+- Both PPV and NPV
+:::
+
+---
+
+## Self-Check: Question 9 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 9
+
+In a screening programme for cervical cancer, many women test positive but are later found disease-free on confirmatory testing. This problem is best explained by low:
+
+- Sensitivity
+- [Specificity]{.correct data-explanation="Many false positives mean the test mislabels healthy women as positive, which is low specificity. Specificity = TN/(TN + FP)."}
+- Incidence
+- Reliability
+:::
+
+---
+
+## Self-Check: Question 10 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 10
+
+A screening test for a fatal disease has very high sensitivity but poor specificity. In a low-prevalence population, the most likely consequence is:
+
+- High positive predictive value
+- [Many false positives leading to unnecessary confirmatory testing]{.correct data-explanation="With low prevalence and poor specificity, false positives far outnumber true positives. PPV falls and services are overloaded with confirmatory work-ups."}
+- No impact on workload
+- Elimination of overdiagnosis
+:::
+
+---
+
+## Self-Check: Question 11 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 11
+
+A test is applied to 1000 people. Of 100 who truly have the disease, 80 test positive. Of 900 without the disease, 90 test positive. The sensitivity and specificity are:
+
+- [80% and 90%]{.correct data-explanation="TP = 80, FN = 20, FP = 90, TN = 810. Sensitivity = 80/100 = 80%. Specificity = 810/900 = 90%."}
+- 90% and 80%
+- 80% and 10%
+- 47% and 98%
+:::
+
+---
+
+## Self-Check: Question 12 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 12
+
+In the same example (TP 80, FP 90, FN 20, TN 810), the positive predictive value is about:
+
+- [47%]{.correct data-explanation="PPV = TP/(TP + FP) = 80/170 ≈ 47%. Less than half of the positives truly have the disease, because prevalence is only 10%. NPV = 810/830 ≈ 98%."}
+- 80%
+- 90%
+- 98%
+:::
+
+---
+
+## Self-Check: Question 13 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 13
+
+Two tests are applied in series, and a person is called positive only if positive on both. Compared with either test alone, series testing:
+
+- Increases sensitivity
+- [Increases specificity]{.correct data-explanation="Series (sequential) testing raises specificity and PPV but lowers sensitivity. Parallel testing (positive on either) raises sensitivity but lowers specificity."}
+- Increases both
+- Decreases both
+:::
+
+---
+
+## Self-Check: Question 14 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 14
+
+Screened patients appear to survive longer after diagnosis simply because their disease was detected earlier in its course, even though they die at the same time as without screening. This is:
+
+- Length time bias
+- [Lead time bias]{.correct data-explanation="Lead time bias occurs when the interval between screen detection and clinical diagnosis is counted as extra survival time, with no true survival benefit."}
+- Overdiagnosis
+- Selection bias
+:::
+
+---
+
+## Self-Check: Question 15 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 15
+
+Detection, through screening, of a genuine abnormality that would never have caused symptoms or harm in a person’s lifetime is called:
 
 - Lead time bias
 - Length time bias
-- [Overdiagnosis]{.correct data-explanation="Overdiagnosis is the detection of disease that would never have progressed to cause harm — an extreme consequence of length-biased detection."}
+- [Overdiagnosis]{.correct data-explanation="Overdiagnosis is the detection of disease that would never have progressed to cause harm. It is an extreme consequence of length-biased detection."}
 - False positive
 :::
 
@@ -345,18 +578,18 @@ have caused symptoms or harm in a person's lifetime is called:
 
 ## References {background-color="#FFF6DA"}
 
-1. Wilson, J.M.G., Jungner, G. (1968). *Principles and Practice of
-   Screening for Disease*. WHO Public Health Papers No. 34.
-2. StatPearls. *Diagnostic Testing Accuracy: Sensitivity, Specificity,
-   Predictive Values and Likelihood Ratios*.
-3. Catalog of Bias. "Lead Time Bias." and Wikipedia. "Length time bias."
-4. National Cancer Institute / NCBI Bookshelf. *Assessment of cancer
-   screening: a primer*.
+1. Wilson, J.M.G., Jungner, G. (1968). *Principles and Practice of Screening for Disease*. WHO Public Health Papers No. 34.
+2. Park, K. *Park's Textbook of Preventive and Social Medicine* (latest ed.): screening for disease (uses, types, criteria, sensitivity, specificity, predictive values, series and parallel testing).
+3. Faculty question bank, Section V, Chapter 19 *Principles and Practice of Epidemiology*: screening MCQs and reasoning questions.
+4. StatPearls. *Diagnostic Testing Accuracy: Sensitivity, Specificity, Predictive Values and Likelihood Ratios*.
+5. Catalog of Bias. "Lead time bias"; NCI / NCBI Bookshelf. *Assessment of cancer screening: a primer*.
+
+**Want to practice?** The [Epidemiology Question Bank](epidemiology-question-bank.qmd) has every question from this chapter with answer keys.
 
 ---
 
 ## Thank You!
 
-**Next Chapter:** Epidemiology of Communicable Diseases
+**Next Chapter:** Epidemiology of Communicable Diseases (CM7 Lectures 10–13)
 
 [← Previous](epidemiologic-methods.html) | [Top](#home) | [Contents](../intro.html) | Chapter 5/29 | [Next Chapter →](../diseases/communicable-diseases.html)
