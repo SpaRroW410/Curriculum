@@ -18,7 +18,7 @@ A written companion to the four decks that carry the 15 CM7 lectures:
 Questions are organized by lecture. Descriptive questions (long essay, short
 essay, short notes, reasoning, case scenario) are for written practice.
 MCQs (single best answer, multiple correct, assertion–reason) are followed
-by a lettered answer key. Try them before checking. The same 270 MCQs
+by a lettered answer key. Try them before checking. The same 285 MCQs
 appear as interactive Self-Check slides at the end of each lecture in
 the decks.
 
@@ -233,14 +233,19 @@ false, R is true.
 6. Case fatality rate.
 7. Survival rate.
 
+**Short Notes (additional)**
+
+8. Life table.
+9. Survival curve and median survival.
+
 **In-Lecture Case Scenarios (model answers below the MCQ key)**
 
-8. *Dengue in a District.* A district (mid-year population 2,00,000) recorded 1,400 deaths last year. The district hospital admitted 400 dengue cases, of whom 8 died. Two more dengue deaths occurred at home (10 dengue deaths in all).
+10. *Dengue in a District.* A district (mid-year population 2,00,000) recorded 1,400 deaths last year. The district hospital admitted 400 dengue cases, of whom 8 died. Two more dengue deaths occurred at home (10 dengue deaths in all).
 
-   a. Calculate the crude death rate.
-   b. Calculate the case fatality rate of dengue among admitted cases.
-   c. Calculate the proportional mortality rate for dengue.
-   d. Which measure tells you how severe dengue is? Does a PMR tell you the risk of dying of dengue?
+    a. Calculate the crude death rate.
+    b. Calculate the case fatality rate of dengue among admitted cases.
+    c. Calculate the proportional mortality rate for dengue.
+    d. Which measure tells you how severe dengue is? Does a PMR tell you the risk of dying of dengue?
 
 ### Multiple Choice Questions
 
@@ -281,9 +286,23 @@ false, R is true.
    c. Case fatality rate
    d. Proportionate mortality
 
+6. In a life table, the column “lx” represents the:
+
+   a. Probability of dying between ages x and x+1
+   b. Number of survivors at exact age x out of the starting cohort
+   c. Number of deaths between ages x and x+1
+   d. Expectation of life at age x
+
+7. On a survival curve, the time at which the proportion surviving falls to 50% is the:
+
+   a. 5-year survival rate
+   b. Median survival time
+   c. Case fatality rate
+   d. Life expectancy at birth
+
 **B. Multiple Correct Answer (MCMA) — select all that apply**
 
-6. Measures of mortality commonly used in public health include:
+8. Measures of mortality commonly used in public health include:
 
    a. Attack rate
    b. Infant mortality rate
@@ -292,7 +311,7 @@ false, R is true.
 
 **C. Assertion–Reason (A-R)**
 
-7. **Assertion (A):** Case fatality rate is a useful indicator of disease severity. **Reason (R):** It measures the total deaths in the population irrespective of disease.
+9. **Assertion (A):** Case fatality rate is a useful indicator of disease severity. **Reason (R):** It measures the total deaths in the population irrespective of disease.
 
    a. Both A and R are true, and R is the correct explanation of A
    b. Both A and R are true, but R is NOT the correct explanation of A
@@ -301,7 +320,8 @@ false, R is true.
 
 ### Answers
 
-**MCQs:** 1-c, 2-b, 3-b, 4-a, 5-c, 6-bcd, 7-c
+**MCQs:** 1-c, 2-b, 3-b, 4-a, 5-c, 6-b, 7-b, 8-bcd\
+9-c
 
 **Case scenario model answers:**
 
@@ -539,18 +559,23 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 7. Health intelligence.
 
+**Short Notes (additional)**
+
+8. Record linkage.
+9. Health information system: components and requirements.
+
 **In-Lecture Case Scenarios (model answers below the MCQ key)**
 
-8. *Two Districts, Two Death Rates.* District A has a crude death rate of 12 per 1,000, District B 7 per 1,000. In A, 18% of the population is aged 60 or over; in B, 6%. A health secretary concludes that A's health services are worse.
+10. *Two Districts, Two Death Rates.* District A has a crude death rate of 12 per 1,000, District B 7 per 1,000. In A, 18% of the population is aged 60 or over; in B, 6%. A health secretary concludes that A's health services are worse.
 
-   a. Is the conclusion valid? Why?
-   b. How would you compare the two districts fairly?
-   c. Which method would you use if District A reports only its total deaths?
-9. *Completing a Death Certificate.* A 54-year-old man with type 2 diabetes developed an acute STEMI on 22 May. On 24 May he developed atrial fibrillation, followed by an embolism of the right middle cerebral artery. He was ventilated and given vasopressors, but died on 27 May at 4 p.m.
+    a. Is the conclusion valid? Why?
+    b. How would you compare the two districts fairly?
+    c. Which method would you use if District A reports only its total deaths?
+11. *Completing a Death Certificate.* A 54-year-old man with type 2 diabetes developed an acute STEMI on 22 May. On 24 May he developed atrial fibrillation, followed by an embolism of the right middle cerebral artery. He was ventilated and given vasopressors, but died on 27 May at 4 p.m.
 
-   a. Write Part I (the causal sequence) with intervals.
-   b. What goes in Part II?
-   c. What is the underlying cause of death? Which terms must NOT be written?
+    a. Write Part I (the causal sequence) with intervals.
+    b. What goes in Part II?
+    c. What is the underlying cause of death? Which terms must NOT be written?
 
 ### Multiple Choice Questions
 
@@ -710,9 +735,16 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
     c. NFHS
     d. Registration of births
 
+23. Bringing together the separately recorded health events of one person (birth, illnesses, hospital admissions, death) into a single file is called:
+
+    a. Record linkage
+    b. Surveillance
+    c. Census
+    d. Verbal autopsy
+
 **C. Assertion–Reason (A-R)**
 
-23. **Assertion (A):** A properly completed MCCD improves the quality of mortality data. **Reason (R):** Incorrect sequencing and nonspecific terms in certificates reduce the usefulness of cause-specific statistics.
+24. **Assertion (A):** A properly completed MCCD improves the quality of mortality data. **Reason (R):** Incorrect sequencing and nonspecific terms in certificates reduce the usefulness of cause-specific statistics.
 
     a. Both A and R are true, and R is the correct explanation of A
     b. Both A and R are true, but R is NOT the correct explanation of A
@@ -723,7 +755,7 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 **MCQs:** 1-c, 2-b, 3-b, 4-a, 5-a, 6-c, 7-c, 8-a\
 9-a, 10-b, 11-a, 12-b, 13-c, 14-d, 15-a, 16-c\
-17-b, 18-d, 19-c, 20-c, 21-d, 22-b, 23-a
+17-b, 18-d, 19-c, 20-c, 21-d, 22-b, 23-a, 24-a
 
 **Case scenario model answers:**
 
@@ -1652,9 +1684,15 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 8. Blinding in randomized controlled trials.
 9. Phases of clinical trials.
 
+**Short Notes (additional)**
+
+10. Intention-to-treat analysis.
+11. CONSORT flow diagram.
+12. Factors determining sample size.
+
 **In-Lecture Case Scenarios (model answers below the MCQ key)**
 
-10. *Two Ways to Do a Bypass.* Survival on the 10th post-operative day was 45 of 50 after CABG on cardiopulmonary bypass and 32 of 40 after off-pump (beating-heart) CABG.
+13. *Two Ways to Do a Bypass.* Survival on the 10th post-operative day was 45 of 50 after CABG on cardiopulmonary bypass and 32 of 40 after off-pump (beating-heart) CABG.
 
     a. Calculate the ratio of survival (efficacy, Iₑ ÷ I₀).
     b. Calculate the NNT and explain it.
@@ -1818,9 +1856,37 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
     c. 10
     d. 12
 
+23. In an RCT, analysing every participant in the group to which they were randomized, regardless of the treatment actually received, is called:
+
+    a. Per-protocol analysis
+    b. Intention-to-treat analysis
+    c. As-treated analysis
+    d. Subgroup analysis
+
+24. Keeping the person who enrols participants unaware of the next treatment assignment (e.g. by central randomization or sealed opaque envelopes) is known as:
+
+    a. Blinding
+    b. Allocation concealment
+    c. Matching
+    d. Stratification
+
+25. Other things being equal, which change INCREASES the sample size needed for a trial?
+
+    a. Detecting a larger effect
+    b. Accepting 80% instead of 90% power
+    c. Setting α at 0.01 instead of 0.05
+    d. Studying a more common outcome
+
 **C. Assertion–Reason (A-R)**
 
-23. **Assertion (A):** Confounding can be reduced by randomization in experimental studies. **Reason (R):** Randomization tends to distribute known and unknown confounders equally between groups.
+26. **Assertion (A):** Confounding can be reduced by randomization in experimental studies. **Reason (R):** Randomization tends to distribute known and unknown confounders equally between groups.
+
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is NOT the correct explanation of A
+    c. A is true, R is false
+    d. A is false, R is true
+
+27. **Assertion (A):** Per-protocol analysis may overestimate the benefit of an intervention. **Reason (R):** It excludes participants who did not adhere, who may differ systematically from those who did.
 
     a. Both A and R are true, and R is the correct explanation of A
     b. Both A and R are true, but R is NOT the correct explanation of A
@@ -1831,7 +1897,8 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 **MCQs:** 1-b, 2-b, 3-c, 4-b, 5-c, 6-a, 7-c, 8-c\
 9-c, 10-a, 11-c, 12-a, 13-d, 14-d, 15-b, 16-c\
-17-c, 18-c, 19-d, 20-c, 21-b, 22-c, 23-a
+17-c, 18-c, 19-d, 20-c, 21-b, 22-c, 23-b, 24-b\
+25-c, 26-a, 27-a
 
 **Case scenario model answers:**
 
@@ -1871,9 +1938,15 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 9. What is bias?
 10. Confounding factors in epidemiological studies (research).
 
+**Short Notes (additional)**
+
+11. Hierarchy of evidence.
+12. Meta-analysis.
+13. Publication bias.
+
 **In-Lecture Case Scenarios (model answers below the MCQ key)**
 
-11. *Coffee and Pancreatic Cancer.* A case-control study finds that patients with pancreatic cancer drank more coffee than controls (crude OR 2.5).
+14. *Coffee and Pancreatic Cancer.* A case-control study finds that patients with pancreatic cancer drank more coffee than controls (crude OR 2.5).
 
     a. Which third factor could explain this association?
     b. How would you check for it?
@@ -2037,9 +2110,30 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
     c. Intrasubject variations
     d. Interobserver variations
 
+23. Which of the following provides the highest level of evidence for the effectiveness of an intervention?
+
+    a. Cohort study
+    b. Case-control study
+    c. Systematic review and meta-analysis of RCTs
+    d. Expert opinion
+
+24. In a meta-analysis, the diamond at the bottom of a forest plot represents:
+
+    a. The largest study
+    b. The pooled summary estimate with its confidence interval
+    c. Publication bias
+    d. The study with the most weight
+
+25. An asymmetrical funnel plot in a meta-analysis most often suggests:
+
+    a. Confounding
+    b. Publication bias
+    c. Recall bias
+    d. Random error
+
 **B. Multiple Correct Answer (MCMA) — select all that apply**
 
-23. Criteria often discussed in causal inference include:
+26. Criteria often discussed in causal inference include:
 
     a. Temporality
     b. Biological plausibility
@@ -2048,7 +2142,7 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 **C. Assertion–Reason (A-R)**
 
-24. **Assertion (A):** Temporality is an essential criterion for concluding causation. **Reason (R):** If exposure precedes disease, the relationship must be causal.
+27. **Assertion (A):** Temporality is an essential criterion for concluding causation. **Reason (R):** If exposure precedes disease, the relationship must be causal.
 
     a. Both A and R are true, and R is the correct explanation of A
     b. Both A and R are true, but R is NOT the correct explanation of A
@@ -2059,7 +2153,8 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 **MCQs:** 1-b, 2-a, 3-d, 4-d, 5-c, 6-c, 7-a, 8-d\
 9-c, 10-a, 11-d, 12-b, 13-c, 14-b, 15-b, 16-a\
-17-a, 18-d, 19-c, 20-c, 21-a, 22-b, 23-abd, 24-c
+17-a, 18-d, 19-c, 20-c, 21-a, 22-b, 23-c, 24-b\
+25-b, 26-abd, 27-c
 
 **Case scenario model answers:**
 
@@ -2094,13 +2189,18 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 7. Epidemiological triad.
 8. Define “agent” in disease causation. Explain the different types of agents.
 
+**Short Notes (additional)**
+
+9. Infectivity, pathogenicity and virulence.
+10. Host factors in disease transmission.
+
 **In-Lecture Case Scenarios (model answers below the MCQ key)**
 
-9. *Measles in a Household.* A child with measles lives in a household of 7. The father had measles in childhood. A younger sibling has had 2 doses of MR vaccine. Of the other 4 members, one falls ill 2 days later and two more fall ill 10–12 days later.
+11. *Measles in a Household.* A child with measles lives in a household of 7. The father had measles in childhood. A younger sibling has had 2 doses of MR vaccine. Of the other 4 members, one falls ill 2 days later and two more fall ill 10–12 days later.
 
-   a. Who are the susceptible contacts?
-   b. How do you treat the person who fell ill after 2 days?
-   c. Calculate the secondary attack rate.
+    a. Who are the susceptible contacts?
+    b. How do you treat the person who fell ill after 2 days?
+    c. Calculate the secondary attack rate.
 
 ### Multiple Choice Questions
 
@@ -2148,9 +2248,23 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
    c. Gradually die out
    d. Become pandemic
 
+7. The case fatality rate of a disease is a measure of the agent’s:
+
+   a. Infectivity
+   b. Pathogenicity
+   c. Virulence
+   d. Infective dose
+
+8. Poliovirus produces paralysis in less than 1% of those it infects. This reflects the virus’s low:
+
+   a. Infectivity
+   b. Pathogenicity
+   c. Communicability
+   d. Herd immunity
+
 ### Answers
 
-**MCQs:** 1-c, 2-c, 3-b, 4-c, 5-c, 6-c
+**MCQs:** 1-c, 2-c, 3-b, 4-c, 5-c, 6-c, 7-c, 8-b
 
 **Case scenario model answers:**
 
@@ -2180,9 +2294,13 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 5. Adverse events following immunization (AEFI).
 6. Live vs killed vaccines.
 
+**Short Notes (additional)**
+
+7. Open vial policy.
+
 **In-Lecture Case Scenarios (model answers below the MCQ key)**
 
-7. *Dog Bite and a Vaccine Carrier.* A 25-year-old unimmunized man has deep bites with bleeding on the hand from a stray dog (category III). At the PHC, the nurse finds that the inner square of the anti-rabies vaccine VVM matches the outer circle.
+8. *Dog Bite and a Vaccine Carrier.* A 25-year-old unimmunized man has deep bites with bleeding on the hand from a stray dog (category III). At the PHC, the nurse finds that the inner square of the anti-rabies vaccine VVM matches the outer circle.
 
    a. What immunization does he need, and what kind of immunity does each component give?
    b. Why give both?
@@ -2234,9 +2352,16 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
    c. The expiry date of the vaccine
    d. Whether the vial has been opened
 
+7. Under India’s Open Vial Policy, which opened vaccine vial must be discarded at the end of the session and cannot be used at a later session?
+
+   a. Pentavalent
+   b. Hepatitis B
+   c. Measles-Rubella (MR)
+   d. OPV
+
 **B. Multiple Correct Answer (MCMA) — select all that apply**
 
-7. Which of the following are recognized causes in the WHO classification of adverse events following immunization (AEFI)?
+8. Which of the following are recognized causes in the WHO classification of adverse events following immunization (AEFI)?
 
    a. Vaccine product-related reaction
    b. Immunization error-related reaction
@@ -2245,7 +2370,7 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 
 ### Answers
 
-**MCQs:** 1-c, 2-b, 3-d, 4-c, 5-b, 6-b, 7-abcd
+**MCQs:** 1-c, 2-b, 3-d, 4-c, 5-b, 6-b, 7-c, 8-abcd
 
 **Case scenario model answers:**
 
@@ -2367,15 +2492,21 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
 6. Enumerate the different types of epidemics. Write down the steps in the investigation of an epidemic.
 7. Monitoring and surveillance.
 
+**Short Notes (additional)**
+
+8. Monitoring vs surveillance.
+9. International Health Regulations (2005).
+10. Notifiable diseases.
+
 **In-Lecture Case Scenarios (model answers below the MCQ key)**
 
-8. *Typhoid in One Locality.* A health officer sees that reported typhoid cases in a town have doubled this month compared with the same month last year. Most cases cluster in one locality.
+11. *Typhoid in One Locality.* A health officer sees that reported typhoid cases in a town have doubled this month compared with the same month last year. Most cases cluster in one locality.
 
-   a. What epidemiological phenomenon is suggested?
-   b. Which measure of frequency is being compared?
-   c. What is the first step of investigation?
-   d. Name two possible sources of infection.
-   e. How does epidemiology help plan control?
+    a. What epidemiological phenomenon is suggested?
+    b. Which measure of frequency is being compared?
+    c. What is the first step of investigation?
+    d. Name two possible sources of infection.
+    e. How does epidemiology help plan control?
 
 ### Multiple Choice Questions
 
@@ -2549,11 +2680,26 @@ Use this figure for the TB-cohort questions (100 HIV-positive subjects, January 
     c. Undertaking health research
     d. Obtaining a database of health-care facilities
 
+25. Regularly checking the monthly immunization coverage and vaccine stock of a PHC against targets is an example of:
+
+    a. Surveillance
+    b. Monitoring
+    c. Evaluation
+    d. Screening
+
+26. Under the International Health Regulations (2005), a country must notify WHO of an event that may constitute a PHEIC within:
+
+    a. 24 hours
+    b. 72 hours
+    c. 7 days
+    d. 1 month
+
 ### Answers
 
 **MCQs:** 1-b, 2-b, 3-b, 4-c, 5-b, 6-a, 7-b, 8-b\
 9-a, 10-d, 11-a, 12-c, 13-a, 14-c, 15-c, 16-c\
-17-a, 18-d, 19-d, 20-a, 21-d, 22-b, 23-d, 24-b
+17-a, 18-d, 19-d, 20-a, 21-d, 22-b, 23-d, 24-b\
+25-b, 26-a
 
 **Case scenario model answers:**
 

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="492" viewBox="0 0 1000 492" role="img" aria-labelledby="title desc">
+  <title id="title">Hierarchy of evidence</title>
+  <desc id="desc">A pyramid from expert opinion at the base through case reports, cross-sectional, case-control and cohort studies and randomized trials to systematic reviews and meta-analyses at the top.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <polygon points="370,20 630,20 674,86 326,86" fill="#FDE8E8" stroke="#2c3e50" stroke-width="2"/>
+  <text x="500" y="49.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">Systematic reviews,</text>
+  <text x="500" y="73.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="bold" fill="#2c3e50">meta-analyses</text>
+  <polygon points="326,86 674,86 718,152 282,152" fill="#E8E4F3" stroke="#2c3e50" stroke-width="2"/>
+  <text x="500" y="127.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#2c3e50">Randomized controlled trials</text>
+  <polygon points="282,152 718,152 762,218 238,218" fill="#FFF6DA" stroke="#2c3e50" stroke-width="2"/>
+  <text x="500" y="193.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#2c3e50">Cohort studies</text>
+  <polygon points="238,218 762,218 806,284 194,284" fill="#FFF6DA" stroke="#2c3e50" stroke-width="2"/>
+  <text x="500" y="259.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#2c3e50">Case-control studies</text>
+  <polygon points="194,284 806,284 850,350 150,350" fill="#E3F2E1" stroke="#2c3e50" stroke-width="2"/>
+  <text x="500" y="325.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#2c3e50">Cross-sectional, ecological</text>
+  <polygon points="150,350 850,350 894,416 106,416" fill="#E3F2E1" stroke="#2c3e50" stroke-width="2"/>
+  <text x="500" y="391.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#2c3e50">Case reports, case series</text>
+  <polygon points="106,416 894,416 938,482 62,482" fill="#f1f1f1" stroke="#2c3e50" stroke-width="2"/>
+  <text x="500" y="457.0" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#2c3e50">Expert opinion, animal and lab studies</text>
+  <line x1="955" y1="482" x2="955" y2="20" stroke="#2c3e50" stroke-width="3" marker-end="url(#arr)"/>
+  <text x="985" y="251.0" transform="rotate(-90 985 251.0)" text-anchor="middle" font-family="Georgia, serif" font-size="22" fill="#333">stronger evidence, less bias</text>
+</svg>

@@ -1288,6 +1288,44 @@ A **placebo** makes blinding possible when the control group gets no active trea
 
 ---
 
+## Analysing a Trial: ITT vs Per-Protocol {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| | Intention-to-treat (ITT) | Per-protocol |
+|---|---|---|
+| **Who is analysed** | Everyone **as randomized**, whatever they actually received | Only those who completed the assigned treatment |
+| **Keeps randomization?** | **Yes**: groups stay comparable | No: drop-outs differ from completers |
+| **Answers** | *Effectiveness* in real use (conservative) | *Efficacy* under ideal adherence (may overestimate) |
+
+**ITT is the primary analysis of an RCT.** **Allocation concealment** (e.g. sealed envelopes, central randomization) keeps recruiters from knowing the next assignment. It is distinct from blinding.
+
+---
+
+## The CONSORT Flow Diagram {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![CONSORT flow: enrolment, allocation, follow-up, analysis](../images/epidemiology/consort_flow.svg){.slide-img .nostretch width="880px"}
+
+---
+
+## Sample Size: What Drives It {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+A trial or survey must be large enough to detect a real effect. The sample size needed **rises** when:
+
+- the **α (type I error)** is set lower, e.g. 0.01 instead of 0.05
+- the **power (1 − β)** is set higher, e.g. 90% instead of 80%
+- the **effect size** to be detected is smaller
+- the outcome is **rarer**, or a continuous outcome is more **variable** (larger SD)
+- **drop-outs** are expected (add 10–20%)
+
+Too small a sample gives a **type II error**: a real difference missed. It is also unethical, because subjects bear the risk without a useful answer.
+
+---
+
 ## Types of Randomized Controlled Trials {background-color="#FFF6DA"}
 
 🟡 **SHOULD KNOW**
@@ -1434,6 +1472,16 @@ Survival on the 10th post-operative day was **45 of 50** after CABG on cardiopul
 7. Basic steps in conducting a randomized controlled trial.
 8. Blinding in randomized controlled trials.
 9. Phases of clinical trials.
+
+---
+
+## Practice Questions: Descriptive (Lecture 8, contd.) {background-color="#FFF6DA"}
+
+**Short Notes (additional)**
+
+10. Intention-to-treat analysis.
+11. CONSORT flow diagram.
+12. Factors determining sample size.
 
 ---
 
@@ -1830,6 +1878,76 @@ In the same CABG comparison, the number needed to treat (NNT) is:
 
 ---
 
+## Self-Check: Question 69 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 69
+
+In an RCT, analysing every participant in the group to which they were randomized, regardless of the treatment actually received, is called:
+
+- Per-protocol analysis
+- [Intention-to-treat analysis]{.correct data-explanation="Intention-to-treat keeps the comparability created by randomization. It is the primary analysis of an RCT and estimates effectiveness conservatively."}
+- As-treated analysis
+- Subgroup analysis
+:::
+
+---
+
+## Self-Check: Question 70 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 70
+
+**Assertion (A):** Per-protocol analysis may overestimate the benefit of an intervention.
+
+**Reason (R):** It excludes participants who did not adhere, who may differ systematically from those who did.
+
+- [Both A and R are true, and R is the correct explanation of A]{.correct data-explanation="Both are true, and R explains A. Non-adherent participants are often sicker or experience more side-effects. Excluding them breaks randomization and flatters the treatment."}
+- Both A and R are true, but R is NOT the correct explanation of A
+- A is true, R is false
+- A is false, R is true
+:::
+
+---
+
+## Self-Check: Question 71 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 71
+
+Keeping the person who enrols participants unaware of the next treatment assignment (e.g. by central randomization or sealed opaque envelopes) is known as:
+
+- Blinding
+- [Allocation concealment]{.correct data-explanation="Allocation concealment protects the randomization sequence before assignment. Blinding hides the assignment after it is made."}
+- Matching
+- Stratification
+:::
+
+---
+
+## Self-Check: Question 72 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 72
+
+Other things being equal, which change INCREASES the sample size needed for a trial?
+
+- Detecting a larger effect
+- Accepting 80% instead of 90% power
+- [Setting α at 0.01 instead of 0.05]{.correct data-explanation="A stricter α, higher power, a smaller effect, a rarer outcome or more variability all need a larger sample."}
+- Studying a more common outcome
+:::
+
+---
+
 ## Lecture 9: Association, Causation, and Bias {background-color="#E6EEF5"}
 
 📚 **Lecture 9 of 15** · **CM7.L9**
@@ -1987,6 +2105,24 @@ Temporality is **necessary but not sufficient**. Detailed discussion with Koch's
 
 ---
 
+## Hierarchy of Evidence {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+![Hierarchy of evidence pyramid](../images/epidemiology/evidence_pyramid.svg){.slide-img .nostretch width="880px"}
+
+---
+
+## Systematic Review, Meta-Analysis, Publication Bias {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Systematic review**: a focused question, a comprehensive search, explicit selection criteria, critical appraisal of every eligible study, and synthesis. Cochrane reviews are the classic example.
+- **Meta-analysis**: the **statistical pooling** of results from several studies into one summary estimate with a 95% CI, shown as a **forest plot**. The diamond at the bottom is the pooled estimate. Heterogeneity is checked with I².
+- **Publication bias**: studies with "positive" significant results are more likely to be published, so reviews overestimate effects. It is detected with a **funnel plot**: an asymmetric funnel suggests missing small negative studies.
+
+---
+
 ## Ecological Fallacy — A Closer Look {background-color="#E8E4F3"}
 
 🟣 **MAY KNOW**
@@ -2027,12 +2163,22 @@ The ecological fallacy is the error of assuming that a correlation seen at the g
 
 ---
 
-## Self-Check: Question 69 {background-color="#FDE8E8"}
+## Practice Questions: Descriptive (Lecture 9, contd.) {background-color="#FFF6DA"}
+
+**Short Notes (additional)**
+
+11. Hierarchy of evidence.
+12. Meta-analysis.
+13. Publication bias.
+
+---
+
+## Self-Check: Question 73 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 69
+### Question 73
 
 “Confounding” is best described as:
 
@@ -2044,12 +2190,12 @@ The ecological fallacy is the error of assuming that a correlation seen at the g
 
 ---
 
-## Self-Check: Question 70 {background-color="#FDE8E8"}
+## Self-Check: Question 74 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 70
+### Question 74
 
 Which of the following is NOT an essential characteristic of a confounding variable?
 
@@ -2061,12 +2207,12 @@ Which of the following is NOT an essential characteristic of a confounding varia
 
 ---
 
-## Self-Check: Question 71 {background-color="#FDE8E8"}
+## Self-Check: Question 75 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 71
+### Question 75
 
 Which of the following is NOT a method of controlling confounding?
 
@@ -2078,12 +2224,12 @@ Which of the following is NOT a method of controlling confounding?
 
 ---
 
-## Self-Check: Question 72 {background-color="#FDE8E8"}
+## Self-Check: Question 76 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 72
+### Question 76
 
 Which method can be used to control confounding during the statistical analysis stage, after data collection is complete?
 
@@ -2095,12 +2241,12 @@ Which method can be used to control confounding during the statistical analysis 
 
 ---
 
-## Self-Check: Question 73 {background-color="#FDE8E8"}
+## Self-Check: Question 77 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 73
+### Question 77
 
 Which type of bias or distortion CAN typically still be corrected during data analysis, after the study has been conducted?
 
@@ -2112,12 +2258,12 @@ Which type of bias or distortion CAN typically still be corrected during data an
 
 ---
 
-## Self-Check: Question 74 {background-color="#FDE8E8"}
+## Self-Check: Question 78 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 74
+### Question 78
 
 Gender CANNOT be a confounding variable in a study exploring the association between:
 
@@ -2129,12 +2275,12 @@ Gender CANNOT be a confounding variable in a study exploring the association bet
 
 ---
 
-## Self-Check: Question 75 {background-color="#FDE8E8"}
+## Self-Check: Question 79 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 75
+### Question 79
 
 Confounding is a form of which of the following errors?
 
@@ -2146,12 +2292,12 @@ Confounding is a form of which of the following errors?
 
 ---
 
-## Self-Check: Question 76 {background-color="#FDE8E8"}
+## Self-Check: Question 80 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 76
+### Question 80
 
 Another name for “lack of internal validity” is:
 
@@ -2163,12 +2309,12 @@ Another name for “lack of internal validity” is:
 
 ---
 
-## Self-Check: Question 77 {background-color="#FDE8E8"}
+## Self-Check: Question 81 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 77
+### Question 81
 
 Bias can be of which of the following types?
 
@@ -2180,12 +2326,12 @@ Bias can be of which of the following types?
 
 ---
 
-## Self-Check: Question 78 {background-color="#FDE8E8"}
+## Self-Check: Question 82 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 78
+### Question 82
 
 In assessing a cause-and-effect relationship, we exclude the role of certain factors and then evaluate the relationship against causal criteria. The correct sequence is:
 
@@ -2197,12 +2343,12 @@ In assessing a cause-and-effect relationship, we exclude the role of certain fac
 
 ---
 
-## Self-Check: Question 79 {background-color="#FDE8E8"}
+## Self-Check: Question 83 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 79
+### Question 83
 
 In assessing whether a cause-and-effect relationship exists between an exposure and an outcome, we ascertain that:
 
@@ -2214,12 +2360,12 @@ In assessing whether a cause-and-effect relationship exists between an exposure 
 
 ---
 
-## Self-Check: Question 80 {background-color="#FDE8E8"}
+## Self-Check: Question 84 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 80
+### Question 84
 
 A key criterion supporting causation rather than mere association is:
 
@@ -2231,12 +2377,12 @@ A key criterion supporting causation rather than mere association is:
 
 ---
 
-## Self-Check: Question 81 {background-color="#FDE8E8"}
+## Self-Check: Question 85 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 81
+### Question 85
 
 The essential condition that must be satisfied before considering a causal relationship is:
 
@@ -2248,12 +2394,12 @@ The essential condition that must be satisfied before considering a causal relat
 
 ---
 
-## Self-Check: Question 82 {background-color="#FDE8E8"}
+## Self-Check: Question 86 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 82
+### Question 86
 
 The statement “the higher the relative risk, the more likely the association is causal” reflects which criterion of causal association?
 
@@ -2265,12 +2411,12 @@ The statement “the higher the relative risk, the more likely the association i
 
 ---
 
-## Self-Check: Question 83 {background-color="#FDE8E8"}
+## Self-Check: Question 87 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 83
+### Question 87
 
 A high odds ratio in a case-control study always indicates:
 
@@ -2282,12 +2428,12 @@ A high odds ratio in a case-control study always indicates:
 
 ---
 
-## Self-Check: Question 84 {background-color="#FDE8E8"}
+## Self-Check: Question 88 {background-color="#FDE8E8"}
 
 🧡 **QUESTION (select ALL that apply)**
 
 ::: {.quiz-question .quiz-multiple}
-### Question 84
+### Question 88
 
 Criteria often discussed in causal inference include:
 
@@ -2299,12 +2445,12 @@ Criteria often discussed in causal inference include:
 
 ---
 
-## Self-Check: Question 85 {background-color="#FDE8E8"}
+## Self-Check: Question 89 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 85
+### Question 89
 
 **Assertion (A):** Temporality is an essential criterion for concluding causation.
 
@@ -2318,12 +2464,12 @@ Criteria often discussed in causal inference include:
 
 ---
 
-## Self-Check: Question 86 {background-color="#FDE8E8"}
+## Self-Check: Question 90 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 86
+### Question 90
 
 Measuring a patient’s BP immediately after they have climbed 50 stairs to reach the clinic will result in:
 
@@ -2335,12 +2481,12 @@ Measuring a patient’s BP immediately after they have climbed 50 stairs to reac
 
 ---
 
-## Self-Check: Question 87 {background-color="#FDE8E8"}
+## Self-Check: Question 91 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 87
+### Question 91
 
 In a hypertension survey, young men walked 2 km from the parking lot and their BP was measured immediately on arrival, without rest. This will adversely affect the:
 
@@ -2352,12 +2498,12 @@ In a hypertension survey, young men walked 2 km from the parking lot and their B
 
 ---
 
-## Self-Check: Question 88 {background-color="#FDE8E8"}
+## Self-Check: Question 92 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 88
+### Question 92
 
 The ability of a measurement process to give consistent results when repeated is called:
 
@@ -2369,12 +2515,12 @@ The ability of a measurement process to give consistent results when repeated is
 
 ---
 
-## Self-Check: Question 89 {background-color="#FDE8E8"}
+## Self-Check: Question 93 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 89
+### Question 93
 
 The ability of a measurement process to correctly measure what it actually intends to measure is known as:
 
@@ -2386,12 +2532,12 @@ The ability of a measurement process to correctly measure what it actually inten
 
 ---
 
-## Self-Check: Question 90 {background-color="#FDE8E8"}
+## Self-Check: Question 94 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 90
+### Question 94
 
 A CT scan of an unconscious patient’s brain was read independently by two radiologists. One reported a mild left subthalamic bleed and the other reported it as normal. This is a situation of:
 
@@ -2403,12 +2549,12 @@ A CT scan of an unconscious patient’s brain was read independently by two radi
 
 ---
 
-## Self-Check: Question 91 {background-color="#FDE8E8"}
+## Self-Check: Question 95 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 91
+### Question 95
 
 In women, body temperature taken immediately on waking is higher at the time of ovulation. This is an example of:
 
@@ -2420,12 +2566,12 @@ In women, body temperature taken immediately on waking is higher at the time of 
 
 ---
 
-## Self-Check: Question 92 {background-color="#FDE8E8"}
+## Self-Check: Question 96 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 92
+### Question 96
 
 Standardization of instruments and measurement technique will ensure all of the following, EXCEPT:
 
@@ -2433,6 +2579,57 @@ Standardization of instruments and measurement technique will ensure all of the 
 - [Intersubject variations]{.correct data-explanation="Standardization reduces measurement-related variation (observer, instrument, technique) and improves validity. Intersubject variation, the true difference between people, is what we want to measure, and standardization does not remove it."}
 - Intrasubject variations
 - Interobserver variations
+:::
+
+---
+
+## Self-Check: Question 97 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 97
+
+Which of the following provides the highest level of evidence for the effectiveness of an intervention?
+
+- Cohort study
+- Case-control study
+- [Systematic review and meta-analysis of RCTs]{.correct data-explanation="The evidence hierarchy places systematic reviews and meta-analyses of well-conducted RCTs at the top, then individual RCTs, cohort studies, case-control studies, cross-sectional studies, case series and expert opinion."}
+- Expert opinion
+:::
+
+---
+
+## Self-Check: Question 98 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 98
+
+In a meta-analysis, the diamond at the bottom of a forest plot represents:
+
+- The largest study
+- [The pooled summary estimate with its confidence interval]{.correct data-explanation="Each square is one study&#x27;s estimate (sized by weight) with its CI line. The diamond is the pooled estimate, and its width is the 95% CI."}
+- Publication bias
+- The study with the most weight
+:::
+
+---
+
+## Self-Check: Question 99 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 99
+
+An asymmetrical funnel plot in a meta-analysis most often suggests:
+
+- Confounding
+- [Publication bias]{.correct data-explanation="Small studies with negative or non-significant results are missing (unpublished), leaving one side of the funnel empty."}
+- Recall bias
+- Random error
 :::
 
 ---

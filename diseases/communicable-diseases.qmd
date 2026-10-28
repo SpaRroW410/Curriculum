@@ -52,6 +52,19 @@ transmission*
 
 ---
 
+## Recap from Chapter 2: Triad, Causation, Natural History {background-color="#E8E4F3"}
+
+🟣 **RECAP**
+
+| Concept | One-line reminder | Chapter 2 slide |
+|---|---|---|
+| **Epidemiological triad** | Agent, host and environment interact to produce disease | [The Epidemiological Triad](../foundations/concept-health-disease.qmd#the-epidemiological-triad) |
+| **Web of causation** | Many interlinked factors, especially for chronic disease | [Multifactorial Causation](../foundations/concept-health-disease.qmd#multifactorial-causation) |
+| **Natural history** | Prepathogenesis → pathogenesis → recovery, disability or death | [Natural History of Disease](../foundations/concept-health-disease.qmd#natural-history-of-disease) |
+| **Iceberg phenomenon** | Clinical cases are only the visible tip | [The Iceberg Phenomenon](../foundations/concept-health-disease.qmd#the-iceberg-phenomenon) |
+
+---
+
 ## The Chain of Infection {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -143,6 +156,44 @@ targeted.
 | **Mechanical** | Injuries, chronic friction |
 | **Absence or insufficiency** | Lack of a hormone (insulin), chromosomal factors |
 | **Social** | Poverty, smoking, alcohol, stress |
+
+---
+
+## Agent Properties: Infectivity, Pathogenicity, Virulence {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| Property | Meaning | Measured by |
+|---|---|---|
+| **Infectivity** | Ability to enter, survive and multiply in a host | Secondary attack rate, infection rate |
+| **Pathogenicity** | Ability to produce **clinical disease** in those infected | Clinical cases ÷ all infections |
+| **Virulence** | **Severity** of the disease produced | **Case fatality rate** |
+
+- **Measles**: high infectivity and pathogenicity, low virulence (except in the malnourished)
+- **Polio**: high infectivity, **low pathogenicity** (over 90% of infections are inapparent)
+- **Rabies**: virulence close to 100%
+- **Infective dose**: the number of organisms needed to cause infection, low for *Shigella* (10–100) and high for *V. cholerae*
+
+---
+
+## Host and Environment in Transmission {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Host factors** decide whether exposure becomes infection and then disease:
+
+- **Portal of entry** and intact barriers (skin, mucosa, gastric acid)
+- **Immune status**: past infection, immunization, immunodeficiency
+- **Age, sex, nutrition, pregnancy, genetic factors**
+- **Behaviour**: hygiene, sexual behaviour, occupation, travel
+
+**Environmental factors:**
+
+- *Physical*: climate, water, housing, crowding
+- *Biological*: vectors, animal reservoirs
+- *Social*: poverty, sanitation, health services
+
+Agent, host and environment together form the **epidemiological triad**.
 
 ---
 
@@ -320,6 +371,11 @@ R₀ depends on the contact rate, the probability of transmission per contact, a
 7. Epidemiological triad.
 8. Define “agent” in disease causation. Explain the different types of agents.
 
+**Short Notes (additional)**
+
+9. Infectivity, pathogenicity and virulence.
+10. Host factors in disease transmission.
+
 ---
 
 ## Self-Check: Question 1 {background-color="#FDE8E8"}
@@ -420,6 +476,40 @@ If a disease has a basic reproduction number (R₀) of less than 1 in a populati
 - Remain endemic at a stable level
 - [Gradually die out]{.correct data-explanation="Each case produces fewer than one new case on average, so transmission chains shorten and the outbreak dies out. R₀ = 1 gives stable endemicity, and R₀ &gt; 1 gives epidemic potential."}
 - Become pandemic
+:::
+
+---
+
+## Self-Check: Question 7 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 7
+
+The case fatality rate of a disease is a measure of the agent’s:
+
+- Infectivity
+- Pathogenicity
+- [Virulence]{.correct data-explanation="Virulence is the severity of disease, measured by the CFR. Infectivity is measured by attack rates, and pathogenicity by clinical cases ÷ infections."}
+- Infective dose
+:::
+
+---
+
+## Self-Check: Question 8 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 8
+
+Poliovirus produces paralysis in less than 1% of those it infects. This reflects the virus’s low:
+
+- Infectivity
+- [Pathogenicity]{.correct data-explanation="Polio spreads easily (high infectivity), but most infections are inapparent. The ability to cause clinical disease, pathogenicity, is low."}
+- Communicability
+- Herd immunity
 :::
 
 ---
@@ -546,6 +636,7 @@ Antisera carry a risk of **serum sickness and anaphylaxis**. Give a test dose an
 
 Check the VVM before **every** use. The **shake test** detects freezing damage, which the VVM does not show.
 
+
 ---
 
 ## Case Scenario: Dog Bite and a Vaccine Carrier {background-color="#FDE8E8"}
@@ -568,6 +659,24 @@ A 25-year-old unimmunized man has **deep bites with bleeding on the hand** from 
 - RIG protects **immediately**, during the 1–2 weeks before vaccine-induced antibody appears. The vaccine gives **lasting** protection. This is **combined passive–active immunization**.
 - **No.** A VVM at **stage 3** (square matches circle) means too much heat exposure: **discard** it and use a vial at stage 1 or 2.
 
+---
+
+## Open Vial Policy and the UIP Schedule {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Open Vial Policy (MoHFW, revised Sept 2015):** a partly used multi-dose vial of **DPT, TT/Td, Hepatitis B, OPV, pentavalent or IPV** can be used at later sessions for **up to 28 days** after opening, provided:
+
+- it is within its **expiry date**
+- the **VVM** is still usable (stage 1 or 2)
+- it was stored at **+2 °C to +8 °C**, not submerged in water and not contaminated
+- the **date and time of opening** are written on the vial
+
+**Not covered:** reconstituted vaccines (**BCG, measles/MR, JE**). Discard these at the end of the session, or within 4 hours of reconstitution, whichever is earlier.
+
+The national schedule (UIP, Mission Indradhanush, U-WIN) is in [Lecture 10 of Preventive Medicine](../programs/preventive-medicine.qmd#lecture-10-uip-mission-indradhanush-u-win-and-cold-chain).
+
+*Policy details retrieved 28 Oct 2026. Check the latest MoHFW circular.*
 
 ---
 
@@ -589,12 +698,20 @@ A 25-year-old unimmunized man has **deep bites with bleeding on the hand** from 
 
 ---
 
-## Self-Check: Question 7 {background-color="#FDE8E8"}
+## Practice Questions: Descriptive (Lecture 11, contd.) {background-color="#FFF6DA"}
+
+**Short Notes (additional)**
+
+7. Open vial policy.
+
+---
+
+## Self-Check: Question 9 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 7
+### Question 9
 
 A disease has R₀ = 4. What proportion of the population must be immune to reach the herd immunity threshold?
 
@@ -606,12 +723,12 @@ A disease has R₀ = 4. What proportion of the population must be immune to reac
 
 ---
 
-## Self-Check: Question 8 {background-color="#FDE8E8"}
+## Self-Check: Question 10 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 8
+### Question 10
 
 Immunity acquired by a newborn from maternal antibodies transferred across the placenta is:
 
@@ -623,12 +740,12 @@ Immunity acquired by a newborn from maternal antibodies transferred across the p
 
 ---
 
-## Self-Check: Question 9 {background-color="#FDE8E8"}
+## Self-Check: Question 11 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 9
+### Question 11
 
 Administration of tetanus immunoglobulin to an unimmunized patient with a contaminated wound provides:
 
@@ -640,12 +757,12 @@ Administration of tetanus immunoglobulin to an unimmunized patient with a contam
 
 ---
 
-## Self-Check: Question 10 {background-color="#FDE8E8"}
+## Self-Check: Question 12 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 10
+### Question 12
 
 Which of the following is a live attenuated vaccine?
 
@@ -657,12 +774,12 @@ Which of the following is a live attenuated vaccine?
 
 ---
 
-## Self-Check: Question 11 {background-color="#FDE8E8"}
+## Self-Check: Question 13 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 11
+### Question 13
 
 Which of the following vaccines is the MOST heat-sensitive?
 
@@ -674,12 +791,12 @@ Which of the following vaccines is the MOST heat-sensitive?
 
 ---
 
-## Self-Check: Question 12 {background-color="#FDE8E8"}
+## Self-Check: Question 14 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 12
+### Question 14
 
 The Vaccine Vial Monitor (VVM) on a vial indicates:
 
@@ -691,12 +808,12 @@ The Vaccine Vial Monitor (VVM) on a vial indicates:
 
 ---
 
-## Self-Check: Question 13 {background-color="#FDE8E8"}
+## Self-Check: Question 15 {background-color="#FDE8E8"}
 
 🧡 **QUESTION (select ALL that apply)**
 
 ::: {.quiz-question .quiz-multiple}
-### Question 13
+### Question 15
 
 Which of the following are recognized causes in the WHO classification of adverse events following immunization (AEFI)?
 
@@ -704,6 +821,23 @@ Which of the following are recognized causes in the WHO classification of advers
 - [Immunization error-related reaction]{.correct}
 - [Immunization anxiety-related reaction]{.correct}
 - [Coincidental event]{.correct}
+:::
+
+---
+
+## Self-Check: Question 16 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 16
+
+Under India’s Open Vial Policy, which opened vaccine vial must be discarded at the end of the session and cannot be used at a later session?
+
+- Pentavalent
+- Hepatitis B
+- [Measles-Rubella (MR)]{.correct data-explanation="Reconstituted vaccines (BCG, MR, JE) are discarded at the end of the session or within 4 hours. DPT, TT/Td, Hep B, OPV, pentavalent and IPV can be reused for up to 28 days if the conditions are met."}
+- OPV
 :::
 
 ---
@@ -762,6 +896,20 @@ Both are control measures on different links of the chain. Isolation removes an 
 | **Primary** | Immunization, chemoprophylaxis, vector control, safe water, health education |
 | **Secondary** | Case detection, contact tracing, early treatment, screening (e.g. TB active case finding) |
 | **Tertiary** | Disability limitation and rehabilitation from sequelae (e.g. post-polio, leprosy deformities) |
+
+---
+
+## Control, Elimination, Eradication: Recap {background-color="#E8E4F3"}
+
+🟣 **RECAP**
+
+| Term | Meaning | Example |
+|---|---|---|
+| **Control** | Reduce incidence, prevalence and mortality to a locally acceptable level | Malaria and TB control |
+| **Elimination** | Interrupt transmission in a defined area; vigilance continues | Polio-free India (2014), yaws (2016), maternal and neonatal tetanus (2015) |
+| **Eradication** | Worldwide termination of infection; the agent no longer exists in nature | **Smallpox** (1980) is the only human example |
+
+Full treatment: [Concept of Control](../foundations/concept-health-disease.qmd#concept-of-control-control-elimination-and-eradication) and [Monitoring, Surveillance, and Evaluation of Control](../foundations/concept-health-disease.qmd#monitoring-surveillance-and-evaluation-of-control) in Chapter 2.
 
 ---
 
@@ -837,12 +985,12 @@ A confirmed cholera case is being treated at home in a village with a shared wel
 
 ---
 
-## Self-Check: Question 14 {background-color="#FDE8E8"}
+## Self-Check: Question 17 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 14
+### Question 17
 
 A person who was exposed to a confirmed case, but has no symptoms and unknown infection status, is placed in separate accommodation for the incubation period of the disease. This is:
 
@@ -854,12 +1002,12 @@ A person who was exposed to a confirmed case, but has no symptoms and unknown in
 
 ---
 
-## Self-Check: Question 15 {background-color="#FDE8E8"}
+## Self-Check: Question 18 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 15
+### Question 18
 
 Disinfection of the sickroom, its contents and bedding after the patient has been removed by recovery, death or transfer is called:
 
@@ -871,12 +1019,12 @@ Disinfection of the sickroom, its contents and bedding after the patient has bee
 
 ---
 
-## Self-Check: Question 16 {background-color="#FDE8E8"}
+## Self-Check: Question 19 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 16
+### Question 19
 
 Chlorination of a community water supply is an example of:
 
@@ -888,12 +1036,12 @@ Chlorination of a community water supply is an example of:
 
 ---
 
-## Self-Check: Question 17 {background-color="#FDE8E8"}
+## Self-Check: Question 20 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 17
+### Question 20
 
 Giving rifampicin to the household contacts of a case of meningococcal meningitis is an example of:
 
@@ -905,12 +1053,12 @@ Giving rifampicin to the household contacts of a case of meningococcal meningiti
 
 ---
 
-## Self-Check: Question 18 {background-color="#FDE8E8"}
+## Self-Check: Question 21 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 18
+### Question 21
 
 Which measure acts on the RESERVOIR link of the chain of infection?
 
@@ -1028,6 +1176,35 @@ Aggregating case sheets gives the time-place-person description from which hypot
 
 ---
 
+## Monitoring vs Surveillance {background-color="#E3F2E1"}
+
+🟢 **MUST KNOW**
+
+| | Monitoring | Surveillance |
+|---|---|---|
+| **Definition** | Ongoing measurement of an **activity or programme** to check that it runs as planned | Continuous scrutiny of **disease occurrence and its determinants**, *for action* |
+| **Focus** | Inputs, process, outputs, coverage | Cases, deaths, risk factors, trends |
+| **Example** | Monthly immunization coverage, drug stock, sessions held | AFP surveillance, IDSP weekly reports |
+| **Leads to** | Correcting implementation | Outbreak response, control measures |
+
+**Evaluation** is periodic: it judges whether the programme achieved its **objectives** (effectiveness, efficiency, impact).
+
+---
+
+## Notifiable Diseases, IHR, and Epidemic Thresholds {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Notifiable diseases**: diseases that must legally be reported to health authorities.
+  - Internationally under the **IHR**.
+  - Nationally and by state: e.g. cholera, plague, TB (notifiable in India since 2012), AFP and polio, measles, diphtheria, dengue, Japanese encephalitis, and others as listed by each state.
+- **International Health Regulations (2005)**: legally binding on WHO member states. Every country has a **National IHR Focal Point** (NCDC, India), which must notify WHO **within 24 hours** of any event that may be a **Public Health Emergency of International Concern (PHEIC)**, assessed with the IHR decision instrument.
+  - Always notifiable: smallpox, wild polio, new human influenza subtype, SARS.
+  - Core capacities are required at points of entry.
+- **Epidemic threshold**: an alert level beyond which cases signal an outbreak, commonly the **mean + 2 SD** of the same weeks in previous years. IDSP flags clustering or rising trends for the Rapid Response Team.
+
+---
+
 ## IDSP, IHIP, and IDSR {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -1142,12 +1319,22 @@ Or browse the [module hub](cd.html) for an overview of all six.
 
 ---
 
-## Self-Check: Question 19 {background-color="#FDE8E8"}
+## Practice Questions: Descriptive (Lecture 13, contd.) {background-color="#FFF6DA"}
+
+**Short Notes (additional)**
+
+8. Monitoring vs surveillance.
+9. International Health Regulations (2005).
+10. Notifiable diseases.
+
+---
+
+## Self-Check: Question 22 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 19
+### Question 22
 
 In the standard outbreak-investigation sequence, “develop hypotheses” comes immediately after which step?
 
@@ -1159,12 +1346,12 @@ In the standard outbreak-investigation sequence, “develop hypotheses” comes 
 
 ---
 
-## Self-Check: Question 20 {background-color="#FDE8E8"}
+## Self-Check: Question 23 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 20
+### Question 23
 
 On the IHIP platform under IDSP, the “P” form is used to report:
 
@@ -1176,12 +1363,12 @@ On the IHIP platform under IDSP, the “P” form is used to report:
 
 ---
 
-## Self-Check: Question 21 {background-color="#FDE8E8"}
+## Self-Check: Question 24 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 21
+### Question 24
 
 Surveillance in which health workers make house-to-house visits to search for fever cases and collect blood smears is:
 
@@ -1193,12 +1380,12 @@ Surveillance in which health workers make house-to-house visits to search for fe
 
 ---
 
-## Self-Check: Question 22 {background-color="#FDE8E8"}
+## Self-Check: Question 25 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 22
+### Question 25
 
 Selected reporting sites that systematically report a specific disease, used to detect trends that routine reporting misses, constitute:
 
@@ -1210,12 +1397,12 @@ Selected reporting sites that systematically report a specific disease, used to 
 
 ---
 
-## Self-Check: Question 23 {background-color="#FDE8E8"}
+## Self-Check: Question 26 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 23
+### Question 26
 
 The very first step in the investigation of an epidemic is:
 
@@ -1227,12 +1414,12 @@ The very first step in the investigation of an epidemic is:
 
 ---
 
-## Self-Check: Question 24 {background-color="#FDE8E8"}
+## Self-Check: Question 27 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 24
+### Question 27
 
 A nominal roll of the cases already reported to health-care establishments (dispensaries, general practitioners, hospitals) up to the present moment would form a:
 
@@ -1244,12 +1431,12 @@ A nominal roll of the cases already reported to health-care establishments (disp
 
 ---
 
-## Self-Check: Question 25 {background-color="#FDE8E8"}
+## Self-Check: Question 28 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 25
+### Question 28
 
 To call a health-related event an epidemic, the incidence rate is computed and compared with the rate in the same population during the corresponding period of the past:
 
@@ -1261,12 +1448,12 @@ To call a health-related event an epidemic, the incidence rate is computed and c
 
 ---
 
-## Self-Check: Question 26 {background-color="#FDE8E8"}
+## Self-Check: Question 29 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 26
+### Question 29
 
 An epidemic is described in all of the following ways, EXCEPT according to:
 
@@ -1278,12 +1465,12 @@ An epidemic is described in all of the following ways, EXCEPT according to:
 
 ---
 
-## Self-Check: Question 27 {background-color="#FDE8E8"}
+## Self-Check: Question 30 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 27
+### Question 30
 
 Once the source of infection in an epidemic is identified, all of the following are measures for control and prevention of the SOURCE, EXCEPT:
 
@@ -1295,12 +1482,12 @@ Once the source of infection in an epidemic is identified, all of the following 
 
 ---
 
-## Self-Check: Question 28 {background-color="#FDE8E8"}
+## Self-Check: Question 31 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 28
+### Question 31
 
 Which type of survey provides an exact estimate of incidence?
 
@@ -1312,12 +1499,12 @@ Which type of survey provides an exact estimate of incidence?
 
 ---
 
-## Self-Check: Question 29 {background-color="#FDE8E8"}
+## Self-Check: Question 32 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 29
+### Question 32
 
 Which of the following is generally NOT undertaken in the analysis of a community-based (descriptive) survey?
 
@@ -1329,12 +1516,12 @@ Which of the following is generally NOT undertaken in the analysis of a communit
 
 ---
 
-## Self-Check: Question 30 {background-color="#FDE8E8"}
+## Self-Check: Question 33 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 30
+### Question 33
 
 The large collection of humanity to which the findings of a survey will be generalized is called the:
 
@@ -1346,12 +1533,12 @@ The large collection of humanity to which the findings of a survey will be gener
 
 ---
 
-## Self-Check: Question 31 {background-color="#FDE8E8"}
+## Self-Check: Question 34 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 31
+### Question 34
 
 All of the following are important ethical issues to be addressed in a proposed survey, EXCEPT:
 
@@ -1363,12 +1550,12 @@ All of the following are important ethical issues to be addressed in a proposed 
 
 ---
 
-## Self-Check: Question 32 {background-color="#FDE8E8"}
+## Self-Check: Question 35 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 32
+### Question 35
 
 The ongoing collection, analysis and feedback of data related to a particular disease or group of diseases is:
 
@@ -1380,12 +1567,12 @@ The ongoing collection, analysis and feedback of data related to a particular di
 
 ---
 
-## Self-Check: Question 33 {background-color="#FDE8E8"}
+## Self-Check: Question 36 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 33
+### Question 36
 
 Which of the following is NOT a database program?
 
@@ -1397,12 +1584,12 @@ Which of the following is NOT a database program?
 
 ---
 
-## Self-Check: Question 34 {background-color="#FDE8E8"}
+## Self-Check: Question 37 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 34
+### Question 37
 
 “PACS” is a system used in health care for:
 
@@ -1414,12 +1601,12 @@ Which of the following is NOT a database program?
 
 ---
 
-## Self-Check: Question 35 {background-color="#FDE8E8"}
+## Self-Check: Question 38 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 35
+### Question 38
 
 Which statistical analysis package was developed by CDC Atlanta and WHO for analysing health research data?
 
@@ -1431,12 +1618,12 @@ Which statistical analysis package was developed by CDC Atlanta and WHO for anal
 
 ---
 
-## Self-Check: Question 36 {background-color="#FDE8E8"}
+## Self-Check: Question 39 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 36
+### Question 39
 
 A Microsoft package for basic financial management in health care is:
 
@@ -1448,12 +1635,12 @@ A Microsoft package for basic financial management in health care is:
 
 ---
 
-## Self-Check: Question 37 {background-color="#FDE8E8"}
+## Self-Check: Question 40 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 37
+### Question 40
 
 During the COVID-19 pandemic, a unique feature in health care was the development of various modalities for:
 
@@ -1465,12 +1652,12 @@ During the COVID-19 pandemic, a unique feature in health care was the developmen
 
 ---
 
-## Self-Check: Question 38 {background-color="#FDE8E8"}
+## Self-Check: Question 41 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 38
+### Question 41
 
 Registration for COVID-19 vaccination could be done using:
 
@@ -1482,12 +1669,12 @@ Registration for COVID-19 vaccination could be done using:
 
 ---
 
-## Self-Check: Question 39 {background-color="#FDE8E8"}
+## Self-Check: Question 42 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 39
+### Question 42
 
 The National Digital Health Mission (NDHM) was launched in:
 
@@ -1499,12 +1686,12 @@ The National Digital Health Mission (NDHM) was launched in:
 
 ---
 
-## Self-Check: Question 40 {background-color="#FDE8E8"}
+## Self-Check: Question 43 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 40
+### Question 43
 
 The Aarogya Setu app is concerned with:
 
@@ -1516,12 +1703,12 @@ The Aarogya Setu app is concerned with:
 
 ---
 
-## Self-Check: Question 41 {background-color="#FDE8E8"}
+## Self-Check: Question 44 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 41
+### Question 44
 
 The national helpline number launched around Republic Day 2021 is:
 
@@ -1533,12 +1720,12 @@ The national helpline number launched around Republic Day 2021 is:
 
 ---
 
-## Self-Check: Question 42 {background-color="#FDE8E8"}
+## Self-Check: Question 45 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 42
+### Question 45
 
 Which of the following functions will NOT be possible through the NDHM (now ABDM)?
 
@@ -1546,6 +1733,40 @@ Which of the following functions will NOT be possible through the NDHM (now ABDM
 - [Predicting a person’s risk of suffering from diseases]{.correct data-explanation="ABDM provides ABHA health IDs, linked health records, and registries of facilities and professionals, with anonymized data for research. Individual disease-risk prediction is not one of its functions."}
 - Undertaking health research
 - Obtaining a database of health-care facilities
+:::
+
+---
+
+## Self-Check: Question 46 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 46
+
+Regularly checking the monthly immunization coverage and vaccine stock of a PHC against targets is an example of:
+
+- Surveillance
+- [Monitoring]{.correct data-explanation="Monitoring tracks programme inputs, processes and outputs. Surveillance tracks disease occurrence for action. Evaluation periodically judges achievement of objectives."}
+- Evaluation
+- Screening
+:::
+
+---
+
+## Self-Check: Question 47 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 47
+
+Under the International Health Regulations (2005), a country must notify WHO of an event that may constitute a PHEIC within:
+
+- [24 hours]{.correct data-explanation="The National IHR Focal Point (NCDC in India) must notify WHO within 24 hours of assessment. Smallpox, wild poliovirus, a new human influenza subtype and SARS are always notifiable."}
+- 72 hours
+- 7 days
+- 1 month
 :::
 
 ---
@@ -1636,12 +1857,12 @@ infectious stage.
 
 ---
 
-## Self-Check: Question 43 {background-color="#FDE8E8"}
+## Self-Check: Question 48 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 43
+### Question 48
 
 Smallpox eradication (1980) is the only successful human disease eradication to date. Which factor was essential to its success?
 

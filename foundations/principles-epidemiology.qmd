@@ -552,6 +552,24 @@ Detailed fertility and MCH indicators are taught under CM10.
 
 ---
 
+## Life Table and Survival Curve {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+**Life table:** follows a cohort of 1,00,000 births through age-specific death rates. Columns include **qx** (probability of dying), **lx** (survivors), **dx** (deaths) and **ex** (expectation of life). **Current (period)** life tables use one year's rates. **Cohort** tables follow a real birth cohort.
+
+**Uses:** life expectancy at each age, insurance and planning, and survival after diagnosis or treatment (clinical life tables).
+
+---
+
+## Reading a Survival Curve {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+![Schematic survival curve with 5-year survival and median survival](../images/epidemiology/survival_curve.svg){.slide-img .nostretch width="920px"}
+
+---
+
 ## Worked Example: Mortality Measures {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -632,6 +650,15 @@ A district (mid-year population **2,00,000**) recorded **1,400 deaths** last yea
 5. Crude death rate.
 6. Case fatality rate.
 7. Survival rate.
+
+---
+
+## Practice Questions: Descriptive (Lecture 2, contd.) {background-color="#FFF6DA"}
+
+**Short Notes (additional)**
+
+8. Life table.
+9. Survival curve and median survival.
 
 ---
 
@@ -752,6 +779,40 @@ Measures of mortality commonly used in public health include:
 - Both A and R are true, but R is NOT the correct explanation of A
 - [A is true, R is false]{.correct data-explanation="A is true: CFR reflects the killing power of a disease. R is false: CFR is deaths among cases of a specific disease. Total deaths in the population irrespective of cause is the crude death rate."}
 - A is false, R is true
+:::
+
+---
+
+## Self-Check: Question 22 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 22
+
+In a life table, the column “lx” represents the:
+
+- Probability of dying between ages x and x+1
+- [Number of survivors at exact age x out of the starting cohort]{.correct data-explanation="lx is the number still alive at exact age x, usually out of a radix of 1,00,000 births. qx is the probability of dying, dx the deaths, and ex the expectation of life."}
+- Number of deaths between ages x and x+1
+- Expectation of life at age x
+:::
+
+---
+
+## Self-Check: Question 23 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 23
+
+On a survival curve, the time at which the proportion surviving falls to 50% is the:
+
+- 5-year survival rate
+- [Median survival time]{.correct data-explanation="The median survival time is when half the patients have died. The 5-year survival rate is the proportion alive at 5 years."}
+- Case fatality rate
+- Life expectancy at birth
 :::
 
 ---
@@ -925,12 +986,12 @@ Use this figure for the TB questions in the Self-Check below.
 
 ---
 
-## Self-Check: Question 22 {background-color="#FDE8E8"}
+## Self-Check: Question 24 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 22
+### Question 24
 
 Which measure best reflects the risk of developing disease over a specified period among initially disease-free individuals?
 
@@ -942,12 +1003,12 @@ Which measure best reflects the risk of developing disease over a specified peri
 
 ---
 
-## Self-Check: Question 23 {background-color="#FDE8E8"}
+## Self-Check: Question 25 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 23
+### Question 25
 
 A district surveillance officer wants to compare the current burden of diabetes between two urban wards to plan clinic services. The most appropriate measure is:
 
@@ -959,12 +1020,12 @@ A district surveillance officer wants to compare the current burden of diabetes 
 
 ---
 
-## Self-Check: Question 24 {background-color="#FDE8E8"}
+## Self-Check: Question 26 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 24
+### Question 26
 
 A disease has high incidence but short duration because of rapid recovery. In such a situation, prevalence is likely to be:
 
@@ -976,12 +1037,12 @@ A disease has high incidence but short duration because of rapid recovery. In su
 
 ---
 
-## Self-Check: Question 25 {background-color="#FDE8E8"}
+## Self-Check: Question 27 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 25
+### Question 27
 
 A disease with a long duration but low incidence will typically show:
 
@@ -993,12 +1054,12 @@ A disease with a long duration but low incidence will typically show:
 
 ---
 
-## Self-Check: Question 26 {background-color="#FDE8E8"}
+## Self-Check: Question 28 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 26
+### Question 28
 
 Under stable conditions, the relationship between incidence (I), prevalence (P) and duration (D) is:
 
@@ -1010,12 +1071,12 @@ Under stable conditions, the relationship between incidence (I), prevalence (P) 
 
 ---
 
-## Self-Check: Question 27 {background-color="#FDE8E8"}
+## Self-Check: Question 29 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 27
+### Question 29
 
 The proportion of persons found to have the disease condition of interest out of those examined gives the:
 
@@ -1027,12 +1088,12 @@ The proportion of persons found to have the disease condition of interest out of
 
 ---
 
-## Self-Check: Question 28 {background-color="#FDE8E8"}
+## Self-Check: Question 30 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 28
+### Question 30
 
 Identify the correct statement:
 
@@ -1044,12 +1105,12 @@ Identify the correct statement:
 
 ---
 
-## Self-Check: Question 29 {background-color="#FDE8E8"}
+## Self-Check: Question 31 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 29
+### Question 31
 
 In which of the following frequency measures is the denominator “person-time”?
 
@@ -1061,12 +1122,12 @@ In which of the following frequency measures is the denominator “person-time�
 
 ---
 
-## Self-Check: Question 30 {background-color="#FDE8E8"}
+## Self-Check: Question 32 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 30
+### Question 32
 
 In which of the following disease frequency measures can the numerator be greater than the denominator?
 
@@ -1078,12 +1139,12 @@ In which of the following disease frequency measures can the numerator be greate
 
 ---
 
-## Self-Check: Question 31 {background-color="#FDE8E8"}
+## Self-Check: Question 33 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 31
+### Question 33
 
 Which of the following measures is NOT recommended for scientific statistical analysis of epidemiological data?
 
@@ -1095,12 +1156,12 @@ Which of the following measures is NOT recommended for scientific statistical an
 
 ---
 
-## Self-Check: Question 32 {background-color="#FDE8E8"}
+## Self-Check: Question 34 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 32
+### Question 34
 
 In a survey of tobacco smoking among adult males, 190 of the 950 persons surveyed were smokers. The correct frequency measure and its value are:
 
@@ -1112,12 +1173,12 @@ In a survey of tobacco smoking among adult males, 190 of the 950 persons surveye
 
 ---
 
-## Self-Check: Question 33 {background-color="#FDE8E8"}
+## Self-Check: Question 35 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 33
+### Question 35
 
 BP assessment of 1000 male university students in January 2016 found 50 hypertensive. What is the prevalence of hypertension in January 2016?
 
@@ -1129,12 +1190,12 @@ BP assessment of 1000 male university students in January 2016 found 50 hyperten
 
 ---
 
-## Self-Check: Question 34 {background-color="#FDE8E8"}
+## Self-Check: Question 36 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 34
+### Question 36
 
 In the same students, the remaining 950 normotensives were followed for 3 years, and 19 developed hypertension by January 2019. What is the incidence of hypertension?
 
@@ -1146,12 +1207,12 @@ In the same students, the remaining 950 normotensives were followed for 3 years,
 
 ---
 
-## Self-Check: Question 35 {background-color="#FDE8E8"}
+## Self-Check: Question 37 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 35
+### Question 37
 
 Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the prevalence of TB in January 2000?
 
@@ -1164,12 +1225,12 @@ Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 200
 
 ---
 
-## Self-Check: Question 36 {background-color="#FDE8E8"}
+## Self-Check: Question 38 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 36
+### Question 38
 
 Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the prevalence of TB in January 2002?
 
@@ -1182,12 +1243,12 @@ Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 200
 
 ---
 
-## Self-Check: Question 37 {background-color="#FDE8E8"}
+## Self-Check: Question 39 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 37
+### Question 39
 
 Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the 3-year incidence of TB for 1 Jan 2000 to 1 Jan 2003?
 
@@ -1200,12 +1261,12 @@ Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 200
 
 ---
 
-## Self-Check: Question 38 {background-color="#FDE8E8"}
+## Self-Check: Question 40 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 38
+### Question 40
 
 Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the incidence of TB for the year 2002?
 
@@ -1218,12 +1279,12 @@ Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 200
 
 ---
 
-## Self-Check: Question 39 {background-color="#FDE8E8"}
+## Self-Check: Question 41 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 39
+### Question 41
 
 Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 2003). What is the period prevalence for January 2000 to January 2002?
 
@@ -1235,12 +1296,12 @@ Refer to the TB timeline figure (100 HIV-positive subjects, Jan 2000 – Jan 200
 
 ---
 
-## Self-Check: Question 40 {background-color="#FDE8E8"}
+## Self-Check: Question 42 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 40
+### Question 42
 
 **Assertion (A):** Prevalence is useful for planning health services.
 
@@ -1369,6 +1430,18 @@ District A has a crude death rate of **12 per 1,000**, District B **7 per 1,000*
 
 ---
 
+## Record Linkage and the Health Information System {background-color="#FFF6DA"}
+
+🟡 **SHOULD KNOW**
+
+- **Record linkage**: bringing together the separately recorded health events of **one person** (birth, illnesses, hospital admissions, death) into a single file. It is the basis of disease registries and longitudinal studies, and needs a unique ID (e.g. the ABHA health ID).
+- **Health information system (HIS)**: a mechanism to collect, process, analyse and transmit the information needed to plan, run and evaluate health services. In India it includes **HMIS** (facility reporting), RCH portal, Ni-kshay, IHIP and CRS.
+- **Requirements of good data:** population-based, complete, timely, comparable, confidential.
+
+More detail: [Health Information and Basic Medical Statistics](../global/health-information.qmd).
+
+---
+
 ## MCCD and Verbal Autopsy {background-color="#E3F2E1"}
 
 🟢 **MUST KNOW**
@@ -1440,14 +1513,19 @@ A 54-year-old man with **type 2 diabetes** developed an **acute STEMI** on 22 Ma
 
 7. Health intelligence.
 
+**Short Notes (additional)**
+
+8. Record linkage.
+9. Health information system: components and requirements.
+
 ---
 
-## Self-Check: Question 41 {background-color="#FDE8E8"}
+## Self-Check: Question 43 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 41
+### Question 43
 
 A health planner wants to compare mortality rates between two populations with different age structures. The most appropriate method is to use the:
 
@@ -1459,12 +1537,12 @@ A health planner wants to compare mortality rates between two populations with d
 
 ---
 
-## Self-Check: Question 42 {background-color="#FDE8E8"}
+## Self-Check: Question 44 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 42
+### Question 44
 
 The most appropriate public health use of a Medical Certificate of Cause of Death (MCCD) is:
 
@@ -1476,12 +1554,12 @@ The most appropriate public health use of a Medical Certificate of Cause of Deat
 
 ---
 
-## Self-Check: Question 43 {background-color="#FDE8E8"}
+## Self-Check: Question 45 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 43
+### Question 45
 
 In verbal autopsy, the primary source of information is:
 
@@ -1493,12 +1571,12 @@ In verbal autopsy, the primary source of information is:
 
 ---
 
-## Self-Check: Question 44 {background-color="#FDE8E8"}
+## Self-Check: Question 46 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 44
+### Question 46
 
 **Assertion (A):** A properly completed MCCD improves the quality of mortality data.
 
@@ -1512,12 +1590,12 @@ In verbal autopsy, the primary source of information is:
 
 ---
 
-## Self-Check: Question 45 {background-color="#FDE8E8"}
+## Self-Check: Question 47 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 45
+### Question 47
 
 A national tuberculosis survey used trained investigators to collect data from randomly selected households to measure the magnitude of TB and identify high-risk groups. This is an example of:
 
@@ -1529,12 +1607,12 @@ A national tuberculosis survey used trained investigators to collect data from r
 
 ---
 
-## Self-Check: Question 46 {background-color="#FDE8E8"}
+## Self-Check: Question 48 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 46
+### Question 48
 
 What advantage do death certificates have, in our country, as a source of epidemiological information?
 
@@ -1546,12 +1624,12 @@ What advantage do death certificates have, in our country, as a source of epidem
 
 ---
 
-## Self-Check: Question 47 {background-color="#FDE8E8"}
+## Self-Check: Question 49 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 47
+### Question 49
 
 The reference (referral) date for the Indian Census 2001 was:
 
@@ -1563,12 +1641,12 @@ The reference (referral) date for the Indian Census 2001 was:
 
 ---
 
-## Self-Check: Question 48 {background-color="#FDE8E8"}
+## Self-Check: Question 50 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 48
+### Question 50
 
 The “census point” is taken as the midnight between:
 
@@ -1580,12 +1658,12 @@ The “census point” is taken as the midnight between:
 
 ---
 
-## Self-Check: Question 49 {background-color="#FDE8E8"}
+## Self-Check: Question 51 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 49
+### Question 51
 
 The sex ratio in India is described as:
 
@@ -1597,12 +1675,12 @@ The sex ratio in India is described as:
 
 ---
 
-## Self-Check: Question 50 {background-color="#FDE8E8"}
+## Self-Check: Question 52 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 50
+### Question 52
 
 In India, the census is undertaken by which method?
 
@@ -1614,12 +1692,12 @@ In India, the census is undertaken by which method?
 
 ---
 
-## Self-Check: Question 51 {background-color="#FDE8E8"}
+## Self-Check: Question 53 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 51
+### Question 53
 
 The authority for overall administration and conduct of the census in India is the:
 
@@ -1631,12 +1709,12 @@ The authority for overall administration and conduct of the census in India is t
 
 ---
 
-## Self-Check: Question 52 {background-color="#FDE8E8"}
+## Self-Check: Question 54 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 52
+### Question 54
 
 Which of the following enumeration methods has legal backing through an Act passed by Parliament?
 
@@ -1648,12 +1726,12 @@ Which of the following enumeration methods has legal backing through an Act pass
 
 ---
 
-## Self-Check: Question 53 {background-color="#FDE8E8"}
+## Self-Check: Question 55 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 53
+### Question 55
 
 Which of the following is NOT a part of vital statistics?
 
@@ -1665,12 +1743,12 @@ Which of the following is NOT a part of vital statistics?
 
 ---
 
-## Self-Check: Question 54 {background-color="#FDE8E8"}
+## Self-Check: Question 56 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 54
+### Question 56
 
 The annual publication “National Health Profile – India” is published by:
 
@@ -1682,12 +1760,12 @@ The annual publication “National Health Profile – India” is published by:
 
 ---
 
-## Self-Check: Question 55 {background-color="#FDE8E8"}
+## Self-Check: Question 57 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 55
+### Question 57
 
 Which of the following is the latest in the series of National Family Health Surveys (NFHS)?
 
@@ -1699,12 +1777,12 @@ Which of the following is the latest in the series of National Family Health Sur
 
 ---
 
-## Self-Check: Question 56 {background-color="#FDE8E8"}
+## Self-Check: Question 58 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 56
+### Question 58
 
 The authority for overall administration and conduct of the Sample Registration System (SRS) in India is the:
 
@@ -1716,12 +1794,12 @@ The authority for overall administration and conduct of the Sample Registration 
 
 ---
 
-## Self-Check: Question 57 {background-color="#FDE8E8"}
+## Self-Check: Question 59 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 57
+### Question 59
 
 Once data have been summarized to obtain information, and then evaluated by experts from socioeconomic, demographic and health angles, they are known as:
 
@@ -1733,12 +1811,12 @@ Once data have been summarized to obtain information, and then evaluated by expe
 
 ---
 
-## Self-Check: Question 58 {background-color="#FDE8E8"}
+## Self-Check: Question 60 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 58
+### Question 60
 
 Which of the following enumeration methods has separate units for enumeration in rural and urban areas?
 
@@ -1750,12 +1828,12 @@ Which of the following enumeration methods has separate units for enumeration in
 
 ---
 
-## Self-Check: Question 59 {background-color="#FDE8E8"}
+## Self-Check: Question 61 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 59
+### Question 61
 
 The “double recording” (dual record) system of enumeration is used in which of the following?
 
@@ -1767,12 +1845,12 @@ The “double recording” (dual record) system of enumeration is used in which 
 
 ---
 
-## Self-Check: Question 60 {background-color="#FDE8E8"}
+## Self-Check: Question 62 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 60
+### Question 62
 
 The “Rapid Household Survey” and “Facilities Survey” are conducted under the overall responsibility of the:
 
@@ -1784,12 +1862,12 @@ The “Rapid Household Survey” and “Facilities Survey” are conducted under
 
 ---
 
-## Self-Check: Question 61 {background-color="#FDE8E8"}
+## Self-Check: Question 63 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 61
+### Question 63
 
 In 2016, results for 13 states and 2 union territories were released in respect of which survey?
 
@@ -1801,12 +1879,12 @@ In 2016, results for 13 states and 2 union territories were released in respect 
 
 ---
 
-## Self-Check: Question 62 {background-color="#FDE8E8"}
+## Self-Check: Question 64 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 62
+### Question 64
 
 Which of the following is a good method of obtaining data on morbidity due to a number of common and important diseases in our country?
 
@@ -1818,12 +1896,12 @@ Which of the following is a good method of obtaining data on morbidity due to a 
 
 ---
 
-## Self-Check: Question 63 {background-color="#FDE8E8"}
+## Self-Check: Question 65 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 63
+### Question 65
 
 Which source of information is best for developing a sentinel surveillance system for important diseases?
 
@@ -1831,6 +1909,23 @@ Which source of information is best for developing a sentinel surveillance syste
 - [Hospital-based data]{.correct data-explanation="Sentinel surveillance uses selected reporting sites, usually hospitals and laboratories, to pick up cases (e.g. AFP surveillance for polio, sentinel sites for HIV)."}
 - NFHS
 - Registration of births
+:::
+
+---
+
+## Self-Check: Question 66 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 66
+
+Bringing together the separately recorded health events of one person (birth, illnesses, hospital admissions, death) into a single file is called:
+
+- [Record linkage]{.correct data-explanation="Record linkage assembles one person&#x27;s health events across sources. It needs a unique identifier (e.g. the ABHA ID) and supports registries and longitudinal studies."}
+- Surveillance
+- Census
+- Verbal autopsy
 :::
 
 ---
@@ -2134,12 +2229,12 @@ A **2 × 2 table** needs a comparison group: analytical and experimental studies
 
 ---
 
-## Self-Check: Question 64 {background-color="#FDE8E8"}
+## Self-Check: Question 67 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 64
+### Question 67
 
 Which of the following is a “person” variable in descriptive epidemiology?
 
@@ -2151,12 +2246,12 @@ Which of the following is a “person” variable in descriptive epidemiology?
 
 ---
 
-## Self-Check: Question 65 {background-color="#FDE8E8"}
+## Self-Check: Question 68 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 65
+### Question 68
 
 “The incidence of malaria is very high among migrant labourers in Odisha, Jharkhand and Chhattisgarh.” This statement includes which component(s) of epidemiology?
 
@@ -2168,12 +2263,12 @@ Which of the following is a “person” variable in descriptive epidemiology?
 
 ---
 
-## Self-Check: Question 66 {background-color="#FDE8E8"}
+## Self-Check: Question 69 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 66
+### Question 69
 
 In the statement “55% of pregnant women in India are likely to have anaemia,” which component of epidemiology is NOT included?
 
@@ -2185,12 +2280,12 @@ In the statement “55% of pregnant women in India are likely to have anaemia,�
 
 ---
 
-## Self-Check: Question 67 {background-color="#FDE8E8"}
+## Self-Check: Question 70 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 67
+### Question 70
 
 In the statement “Tobacco smoking increases the risk of IHD by three times,” the epidemiological aspect covered pertains to:
 
@@ -2202,12 +2297,12 @@ In the statement “Tobacco smoking increases the risk of IHD by three times,”
 
 ---
 
-## Self-Check: Question 68 {background-color="#FDE8E8"}
+## Self-Check: Question 71 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 68
+### Question 71
 
 During an outbreak investigation, the number of new cases rises rapidly over a short period and then falls sharply after removal of a common source. This epidemic curve is most consistent with a:
 
@@ -2219,12 +2314,12 @@ During an outbreak investigation, the number of new cases rises rapidly over a s
 
 ---
 
-## Self-Check: Question 69 {background-color="#FDE8E8"}
+## Self-Check: Question 72 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 69
+### Question 72
 
 Descriptive studies perform which of the following functions?
 
@@ -2236,12 +2331,12 @@ Descriptive studies perform which of the following functions?
 
 ---
 
-## Self-Check: Question 70 {background-color="#FDE8E8"}
+## Self-Check: Question 73 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 70
+### Question 73
 
 A 2 × 2 table showing the four cells E+O+, E+O−, E−O+ and E−O− is seen in a:
 
@@ -2253,12 +2348,12 @@ A 2 × 2 table showing the four cells E+O+, E+O−, E−O+ and E−O− is seen 
 
 ---
 
-## Self-Check: Question 71 {background-color="#FDE8E8"}
+## Self-Check: Question 74 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 71
+### Question 74
 
 The 2 × 2 table of exposure (present/absent) against outcome (present/absent) will NOT be formed in a:
 
@@ -2270,12 +2365,12 @@ The 2 × 2 table of exposure (present/absent) against outcome (present/absent) w
 
 ---
 
-## Self-Check: Question 72 {background-color="#FDE8E8"}
+## Self-Check: Question 75 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 72
+### Question 75
 
 In a standard 2 × 2 table, cell “a” represents all those who are:
 
@@ -2287,12 +2382,12 @@ In a standard 2 × 2 table, cell “a” represents all those who are:
 
 ---
 
-## Self-Check: Question 73 {background-color="#FDE8E8"}
+## Self-Check: Question 76 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 73
+### Question 76
 
 Another name for an experimental study is:
 
@@ -2304,12 +2399,12 @@ Another name for an experimental study is:
 
 ---
 
-## Self-Check: Question 74 {background-color="#FDE8E8"}
+## Self-Check: Question 77 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 74
+### Question 77
 
 The main difference between an experimental and a cohort design is that:
 
@@ -2321,12 +2416,12 @@ The main difference between an experimental and a cohort design is that:
 
 ---
 
-## Self-Check: Question 75 {background-color="#FDE8E8"}
+## Self-Check: Question 78 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 75
+### Question 78
 
 A study on children with acute glomerulonephritis found that 20% gave a history of acute sore throat 3–4 weeks before onset of renal symptoms. This is an example of a:
 
@@ -2338,12 +2433,12 @@ A study on children with acute glomerulonephritis found that 20% gave a history 
 
 ---
 
-## Self-Check: Question 76 {background-color="#FDE8E8"}
+## Self-Check: Question 79 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 76
+### Question 79
 
 For establishing a cause-and-effect relationship, we need to undertake a:
 
@@ -2355,12 +2450,12 @@ For establishing a cause-and-effect relationship, we need to undertake a:
 
 ---
 
-## Self-Check: Question 77 {background-color="#FDE8E8"}
+## Self-Check: Question 80 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
 
 ::: {.quiz-question}
-### Question 77
+### Question 80
 
 Case-control and cohort studies belong to which type of epidemiological design?
 
@@ -2372,57 +2467,6 @@ Case-control and cohort studies belong to which type of epidemiological design?
 
 ---
 
-## Self-Check: Question 78 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 78
-
-In which study are the exposure and outcome variables studied at the same point of time?
-
-- Case-control study
-- [Cross-sectional analytical study]{.correct data-explanation="A cross-sectional study takes a snapshot, measuring exposure and outcome together. This is why it cannot establish temporality."}
-- Cohort study
-- Experimental study
-:::
-
----
-
-## Self-Check: Question 79 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 79
-
-In a retrospective study, we find the history of:
-
-- [Exposure among those having or not having the outcome]{.correct data-explanation="A retrospective (case-control) study starts from outcome status and looks back for past exposure."}
-- Outcome among those having or not having the exposure
-- Both exposure and outcome at the same time
-- None of these
-:::
-
----
-
-## Self-Check: Question 80 {background-color="#FDE8E8"}
-
-🧡 **QUESTION**
-
-::: {.quiz-question}
-### Question 80
-
-When the investigator creates two groups by randomization and introduces the exposure in one group while withholding it from the other, it is known as a:
-
-- Descriptive study
-- Case-control study
-- Cohort study
-- [Experimental study]{.correct data-explanation="Random allocation plus deliberate manipulation of exposure defines an experimental study, i.e. a randomized controlled trial."}
-:::
-
----
-
 ## Self-Check: Question 81 {background-color="#FDE8E8"}
 
 🧡 **QUESTION**
@@ -2430,10 +2474,10 @@ When the investigator creates two groups by randomization and introduces the exp
 ::: {.quiz-question}
 ### Question 81
 
-To study the incidence of malaria according to various age and sex groups in a village, we need to undertake a:
+In which study are the exposure and outcome variables studied at the same point of time?
 
-- [Descriptive study]{.correct data-explanation="Describing frequency by person characteristics (age, sex) in one place is descriptive epidemiology."}
 - Case-control study
+- [Cross-sectional analytical study]{.correct data-explanation="A cross-sectional study takes a snapshot, measuring exposure and outcome together. This is why it cannot establish temporality."}
 - Cohort study
 - Experimental study
 :::
@@ -2447,11 +2491,11 @@ To study the incidence of malaria according to various age and sex groups in a v
 ::: {.quiz-question}
 ### Question 82
 
-“Comparison between two groups” is the hallmark of a(n):
+In a retrospective study, we find the history of:
 
-- Descriptive study
-- [Analytical study]{.correct data-explanation="Analytical studies compare exposed vs unexposed, or cases vs controls. Descriptive studies only describe."}
-- Both of these
+- [Exposure among those having or not having the outcome]{.correct data-explanation="A retrospective (case-control) study starts from outcome status and looks back for past exposure."}
+- Outcome among those having or not having the exposure
+- Both exposure and outcome at the same time
 - None of these
 :::
 
@@ -2459,17 +2503,17 @@ To study the incidence of malaria according to various age and sex groups in a v
 
 ## Self-Check: Question 83 {background-color="#FDE8E8"}
 
-🧡 **QUESTION (select ALL that apply)**
+🧡 **QUESTION**
 
-::: {.quiz-question .quiz-multiple}
+::: {.quiz-question}
 ### Question 83
 
-Typical epidemiological study designs include:
+When the investigator creates two groups by randomization and introduces the exposure in one group while withholding it from the other, it is known as a:
 
-- [Cohort study]{.correct data-explanation="Cohort, cross-sectional and case-control are standard designs. A case report is descriptive, not analytical, and has no comparison group."}
-- Clinical case report as an analytical design
-- [Cross-sectional study]{.correct}
-- [Case-control study]{.correct}
+- Descriptive study
+- Case-control study
+- Cohort study
+- [Experimental study]{.correct data-explanation="Random allocation plus deliberate manipulation of exposure defines an experimental study, i.e. a randomized controlled trial."}
 :::
 
 ---
@@ -2481,12 +2525,12 @@ Typical epidemiological study designs include:
 ::: {.quiz-question}
 ### Question 84
 
-A country-level comparison of average salt intake against average blood pressure across nations, without individual-level data, is an example of:
+To study the incidence of malaria according to various age and sex groups in a village, we need to undertake a:
 
-- A cohort study
-- A case-control study
-- [An ecological study]{.correct data-explanation="Comparing exposure and outcome across groups or populations rather than individuals defines an ecological study. It is vulnerable to the ecological fallacy."}
-- A randomized controlled trial
+- [Descriptive study]{.correct data-explanation="Describing frequency by person characteristics (age, sex) in one place is descriptive epidemiology."}
+- Case-control study
+- Cohort study
+- Experimental study
 :::
 
 ---
@@ -2498,29 +2542,29 @@ A country-level comparison of average salt intake against average blood pressure
 ::: {.quiz-question}
 ### Question 85
 
-A study that actively assigns an intervention to participants, rather than only observing existing exposure, is classified as:
+“Comparison between two groups” is the hallmark of a(n):
 
-- Descriptive
-- Analytical (observational)
-- [Experimental]{.correct data-explanation="Experimental studies are defined by the investigator actively assigning the exposure or intervention."}
-- Ecological
+- Descriptive study
+- [Analytical study]{.correct data-explanation="Analytical studies compare exposed vs unexposed, or cases vs controls. Descriptive studies only describe."}
+- Both of these
+- None of these
 :::
 
 ---
 
 ## Self-Check: Question 86 {background-color="#FDE8E8"}
 
-🧡 **QUESTION**
+🧡 **QUESTION (select ALL that apply)**
 
-::: {.quiz-question}
+::: {.quiz-question .quiz-multiple}
 ### Question 86
 
-A quality, characteristic or constituent of a subject that can be measured and is likely to differ from one person to another is called a:
+Typical epidemiological study designs include:
 
-- Case definition
-- [Variable]{.correct data-explanation="A variable is any characteristic that varies between subjects, such as age, sex or blood pressure."}
-- Both of these
-- None of these
+- [Cohort study]{.correct data-explanation="Cohort, cross-sectional and case-control are standard designs. A case report is descriptive, not analytical, and has no comparison group."}
+- Clinical case report as an analytical design
+- [Cross-sectional study]{.correct}
+- [Case-control study]{.correct}
 :::
 
 ---
@@ -2532,12 +2576,12 @@ A quality, characteristic or constituent of a subject that can be measured and i
 ::: {.quiz-question}
 ### Question 87
 
-Which of the following is a “variable” from the epidemiological and statistical points of view?
+A country-level comparison of average salt intake against average blood pressure across nations, without individual-level data, is an example of:
 
-- Age
-- Sex
-- Blood pressure
-- [All of these]{.correct data-explanation="All three vary between persons. Age and BP are quantitative variables, and sex is a qualitative (nominal) variable."}
+- A cohort study
+- A case-control study
+- [An ecological study]{.correct data-explanation="Comparing exposure and outcome across groups or populations rather than individuals defines an ecological study. It is vulnerable to the ecological fallacy."}
+- A randomized controlled trial
 :::
 
 ---
@@ -2549,12 +2593,12 @@ Which of the following is a “variable” from the epidemiological and statisti
 ::: {.quiz-question}
 ### Question 88
 
-A “numerical discrete scale” belongs to which class of measurement scales?
+A study that actively assigns an intervention to participants, rather than only observing existing exposure, is classified as:
 
-- Qualitative
-- [Quantitative]{.correct data-explanation="Numerical scales, whether discrete (counts, e.g. parity) or continuous (e.g. Hb), are quantitative."}
-- Both of these
-- None of these
+- Descriptive
+- Analytical (observational)
+- [Experimental]{.correct data-explanation="Experimental studies are defined by the investigator actively assigning the exposure or intervention."}
+- Ecological
 :::
 
 ---
@@ -2566,12 +2610,12 @@ A “numerical discrete scale” belongs to which class of measurement scales?
 ::: {.quiz-question}
 ### Question 89
 
-Match each method of recording data with its scale of measurement. **A** satisfaction scored −2 to +2; **B** gravida status; **C** survived/died at 5 years; **D** angiogram: no/mild/moderate/severe blockage; **E** actual coronary diameter; **F** diagnosis: lung / heart / other disease. Scales: (i) dichotomous–nominal (ii) numerical–continuous (iii) polychotomous–ordinal (iv) numerical–ordinal (v) discrete–numerical (vi) nominal–polychotomous.
+A quality, characteristic or constituent of a subject that can be measured and is likely to differ from one person to another is called a:
 
-- [A-iv, B-v, C-i, D-iii, E-ii, F-vi]{.correct data-explanation="Scored satisfaction −2 to +2 is numerical–ordinal. Gravida is a discrete count. Survived/died is dichotomous. Graded blockage is ordered categories (polychotomous–ordinal). Diameter is continuous. Lung/heart/other are unordered categories (nominal–polychotomous)."}
-- A-iii, B-v, C-i, D-iv, E-ii, F-vi
-- A-iv, B-ii, C-vi, D-iii, E-v, F-i
-- A-v, B-iv, C-i, D-iii, E-ii, F-vi
+- Case definition
+- [Variable]{.correct data-explanation="A variable is any characteristic that varies between subjects, such as age, sex or blood pressure."}
+- Both of these
+- None of these
 :::
 
 ---
@@ -2583,12 +2627,12 @@ Match each method of recording data with its scale of measurement. **A** satisfa
 ::: {.quiz-question}
 ### Question 90
 
-A study set out to find what percentage of visitors of commercial sex workers in Mumbai use condoms, but interviewed only truck drivers eating at one roadside restaurant outside Mumbai. Condom use was 25%. This conclusion is likely to suffer from:
+Which of the following is a “variable” from the epidemiological and statistical points of view?
 
-- Lack of ethics
-- [Lack of external validity]{.correct data-explanation="The reference population was all CSW visitors in Mumbai, but the study population was truck drivers at one restaurant. The findings cannot be generalized, so external validity is lacking."}
-- None of the previous two
-- The study was not required at all
+- Age
+- Sex
+- Blood pressure
+- [All of these]{.correct data-explanation="All three vary between persons. Age and BP are quantitative variables, and sex is a qualitative (nominal) variable."}
 :::
 
 ---
@@ -2600,11 +2644,11 @@ A study set out to find what percentage of visitors of commercial sex workers in
 ::: {.quiz-question}
 ### Question 91
 
-Which of the following correctly lists the synonyms of “reference population”?
+A “numerical discrete scale” belongs to which class of measurement scales?
 
-- [Target population, source population, or universe]{.correct data-explanation="Reference population = target population = source population = universe. The study (actual) population is the subset from which the sample is actually drawn."}
-- Target population, study population, or universe
-- Target population, source population, or external population
+- Qualitative
+- [Quantitative]{.correct data-explanation="Numerical scales, whether discrete (counts, e.g. parity) or continuous (e.g. Hb), are quantitative."}
+- Both of these
 - None of these
 :::
 
@@ -2617,12 +2661,12 @@ Which of the following correctly lists the synonyms of “reference population�
 ::: {.quiz-question}
 ### Question 92
 
-The requirements of a sample are that it should be:
+Match each method of recording data with its scale of measurement. **A** satisfaction scored −2 to +2; **B** gravida status; **C** survived/died at 5 years; **D** angiogram: no/mild/moderate/severe blockage; **E** actual coronary diameter; **F** diagnosis: lung / heart / other disease. Scales: (i) dichotomous–nominal (ii) numerical–continuous (iii) polychotomous–ordinal (iv) numerical–ordinal (v) discrete–numerical (vi) nominal–polychotomous.
 
-- Adequately large
-- Representative
-- [Both of these]{.correct data-explanation="A sample must be large enough for precision and representative of the study population for validity."}
-- None of these
+- [A-iv, B-v, C-i, D-iii, E-ii, F-vi]{.correct data-explanation="Scored satisfaction −2 to +2 is numerical–ordinal. Gravida is a discrete count. Survived/died is dichotomous. Graded blockage is ordered categories (polychotomous–ordinal). Diameter is continuous. Lung/heart/other are unordered categories (nominal–polychotomous)."}
+- A-iii, B-v, C-i, D-iv, E-ii, F-vi
+- A-iv, B-ii, C-vi, D-iii, E-v, F-i
+- A-v, B-iv, C-i, D-iii, E-ii, F-vi
 :::
 
 ---
@@ -2634,12 +2678,12 @@ The requirements of a sample are that it should be:
 ::: {.quiz-question}
 ### Question 93
 
-An organized collection of the values of the various variables to be used for further analysis in an epidemiological study is known as a:
+A study set out to find what percentage of visitors of commercial sex workers in Mumbai use condoms, but interviewed only truck drivers eating at one roadside restaurant outside Mumbai. Condom use was 25%. This conclusion is likely to suffer from:
 
-- [Data set]{.correct data-explanation="A data set is the organized collection of recorded variable values (e.g. a spreadsheet of subjects × variables)."}
-- Sample
-- Statistic
-- Population
+- Lack of ethics
+- [Lack of external validity]{.correct data-explanation="The reference population was all CSW visitors in Mumbai, but the study population was truck drivers at one restaurant. The findings cannot be generalized, so external validity is lacking."}
+- None of the previous two
+- The study was not required at all
 :::
 
 ---
@@ -2651,12 +2695,12 @@ An organized collection of the values of the various variables to be used for fu
 ::: {.quiz-question}
 ### Question 94
 
-In which of the following is the sample studied the same as the total population?
+Which of the following correctly lists the synonyms of “reference population”?
 
-- National Family Health Survey
-- Sample Registration System
-- [Census]{.correct data-explanation="A census is a complete enumeration of the whole population. NFHS, SRS and MRS are sample-based."}
-- Model Registration Scheme
+- [Target population, source population, or universe]{.correct data-explanation="Reference population = target population = source population = universe. The study (actual) population is the subset from which the sample is actually drawn."}
+- Target population, study population, or universe
+- Target population, source population, or external population
+- None of these
 :::
 
 ---
@@ -2668,12 +2712,12 @@ In which of the following is the sample studied the same as the total population
 ::: {.quiz-question}
 ### Question 95
 
-If the case definition for dengue is “any person with fever for 1 day,” this definition is:
+The requirements of a sample are that it should be:
 
-- [Very sensitive but not specific]{.correct data-explanation="Such a broad definition will capture almost every dengue case (high sensitivity) but also many non-dengue fevers (poor specificity)."}
-- Very specific but not sensitive
-- Both very sensitive and very specific
-- Neither sensitive nor specific
+- Adequately large
+- Representative
+- [Both of these]{.correct data-explanation="A sample must be large enough for precision and representative of the study population for validity."}
+- None of these
 :::
 
 ---
@@ -2685,12 +2729,12 @@ If the case definition for dengue is “any person with fever for 1 day,” this
 ::: {.quiz-question}
 ### Question 96
 
-Fever rising in a step-ladder pattern, with initial constipation followed by pea-soup stools and TLC below 6000/mm³, falls into which category of case definition for enteric fever?
+An organized collection of the values of the various variables to be used for further analysis in an epidemiological study is known as a:
 
-- Suspected case
-- [Probable case]{.correct data-explanation="A compatible clinical picture plus supportive non-specific laboratory findings (leucopenia) makes a probable case. Confirmation needs isolation of S. Typhi or Paratyphi (blood culture)."}
-- Confirmed case
-- None of these
+- [Data set]{.correct data-explanation="A data set is the organized collection of recorded variable values (e.g. a spreadsheet of subjects × variables)."}
+- Sample
+- Statistic
+- Population
 :::
 
 ---
@@ -2702,12 +2746,12 @@ Fever rising in a step-ladder pattern, with initial constipation followed by pea
 ::: {.quiz-question}
 ### Question 97
 
-Which of the following is NOT a characteristic of descriptive studies?
+In which of the following is the sample studied the same as the total population?
 
-- Only one group is studied
-- No comparison between groups is made
-- Disease is studied according to person, place and time
-- [A hypothesis regarding a cause–effect relationship is tested]{.correct data-explanation="Descriptive studies describe one group by time, place and person and generate hypotheses. Testing hypotheses needs a comparison group, which is an analytical study."}
+- National Family Health Survey
+- Sample Registration System
+- [Census]{.correct data-explanation="A census is a complete enumeration of the whole population. NFHS, SRS and MRS are sample-based."}
+- Model Registration Scheme
 :::
 
 ---
@@ -2719,12 +2763,12 @@ Which of the following is NOT a characteristic of descriptive studies?
 ::: {.quiz-question}
 ### Question 98
 
-State-level data analysed at the central Ministry of Health showed that states with high condom sales also had high death rates from road traffic accidents, and states with low sales had low RTA death rates. The design of this study was:
+If the case definition for dengue is “any person with fever for 1 day,” this definition is:
 
-- Longitudinal descriptive
-- Cross-sectional descriptive
-- [Ecological]{.correct data-explanation="Both exposure (condom sales) and outcome (RTA deaths) are aggregate data for whole states, not for individuals. That makes it an ecological (correlational) study."}
-- None of these
+- [Very sensitive but not specific]{.correct data-explanation="Such a broad definition will capture almost every dengue case (high sensitivity) but also many non-dengue fevers (poor specificity)."}
+- Very specific but not sensitive
+- Both very sensitive and very specific
+- Neither sensitive nor specific
 :::
 
 ---
@@ -2736,12 +2780,12 @@ State-level data analysed at the central Ministry of Health showed that states w
 ::: {.quiz-question}
 ### Question 99
 
-In the condom-sales and RTA-deaths study above, the most likely explanation of the finding is:
+Fever rising in a step-ladder pattern, with initial constipation followed by pea-soup stools and TLC below 6000/mm³, falls into which category of case definition for enteric fever?
 
-- Condom use causes road traffic accidents
-- [Ecological fallacy: group-level data cannot show that the individuals who bought condoms were the ones who died in RTAs]{.correct data-explanation="With aggregate data only, a group-level correlation may not hold for individuals. The buyers of condoms may not be the people who died, and a third factor (e.g. urbanization, vehicle density) may drive both. No conclusion can be drawn without individual data."}
-- Recall bias
-- Berkson’s bias
+- Suspected case
+- [Probable case]{.correct data-explanation="A compatible clinical picture plus supportive non-specific laboratory findings (leucopenia) makes a probable case. Confirmation needs isolation of S. Typhi or Paratyphi (blood culture)."}
+- Confirmed case
+- None of these
 :::
 
 ---
@@ -2753,12 +2797,12 @@ In the condom-sales and RTA-deaths study above, the most likely explanation of t
 ::: {.quiz-question}
 ### Question 100
 
-A cross-sectional descriptive study will give us the:
+Which of the following is NOT a characteristic of descriptive studies?
 
-- Incidence rate
-- [Prevalence]{.correct data-explanation="A one-time snapshot counts existing cases, so it gives prevalence. Incidence needs follow-up, and RR or OR need comparison groups."}
-- Relative risk
-- Odds ratio
+- Only one group is studied
+- No comparison between groups is made
+- Disease is studied according to person, place and time
+- [A hypothesis regarding a cause–effect relationship is tested]{.correct data-explanation="Descriptive studies describe one group by time, place and person and generate hypotheses. Testing hypotheses needs a comparison group, which is an analytical study."}
 :::
 
 ---
@@ -2770,12 +2814,12 @@ A cross-sectional descriptive study will give us the:
 ::: {.quiz-question}
 ### Question 101
 
-Which of the following is NOT a use of descriptive studies?
+State-level data analysed at the central Ministry of Health showed that states with high condom sales also had high death rates from road traffic accidents, and states with low sales had low RTA death rates. The design of this study was:
 
-- It helps in developing a hypothesis
-- [It tells us about the efficacy of a new drug]{.correct data-explanation="Drug efficacy needs a comparison of treated and control groups, ideally in an RCT. Descriptive studies generate hypotheses, support community diagnosis and describe natural history."}
-- It helps in making a community diagnosis
-- It helps in studying the natural history of a disease
+- Longitudinal descriptive
+- Cross-sectional descriptive
+- [Ecological]{.correct data-explanation="Both exposure (condom sales) and outcome (RTA deaths) are aggregate data for whole states, not for individuals. That makes it an ecological (correlational) study."}
+- None of these
 :::
 
 ---
@@ -2787,12 +2831,12 @@ Which of the following is NOT a use of descriptive studies?
 ::: {.quiz-question}
 ### Question 102
 
-Which of the following is NOT an example of an “ethnic group”?
+In the condom-sales and RTA-deaths study above, the most likely explanation of the finding is:
 
-- Africans
-- Indians
-- [Doctors]{.correct data-explanation="Ethnic groups share ancestry, culture or religion. Doctors are an occupational group, which is a different person variable. (The textbook&#x27;s first option uses a dated term for people of African descent.)"}
-- Jews
+- Condom use causes road traffic accidents
+- [Ecological fallacy: group-level data cannot show that the individuals who bought condoms were the ones who died in RTAs]{.correct data-explanation="With aggregate data only, a group-level correlation may not hold for individuals. The buyers of condoms may not be the people who died, and a third factor (e.g. urbanization, vehicle density) may drive both. No conclusion can be drawn without individual data."}
+- Recall bias
+- Berkson’s bias
 :::
 
 ---
@@ -2804,12 +2848,12 @@ Which of the following is NOT an example of an “ethnic group”?
 ::: {.quiz-question}
 ### Question 103
 
-At a wedding party, the food was contaminated with Staphylococcus aureus toxin. The resulting epidemic curve would be of which type?
+A cross-sectional descriptive study will give us the:
 
-- [Common vehicle, single exposure]{.correct data-explanation="One meal is a single exposure to a common vehicle. All cases occur within one incubation period (1–6 hours for staphylococcal toxin), with a sharp rise and fall."}
-- Common vehicle, continued exposure
-- Propagated curve
-- Secular trend
+- Incidence rate
+- [Prevalence]{.correct data-explanation="A one-time snapshot counts existing cases, so it gives prevalence. Incidence needs follow-up, and RR or OR need comparison groups."}
+- Relative risk
+- Odds ratio
 :::
 
 ---
@@ -2821,12 +2865,12 @@ At a wedding party, the food was contaminated with Staphylococcus aureus toxin. 
 ::: {.quiz-question}
 ### Question 104
 
-Which of the following does NOT show seasonal fluctuation?
+Which of the following is NOT a use of descriptive studies?
 
-- Malaria
-- [HIV infection]{.correct data-explanation="Malaria (monsoon vectors), hay fever (pollen season) and meningococcal meningitis (dry season) are seasonal. HIV transmission has no seasonal pattern."}
-- Hay fever
-- Meningitis
+- It helps in developing a hypothesis
+- [It tells us about the efficacy of a new drug]{.correct data-explanation="Drug efficacy needs a comparison of treated and control groups, ideally in an RCT. Descriptive studies generate hypotheses, support community diagnosis and describe natural history."}
+- It helps in making a community diagnosis
+- It helps in studying the natural history of a disease
 :::
 
 ---
@@ -2838,12 +2882,12 @@ Which of the following does NOT show seasonal fluctuation?
 ::: {.quiz-question}
 ### Question 105
 
-IHD incidence is low in Japan and high in the USA. Japanese people who migrated to the USA had high rates of IHD after living there for 25 years. This indicates that IHD has a predominantly:
+Which of the following is NOT an example of an “ethnic group”?
 
-- Genetic background
-- [Environmental (lifestyle) background]{.correct data-explanation="The migrants&#x27; genes did not change, but their risk moved toward the host population&#x27;s. That points to environmental and lifestyle factors (diet, activity)."}
-- Both of these
-- None of these
+- Africans
+- Indians
+- [Doctors]{.correct data-explanation="Ethnic groups share ancestry, culture or religion. Doctors are an occupational group, which is a different person variable. (The textbook&#x27;s first option uses a dated term for people of African descent.)"}
+- Jews
 :::
 
 ---
@@ -2855,12 +2899,12 @@ IHD incidence is low in Japan and high in the USA. Japanese people who migrated 
 ::: {.quiz-question}
 ### Question 106
 
-In a study, 1000 persons infected with HIV but asymptomatic were followed up until death. This is an example of a:
+At a wedding party, the food was contaminated with Staphylococcus aureus toxin. The resulting epidemic curve would be of which type?
 
-- Cross-sectional descriptive study
-- [Longitudinal descriptive study]{.correct data-explanation="A single group is followed over time to describe the natural history, with no comparison group. That is a longitudinal descriptive study."}
-- Ecological study
-- Experimental study
+- [Common vehicle, single exposure]{.correct data-explanation="One meal is a single exposure to a common vehicle. All cases occur within one incubation period (1–6 hours for staphylococcal toxin), with a sharp rise and fall."}
+- Common vehicle, continued exposure
+- Propagated curve
+- Secular trend
 :::
 
 ---
@@ -2872,12 +2916,12 @@ In a study, 1000 persons infected with HIV but asymptomatic were followed up unt
 ::: {.quiz-question}
 ### Question 107
 
-A spot map is used to describe:
+Which of the following does NOT show seasonal fluctuation?
 
-- Distribution according to person-related variables
-- [Distribution according to place]{.correct data-explanation="A spot map plots cases by residence or workplace, which is place distribution (e.g. Snow&#x27;s cholera map)."}
-- Distribution according to time
-- None of these
+- Malaria
+- [HIV infection]{.correct data-explanation="Malaria (monsoon vectors), hay fever (pollen season) and meningococcal meningitis (dry season) are seasonal. HIV transmission has no seasonal pattern."}
+- Hay fever
+- Meningitis
 :::
 
 ---
@@ -2889,11 +2933,11 @@ A spot map is used to describe:
 ::: {.quiz-question}
 ### Question 108
 
-In our country, the incidence of IHD has shown a consistently rising trend every year since 1960. This is an example of:
+IHD incidence is low in Japan and high in the USA. Japanese people who migrated to the USA had high rates of IHD after living there for 25 years. This indicates that IHD has a predominantly:
 
-- Distribution according to person-related variables
-- Distribution according to place
-- [Distribution according to time]{.correct data-explanation="A long-term change over decades is a secular trend, which is a time distribution."}
+- Genetic background
+- [Environmental (lifestyle) background]{.correct data-explanation="The migrants&#x27; genes did not change, but their risk moved toward the host population&#x27;s. That points to environmental and lifestyle factors (diet, activity)."}
+- Both of these
 - None of these
 :::
 
@@ -2906,12 +2950,12 @@ In our country, the incidence of IHD has shown a consistently rising trend every
 ::: {.quiz-question}
 ### Question 109
 
-An epidemic curve is used to describe:
+In a study, 1000 persons infected with HIV but asymptomatic were followed up until death. This is an example of a:
 
-- Distribution according to person-related variables
-- Distribution according to place
-- [Distribution according to time]{.correct data-explanation="The epidemic curve plots cases by date of onset, which is the time distribution of an outbreak."}
-- None of these
+- Cross-sectional descriptive study
+- [Longitudinal descriptive study]{.correct data-explanation="A single group is followed over time to describe the natural history, with no comparison group. That is a longitudinal descriptive study."}
+- Ecological study
+- Experimental study
 :::
 
 ---
@@ -2923,12 +2967,12 @@ An epidemic curve is used to describe:
 ::: {.quiz-question}
 ### Question 110
 
-Children of Indians who settled in the USA show higher rates of IHD than populations in India, but the same rates as the native US population. This is which type of study?
+A spot map is used to describe:
 
-- Twin study
-- [Migrant study]{.correct data-explanation="Comparing migrants (and their offspring) with home and host populations is a migrant study."}
-- Ecological study
-- Secular trend
+- Distribution according to person-related variables
+- [Distribution according to place]{.correct data-explanation="A spot map plots cases by residence or workplace, which is place distribution (e.g. Snow&#x27;s cholera map)."}
+- Distribution according to time
+- None of these
 :::
 
 ---
@@ -2939,6 +2983,57 @@ Children of Indians who settled in the USA show higher rates of IHD than populat
 
 ::: {.quiz-question}
 ### Question 111
+
+In our country, the incidence of IHD has shown a consistently rising trend every year since 1960. This is an example of:
+
+- Distribution according to person-related variables
+- Distribution according to place
+- [Distribution according to time]{.correct data-explanation="A long-term change over decades is a secular trend, which is a time distribution."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 112 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 112
+
+An epidemic curve is used to describe:
+
+- Distribution according to person-related variables
+- Distribution according to place
+- [Distribution according to time]{.correct data-explanation="The epidemic curve plots cases by date of onset, which is the time distribution of an outbreak."}
+- None of these
+:::
+
+---
+
+## Self-Check: Question 113 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 113
+
+Children of Indians who settled in the USA show higher rates of IHD than populations in India, but the same rates as the native US population. This is which type of study?
+
+- Twin study
+- [Migrant study]{.correct data-explanation="Comparing migrants (and their offspring) with home and host populations is a migrant study."}
+- Ecological study
+- Secular trend
+:::
+
+---
+
+## Self-Check: Question 114 {background-color="#FDE8E8"}
+
+🧡 **QUESTION**
+
+::: {.quiz-question}
+### Question 114
 
 Which of the following studies are used to identify whether a disease has a mainly genetic or mainly environmental background?
 

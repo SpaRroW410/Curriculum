@@ -29,6 +29,10 @@ Inventory-management classification by consumption value (ABC) and
 criticality (VED).\
 [Ch 8 – Inventory Management](diseases/essential-medicines.qmd#inventory-management)
 
+**Agent Properties (Infectivity, Pathogenicity, Virulence)**\
+Virulence is measured by the case fatality rate.\
+[Ch 6 – Agent Properties](diseases/communicable-diseases.qmd#agent-properties-infectivity-pathogenicity-virulence)
+
 **ASHA (Accredited Social Health Activist)**\
 Selection, roles, and responsibilities.\
 [Ch 25 – ASHA: Roles and Responsibilities](global/community-health.qmd#asha-roles-and-responsibilities)
@@ -133,6 +137,10 @@ Impairment-disability-handicap sequence and the RPwD Act.\
 **Concepts of Health: Four Models**\
 Biomedical, ecological, psychosocial, holistic.\
 [Ch 2 – Concepts of Health: Four Models](foundations/concept-health-disease.qmd#concepts-of-health-four-models)
+
+**CONSORT Flow Diagram**\
+Participant flow in a randomized trial.\
+[Ch 4 – The CONSORT Flow Diagram](foundations/epidemiologic-methods.qmd#the-consort-flow-diagram)
 
 **Coronary Heart Disease vs. Rheumatic Heart Disease**\
 [NCD Mod 7 – Coronary Heart Disease vs. Rheumatic Heart Disease](diseases/ncd/module7_other_ncds.qmd#coronary-heart-disease-vs.-rheumatic-heart-disease)
@@ -266,6 +274,10 @@ Comparative transmission, chronicity, and prevention.\
 **Herd Immunity**\
 [Ch 6 – Herd Immunity](diseases/communicable-diseases.qmd#herd-immunity)
 
+**Hierarchy of Evidence**\
+From expert opinion to systematic reviews.\
+[Ch 4 – Hierarchy of Evidence](foundations/epidemiologic-methods.qmd#hierarchy-of-evidence)
+
 **HIV/AIDS and NACP**\
 Transmission, ART/PMTCT, and India's National AIDS Control Programme.\
 [CD Mod 8 – Transmission and Natural History](diseases/cd/module8_hiv_stis.qmd#transmission-and-natural-history) ·
@@ -317,8 +329,16 @@ Innate vs acquired; active vs passive; natural vs artificial.\
 Mental capacity, disclosure, voluntariness, comprehension.\
 [Ch 27 – Informed Consent](global/aetcom.qmd#informed-consent)
 
+**Intention-to-Treat Analysis**\
+ITT vs per-protocol; allocation concealment.\
+[Ch 4 – Analysing a Trial: ITT vs Per-Protocol](foundations/epidemiologic-methods.qmd#analysing-a-trial-itt-vs-per-protocol)
+
 **International Health Regulations (IHR 2005)**\
 [Ch 26 – International Health Regulations (IHR 2005)](global/international-health.qmd#international-health-regulations-ihr-2005)
+
+**International Health Regulations (IHR 2005)**\
+24-hour notification of a potential PHEIC; notifiable diseases.\
+[Ch 6 – Notifiable Diseases, IHR, and Epidemic Thresholds](diseases/communicable-diseases.qmd#notifiable-diseases-ihr-and-epidemic-thresholds)
 
 **IPV vs. OPV (Polio Vaccines)**\
 [CD Mod 4 – IPV vs. OPV](diseases/cd/module4_poliomyelitis.qmd#ipv-vs.-opv)
@@ -388,6 +408,10 @@ several chapters.\
 [Ch 19 – Occupational Disease and the Levels of Prevention](environment/occupational-health.qmd#occupational-disease-and-the-levels-of-prevention) ·
 [Ch 25 – Levels of Health Care (contrast)](global/community-health.qmd#levels-of-health-care-not-levels-of-prevention)
 
+**Life Table and Survival Curve**\
+lx, qx, dx, ex; median survival.\
+[Ch 3 – Life Table and Survival Curve](foundations/principles-epidemiology.qmd#life-table-and-survival-curve)
+
 **Low Birth Weight**\
 [Ch 9 – Low Birth Weight](diseases/nutrition.qmd#low-birth-weight)
 
@@ -435,8 +459,16 @@ Range, standard deviation, variance, coefficient of variation.\
 **Mental Healthcare Act, 2017**\
 [Ch 10 – Mental Healthcare Act, 2017](diseases/mental-health.qmd#mental-healthcare-act-2017)
 
+**Meta-Analysis and Systematic Review**\
+Forest plot, funnel plot, publication bias.\
+[Ch 4 – Systematic Review, Meta-Analysis, Publication Bias](foundations/epidemiologic-methods.qmd#systematic-review-meta-analysis-publication-bias)
+
 **mhGAP (WHO Mental Health Gap Action Programme)**\
 [Ch 10 – WHO mhGAP: Closing the Treatment Gap](diseases/mental-health.qmd#who-mhgap-closing-the-treatment-gap)
+
+**Monitoring vs Surveillance**\
+Programme monitoring vs disease surveillance; evaluation.\
+[Ch 6 – Monitoring vs Surveillance](diseases/communicable-diseases.qmd#monitoring-vs-surveillance)
 
 **Mortality Rates (Crude, Specific, Case Fatality, PMR)**\
 [Ch 3 – Mortality Rates: Crude, Specific, and Case Fatality](foundations/principles-epidemiology.qmd#mortality-rates-crude-specific-and-case-fatality)
@@ -508,6 +540,10 @@ Skin, lung, bladder, leukaemia by exposure.\
 [Water Mod 1 – What is One Health?](environment/env_health/module1_one_health.qmd#what-is-one-health) ·
 [Water Mod 1 – The One Health Triad](environment/env_health/module1_one_health.qmd#the-one-health-triad)
 
+**Open Vial Policy**\
+Reuse of opened multi-dose vials for up to 28 days.\
+[Ch 6 – Open Vial Policy and the UIP Schedule](diseases/communicable-diseases.qmd#open-vial-policy-and-the-uip-schedule)
+
 **Outbreak Investigation**\
 [Ch 6 – Outbreak Investigation: The 10 Steps](diseases/communicable-diseases.qmd#outbreak-investigation-the-10-steps) ·
 [Water Mod 7 – Case Study: Outbreak Investigation](environment/env_health/water/module7_surveillance.qmd#case-study-outbreak-investigation)
@@ -561,6 +597,10 @@ Sources, units, biological effects, protection.\
 **Rational Use of Medicines**\
 [Ch 8 – Rational Use of Medicines](diseases/essential-medicines.qmd#rational-use-of-medicines)
 
+**Record Linkage**\
+Linking one person's health events; health information system.\
+[Ch 3 – Record Linkage and the Health Information System](foundations/principles-epidemiology.qmd#record-linkage-and-the-health-information-system)
+
 **Road Traffic Injuries**\
 The Golden Hour and major risk factors.\
 [NCD Mod 6 – Road Traffic Injuries](diseases/ncd/module6_injuries.qmd#road-traffic-injuries)
@@ -576,6 +616,10 @@ The Golden Hour and major risk factors.\
 ---
 
 ## S
+
+**Sample Size**\
+What drives the sample size of a trial.\
+[Ch 4 – Sample Size: What Drives It](foundations/epidemiologic-methods.qmd#sample-size-what-drives-it)
 
 **Sampling Techniques**\
 Probability (simple random, systematic, stratified, cluster) vs. non-probability.\
