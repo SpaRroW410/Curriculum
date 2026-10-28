@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="395" viewBox="0 0 900 395" role="img" aria-labelledby="title desc">
+  <title id="title">Design of a case-control study</title>
+  <desc id="desc">Cases with the disease and comparable controls without it are selected in the present; the enquiry looks back into the past to find the proportion exposed in each group. Cells a and c are exposed and unexposed cases, b and d exposed and unexposed controls. Odds ratio = ad/bc.</desc>
+  <defs><marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#2c3e50"/></marker></defs>
+  <rect x="620" y="40" width="240" height="70" rx="8" fill="#FDE8E8" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="740.0" y="70.9" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">CASES</text>
+  <text x="740.0" y="89.6" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">(disease present)</text>
+  <rect x="620" y="190" width="240" height="70" rx="8" fill="#E3F2E1" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="740.0" y="220.9" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">CONTROLS</text>
+  <text x="740.0" y="239.6" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">(disease absent, comparable)</text>
+  <rect x="40" y="10" width="220" height="50" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="150.0" y="39.9" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Exposed  (a)</text>
+  <rect x="40" y="80" width="220" height="50" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="150.0" y="109.9" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Not exposed  (c)</text>
+  <rect x="40" y="160" width="220" height="50" rx="8" fill="#FFF6DA" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="150.0" y="189.9" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Exposed  (b)</text>
+  <rect x="40" y="230" width="220" height="50" rx="8" fill="#ffffff" stroke="#2c3e50" stroke-width="1.5"/>
+  <text x="150.0" y="259.9" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#333">Not exposed  (d)</text>
+  <line x1="618" y1="75" x2="262" y2="35" stroke="#2c3e50" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="618" y1="75" x2="262" y2="105" stroke="#2c3e50" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="618" y1="225" x2="262" y2="185" stroke="#2c3e50" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="618" y1="225" x2="262" y2="255" stroke="#2c3e50" stroke-width="2" marker-end="url(#arr)"/>
+  <line x1="820" y1="305" x2="120" y2="305" stroke="#2c3e50" stroke-width="3" marker-end="url(#arr)"/>
+  <text x="470" y="325" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">Direction of enquiry: from effect (disease) BACK to cause (exposure)</text>
+  <text x="150" y="352" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">PAST</text>
+  <text x="740" y="352" text-anchor="middle" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2c3e50">PRESENT (study starts here)</text>
+  <text x="470" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="15" font-weight="bold" fill="#2c3e50">OR = ad / bc  ·  odds of exposure in cases ÷ odds of exposure in controls</text>
+</svg>

@@ -2700,7 +2700,7 @@
     "href": "foundations/epidemiologic-methods.html#home",
     "title": "Epidemiologic Methods",
     "section": "Welcome",
-    "text": "Welcome\nEpidemiologic Methods\nLearning Objectives:\n\nCompare cohort, case-control, cross-sectional, and ecological study designs\nExplain matching and the nested case-control design\nCalculate and interpret relative risk (RR) and odds ratio (OR)\nCalculate attributable risk and attributable risk percent\nClassify types of association and distinguish them from causation\nDescribe the design and purpose of a randomized controlled trial\nDistinguish selection bias, information bias, and confounding\nCompute crude, specific, and case fatality mortality rates\nExplain why and how mortality rates are age-standardized\n\nNMC Community Medicine Code: CM7\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nThis chapter builds directly on Chapter 3’s incidence/prevalence and the overview of study-design categories, going into the analytical and experimental designs in depth.",
+    "text": "Welcome\nEpidemiologic Methods\nLearning Objectives (CM7 Lectures 6–9):\n\nDescribe the design, steps, analysis (OR), biases, advantages and limitations of a case-control study\nDescribe the types and elements of cohort studies; calculate RR, AR, AR% and PAR\nOutline the steps and types of randomized controlled trials; explain randomization and blinding; calculate vaccine efficacy and NNT\nDistinguish association from causation; identify bias, chance and confounding; apply causal criteria; distinguish validity from reliability\n\nNMC Community Medicine Code: CM7.5, CM7.8\n🟢 MUST KNOW · 🟡 SHOULD KNOW · 🟣 MAY KNOW · 🧡 QUESTION\n\nBuilds on Chapter 3’s measures of frequency and the study-design classification (Lecture 5). Mortality rates and standardization now sit in Chapter 3 (Lectures 2 and 4).",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2712,7 +2712,7 @@
     "href": "foundations/epidemiologic-methods.html#the-22-table",
     "title": "Epidemiologic Methods",
     "section": "The 2×2 Table",
-    "text": "The 2×2 Table\n🟢 MUST KNOW\nEvery analytical epidemiological comparison starts from a 2×2 table of exposure vs. outcome:\n\n\n\n\nDisease +\nDisease −\n\n\n\n\nExposed\na\nb\n\n\nUnexposed\nc\nd\n\n\n\nAll of the measures on the following slides — relative risk, odds ratio, attributable risk — are calculated directly from these four cell counts (a, b, c, d).",
+    "text": "The 2×2 Table\n🟢 MUST KNOW\nEvery analytical comparison starts from a 2×2 table of exposure against outcome:\n\n\n\n\nDisease + (cases)\nDisease − (controls)\n\n\n\n\nExposed\na\nb\n\n\nUnexposed\nc\nd\n\n\n\n\nCase-control: the column totals (a+c cases, b+d controls) are fixed by the investigator\nCohort: the row totals (a+b exposed, c+d unexposed) are fixed\n\nRelative risk, odds ratio and attributable risk are all calculated from these four cells.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2736,7 +2736,7 @@
     "href": "foundations/epidemiologic-methods.html#case-control-study",
     "title": "Epidemiologic Methods",
     "section": "Case-Control Study",
-    "text": "Case-Control Study\n🟢 MUST KNOW\nDesign: starts with people who already have the disease (cases) and people who don’t (controls), then looks backward to compare their past exposure.\n\nCannot calculate incidence directly (cases are already selected) — so RR cannot be measured directly\nInstead calculates the Odds Ratio (OR):\n\nOR = (a × d) / (b × c)\nRare disease assumption: when the disease is uncommon (roughly &lt;10% in the unexposed group), OR closely approximates RR — this is why case-control studies are widely used to estimate risk for rare diseases.",
+    "text": "Case-Control Study\n🟢 MUST KNOW\n\n\n\nCase-control design\n\n\nIt proceeds from effect to cause (retrospective). Exposure is always measured after the disease has occurred.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2748,7 +2748,7 @@
     "href": "foundations/epidemiologic-methods.html#matching-in-case-control-studies",
     "title": "Epidemiologic Methods",
     "section": "Matching in Case-Control Studies",
-    "text": "Matching in Case-Control Studies\n🟡 SHOULD KNOW\nMatching selects controls so that a potential confounder (e.g. age, occupation) has the same distribution in cases and controls, removing its confounding effect before analysis even starts.\n\nGroup matching — the frequency distribution of the matched variable is made similar in both groups (e.g. same age-band mix)\nPair (individual) matching — each case is paired with a control sharing that characteristic (a 50-year-old mason case gets a 50-year-old mason control)\n\nCritical rule: never match on the exposure/factor you actually want to study — doing so forces cases and controls to look alike on that factor and erases its association with disease entirely. Over-matching also makes finding controls harder and can bias the odds ratio toward 1.",
+    "text": "Matching in Case-Control Studies\n🟡 SHOULD KNOW\nMatching selects controls so that a potential confounder (e.g. age, occupation) has the same distribution in cases and controls.\n\nGroup (frequency) matching: the matched variable has a similar distribution in both groups\nPair (individual) matching: each case is paired with a control sharing that characteristic, e.g. a 50-year-old mason case and a 50-year-old mason control\n\nCritical rule: never match on the exposure you want to study. That forces cases and controls to look alike on it and erases its association with disease. Over-matching also makes controls harder to find and can bias the OR toward 1.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2760,7 +2760,7 @@
     "href": "foundations/epidemiologic-methods.html#nested-case-control-study",
     "title": "Epidemiologic Methods",
     "section": "Nested Case-Control Study",
-    "text": "Nested Case-Control Study\n🟡 SHOULD KNOW\nA case-control study conducted within an existing cohort: once enough cases accumulate in a large prospective cohort, controls are sampled from the cohort’s non-cases rather than tracking exposure data for everyone.\n\nMore efficient than analyzing the full cohort — exposure data is processed only for cases and the sampled controls\nBecause both groups are drawn from the same defined cohort, this design minimizes selection bias and misclassification compared to an ordinary case-control study",
+    "text": "Nested Case-Control Study\n🟡 SHOULD KNOW\nA case-control study conducted within an existing cohort. Once enough cases accumulate in a large prospective cohort, controls are sampled from the cohort’s non-cases rather than processing exposure data for everyone.\n\nMore efficient than analysing the full cohort, because exposure data (e.g. stored blood) are processed only for cases and the sampled controls\nBoth groups come from the same defined cohort, and exposure was recorded before disease. This minimizes selection and recall bias.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2784,7 +2784,7 @@
     "href": "foundations/epidemiologic-methods.html#cohort-study",
     "title": "Epidemiologic Methods",
     "section": "Cohort Study",
-    "text": "Cohort Study\n🟢 MUST KNOW\nDesign: starts with a disease-free population, divides it by exposure status, and follows both groups forward in time to compare who develops disease.\n\nProspective cohort — exposure and outcome measured going forward from now\nRetrospective cohort — exposure already recorded in the past; outcome is determined by looking forward from that point\n\nDirect measure obtained: incidence in both groups → Relative Risk (RR)\nRR = [a / (a+b)] / [c / (c+d)]\nRR &gt; 1 suggests increased risk with exposure; RR = 1 suggests no association; RR &lt; 1 suggests a protective effect.",
+    "text": "Cohort Study\n🟢 MUST KNOW\n\n\n\nCohort design\n\n\nCohort = a group of people who share a common characteristic or experience within a defined period. The study proceeds from cause to effect (prospective, longitudinal or incidence study).",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2796,7 +2796,7 @@
     "href": "foundations/epidemiologic-methods.html#cohort-vs.-case-control",
     "title": "Epidemiologic Methods",
     "section": "Cohort vs. Case-Control",
-    "text": "Cohort vs. Case-Control\n🟢 MUST KNOW\n\n\n\n\nCohort\nCase-Control\n\n\n\n\nStarts from\nExposure status\nDisease status\n\n\nDirection\nForward in time\nBackward in time\n\n\nBest for\nRare exposures\nRare diseases\n\n\nMeasure obtained\nRelative Risk\nOdds Ratio\n\n\nCost/duration\nHigher, longer\nLower, faster\n\n\nRecall bias risk\nLow\nHigher",
+    "text": "Cohort vs. Case-Control\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\nCohort\nCase-control\n\n\n\n\nStarts from\nExposure status\nDisease status\n\n\nDirection\nCause → effect (forward)\nEffect → cause (backward)\n\n\nBest for\nRare exposures, several outcomes\nRare diseases, several exposures\n\n\nMeasure\nIncidence, RR, AR\nOdds ratio only\n\n\nSize, cost, time\nLarge, costly, long\nSmall, cheap, quick\n\n\nMain biases\nLoss to follow-up (attrition)\nRecall bias, selection bias\n\n\nTemporality\nClear\nSometimes unclear",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2808,7 +2808,7 @@
     "href": "foundations/epidemiologic-methods.html#attributable-risk",
     "title": "Epidemiologic Methods",
     "section": "Attributable Risk",
-    "text": "Attributable Risk\n🟢 MUST KNOW\nAttributable Risk (AR) is the excess risk in the exposed group that is directly due to the exposure — the risk difference:\nAR = Risk in exposed − Risk in unexposed\nAttributable Risk Percent (AR%) expresses this as a proportion of the total risk in the exposed group — i.e. how much of the exposed group’s risk would be eliminated if the exposure were removed:\nAR% = [(Risk exposed − Risk unexposed) / Risk exposed] × 100\nContrast with RR: RR tells you the strength of an association; AR/AR% tells you the public health impact of removing the exposure.",
+    "text": "Attributable Risk\n🟢 MUST KNOW\nAttributable Risk (AR) is the excess risk in the exposed group that is due to the exposure, i.e. the risk difference:\nAR = Iₑ − I₀ · AR% = (Iₑ − I₀) ÷ Iₑ × 100\nPopulation Attributable Risk (PAR) is the excess risk in the total population due to the exposure:\nPAR = I(total) − I₀ · PAR% = (I(total) − I₀) ÷ I(total) × 100\n\nRR tells you the strength of an association, which is useful for causal inference\nAR / AR% tell you the impact on the exposed\nPAR% tells you the impact on the whole community, which is what programme planners use",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2832,7 +2832,7 @@
     "href": "foundations/epidemiologic-methods.html#randomized-controlled-trial-rct",
     "title": "Epidemiologic Methods",
     "section": "Randomized Controlled Trial (RCT)",
-    "text": "Randomized Controlled Trial (RCT)\n🟡 SHOULD KNOW\nDesign: the investigator actively and randomly assigns participants to an intervention group or a control/comparison group, then follows both forward to compare outcomes.\n\nRandomization balances known and unknown confounders between groups — the key strength of the RCT design\nBlinding (single/double) reduces information bias from participants or assessors knowing group assignment\nConsidered the strongest design for establishing causation, but often impractical or unethical for harmful exposures (you cannot randomize people to smoke, for instance — hence cohort/case-control designs exist)",
+    "text": "Randomized Controlled Trial (RCT)\n🟢 MUST KNOW\n\n\n\nSteps of an RCT",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2868,7 +2868,7 @@
     "href": "foundations/epidemiologic-methods.html#selection-bias",
     "title": "Epidemiologic Methods",
     "section": "Selection Bias",
-    "text": "Selection Bias\n🟡 SHOULD KNOW\nOccurs when the individuals selected into a study are not representative of the population they’re meant to reflect — e.g. volunteer bias, or a hospital-based control group that differs systematically from the general population.\nMust be prevented at the design stage — it generally cannot be fixed by statistical adjustment after data are collected.",
+    "text": "Selection Bias\n🟡 SHOULD KNOW\nOccurs when the people selected into (or retained in) a study are not representative of the population they should reflect, in a way related to exposure or outcome.\n\nExamples: volunteer bias, Berkson’s (hospital admission) bias, the healthy worker effect, differential loss to follow-up in cohorts, and non-response\nIt must be prevented at the design stage. It generally cannot be fixed by statistical adjustment afterwards.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2880,7 +2880,7 @@
     "href": "foundations/epidemiologic-methods.html#information-bias",
     "title": "Epidemiologic Methods",
     "section": "Information Bias",
-    "text": "Information Bias\n🟡 SHOULD KNOW\nArises from inaccurate measurement of exposure or outcome — including:\n\nRecall bias — cases (who are searching for an explanation for their illness) may remember or report past exposures differently than controls — a particular risk in case-control studies\nObserver/interviewer bias — differential data collection depending on which group a participant is in\n\nLike selection bias, this is best prevented by design (blinding, standardized measurement) rather than fixed afterward.",
+    "text": "Information Bias\n🟡 SHOULD KNOW\nArises from inaccurate measurement or classification of exposure or outcome (misclassification):\n\nRecall (memory) bias: cases remember or report past exposures differently from controls\nInterviewer (observer) bias: data are collected differently depending on group membership\nHawthorne effect: subjects change their behaviour because they know they are being observed\nInstrument or technique errors: an uncalibrated sphygmomanometer, no rest before a BP reading\n\nIt is best prevented by blinding, standardized instruments and protocols, and objective records.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2892,7 +2892,7 @@
     "href": "foundations/epidemiologic-methods.html#confounding",
     "title": "Epidemiologic Methods",
     "section": "Confounding",
-    "text": "Confounding\n🟡 SHOULD KNOW\nA confounder is a third factor that is associated with both the exposure and the outcome, and distorts the apparent exposure–disease association — it can exaggerate, mask, or even reverse the true direction of an effect.\nExample: age can confound the association between grey hair and heart disease — older people have more grey hair and more heart disease, with no direct causal link between the two.\nUnlike selection and information bias, confounding can be addressed after data collection — through stratification, matching, or statistical adjustment (e.g. multivariable regression) — as well as through randomization at the design stage.",
+    "text": "Confounding\n🟢 MUST KNOW\nA confounder is a third factor that is:\n\nAssociated with the exposure\nAn independent risk factor for the outcome\nNot an intermediate step on the causal pathway\n\nExample: age confounds grey hair and heart disease. Older people have more of both, with no causal link between them. Alcohol and lung cancer are confounded by smoking.\n\n\n\n\n\n\n\nStage\nMethods of control\n\n\n\n\nDesign\nRandomization (also controls unknown confounders) · restriction · matching\n\n\nAnalysis\nStratification (Mantel–Haenszel) · standardization · multivariable regression",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2904,7 +2904,7 @@
     "href": "foundations/epidemiologic-methods.html#types-of-association",
     "title": "Epidemiologic Methods",
     "section": "Types of Association",
-    "text": "Types of Association\n🟡 SHOULD KNOW\nNot every statistical association between an exposure and a disease is causal. Four categories are recognized:\n\n\n\n\n\n\n\nType\nWhat it means\n\n\n\n\nSpurious\nAn artifact of bias — comparing groups that were never truly “like with like” (a form of selection bias)\n\n\nIndirect\nExposure and disease are each linked to a separate third factor, with no direct link between them (e.g. altitude and endemic goitre — both track with iodine-poor terrain)\n\n\nOne-to-one causal\nA change in the exposure directly produces a change in disease — the single-cause model behind Koch’s postulates (Chapter 2)\n\n\nMultifactorial causal\nSeveral causes act together — either independently (any one is enough) or cumulatively/synergistically (as in coronary heart disease)\n\n\n\nRule of thumb: correlation can suggest causation, but never proves it on its own — ruling out spurious and indirect association is exactly what the Bradford Hill criteria (Chapter 2) are for.",
+    "text": "Types of Association\n🟢 MUST KNOW\n\n\n\n\n\n\n\nType\nWhat it means\n\n\n\n\nSpurious\nAn artefact of bias, from comparing groups that were never “like with like”. It is prevented by proper design: comparable groups, randomization, standardized measurement.\n\n\nIndirect\nExposure and disease are each linked to a separate third factor, with no direct link between them (e.g. altitude and endemic goitre, both tracking iodine-poor terrain)\n\n\nDirect (causal), one-to-one\nA change in the exposure directly produces a change in disease: the single-cause model behind Koch’s postulates\n\n\nDirect (causal), multifactorial\nSeveral causes act independently or cumulatively/synergistically (coronary heart disease)\n\n\n\nRule of thumb: correlation can suggest causation, but never proves it on its own.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2940,7 +2940,7 @@
     "href": "foundations/epidemiologic-methods.html#ecological-fallacy-a-closer-look",
     "title": "Epidemiologic Methods",
     "section": "Ecological Fallacy — A Closer Look",
-    "text": "Ecological Fallacy — A Closer Look\n🟣 MAY KNOW\nThe ecological fallacy is the specific error of assuming that a correlation observed at the group/population level must also hold at the individual level. A classic teaching example: countries with higher average chocolate consumption have been shown to have more Nobel laureates per capita — an association at the national level that says nothing about whether any individual eating more chocolate is more likely to win a Nobel Prize.",
+    "text": "Ecological Fallacy — A Closer Look\n🟣 MAY KNOW\nThe ecological fallacy is the error of assuming that a correlation seen at the group or population level must also hold for individuals. A classic teaching example: countries with higher average chocolate consumption have more Nobel laureates per capita. That national-level association says nothing about whether any individual who eats more chocolate is more likely to win a Nobel Prize.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2952,7 +2952,7 @@
     "href": "foundations/epidemiologic-methods.html#number-needed-to-treat",
     "title": "Epidemiologic Methods",
     "section": "Number Needed to Treat",
-    "text": "Number Needed to Treat\n🟣 MAY KNOW\nNumber Needed to Treat (NNT) is a clinically-oriented extension of attributable risk, used mainly for trial results: the number of patients who need to receive an intervention for one additional patient to benefit, calculated as the reciprocal of the absolute risk reduction (NNT = 1 / AR, expressed as risk difference).",
+    "text": "Number Needed to Treat\n🟣 MAY KNOW\n\nNNT is always tied to a comparator, an outcome and a time period, e.g. “NNT 4 over 6 months vs ramipril for BP control”\nFor prevention, NNTs are often large, e.g. hundreds treated for 5 years to prevent one stroke. This is still worthwhile if the treatment is cheap and safe.\nNNT can only be calculated from studies that measure risks directly (cohort studies and trials), not from case-control odds ratios alone",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2976,7 +2976,7 @@
     "href": "foundations/epidemiologic-methods.html#self-check-question-2",
     "title": "Epidemiologic Methods",
     "section": "Self-Check: Question 2",
-    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nWhich measure of association can be directly calculated from a cohort study but NOT from a case-control study?\n\nOdds Ratio\nRelative Risk\np-value\nConfidence interval",
+    "text": "Self-Check: Question 2\n🧡 QUESTION\n\nQuestion 2\nA researcher wants to study the association between smoking and lung cancer using past hospital records of cases and controls. The most appropriate study design is a:\n\nCohort study\nRandomized controlled trial\nCross-sectional study\nCase-control study",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -2988,7 +2988,7 @@
     "href": "foundations/epidemiologic-methods.html#self-check-question-3",
     "title": "Epidemiologic Methods",
     "section": "Self-Check: Question 3",
-    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nAttributable Risk Percent (AR%) is best described as:\n\nThe strength of an association\nThe proportion of exposed-group risk that would be eliminated if the exposure were removed\nThe same value as the Odds Ratio\nA measure only usable in RCTs",
+    "text": "Self-Check: Question 3\n🧡 QUESTION\n\nQuestion 3\nIn a case-control study, the association is most appropriately measured by the:\n\nRelative risk\nAttributable risk\nOdds ratio\nIncidence rate ratio only",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -3000,7 +3000,7 @@
     "href": "foundations/epidemiologic-methods.html#self-check-question-4",
     "title": "Epidemiologic Methods",
     "section": "Self-Check: Question 4",
-    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nThe main strength of randomization in an RCT is that it:\n\nGuarantees a statistically significant result\nBalances known and unknown confounders between the intervention and control groups\nRemoves the need for a control group\nEliminates all information bias automatically",
+    "text": "Self-Check: Question 4\n🧡 QUESTION\n\nQuestion 4\nWhich of the following is known as the “cross-product ratio”?\n\nRR\nAR\nPAR%\nOR",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -3012,7 +3012,7 @@
     "href": "foundations/epidemiologic-methods.html#self-check-question-5",
     "title": "Epidemiologic Methods",
     "section": "Self-Check: Question 5",
-    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nA country-level comparison of average salt intake against average blood pressure across nations, without individual-level data, is an example of:\n\nA cohort study\nA case-control study\nAn ecological study\nA randomized controlled trial",
+    "text": "Self-Check: Question 5\n🧡 QUESTION\n\nQuestion 5\nA case-control study finds an odds ratio of 5.0 between exposure and disease. The best interpretation is:\n\nCases have five times higher odds of having had the exposure compared with controls\nThe exposed have five times higher incidence, directly measured\nThe exposure is definitely causal without further assessment\nThe disease prevalence is 5%",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -3024,7 +3024,7 @@
     "href": "foundations/epidemiologic-methods.html#self-check-question-6",
     "title": "Epidemiologic Methods",
     "section": "Self-Check: Question 6",
-    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nWhich type of bias or distortion CAN typically still be corrected during data analysis, after the study has been conducted?\n\nSelection bias\nRecall bias\nConfounding\nInterviewer bias",
+    "text": "Self-Check: Question 6\n🧡 QUESTION\n\nQuestion 6\nSelection bias in a case-control study most commonly occurs when:\n\nSelection of cases and controls is related to exposure status\nExposure is measured with high accuracy\nOutcome status is confirmed objectively\nSample size is sufficiently large",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -3036,7 +3036,7 @@
     "href": "foundations/epidemiologic-methods.html#references",
     "title": "Epidemiologic Methods",
     "section": "References",
-    "text": "References\n\nBoston University School of Public Health. Case-Control Studies and Measuring Association in Case-Control Studies — Epidemiology teaching modules.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.), Lesson 3.\nRothman, K.J., Greenland, S., Lash, T.L. Modern Epidemiology (3rd ed.). Lippincott Williams & Wilkins.\nWikipedia contributors. “Attributable fraction among the exposed” and “Randomized controlled trial.”\nPark, K. Park’s Textbook of Preventive and Social Medicine — standard reference for matching, types of association, mortality rates, and standardization.",
+    "text": "References\n\nPark, K. Park’s Textbook of Preventive and Social Medicine (latest ed.): case-control, cohort and experimental studies; association and causation.\nCommunity Medicine with Recent Advances (9th ed.), Section 3, Chapters 12–14: review exercises (measures of association, causation, confounding, bias, study designs) adapted as Self-Check MCQs.\nFaculty question bank, Section V, Chapter 19 Principles and Practice of Epidemiology.\nRothman, K.J., Greenland, S., Lash, T.L. Modern Epidemiology (3rd ed.). Lippincott Williams & Wilkins.\nHill, A.B. (1965). The environment and disease: association or causation? Proc R Soc Med 58:295–300.\nCenters for Disease Control and Prevention. Principles of Epidemiology in Public Health Practice (3rd ed.), Lesson 3.\n\nWant to practice? The Epidemiology Question Bank has every question from this chapter with answer keys.",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -3048,7 +3048,7 @@
     "href": "foundations/epidemiologic-methods.html#thank-you",
     "title": "Epidemiologic Methods",
     "section": "Thank You!",
-    "text": "Thank You!\nNext Chapter: Screening for Disease\n← Previous | Top | Contents | Chapter 4/29 | Next Chapter →",
+    "text": "Thank You!\nNext Chapter: Screening for Disease (CM7 Lectures 14–15)\n← Previous | Top | Contents | Chapter 4/29 | Next Chapter →",
     "crumbs": [
       "Contents",
       "Foundations of Health & Epidemiology",
@@ -21586,6 +21586,810 @@
       "Contents",
       "Foundations of Health & Epidemiology",
       "Principles of Epidemiology (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#basic-steps-of-a-case-control-study",
+    "href": "foundations/epidemiologic-methods.html#basic-steps-of-a-case-control-study",
+    "title": "Epidemiologic Methods",
+    "section": "Basic Steps of a Case-Control Study",
+    "text": "Basic Steps of a Case-Control Study\n🟢 MUST KNOW\n\nSelection of cases and controls\n\nCases: a clear diagnostic definition. Incident cases are preferred to prevalent ones. Sources are hospitals or the general population.\nControls: free of the disease, similar to cases in everything except the disease. Sources are hospital, relatives/neighbourhood, or the general population.\n\nMatching: on confounders such as age and sex (next slide)\nMeasurement of exposure: the same method for cases and controls (interview, records), with blinding where possible\nAnalysis: exposure rates among cases and controls, then the odds ratio\n\nOR = (a × d) ÷ (b × c)\nRare-disease assumption: when the disease is uncommon, OR ≈ RR.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#worked-example-odds-ratio",
+    "href": "foundations/epidemiologic-methods.html#worked-example-odds-ratio",
+    "title": "Epidemiologic Methods",
+    "section": "Worked Example: Odds Ratio",
+    "text": "Worked Example: Odds Ratio\n🟢 MUST KNOW\nA study of tobacco chewing and oral cancer (100 cases, 100 controls):\n\n\n\n\nOral cancer (cases)\nNo oral cancer (controls)\n\n\n\n\nChewers\na = 80\nb = 40\n\n\nNon-chewers\nc = 20\nd = 60\n\n\nTotal\n100\n100\n\n\n\n\nExposure in cases = 80% and in controls = 40%\nOR = (80 × 60) ÷ (40 × 20) = 6.0\nInterpretation: cases had six times the odds of having chewed tobacco compared with controls. Oral cancer is rare, so tobacco chewers have roughly six times the risk.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#bias-in-case-control-studies",
+    "href": "foundations/epidemiologic-methods.html#bias-in-case-control-studies",
+    "title": "Epidemiologic Methods",
+    "section": "Bias in Case-Control Studies",
+    "text": "Bias in Case-Control Studies\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\nBias\nWhat happens\n\n\n\n\nSelection bias\nCases and controls are selected in a way related to exposure\n\n\nBerkson’s bias\nA hospital-based study is distorted by different admission rates for different combinations of disease and exposure\n\n\nRecall (memory) bias\nCases search their memory harder for past exposures than controls\n\n\nInterviewer bias\nAn interviewer who knows case status probes cases more intensively\n\n\nNeyman (prevalence-incidence) bias\nUsing prevalent cases misses those who died early or recovered\n\n\nConfounding\nA third factor linked to both exposure and disease, controlled by matching or analysis",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#case-control-study-advantages-and-limitations",
+    "href": "foundations/epidemiologic-methods.html#case-control-study-advantages-and-limitations",
+    "title": "Epidemiologic Methods",
+    "section": "Case-Control Study: Advantages and Limitations",
+    "text": "Case-Control Study: Advantages and Limitations\n🟢 MUST KNOW\n\n\nAdvantages\n\nQuick, cheap, needs few subjects\nBest design for rare diseases and those with long latency\nNo risk to subjects; no attrition\nCan study several exposures for one disease\nGives an estimate of RR (via the OR)\n\n\nLimitations\n\nProne to recall and selection bias\nIncidence and true RR cannot be measured\nTemporality is sometimes unclear\nChoosing an appropriate control group is difficult\nOnly one outcome is studied\nNot suitable for rare exposures",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-6",
+    "href": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-6",
+    "title": "Epidemiologic Methods",
+    "section": "Practice Questions: Descriptive (Lecture 6)",
+    "text": "Practice Questions: Descriptive (Lecture 6)\nFor written practice — work through these on paper; no auto-check for this slide.\nLong Essay\n\nDefine epidemiology. What is a case-control study? Describe the basic stages (framework for analysis), and mention the advantages and limitations of case-control studies.\n\nShort Essay / Short Answer\n\nDiscuss the types of bias in case-control studies.\nWrite the advantages and disadvantages of case-control studies.\nExplain the difference between a case-control study and a cohort study.\n\nShort Notes\n\nOdds ratio.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-6-contd.",
+    "href": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-6-contd.",
+    "title": "Epidemiologic Methods",
+    "section": "Practice Questions: Descriptive (Lecture 6, contd.)",
+    "text": "Practice Questions: Descriptive (Lecture 6, contd.)\nReasoning Type\n\nExplain why the odds ratio is used instead of relative risk in case-control studies.\nWhy does rarity of disease allow the odds ratio to approximate relative risk?",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-7",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-7",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 7",
+    "text": "Self-Check: Question 7\n🧡 QUESTION\n\nQuestion 7\nAn epidemiologist wants to study whether blood group “O” protects against peptic ulcer disease compared with the other three blood groups. The outcome variable in this case is:\n\nBlood groups\nPeptic ulcer disease\nBoth of these\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-8",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-8",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 8",
+    "text": "Self-Check: Question 8\n🧡 QUESTION\n\nQuestion 8\nAssertion (A): Recall bias is commonly seen in cohort studies.\nReason (R): Recall bias mainly affects studies where past exposure is assessed after disease occurrence.\n\nBoth A and R are true, and R is the correct explanation of A\nBoth A and R are true, but R is NOT the correct explanation of A\nA is true, R is false\nA is false, R is true",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-9",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-9",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 9",
+    "text": "Self-Check: Question 9\n🧡 QUESTION\n\nQuestion 9\nIn a case-control study of oral cancer, 80 of 100 cases and 40 of 100 controls chewed tobacco. The odds ratio is:\n\n2.0\n4.0\n6.0\n8.0",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#types-of-cohort-study",
+    "href": "foundations/epidemiologic-methods.html#types-of-cohort-study",
+    "title": "Epidemiologic Methods",
+    "section": "Types of Cohort Study",
+    "text": "Types of Cohort Study\n🟢 MUST KNOW\n\n\n\n\n\n\n\n\n\nType\nExposure\nOutcome\nExample\n\n\n\n\nProspective (concurrent)\nMeasured now\nOccurs in the future, after follow-up\nFramingham Heart Study (1948–)\n\n\nRetrospective (historical)\nFrom past records\nAlready occurred when the study begins\nOccupational records → cancer deaths\n\n\nAmbispective (combination)\nFrom past records\nFollow-up continues into the future\nHistorical cohort extended forward\n\n\n\nIn every type, the logic runs from exposure to outcome. Only the investigator’s position in calendar time differs.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#elements-of-a-cohort-study",
+    "href": "foundations/epidemiologic-methods.html#elements-of-a-cohort-study",
+    "title": "Epidemiologic Methods",
+    "section": "Elements of a Cohort Study",
+    "text": "Elements of a Cohort Study\n🟢 MUST KNOW\n\nSelection of study subjects: a general population or special groups (professional groups, exposure groups), free of the disease at the start\nObtaining data on exposure: from the cohort members, records, examinations and environmental surveys\nSelection of comparison groups:\n\ninternal: different exposure levels within one cohort\nexternal: a separate unexposed cohort\ngeneral population rates\n\nFollow-up: periodic examination, records and death certificates. Loss to follow-up must be minimal, because differential losses cause selection bias.\nAnalysis: incidence in the exposed and unexposed, then RR and AR",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#measures-in-a-cohort-study-worked-example",
+    "href": "foundations/epidemiologic-methods.html#measures-in-a-cohort-study-worked-example",
+    "title": "Epidemiologic Methods",
+    "section": "Measures in a Cohort Study: Worked Example",
+    "text": "Measures in a Cohort Study: Worked Example\n🟢 MUST KNOW\nLung cancer over 10 years in 10,000 smokers and 10,000 non-smokers:\n\n\n\n\nLung cancer\nNo lung cancer\nTotal\nIncidence\n\n\n\n\nSmokers\n280\n9,720\n10,000\nIₑ = 28 per 1000\n\n\nNon-smokers\n40\n9,960\n10,000\nI₀ = 4 per 1000\n\n\n\n\nRR = Iₑ ÷ I₀ = 28 ÷ 4 = 7: smokers have 7 times the risk\nAR = Iₑ − I₀ = 24 per 1000: the excess risk due to smoking\nAR% = (Iₑ − I₀) ÷ Iₑ × 100 = 86% of smokers’ lung cancer is preventable by not smoking",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#cohort-study-advantages-and-limitations",
+    "href": "foundations/epidemiologic-methods.html#cohort-study-advantages-and-limitations",
+    "title": "Epidemiologic Methods",
+    "section": "Cohort Study: Advantages and Limitations",
+    "text": "Cohort Study: Advantages and Limitations\n🟡 SHOULD KNOW\n\n\nAdvantages\n\nIncidence, RR and AR can be measured directly\nTemporality is clear: exposure precedes outcome\nSeveral outcomes can be studied for one exposure\nDose–response can be studied\nLittle recall bias\n\n\nLimitations\n\nLarge samples, long follow-up, high cost\nLoss to follow-up; changes in exposure or diagnostic criteria over time\nUnsuitable for rare diseases\nEthical issues when a known risk is left unaddressed\nAdministrative difficulties",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-7",
+    "href": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-7",
+    "title": "Epidemiologic Methods",
+    "section": "Practice Questions: Descriptive (Lecture 7)",
+    "text": "Practice Questions: Descriptive (Lecture 7)\nFor written practice — work through these on paper; no auto-check for this slide.\nLong Essay\n\nDefine epidemiology. Classify epidemiological study designs. Describe in detail the steps involved in a cohort study, and enumerate the advantages and disadvantages of cohort studies.\nDescribe a cohort study with a suitable example.\n\nShort Essay / Short Answer\n\nCohort study: steps and risk measurements.\nAttributable risk and population attributable risk.\n\nShort Notes\n\nRelative risk: definition and calculation.\nAttributable risk: calculation.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-7-contd.",
+    "href": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-7-contd.",
+    "title": "Epidemiologic Methods",
+    "section": "Practice Questions: Descriptive (Lecture 7, contd.)",
+    "text": "Practice Questions: Descriptive (Lecture 7, contd.)\nReasoning Type\n\nGive reasons why loss to follow-up threatens validity in cohort studies.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-10",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-10",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 10",
+    "text": "Self-Check: Question 10\n🧡 QUESTION\n\nQuestion 10\nWhich measure of association can be directly calculated from a cohort study but NOT from a case-control study?\n\nOdds Ratio\nRelative Risk\np-value\nConfidence interval",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-11",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-11",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 11",
+    "text": "Self-Check: Question 11\n🧡 QUESTION\n\nQuestion 11\nIf IE is the incidence of disease in the group exposed to a risk factor and IO the incidence in the unexposed group, then IE/IO gives the:\n\nRelative risk\nRisk ratio\nBoth of these\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-12",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-12",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 12",
+    "text": "Self-Check: Question 12\n🧡 QUESTION\n\nQuestion 12\nAttributable Risk Percent (AR%) is best described as:\n\nThe strength of an association\nThe proportion of exposed-group risk that would be eliminated if the exposure were removed\nThe same value as the odds ratio\nA measure usable only in RCTs",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-13",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-13",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 13",
+    "text": "Self-Check: Question 13\n🧡 QUESTION\n\nQuestion 13\nAnnual incidence of thromboembolism per lakh women aged 30–39 is 5.3 among oral-contraceptive users and 1.8 among non-users. The RR and AR are:\n\nRR 2.9; AR 3.5 per lakh\nRR 3.5; AR 2.9 per lakh\nRR 0.34; AR 3.5 per lakh\nRR 2.9; AR 7.1 per lakh",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-14",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-14",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 14",
+    "text": "Self-Check: Question 14\n🧡 QUESTION\n\nQuestion 14\nIn a cohort study, lung cancer incidence was 28 per 1000 among smokers and 4 per 1000 among non-smokers. The attributable risk percent (AR%) among smokers is about:\n\n14%\n24%\n86%\n700%",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-15",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-15",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 15",
+    "text": "Self-Check: Question 15\n🧡 QUESTION\n\nQuestion 15\nIn a cohort study, loss to follow-up is higher among exposed individuals who later develop the disease. This most likely introduces:\n\nRecall bias\nInformation bias\nSelection bias\nConfounding",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-16",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-16",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 16",
+    "text": "Self-Check: Question 16\n🧡 QUESTION\n\nQuestion 16\nAssertion (A): In a cohort study, incidence can be directly measured.\nReason (R): Participants are followed over time from exposure status to observe the occurrence of new outcomes.\n\nBoth A and R are true, and R is the correct explanation of A\nBoth A and R are true, but R is NOT the correct explanation of A\nA is true, R is false\nA is false, R is true",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-17",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-17",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 17",
+    "text": "Self-Check: Question 17\n🧡 QUESTION\n\nQuestion 17\nA study uses 1990 factory employment records to classify workers by asbestos exposure, then traces their mesothelioma occurrence up to 2025. This is a:\n\nProspective cohort study\nRetrospective (historical) cohort study\nCase-control study\nCross-sectional study",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#randomization-and-blinding",
+    "href": "foundations/epidemiologic-methods.html#randomization-and-blinding",
+    "title": "Epidemiologic Methods",
+    "section": "Randomization and Blinding",
+    "text": "Randomization and Blinding\n🟢 MUST KNOW\nRandomization (random allocation) gives every participant an equal chance of being in the study or control group.\n\nIt removes selection bias and balances known and unknown confounders, which is the “heart” of the RCT\nMethods: random number tables, computer generation, block or stratified randomization, with allocation concealment\n\nBlinding prevents bias from knowing who received what:\n\n\n\n\n\n\n\nType\nWho does not know the allocation\n\n\n\n\nSingle-blind\nThe participant\n\n\nDouble-blind\nThe participant and the investigator/observer\n\n\nTriple-blind\nParticipant, investigator, and the person analysing the data\n\n\n\nA placebo makes blinding possible when the control group gets no active treatment.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#types-of-randomized-controlled-trials",
+    "href": "foundations/epidemiologic-methods.html#types-of-randomized-controlled-trials",
+    "title": "Epidemiologic Methods",
+    "section": "Types of Randomized Controlled Trials",
+    "text": "Types of Randomized Controlled Trials\n🟡 SHOULD KNOW\n\n\n\n\n\n\n\nType\nPurpose / example\n\n\n\n\nClinical (therapeutic) trials\nEvaluate a drug or procedure in patients\n\n\nPreventive trials\nEvaluate a vaccine or chemoprophylaxis in healthy people at risk\n\n\nRisk-factor trials\nModify a risk factor (diet, BP) to see whether disease falls\n\n\nCessation experiments\nStop a suspected cause (e.g. smoking) and observe the effect\n\n\nTrials of etiological agents\nConfirm a suspected cause (e.g. retrolental fibroplasia and oxygen)\n\n\nEvaluation of health services\nCompare ways of delivering care (e.g. domiciliary vs sanatorium TB treatment)\n\n\n\nBy setting: field trials study healthy individuals in the community (vaccine trials). Community trials allocate whole communities (water fluoridation).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#special-trial-designs",
+    "href": "foundations/epidemiologic-methods.html#special-trial-designs",
+    "title": "Epidemiologic Methods",
+    "section": "Special Trial Designs",
+    "text": "Special Trial Designs\n🟡 SHOULD KNOW\n\nCrossover trial: each subject receives both treatments in sequence, A then B or B then A, with a washout period between them. Each person is their own control, so fewer subjects are needed. It suits chronic stable conditions but is unsuitable for curable or acute disease.\nFactorial design: two or more interventions are tested at once in all combinations (A, B, A+B, neither)\nCluster randomized trial: villages, schools or practices are randomized, not individuals\nMulticentre trial: the same protocol at several sites, to reach a large sample quickly\nNon-randomized trials:\n\nuncontrolled trials: no comparison group, as in early drug trials\nnatural experiments: Snow’s water companies, Hiroshima\nbefore-and-after studies: with or without a control group",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#vaccine-efficacy-and-number-needed-to-treat",
+    "href": "foundations/epidemiologic-methods.html#vaccine-efficacy-and-number-needed-to-treat",
+    "title": "Epidemiologic Methods",
+    "section": "Vaccine Efficacy and Number Needed to Treat",
+    "text": "Vaccine Efficacy and Number Needed to Treat\n🟢 MUST KNOW\nVaccine efficacy = (Iᵤᵥ − Iᵥ) ÷ Iᵤᵥ × 100\nTyphoid vaccine trial: 80/1000 cases in the placebo group and 20/1000 in the vaccinated group, so VE = (0.08 − 0.02) ÷ 0.08 = 75%\nNumber Needed to Treat (NNT) = 1 ÷ absolute risk difference\nDrug X vs ramipril: hypertension was controlled in 91% vs 67%. The difference is 0.24, so NNT = 1 ÷ 0.24 ≈ 4. Treating 4 patients with drug X gives one extra controlled patient compared with ramipril.\nThe lower the NNT, the more effective the intervention. The equivalent for harm is the NNH (number needed to harm).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#animal-experiments",
+    "href": "foundations/epidemiologic-methods.html#animal-experiments",
+    "title": "Epidemiologic Methods",
+    "section": "Animal Experiments",
+    "text": "Animal Experiments\n🟣 MAY KNOW\nAdvantages: conditions can be controlled. Animals can be exposed to suspected agents that could never be given to humans (e.g. carcinogens). Short life spans allow multigeneration studies. Experiments reproduce disease and help test hypotheses, vaccines and drugs.\nLimitations: results cannot always be extrapolated to humans because of species differences in susceptibility and metabolism. Some human diseases cannot be reproduced in animals. Ethical constraints and regulations (CPCSEA in India) apply, along with the “3Rs” (replace, reduce, refine).",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-8",
+    "href": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-8",
+    "title": "Epidemiologic Methods",
+    "section": "Practice Questions: Descriptive (Lecture 8)",
+    "text": "Practice Questions: Descriptive (Lecture 8)\nFor written practice — work through these on paper; no auto-check for this slide.\nLong Essay\n\nWhat is a randomized controlled trial (RCT)? Enumerate the different types of randomized controlled trials. Outline the steps involved in conducting an RCT and add a note on blinding.\n\nShort Essay / Short Answer\n\nWrite the steps involved in a randomized controlled trial (RCT).\n\nShort Notes\n\nCross-over type of study design.\nBlinding in randomized controlled trials.\nAdvantages and limitations of animal experiments.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-18",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-18",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 18",
+    "text": "Self-Check: Question 18\n🧡 QUESTION\n\nQuestion 18\nThe main strength of randomization in an RCT is that it:\n\nGuarantees a statistically significant result\nBalances known and unknown confounders between the intervention and control groups\nRemoves the need for a control group\nEliminates all information bias automatically",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-19",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-19",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 19",
+    "text": "Self-Check: Question 19\n🧡 QUESTION\n\nQuestion 19\nAnother name for randomization is:\n\nRandom sampling\nRandom allocation\nRandom error\nRandom variable",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-20",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-20",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 20",
+    "text": "Self-Check: Question 20\n🧡 QUESTION\n\nQuestion 20\nAssertion (A): Confounding can be reduced by randomization in experimental studies.\nReason (R): Randomization tends to distribute known and unknown confounders equally between groups.\n\nBoth A and R are true, and R is the correct explanation of A\nBoth A and R are true, but R is NOT the correct explanation of A\nA is true, R is false\nA is false, R is true",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-21",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-21",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 21",
+    "text": "Self-Check: Question 21\n🧡 QUESTION\n\nQuestion 21\nIn a typhoid vaccine trial, 2000 children were randomized into two groups of 1000. Over one year, 20 vaccinated and 80 placebo children developed typhoid. The vaccine efficacy is:\n\n25%\n60%\n75%\n80%",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-22",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-22",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 22",
+    "text": "Self-Check: Question 22\n🧡 QUESTION\n\nQuestion 22\nHypertension was controlled in 91% of patients given new drug X and in 67% of patients given ramipril. The number needed to treat (NNT) is about:\n\n2\n4\n24\n58",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-23",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-23",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 23",
+    "text": "Self-Check: Question 23\n🧡 QUESTION\n\nQuestion 23\nIn a triple-blind trial, the group assignment is concealed from the:\n\nParticipants only\nParticipants and the investigator assessing outcomes\nParticipants, the investigators, and the person analysing the data\nEthics committee",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-24",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-24",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 24",
+    "text": "Self-Check: Question 24\n🧡 QUESTION\n\nQuestion 24\nIn a crossover trial:\n\nEach participant receives both treatments in sequence, separated by a washout period\nWhole villages are randomized rather than individuals\nTwo interventions are tested simultaneously in all combinations\nPatients who fail on one drug are switched to the other at the doctor’s discretion",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-25",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-25",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 25",
+    "text": "Self-Check: Question 25\n🧡 QUESTION\n\nQuestion 25\nA trial in which whole communities, rather than individuals, receive the intervention (e.g. water fluoridation) is a:\n\nClinical trial\nField trial\nCommunity trial\nCrossover trial",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#from-association-to-causation",
+    "href": "foundations/epidemiologic-methods.html#from-association-to-causation",
+    "title": "Epidemiologic Methods",
+    "section": "From Association to Causation",
+    "text": "From Association to Causation\n🟢 MUST KNOW\n\n\n\nEvaluating an association for causation",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#chance-and-statistical-significance",
+    "href": "foundations/epidemiologic-methods.html#chance-and-statistical-significance",
+    "title": "Epidemiologic Methods",
+    "section": "Chance and Statistical Significance",
+    "text": "Chance and Statistical Significance\n🟡 SHOULD KNOW\n\nAny observed association may arise by chance (random error), especially in small samples\nThe p-value is the probability of a result at least this extreme if there were truly no association. Conventionally, p &lt; 0.05 counts as statistically significant.\nThe 95% confidence interval is the range likely to contain the true RR or OR. If it excludes 1, the association is significant, and a narrow CI means a precise estimate.\nRandom error is reduced by increasing sample size. Systematic error (bias) is not.\nStatistical significance ≠ clinical importance ≠ causation",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#validity-reliability-and-variation",
+    "href": "foundations/epidemiologic-methods.html#validity-reliability-and-variation",
+    "title": "Epidemiologic Methods",
+    "section": "Validity, Reliability, and Variation",
+    "text": "Validity, Reliability, and Variation\n🟡 SHOULD KNOW\n\nValidity (accuracy): measures what it is meant to measure. Internal validity means the results are true for the study subjects (free of bias, systematic error and misclassification). External validity means they generalize to the reference population.\nReliability (precision, repeatability, reproducibility, consistency): gives the same result on repetition. A test can be reliable but not valid.\n\n\n\n\n\n\n\n\nSource of variation\nExample\n\n\n\n\nIntra-subject (biological)\nBP varies through the day; basal temperature rises at ovulation\n\n\nInter-subject\nTrue differences between people, which is what we want to measure\n\n\nIntra-observer\nThe same doctor reads the same X-ray differently on two occasions\n\n\nInter-observer\nTwo radiologists disagree on the same CT scan\n\n\nInstrument / technique\nUncalibrated scale, wrong cuff size, no rest period\n\n\n\nStandardizing instruments and technique reduces observer, instrument and technique variation, but not true inter-subject differences.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#causal-criteria-bradford-hill-1965",
+    "href": "foundations/epidemiologic-methods.html#causal-criteria-bradford-hill-1965",
+    "title": "Epidemiologic Methods",
+    "section": "Causal Criteria (Bradford Hill, 1965)",
+    "text": "Causal Criteria (Bradford Hill, 1965)\n🟢 MUST KNOW\n\n\n\n\n\n\n\nCriterion\nMeaning\n\n\n\n\nTemporality\nThe cause precedes the effect. This is the only essential criterion.\n\n\nStrength\nA larger RR or OR is more likely to be causal\n\n\nConsistency\nRepeated in different studies, places and designs\n\n\nSpecificity\nOne cause, one effect (weak for multifactorial disease)\n\n\nBiological gradient\nDose–response\n\n\nPlausibility · Coherence\nFits current biological knowledge and the natural history\n\n\nExperiment\nRemoving the exposure reduces the disease\n\n\nAnalogy\nSimilar causes produce similar effects\n\n\n\nTemporality is necessary but not sufficient. Detailed discussion with Koch’s postulates is in Chapter 2.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-9",
+    "href": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-9",
+    "title": "Epidemiologic Methods",
+    "section": "Practice Questions: Descriptive (Lecture 9)",
+    "text": "Practice Questions: Descriptive (Lecture 9)\nFor written practice — work through these on paper; no auto-check for this slide.\nShort Essay / Short Answer\n\nExplain confounding with one epidemiological example and its control methods.\nDiscuss the concept of causal inference and the role of temporality.\nDifferent types of association.\nWhat is spurious association? How can it be prevented during research studies?\n\nShort Notes\n\nSpurious association.\nBradford Hill criteria of causation.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-9-contd.",
+    "href": "foundations/epidemiologic-methods.html#practice-questions-descriptive-lecture-9-contd.",
+    "title": "Epidemiologic Methods",
+    "section": "Practice Questions: Descriptive (Lecture 9, contd.)",
+    "text": "Practice Questions: Descriptive (Lecture 9, contd.)\nReasoning Type\n\nJustify why temporality is considered a mandatory criterion for causation.\nExplain how confounding can distort an observed exposure–disease association.",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-26",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-26",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 26",
+    "text": "Self-Check: Question 26\n🧡 QUESTION\n\nQuestion 26\n“Confounding” is best described as:\n\nError due to random variation in small samples\nDistortion of an observed association by a third related factor\nMisclassification of disease status\nElimination of error by increasing sample size",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-27",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-27",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 27",
+    "text": "Self-Check: Question 27\n🧡 QUESTION\n\nQuestion 27\nWhich of the following is NOT an essential characteristic of a confounding variable?\n\nIt should lie in the direct chain of causation between exposure and outcome\nIt should be related to the exposure variable\nIt should be related to the outcome variable, independent of its relationship with the exposure\nIt should be differentially distributed between the groups",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-28",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-28",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 28",
+    "text": "Self-Check: Question 28\n🧡 QUESTION\n\nQuestion 28\nWhich of the following is NOT a method of controlling confounding?\n\nRestriction\nMatching\nStratified analysis\nEnsuring use of accurate instruments",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-29",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-29",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 29",
+    "text": "Self-Check: Question 29\n🧡 QUESTION\n\nQuestion 29\nWhich method can be used to control confounding during the statistical analysis stage, after data collection is complete?\n\nRandomization\nMatching\nRestriction\nStratified analysis",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-30",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-30",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 30",
+    "text": "Self-Check: Question 30\n🧡 QUESTION\n\nQuestion 30\nWhich type of bias or distortion CAN typically still be corrected during data analysis, after the study has been conducted?\n\nSelection bias\nRecall bias\nConfounding\nInterviewer bias",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-31",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-31",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 31",
+    "text": "Self-Check: Question 31\n🧡 QUESTION\n\nQuestion 31\nGender CANNOT be a confounding variable in a study exploring the association between:\n\nTobacco smoking and lung cancer\nViral infections and diabetes mellitus\nUse of talcum powder and ovarian cancer\nHabitual physical exercise and IHD",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-32",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-32",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 32",
+    "text": "Self-Check: Question 32\n🧡 QUESTION\n\nQuestion 32\nConfounding is a form of which of the following errors?\n\nLack of internal validity (bias)\nLack of external validity\nLack of statistical precision\nLack of repeatability",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-33",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-33",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 33",
+    "text": "Self-Check: Question 33\n🧡 QUESTION\n\nQuestion 33\nAnother name for “lack of internal validity” is:\n\nBias\nSystematic error\nMisclassification\nAll of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-34",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-34",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 34",
+    "text": "Self-Check: Question 34\n🧡 QUESTION\n\nQuestion 34\nBias can be of which of the following types?\n\nSelection bias\nMeasurement bias\nBoth of these\nNone of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-35",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-35",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 35",
+    "text": "Self-Check: Question 35\n🧡 QUESTION\n\nQuestion 35\nIn assessing a cause-and-effect relationship, we exclude the role of certain factors and then evaluate the relationship against causal criteria. The correct sequence is:\n\nBias, chance, confounding, criteria of causal association\nChance, confounding, bias, criteria of causal association\nCriteria of causal association, bias, confounding, chance\nConfounding, chance, bias, criteria of causal association",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-36",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-36",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 36",
+    "text": "Self-Check: Question 36\n🧡 QUESTION\n\nQuestion 36\nIn assessing whether a cause-and-effect relationship exists between an exposure and an outcome, we ascertain that:\n\nThere is no bias\nThere is a statistically significant association\nThere is no confounding\nAll of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-37",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-37",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 37",
+    "text": "Self-Check: Question 37\n🧡 QUESTION\n\nQuestion 37\nA key criterion supporting causation rather than mere association is:\n\nLarge p-value\nTemporality (exposure precedes outcome)\nAvailability of expensive laboratory tests\nEqual prevalence in exposed and unexposed",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-38",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-38",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 38",
+    "text": "Self-Check: Question 38\n🧡 QUESTION\n\nQuestion 38\nThe essential condition that must be satisfied before considering a causal relationship is:\n\nBiological plausibility\nStrength of association\nTemporality\nConsistency",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-39",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-39",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 39",
+    "text": "Self-Check: Question 39\n🧡 QUESTION\n\nQuestion 39\nThe statement “the higher the relative risk, the more likely the association is causal” reflects which criterion of causal association?\n\nTemporality\nStrength of association\nConsistency\nBiological plausibility",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-40",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-40",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 40",
+    "text": "Self-Check: Question 40\n🧡 QUESTION\n\nQuestion 40\nA high odds ratio in a case-control study always indicates:\n\nCausation\nStrong association\nAbsence of bias\nHigh incidence",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-41",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-41",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 41",
+    "text": "Self-Check: Question 41\n🧡 QUESTION (select ALL that apply)\n\nQuestion 41\nCriteria often discussed in causal inference include:\n\nTemporality\nBiological plausibility\nAbsence of any bias in all studies\nConsistency across studies",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-42",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-42",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 42",
+    "text": "Self-Check: Question 42\n🧡 QUESTION\n\nQuestion 42\nAssertion (A): Temporality is an essential criterion for concluding causation.\nReason (R): If exposure precedes disease, the relationship must be causal.\n\nBoth A and R are true, and R is the correct explanation of A\nBoth A and R are true, but R is NOT the correct explanation of A\nA is true, R is false\nA is false, R is true",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-43",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-43",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 43",
+    "text": "Self-Check: Question 43\n🧡 QUESTION\n\nQuestion 43\nMeasuring a patient’s BP immediately after they have climbed 50 stairs to reach the clinic will result in:\n\nError of basic measurement\nBias\nConfounding\nAll of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-44",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-44",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 44",
+    "text": "Self-Check: Question 44\n🧡 QUESTION\n\nQuestion 44\nIn a hypertension survey, young men walked 2 km from the parking lot and their BP was measured immediately on arrival, without rest. This will adversely affect the:\n\nValidity\nReliability\nPrecision\nWill not adversely affect anything",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-45",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-45",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 45",
+    "text": "Self-Check: Question 45\n🧡 QUESTION\n\nQuestion 45\nThe ability of a measurement process to give consistent results when repeated is called:\n\nReliability\nReplicability\nConsistency\nAll of these",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-46",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-46",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 46",
+    "text": "Self-Check: Question 46\n🧡 QUESTION\n\nQuestion 46\nThe ability of a measurement process to correctly measure what it actually intends to measure is known as:\n\nReliability\nReproducibility\nValidity\nConsistency",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-47",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-47",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 47",
+    "text": "Self-Check: Question 47\n🧡 QUESTION\n\nQuestion 47\nA CT scan of an unconscious patient’s brain was read independently by two radiologists. One reported a mild left subthalamic bleed and the other reported it as normal. This is a situation of:\n\nSubject-related variation\nInstrument-related variation\nInterobserver variation\nTechnique-related variation",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-48",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-48",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 48",
+    "text": "Self-Check: Question 48\n🧡 QUESTION\n\nQuestion 48\nIn women, body temperature taken immediately on waking is higher at the time of ovulation. This is an example of:\n\nIntrasubject variation\nIntersubject variation\nCircadian variation\nObserver variation",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
+    ]
+  },
+  {
+    "objectID": "foundations/epidemiologic-methods.html#self-check-question-49",
+    "href": "foundations/epidemiologic-methods.html#self-check-question-49",
+    "title": "Epidemiologic Methods",
+    "section": "Self-Check: Question 49",
+    "text": "Self-Check: Question 49\n🧡 QUESTION\n\nQuestion 49\nStandardization of instruments and measurement technique will ensure all of the following, EXCEPT:\n\nValidity\nIntersubject variations\nIntrasubject variations\nInterobserver variations",
+    "crumbs": [
+      "Contents",
+      "Foundations of Health & Epidemiology",
+      "Epidemiologic Methods (CM7)"
     ]
   }
 ]
