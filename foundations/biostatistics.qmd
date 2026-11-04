@@ -181,7 +181,7 @@ same mean while looking very different in spread:
 - **Variance** — the square of the SD; used mathematically (e.g. in
   further statistical tests) more often than reported directly
 - **Coefficient of variation (CV)** — SD expressed as a percentage of
-  the mean (`CV = (SD / Mean) × 100`); allows comparing the relative
+  the mean ($\text{CV} = \dfrac{\text{SD}}{\text{Mean}} \times 100$); allows comparing the relative
   spread of two datasets measured in **different units** (e.g. comparing
   variability in height vs. weight)
 
@@ -286,7 +286,7 @@ association exists.
 
 - **Standard Error (SE)** — the standard deviation of the *sample mean*
   itself, estimating how much a sample mean would vary if the study
-  were repeated; `SE = SD / √n` — **SE shrinks as sample size grows**,
+  were repeated; $\text{SE} = \dfrac{\text{SD}}{\sqrt{n}}$ — **SE shrinks as sample size grows**,
   unlike SD, which describes spread within a single sample and doesn't
   shrink with larger n
 - **Confidence interval (CI)** — a range, calculated from the sample
@@ -340,7 +340,7 @@ whether the observed distribution across categories differs from what
 would be expected by chance — e.g. is disease frequency associated with
 exposure status, when both are categorical (present/absent)?
 
-`χ² = Σ [(Observed − Expected)² / Expected]`
+$$\chi^2 = \sum \dfrac{(\text{Observed} - \text{Expected})^2}{\text{Expected}}$$
 
 **Why it's the categorical counterpart to the t-test:** the t-test
 needs continuous data with means to compare; chi-square instead compares

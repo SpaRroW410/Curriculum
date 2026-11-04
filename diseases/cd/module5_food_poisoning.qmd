@@ -129,7 +129,7 @@ unconscious patient needs IV therapy first, not oral rehydration alone.
 
 The single most important intervention for acute watery diarrhoea:
 
-`ORS required (first 4 hours) = body weight (kg) × 75 mL/kg`
+$$\text{ORS in the first 4 hours (mL)} = \text{Body weight (kg)} \times 75$$
 
 - Give **as much ORS as the patient wants**, monitoring for continued
   dehydration signs

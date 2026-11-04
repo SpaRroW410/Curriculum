@@ -204,11 +204,11 @@
 <p>🟢 <strong>MUST KNOW</strong></p>
 <div class="quarto-figure quarto-figure-center">
 <figure>
-<p><img data-src="../images/epidemiology/case_control_design.svg" class="slide-img" width="840"></p>
+<p><img data-src="../images/epidemiology/case_control_design.svg" class="slide-img" width="800"></p>
 <figcaption>Case-control design</figcaption>
 </figure>
 </div>
-<p><code>OR = ad / bc</code>. It proceeds from <strong>effect to cause</strong> (retrospective). Exposure is always measured <em>after</em> the disease has occurred. It is also called a <strong>“trohoc” study</strong> (“cohort” spelt backwards).</p>
+<p>Odds ratio <span class="math inline">\(= \dfrac{ad}{bc}\)</span>. It proceeds from <strong>effect to cause</strong> (retrospective). Exposure is always measured <em>after</em> the disease has occurred. It is also called a <strong>“trohoc” study</strong> (“cohort” spelt backwards).</p>
 </section>
 <section id="basic-steps-of-a-case-control-study" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Basic Steps of a Case-Control Study</h2>
@@ -223,7 +223,7 @@
 <li><strong>Measurement of exposure</strong>: the same method for cases and controls (interview, records), with blinding where possible</li>
 <li><strong>Analysis</strong>: exposure rates among cases and controls, then the <strong>odds ratio</strong></li>
 </ol>
-<p><code>OR = (a × d) ÷ (b × c)</code></p>
+<p><span class="math display">\[\text{Odds ratio} = \dfrac{a \times d}{b \times c}\]</span></p>
 <p><strong>Rare-disease assumption:</strong> when the disease is uncommon, OR ≈ RR.</p>
 </section>
 <section id="case-scenario-planning-a-breast-cancer-study" class="slide level2 center" data-background-color="#FDE8E8">
@@ -287,7 +287,7 @@
 </table>
 <ul>
 <li>Exposure in cases = 80% and in controls = 40%</li>
-<li><code>OR = (80 × 60) ÷ (40 × 20) = 6.0</code></li>
+<li><span class="math inline">\(\text{OR} = \dfrac{80 \times 60}{40 \times 20} = \mathbf{6.0}\)</span></li>
 <li><strong>Interpretation:</strong> cases had <strong>six times</strong> the odds of having chewed tobacco compared with controls. Oral cancer is rare, so tobacco chewers have roughly six times the risk.</li>
 </ul>
 </section>
@@ -850,9 +850,9 @@
 </tbody>
 </table>
 <ul>
-<li><strong>RR</strong> = Iₑ ÷ I₀ = 28 ÷ 4 = <strong>7</strong>: smokers have 7 times the risk</li>
+<li><strong>RR</strong> <span class="math inline">\(= \dfrac{I_e}{I_0} = \dfrac{28}{4} = \mathbf{7}\)</span>: smokers have 7 times the risk</li>
 <li><strong>AR</strong> = Iₑ − I₀ = <strong>24 per 1000</strong>: the excess risk due to smoking</li>
-<li><strong>AR%</strong> = (Iₑ − I₀) ÷ Iₑ × 100 = <strong>86%</strong> of smokers’ lung cancer is preventable by not smoking</li>
+<li><strong>AR%</strong> <span class="math inline">\(= \dfrac{I_e - I_0}{I_e} \times 100 = \dfrac{24}{28} \times 100 = \mathbf{86\%}\)</span> of smokers’ lung cancer is preventable</li>
 </ul>
 </section>
 <section id="case-scenario-tobacco-use-in-pregnancy" class="slide level2 center" data-background-color="#FDE8E8">
@@ -879,9 +879,9 @@
 <h2>Attributable Risk</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
 <p><strong>Attributable Risk (AR)</strong> is the excess risk in the exposed group that is due to the exposure, i.e.&nbsp;the risk difference:</p>
-<p><code>AR = Iₑ − I₀</code> · <code>AR% = (Iₑ − I₀) ÷ Iₑ × 100</code></p>
+<p><span class="math display">\[\text{AR} = I_e - I_0 \qquad \text{AR\%} = \dfrac{I_e - I_0}{I_e} \times 100\]</span></p>
 <p><strong>Population Attributable Risk (PAR)</strong> is the excess risk in the <em>total population</em> due to the exposure:</p>
-<p><code>PAR = I(total) − I₀</code> · <code>PAR% = (I(total) − I₀) ÷ I(total) × 100</code></p>
+<p><span class="math display">\[\text{PAR} = I_t - I_0 \qquad \text{PAR\%} = \dfrac{I_t - I_0}{I_t} \times 100\]</span></p>
 <ul>
 <li><strong>RR</strong> tells you the <em>strength</em> of an association, which is useful for causal inference</li>
 <li><strong>AR / AR%</strong> tell you the impact on the <em>exposed</em></li>
@@ -1571,10 +1571,10 @@
 <section id="vaccine-efficacy-and-number-needed-to-treat" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Vaccine Efficacy and Number Needed to Treat</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
-<p><strong>Vaccine efficacy</strong> = (Iᵤᵥ − Iᵥ) ÷ Iᵤᵥ × 100</p>
-<p><em>Typhoid vaccine trial:</em> 80/1000 cases in the placebo group and 20/1000 in the vaccinated group, so VE = (0.08 − 0.02) ÷ 0.08 = <strong>75%</strong></p>
-<p><strong>Number Needed to Treat (NNT)</strong> = 1 ÷ absolute risk difference</p>
-<p><em>Drug X vs ramipril:</em> hypertension was controlled in 91% vs 67%. The difference is 0.24, so NNT = 1 ÷ 0.24 ≈ <strong>4</strong>. Treating 4 patients with drug X gives one extra controlled patient compared with ramipril.</p>
+<p><span class="math display">\[\text{Vaccine efficacy} = \dfrac{I_{uv} - I_{v}}{I_{uv}} \times 100\]</span></p>
+<p><em>Typhoid vaccine trial:</em> 80/1000 cases in the placebo group and 20/1000 in the vaccinated group, so <span class="math inline">\(\text{VE} = \dfrac{0.08 - 0.02}{0.08} \times 100 = \mathbf{75\%}\)</span></p>
+<p><span class="math display">\[\text{NNT} = \dfrac{1}{\text{Absolute risk difference}}\]</span></p>
+<p><em>Drug X vs ramipril:</em> hypertension was controlled in 91% vs 67%. The difference is 0.24, so <span class="math inline">\(\text{NNT} = \dfrac{1}{0.24} \approx \mathbf{4}\)</span>. Treating 4 patients with drug X gives one extra controlled patient compared with ramipril.</p>
 <p>The lower the NNT, the more effective the intervention. The equivalent for harm is the <strong>NNH</strong> (number needed to harm).</p>
 </section>
 <section id="case-scenario-two-ways-to-do-a-bypass" class="slide level2 center" data-background-color="#FDE8E8">

@@ -60,6 +60,29 @@
   font-size: 1.1em;
 }
 
+/* Inline code in slide text (formulas, timelines, ICD codes). The Quarto
+   revealjs theme loads after this file and sets `.reveal code { color:
+   var(--quarto-hl-fu-color) }`, which left dark blue text on the dark
+   background above. These selectors are more specific, so they win:
+   dark text on a light chip. Code blocks (pre code) keep the dark style. */
+.reveal .slides p code,
+.reveal .slides li code,
+.reveal .slides td code,
+.reveal .slides th code {
+  background-color: #FFFDF6;
+  color: #1f2d3d;
+  border: 1px solid #c9b98a;
+  border-radius: 4px;
+  padding: 0.05em 0.35em;
+  font-size: 0.9em;
+  white-space: normal;
+}
+
+/* Display equations (MathJax) */
+.reveal .slides mjx-container[display="true"] {
+  margin: 0.4em 0;
+}
+
 .reveal pre {
   margin-bottom: 1.5em;
 }

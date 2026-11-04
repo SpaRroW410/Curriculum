@@ -131,7 +131,7 @@ contrast).
 Because daylight intensity constantly changes, it's measured relative to
 outdoor conditions using the **Daylight Factor (DF)**:
 
-`DF = (Indoor illumination / Simultaneous outdoor illumination) × 100`
+$$\text{Daylight factor (DF)} = \dfrac{\text{Indoor illumination}}{\text{Simultaneous outdoor illumination}} \times 100$$
 
 Recommended minimum: **8% in living rooms, 10% in kitchens**.
 

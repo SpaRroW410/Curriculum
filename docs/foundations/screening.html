@@ -522,18 +522,18 @@
 <h2>Sensitivity and Specificity</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
 <p><strong>Sensitivity</strong> is the ability to correctly identify those who <strong>have</strong> the disease (the true-positive rate):</p>
-<p><code>Sensitivity = a / (a + c) × 100</code> · <code>False-negative rate = c / (a + c) = 1 − sensitivity</code></p>
+<p><span class="math display">\[\text{Sensitivity} = \dfrac{a\ (TP)}{a + c\ (\text{all diseased})} \times 100 \qquad \text{FN rate} = \dfrac{c}{a + c} = 1 - \text{sensitivity}\]</span></p>
 <p><strong>Specificity</strong> is the ability to correctly identify those who <strong>do not have</strong> the disease (the true-negative rate):</p>
-<p><code>Specificity = d / (b + d) × 100</code> · <code>False-positive rate = b / (b + d) = 1 − specificity</code></p>
+<p><span class="math display">\[\text{Specificity} = \dfrac{d\ (TN)}{b + d\ (\text{all non-diseased})} \times 100 \qquad \text{FP rate} = \dfrac{b}{b + d} = 1 - \text{specificity}\]</span></p>
 <p>Both are properties of the <strong>test itself</strong> and do <strong>not</strong> depend on prevalence. A highly sensitive test, when negative, rules disease out (<strong>SnNout</strong>). A highly specific test, when positive, rules disease in (<strong>SpPin</strong>).</p>
 </section>
 <section id="predictive-values" class="slide level2 center" data-background-color="#E3F2E1">
 <h2>Predictive Values</h2>
 <p>🟢 <strong>MUST KNOW</strong></p>
 <p><strong>Positive Predictive Value (PPV)</strong>: given a positive test, the probability that the person really has the disease:</p>
-<p><code>PPV = a / (a + b) × 100</code></p>
+<p><span class="math display">\[\text{PPV} = \dfrac{a\ (TP)}{a + b\ (\text{all test positives})} \times 100\]</span></p>
 <p><strong>Negative Predictive Value (NPV)</strong>: given a negative test, the probability that the person is really disease-free:</p>
-<p><code>NPV = d / (c + d) × 100</code></p>
+<p><span class="math display">\[\text{NPV} = \dfrac{d\ (TN)}{c + d\ (\text{all test negatives})} \times 100\]</span></p>
 <p>Unlike sensitivity and specificity, predictive values <strong>depend on prevalence</strong>. The same test gives a lower PPV and a higher NPV in a low-prevalence population.</p>
 </section>
 <section id="worked-example-evaluating-a-test" class="slide level2 center" data-background-color="#E3F2E1">
@@ -733,7 +733,7 @@
 <li>The <strong>ROC curve</strong> plots sensitivity against (1 − specificity) for every cut-off. A larger area under the curve means a better test.</li>
 </ul>
 <p><strong>Likelihood ratios</strong> do not depend on prevalence:</p>
-<p><code>LR+ = Sensitivity ÷ (1 − Specificity)</code> · <code>LR− = (1 − Sensitivity) ÷ Specificity</code></p>
+<p><span class="math display">\[\text{LR+} = \dfrac{\text{Sensitivity}}{1 - \text{Specificity}} \qquad \text{LR−} = \dfrac{1 - \text{Sensitivity}}{\text{Specificity}}\]</span></p>
 <p>An LR+ above 10 strongly rules disease in, and an LR− below 0.1 strongly rules it out. <strong>Youden index</strong> = sensitivity + specificity − 1.</p>
 <p><strong>Use the test to fit the setting:</strong> a COVID rapid antigen test (high specificity, moderate sensitivity) suits diagnosis in <em>symptomatic</em> people, where prevalence and PPV are high.</p>
 </section>
