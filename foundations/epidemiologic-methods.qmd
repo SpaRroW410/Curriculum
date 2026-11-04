@@ -73,9 +73,9 @@ Relative risk, odds ratio and attributable risk are all calculated from these fo
 
 🟢 **MUST KNOW**
 
-![Case-control design](../images/epidemiology/case_control_design.svg){.slide-img .nostretch width="840px"}
+![Case-control design](../images/epidemiology/case_control_design.svg){.slide-img .nostretch width="800px"}
 
-`OR = ad / bc`. It proceeds from **effect to cause** (retrospective). Exposure is always measured *after* the disease has occurred. It is also called a **"trohoc" study** ("cohort" spelt backwards).
+Odds ratio $= \dfrac{ad}{bc}$. It proceeds from **effect to cause** (retrospective). Exposure is always measured *after* the disease has occurred. It is also called a **"trohoc" study** ("cohort" spelt backwards).
 
 ---
 
@@ -90,7 +90,7 @@ Relative risk, odds ratio and attributable risk are all calculated from these fo
 3. **Measurement of exposure**: the same method for cases and controls (interview, records), with blinding where possible
 4. **Analysis**: exposure rates among cases and controls, then the **odds ratio**
 
-`OR = (a × d) ÷ (b × c)`
+$$\text{Odds ratio} = \dfrac{a \times d}{b \times c}$$
 
 **Rare-disease assumption:** when the disease is uncommon, OR ≈ RR.
 
@@ -146,7 +146,7 @@ A study of tobacco chewing and oral cancer (100 cases, 100 controls):
 | **Total** | 100 | 100 |
 
 - Exposure in cases = 80% and in controls = 40%
-- `OR = (80 × 60) ÷ (40 × 20) = 6.0`
+- $\text{OR} = \dfrac{80 \times 60}{40 \times 20} = \mathbf{6.0}$
 - **Interpretation:** cases had **six times** the odds of having chewed tobacco compared with controls. Oral cancer is rare, so tobacco chewers have roughly six times the risk.
 
 
@@ -713,9 +713,9 @@ Lung cancer over 10 years in 10,000 smokers and 10,000 non-smokers:
 | **Smokers** | 280 | 9,720 | 10,000 | Iₑ = 28 per 1000 |
 | **Non-smokers** | 40 | 9,960 | 10,000 | I₀ = 4 per 1000 |
 
-- **RR** = Iₑ ÷ I₀ = 28 ÷ 4 = **7**: smokers have 7 times the risk
+- **RR** $= \dfrac{I_e}{I_0} = \dfrac{28}{4} = \mathbf{7}$: smokers have 7 times the risk
 - **AR** = Iₑ − I₀ = **24 per 1000**: the excess risk due to smoking
-- **AR%** = (Iₑ − I₀) ÷ Iₑ × 100 = **86%** of smokers' lung cancer is preventable by not smoking
+- **AR%** $= \dfrac{I_e - I_0}{I_e} \times 100 = \dfrac{24}{28} \times 100 = \mathbf{86\%}$ of smokers' lung cancer is preventable
 
 
 ---
@@ -749,11 +749,11 @@ Lung cancer over 10 years in 10,000 smokers and 10,000 non-smokers:
 
 **Attributable Risk (AR)** is the excess risk in the exposed group that is due to the exposure, i.e. the risk difference:
 
-`AR = Iₑ − I₀`  ·  `AR% = (Iₑ − I₀) ÷ Iₑ × 100`
+$$\text{AR} = I_e - I_0 \qquad \text{AR\%} = \dfrac{I_e - I_0}{I_e} \times 100$$
 
 **Population Attributable Risk (PAR)** is the excess risk in the *total population* due to the exposure:
 
-`PAR = I(total) − I₀`  ·  `PAR% = (I(total) − I₀) ÷ I(total) × 100`
+$$\text{PAR} = I_t - I_0 \qquad \text{PAR\%} = \dfrac{I_t - I_0}{I_t} \times 100$$
 
 - **RR** tells you the *strength* of an association, which is useful for causal inference
 - **AR / AR%** tell you the impact on the *exposed*
@@ -1389,13 +1389,13 @@ Thalidomide (phocomelia) and rofecoxib (cardiovascular events) were withdrawn af
 
 🟢 **MUST KNOW**
 
-**Vaccine efficacy** = (Iᵤᵥ − Iᵥ) ÷ Iᵤᵥ × 100
+$$\text{Vaccine efficacy} = \dfrac{I_{uv} - I_{v}}{I_{uv}} \times 100$$
 
-*Typhoid vaccine trial:* 80/1000 cases in the placebo group and 20/1000 in the vaccinated group, so VE = (0.08 − 0.02) ÷ 0.08 = **75%**
+*Typhoid vaccine trial:* 80/1000 cases in the placebo group and 20/1000 in the vaccinated group, so $\text{VE} = \dfrac{0.08 - 0.02}{0.08} \times 100 = \mathbf{75\%}$
 
-**Number Needed to Treat (NNT)** = 1 ÷ absolute risk difference
+$$\text{NNT} = \dfrac{1}{\text{Absolute risk difference}}$$
 
-*Drug X vs ramipril:* hypertension was controlled in 91% vs 67%. The difference is 0.24, so NNT = 1 ÷ 0.24 ≈ **4**. Treating 4 patients with drug X gives one extra controlled patient compared with ramipril.
+*Drug X vs ramipril:* hypertension was controlled in 91% vs 67%. The difference is 0.24, so $\text{NNT} = \dfrac{1}{0.24} \approx \mathbf{4}$. Treating 4 patients with drug X gives one extra controlled patient compared with ramipril.
 
 The lower the NNT, the more effective the intervention. The equivalent for harm is the **NNH** (number needed to harm).
 

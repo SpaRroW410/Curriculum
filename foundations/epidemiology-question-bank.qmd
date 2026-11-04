@@ -18,7 +18,7 @@ A written companion to the four decks that carry the 15 CM7 lectures:
 Questions are organized by lecture. Descriptive questions (long essay, short
 essay, short notes, reasoning, case scenario) are for written practice.
 MCQs (single best answer, multiple correct, assertion–reason) are followed
-by a lettered answer key. Try them before checking. The same 285 MCQs
+by a lettered answer key. Try them before checking. The same 287 MCQs
 appear as interactive Self-Check slides at the end of each lecture in
 the decks.
 
@@ -238,14 +238,19 @@ false, R is true.
 8. Life table.
 9. Survival curve and median survival.
 
+**Short Notes (additional)**
+
+10. Specific death rate vs case fatality rate: choosing the population at risk.
+
 **In-Lecture Case Scenarios (model answers below the MCQ key)**
 
-10. *Dengue in a District.* A district (mid-year population 2,00,000) recorded 1,400 deaths last year. The district hospital admitted 400 dengue cases, of whom 8 died. Two more dengue deaths occurred at home (10 dengue deaths in all).
+11. *Dengue in a District.* A district (mid-year population 2,00,000) recorded 1,400 deaths last year. The district hospital admitted 400 dengue cases, of whom 8 died. Two more dengue deaths occurred at home (10 dengue deaths in all).
 
     a. Calculate the crude death rate.
     b. Calculate the case fatality rate of dengue among admitted cases.
     c. Calculate the proportional mortality rate for dengue.
-    d. Which measure tells you how severe dengue is? Does a PMR tell you the risk of dying of dengue?
+    d. Calculate the dengue-specific death rate.
+    e. Which measure tells you how severe dengue is? Does a PMR tell you the risk of dying of dengue?
 
 ### Multiple Choice Questions
 
@@ -300,28 +305,42 @@ false, R is true.
    c. Case fatality rate
    d. Life expectancy at birth
 
+8. A town of 50,000 has 800 TB cases and 40 TB deaths in a year. The TB-specific death rate is:
+
+   a. 5%
+   b. 80 per lakh population
+   c. 10% of deaths
+   d. 0.05 per 1000
+
+9. The correct denominator for the cervical-cancer death rate of a district is the:
+
+   a. Total mid-year population
+   b. Number of cervical-cancer cases
+   c. Female population (at risk) of the district
+   d. Total deaths in the district
+
 **B. Multiple Correct Answer (MCMA) — select all that apply**
 
-8. Measures of mortality commonly used in public health include:
+10. Measures of mortality commonly used in public health include:
 
-   a. Attack rate
-   b. Infant mortality rate
-   c. Crude death rate
-   d. Maternal mortality ratio
+    a. Attack rate
+    b. Infant mortality rate
+    c. Crude death rate
+    d. Maternal mortality ratio
 
 **C. Assertion–Reason (A-R)**
 
-9. **Assertion (A):** Case fatality rate is a useful indicator of disease severity. **Reason (R):** It measures the total deaths in the population irrespective of disease.
+11. **Assertion (A):** Case fatality rate is a useful indicator of disease severity. **Reason (R):** It measures the total deaths in the population irrespective of disease.
 
-   a. Both A and R are true, and R is the correct explanation of A
-   b. Both A and R are true, but R is NOT the correct explanation of A
-   c. A is true, R is false
-   d. A is false, R is true
+    a. Both A and R are true, and R is the correct explanation of A
+    b. Both A and R are true, but R is NOT the correct explanation of A
+    c. A is true, R is false
+    d. A is false, R is true
 
 ### Answers
 
-**MCQs:** 1-c, 2-b, 3-b, 4-a, 5-c, 6-b, 7-b, 8-bcd\
-9-c
+**MCQs:** 1-c, 2-b, 3-b, 4-a, 5-c, 6-b, 7-b, 8-b\
+9-c, 10-bcd, 11-c
 
 **Case scenario model answers:**
 
@@ -330,6 +349,7 @@ false, R is true.
 - **CDR** = 1,400 ÷ 2,00,000 × 1,000 = **7 per 1,000** population
 - **CFR** = 8 ÷ 400 × 100 = **2%** of admitted cases died
 - **PMR** = 10 ÷ 1,400 × 100 ≈ **0.7%** of all deaths were due to dengue
+- **Dengue-specific death rate** = 10 ÷ 2,00,000 (population at risk) × 1,00,000 = **5 per lakh**. Compare the CFR of 2%: same numerator, different denominator.
 - **CFR** measures severity (killing power). **PMR** is only a share of deaths: it would rise if other deaths fell, even with unchanged dengue risk.
 
 ------------------------------------------------------------------------

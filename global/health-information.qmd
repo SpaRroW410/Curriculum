@@ -79,9 +79,9 @@ The most basic vital statistics rates, both drawn from the CRS/SRS
 sources above, and the starting point before the more specific mortality
 indicators that follow:
 
-`Crude Birth Rate (CBR) = (Live births in a year / Mid-year population) × 1,000`
+$$\text{Crude Birth Rate (CBR)} = \dfrac{\text{Live births in a year}}{\text{Mid-year population}} \times 1000$$
 
-`Crude Death Rate (CDR) = (Deaths in a year / Mid-year population) × 1,000`
+$$\text{Crude Death Rate (CDR)} = \dfrac{\text{Deaths in a year}}{\text{Mid-year population}} \times 1000$$
 
 **Why "crude":** both rates use the **total** population as the
 denominator, without adjusting for age structure — a population with

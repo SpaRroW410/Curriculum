@@ -166,7 +166,7 @@ targeted.
 | Property | Meaning | Measured by |
 |---|---|---|
 | **Infectivity** | Ability to enter, survive and multiply in a host | Secondary attack rate, infection rate |
-| **Pathogenicity** | Ability to produce **clinical disease** in those infected | Clinical cases ÷ all infections |
+| **Pathogenicity** | Ability to produce **clinical disease** in those infected | $\dfrac{\text{Clinical cases}}{\text{All infections}}$ |
 | **Virulence** | **Severity** of the disease produced | **Case fatality rate** |
 
 - **Measles**: high infectivity and pathogenicity, low virulence (except in the malnourished)
@@ -302,10 +302,10 @@ A diagnosed case is usually isolated. An unrecognized chronic carrier keeps tran
 
 **Secondary Attack Rate (SAR)** measures how contagious a disease is within a close-contact group after exposure to a primary case:
 
-`SAR = (New cases among contacts within one incubation period / Total susceptible contacts) × 100`
+$$\text{SAR} = \dfrac{\text{New cases among contacts within one incubation period}}{\text{Total susceptible contacts}} \times 100$$
 
 - **Exclude** the primary case and contacts who are immune (by immunization or past attack) from the denominator
-- **Worked example:** a household of 6 has 1 primary measles case and 1 immune member, leaving 4 susceptibles. 2 develop measles within one incubation period, so SAR = 2/4 = **50%**.
+- **Worked example:** a household of 6 has 1 primary measles case and 1 immune member, leaving 4 susceptibles. 2 develop measles within one incubation period, so $\text{SAR} = \dfrac{2}{4} \times 100 = \mathbf{50\%}$.
 
 
 ---
@@ -555,7 +555,7 @@ Poliovirus produces paralysis in less than 1% of those it infects. This reflects
 
 **Herd immunity threshold (HIT):**
 
-`HIT = 1 − (1 / R₀)`
+$$\text{HIT} = 1 - \dfrac{1}{R_0}$$
 
 **Example:** a disease with R₀ = 3 needs about 67% of the population immune, and measles (R₀ about 15) needs more than 90%.
 

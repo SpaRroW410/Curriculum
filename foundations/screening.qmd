@@ -369,11 +369,11 @@ All the validity measures on the next slides come from this table.
 
 **Sensitivity** is the ability to correctly identify those who **have** the disease (the true-positive rate):
 
-`Sensitivity = a / (a + c) × 100`  ·  `False-negative rate = c / (a + c) = 1 − sensitivity`
+$$\text{Sensitivity} = \dfrac{a\ (TP)}{a + c\ (\text{all diseased})} \times 100 \qquad \text{FN rate} = \dfrac{c}{a + c} = 1 - \text{sensitivity}$$
 
 **Specificity** is the ability to correctly identify those who **do not have** the disease (the true-negative rate):
 
-`Specificity = d / (b + d) × 100`  ·  `False-positive rate = b / (b + d) = 1 − specificity`
+$$\text{Specificity} = \dfrac{d\ (TN)}{b + d\ (\text{all non-diseased})} \times 100 \qquad \text{FP rate} = \dfrac{b}{b + d} = 1 - \text{specificity}$$
 
 Both are properties of the **test itself** and do **not** depend on prevalence. A highly sensitive test, when negative, rules disease out (**SnNout**). A highly specific test, when positive, rules disease in (**SpPin**).
 
@@ -385,11 +385,11 @@ Both are properties of the **test itself** and do **not** depend on prevalence. 
 
 **Positive Predictive Value (PPV)**: given a positive test, the probability that the person really has the disease:
 
-`PPV = a / (a + b) × 100`
+$$\text{PPV} = \dfrac{a\ (TP)}{a + b\ (\text{all test positives})} \times 100$$
 
 **Negative Predictive Value (NPV)**: given a negative test, the probability that the person is really disease-free:
 
-`NPV = d / (c + d) × 100`
+$$\text{NPV} = \dfrac{d\ (TN)}{c + d\ (\text{all test negatives})} \times 100$$
 
 Unlike sensitivity and specificity, predictive values **depend on prevalence**. The same test gives a lower PPV and a higher NPV in a low-prevalence population.
 
@@ -490,7 +490,7 @@ A single HIV ELISA has **sensitivity 99.5%** and **specificity 99.8%**. It is us
 
 **Likelihood ratios** do not depend on prevalence:
 
-`LR+ = Sensitivity ÷ (1 − Specificity)`  ·  `LR− = (1 − Sensitivity) ÷ Specificity`
+$$\text{LR+} = \dfrac{\text{Sensitivity}}{1 - \text{Specificity}} \qquad \text{LR−} = \dfrac{1 - \text{Sensitivity}}{\text{Specificity}}$$
 
 An LR+ above 10 strongly rules disease in, and an LR− below 0.1 strongly rules it out. **Youden index** = sensitivity + specificity − 1.
 
